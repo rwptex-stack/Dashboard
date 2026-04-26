@@ -1,0 +1,545 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>My Dashboard</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0f0f0f;
+    --surface: #1a1a1a;
+    --surface2: #222222;
+    --border: #2e2e2e;
+    --accent: #c9a84c;
+    --accent2: #e8c97a;
+    --text: #f0ede8;
+    --text-muted: #888;
+    --danger: #c0392b;
+    --success: #27ae60;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'DM Sans', sans-serif;
+    min-height: 100vh;
+    padding: 32px 24px;
+  }
+  header {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  header h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 2.4rem;
+    color: var(--accent);
+    letter-spacing: 0.04em;
+  }
+  header p {
+    color: var(--text-muted);
+    font-size: 0.85rem;
+    margin-top: 6px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+  .btn-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 14px;
+    max-width: 560px;
+    margin: 0 auto 32px;
+  }
+  .btn {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    color: var(--text);
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.9rem;
+    font-weight: 500;
+    padding: 18px 16px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+    letter-spacing: 0.03em;
+  }
+  .btn:hover {
+    background: var(--surface2);
+    border-color: var(--accent);
+    color: var(--accent);
+    transform: translateY(-2px);
+  }
+  .btn .icon { font-size: 1.5rem; }
+  .btn.danger:hover { border-color: var(--danger); color: var(--danger); }
+  .btn.wide { grid-column: span 2; }
+  .output-box {
+    max-width: 560px;
+    margin: 0 auto;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 24px;
+    min-height: 100px;
+    display: none;
+  }
+  .output-box.visible { display: block; }
+  .output-box h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.2rem;
+    color: var(--accent);
+    margin-bottom: 16px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid var(--border);
+  }
+  .loading {
+    color: var(--text-muted);
+    font-size: 0.9rem;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .spinner {
+    width: 16px; height: 16px;
+    border: 2px solid var(--border);
+    border-top-color: var(--accent);
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+    flex-shrink: 0;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  .event-item {
+    padding: 12px 0;
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    gap: 14px;
+    align-items: flex-start;
+  }
+  .event-item:last-child { border-bottom: none; }
+  .event-dot {
+    width: 8px; height: 8px;
+    border-radius: 50%;
+    background: var(--accent);
+    margin-top: 6px;
+    flex-shrink: 0;
+  }
+  .event-dot.wife { background: #7eb8d4; }
+  .event-title { font-weight: 500; font-size: 0.95rem; }
+  .event-time { color: var(--text-muted); font-size: 0.8rem; margin-top: 2px; }
+  .event-owner { font-size: 0.75rem; color: var(--text-muted); margin-top: 2px; font-style: italic; }
+  .email-item {
+    padding: 12px 0;
+    border-bottom: 1px solid var(--border);
+    cursor: pointer;
+  }
+  .email-item:last-child { border-bottom: none; }
+  .email-from { font-weight: 500; font-size: 0.9rem; }
+  .email-subject { font-size: 0.85rem; color: var(--text-muted); margin-top: 3px; }
+  .email-date { font-size: 0.75rem; color: var(--text-muted); margin-top: 3px; }
+  .email-actions { display: flex; gap: 8px; margin-top: 8px; }
+  .email-btn {
+    font-size: 0.75rem;
+    padding: 4px 10px;
+    border-radius: 4px;
+    border: 1px solid var(--border);
+    background: transparent;
+    color: var(--text-muted);
+    cursor: pointer;
+    font-family: 'DM Sans', sans-serif;
+    transition: all 0.15s;
+  }
+  .email-btn:hover { border-color: var(--accent); color: var(--accent); }
+  .email-btn.del:hover { border-color: var(--danger); color: var(--danger); }
+  .legend {
+    display: flex;
+    gap: 16px;
+    margin-bottom: 16px;
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    align-items: center;
+  }
+  .legend-dot { width: 8px; height: 8px; border-radius: 50%; display: inline-block; margin-right: 4px; }
+  /* Add event form */
+  .form-group { margin-bottom: 14px; }
+  .form-group label { display: block; font-size: 0.8rem; color: var(--text-muted); margin-bottom: 5px; text-transform: uppercase; letter-spacing: 0.06em; }
+  .form-group input, .form-group select {
+    width: 100%;
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    color: var(--text);
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.9rem;
+    padding: 10px 12px;
+    outline: none;
+    transition: border-color 0.2s;
+  }
+  .form-group input:focus, .form-group select:focus { border-color: var(--accent); }
+  .form-group select option { background: var(--surface2); }
+  .submit-btn {
+    width: 100%;
+    background: var(--accent);
+    color: #0f0f0f;
+    border: none;
+    border-radius: 6px;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 600;
+    font-size: 0.9rem;
+    padding: 12px;
+    cursor: pointer;
+    transition: background 0.2s;
+    margin-top: 4px;
+  }
+  .submit-btn:hover { background: var(--accent2); }
+  .no-events { color: var(--text-muted); font-size: 0.9rem; font-style: italic; }
+  .error-msg { color: #e74c3c; font-size: 0.85rem; }
+  .success-msg { color: var(--success); font-size: 0.85rem; }
+  #auth-section {
+    max-width: 560px;
+    margin: 0 auto 28px;
+    background: var(--surface);
+    border: 1px solid var(--accent);
+    border-radius: 10px;
+    padding: 20px 24px;
+    display: none;
+  }
+  #auth-section.visible { display: block; }
+  #auth-section p { font-size: 0.9rem; color: var(--text-muted); margin-bottom: 14px; }
+  #sign-in-btn {
+    background: var(--accent);
+    color: #0f0f0f;
+    border: none;
+    border-radius: 6px;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 600;
+    font-size: 0.9rem;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background 0.2s;
+  }
+  #sign-in-btn:hover { background: var(--accent2); }
+  #auth-status { font-size: 0.8rem; color: var(--text-muted); margin-top: 10px; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>My Dashboard</h1>
+  <p>Calendar &amp; Email at a glance</p>
+</header>
+
+<div id="auth-section">
+  <p>Sign in with Google to access your Calendar and Gmail.</p>
+  <button id="sign-in-btn" onclick="handleSignIn()">Sign in with Google</button>
+  <div id="auth-status"></div>
+</div>
+
+<div class="btn-grid">
+  <button class="btn" onclick="getTodayCalendar()">
+    <span class="icon">📅</span>Today's Calendar
+  </button>
+  <button class="btn" onclick="getWeekCalendar()">
+    <span class="icon">🗓️</span>This Week
+  </button>
+  <button class="btn" onclick="checkEmails()">
+    <span class="icon">📬</span>Check Emails
+  </button>
+  <button class="btn" onclick="showAddEvent()">
+    <span class="icon">➕</span>Add Event
+  </button>
+  <button class="btn danger wide" onclick="showDeleteEmails()">
+    <span class="icon">🗑️</span>Delete Emails
+  </button>
+</div>
+
+<div class="output-box" id="output">
+  <h2 id="output-title">Results</h2>
+  <div id="output-content"></div>
+</div>
+
+<!-- Google Identity Services -->
+<script src="https://accounts.google.com/gsi/client" async defer></script>
+<script>
+  const ANTHROPIC_KEY = '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';
+  const GOOGLE_CLIENT_ID = '131656481327-d7o8c49e8bvvnksg73e418okoi3eaupq.apps.googleusercontent.com';
+  const WIFE_CALENDAR = 'daptex48@gmail.com';
+  const SCOPES = 'https://www.googleapis.com/auth/calendar https://www.googleapis.com/auth/gmail.modify';
+
+  let tokenClient;
+  let accessToken = null;
+
+  function initGoogle() {
+    tokenClient = google.accounts.oauth2.initTokenClient({
+      client_id: GOOGLE_CLIENT_ID,
+      scope: SCOPES,
+      callback: (resp) => {
+        if (resp.error) { showAuthError(resp.error); return; }
+        accessToken = resp.access_token;
+        document.getElementById('auth-section').classList.remove('visible');
+        document.getElementById('auth-status').textContent = '✓ Signed in';
+      }
+    });
+    // Check if we need to show sign-in
+    document.getElementById('auth-section').classList.add('visible');
+  }
+
+  function handleSignIn() {
+    tokenClient.requestAccessToken({ prompt: 'consent' });
+  }
+
+  function showAuthError(err) {
+    document.getElementById('auth-status').textContent = 'Error: ' + err;
+  }
+
+  function requireAuth() {
+    if (!accessToken) {
+      document.getElementById('auth-section').classList.add('visible');
+      return false;
+    }
+    return true;
+  }
+
+  function showOutput(title, html) {
+    document.getElementById('output-title').textContent = title;
+    document.getElementById('output-content').innerHTML = html;
+    document.getElementById('output').classList.add('visible');
+    document.getElementById('output').scrollIntoView({ behavior: 'smooth' });
+  }
+
+  function loading(title) {
+    showOutput(title, `<div class="loading"><div class="spinner"></div>Loading...</div>`);
+  }
+
+  function formatTime(dateTimeStr) {
+    if (!dateTimeStr) return 'All day';
+    const d = new Date(dateTimeStr);
+    return d.toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit', hour12: true });
+  }
+
+  function formatDate(dateTimeStr) {
+    if (!dateTimeStr) return '';
+    const d = new Date(dateTimeStr);
+    return d.toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric' });
+  }
+
+  async function fetchCalendarEvents(calendarId, timeMin, timeMax) {
+    const params = new URLSearchParams({
+      timeMin, timeMax,
+      singleEvents: true,
+      orderBy: 'startTime',
+      maxResults: 20
+    });
+    const res = await fetch(`https://www.googleapis.com/calendar/v3/calendars/${encodeURIComponent(calendarId)}/events?${params}`, {
+      headers: { Authorization: `Bearer ${accessToken}` }
+    });
+    if (!res.ok) return [];
+    const data = await res.json();
+    return data.items || [];
+  }
+
+  function renderEvents(myEvents, wifeEvents, showDate = false) {
+    const all = [
+      ...myEvents.map(e => ({ ...e, owner: 'mine' })),
+      ...wifeEvents.map(e => ({ ...e, owner: 'wife' }))
+    ].sort((a, b) => {
+      const at = a.start?.dateTime || a.start?.date || '';
+      const bt = b.start?.dateTime || b.start?.date || '';
+      return at.localeCompare(bt);
+    });
+
+    if (all.length === 0) return '<p class="no-events">No events found.</p>';
+
+    const legend = `<div class="legend">
+      <span><span class="legend-dot" style="background:var(--accent)"></span>Yours</span>
+      <span><span class="legend-dot" style="background:#7eb8d4"></span>Wife's</span>
+    </div>`;
+
+    const items = all.map(e => {
+      const isWife = e.owner === 'wife';
+      const time = e.start?.dateTime ? formatTime(e.start.dateTime) : 'All day';
+      const date = showDate ? `<div class="event-time">${formatDate(e.start?.dateTime || e.start?.date)}</div>` : '';
+      return `<div class="event-item">
+        <div class="event-dot ${isWife ? 'wife' : ''}"></div>
+        <div>
+          <div class="event-title">${e.summary || '(No title)'}</div>
+          <div class="event-time">${time}</div>
+          ${date}
+          ${isWife ? '<div class="event-owner">Wife\'s calendar</div>' : ''}
+        </div>
+      </div>`;
+    }).join('');
+
+    return legend + items;
+  }
+
+  async function getTodayCalendar() {
+    if (!requireAuth()) return;
+    loading("Today's Calendar");
+    const now = new Date();
+    const start = new Date(now.getFullYear(), now.getMonth(), now.getDate()).toISOString();
+    const end = new Date(now.getFullYear(), now.getMonth(), now.getDate(), 23, 59, 59).toISOString();
+    try {
+      const [mine, wife] = await Promise.all([
+        fetchCalendarEvents('primary', start, end),
+        fetchCalendarEvents(WIFE_CALENDAR, start, end)
+      ]);
+      showOutput("Today's Calendar", renderEvents(mine, wife, false));
+    } catch (e) {
+      showOutput("Today's Calendar", `<p class="error-msg">Error: ${e.message}</p>`);
+    }
+  }
+
+  async function getWeekCalendar() {
+    if (!requireAuth()) return;
+    loading("This Week's Calendar");
+    const now = new Date();
+    const start = new Date(now.getFullYear(), now.getMonth(), now.getDate()).toISOString();
+    const end = new Date(now.getFullYear(), now.getMonth(), now.getDate() + 7, 23, 59, 59).toISOString();
+    try {
+      const [mine, wife] = await Promise.all([
+        fetchCalendarEvents('primary', start, end),
+        fetchCalendarEvents(WIFE_CALENDAR, start, end)
+      ]);
+      showOutput("This Week's Calendar", renderEvents(mine, wife, true));
+    } catch (e) {
+      showOutput("This Week's Calendar", `<p class="error-msg">Error: ${e.message}</p>`);
+    }
+  }
+
+  async function checkEmails() {
+    if (!requireAuth()) return;
+    loading("Recent Emails");
+    try {
+      const res = await fetch('https://www.googleapis.com/gmail/v1/users/me/messages?maxResults=15&labelIds=INBOX', {
+        headers: { Authorization: `Bearer ${accessToken}` }
+      });
+      const data = await res.json();
+      if (!data.messages || data.messages.length === 0) {
+        showOutput("Recent Emails", '<p class="no-events">No emails found.</p>');
+        return;
+      }
+      const details = await Promise.all(data.messages.slice(0, 10).map(m =>
+        fetch(`https://www.googleapis.com/gmail/v1/users/me/messages/${m.id}?format=metadata&metadataHeaders=From&metadataHeaders=Subject&metadataHeaders=Date`, {
+          headers: { Authorization: `Bearer ${accessToken}` }
+        }).then(r => r.json())
+      ));
+      const html = details.map(msg => {
+        const headers = msg.payload?.headers || [];
+        const from = headers.find(h => h.name === 'From')?.value || 'Unknown';
+        const subject = headers.find(h => h.name === 'Subject')?.value || '(No subject)';
+        const date = headers.find(h => h.name === 'Date')?.value || '';
+        const fromName = from.replace(/<.*>/, '').trim() || from;
+        const d = date ? new Date(date).toLocaleDateString('en-US', { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit' }) : '';
+        return `<div class="email-item">
+          <div class="email-from">${fromName}</div>
+          <div class="email-subject">${subject}</div>
+          <div class="email-date">${d}</div>
+          <div class="email-actions">
+            <button class="email-btn del" onclick="deleteEmail('${msg.id}', this)">🗑 Delete</button>
+          </div>
+        </div>`;
+      }).join('');
+      showOutput("Recent Emails", html);
+    } catch (e) {
+      showOutput("Recent Emails", `<p class="error-msg">Error: ${e.message}</p>`);
+    }
+  }
+
+  async function deleteEmail(msgId, btn) {
+    if (!confirm('Delete this email?')) return;
+    btn.textContent = 'Deleting...';
+    try {
+      await fetch(`https://www.googleapis.com/gmail/v1/users/me/messages/${msgId}/trash`, {
+        method: 'POST',
+        headers: { Authorization: `Bearer ${accessToken}` }
+      });
+      btn.closest('.email-item').style.opacity = '0.3';
+      btn.textContent = 'Deleted';
+    } catch (e) {
+      btn.textContent = 'Error';
+    }
+  }
+
+  async function showDeleteEmails() {
+    await checkEmails();
+    showOutput("Delete Emails", document.getElementById('output-content').innerHTML);
+    document.getElementById('output-title').textContent = 'Delete Emails';
+  }
+
+  function showAddEvent() {
+    const today = new Date().toISOString().slice(0, 16);
+    showOutput("Add Calendar Event", `
+      <div class="form-group">
+        <label>Event Title</label>
+        <input type="text" id="ev-title" placeholder="e.g. Doctor appointment">
+      </div>
+      <div class="form-group">
+        <label>Date &amp; Time</label>
+        <input type="datetime-local" id="ev-start" value="${today}">
+      </div>
+      <div class="form-group">
+        <label>Duration</label>
+        <select id="ev-duration">
+          <option value="30">30 minutes</option>
+          <option value="60" selected>1 hour</option>
+          <option value="90">1.5 hours</option>
+          <option value="120">2 hours</option>
+        </select>
+      </div>
+      <div class="form-group">
+        <label>Calendar</label>
+        <select id="ev-calendar">
+          <option value="primary">Mine</option>
+          <option value="${WIFE_CALENDAR}">Wife's</option>
+        </select>
+      </div>
+      <button class="submit-btn" onclick="addEvent()">Add to Calendar</button>
+      <div id="add-result" style="margin-top:12px"></div>
+    `);
+  }
+
+  async function addEvent() {
+    if (!requireAuth()) return;
+    const title = document.getElementById('ev-title').value.trim();
+    const start = document.getElementById('ev-start').value;
+    const duration = parseInt(document.getElementById('ev-duration').value);
+    const calId = document.getElementById('ev-calendar').value;
+    const resultEl = document.getElementById('add-result');
+
+    if (!title || !start) { resultEl.innerHTML = '<p class="error-msg">Please fill in title and date.</p>'; return; }
+
+    const startDate = new Date(start);
+    const endDate = new Date(startDate.getTime() + duration * 60000);
+
+    resultEl.innerHTML = '<div class="loading"><div class="spinner"></div>Adding...</div>';
+    try {
+      const res = await fetch(`https://www.googleapis.com/calendar/v3/calendars/${encodeURIComponent(calId)}/events`, {
+        method: 'POST',
+        headers: { Authorization: `Bearer ${accessToken}`, 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          summary: title,
+          start: { dateTime: startDate.toISOString() },
+          end: { dateTime: endDate.toISOString() }
+        })
+      });
+      if (res.ok) {
+        resultEl.innerHTML = `<p class="success-msg">✓ "${title}" added successfully!</p>`;
+      } else {
+        const err = await res.json();
+        resultEl.innerHTML = `<p class="error-msg">Error: ${err.error?.message}</p>`;
+      }
+    } catch (e) {
+      resultEl.innerHTML = `<p class="error-msg">Error: ${e.message}</p>`;
+    }
+  }
+
+  window.onload = () => {
+    if (typeof google !== 'undefined') initGoogle();
+    else document.querySelector('script[src*="gsi"]').addEventListener('load', initGoogle);
+  };
+</script>
+</body>
+</html>
