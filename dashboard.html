@@ -58,14 +58,9 @@
   #auth-status-text { color: var(--text-muted); }
   #auth-status-text.signed-in { color: var(--success); }
   #sign-in-btn, #sign-out-btn {
-    border: none;
-    border-radius: 6px;
-    font-family: 'DM Sans', sans-serif;
-    font-weight: 600;
-    font-size: 0.85rem;
-    padding: 7px 16px;
-    cursor: pointer;
-    transition: background 0.2s;
+    border: none; border-radius: 6px;
+    font-family: 'DM Sans', sans-serif; font-weight: 600; font-size: 0.85rem;
+    padding: 7px 16px; cursor: pointer; transition: background 0.2s;
   }
   #sign-in-btn { background: var(--accent); color: #0f0f0f; }
   #sign-in-btn:hover { background: var(--accent2); }
@@ -102,7 +97,6 @@
     transform: translateY(-2px);
   }
   .btn .icon { font-size: 1.5rem; }
-  .btn.danger:hover { border-color: var(--danger); color: var(--danger); }
   .btn.wide { grid-column: span 2; }
   .output-box {
     max-width: 560px;
@@ -124,116 +118,98 @@
     border-bottom: 1px solid var(--border);
   }
   .loading {
-    color: var(--text-muted);
-    font-size: 0.9rem;
-    display: flex;
-    align-items: center;
-    gap: 10px;
+    color: var(--text-muted); font-size: 0.9rem;
+    display: flex; align-items: center; gap: 10px;
   }
   .spinner {
     width: 16px; height: 16px;
     border: 2px solid var(--border);
     border-top-color: var(--accent);
     border-radius: 50%;
-    animation: spin 0.8s linear infinite;
-    flex-shrink: 0;
+    animation: spin 0.8s linear infinite; flex-shrink: 0;
   }
   @keyframes spin { to { transform: rotate(360deg); } }
   .event-item {
-    padding: 12px 0;
-    border-bottom: 1px solid var(--border);
-    display: flex;
-    gap: 14px;
-    align-items: flex-start;
+    padding: 12px 0; border-bottom: 1px solid var(--border);
+    display: flex; gap: 14px; align-items: flex-start;
   }
   .event-item:last-child { border-bottom: none; }
-  .event-dot {
-    width: 8px; height: 8px;
-    border-radius: 50%;
-    background: var(--accent);
-    margin-top: 6px;
-    flex-shrink: 0;
-  }
+  .event-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--accent); margin-top: 6px; flex-shrink: 0; }
   .event-dot.wife { background: #7eb8d4; }
   .event-title { font-weight: 500; font-size: 0.95rem; }
   .event-time { color: var(--text-muted); font-size: 0.8rem; margin-top: 2px; }
   .event-owner { font-size: 0.75rem; color: var(--text-muted); margin-top: 2px; font-style: italic; }
-  .legend {
-    display: flex;
-    gap: 16px;
-    margin-bottom: 16px;
-    font-size: 0.8rem;
-    color: var(--text-muted);
-    align-items: center;
-  }
+  .legend { display: flex; gap: 16px; margin-bottom: 16px; font-size: 0.8rem; color: var(--text-muted); align-items: center; }
   .legend-dot { width: 8px; height: 8px; border-radius: 50%; display: inline-block; margin-right: 4px; }
   .priority-section { margin-bottom: 24px; }
   .priority-header {
-    font-size: 0.75rem;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.1em;
-    padding: 6px 10px;
-    border-radius: 4px;
-    margin-bottom: 8px;
-    display: inline-block;
+    font-size: 0.75rem; font-weight: 600; text-transform: uppercase;
+    letter-spacing: 0.1em; padding: 6px 10px; border-radius: 4px;
+    margin-bottom: 8px; display: inline-block;
   }
   .priority-header.urgent { background: rgba(231,76,60,0.15); color: var(--urgent); }
   .priority-header.important { background: rgba(230,126,34,0.15); color: var(--important); }
   .priority-header.low { background: rgba(127,140,141,0.15); color: var(--low); }
-  .email-item {
-    padding: 12px 0;
-    border-bottom: 1px solid var(--border);
-  }
+  .email-item { padding: 12px 0; border-bottom: 1px solid var(--border); }
   .email-item:last-child { border-bottom: none; }
   .email-from { font-weight: 500; font-size: 0.9rem; }
   .email-subject { font-size: 0.85rem; color: var(--text-muted); margin-top: 3px; }
   .email-summary { font-size: 0.82rem; color: var(--accent2); margin-top: 4px; font-style: italic; }
   .email-date { font-size: 0.75rem; color: var(--text-muted); margin-top: 3px; }
-  .email-actions { display: flex; gap: 8px; margin-top: 8px; }
+  .email-actions { display: flex; gap: 8px; margin-top: 8px; flex-wrap: wrap; }
   .email-btn {
-    font-size: 0.75rem;
-    padding: 4px 10px;
-    border-radius: 4px;
-    border: 1px solid var(--border);
-    background: transparent;
-    color: var(--text-muted);
-    cursor: pointer;
-    font-family: 'DM Sans', sans-serif;
-    transition: all 0.15s;
+    font-size: 0.75rem; padding: 5px 12px; border-radius: 4px;
+    border: 1px solid var(--border); background: transparent;
+    color: var(--text-muted); cursor: pointer;
+    font-family: 'DM Sans', sans-serif; transition: all 0.15s;
   }
   .email-btn:hover { border-color: var(--accent); color: var(--accent); }
   .email-btn.del:hover { border-color: var(--danger); color: var(--danger); }
+  .email-btn.reply-btn:hover { border-color: var(--success); color: var(--success); }
+  .email-body {
+    margin-top: 10px; background: var(--surface2);
+    border: 1px solid var(--border); border-radius: 6px;
+    padding: 14px; font-size: 0.82rem; line-height: 1.6;
+    color: var(--text); white-space: pre-wrap; word-break: break-word;
+    max-height: 300px; overflow-y: auto; display: none;
+  }
+  .email-body.visible { display: block; }
+  .reply-form {
+    margin-top: 10px; background: var(--surface2);
+    border: 1px solid var(--border); border-radius: 6px;
+    padding: 14px; display: none;
+  }
+  .reply-form.visible { display: block; }
+  .reply-form textarea {
+    width: 100%; background: var(--bg); border: 1px solid var(--border);
+    border-radius: 5px; color: var(--text); font-family: 'DM Sans', sans-serif;
+    font-size: 0.85rem; padding: 10px; outline: none; resize: vertical;
+    min-height: 100px; margin-bottom: 10px; transition: border-color 0.2s;
+  }
+  .reply-form textarea:focus { border-color: var(--accent); }
+  .reply-form textarea::placeholder { color: var(--text-muted); }
+  .reply-to { font-size: 0.78rem; color: var(--text-muted); margin-bottom: 8px; }
+  .send-reply-btn {
+    background: var(--accent); color: #0f0f0f; border: none;
+    border-radius: 5px; font-family: 'DM Sans', sans-serif;
+    font-weight: 600; font-size: 0.82rem; padding: 8px 16px;
+    cursor: pointer; transition: background 0.2s;
+  }
+  .send-reply-btn:hover { background: var(--accent2); }
+  .reply-status { font-size: 0.78rem; margin-top: 6px; }
   .form-group { margin-bottom: 14px; }
   .form-group label { display: block; font-size: 0.8rem; color: var(--text-muted); margin-bottom: 5px; text-transform: uppercase; letter-spacing: 0.06em; }
   .form-group input, .form-group select, .form-group textarea {
-    width: 100%;
-    background: var(--surface2);
-    border: 1px solid var(--border);
-    border-radius: 6px;
-    color: var(--text);
-    font-family: 'DM Sans', sans-serif;
-    font-size: 0.9rem;
-    padding: 10px 12px;
-    outline: none;
-    transition: border-color 0.2s;
-    resize: vertical;
+    width: 100%; background: var(--surface2); border: 1px solid var(--border);
+    border-radius: 6px; color: var(--text); font-family: 'DM Sans', sans-serif;
+    font-size: 0.9rem; padding: 10px 12px; outline: none; transition: border-color 0.2s; resize: vertical;
   }
   .form-group input:focus, .form-group select:focus, .form-group textarea:focus { border-color: var(--accent); }
   .form-group select option { background: var(--surface2); }
   .submit-btn {
-    width: 100%;
-    background: var(--accent);
-    color: #0f0f0f;
-    border: none;
-    border-radius: 6px;
-    font-family: 'DM Sans', sans-serif;
-    font-weight: 600;
-    font-size: 0.9rem;
-    padding: 12px;
-    cursor: pointer;
-    transition: background 0.2s;
-    margin-top: 4px;
+    width: 100%; background: var(--accent); color: #0f0f0f; border: none;
+    border-radius: 6px; font-family: 'DM Sans', sans-serif; font-weight: 600;
+    font-size: 0.9rem; padding: 12px; cursor: pointer; transition: background 0.2s; margin-top: 4px;
   }
   .submit-btn:hover { background: var(--accent2); }
   .no-events { color: var(--text-muted); font-size: 0.9rem; font-style: italic; }
@@ -256,24 +232,11 @@
 </div>
 
 <div class="btn-grid">
-  <button class="btn" onclick="getTodayCalendar()">
-    <span class="icon">📅</span>Today's Calendar
-  </button>
-  <button class="btn" onclick="getWeekCalendar()">
-    <span class="icon">🗓️</span>This Week
-  </button>
-  <button class="btn" onclick="checkEmails()">
-    <span class="icon">📬</span>Check Emails
-  </button>
-  <button class="btn" onclick="showAddEvent()">
-    <span class="icon">➕</span>Add Event
-  </button>
-  <button class="btn" onclick="showCreateEmail()">
-    <span class="icon">✉️</span>Create Email
-  </button>
-  <button class="btn danger" onclick="deleteEmailsView()">
-    <span class="icon">🗑️</span>Delete Emails
-  </button>
+  <button class="btn" onclick="getTodayCalendar()"><span class="icon">📅</span>Today's Calendar</button>
+  <button class="btn" onclick="getWeekCalendar()"><span class="icon">🗓️</span>This Week</button>
+  <button class="btn" onclick="checkEmails()"><span class="icon">📬</span>Check Emails</button>
+  <button class="btn" onclick="showAddEvent()"><span class="icon">➕</span>Add Event</button>
+  <button class="btn wide" onclick="showCreateEmail()"><span class="icon">✉️</span>Create Email</button>
 </div>
 
 <div class="output-box" id="output">
@@ -286,30 +249,22 @@
   const _k = atob('c2stYW50LWFwaTAzLVlocC1NS2w1UVp1ZXN2VDhteUhYdTktNk9pZGpNUTBEcjUyT3VYV2Nsek1saFdBNDFwdlBmMVRXSnNxWWppbnFncUJzQTZ0TmVfdUY5ZTlDUWpld1lnLWdkY08yd0FB');
   const GOOGLE_CLIENT_ID = '131656481327-d7o8c49e8bvvnksg73e418okoi3eaupq.apps.googleusercontent.com';
   const WIFE_CALENDAR = 'daptex48@gmail.com';
-  const SCOPES = 'https://www.googleapis.com/auth/calendar https://www.googleapis.com/auth/gmail.modify https://www.googleapis.com/auth/gmail.send';
+  const SCOPES = 'https://www.googleapis.com/auth/calendar https://www.googleapis.com/auth/gmail.modify https://www.googleapis.com/auth/gmail.send https://www.googleapis.com/auth/gmail.readonly';
   const TOKEN_KEY = 'dashboard_google_token';
   const TOKEN_EXPIRY_KEY = 'dashboard_token_expiry';
 
-  let tokenClient;
-  let accessToken = null;
+  let tokenClient, accessToken = null;
 
   function saveToken(token, expiresIn) {
-    const expiry = Date.now() + (expiresIn - 300) * 1000;
     localStorage.setItem(TOKEN_KEY, token);
-    localStorage.setItem(TOKEN_EXPIRY_KEY, expiry.toString());
+    localStorage.setItem(TOKEN_EXPIRY_KEY, (Date.now() + (expiresIn - 300) * 1000).toString());
   }
-
   function loadToken() {
     const token = localStorage.getItem(TOKEN_KEY);
     const expiry = parseInt(localStorage.getItem(TOKEN_EXPIRY_KEY) || '0');
-    if (token && Date.now() < expiry) return token;
-    return null;
+    return (token && Date.now() < expiry) ? token : null;
   }
-
-  function clearToken() {
-    localStorage.removeItem(TOKEN_KEY);
-    localStorage.removeItem(TOKEN_EXPIRY_KEY);
-  }
+  function clearToken() { localStorage.removeItem(TOKEN_KEY); localStorage.removeItem(TOKEN_EXPIRY_KEY); }
 
   function setSignedIn(email) {
     document.getElementById('auth-status-text').textContent = '✓ Signed in' + (email ? ' as ' + email : '');
@@ -317,117 +272,70 @@
     document.getElementById('sign-in-btn').style.display = 'none';
     document.getElementById('sign-out-btn').style.display = 'inline-block';
   }
-
   function setSignedOut() {
     document.getElementById('auth-status-text').textContent = 'Not signed in';
     document.getElementById('auth-status-text').className = '';
     document.getElementById('sign-in-btn').style.display = 'inline-block';
     document.getElementById('sign-out-btn').style.display = 'none';
-    accessToken = null;
-    clearToken();
+    accessToken = null; clearToken();
   }
-
-  function handleSignOut() {
-    setSignedOut();
-    document.getElementById('output').classList.remove('visible');
-  }
+  function handleSignOut() { setSignedOut(); document.getElementById('output').classList.remove('visible'); }
 
   function initGoogle() {
     tokenClient = google.accounts.oauth2.initTokenClient({
-      client_id: GOOGLE_CLIENT_ID,
-      scope: SCOPES,
+      client_id: GOOGLE_CLIENT_ID, scope: SCOPES,
       callback: (resp) => {
-        if (resp.error) { console.error(resp.error); return; }
+        if (resp.error) return;
         accessToken = resp.access_token;
         saveToken(accessToken, resp.expires_in || 3600);
         setSignedIn('');
-        fetch('https://www.googleapis.com/oauth2/v3/userinfo', {
-          headers: { Authorization: `Bearer ${accessToken}` }
-        }).then(r => r.json()).then(info => {
-          if (info.email) setSignedIn(info.email);
-        }).catch(() => {});
+        fetch('https://www.googleapis.com/oauth2/v3/userinfo', { headers: { Authorization: `Bearer ${accessToken}` } })
+          .then(r => r.json()).then(info => { if (info.email) setSignedIn(info.email); }).catch(() => {});
       }
     });
-
     const saved = loadToken();
     if (saved) {
-      accessToken = saved;
-      setSignedIn('');
-      fetch('https://www.googleapis.com/oauth2/v3/userinfo', {
-        headers: { Authorization: `Bearer ${accessToken}` }
-      }).then(r => r.json()).then(info => {
-        if (info.email) setSignedIn(info.email);
-        else setSignedOut();
-      }).catch(() => setSignedOut());
+      accessToken = saved; setSignedIn('');
+      fetch('https://www.googleapis.com/oauth2/v3/userinfo', { headers: { Authorization: `Bearer ${accessToken}` } })
+        .then(r => r.json()).then(info => { if (info.email) setSignedIn(info.email); else setSignedOut(); })
+        .catch(() => setSignedOut());
     }
   }
-
-  function handleSignIn() {
-    tokenClient.requestAccessToken({ prompt: '' });
-  }
-
+  function handleSignIn() { tokenClient.requestAccessToken({ prompt: '' }); }
   function requireAuth() {
-    if (!accessToken) {
-      showOutput('Sign In Required', '<p class="error-msg">Please sign in with Google first.</p>');
-      return false;
-    }
+    if (!accessToken) { showOutput('Sign In Required', '<p class="error-msg">Please sign in with Google first.</p>'); return false; }
     return true;
   }
-
   function showOutput(title, html) {
     document.getElementById('output-title').textContent = title;
     document.getElementById('output-content').innerHTML = html;
     document.getElementById('output').classList.add('visible');
     document.getElementById('output').scrollIntoView({ behavior: 'smooth' });
   }
-
-  function loading(title, msg) {
-    showOutput(title, `<div class="loading"><div class="spinner"></div>${msg || 'Loading...'}</div>`);
-  }
-
-  function formatTime(dt) {
-    if (!dt) return 'All day';
-    return new Date(dt).toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit', hour12: true });
-  }
-
-  function formatDate(dt) {
-    if (!dt) return '';
-    return new Date(dt).toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric' });
-  }
+  function loading(title, msg) { showOutput(title, `<div class="loading"><div class="spinner"></div>${msg || 'Loading...'}</div>`); }
+  function formatTime(dt) { return dt ? new Date(dt).toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit', hour12: true }) : 'All day'; }
+  function formatDate(dt) { return dt ? new Date(dt).toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric' }) : ''; }
 
   async function fetchCalendarEvents(calendarId, timeMin, timeMax) {
     const params = new URLSearchParams({ timeMin, timeMax, singleEvents: true, orderBy: 'startTime', maxResults: 20 });
-    const res = await fetch(`https://www.googleapis.com/calendar/v3/calendars/${encodeURIComponent(calendarId)}/events?${params}`, {
-      headers: { Authorization: `Bearer ${accessToken}` }
-    });
+    const res = await fetch(`https://www.googleapis.com/calendar/v3/calendars/${encodeURIComponent(calendarId)}/events?${params}`, { headers: { Authorization: `Bearer ${accessToken}` } });
     if (!res.ok) return [];
     return (await res.json()).items || [];
   }
 
   function renderEvents(myEvents, wifeEvents, showDate = false) {
-    const all = [
-      ...myEvents.map(e => ({ ...e, owner: 'mine' })),
-      ...wifeEvents.map(e => ({ ...e, owner: 'wife' }))
-    ].sort((a, b) => (a.start?.dateTime || a.start?.date || '').localeCompare(b.start?.dateTime || b.start?.date || ''));
-
-    if (all.length === 0) return '<p class="no-events">No events found.</p>';
-
-    const legend = `<div class="legend">
-      <span><span class="legend-dot" style="background:var(--accent)"></span>Yours</span>
-      <span><span class="legend-dot" style="background:#7eb8d4"></span>Wife's</span>
-    </div>`;
-
+    const all = [...myEvents.map(e => ({ ...e, owner: 'mine' })), ...wifeEvents.map(e => ({ ...e, owner: 'wife' }))]
+      .sort((a, b) => (a.start?.dateTime || a.start?.date || '').localeCompare(b.start?.dateTime || b.start?.date || ''));
+    if (!all.length) return '<p class="no-events">No events found.</p>';
+    const legend = `<div class="legend"><span><span class="legend-dot" style="background:var(--accent)"></span>Yours</span><span><span class="legend-dot" style="background:#7eb8d4"></span>Wife's</span></div>`;
     return legend + all.map(e => {
       const isWife = e.owner === 'wife';
-      return `<div class="event-item">
-        <div class="event-dot ${isWife ? 'wife' : ''}"></div>
-        <div>
-          <div class="event-title">${e.summary || '(No title)'}</div>
-          <div class="event-time">${e.start?.dateTime ? formatTime(e.start.dateTime) : 'All day'}</div>
-          ${showDate ? `<div class="event-time">${formatDate(e.start?.dateTime || e.start?.date)}</div>` : ''}
-          ${isWife ? '<div class="event-owner">Wife\'s calendar</div>' : ''}
-        </div>
-      </div>`;
+      return `<div class="event-item"><div class="event-dot ${isWife ? 'wife' : ''}"></div><div>
+        <div class="event-title">${e.summary || '(No title)'}</div>
+        <div class="event-time">${e.start?.dateTime ? formatTime(e.start.dateTime) : 'All day'}</div>
+        ${showDate ? `<div class="event-time">${formatDate(e.start?.dateTime || e.start?.date)}</div>` : ''}
+        ${isWife ? '<div class="event-owner">Wife\'s calendar</div>' : ''}
+      </div></div>`;
     }).join('');
   }
 
@@ -438,14 +346,9 @@
     const start = new Date(now.getFullYear(), now.getMonth(), now.getDate()).toISOString();
     const end = new Date(now.getFullYear(), now.getMonth(), now.getDate(), 23, 59, 59).toISOString();
     try {
-      const [mine, wife] = await Promise.all([
-        fetchCalendarEvents('primary', start, end),
-        fetchCalendarEvents(WIFE_CALENDAR, start, end)
-      ]);
+      const [mine, wife] = await Promise.all([fetchCalendarEvents('primary', start, end), fetchCalendarEvents(WIFE_CALENDAR, start, end)]);
       showOutput("Today's Calendar", renderEvents(mine, wife, false));
-    } catch (e) {
-      showOutput("Today's Calendar", `<p class="error-msg">Error: ${e.message}</p>`);
-    }
+    } catch (e) { showOutput("Today's Calendar", `<p class="error-msg">Error: ${e.message}</p>`); }
   }
 
   async function getWeekCalendar() {
@@ -455,26 +358,17 @@
     const start = new Date(now.getFullYear(), now.getMonth(), now.getDate()).toISOString();
     const end = new Date(now.getFullYear(), now.getMonth(), now.getDate() + 7, 23, 59, 59).toISOString();
     try {
-      const [mine, wife] = await Promise.all([
-        fetchCalendarEvents('primary', start, end),
-        fetchCalendarEvents(WIFE_CALENDAR, start, end)
-      ]);
+      const [mine, wife] = await Promise.all([fetchCalendarEvents('primary', start, end), fetchCalendarEvents(WIFE_CALENDAR, start, end)]);
       showOutput("This Week's Calendar", renderEvents(mine, wife, true));
-    } catch (e) {
-      showOutput("This Week's Calendar", `<p class="error-msg">Error: ${e.message}</p>`);
-    }
+    } catch (e) { showOutput("This Week's Calendar", `<p class="error-msg">Error: ${e.message}</p>`); }
   }
 
   async function fetchEmailDetails(maxResults = 15) {
-    const res = await fetch(`https://www.googleapis.com/gmail/v1/users/me/messages?maxResults=${maxResults}&labelIds=INBOX`, {
-      headers: { Authorization: `Bearer ${accessToken}` }
-    });
+    const res = await fetch(`https://www.googleapis.com/gmail/v1/users/me/messages?maxResults=${maxResults}&labelIds=INBOX`, { headers: { Authorization: `Bearer ${accessToken}` } });
     const data = await res.json();
     if (!data.messages) return [];
     return Promise.all(data.messages.map(m =>
-      fetch(`https://www.googleapis.com/gmail/v1/users/me/messages/${m.id}?format=metadata&metadataHeaders=From&metadataHeaders=Subject&metadataHeaders=Date`, {
-        headers: { Authorization: `Bearer ${accessToken}` }
-      }).then(r => r.json())
+      fetch(`https://www.googleapis.com/gmail/v1/users/me/messages/${m.id}?format=metadata&metadataHeaders=From&metadataHeaders=Subject&metadataHeaders=Date&metadataHeaders=Reply-To`, { headers: { Authorization: `Bearer ${accessToken}` } }).then(r => r.json())
     ));
   }
 
@@ -483,58 +377,126 @@
     const from = headers.find(h => h.name === 'From')?.value || 'Unknown';
     const subject = headers.find(h => h.name === 'Subject')?.value || '(No subject)';
     const date = headers.find(h => h.name === 'Date')?.value || '';
+    const replyTo = headers.find(h => h.name === 'Reply-To')?.value || from;
     const fromName = from.replace(/<.*>/, '').trim() || from;
+    const replyEmail = (replyTo.match(/<(.+)>/) || [])[1] || replyTo;
     const d = date ? new Date(date).toLocaleDateString('en-US', { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit' }) : '';
-    return { id: msg.id, from: fromName, subject, date: d };
+    return { id: msg.id, from: fromName, replyEmail, subject, date: d };
+  }
+
+  async function fetchEmailBody(msgId) {
+    const res = await fetch(`https://www.googleapis.com/gmail/v1/users/me/messages/${msgId}?format=full`, { headers: { Authorization: `Bearer ${accessToken}` } });
+    const data = await res.json();
+    function extractBody(payload) {
+      if (!payload) return '';
+      if (payload.body?.data) return atob(payload.body.data.replace(/-/g, '+').replace(/_/g, '/'));
+      if (payload.parts) {
+        for (const part of payload.parts) {
+          if (part.mimeType === 'text/plain' && part.body?.data) return atob(part.body.data.replace(/-/g, '+').replace(/_/g, '/'));
+        }
+        for (const part of payload.parts) { const r = extractBody(part); if (r) return r; }
+      }
+      return '';
+    }
+    return extractBody(data.payload) || '(No readable content)';
+  }
+
+  async function toggleRead(msgId, btn) {
+    const bodyEl = document.getElementById('body-' + msgId);
+    if (bodyEl.classList.contains('visible')) {
+      bodyEl.classList.remove('visible'); btn.textContent = '📖 Read'; return;
+    }
+    btn.textContent = 'Loading...';
+    try {
+      bodyEl.textContent = await fetchEmailBody(msgId);
+      bodyEl.classList.add('visible'); btn.textContent = '📖 Hide';
+    } catch (e) { bodyEl.textContent = 'Error loading email.'; bodyEl.classList.add('visible'); btn.textContent = '📖 Hide'; }
+  }
+
+  function toggleReply(msgId) {
+    const replyEl = document.getElementById('reply-' + msgId);
+    if (replyEl.classList.contains('visible')) { replyEl.classList.remove('visible'); return; }
+    replyEl.classList.add('visible');
+    replyEl.querySelector('textarea').focus();
+  }
+
+  async function sendReply(msgId, replyEmail, subject, btn) {
+    const textarea = document.getElementById('reply-' + msgId).querySelector('textarea');
+    const body = textarea.value.trim();
+    const statusEl = document.getElementById('reply-status-' + msgId);
+    if (!body) { statusEl.innerHTML = '<span style="color:var(--danger)">Please type a reply.</span>'; return; }
+    btn.textContent = 'Sending...';
+    try {
+      const replySubject = subject.startsWith('Re:') ? subject : 'Re: ' + subject;
+      const emailContent = [`To: ${replyEmail}`, `Subject: ${replySubject}`, 'Content-Type: text/plain; charset=utf-8', 'MIME-Version: 1.0', '', body].join('\n');
+      const encoded = btoa(unescape(encodeURIComponent(emailContent))).replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/, '');
+      const res = await fetch('https://www.googleapis.com/gmail/v1/users/me/messages/send', {
+        method: 'POST', headers: { Authorization: `Bearer ${accessToken}`, 'Content-Type': 'application/json' },
+        body: JSON.stringify({ raw: encoded })
+      });
+      if (res.ok) {
+        statusEl.innerHTML = '<span style="color:var(--success)">✓ Reply sent!</span>';
+        textarea.value = '';
+        setTimeout(() => { document.getElementById('reply-' + msgId).classList.remove('visible'); statusEl.innerHTML = ''; }, 2000);
+      } else {
+        const err = await res.json();
+        statusEl.innerHTML = `<span style="color:var(--danger)">Error: ${err.error?.message}</span>`;
+      }
+    } catch (e) { statusEl.innerHTML = `<span style="color:var(--danger)">Error: ${e.message}</span>`; }
+    btn.textContent = 'Send Reply';
+  }
+
+  async function deleteEmail(msgId, btn) {
+    if (!confirm('Delete this email?')) return;
+    btn.textContent = 'Deleting...';
+    try {
+      await fetch(`https://www.googleapis.com/gmail/v1/users/me/messages/${msgId}/trash`, { method: 'POST', headers: { Authorization: `Bearer ${accessToken}` } });
+      btn.closest('.email-item').style.opacity = '0.3';
+      btn.textContent = 'Deleted';
+    } catch (e) { btn.textContent = 'Error'; }
   }
 
   async function prioritizeWithAI(emails) {
     const emailList = emails.map((e, i) => `${i + 1}. From: ${e.from} | Subject: ${e.subject} | Date: ${e.date}`).join('\n');
-    const prompt = `You are a personal email assistant. Prioritize these emails into three groups: URGENT (needs immediate attention), IMPORTANT (should read today), and LOW (newsletters, promotions, can wait or delete).
-
-For each email provide a one-sentence summary of likely content based on sender and subject.
-
-Respond ONLY with valid JSON in this exact format, no other text:
+    const prompt = `You are a personal email assistant. Prioritize these emails into three groups: URGENT, IMPORTANT, and LOW.
+For each email provide a one-sentence summary.
+Respond ONLY with valid JSON:
 {"urgent":[{"index":1,"summary":"brief summary"}],"important":[{"index":2,"summary":"brief summary"}],"low":[{"index":3,"summary":"brief summary"}]}
-
-Emails:
-${emailList}`;
-
+Emails:\n${emailList}`;
     const res = await fetch('https://api.anthropic.com/v1/messages', {
       method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-        'x-api-key': _k,
-        'anthropic-version': '2023-06-01',
-        'anthropic-dangerous-direct-browser-access': 'true'
-      },
-      body: JSON.stringify({
-        model: 'claude-sonnet-4-20250514',
-        max_tokens: 1000,
-        messages: [{ role: 'user', content: prompt }]
-      })
+      headers: { 'Content-Type': 'application/json', 'x-api-key': _k, 'anthropic-version': '2023-06-01', 'anthropic-dangerous-direct-browser-access': 'true' },
+      body: JSON.stringify({ model: 'claude-sonnet-4-20250514', max_tokens: 1000, messages: [{ role: 'user', content: prompt }] })
     });
     const data = await res.json();
-    const text = data.content?.[0]?.text || '{}';
-    try {
-      return JSON.parse(text.replace(/```json|```/g, '').trim());
-    } catch {
-      return null;
-    }
+    try { return JSON.parse((data.content?.[0]?.text || '{}').replace(/```json|```/g, '').trim()); } catch { return null; }
   }
 
-  function renderPrioritizedEmails(emails, prioritized, showDelete = false) {
+  function emailActionsHTML(email) {
+    return `<div class="email-actions">
+      <button class="email-btn" onclick="toggleRead('${email.id}', this)">📖 Read</button>
+      <button class="email-btn reply-btn" onclick="toggleReply('${email.id}')">↩️ Reply</button>
+      <button class="email-btn del" onclick="deleteEmail('${email.id}', this)">🗑️ Delete</button>
+    </div>
+    <div class="email-body" id="body-${email.id}"></div>
+    <div class="reply-form" id="reply-${email.id}">
+      <div class="reply-to">To: ${email.replyEmail}</div>
+      <textarea placeholder="Type your reply here..."></textarea>
+      <button class="send-reply-btn" onclick="sendReply('${email.id}', '${email.replyEmail}', \`${email.subject.replace(/`/g, "'")}\`, this)">Send Reply</button>
+      <div class="reply-status" id="reply-status-${email.id}"></div>
+    </div>`;
+  }
+
+  function renderPrioritizedEmails(emails, prioritized) {
     const groups = [
       { key: 'urgent', label: '🔴 Urgent', cls: 'urgent' },
       { key: 'important', label: '🟠 Important', cls: 'important' },
       { key: 'low', label: '⚪ Low Priority', cls: 'low' }
     ];
-
     let html = '<p class="ai-note">✨ Prioritized by AI — most important first</p>';
-
     for (const group of groups) {
       const items = prioritized[group.key] || [];
-      if (items.length === 0) continue;
+      if (!items.length) continue;
       html += `<div class="priority-section"><div class="priority-header ${group.cls}">${group.label}</div>`;
       for (const item of items) {
         const email = emails[item.index - 1];
@@ -544,7 +506,7 @@ ${emailList}`;
           <div class="email-subject">${email.subject}</div>
           <div class="email-summary">${item.summary}</div>
           <div class="email-date">${email.date}</div>
-          ${showDelete ? `<div class="email-actions"><button class="email-btn del" onclick="deleteEmail('${email.id}', this)">🗑 Delete</button></div>` : ''}
+          ${emailActionsHTML(email)}
         </div>`;
       }
       html += '</div>';
@@ -557,48 +519,13 @@ ${emailList}`;
     loading('Check Emails', 'Fetching emails...');
     try {
       const emails = await fetchEmailDetails(15);
-      if (emails.length === 0) { showOutput('Check Emails', '<p class="no-events">No emails found.</p>'); return; }
+      if (!emails.length) { showOutput('Check Emails', '<p class="no-events">No emails found.</p>'); return; }
       const parsed = emails.map(parseEmailMeta);
       showOutput('Check Emails', '<div class="loading"><div class="spinner"></div>AI is prioritizing your emails...</div>');
       const prioritized = await prioritizeWithAI(parsed);
-      showOutput('Check Emails', prioritized
-        ? renderPrioritizedEmails(parsed, prioritized, false)
-        : parsed.map(e => `<div class="email-item"><div class="email-from">${e.from}</div><div class="email-subject">${e.subject}</div><div class="email-date">${e.date}</div></div>`).join(''));
-    } catch (e) {
-      showOutput('Check Emails', `<p class="error-msg">Error: ${e.message}</p>`);
-    }
-  }
-
-  async function deleteEmailsView() {
-    if (!requireAuth()) return;
-    loading('Delete Emails', 'Fetching emails...');
-    try {
-      const emails = await fetchEmailDetails(15);
-      if (emails.length === 0) { showOutput('Delete Emails', '<p class="no-events">No emails found.</p>'); return; }
-      const parsed = emails.map(parseEmailMeta);
-      showOutput('Delete Emails', '<div class="loading"><div class="spinner"></div>AI is prioritizing your emails...</div>');
-      const prioritized = await prioritizeWithAI(parsed);
-      showOutput('Delete Emails', prioritized
-        ? renderPrioritizedEmails(parsed, prioritized, true)
-        : parsed.map(e => `<div class="email-item"><div class="email-from">${e.from}</div><div class="email-subject">${e.subject}</div><div class="email-date">${e.date}</div><div class="email-actions"><button class="email-btn del" onclick="deleteEmail('${e.id}', this)">🗑 Delete</button></div></div>`).join(''));
-    } catch (e) {
-      showOutput('Delete Emails', `<p class="error-msg">Error: ${e.message}</p>`);
-    }
-  }
-
-  async function deleteEmail(msgId, btn) {
-    if (!confirm('Delete this email?')) return;
-    btn.textContent = 'Deleting...';
-    try {
-      await fetch(`https://www.googleapis.com/gmail/v1/users/me/messages/${msgId}/trash`, {
-        method: 'POST',
-        headers: { Authorization: `Bearer ${accessToken}` }
-      });
-      btn.closest('.email-item').style.opacity = '0.3';
-      btn.textContent = 'Deleted';
-    } catch (e) {
-      btn.textContent = 'Error';
-    }
+      showOutput('Check Emails', prioritized ? renderPrioritizedEmails(parsed, prioritized)
+        : parsed.map(e => `<div class="email-item"><div class="email-from">${e.from}</div><div class="email-subject">${e.subject}</div><div class="email-date">${e.date}</div>${emailActionsHTML(e)}</div>`).join(''));
+    } catch (e) { showOutput('Check Emails', `<p class="error-msg">Error: ${e.message}</p>`); }
   }
 
   function showCreateEmail() {
@@ -617,38 +544,16 @@ ${emailList}`;
     const subject = document.getElementById('em-subject').value.trim();
     const body = document.getElementById('em-body').value.trim();
     const resultEl = document.getElementById('send-result');
-
-    if (!to || !subject || !body) {
-      resultEl.innerHTML = '<p class="error-msg">Please fill in all fields.</p>';
-      return;
-    }
-
+    if (!to || !subject || !body) { resultEl.innerHTML = '<p class="error-msg">Please fill in all fields.</p>'; return; }
     if (!confirm(`Send email to ${to}?`)) return;
-
     resultEl.innerHTML = '<div class="loading"><div class="spinner"></div>Sending...</div>';
-
     try {
-      const emailContent = [
-        `To: ${to}`,
-        `Subject: ${subject}`,
-        'Content-Type: text/plain; charset=utf-8',
-        'MIME-Version: 1.0',
-        '',
-        body
-      ].join('\n');
-
-      const encoded = btoa(unescape(encodeURIComponent(emailContent)))
-        .replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/, '');
-
+      const emailContent = [`To: ${to}`, `Subject: ${subject}`, 'Content-Type: text/plain; charset=utf-8', 'MIME-Version: 1.0', '', body].join('\n');
+      const encoded = btoa(unescape(encodeURIComponent(emailContent))).replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/, '');
       const res = await fetch('https://www.googleapis.com/gmail/v1/users/me/messages/send', {
-        method: 'POST',
-        headers: {
-          Authorization: `Bearer ${accessToken}`,
-          'Content-Type': 'application/json'
-        },
+        method: 'POST', headers: { Authorization: `Bearer ${accessToken}`, 'Content-Type': 'application/json' },
         body: JSON.stringify({ raw: encoded })
       });
-
       if (res.ok) {
         resultEl.innerHTML = `<p class="success-msg">✓ Email sent to ${to}!</p>`;
         document.getElementById('em-to').value = '';
@@ -658,9 +563,7 @@ ${emailList}`;
         const err = await res.json();
         resultEl.innerHTML = `<p class="error-msg">Error: ${err.error?.message}</p>`;
       }
-    } catch (e) {
-      resultEl.innerHTML = `<p class="error-msg">Error: ${e.message}</p>`;
-    }
+    } catch (e) { resultEl.innerHTML = `<p class="error-msg">Error: ${e.message}</p>`; }
   }
 
   function showAddEvent() {
@@ -669,14 +572,11 @@ ${emailList}`;
       <div class="form-group"><label>Event Title</label><input type="text" id="ev-title" placeholder="e.g. Doctor appointment"></div>
       <div class="form-group"><label>Date &amp; Time</label><input type="datetime-local" id="ev-start" value="${today}"></div>
       <div class="form-group"><label>Duration</label><select id="ev-duration">
-        <option value="30">30 minutes</option>
-        <option value="60" selected>1 hour</option>
-        <option value="90">1.5 hours</option>
-        <option value="120">2 hours</option>
+        <option value="30">30 minutes</option><option value="60" selected>1 hour</option>
+        <option value="90">1.5 hours</option><option value="120">2 hours</option>
       </select></div>
       <div class="form-group"><label>Calendar</label><select id="ev-calendar">
-        <option value="primary">Mine</option>
-        <option value="${WIFE_CALENDAR}">Wife's</option>
+        <option value="primary">Mine</option><option value="${WIFE_CALENDAR}">Wife's</option>
       </select></div>
       <button class="submit-btn" onclick="addEvent()">Add to Calendar</button>
       <div id="add-result" style="margin-top:12px"></div>
@@ -696,23 +596,12 @@ ${emailList}`;
     resultEl.innerHTML = '<div class="loading"><div class="spinner"></div>Adding...</div>';
     try {
       const res = await fetch(`https://www.googleapis.com/calendar/v3/calendars/${encodeURIComponent(calId)}/events`, {
-        method: 'POST',
-        headers: { Authorization: `Bearer ${accessToken}`, 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          summary: title,
-          start: { dateTime: startDate.toISOString() },
-          end: { dateTime: endDate.toISOString() }
-        })
+        method: 'POST', headers: { Authorization: `Bearer ${accessToken}`, 'Content-Type': 'application/json' },
+        body: JSON.stringify({ summary: title, start: { dateTime: startDate.toISOString() }, end: { dateTime: endDate.toISOString() } })
       });
-      if (res.ok) {
-        resultEl.innerHTML = `<p class="success-msg">✓ "${title}" added successfully!</p>`;
-      } else {
-        const err = await res.json();
-        resultEl.innerHTML = `<p class="error-msg">Error: ${err.error?.message}</p>`;
-      }
-    } catch (e) {
-      resultEl.innerHTML = `<p class="error-msg">Error: ${e.message}</p>`;
-    }
+      if (res.ok) resultEl.innerHTML = `<p class="success-msg">✓ "${title}" added successfully!</p>`;
+      else { const err = await res.json(); resultEl.innerHTML = `<p class="error-msg">Error: ${err.error?.message}</p>`; }
+    } catch (e) { resultEl.innerHTML = `<p class="error-msg">Error: ${e.message}</p>`; }
   }
 
   window.onload = () => {
