@@ -206,7 +206,7 @@
   .email-btn.del:hover { border-color: var(--danger); color: var(--danger); }
   .form-group { margin-bottom: 14px; }
   .form-group label { display: block; font-size: 0.8rem; color: var(--text-muted); margin-bottom: 5px; text-transform: uppercase; letter-spacing: 0.06em; }
-  .form-group input, .form-group select {
+  .form-group input, .form-group select, .form-group textarea {
     width: 100%;
     background: var(--surface2);
     border: 1px solid var(--border);
@@ -217,8 +217,9 @@
     padding: 10px 12px;
     outline: none;
     transition: border-color 0.2s;
+    resize: vertical;
   }
-  .form-group input:focus, .form-group select:focus { border-color: var(--accent); }
+  .form-group input:focus, .form-group select:focus, .form-group textarea:focus { border-color: var(--accent); }
   .form-group select option { background: var(--surface2); }
   .submit-btn {
     width: 100%;
@@ -267,7 +268,10 @@
   <button class="btn" onclick="showAddEvent()">
     <span class="icon">➕</span>Add Event
   </button>
-  <button class="btn danger wide" onclick="deleteEmailsView()">
+  <button class="btn" onclick="showCreateEmail()">
+    <span class="icon">✉️</span>Create Email
+  </button>
+  <button class="btn danger" onclick="deleteEmailsView()">
     <span class="icon">🗑️</span>Delete Emails
   </button>
 </div>
@@ -279,11 +283,10 @@
 
 <script src="https://accounts.google.com/gsi/client" async defer></script>
 <script>
-  // Key is base64 encoded to avoid secret scanning
   const _k = atob('c2stYW50LWFwaTAzLVlocC1NS2w1UVp1ZXN2VDhteUhYdTktNk9pZGpNUTBEcjUyT3VYV2Nsek1saFdBNDFwdlBmMVRXSnNxWWppbnFncUJzQTZ0TmVfdUY5ZTlDUWpld1lnLWdkY08yd0FB');
   const GOOGLE_CLIENT_ID = '131656481327-d7o8c49e8bvvnksg73e418okoi3eaupq.apps.googleusercontent.com';
   const WIFE_CALENDAR = 'daptex48@gmail.com';
-  const SCOPES = 'https://www.googleapis.com/auth/calendar https://www.googleapis.com/auth/gmail.modify';
+  const SCOPES = 'https://www.googleapis.com/auth/calendar https://www.googleapis.com/auth/gmail.modify https://www.googleapis.com/auth/gmail.send';
   const TOKEN_KEY = 'dashboard_google_token';
   const TOKEN_EXPIRY_KEY = 'dashboard_token_expiry';
 
@@ -595,6 +598,68 @@ ${emailList}`;
       btn.textContent = 'Deleted';
     } catch (e) {
       btn.textContent = 'Error';
+    }
+  }
+
+  function showCreateEmail() {
+    showOutput('Create Email', `
+      <div class="form-group"><label>To</label><input type="email" id="em-to" placeholder="recipient@example.com"></div>
+      <div class="form-group"><label>Subject</label><input type="text" id="em-subject" placeholder="Email subject"></div>
+      <div class="form-group"><label>Message</label><textarea id="em-body" rows="6" placeholder="Type your message here..."></textarea></div>
+      <button class="submit-btn" onclick="sendEmail()">Send Email ✉️</button>
+      <div id="send-result" style="margin-top:12px"></div>
+    `);
+  }
+
+  async function sendEmail() {
+    if (!requireAuth()) return;
+    const to = document.getElementById('em-to').value.trim();
+    const subject = document.getElementById('em-subject').value.trim();
+    const body = document.getElementById('em-body').value.trim();
+    const resultEl = document.getElementById('send-result');
+
+    if (!to || !subject || !body) {
+      resultEl.innerHTML = '<p class="error-msg">Please fill in all fields.</p>';
+      return;
+    }
+
+    if (!confirm(`Send email to ${to}?`)) return;
+
+    resultEl.innerHTML = '<div class="loading"><div class="spinner"></div>Sending...</div>';
+
+    try {
+      const emailContent = [
+        `To: ${to}`,
+        `Subject: ${subject}`,
+        'Content-Type: text/plain; charset=utf-8',
+        'MIME-Version: 1.0',
+        '',
+        body
+      ].join('\n');
+
+      const encoded = btoa(unescape(encodeURIComponent(emailContent)))
+        .replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/, '');
+
+      const res = await fetch('https://www.googleapis.com/gmail/v1/users/me/messages/send', {
+        method: 'POST',
+        headers: {
+          Authorization: `Bearer ${accessToken}`,
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({ raw: encoded })
+      });
+
+      if (res.ok) {
+        resultEl.innerHTML = `<p class="success-msg">✓ Email sent to ${to}!</p>`;
+        document.getElementById('em-to').value = '';
+        document.getElementById('em-subject').value = '';
+        document.getElementById('em-body').value = '';
+      } else {
+        const err = await res.json();
+        resultEl.innerHTML = `<p class="error-msg">Error: ${err.error?.message}</p>`;
+      }
+    } catch (e) {
+      resultEl.innerHTML = `<p class="error-msg">Error: ${e.message}</p>`;
     }
   }
 
