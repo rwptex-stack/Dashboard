@@ -229,7 +229,8 @@
 
   // Fetch UNREAD emails only
   async function fetchEmailDetails(maxResults = 15) {
-    const res = await fetch(`https://www.googleapis.com/gmail/v1/users/me/messages?maxResults=${maxResults}&labelIds=INBOX&labelIds=UNREAD`, { headers: { Authorization: `Bearer ${accessToken}` } });
+    const thirtyDaysAgo = Math.floor((Date.now() - 30 * 24 * 60 * 60 * 1000) / 1000);
+    const res = await fetch(`https://www.googleapis.com/gmail/v1/users/me/messages?maxResults=${maxResults}&labelIds=INBOX&labelIds=UNREAD&q=after:${thirtyDaysAgo}`, { headers: { Authorization: `Bearer ${accessToken}` } });
     const data = await res.json();
     if (!data.messages) return [];
     return Promise.all(data.messages.map(m =>
