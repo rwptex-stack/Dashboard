@@ -22,46 +22,24 @@
     --low: #7f8c8d;
   }
   * { box-sizing: border-box; margin: 0; padding: 0; }
-  body {
-    background: var(--bg);
-    color: var(--text);
-    font-family: 'DM Sans', sans-serif;
-    min-height: 100vh;
-    padding: 32px 24px;
-  }
+  body { background: var(--bg); color: var(--text); font-family: 'DM Sans', sans-serif; min-height: 100vh; padding: 32px 24px; }
   header { text-align: center; margin-bottom: 40px; }
   header h1 { font-family: 'Playfair Display', serif; font-size: 2.4rem; color: var(--accent); letter-spacing: 0.04em; }
   header p { color: var(--text-muted); font-size: 0.85rem; margin-top: 6px; letter-spacing: 0.08em; text-transform: uppercase; }
-  #auth-bar {
-    max-width: 560px; margin: 0 auto 20px;
-    display: flex; align-items: center; justify-content: space-between;
-    background: var(--surface); border: 1px solid var(--border);
-    border-radius: 10px; padding: 12px 18px; font-size: 0.85rem;
-  }
+  #auth-bar { max-width: 560px; margin: 0 auto 20px; display: flex; align-items: center; justify-content: space-between; background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 12px 18px; font-size: 0.85rem; }
   #auth-status-text { color: var(--text-muted); }
   #auth-status-text.signed-in { color: var(--success); }
-  #sign-in-btn, #sign-out-btn {
-    border: none; border-radius: 6px; font-family: 'DM Sans', sans-serif;
-    font-weight: 600; font-size: 0.85rem; padding: 7px 16px; cursor: pointer; transition: background 0.2s;
-  }
+  #sign-in-btn, #sign-out-btn { border: none; border-radius: 6px; font-family: 'DM Sans', sans-serif; font-weight: 600; font-size: 0.85rem; padding: 7px 16px; cursor: pointer; transition: background 0.2s; }
   #sign-in-btn { background: var(--accent); color: #0f0f0f; }
   #sign-in-btn:hover { background: var(--accent2); }
   #sign-out-btn { background: var(--surface2); color: var(--text-muted); border: 1px solid var(--border); }
   #sign-out-btn:hover { color: var(--danger); border-color: var(--danger); }
   .btn-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; max-width: 560px; margin: 0 auto 32px; }
-  .btn {
-    background: var(--surface); border: 1px solid var(--border); color: var(--text);
-    font-family: 'DM Sans', sans-serif; font-size: 0.9rem; font-weight: 500;
-    padding: 18px 16px; border-radius: 10px; cursor: pointer; transition: all 0.2s ease;
-    display: flex; flex-direction: column; align-items: center; gap: 8px; letter-spacing: 0.03em;
-  }
+  .btn { background: var(--surface); border: 1px solid var(--border); color: var(--text); font-family: 'DM Sans', sans-serif; font-size: 0.9rem; font-weight: 500; padding: 18px 16px; border-radius: 10px; cursor: pointer; transition: all 0.2s ease; display: flex; flex-direction: column; align-items: center; gap: 8px; letter-spacing: 0.03em; }
   .btn:hover { background: var(--surface2); border-color: var(--accent); color: var(--accent); transform: translateY(-2px); }
   .btn .icon { font-size: 1.5rem; }
   .btn.wide { grid-column: span 2; }
-  .output-box {
-    max-width: 560px; margin: 0 auto; background: var(--surface);
-    border: 1px solid var(--border); border-radius: 12px; padding: 24px; min-height: 100px; display: none;
-  }
+  .output-box { max-width: 560px; margin: 0 auto; background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 24px; min-height: 100px; display: none; }
   .output-box.visible { display: block; }
   .output-box h2 { font-family: 'Playfair Display', serif; font-size: 1.2rem; color: var(--accent); margin-bottom: 16px; padding-bottom: 10px; border-bottom: 1px solid var(--border); }
   .loading { color: var(--text-muted); font-size: 0.9rem; display: flex; align-items: center; gap: 10px; }
@@ -70,7 +48,7 @@
   .event-item { padding: 12px 0; border-bottom: 1px solid var(--border); display: flex; gap: 14px; align-items: flex-start; }
   .event-item:last-child { border-bottom: none; }
   .event-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--accent); margin-top: 6px; flex-shrink: 0; }
-  .event-dot.wife { background: #7eb8d4; }
+  .event-dot.spouse { background: #7eb8d4; }
   .event-title { font-weight: 500; font-size: 0.95rem; }
   .event-time { color: var(--text-muted); font-size: 0.8rem; margin-top: 2px; }
   .event-owner { font-size: 0.75rem; color: var(--text-muted); margin-top: 2px; font-style: italic; }
@@ -141,7 +119,11 @@
 <script>
   const _k = atob('c2stYW50LWFwaTAzLVlocC1NS2w1UVp1ZXN2VDhteUhYdTktNk9pZGpNUTBEcjUyT3VYV2Nsek1saFdBNDFwdlBmMVRXSnNxWWppbnFncUJzQTZ0TmVfdUY5ZTlDUWpld1lnLWdkY08yd0FB');
   const GOOGLE_CLIENT_ID = '131656481327-d7o8c49e8bvvnksg73e418okoi3eaupq.apps.googleusercontent.com';
-  const WIFE_CALENDAR = 'daptex48@gmail.com';
+  const SPOUSE_CALENDAR = 'daptex48@gmail.com';
+  const SPOUSE_LABEL = "Wife's";
+  const MY_LABEL = "Mine";
+  const SPOUSE_COLOR = '#7eb8d4';
+  const MY_COLOR = 'var(--accent)';
   const SCOPES = 'https://www.googleapis.com/auth/calendar https://www.googleapis.com/auth/gmail.modify https://www.googleapis.com/auth/gmail.send https://www.googleapis.com/auth/gmail.readonly';
   const TOKEN_KEY = 'dashboard_google_token';
   const TOKEN_EXPIRY_KEY = 'dashboard_token_expiry';
@@ -149,8 +131,8 @@
 
   let tokenClient, accessToken = null;
 
-  function saveToken(token, expiresIn) { localStorage.setItem(TOKEN_KEY, token); localStorage.setItem(TOKEN_EXPIRY_KEY, (Date.now() + (expiresIn - 300) * 1000).toString()); }
-  function loadToken() { const token = localStorage.getItem(TOKEN_KEY); const expiry = parseInt(localStorage.getItem(TOKEN_EXPIRY_KEY) || '0'); return (token && Date.now() < expiry) ? token : null; }
+  function saveToken(t, e) { localStorage.setItem(TOKEN_KEY, t); localStorage.setItem(TOKEN_EXPIRY_KEY, (Date.now() + (e - 300) * 1000).toString()); }
+  function loadToken() { const t = localStorage.getItem(TOKEN_KEY); const e = parseInt(localStorage.getItem(TOKEN_EXPIRY_KEY) || '0'); return (t && Date.now() < e) ? t : null; }
   function clearToken() { localStorage.removeItem(TOKEN_KEY); localStorage.removeItem(TOKEN_EXPIRY_KEY); }
   function setSignedIn(email) {
     document.getElementById('auth-status-text').textContent = '✓ Signed in' + (email ? ' as ' + email : '');
@@ -199,45 +181,62 @@
     if (!res.ok) return [];
     return (await res.json()).items || [];
   }
-  function renderEvents(myEvents, wifeEvents, showDate = false) {
-    const all = [...myEvents.map(e => ({ ...e, owner: 'mine' })), ...wifeEvents.map(e => ({ ...e, owner: 'wife' }))]
+
+  function renderEvents(myEvents, spouseEvents, showDate = false) {
+    const all = [...myEvents.map(e => ({ ...e, owner: 'mine' })), ...spouseEvents.map(e => ({ ...e, owner: 'spouse' }))]
       .sort((a, b) => (a.start?.dateTime || a.start?.date || '').localeCompare(b.start?.dateTime || b.start?.date || ''));
     if (!all.length) return '<p class="no-events">No events found.</p>';
-    const legend = `<div class="legend"><span><span class="legend-dot" style="background:var(--accent)"></span>Yours</span><span><span class="legend-dot" style="background:#7eb8d4"></span>Wife's</span></div>`;
+    const legend = `<div class="legend">
+      <span><span class="legend-dot" style="background:${MY_COLOR}"></span>${MY_LABEL}</span>
+      <span><span class="legend-dot" style="background:${SPOUSE_COLOR}"></span>${SPOUSE_LABEL}</span>
+    </div>`;
     return legend + all.map(e => {
-      const isWife = e.owner === 'wife';
-      return `<div class="event-item"><div class="event-dot ${isWife ? 'wife' : ''}"></div><div>
-        <div class="event-title">${e.summary || '(No title)'}</div>
-        <div class="event-time">${e.start?.dateTime ? formatTime(e.start.dateTime) : 'All day'}</div>
-        ${showDate ? `<div class="event-time">${formatDate(e.start?.dateTime || e.start?.date)}</div>` : ''}
-        ${isWife ? '<div class="event-owner">Wife\'s calendar</div>' : ''}
-      </div></div>`;
+      const isSpouse = e.owner === 'spouse';
+      const dotColor = isSpouse ? SPOUSE_COLOR : MY_COLOR;
+      return `<div class="event-item">
+        <div class="event-dot" style="background:${dotColor}"></div>
+        <div>
+          <div class="event-title">${e.summary || '(No title)'}</div>
+          <div class="event-time">${e.start?.dateTime ? formatTime(e.start.dateTime) : 'All day'}</div>
+          ${showDate ? `<div class="event-time">${formatDate(e.start?.dateTime || e.start?.date)}</div>` : ''}
+          ${isSpouse ? `<div class="event-owner">${SPOUSE_LABEL} calendar</div>` : ''}
+        </div>
+      </div>`;
     }).join('');
   }
+
   async function getTodayCalendar() {
     if (!requireAuth()) return; loading("Today's Calendar");
     const now = new Date();
     const start = new Date(now.getFullYear(), now.getMonth(), now.getDate()).toISOString();
     const end = new Date(now.getFullYear(), now.getMonth(), now.getDate(), 23, 59, 59).toISOString();
-    try { const [mine, wife] = await Promise.all([fetchCalendarEvents('primary', start, end), fetchCalendarEvents(WIFE_CALENDAR, start, end)]); showOutput("Today's Calendar", renderEvents(mine, wife, false)); }
-    catch (e) { showOutput("Today's Calendar", `<p class="error-msg">Error: ${e.message}</p>`); }
+    try {
+      const [mine, spouse] = await Promise.all([fetchCalendarEvents('primary', start, end), fetchCalendarEvents(SPOUSE_CALENDAR, start, end)]);
+      showOutput("Today's Calendar", renderEvents(mine, spouse, false));
+    } catch (e) { showOutput("Today's Calendar", `<p class="error-msg">Error: ${e.message}</p>`); }
   }
+
   async function getWeekCalendar() {
     if (!requireAuth()) return; loading("This Week's Calendar");
     const now = new Date();
     const start = new Date(now.getFullYear(), now.getMonth(), now.getDate()).toISOString();
     const end = new Date(now.getFullYear(), now.getMonth(), now.getDate() + 7, 23, 59, 59).toISOString();
-    try { const [mine, wife] = await Promise.all([fetchCalendarEvents('primary', start, end), fetchCalendarEvents(WIFE_CALENDAR, start, end)]); showOutput("This Week's Calendar", renderEvents(mine, wife, true)); }
-    catch (e) { showOutput("This Week's Calendar", `<p class="error-msg">Error: ${e.message}</p>`); }
+    try {
+      const [mine, spouse] = await Promise.all([fetchCalendarEvents('primary', start, end), fetchCalendarEvents(SPOUSE_CALENDAR, start, end)]);
+      showOutput("This Week's Calendar", renderEvents(mine, spouse, true));
+    } catch (e) { showOutput("This Week's Calendar", `<p class="error-msg">Error: ${e.message}</p>`); }
   }
+
+  // Fetch UNREAD emails only
   async function fetchEmailDetails(maxResults = 15) {
-    const res = await fetch(`https://www.googleapis.com/gmail/v1/users/me/messages?maxResults=${maxResults}&labelIds=INBOX`, { headers: { Authorization: `Bearer ${accessToken}` } });
+    const res = await fetch(`https://www.googleapis.com/gmail/v1/users/me/messages?maxResults=${maxResults}&labelIds=INBOX&labelIds=UNREAD`, { headers: { Authorization: `Bearer ${accessToken}` } });
     const data = await res.json();
     if (!data.messages) return [];
     return Promise.all(data.messages.map(m =>
       fetch(`https://www.googleapis.com/gmail/v1/users/me/messages/${m.id}?format=metadata&metadataHeaders=From&metadataHeaders=Subject&metadataHeaders=Date&metadataHeaders=Reply-To`, { headers: { Authorization: `Bearer ${accessToken}` } }).then(r => r.json())
     ));
   }
+
   function parseEmailMeta(msg) {
     const headers = msg.payload?.headers || [];
     const from = headers.find(h => h.name === 'From')?.value || 'Unknown';
@@ -249,6 +248,7 @@
     const d = date ? new Date(date).toLocaleDateString('en-US', { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit' }) : '';
     return { id: msg.id, from: fromName, replyEmail, subject, date: d };
   }
+
   async function fetchEmailBody(msgId) {
     const res = await fetch(`https://www.googleapis.com/gmail/v1/users/me/messages/${msgId}?format=full`, { headers: { Authorization: `Bearer ${accessToken}` } });
     const data = await res.json();
@@ -263,6 +263,7 @@
     }
     return extractBody(data.payload) || '(No readable content)';
   }
+
   async function toggleRead(msgId, btn) {
     const bodyEl = document.getElementById('body-' + msgId);
     if (bodyEl.classList.contains('visible')) { bodyEl.classList.remove('visible'); btn.textContent = '📖 Read'; return; }
@@ -270,11 +271,13 @@
     try { bodyEl.textContent = await fetchEmailBody(msgId); bodyEl.classList.add('visible'); btn.textContent = '📖 Hide'; }
     catch (e) { bodyEl.textContent = 'Error loading email.'; bodyEl.classList.add('visible'); btn.textContent = '📖 Hide'; }
   }
+
   function toggleReply(msgId) {
     const replyEl = document.getElementById('reply-' + msgId);
     if (replyEl.classList.contains('visible')) { replyEl.classList.remove('visible'); return; }
     replyEl.classList.add('visible'); replyEl.querySelector('textarea').focus();
   }
+
   async function sendReply(msgId, replyEmail, subject, btn) {
     const textarea = document.getElementById('reply-' + msgId).querySelector('textarea');
     const body = textarea.value.trim();
@@ -291,14 +294,16 @@
     } catch (e) { statusEl.innerHTML = `<span style="color:var(--danger)">Error: ${e.message}</span>`; }
     btn.textContent = 'Send Reply';
   }
+
   async function deleteEmail(msgId, btn) {
     if (!confirm('Delete this email?')) return; btn.textContent = 'Deleting...';
     try { await fetch(`https://www.googleapis.com/gmail/v1/users/me/messages/${msgId}/trash`, { method: 'POST', headers: { Authorization: `Bearer ${accessToken}` } }); btn.closest('.email-item').style.opacity = '0.3'; btn.textContent = 'Deleted'; }
     catch (e) { btn.textContent = 'Error'; }
   }
+
   async function prioritizeWithAI(emails) {
     const emailList = emails.map((e, i) => `${i + 1}. From: ${e.from} | Subject: ${e.subject} | Date: ${e.date}`).join('\n');
-    const prompt = `You are a personal email assistant. Prioritize these emails into three groups: URGENT, IMPORTANT, and LOW. For each email provide a one-sentence summary. Respond ONLY with valid JSON: {"urgent":[{"index":1,"summary":"brief summary"}],"important":[{"index":2,"summary":"brief summary"}],"low":[{"index":3,"summary":"brief summary"}]}\nEmails:\n${emailList}`;
+    const prompt = `You are a personal email assistant. Prioritize these UNREAD emails into three groups: URGENT, IMPORTANT, and LOW. For each email provide a one-sentence summary. Respond ONLY with valid JSON: {"urgent":[{"index":1,"summary":"brief summary"}],"important":[{"index":2,"summary":"brief summary"}],"low":[{"index":3,"summary":"brief summary"}]}\nEmails:\n${emailList}`;
     const res = await fetch('https://api.anthropic.com/v1/messages', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json', 'x-api-key': _k, 'anthropic-version': '2023-06-01', 'anthropic-dangerous-direct-browser-access': 'true' },
@@ -307,6 +312,7 @@
     const data = await res.json();
     try { return JSON.parse((data.content?.[0]?.text || '{}').replace(/```json|```/g, '').trim()); } catch { return null; }
   }
+
   function emailActionsHTML(email) {
     return `<div class="email-actions">
       <button class="email-btn" onclick="toggleRead('${email.id}', this)">📖 Read</button>
@@ -321,9 +327,10 @@
       <div class="reply-status" id="reply-status-${email.id}"></div>
     </div>`;
   }
+
   function renderPrioritizedEmails(emails, prioritized) {
     const groups = [{ key: 'urgent', label: '🔴 Urgent', cls: 'urgent' }, { key: 'important', label: '🟠 Important', cls: 'important' }, { key: 'low', label: '⚪ Low Priority', cls: 'low' }];
-    let html = '<p class="ai-note">✨ Prioritized by AI — most important first</p>';
+    let html = '<p class="ai-note">✨ Unread emails — prioritized by AI</p>';
     for (const group of groups) {
       const items = prioritized[group.key] || [];
       if (!items.length) continue;
@@ -337,11 +344,12 @@
     }
     return html;
   }
+
   async function checkEmails() {
-    if (!requireAuth()) return; loading('Check Emails', 'Fetching emails...');
+    if (!requireAuth()) return; loading('Check Emails', 'Fetching unread emails...');
     try {
       const emails = await fetchEmailDetails(15);
-      if (!emails.length) { showOutput('Check Emails', '<p class="no-events">No emails found.</p>'); return; }
+      if (!emails.length) { showOutput('Check Emails', '<p class="no-events">No unread emails — inbox is clear! 🎉</p>'); return; }
       const parsed = emails.map(parseEmailMeta);
       showOutput('Check Emails', '<div class="loading"><div class="spinner"></div>AI is prioritizing your emails...</div>');
       const prioritized = await prioritizeWithAI(parsed);
@@ -349,6 +357,7 @@
         : parsed.map(e => `<div class="email-item"><div class="email-from">${e.from}</div><div class="email-subject">${e.subject}</div><div class="email-date">${e.date}</div>${emailActionsHTML(e)}</div>`).join(''));
     } catch (e) { showOutput('Check Emails', `<p class="error-msg">Error: ${e.message}</p>`); }
   }
+
   function showCreateEmail() {
     showOutput('Create Email', `
       <div class="form-group"><label>To</label><input type="email" id="em-to" placeholder="recipient@example.com"></div>
@@ -358,6 +367,7 @@
       <div id="send-result" style="margin-top:12px"></div>
     `);
   }
+
   async function sendEmail() {
     if (!requireAuth()) return;
     const to = document.getElementById('em-to').value.trim();
@@ -375,6 +385,7 @@
       else { const err = await res.json(); resultEl.innerHTML = `<p class="error-msg">Error: ${err.error?.message}</p>`; }
     } catch (e) { resultEl.innerHTML = `<p class="error-msg">Error: ${e.message}</p>`; }
   }
+
   function showAddEvent() {
     const today = new Date().toISOString().slice(0, 16);
     showOutput('Add Calendar Event', `
@@ -385,12 +396,14 @@
         <option value="90">1.5 hours</option><option value="120">2 hours</option>
       </select></div>
       <div class="form-group"><label>Calendar</label><select id="ev-calendar">
-        <option value="primary">Mine</option><option value="${WIFE_CALENDAR}">Wife's</option>
+        <option value="primary">${MY_LABEL}</option>
+        <option value="${SPOUSE_CALENDAR}">${SPOUSE_LABEL}</option>
       </select></div>
       <button class="submit-btn" onclick="addEvent()">Add to Calendar</button>
       <div id="add-result" style="margin-top:12px"></div>
     `);
   }
+
   async function addEvent() {
     if (!requireAuth()) return;
     const title = document.getElementById('ev-title').value.trim();
@@ -408,6 +421,7 @@
       else { const err = await res.json(); resultEl.innerHTML = `<p class="error-msg">Error: ${err.error?.message}</p>`; }
     } catch (e) { resultEl.innerHTML = `<p class="error-msg">Error: ${e.message}</p>`; }
   }
+
   window.onload = () => {
     const gsiScript = document.querySelector('script[src*="gsi"]');
     if (typeof google !== 'undefined') initGoogle();
