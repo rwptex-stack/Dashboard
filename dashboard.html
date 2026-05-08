@@ -233,9 +233,15 @@
     return data.content?.[0]?.text || '';
   }
 
+  // --- Date key for daily cache ---
+  function todayKey() { return new Date().toISOString().slice(0, 10); }
+
   // --- Spanish Word of the Day ---
   async function loadSpanishWord() {
     const el = document.getElementById('spanish-content');
+    const cacheKey = 'spanish_word_' + todayKey();
+    const cached = localStorage.getItem(cacheKey);
+    if (cached) { el.innerHTML = cached; return; }
     try {
       const today = new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric' });
       const text = await callAI(`Generate a Spain Spanish (Castilian) word of the day useful for tourists visiting Spain. Focus on practical travel vocabulary: transportation, restaurants, hotels, shopping, directions, sightseeing, or polite phrases. 
@@ -246,13 +252,18 @@ Respond ONLY with valid JSON, no other text:
 Today is ${today}. Make it genuinely useful for a tourist in Spain.`, 400);
 
       const data = JSON.parse(text.replace(/```json|```/g, '').trim());
-      el.innerHTML = `
+      const html = `
         <div class="spanish-word">${data.word}</div>
         <div class="spanish-pos">${data.partOfSpeech} · ${data.englishMeaning}</div>
         <div class="spanish-meaning">${data.description}</div>
         <div class="spanish-example">"${data.exampleSpanish}"</div>
         <div class="spanish-example-en">"${data.exampleEnglish}"</div>
       `;
+      el.innerHTML = html;
+      localStorage.setItem(cacheKey, html);
+      // Clear yesterday's cache
+      const yesterday = new Date(Date.now() - 86400000).toISOString().slice(0, 10);
+      localStorage.removeItem('spanish_word_' + yesterday);
     } catch (e) {
       el.innerHTML = '<span class="info-loading">Could not load today\'s word.</span>';
     }
@@ -261,6 +272,9 @@ Today is ${today}. Make it genuinely useful for a tourist in Spain.`, 400);
   // --- This Day in History ---
   async function loadHistory() {
     const el = document.getElementById('history-content');
+    const cacheKey = 'history_' + todayKey();
+    const cached = localStorage.getItem(cacheKey);
+    if (cached) { el.innerHTML = cached; return; }
     try {
       const now = new Date();
       const month = now.toLocaleDateString('en-US', { month: 'long' });
@@ -271,12 +285,17 @@ Respond ONLY with valid JSON, no other text:
 {"events":[{"year":1969,"event":"Brief description of what happened, one or two sentences max"},{"year":1865,"event":"Brief description of what happened, one or two sentences max"}]}`, 300);
 
       const data = JSON.parse(text.replace(/```json|```/g, '').trim());
-      el.innerHTML = data.events.map((e, i) => `
+      const html = data.events.map((e, i) => `
         <div class="${i > 0 ? 'history-item history-divider' : 'history-item'}">
           <div class="history-year">${e.year}</div>
           <div class="history-text">${e.event}</div>
         </div>
       `).join('');
+      el.innerHTML = html;
+      localStorage.setItem(cacheKey, html);
+      // Clear yesterday's cache
+      const yesterday = new Date(Date.now() - 86400000).toISOString().slice(0, 10);
+      localStorage.removeItem('history_' + yesterday);
     } catch (e) {
       el.innerHTML = '<span class="info-loading">Could not load history.</span>';
     }
