@@ -234,17 +234,29 @@
   }
 
   // --- Date key for daily cache ---
-  function todayKey() { return new Date().toISOString().slice(0, 10); }
+  function todayKey() {
+    const now = new Date();
+    return `${now.getFullYear()}-${now.getMonth()}-${now.getDate()}`;
+  }
+
+  function clearOldCache(prefix) {
+    Object.keys(localStorage).forEach(key => {
+      if (key.startsWith(prefix) && key !== prefix + todayKey()) {
+        localStorage.removeItem(key);
+      }
+    });
+  }
 
   // --- Spanish Word of the Day ---
   async function loadSpanishWord() {
     const el = document.getElementById('spanish-content');
     const cacheKey = 'spanish_word_' + todayKey();
+    clearOldCache('spanish_word_');
     const cached = localStorage.getItem(cacheKey);
     if (cached) { el.innerHTML = cached; return; }
     try {
-      const today = new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric' });
-      const text = await callAI(`Generate a Spain Spanish (Castilian) word of the day useful for tourists visiting Spain. Focus on practical travel vocabulary: transportation, restaurants, hotels, shopping, directions, sightseeing, or polite phrases. 
+      const today = new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
+      const text = await callAI(`Generate a Spain Spanish (Castilian) word of the day useful for tourists visiting Spain. Focus on practical travel vocabulary: transportation, restaurants, hotels, shopping, directions, sightseeing, or polite phrases.
 
 Respond ONLY with valid JSON, no other text:
 {"word":"el/la word","partOfSpeech":"noun/verb/adjective/phrase","englishMeaning":"English translation","description":"One sentence explanation of when and how to use it in Spain","exampleSpanish":"Example sentence in Spanish","exampleEnglish":"English translation of example"}
@@ -261,9 +273,6 @@ Today is ${today}. Make it genuinely useful for a tourist in Spain.`, 400);
       `;
       el.innerHTML = html;
       localStorage.setItem(cacheKey, html);
-      // Clear yesterday's cache
-      const yesterday = new Date(Date.now() - 86400000).toISOString().slice(0, 10);
-      localStorage.removeItem('spanish_word_' + yesterday);
     } catch (e) {
       el.innerHTML = '<span class="info-loading">Could not load today\'s word.</span>';
     }
@@ -273,13 +282,15 @@ Today is ${today}. Make it genuinely useful for a tourist in Spain.`, 400);
   async function loadHistory() {
     const el = document.getElementById('history-content');
     const cacheKey = 'history_' + todayKey();
+    clearOldCache('history_');
     const cached = localStorage.getItem(cacheKey);
     if (cached) { el.innerHTML = cached; return; }
     try {
       const now = new Date();
       const month = now.toLocaleDateString('en-US', { month: 'long' });
       const day = now.getDate();
-      const text = await callAI(`Give me exactly 2 notable historical events that happened on ${month} ${day} in history. Choose genuinely interesting and significant events from different time periods and topics.
+      const year = now.getFullYear();
+      const text = await callAI(`Give me exactly 2 notable historical events that happened on ${month} ${day} in history (before ${year}). Choose genuinely interesting and significant events from different time periods and topics.
 
 Respond ONLY with valid JSON, no other text:
 {"events":[{"year":1969,"event":"Brief description of what happened, one or two sentences max"},{"year":1865,"event":"Brief description of what happened, one or two sentences max"}]}`, 300);
@@ -293,9 +304,6 @@ Respond ONLY with valid JSON, no other text:
       `).join('');
       el.innerHTML = html;
       localStorage.setItem(cacheKey, html);
-      // Clear yesterday's cache
-      const yesterday = new Date(Date.now() - 86400000).toISOString().slice(0, 10);
-      localStorage.removeItem('history_' + yesterday);
     } catch (e) {
       el.innerHTML = '<span class="info-loading">Could not load history.</span>';
     }
