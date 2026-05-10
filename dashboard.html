@@ -238,12 +238,14 @@
     const el = document.getElementById('spanish-content');
     try {
       const now = new Date();
-      const today = now.toLocaleDateString('en-US', { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' });
-      const seed = now.getFullYear() * 10000 + (now.getMonth() + 1) * 100 + now.getDate();
-      const text = await callAI(`Today is ${today} (date code: ${seed}). Generate a unique Spain Spanish (Castilian) word of the day for this specific date. It must be different from words on other days. Focus on practical tourist vocabulary: transportation, restaurants, hotels, shopping, directions, sightseeing, or polite phrases used in Spain specifically.
+      const categories = ['transportation and getting around','ordering food and drinks at a restaurant','checking into a hotel','shopping and bargaining','asking for directions','visiting museums and monuments','polite phrases and etiquette','beach and leisure activities','tapas bars and nightlife','buying train or bus tickets'];
+      const rand = Math.floor(Math.random() * 9999);
+      const category = categories[rand % categories.length];
+      const words_to_avoid = ['hola','gracias','por favor','adios','si','no','buenos dias','buenas noches'];
+      const text = await callAI(`You are a Spanish language teacher specializing in Castilian Spanish for tourists. Generate ONE specific useful word or short phrase related to: "${category}". Avoid these common words: ${words_to_avoid.join(', ')}. Use variation ${rand} to ensure variety.
 
 Respond ONLY with valid JSON, no other text:
-{"word":"el/la word","partOfSpeech":"noun/verb/adjective/phrase","englishMeaning":"English translation","description":"One sentence explanation of when and how to use it in Spain","exampleSpanish":"Example sentence in Spanish","exampleEnglish":"English translation of example"}`, 400);
+{"word":"el/la word or phrase","partOfSpeech":"noun/verb/adjective/phrase","englishMeaning":"English translation","description":"One sentence explanation of when and how to use it in Spain","exampleSpanish":"Example sentence in Spanish","exampleEnglish":"English translation of example"}`, 400);
 
       const data = JSON.parse(text.replace(/```json|```/g, '').trim());
       el.innerHTML = `
@@ -266,7 +268,11 @@ Respond ONLY with valid JSON, no other text:
       const month = now.toLocaleDateString('en-US', { month: 'long' });
       const day = now.getDate();
       const year = now.getFullYear();
-      const text = await callAI(`What are 2 notable historical events that happened on ${month} ${day} in history (any year before ${year})? Choose events from very different time periods. Be specific and accurate.
+      const rand2 = Math.floor(Math.random() * 9999);
+      const topics = ['science and invention','politics and war','art and culture','exploration and discovery','sports'];
+      const topic1 = topics[Math.floor(Math.random() * topics.length)];
+      const topic2 = topics[Math.floor(Math.random() * topics.length)];
+      const text = await callAI(`Give me 2 real historical events on ${month} ${day} (before ${year}). Event 1 should relate to ${topic1}, Event 2 to ${topic2}. Variation: ${rand2}. Be specific with accurate years.
 
 Respond ONLY with valid JSON, no other text:
 {"events":[{"year":1969,"event":"One or two sentence description"},{"year":1865,"event":"One or two sentence description"}]}`, 300);
