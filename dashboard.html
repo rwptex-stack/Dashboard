@@ -110,6 +110,55 @@
   .success-msg { color: var(--success); font-size: 0.85rem; }
   .ai-note { font-size: 0.78rem; color: var(--text-muted); margin-bottom: 14px; font-style: italic; }
 
+  /* Today's Menu */
+  .menu-card { max-width: 560px; margin: 0 auto 24px; background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 18px; }
+  .menu-header { display: flex; align-items: baseline; justify-content: space-between; margin-bottom: 12px; padding-bottom: 10px; border-bottom: 1px solid var(--border); flex-wrap: wrap; gap: 6px; }
+  .menu-title { color: var(--accent); font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.1em; }
+  .menu-day { font-family: 'Playfair Display', serif; font-size: 1.2rem; color: var(--accent2); }
+  .menu-subtitle { font-size: 0.78rem; color: var(--text-muted); font-style: italic; margin-left: 6px; }
+  .meal-row { display: flex; align-items: flex-start; gap: 12px; padding: 10px 0; border-bottom: 1px solid var(--border); }
+  .meal-row:last-of-type { border-bottom: none; }
+  .meal-label { font-size: 0.72rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.1em; color: var(--text-muted); min-width: 78px; padding-top: 3px; flex-shrink: 0; }
+  .meal-text { flex: 1; font-size: 0.88rem; line-height: 1.45; }
+  .recipe-btn { background: transparent; color: var(--text-muted); border: 1px solid var(--border); border-radius: 4px; padding: 4px 10px; font-size: 0.72rem; font-family: 'DM Sans', sans-serif; cursor: pointer; transition: all 0.15s; flex-shrink: 0; }
+  .recipe-btn:hover { border-color: var(--accent); color: var(--accent); }
+  .week-btn { width: 100%; margin-top: 14px; background: transparent; color: var(--text-muted); border: 1px solid var(--border); border-radius: 6px; padding: 9px; font-size: 0.85rem; font-family: 'DM Sans', sans-serif; cursor: pointer; transition: all 0.15s; }
+  .week-btn:hover { border-color: var(--accent); color: var(--accent); }
+  /* Recipe display */
+  .recipe-meta { display: flex; gap: 18px; margin-bottom: 14px; font-size: 0.82rem; color: var(--text-muted); flex-wrap: wrap; }
+  .recipe-meta strong { color: var(--text); font-weight: 500; }
+  .recipe-section-title { font-size: 0.78rem; color: var(--accent); text-transform: uppercase; letter-spacing: 0.1em; margin: 18px 0 8px; }
+  .recipe-list { list-style: none; padding: 0; margin: 0; }
+  .recipe-list li { font-size: 0.88rem; line-height: 1.6; padding: 3px 0; }
+  .recipe-list.numbered { counter-reset: step; }
+  .recipe-list.numbered li { padding-left: 32px; position: relative; padding-top: 6px; padding-bottom: 6px; }
+  .recipe-list.numbered li::before { counter-increment: step; content: counter(step); position: absolute; left: 0; top: 6px; width: 22px; height: 22px; border-radius: 50%; background: var(--accent); color: var(--bg); display: flex; align-items: center; justify-content: center; font-size: 0.72rem; font-weight: 600; }
+  .recipe-tip { background: var(--surface2); border-left: 3px solid var(--accent); padding: 9px 12px; margin: 6px 0; font-size: 0.84rem; line-height: 1.5; border-radius: 0 4px 4px 0; }
+  /* Full week view */
+  .week-grid { display: flex; flex-direction: column; gap: 12px; }
+  .week-day { padding: 12px 14px; background: var(--surface2); border-radius: 8px; }
+  .week-day-name { color: var(--accent2); font-family: 'Playfair Display', serif; font-size: 1.05rem; margin-bottom: 6px; }
+  .week-day-subtitle { color: var(--text-muted); font-style: italic; font-size: 0.85rem; font-family: 'DM Sans', sans-serif; margin-left: 6px; }
+  .week-meal { font-size: 0.85rem; line-height: 1.5; padding: 4px 0; display: flex; align-items: flex-start; gap: 8px; flex-wrap: wrap; }
+  .week-meal-label { color: var(--text-muted); font-weight: 500; min-width: 78px; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; padding-top: 4px; }
+  .week-meal-text { flex: 1; min-width: 200px; }
+  /* Menu v2 additions */
+  .menu-week-tag { display: inline-block; margin-left: 10px; background: var(--accent); color: var(--bg); font-size: 0.62rem; padding: 2px 8px; border-radius: 10px; letter-spacing: 0.08em; font-weight: 600; vertical-align: 2px; }
+  .menu-btn-row { display: flex; gap: 8px; margin-top: 14px; flex-wrap: wrap; }
+  .menu-btn { flex: 1 1 100px; background: transparent; color: var(--text-muted); border: 1px solid var(--border); border-radius: 6px; padding: 9px 6px; font-size: 0.82rem; font-family: 'DM Sans', sans-serif; cursor: pointer; transition: all 0.15s; }
+  .menu-btn:hover { border-color: var(--accent); color: var(--accent); }
+  .refresh-form { display: flex; flex-direction: column; gap: 12px; }
+  .refresh-row { display: flex; flex-direction: column; gap: 6px; }
+  .refresh-label { font-size: 0.78rem; color: var(--text-muted); }
+  .refresh-select, .refresh-textarea { background: var(--surface2); border: 1px solid var(--border); border-radius: 6px; padding: 8px 10px; color: var(--text); font-family: 'DM Sans', sans-serif; font-size: 0.9rem; }
+  .refresh-textarea { resize: vertical; min-height: 60px; }
+  .refresh-submit { background: var(--accent); color: var(--bg); border: none; border-radius: 6px; padding: 10px 16px; font-family: 'DM Sans', sans-serif; font-size: 0.95rem; cursor: pointer; font-weight: 500; align-self: flex-start; }
+  .refresh-submit:hover { opacity: 0.9; }
+  .week-section { margin-bottom: 22px; }
+  .week-section-title { font-size: 0.95rem; font-weight: 600; color: var(--accent); text-transform: uppercase; letter-spacing: 0.12em; margin-bottom: 10px; padding-bottom: 4px; border-bottom: 1px solid var(--border); }
+  .week-current { font-weight: 400; font-style: italic; color: var(--text-muted); text-transform: none; letter-spacing: normal; margin-left: 6px; font-size: 0.8rem; }
+  .shop-section { margin-bottom: 16px; }
+
   /* Weather */
   .weather-day { padding: 10px 0; border-bottom: 1px solid var(--border); display: flex; align-items: center; justify-content: space-between; }
   .weather-day:last-child { border-bottom: none; }
@@ -152,6 +201,23 @@
   <div class="info-card">
     <div class="info-card-label">📜 This day in history</div>
     <div id="history-content"><span class="info-loading">Loading...</span></div>
+  </div>
+</div>
+
+<!-- Today's Menu -->
+<div class="menu-card" id="menu-card">
+  <div class="menu-header">
+    <div>
+      <span class="menu-title">🍽️ Today's Menu</span>
+      <span class="menu-week-tag" id="menu-week-tag"></span>
+    </div>
+    <div><span class="menu-day" id="menu-day-name"></span></div>
+  </div>
+  <div id="menu-meals"></div>
+  <div class="menu-btn-row">
+    <button class="menu-btn" onclick="showFullTwoWeeks()">📅 Full 2 weeks</button>
+    <button class="menu-btn" onclick="showRefreshForm()">🔄 Refresh menu</button>
+    <button class="menu-btn" onclick="showShoppingList()">🛒 Shopping list</button>
   </div>
 </div>
 
@@ -604,12 +670,225 @@ Respond ONLY with valid JSON, no other text:
     } catch (e) { resultEl.innerHTML = `<p class="error-msg">Error: ${e.message}</p>`; }
   }
 
+  // --- Today's Menu (v2: two-week rotation) ---
+  const MENU_STORAGE_KEY = 'menu_v2';
+  const DAY_NAMES = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
+  const MENU_PREFS = 'Couple in their late 70s in Texas. Rules: No rice. No tuna. No slow cooker. Include variety distributed across the days — no fixed theme nights. Across two weeks, include steak (with baked potato or french fries) at least once, pork, white fish (cod, tilapia, or similar pan-seared), chicken, an occasional chicken piccata or shrimp scampi, two or three pasta dishes, and one cheese-and-bread night per week. Breakfasts are usually melon + half banana + toast + milk; once or twice a week, do a cheese omelette, pancakes with syrup, or French toast. Lunches are simple: half-sandwich (turkey, ham-and-Swiss, egg salad) with tomato/avocado and chips, OR soup with a half grilled cheese, OR leftovers from the previous dinner. Dinners are the main effort: meat or fish with one or two sides. Build in deliberate leftovers ("make extra chicken Monday" -> "leftover chicken Tuesday"). Avoid specialty spices or hard-to-find condiments.';
+
+  const DEFAULT_WEEK_A = [
+    { breakfast: 'French toast with melon', lunch: 'Tomato soup with a half grilled cheese', dinner: 'Spaghetti with meat sauce, green salad, garlic bread' },
+    { breakfast: 'Melon, half banana, toast, milk', lunch: 'Half turkey sandwich with tomato and avocado, chips', dinner: 'Baked chicken thighs, roasted carrots, buttered egg noodles (make extra chicken)' },
+    { breakfast: 'Melon, half banana, toast, milk', lunch: 'Leftover chicken over salad, or in a sandwich', dinner: 'Pan-seared fish with lemon, green beans, mashed potatoes' },
+    { breakfast: 'Cheese omelette with toast', lunch: 'Chicken noodle soup with a half grilled cheese', dinner: 'Pork chops with applesauce, sautéed zucchini, dinner rolls' },
+    { breakfast: 'Melon, half banana, toast, milk', lunch: 'Egg salad on toast with sliced tomato, chips', dinner: 'Chicken piccata over linguine with a green vegetable' },
+    { breakfast: 'Melon, half banana, toast, milk', lunch: 'Half ham-and-Swiss sandwich with tomato and avocado, chips', dinner: 'French bread, two or three cheeses, sliced apple or pear, olives, a little salami or prosciutto' },
+    { breakfast: 'Pancakes with syrup, banana on the side', lunch: 'Tomato soup with a half grilled cheese', dinner: 'Steak with baked potato (or french fries), green beans or wedge salad, sautéed mushrooms' },
+  ];
+
+  const DEFAULT_WEEK_B = [
+    { breakfast: 'Cheese omelette with toast', lunch: 'Half turkey sandwich with tomato and avocado, chips', dinner: 'Shrimp scampi over linguine with a green salad and garlic bread' },
+    { breakfast: 'Melon, half banana, toast, milk', lunch: 'Tomato soup with a half grilled cheese', dinner: 'Meatloaf with mashed potatoes and green beans (make extra meatloaf)' },
+    { breakfast: 'Melon, half banana, toast, milk', lunch: 'Leftover meatloaf sandwich, chips', dinner: 'Baked tilapia (or cod) with roasted potatoes and sautéed spinach' },
+    { breakfast: 'Melon, half banana, toast, milk', lunch: 'Chicken noodle soup with a half grilled cheese', dinner: 'Penne with marinara and Italian sausage, green salad, garlic bread' },
+    { breakfast: 'French toast with melon', lunch: 'Half ham-and-Swiss sandwich with tomato and avocado, chips', dinner: 'Roast chicken with stuffing, green beans, dinner rolls (make extra chicken)' },
+    { breakfast: 'Melon, half banana, toast, milk', lunch: 'Chicken salad sandwich (from leftover roast chicken), sliced tomato, chips', dinner: 'Pork tenderloin with applesauce, mashed potatoes, sautéed carrots' },
+    { breakfast: 'Pancakes with syrup, banana on the side', lunch: 'Egg salad on toast with sliced tomato, chips', dinner: 'French bread, two or three cheeses, sliced apple or pear, olives, a little salami or prosciutto' },
+  ];
+
+  function loadMenus() {
+    try {
+      const saved = JSON.parse(localStorage.getItem(MENU_STORAGE_KEY) || 'null');
+      if (saved && Array.isArray(saved.weekA) && Array.isArray(saved.weekB) && saved.weekA.length === 7 && saved.weekB.length === 7) return saved;
+    } catch (e) {}
+    return { weekA: DEFAULT_WEEK_A, weekB: DEFAULT_WEEK_B };
+  }
+  function saveMenus(menus) { localStorage.setItem(MENU_STORAGE_KEY, JSON.stringify(menus)); }
+
+  function getCurrentWeekLabel() {
+    // Reference Sunday: Jan 4, 2026 = start of "Week A"
+    const epoch = new Date(2026, 0, 4);
+    const today = new Date(); today.setHours(0,0,0,0);
+    const weeks = Math.floor((today - epoch) / (7 * 86400000));
+    return ((weeks % 2) + 2) % 2 === 0 ? 'A' : 'B';
+  }
+
+  function renderTodayMenu() {
+    const menus = loadMenus();
+    const week = getCurrentWeekLabel();
+    const dayIdx = new Date().getDay();
+    const meal = (week === 'A' ? menus.weekA : menus.weekB)[dayIdx];
+    document.getElementById('menu-day-name').textContent = DAY_NAMES[dayIdx];
+    document.getElementById('menu-week-tag').textContent = 'Week ' + week;
+    const meals = [
+      { type: 'breakfast', label: 'Breakfast' },
+      { type: 'lunch', label: 'Lunch' },
+      { type: 'dinner', label: 'Dinner' },
+    ];
+    document.getElementById('menu-meals').innerHTML = meals.map(m => `
+      <div class="meal-row">
+        <div class="meal-label">${m.label}</div>
+        <div class="meal-text">${meal[m.type]}</div>
+        <button class="recipe-btn" onclick="getRecipe('${week}', ${dayIdx}, '${m.type}')">Recipe</button>
+      </div>
+    `).join('');
+  }
+
+  function showFullTwoWeeks() {
+    const menus = loadMenus();
+    const currentWeek = getCurrentWeekLabel();
+    const order = [1, 2, 3, 4, 5, 6, 0]; // Monday through Sunday
+    function renderWeek(label, days) {
+      const isCurrent = label === currentWeek;
+      return '<div class="week-section"><div class="week-section-title">Week ' + label +
+        (isCurrent ? ' <span class="week-current">(this week)</span>' : '') +
+        '</div><div class="week-grid">' + order.map(idx => {
+          const d = days[idx];
+          const mealRow = (lbl, type) => `
+            <div class="week-meal">
+              <span class="week-meal-label">${lbl}</span>
+              <span class="week-meal-text">${d[type]}</span>
+              <button class="recipe-btn" onclick="getRecipe('${label}', ${idx}, '${type}')">Recipe</button>
+            </div>`;
+          return `
+            <div class="week-day">
+              <div class="week-day-name">${DAY_NAMES[idx]}</div>
+              ${mealRow('Breakfast', 'breakfast')}
+              ${mealRow('Lunch', 'lunch')}
+              ${mealRow('Dinner', 'dinner')}
+            </div>`;
+        }).join('') + '</div></div>';
+    }
+    showOutput('Two-Week Menu', renderWeek('A', menus.weekA) + renderWeek('B', menus.weekB));
+  }
+
+  async function getRecipe(week, dayIdx, mealType) {
+    const menus = loadMenus();
+    const meal = (week === 'A' ? menus.weekA : menus.weekB)[dayIdx][mealType];
+    const dayName = DAY_NAMES[dayIdx];
+    const mealLabel = mealType.charAt(0).toUpperCase() + mealType.slice(1);
+    loading(`Recipe — ${dayName} ${mealLabel}`, 'Asking Claude for the recipe...');
+    try {
+      const text = await callAI(`You are a friendly home cooking instructor writing a recipe for an older couple in Texas. They asked for cooking instructions for this meal: "${meal}".
+
+Write a recipe that serves 2 people. Use common ingredients found at any standard grocery store — avoid specialty spices or hard-to-find condiments. Be precise with quantities and clear with steps. If the description contains more than one option (e.g. "chicken piccata or shrimp scampi"), pick the first option. If the meal is very simple (like "melon, banana, toast, milk"), still provide a brief assembly guide with quantities for two people.
+
+Respond ONLY with valid JSON, no other text:
+{"name":"Recipe name","servings":2,"prepTime":"10 minutes","cookTime":"25 minutes","ingredients":["1 lb chicken thighs","2 tablespoons olive oil","..."],"instructions":["Preheat oven to 400°F.","Season chicken with salt and pepper.","..."],"tips":["Helpful tip one.","Helpful tip two."]}`, 1500);
+      const data = JSON.parse(text.replace(/```json|```/g, '').trim());
+      const html = `
+        <div class="recipe-meta">
+          <span><strong>Serves</strong> ${data.servings}</span>
+          ${data.prepTime ? `<span><strong>Prep</strong> ${data.prepTime}</span>` : ''}
+          ${data.cookTime ? `<span><strong>Cook</strong> ${data.cookTime}</span>` : ''}
+        </div>
+        <div class="recipe-section-title">Ingredients</div>
+        <ul class="recipe-list">${data.ingredients.map(i => `<li>${i}</li>`).join('')}</ul>
+        <div class="recipe-section-title">Instructions</div>
+        <ol class="recipe-list numbered">${data.instructions.map(i => `<li>${i}</li>`).join('')}</ol>
+        ${data.tips && data.tips.length ? `<div class="recipe-section-title">Tips</div>${data.tips.map(t => `<div class="recipe-tip">${t}</div>`).join('')}` : ''}
+      `;
+      showOutput(`${data.name} — for 2`, html);
+    } catch (e) {
+      showOutput(`Recipe — ${dayName} ${mealLabel}`, `<p class="error-msg">Sorry, could not generate the recipe: ${e.message}</p>`);
+    }
+  }
+
+  function showRefreshForm() {
+    const current = getCurrentWeekLabel();
+    const other = current === 'A' ? 'B' : 'A';
+    const html = `
+      <div class="refresh-form">
+        <p class="ai-note">Generate a fresh menu, then save it on this computer so it sticks around between visits.</p>
+        <div class="refresh-row">
+          <label class="refresh-label" for="refresh-scope">Refresh which week?</label>
+          <select class="refresh-select" id="refresh-scope">
+            <option value="${current}">This week (Week ${current})</option>
+            <option value="${other}">Other week (Week ${other})</option>
+            <option value="both">Both weeks</option>
+          </select>
+        </div>
+        <div class="refresh-row">
+          <label class="refresh-label" for="refresh-comment">Anything special? (optional)</label>
+          <textarea class="refresh-textarea" id="refresh-comment" rows="3" placeholder="e.g. lighter meals this week, company on Saturday, my stomach has been off, more pasta, no fish this round, etc."></textarea>
+        </div>
+        <button class="refresh-submit" onclick="runRefresh()">Generate new menu</button>
+        <p class="ai-note" style="margin-top: 8px;">Your menus are saved on this computer only. If you clear your browser data, the default menu comes back — nothing important is lost.</p>
+      </div>
+    `;
+    showOutput('Refresh Menu', html);
+  }
+
+  async function runRefresh() {
+    const scope = document.getElementById('refresh-scope').value;
+    const comment = document.getElementById('refresh-comment').value.trim();
+    loading('Generating menu', 'Asking Claude to come up with fresh meal ideas...');
+    const whichWeeks = scope === 'both'
+      ? 'BOTH Week A AND Week B (a full 14-day rotation, with different meals in each week)'
+      : `one week of meals (7 days, Sunday through Saturday)`;
+    const extra = comment ? `\n\nSpecial request from the user for this refresh: "${comment}". Honor it as best you can while staying within the rules above.` : '';
+    const shape = scope === 'both'
+      ? '{"weekA":[7 day objects from Sunday to Saturday],"weekB":[7 day objects from Sunday to Saturday]}'
+      : '{"week":[7 day objects from Sunday to Saturday]}';
+    const prompt = `Generate a meal plan. ${MENU_PREFS}
+
+Generate ${whichWeeks}. Each day is an object with three string fields: breakfast, lunch, dinner. Be concrete and varied. Make sure the two weeks differ in their dinners if generating both.${extra}
+
+Respond ONLY with valid JSON, no other text, in this exact shape:
+${shape}`;
+    try {
+      const text = await callAI(prompt, 2500);
+      const data = JSON.parse(text.replace(/```json|```/g, '').trim());
+      const menus = loadMenus();
+      if (scope === 'both') {
+        if (!Array.isArray(data.weekA) || data.weekA.length !== 7 || !Array.isArray(data.weekB) || data.weekB.length !== 7) throw new Error('Unexpected response shape');
+        menus.weekA = data.weekA;
+        menus.weekB = data.weekB;
+      } else {
+        if (!Array.isArray(data.week) || data.week.length !== 7) throw new Error('Unexpected response shape');
+        if (scope === 'A') menus.weekA = data.week;
+        else menus.weekB = data.week;
+      }
+      saveMenus(menus);
+      renderTodayMenu();
+      showOutput('Menu Refreshed', '<p class="success-msg">✓ New menu saved on this computer. Today\'s menu has been updated on your dashboard.</p><p style="margin-top:12px;">Click <strong>📅 Full 2 weeks</strong> on the menu card to see all the new meals.</p>');
+    } catch (e) {
+      showOutput('Refresh Failed', `<p class="error-msg">Sorry, could not generate a new menu: ${e.message}. You can try again — your current menu is unchanged.</p>`);
+    }
+  }
+
+  async function showShoppingList() {
+    const menus = loadMenus();
+    const week = getCurrentWeekLabel();
+    const days = week === 'A' ? menus.weekA : menus.weekB;
+    const mealsList = days.map((d, i) => `${DAY_NAMES[i]} -- B: ${d.breakfast} | L: ${d.lunch} | D: ${d.dinner}`).join('\n');
+    loading(`Shopping List — Week ${week}`, 'Building the list...');
+    try {
+      const text = await callAI(`Read this week of meals (Sunday through Saturday, for two people) and build a consolidated grocery shopping list. Group items by section: Produce, Meat & Seafood, Dairy & Eggs, Pantry & Bread, Freezer. Combine quantities where the same ingredient appears more than once. Skip pantry staples that are usually on hand (salt, pepper, olive oil, basic dried herbs) unless a recipe needs an unusual amount. Use common Texas grocery store items. Include rough quantities (e.g. "2 lbs chicken thighs", "1 dozen eggs").
+
+Meals:
+${mealsList}
+
+Respond ONLY with valid JSON, no other text, in this exact shape:
+{"sections":[{"name":"Produce","items":["Item with quantity","..."]},{"name":"Meat & Seafood","items":["..."]},{"name":"Dairy & Eggs","items":["..."]},{"name":"Pantry & Bread","items":["..."]},{"name":"Freezer","items":["..."]}]}`, 2000);
+      const data = JSON.parse(text.replace(/```json|```/g, '').trim());
+      const html = data.sections.filter(s => s.items && s.items.length).map(s => `
+        <div class="shop-section">
+          <div class="recipe-section-title">${s.name}</div>
+          <ul class="recipe-list">${s.items.map(i => `<li>${i}</li>`).join('')}</ul>
+        </div>`).join('');
+      showOutput(`Shopping List — Week ${week}`, html);
+    } catch (e) {
+      showOutput(`Shopping List — Week ${week}`, `<p class="error-msg">Sorry, could not generate the list: ${e.message}</p>`);
+    }
+  }
+
   window.onload = () => {
     const gsiScript = document.querySelector('script[src*="gsi"]');
     if (typeof google !== 'undefined') initGoogle();
     else gsiScript.addEventListener('load', initGoogle);
     loadSpanishWord();
     loadHistory();
+    renderTodayMenu();
   };
 </script>
 </body>
