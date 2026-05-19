@@ -313,7 +313,7 @@
 Respond ONLY with valid JSON, no other text:
 {"word":"el/la word or phrase","partOfSpeech":"noun/verb/adjective/phrase","englishMeaning":"English translation","description":"One sentence explanation of when and how to use it in Spain","exampleSpanish":"Example sentence in Spanish","exampleEnglish":"English translation of example"}`, 900);
 
-      const data = JSON.parse(text.replace(/```json|```/g, '').trim());
+      const cleaned = text.replace(/```json|```/g, '').trim(); const jsonStart = cleaned.indexOf('{'); const jsonEnd = cleaned.lastIndexOf('}'); const data = JSON.parse(jsonStart >= 0 && jsonEnd > jsonStart ? cleaned.substring(jsonStart, jsonEnd + 1) : cleaned);
       el.innerHTML = `
         <div class="spanish-word">${data.word}</div>
         <div class="spanish-pos">${data.partOfSpeech} · ${data.englishMeaning}</div>
@@ -323,7 +323,8 @@ Respond ONLY with valid JSON, no other text:
       `;
       try { recent_spanish.unshift(data.word); localStorage.setItem('recent_spanish', JSON.stringify(recent_spanish.slice(0, 30))); } catch (e2) {}
     } catch (e) {
-      el.innerHTML = '<span class="info-loading">Could not load today\'s word.</span>';
+      console.error('Spanish word error:', e, 'rawResponse=', (typeof text !== 'undefined' ? text : '(no response)'));
+      el.innerHTML = '<span class="info-loading">Spanish error: ' + (e.message || e).toString().slice(0, 120) + '</span>';
     }
   }
 
@@ -344,7 +345,7 @@ Respond ONLY with valid JSON, no other text:
 Respond ONLY with valid JSON, no other text:
 {"events":[{"year":1969,"event":"One or two sentence description"},{"year":1865,"event":"One or two sentence description"}]}`, 700);
 
-      const data = JSON.parse(text.replace(/```json|```/g, '').trim());
+      const cleaned = text.replace(/```json|```/g, '').trim(); const jsonStart = cleaned.indexOf('{'); const jsonEnd = cleaned.lastIndexOf('}'); const data = JSON.parse(jsonStart >= 0 && jsonEnd > jsonStart ? cleaned.substring(jsonStart, jsonEnd + 1) : cleaned);
       el.innerHTML = data.events.map((e, i) => `
         <div class="${i > 0 ? 'history-item history-divider' : 'history-item'}">
           <div class="history-year">${e.year}</div>
@@ -352,7 +353,8 @@ Respond ONLY with valid JSON, no other text:
         </div>
       `).join('');
     } catch (e) {
-      el.innerHTML = '<span class="info-loading">Could not load history.</span>';
+      console.error('History error:', e, 'rawResponse=', (typeof text !== 'undefined' ? text : '(no response)'));
+      el.innerHTML = '<span class="info-loading">History error: ' + (e.message || e).toString().slice(0, 120) + '</span>';
     }
   }
 
