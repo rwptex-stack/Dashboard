@@ -296,6 +296,11 @@
       body: JSON.stringify({ model: MODEL, max_tokens: maxTokens, messages: [{ role: 'user', content: prompt }] })
     });
     const data = await res.json();
+    if (!res.ok || data.error) {
+      const msg = (data.error && data.error.message) || ('HTTP ' + res.status);
+      const type = (data.error && data.error.type) || '';
+      throw new Error('API ' + res.status + ' (' + type + '): ' + msg);
+    }
     return data.content?.[0]?.text || '';
   }
 
