@@ -307,11 +307,11 @@
       const categories = ['transportation and getting around','ordering food and drinks at a restaurant','checking into a hotel','shopping and bargaining','asking for directions','visiting museums and monuments','polite phrases and etiquette','beach and leisure activities','tapas bars and nightlife','buying train or bus tickets'];
       const rand = Math.floor(Math.random() * 9999);
       const category = categories[rand % categories.length];
-      const words_to_avoid = ['hola','gracias','por favor','adios','si','no','buenos dias','buenas noches'];
+      const recent_spanish = JSON.parse(localStorage.getItem('recent_spanish') || '[]'); const words_to_avoid = ['hola','gracias','por favor','adios','si','no','buenos dias','buenas noches'].concat(recent_spanish);
       const text = await callAI(`You are a Spanish language teacher specializing in Castilian Spanish for tourists. Generate ONE specific useful word or short phrase related to: "${category}". Avoid these common words: ${words_to_avoid.join(', ')}. Use variation ${rand} to ensure variety.
 
 Respond ONLY with valid JSON, no other text:
-{"word":"el/la word or phrase","partOfSpeech":"noun/verb/adjective/phrase","englishMeaning":"English translation","description":"One sentence explanation of when and how to use it in Spain","exampleSpanish":"Example sentence in Spanish","exampleEnglish":"English translation of example"}`, 400);
+{"word":"el/la word or phrase","partOfSpeech":"noun/verb/adjective/phrase","englishMeaning":"English translation","description":"One sentence explanation of when and how to use it in Spain","exampleSpanish":"Example sentence in Spanish","exampleEnglish":"English translation of example"}`, 900);
 
       const data = JSON.parse(text.replace(/```json|```/g, '').trim());
       el.innerHTML = `
@@ -321,6 +321,7 @@ Respond ONLY with valid JSON, no other text:
         <div class="spanish-example">"${data.exampleSpanish}"</div>
         <div class="spanish-example-en">"${data.exampleEnglish}"</div>
       `;
+      try { recent_spanish.unshift(data.word); localStorage.setItem('recent_spanish', JSON.stringify(recent_spanish.slice(0, 30))); } catch (e2) {}
     } catch (e) {
       el.innerHTML = '<span class="info-loading">Could not load today\'s word.</span>';
     }
@@ -341,7 +342,7 @@ Respond ONLY with valid JSON, no other text:
       const text = await callAI(`Give me 2 real historical events on ${month} ${day} (before ${year}). Event 1 should relate to ${topic1}, Event 2 to ${topic2}. Variation: ${rand2}. Be specific with accurate years.
 
 Respond ONLY with valid JSON, no other text:
-{"events":[{"year":1969,"event":"One or two sentence description"},{"year":1865,"event":"One or two sentence description"}]}`, 300);
+{"events":[{"year":1969,"event":"One or two sentence description"},{"year":1865,"event":"One or two sentence description"}]}`, 700);
 
       const data = JSON.parse(text.replace(/```json|```/g, '').trim());
       el.innerHTML = data.events.map((e, i) => `
