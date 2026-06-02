@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>My Dashboard</title>
+<title>Ron's Dashboard</title>
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
 <style>
   :root {
@@ -172,7 +172,7 @@
 </head>
 <body>
 <header>
-  <h1>My Dashboard</h1>
+  <h1>Ron's Dashboard</h1>
   <p>Calendar &amp; Email at a glance</p>
 </header>
 
@@ -231,7 +231,7 @@
   const _k = atob('c2stYW50LWFwaTAzLVlocC1NS2w1UVp1ZXN2VDhteUhYdTktNk9pZGpNUTBEcjUyT3VYV2Nsek1saFdBNDFwdlBmMVRXSnNxWWppbnFncUJzQTZ0TmVfdUY5ZTlDUWpld1lnLWdkY08yd0FB');
   const GOOGLE_CLIENT_ID = '131656481327-d7o8c49e8bvvnksg73e418okoi3eaupq.apps.googleusercontent.com';
   const SPOUSE_CALENDAR = 'daptex48@gmail.com';
-  const SPOUSE_LABEL = "Wife's";
+  const SPOUSE_LABEL = "Dorothy's";
   const MY_LABEL = "Mine";
   const SPOUSE_COLOR = '#7eb8d4';
   const MY_COLOR = 'var(--accent)';
@@ -584,9 +584,18 @@ Respond ONLY with valid JSON, no other text:
     try { await fetch(`https://www.googleapis.com/gmail/v1/users/me/messages/${msgId}/trash`, { method: 'POST', headers: { Authorization: `Bearer ${accessToken}` } }); btn.closest('.email-item').style.opacity = '0.3'; btn.textContent = 'Deleted'; }
     catch (e) { btn.textContent = 'Error'; }
   }
+  async function prioritizeEmails(emails) {
+    if (!emails || !emails.length) return;
+    showOutput('Check Emails', '<div class="loading"><div class="spinner"></div>AI is prioritizing your emails...</div>');
+    try {
+      const prioritized = await prioritizeWithAI(emails);
+      if (prioritized) showOutput('Check Emails', renderPrioritizedEmails(emails, prioritized));
+      else showOutput('Check Emails', '<p class="error-msg">Could not prioritize.</p>');
+    } catch(e) { showOutput('Check Emails', '<p class="error-msg">Error: ' + e.message + '</p>'); }
+  }
   async function prioritizeWithAI(emails) {
     const emailList = emails.map((e, i) => `${i + 1}. From: ${e.from} | Subject: ${e.subject} | Date: ${e.date}`).join('\n');
-    const text = await callAI(`You are a personal email assistant. Prioritize these UNREAD emails into three groups: URGENT, IMPORTANT, and LOW. For each email provide a one-sentence summary. Respond ONLY with valid JSON: {"urgent":[{"index":1,"summary":"brief summary"}],"important":[{"index":2,"summary":"brief summary"}],"low":[{"index":3,"summary":"brief summary"}]}\nEmails:\n${emailList}`, 1000);
+    const text = await callAI(`You are a personal email assistant. Prioritize these UNREAD emails into three groups: URGENT, IMPORTANT, and LOW. For each email provide a one-sentence summary. Respond ONLY with valid JSON: {"urgent":[{"index":1,"summary":"brief summary"}],"important":[{"index":2,"summary":"brief summary"}],"low":[{"index":3,"summary":"brief summary"}]}\nEmails:\n${emailList}`, 600);
     try { return JSON.parse(text.replace(/```json|```/g, '').trim()); } catch { return null; }
   }
   function emailActionsHTML(email) {
@@ -630,14 +639,13 @@ Respond ONLY with valid JSON, no other text:
       const emails = await fetchEmailDetails(15);
       if (!emails.length) { showOutput('Check Emails', '<p class="no-events">No unread emails — inbox is clear! 🎉</p>'); return; }
       const parsed = emails.map(parseEmailMeta);
-      showOutput('Check Emails', '<div class="loading"><div class="spinner"></div>AI is prioritizing your emails...</div>');
-      const prioritized = await prioritizeWithAI(parsed);
-      const emailHtml = prioritized ? renderPrioritizedEmails(parsed, prioritized)
-        : parsed.map(e => `<div class="email-item"><div class="email-from">${e.from}</div><div class="email-subject">${e.subject}</div><div class="email-date">${e.date}</div>${emailActionsHTML(e)}</div>`).join('');
-      // Clear old email caches
+      // Show emails immediately — AI sort is opt-in to save tokens
+      const plainHtml = '<p class="ai-note" style="margin-bottom:12px;">Showing ' + parsed.length + ' unread. <button onclick="prioritizeEmails(window._lastEmails)" style="background:var(--accent);color:#0f0f0f;border:none;border-radius:4px;padding:4px 12px;cursor:pointer;font-size:0.8rem;font-family:inherit;">✨ AI prioritize (uses tokens)</button></p>'
+        + parsed.map(e => `<div class="email-item"><div class="email-from">${e.from}</div><div class="email-subject">${e.subject}</div><div class="email-date">${e.date}</div>${emailActionsHTML(e)}</div>`).join('');
+      window._lastEmails = parsed;
       Object.keys(localStorage).forEach(k => { if (k.startsWith('email_cache_') && k !== emailCacheKey) localStorage.removeItem(k); });
-      localStorage.setItem(emailCacheKey, emailHtml);
-      showOutput('Check Emails', emailHtml);
+      localStorage.setItem(emailCacheKey, plainHtml);
+      showOutput('Check Emails', plainHtml);
     } catch (e) { showOutput('Check Emails', `<p class="error-msg">Error: ${e.message}</p>`); }
   }
   function showCreateEmail() {
@@ -797,14 +805,15 @@ Respond ONLY with valid JSON, no other text:
     const meal = (week === 'A' ? menus.weekA : menus.weekB)[dayIdx][mealType];
     const dayName = DAY_NAMES[dayIdx];
     const mealLabel = mealType.charAt(0).toUpperCase() + mealType.slice(1);
+    // Cache recipes — never call the API for the same meal twice
+    const recipeCacheKey = 'recipe_' + week + '_' + dayIdx + '_' + mealType;
+    const cachedHtml = localStorage.getItem(recipeCacheKey);
+    if (cachedHtml) { showOutput(meal + ' — for 2', cachedHtml); return; }
+
     loading(`Recipe — ${dayName} ${mealLabel}`, 'Asking Claude for the recipe...');
     try {
-      const text = await callAI(`You are a friendly home cooking instructor writing a recipe for an older couple in Texas. They asked for cooking instructions for this meal: "${meal}".
-
-Write a recipe that serves 2 people. Use common ingredients found at any standard grocery store — avoid specialty spices or hard-to-find condiments. Be precise with quantities and clear with steps. If the description contains more than one option (e.g. "chicken piccata or shrimp scampi"), pick the first option. If the meal is very simple (like "melon, banana, toast, milk"), still provide a brief assembly guide with quantities for two people.
-
-Respond ONLY with valid JSON, no other text:
-{"name":"Recipe name","servings":2,"prepTime":"10 minutes","cookTime":"25 minutes","ingredients":["1 lb chicken thighs","2 tablespoons olive oil","..."],"instructions":["Preheat oven to 400°F.","Season chicken with salt and pepper.","..."],"tips":["Helpful tip one.","Helpful tip two."]}`, 1500);
+      const text = await callAI(`Recipe for 2 in Texas: "${meal}". Common grocery ingredients only. Pick first option if multiple. JSON only:
+{"name":"Name","servings":2,"prepTime":"10 min","cookTime":"25 min","ingredients":["1 lb chicken","..."],"instructions":["Step 1","..."],"tips":["Tip"]}`, 800);
       const data = JSON.parse(text.replace(/```json|```/g, '').trim());
       const html = `
         <div class="recipe-meta">
@@ -818,6 +827,7 @@ Respond ONLY with valid JSON, no other text:
         <ol class="recipe-list numbered">${data.instructions.map(i => `<li>${i}</li>`).join('')}</ol>
         ${data.tips && data.tips.length ? `<div class="recipe-section-title">Tips</div>${data.tips.map(t => `<div class="recipe-tip">${t}</div>`).join('')}` : ''}
       `;
+      localStorage.setItem(recipeCacheKey, html);
       showOutput(`${data.name} — for 2`, html);
     } catch (e) {
       showOutput(`Recipe — ${dayName} ${mealLabel}`, `<p class="error-msg">Sorry, could not generate the recipe: ${e.message}</p>`);
@@ -867,7 +877,7 @@ Generate ${whichWeeks}. Each day is an object with three string fields: breakfas
 Respond ONLY with valid JSON, no other text, in this exact shape:
 ${shape}`;
     try {
-      const text = await callAI(prompt, 2500);
+      const text = await callAI(prompt, 1800);
       const data = JSON.parse(text.replace(/```json|```/g, '').trim());
       const menus = loadMenus();
       if (scope === 'both') {
@@ -888,6 +898,9 @@ ${shape}`;
   }
 
   async function showShoppingList() {
+    const shopCacheKey = 'shoplist_' + getCurrentWeekLabel() + '_' + JSON.stringify(loadMenus()).length;
+    const shopCached = localStorage.getItem(shopCacheKey);
+    if (shopCached) { showOutput('Shopping List (cached)', shopCached); return; }
     const menus = loadMenus();
     const week = getCurrentWeekLabel();
     const days = week === 'A' ? menus.weekA : menus.weekB;
@@ -900,13 +913,14 @@ Meals:
 ${mealsList}
 
 Respond ONLY with valid JSON, no other text, in this exact shape:
-{"sections":[{"name":"Produce","items":["Item with quantity","..."]},{"name":"Meat & Seafood","items":["..."]},{"name":"Dairy & Eggs","items":["..."]},{"name":"Pantry & Bread","items":["..."]},{"name":"Freezer","items":["..."]}]}`, 2000);
+{"sections":[{"name":"Produce","items":["Item with quantity","..."]},{"name":"Meat & Seafood","items":["..."]},{"name":"Dairy & Eggs","items":["..."]},{"name":"Pantry & Bread","items":["..."]},{"name":"Freezer","items":["..."]}]}`, 1200);
       const data = JSON.parse(text.replace(/```json|```/g, '').trim());
       const html = data.sections.filter(s => s.items && s.items.length).map(s => `
         <div class="shop-section">
           <div class="recipe-section-title">${s.name}</div>
           <ul class="recipe-list">${s.items.map(i => `<li>${i}</li>`).join('')}</ul>
         </div>`).join('');
+      localStorage.setItem(shopCacheKey, html);
       showOutput(`Shopping List — Week ${week}`, html);
     } catch (e) {
       showOutput(`Shopping List — Week ${week}`, `<p class="error-msg">Sorry, could not generate the list: ${e.message}</p>`);
