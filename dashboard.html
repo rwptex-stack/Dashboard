@@ -310,39 +310,95 @@
     return d.getFullYear() + '-' + (d.getMonth()+1) + '-' + d.getDate();
   }
 
-  // --- Spanish Word of the Day ---
-  async function loadSpanishWord() {
+  // --- Spanish Word of the Day (static list — no API cost) ---
+  const SPANISH_TOURISM_WORDS = [
+    { word: "el aeropuerto", partOfSpeech: "noun", englishMeaning: "airport", description: "Where you arrive and depart Spain — check in at 'el mostrador de facturación'.", exampleSpanish: "¿Cómo llego al aeropuerto desde el centro?", exampleEnglish: "How do I get to the airport from the city center?" },
+    { word: "la facturación", partOfSpeech: "noun", englishMeaning: "check-in (airline)", description: "The check-in desk at the airport — look for 'mostrador de facturación'.", exampleSpanish: "¿Dónde está la facturación para vuelos internacionales?", exampleEnglish: "Where is check-in for international flights?" },
+    { word: "el billete de ida y vuelta", partOfSpeech: "phrase", englishMeaning: "round-trip ticket", description: "In Spain, train and bus tickets are 'billetes', not 'tickets'. Specify 'ida y vuelta' for round trip.", exampleSpanish: "Quiero un billete de ida y vuelta a Barcelona.", exampleEnglish: "I'd like a round-trip ticket to Barcelona." },
+    { word: "la consigna", partOfSpeech: "noun", englishMeaning: "luggage storage", description: "Found at train stations and airports — leave your bags while you explore the city.", exampleSpanish: "¿Hay consigna en la estación?", exampleEnglish: "Is there luggage storage at the station?" },
+    { word: "el andén", partOfSpeech: "noun", englishMeaning: "train platform", description: "The platform where you board trains — check the departure board for your andén number.", exampleSpanish: "El tren sale del andén número cuatro.", exampleEnglish: "The train departs from platform four." },
+    { word: "la parada de autobús", partOfSpeech: "phrase", englishMeaning: "bus stop", description: "Bus stops in Spain are well-marked — ask '¿Dónde está la parada?' to find the nearest one.", exampleSpanish: "¿Hay alguna parada de autobús cerca?", exampleEnglish: "Is there a bus stop nearby?" },
+    { word: "el metro", partOfSpeech: "noun", englishMeaning: "subway / metro", description: "Spain's major cities have excellent metro systems — Madrid's is one of the largest in Europe.", exampleSpanish: "¿Qué línea de metro va al Museo del Prado?", exampleEnglish: "Which metro line goes to the Prado Museum?" },
+    { word: "el alojamiento", partOfSpeech: "noun", englishMeaning: "accommodation / lodging", description: "General word for any type of lodging — hotel, hostel, apartment, or rural house.", exampleSpanish: "¿Puede recomendarme algún alojamiento en el centro?", exampleEnglish: "Can you recommend accommodation in the city center?" },
+    { word: "la habitación doble", partOfSpeech: "phrase", englishMeaning: "double room", description: "In Spain, 'doble' means two people; specify 'cama de matrimonio' if you want one large bed.", exampleSpanish: "Quisiera reservar una habitación doble con cama de matrimonio.", exampleEnglish: "I'd like to book a double room with one large bed." },
+    { word: "el desayuno incluido", partOfSpeech: "phrase", englishMeaning: "breakfast included", description: "Many Spanish hotels offer this — Spanish breakfast is typically coffee and toast with tomato or pastries.", exampleSpanish: "¿Está el desayuno incluido en el precio?", exampleEnglish: "Is breakfast included in the price?" },
+    { word: "la llave de la habitación", partOfSpeech: "phrase", englishMeaning: "room key", description: "Many Spanish hotels still use physical keys — return it at reception when going out.", exampleSpanish: "He olvidado la llave de la habitación.", exampleEnglish: "I forgot my room key." },
+    { word: "la recepción", partOfSpeech: "noun", englishMeaning: "front desk / reception", description: "Where you check in, get your key, and ask for tourist information — open 24 hours in most hotels.", exampleSpanish: "Deje las maletas en la recepción hasta que esté lista la habitación.", exampleEnglish: "Leave the bags at reception until the room is ready." },
+    { word: "la carta / el menú", partOfSpeech: "noun", englishMeaning: "menu", description: "'La carta' is the full à-la-carte menu; 'el menú' usually means the set daily menu — a great deal!", exampleSpanish: "¿Me trae la carta, por favor?", exampleEnglish: "Could you bring me the menu, please?" },
+    { word: "el menú del día", partOfSpeech: "phrase", englishMeaning: "daily set menu", description: "A fixed-price lunch (usually €10–15) with starter, main, dessert, bread, and drink — a Spanish staple.", exampleSpanish: "¿Tienen menú del día?", exampleEnglish: "Do you have a daily set menu?" },
+    { word: "la propina", partOfSpeech: "noun", englishMeaning: "tip / gratuity", description: "Tipping in Spain is appreciated but not mandatory — rounding up or leaving a euro or two is common.", exampleSpanish: "Déjelo, quédese con el cambio de propina.", exampleEnglish: "Keep the change as a tip." },
+    { word: "la cuenta, por favor", partOfSpeech: "phrase", englishMeaning: "the bill, please", description: "Essential phrase — waiters in Spain won't bring the bill until you ask, as it's considered rude to rush you.", exampleSpanish: "¿Nos puede traer la cuenta, por favor?", exampleEnglish: "Could you bring us the bill, please?" },
+    { word: "el tapeo", partOfSpeech: "noun", englishMeaning: "going out for tapas", description: "The social ritual of hopping between bars eating small bites — a core Spanish experience.", exampleSpanish: "Esta noche vamos de tapeo por el centro.", exampleEnglish: "Tonight we're going out for tapas in the center." },
+    { word: "la tapa", partOfSpeech: "noun", englishMeaning: "small appetizer / snack", description: "In some regions (Granada, Almería) tapas are free with drinks; in Madrid and Barcelona you typically pay.", exampleSpanish: "¿Qué tapas tienen hoy?", exampleEnglish: "What tapas do you have today?" },
+    { word: "la terraza", partOfSpeech: "noun", englishMeaning: "outdoor terrace / patio", description: "Spaniards love outdoor dining — 'una mesa en la terraza' is a great way to enjoy the evening.", exampleSpanish: "¿Podemos sentarnos en la terraza?", exampleEnglish: "Can we sit on the terrace?" },
+    { word: "el chiringuito", partOfSpeech: "noun", englishMeaning: "beach bar", description: "An informal open-air bar on the beach — perfect for a cold beer and fried fish while watching the sea.", exampleSpanish: "Comimos pescaíto frito en un chiringuito de la playa.", exampleEnglish: "We ate fried fish at a beach bar." },
+    { word: "la sombrilla", partOfSpeech: "noun", englishMeaning: "beach umbrella / parasol", description: "Essential at Spanish beaches — you can rent one for the day at most resort beaches.", exampleSpanish: "¿Cuánto cuesta alquilar una sombrilla y una tumbona?", exampleEnglish: "How much does it cost to rent an umbrella and a sun lounger?" },
+    { word: "la tumbona", partOfSpeech: "noun", englishMeaning: "sun lounger / beach chair", description: "Paired with a sombrilla, the tumbona is a must for a proper Spanish beach day.", exampleSpanish: "Quiero dos tumbonas cerca del agua.", exampleEnglish: "I'd like two sun loungers near the water." },
+    { word: "el socorrista", partOfSpeech: "noun", englishMeaning: "lifeguard", description: "Look for the lifeguard station before swimming — red flag means no swimming, green means safe.", exampleSpanish: "¿Hay socorrista en esta playa?", exampleEnglish: "Is there a lifeguard on this beach?" },
+    { word: "la bandera roja", partOfSpeech: "phrase", englishMeaning: "red flag (no swimming)", description: "A red flag on a Spanish beach means dangerous conditions — swimming is prohibited. Always obey.", exampleSpanish: "Hoy hay bandera roja, no se puede bañar.", exampleEnglish: "Today the red flag is up — you can't swim." },
+    { word: "el museo", partOfSpeech: "noun", englishMeaning: "museum", description: "Spain has world-class museums — the Prado, Reina Sofía, and Thyssen in Madrid are within walking distance.", exampleSpanish: "¿A qué hora abre el museo?", exampleEnglish: "What time does the museum open?" },
+    { word: "la entrada", partOfSpeech: "noun", englishMeaning: "ticket / admission", description: "Used for museum tickets, monuments, and events — look for 'taquilla' (ticket booth) to buy yours.", exampleSpanish: "¿Hay entradas para la visita guiada de mañana?", exampleEnglish: "Are there tickets for tomorrow's guided tour?" },
+    { word: "la visita guiada", partOfSpeech: "phrase", englishMeaning: "guided tour", description: "Most major Spanish monuments offer guided tours in English — book in advance during peak season.", exampleSpanish: "Prefiero una visita guiada en inglés.", exampleEnglish: "I'd prefer a guided tour in English." },
+    { word: "la audioguía", partOfSpeech: "noun", englishMeaning: "audio guide", description: "Available at most major Spanish museums and monuments — usually free or a few euros at the entrance.", exampleSpanish: "¿Tienen audioguías en inglés?", exampleEnglish: "Do you have audio guides in English?" },
+    { word: "el horario", partOfSpeech: "noun", englishMeaning: "schedule / opening hours", description: "Many Spanish museums close on Mondays — always check the horario before heading out.", exampleSpanish: "¿Cuál es el horario de visitas?", exampleEnglish: "What are the visiting hours?" },
+    { word: "la oficina de turismo", partOfSpeech: "phrase", englishMeaning: "tourist information office", description: "Found in almost every Spanish city — they offer free maps, brochures, and local advice.", exampleSpanish: "¿Dónde está la oficina de turismo más cercana?", exampleEnglish: "Where is the nearest tourist information office?" },
+    { word: "el plano de la ciudad", partOfSpeech: "phrase", englishMeaning: "city map", description: "Ask for one at the tourist office or your hotel — most Spanish cities have well-marked walking routes.", exampleSpanish: "¿Me puede dar un plano de la ciudad?", exampleEnglish: "Could you give me a city map?" },
+    { word: "el cajero automático", partOfSpeech: "phrase", englishMeaning: "ATM / cash machine", description: "Widely available in Spanish cities — look for Cajero signs. Most accept international cards.", exampleSpanish: "Necesito encontrar un cajero automático.", exampleEnglish: "I need to find a cash machine." },
+    { word: "¿Cuánto cuesta?", partOfSpeech: "phrase", englishMeaning: "How much does it cost?", description: "The most useful phrase when shopping — '¿Cuánto vale?' and '¿A cuánto está?' are equally common.", exampleSpanish: "¿Cuánto cuesta esta cerámica?", exampleEnglish: "How much does this ceramic piece cost?" },
+    { word: "el recibo / el tique", partOfSpeech: "noun", englishMeaning: "receipt", description: "Always ask for a receipt — useful for returns and VAT refunds (devolución del IVA) when leaving Spain.", exampleSpanish: "¿Me puede dar el recibo, por favor?", exampleEnglish: "Could you give me the receipt, please?" },
+    { word: "la farmacia", partOfSpeech: "noun", englishMeaning: "pharmacy", description: "Identified by a green cross sign — pharmacists can advise on minor ailments without a prescription.", exampleSpanish: "Necesito encontrar una farmacia de guardia.", exampleEnglish: "I need to find an after-hours pharmacy." },
+    { word: "urgencias", partOfSpeech: "noun (plural)", englishMeaning: "emergency room / A&E", description: "The emergency department of a hospital — present your travel insurance details before treatment.", exampleSpanish: "Necesito ir a urgencias.", exampleEnglish: "I need to go to the emergency room." },
+    { word: "la comisaría de policía", partOfSpeech: "phrase", englishMeaning: "police station", description: "If you lose documents or are robbed, go to the comisaría to file a 'denuncia' (official report).", exampleSpanish: "Me han robado la cartera. ¿Dónde está la comisaría?", exampleEnglish: "My wallet was stolen. Where is the police station?" },
+    { word: "la denuncia", partOfSpeech: "noun", englishMeaning: "official police report", description: "Required for insurance claims after theft or loss — you can also file one online at the Spanish police website.", exampleSpanish: "Necesito poner una denuncia por robo.", exampleEnglish: "I need to file a theft report." },
+    { word: "el enchufe / el adaptador", partOfSpeech: "noun", englishMeaning: "plug / adapter", description: "Spain uses Type C/F plugs (two round pins) at 230V — US travelers need an adapter.", exampleSpanish: "¿Tiene un adaptador para enchufes españoles?", exampleEnglish: "Do you have an adapter for Spanish plugs?" },
+    { word: "la siesta", partOfSpeech: "noun", englishMeaning: "afternoon rest period", description: "Many small shops still close 2–5pm for siesta — plan your shopping before lunch or after 5pm.", exampleSpanish: "La tienda está cerrada por la siesta hasta las cinco.", exampleEnglish: "The shop is closed for siesta until five o'clock." },
+    { word: "la madrugada", partOfSpeech: "noun", englishMeaning: "early hours (midnight–dawn)", description: "Spanish nightlife often runs into the madrugada — clubs don't fill up until 2am.", exampleSpanish: "La discoteca no cierra hasta las seis de la madrugada.", exampleEnglish: "The club doesn't close until six in the morning." },
+    { word: "el paseo", partOfSpeech: "noun", englishMeaning: "promenade / evening stroll", description: "The paseo is a beloved Spanish tradition — an evening walk through the town center to see and be seen.", exampleSpanish: "Demos un paseo por el centro antes de cenar.", exampleEnglish: "Let's take a stroll through the center before dinner." },
+    { word: "la plaza mayor", partOfSpeech: "phrase", englishMeaning: "main square", description: "Almost every Spanish town has one — the social heart of the city, perfect for people-watching over a coffee.", exampleSpanish: "Quedamos en la plaza mayor a las siete.", exampleEnglish: "Let's meet at the main square at seven." },
+    { word: "el barrio antiguo", partOfSpeech: "phrase", englishMeaning: "old town / historic quarter", description: "Spain's old towns are architectural gems — wander the narrow lanes and you'll find the best spots.", exampleSpanish: "Pasamos la tarde paseando por el barrio antiguo.", exampleEnglish: "We spent the afternoon walking around the old town." },
+    { word: "la catedral", partOfSpeech: "noun", englishMeaning: "cathedral", description: "Spain's cathedrals are masterpieces of architecture — modest dress (covered shoulders and knees) is required.", exampleSpanish: "¿Se puede visitar la catedral por la tarde?", exampleEnglish: "Can you visit the cathedral in the afternoon?" },
+    { word: "el flamenco", partOfSpeech: "noun", englishMeaning: "flamenco (dance/music)", description: "Authentic flamenco is rooted in Andalucía — look for small intimate tablaos rather than tourist dinner shows.", exampleSpanish: "Quiero ver un espectáculo de flamenco auténtico.", exampleEnglish: "I want to see an authentic flamenco performance." },
+    { word: "el tren de alta velocidad", partOfSpeech: "phrase", englishMeaning: "high-speed train (AVE)", description: "Spain's AVE network is world-class — Madrid to Seville takes under 2.5 hours.", exampleSpanish: "El tren de alta velocidad a Barcelona sale cada hora.", exampleEnglish: "The high-speed train to Barcelona runs every hour." },
+    { word: "el alquiler de coches", partOfSpeech: "phrase", englishMeaning: "car rental", description: "Essential for exploring rural Spain — all major companies operate at airports; book ahead in summer.", exampleSpanish: "Quiero alquilar un coche para cinco días.", exampleEnglish: "I'd like to rent a car for five days." },
+    { word: "el peaje", partOfSpeech: "noun", englishMeaning: "road toll", description: "Many Spanish motorways (autopistas) have tolls — carry some cash as some booths don't accept foreign cards.", exampleSpanish: "¿Esta autopista tiene peaje?", exampleEnglish: "Does this motorway have a toll?" },
+    { word: "la gasolinera", partOfSpeech: "noun", englishMeaning: "gas / petrol station", description: "Spain uses liters; 'gasolina sin plomo 95' is regular unleaded, 'gasóleo' is diesel.", exampleSpanish: "¿Hay alguna gasolinera cerca de aquí?", exampleEnglish: "Is there a gas station near here?" },
+    { word: "el aparcamiento", partOfSpeech: "noun", englishMeaning: "parking lot / car park", description: "City centers have underground aparcamientos (look for blue P signs) — street parking is often restricted.", exampleSpanish: "¿Dónde puedo encontrar un aparcamiento?", exampleEnglish: "Where can I find a parking lot?" },
+    { word: "la zona azul", partOfSpeech: "phrase", englishMeaning: "paid street parking zone", description: "Blue lines on the street mean paid parking — buy a ticket at the nearby máquina (machine) and display it.", exampleSpanish: "Este aparcamiento es zona azul; hay que pagar.", exampleEnglish: "This is a paid parking zone; you have to pay." },
+    { word: "la bodega", partOfSpeech: "noun", englishMeaning: "wine cellar / winery", description: "Spain is the world's largest wine-growing country by area — many bodegas offer tours and tastings.", exampleSpanish: "¿Hay visitas a la bodega con cata de vinos?", exampleEnglish: "Are there winery tours with wine tasting?" },
+    { word: "la cata de vinos", partOfSpeech: "phrase", englishMeaning: "wine tasting", description: "Available at bodegas across Spain — La Rioja, Ribera del Duero, and Jerez are the most famous regions.", exampleSpanish: "Quisiéramos hacer una cata de vinos por la tarde.", exampleEnglish: "We'd like to do a wine tasting this afternoon." },
+    { word: "el puerto deportivo", partOfSpeech: "phrase", englishMeaning: "marina / yacht harbor", description: "Spanish marinas are lively social spots — great for seafood restaurants and watching the boats.", exampleSpanish: "Cenamos en un restaurante del puerto deportivo.", exampleEnglish: "We had dinner at a restaurant in the marina." },
+    { word: "el crucero", partOfSpeech: "noun", englishMeaning: "cruise / cruise ship", description: "Spain's Mediterranean and Atlantic ports are major cruise destinations — Barcelona is Europe's busiest.", exampleSpanish: "El crucero hace escala en Málaga mañana.", exampleEnglish: "The cruise ship stops in Málaga tomorrow." },
+    { word: "la excursión", partOfSpeech: "noun", englishMeaning: "day trip / excursion", description: "Day trips from Spain's cities are easy — Segovia from Madrid or Montserrat from Barcelona are classics.", exampleSpanish: "¿Organizan excursiones de un día a Toledo?", exampleEnglish: "Do you organize day trips to Toledo?" },
+    { word: "el guía turístico", partOfSpeech: "phrase", englishMeaning: "tour guide", description: "Licensed guides in Spain carry official credentials — ask to see them at major monuments.", exampleSpanish: "Nuestro guía turístico habla inglés y alemán.", exampleEnglish: "Our tour guide speaks English and German." },
+    { word: "las ruinas", partOfSpeech: "noun (plural)", englishMeaning: "ruins / archaeological site", description: "Spain has spectacular Roman and Moorish ruins — Mérida, Itálica, and the Alhambra are must-sees.", exampleSpanish: "Las ruinas romanas de Mérida son impresionantes.", exampleEnglish: "The Roman ruins of Mérida are impressive." },
+    { word: "el mirador", partOfSpeech: "noun", englishMeaning: "viewpoint / overlook", description: "Spain has stunning miradores — always worth the climb for panoramic city or landscape views.", exampleSpanish: "El mirador del Sacromonte tiene vistas increíbles de la Alhambra.", exampleEnglish: "The Sacromonte viewpoint has incredible views of the Alhambra." },
+    { word: "la playa", partOfSpeech: "noun", englishMeaning: "beach", description: "Spain has over 8,000 km of coastline — the Costa del Sol, Costa Brava, and Balearics are world-famous.", exampleSpanish: "¿Cuál es la playa más cercana al hotel?", exampleEnglish: "Which is the closest beach to the hotel?" },
+    { word: "el castillo", partOfSpeech: "noun", englishMeaning: "castle", description: "Spain has more castles per square kilometer than almost any country in Europe — many are open to visitors.", exampleSpanish: "El castillo cierra los lunes; conviene comprar entradas con antelación.", exampleEnglish: "The castle closes on Mondays; it's worth buying tickets in advance." },
+    { word: "el mercado de artesanía", partOfSpeech: "phrase", englishMeaning: "craft market", description: "Found in most Spanish cities on weekends — great for ceramics, leather goods, and local food products.", exampleSpanish: "¿Hay mercado de artesanía este fin de semana?", exampleEnglish: "Is there a craft market this weekend?" },
+  ];
+
+  function loadSpanishWord() {
     const el = document.getElementById('spanish-content');
     const cacheKey = 'spanish_' + getDayKey();
     Object.keys(localStorage).forEach(k => { if (k.startsWith('spanish_') && k !== cacheKey) localStorage.removeItem(k); });
     const cached = localStorage.getItem(cacheKey);
     if (cached) { el.innerHTML = cached; return; }
-    try {
-      const categories = ['transportation and getting around','ordering food and drinks at a restaurant','checking into a hotel','shopping and bargaining','asking for directions','visiting museums and monuments','polite phrases and etiquette','beach and leisure activities','tapas bars and nightlife','buying train or bus tickets'];
-      const rand = Math.floor(Math.random() * 9999);
-      const category = categories[rand % categories.length];
-      const words_to_avoid = ['hola','gracias','por favor','adios','si','no','buenos dias','buenas noches'];
-      const text = await callAI(`You are a Spanish language teacher specializing in Castilian Spanish for tourists. Generate ONE specific useful word or short phrase related to: "${category}". Avoid these common words: ${words_to_avoid.join(', ')}. Use variation ${rand} to ensure variety.
-
-Respond ONLY with valid JSON, no other text:
-{"word":"el/la word or phrase","partOfSpeech":"noun/verb/adjective/phrase","englishMeaning":"English translation","description":"One sentence explanation of when and how to use it in Spain","exampleSpanish":"Example sentence in Spanish","exampleEnglish":"English translation of example"}`, 400);
-
-      const data = JSON.parse(text.replace(/```json|```/g, '').trim());
-      const html = `
-        <div class="spanish-word">${data.word}</div>
-        <div class="spanish-pos">${data.partOfSpeech} · ${data.englishMeaning}</div>
-        <div class="spanish-meaning">${data.description}</div>
-        <div class="spanish-example">"${data.exampleSpanish}"</div>
-        <div class="spanish-example-en">"${data.exampleEnglish}"</div>
-      `;
-      el.innerHTML = html;
-      localStorage.setItem(cacheKey, html);
-    } catch (e) {
-      el.innerHTML = '<span class="info-loading">Could not load today\'s word.</span>';
-    }
+    // Pick by day-of-year — different word each day, no API needed
+    const now = new Date();
+    const dayOfYear = Math.floor((now - new Date(now.getFullYear(), 0, 0)) / 86400000);
+    const data = SPANISH_TOURISM_WORDS[dayOfYear % SPANISH_TOURISM_WORDS.length];
+    const html = `
+      <div class="spanish-word">${data.word}</div>
+      <div class="spanish-pos">${data.partOfSpeech} · ${data.englishMeaning}</div>
+      <div class="spanish-meaning">${data.description}</div>
+      <div class="spanish-example">"${data.exampleSpanish}"</div>
+      <div class="spanish-example-en">"${data.exampleEnglish}"</div>
+    `;
+    el.innerHTML = html;
+    localStorage.setItem(cacheKey, html);
   }
 
-    // --- This Day in History ---
+  // --- This Day in History (Wikipedia free API — no cost) ---
   async function loadHistory() {
     const el = document.getElementById('history-content');
     const cacheKey = 'history_' + getDayKey();
@@ -351,23 +407,19 @@ Respond ONLY with valid JSON, no other text:
     if (cached) { el.innerHTML = cached; return; }
     try {
       const now = new Date();
-      const month = now.toLocaleDateString('en-US', { month: 'long' });
-      const day = now.getDate();
-      const year = now.getFullYear();
-      const rand2 = Math.floor(Math.random() * 9999);
-      const topics = ['science and invention','politics and war','art and culture','exploration and discovery','sports'];
-      const topic1 = topics[Math.floor(Math.random() * topics.length)];
-      const topic2 = topics[Math.floor(Math.random() * topics.length)];
-      const text = await callAI(`Give me 2 real historical events on ${month} ${day} (before ${year}). Event 1 should relate to ${topic1}, Event 2 to ${topic2}. Variation: ${rand2}. Be specific with accurate years.
-
-Respond ONLY with valid JSON, no other text:
-{"events":[{"year":1969,"event":"One or two sentence description"},{"year":1865,"event":"One or two sentence description"}]}`, 300);
-
-      const data = JSON.parse(text.replace(/```json|```/g, '').trim());
-      const html = data.events.map((e, i) => `
+      const mm = String(now.getMonth() + 1).padStart(2, '0');
+      const dd = String(now.getDate()).padStart(2, '0');
+      const res = await fetch(`https://en.wikipedia.org/api/rest_v1/feed/onthisday/events/${mm}/${dd}`);
+      if (!res.ok) throw new Error('Wikipedia API error');
+      const data = await res.json();
+      const events = data.events || [];
+      if (!events.length) throw new Error('No events returned');
+      // Pick 2 random events and sort by year for display
+      const picked = events.sort(() => Math.random() - 0.5).slice(0, 2).sort((a, b) => a.year - b.year);
+      const html = picked.map((e, i) => `
         <div class="${i > 0 ? 'history-item history-divider' : 'history-item'}">
           <div class="history-year">${e.year}</div>
-          <div class="history-text">${e.event}</div>
+          <div class="history-text">${e.text}</div>
         </div>
       `).join('');
       el.innerHTML = html;
