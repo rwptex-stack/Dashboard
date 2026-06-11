@@ -379,42 +379,123 @@
 
   function loadSpanishWord() {
     const el = document.getElementById('spanish-content');
-    const cacheKey = 'spanish_' + getDayKey();
-    Object.keys(localStorage).forEach(k => { if (k.startsWith('spanish_') && k !== cacheKey) localStorage.removeItem(k); });
-    const cached = localStorage.getItem(cacheKey);
-    if (cached) { el.innerHTML = cached; return; }
-    // Pick by day-of-year — different word each day, no API needed
-    const now = new Date();
-    const dayOfYear = Math.floor((now - new Date(now.getFullYear(), 0, 0)) / 86400000);
-    const data = SPANISH_TOURISM_WORDS[dayOfYear % SPANISH_TOURISM_WORDS.length];
-    const html = `
-      <div class="spanish-word">${data.word}</div>
-      <div class="spanish-pos">${data.partOfSpeech} · ${data.englishMeaning}</div>
-      <div class="spanish-meaning">${data.description}</div>
-      <div class="spanish-example">"${data.exampleSpanish}"</div>
-      <div class="spanish-example-en">"${data.exampleEnglish}"</div>
-    `;
-    el.innerHTML = html;
-    localStorage.setItem(cacheKey, html);
+    try {
+      const cacheKey = 'spanish_' + getDayKey();
+      try { Object.keys(localStorage).forEach(k => { if (k.startsWith('spanish_') && k !== cacheKey) localStorage.removeItem(k); }); } catch(e){}
+      const cached = localStorage.getItem(cacheKey);
+      if (cached) { el.innerHTML = cached; return; }
+      // Pick by day-of-year — different word each day, no API needed
+      const now = new Date();
+      const dayOfYear = Math.floor((now - new Date(now.getFullYear(), 0, 0)) / 86400000);
+      const data = SPANISH_TOURISM_WORDS[dayOfYear % SPANISH_TOURISM_WORDS.length];
+      const html = `
+        <div class="spanish-word">${data.word}</div>
+        <div class="spanish-pos">${data.partOfSpeech} · ${data.englishMeaning}</div>
+        <div class="spanish-meaning">${data.description}</div>
+        <div class="spanish-example">"${data.exampleSpanish}"</div>
+        <div class="spanish-example-en">"${data.exampleEnglish}"</div>
+      `;
+      el.innerHTML = html;
+      try { localStorage.setItem(cacheKey, html); } catch(e){}
+    } catch(e) {
+      el.innerHTML = '<span class="info-loading">Word unavailable.</span>';
+      console.error('loadSpanishWord error:', e);
+    }
   }
 
-  // --- This Day in History (Wikipedia free API — no cost) ---
+  // --- This Day in History (Wikipedia with static fallback — no AI API cost) ---
+  const HISTORY_FALLBACK = [
+    { year: 1066, text: "William the Conqueror defeats King Harold II at the Battle of Hastings, reshaping England's language, culture, and governance." },
+    { year: 1215, text: "King John of England seals Magna Carta at Runnymede, establishing for the first time that the king was subject to the rule of law." },
+    { year: 1347, text: "The Black Death reaches Europe via Sicilian ports, ultimately killing an estimated one-third of the continent's population." },
+    { year: 1440, text: "Johannes Gutenberg introduces movable-type printing to Europe, making books affordable and igniting the spread of literacy." },
+    { year: 1492, text: "Christopher Columbus makes landfall in the Bahamas, beginning sustained contact between Europe and the Americas." },
+    { year: 1503, text: "Leonardo da Vinci begins painting the Mona Lisa, which would become the world's most recognized work of art." },
+    { year: 1519, text: "Hernán Cortés lands in Mexico with 600 soldiers, setting in motion the fall of the Aztec Empire." },
+    { year: 1543, text: "Nicolaus Copernicus publishes his heliocentric model of the solar system, displacing Earth from the center of the universe." },
+    { year: 1588, text: "England defeats the Spanish Armada, ending Spain's plan to invade England and shifting naval dominance toward Britain." },
+    { year: 1605, text: "Guy Fawkes and co-conspirators are arrested for the Gunpowder Plot, their plan to blow up the English Parliament foiled." },
+    { year: 1620, text: "The Mayflower departs Plymouth, England, carrying 102 Pilgrims who would found Plymouth Colony in Massachusetts." },
+    { year: 1665, text: "Isaac Newton, retreating from Cambridge during the Great Plague, formulates his laws of motion and universal gravitation." },
+    { year: 1687, text: "Newton publishes his Principia Mathematica, laying the mathematical foundations of classical mechanics." },
+    { year: 1692, text: "The Salem witch trials begin in colonial Massachusetts, resulting in 20 executions and exposing the dangers of mass hysteria." },
+    { year: 1752, text: "Benjamin Franklin flies a kite in a thunderstorm, demonstrating that lightning is electricity and leading to the invention of the lightning rod." },
+    { year: 1769, text: "James Watt patents his improved steam engine, a foundational invention of the Industrial Revolution." },
+    { year: 1776, text: "The United States Declaration of Independence is adopted by the Continental Congress, proclaiming liberty from British rule." },
+    { year: 1783, text: "The Montgolfier brothers launch the world's first hot air balloon flight in Annonay, France." },
+    { year: 1789, text: "Revolutionaries storm the Bastille fortress in Paris, igniting the French Revolution that would topple the monarchy." },
+    { year: 1793, text: "Eli Whitney invents the cotton gin, dramatically increasing cotton production and deepening the dependence on enslaved labor in the American South." },
+    { year: 1804, text: "Napoleon Bonaparte crowns himself Emperor of the French, consolidating his rule after a decade of revolutionary upheaval." },
+    { year: 1815, text: "Napoleon is decisively defeated at the Battle of Waterloo by the Duke of Wellington and Prussian forces, ending his rule permanently." },
+    { year: 1820, text: "Florence Nightingale is born in Florence, Italy; she would revolutionize nursing and establish modern standards of hospital care." },
+    { year: 1825, text: "The first passenger steam railroad, the Stockton and Darlington Railway, opens in England." },
+    { year: 1838, text: "Samuel Morse demonstrates his telegraph for the first time, beginning the era of instant long-distance communication." },
+    { year: 1848, text: "Karl Marx and Friedrich Engels publish The Communist Manifesto, one of the most influential political pamphlets in history." },
+    { year: 1853, text: "Commodore Matthew Perry sails into Tokyo Bay with his 'Black Ships,' pressuring Japan to open trade with the outside world." },
+    { year: 1859, text: "Charles Darwin publishes On the Origin of Species, introducing the theory of evolution by natural selection." },
+    { year: 1861, text: "The American Civil War begins as Confederate forces fire on Fort Sumter in South Carolina." },
+    { year: 1865, text: "President Abraham Lincoln is shot at Ford's Theatre by John Wilkes Booth and dies the following morning." },
+    { year: 1869, text: "The Suez Canal opens in Egypt, connecting the Mediterranean and Red Seas and cutting weeks off the route between Europe and Asia." },
+    { year: 1876, text: "Alexander Graham Bell makes the first successful telephone call, saying 'Mr. Watson, come here — I want to see you.'" },
+    { year: 1879, text: "Thomas Edison demonstrates his practical incandescent light bulb for the first time at Menlo Park, New Jersey." },
+    { year: 1885, text: "Louis Pasteur successfully administers his rabies vaccine to a 9-year-old boy, a landmark in preventive medicine." },
+    { year: 1889, text: "The Eiffel Tower opens in Paris as the centrepiece of the World's Fair, briefly becoming the world's tallest structure." },
+    { year: 1896, text: "The first modern Olympic Games open in Athens, Greece, reviving an ancient tradition after a 1,500-year hiatus." },
+    { year: 1903, text: "Orville Wright makes the first powered, controlled airplane flight at Kitty Hawk, North Carolina, covering 120 feet in 12 seconds." },
+    { year: 1905, text: "Albert Einstein publishes four groundbreaking papers in his 'Annus Mirabilis,' including the special theory of relativity." },
+    { year: 1908, text: "Henry Ford introduces the Model T automobile, making car ownership accessible to ordinary Americans for the first time." },
+    { year: 1912, text: "The RMS Titanic sinks after striking an iceberg in the North Atlantic, killing more than 1,500 people." },
+    { year: 1914, text: "Archduke Franz Ferdinand is assassinated in Sarajevo, sparking the chain of events that led to World War I." },
+    { year: 1918, text: "World War I ends at the 11th hour of the 11th day of the 11th month, after four years of devastating conflict." },
+    { year: 1920, text: "American women gain the right to vote when the Nineteenth Amendment to the U.S. Constitution is certified." },
+    { year: 1928, text: "Alexander Fleming notices that mold has killed bacteria in one of his Petri dishes, discovering penicillin." },
+    { year: 1929, text: "The New York Stock Exchange crashes on 'Black Tuesday,' triggering the Great Depression that would last a decade." },
+    { year: 1933, text: "Adolf Hitler is appointed Chancellor of Germany, beginning a totalitarian regime that would lead to World War II." },
+    { year: 1939, text: "Nazi Germany invades Poland, prompting Britain and France to declare war and beginning World War II." },
+    { year: 1944, text: "Allied forces land on the beaches of Normandy, France on D-Day, launching the liberation of Western Europe from Nazi occupation." },
+    { year: 1945, text: "The United States drops an atomic bomb on Hiroshima, Japan — the first use of nuclear weapons in warfare, killing approximately 70,000 people instantly." },
+    { year: 1947, text: "India gains independence from Britain, ending nearly 200 years of colonial rule; Pakistan simultaneously becomes a separate nation." },
+    { year: 1948, text: "The United Nations adopts the Universal Declaration of Human Rights, asserting the dignity and equality of all people." },
+    { year: 1953, text: "James Watson and Francis Crick publish their discovery of the double helix structure of DNA, the blueprint of life." },
+    { year: 1955, text: "Rosa Parks refuses to give up her seat on a Montgomery, Alabama bus, igniting the Montgomery Bus Boycott and galvanizing the civil rights movement." },
+    { year: 1957, text: "The Soviet Union launches Sputnik, the world's first artificial satellite, opening the Space Age." },
+    { year: 1961, text: "Soviet cosmonaut Yuri Gagarin becomes the first human in space, completing one orbit of Earth in 108 minutes." },
+    { year: 1963, text: "Martin Luther King Jr. delivers his 'I Have a Dream' speech to 250,000 people at the March on Washington." },
+    { year: 1969, text: "Neil Armstrong and Buzz Aldrin become the first humans to walk on the Moon during NASA's Apollo 11 mission." },
+    { year: 1971, text: "The microprocessor is invented by Intel, laying the foundation for the personal computer revolution." },
+    { year: 1973, text: "The World Trade Center in New York City opens as the world's tallest building, standing at 1,368 feet." },
+    { year: 1976, text: "Steve Jobs and Steve Wozniak found Apple Computer, launching what would become one of the world's most valuable companies." },
+    { year: 1981, text: "IBM introduces its first personal computer, making home computing a mainstream reality." },
+    { year: 1989, text: "The Berlin Wall falls as East Germany opens its border crossings, symbolizing the end of the Cold War." },
+    { year: 1990, text: "Tim Berners-Lee proposes the World Wide Web while working at CERN, transforming how humanity shares information." },
+    { year: 1991, text: "The Soviet Union officially dissolves, ending the Cold War and creating 15 independent republics." },
+    { year: 1994, text: "Nelson Mandela is inaugurated as South Africa's first democratically elected president, ending the apartheid era." },
+    { year: 1997, text: "Scientists at the Roslin Institute announce the successful cloning of Dolly the sheep, the first mammal cloned from an adult somatic cell." },
+    { year: 2001, text: "Terrorists crash four hijacked planes into the World Trade Center, the Pentagon, and a Pennsylvania field, killing nearly 3,000 people." },
+    { year: 2004, text: "Facebook is founded by Mark Zuckerberg at Harvard University, later becoming the world's largest social network." },
+    { year: 2007, text: "Steve Jobs unveils the first iPhone, combining a phone, music player, and internet device in one touchscreen gadget." },
+    { year: 2008, text: "Barack Obama is elected the 44th President of the United States, becoming the first African American to hold the office." },
+    { year: 2012, text: "NASA's Curiosity rover successfully lands on Mars, beginning a mission to search for signs of past or present life." },
+    { year: 2015, text: "The Paris Agreement on climate change is adopted by 196 nations, the first universal accord to limit global warming." },
+    { year: 2016, text: "Gravitational waves are detected for the first time by LIGO scientists, confirming a key prediction of Einstein's general relativity." },
+  ];
+
   async function loadHistory() {
     const el = document.getElementById('history-content');
     const cacheKey = 'history_' + getDayKey();
-    Object.keys(localStorage).forEach(k => { if (k.startsWith('history_') && k !== cacheKey) localStorage.removeItem(k); });
-    const cached = localStorage.getItem(cacheKey);
-    if (cached) { el.innerHTML = cached; return; }
+    try { Object.keys(localStorage).forEach(k => { if (k.startsWith('history_') && k !== cacheKey) localStorage.removeItem(k); }); } catch(e){}
+    try { const cached = localStorage.getItem(cacheKey); if (cached) { el.innerHTML = cached; return; } } catch(e){}
+
+    // Try Wikipedia free API first (works when served over http/https)
     try {
       const now = new Date();
       const mm = String(now.getMonth() + 1).padStart(2, '0');
       const dd = String(now.getDate()).padStart(2, '0');
       const res = await fetch(`https://en.wikipedia.org/api/rest_v1/feed/onthisday/events/${mm}/${dd}`);
-      if (!res.ok) throw new Error('Wikipedia API error');
+      if (!res.ok) throw new Error('status ' + res.status);
       const data = await res.json();
       const events = data.events || [];
-      if (!events.length) throw new Error('No events returned');
-      // Pick 2 random events and sort by year for display
+      if (!events.length) throw new Error('empty');
       const picked = events.sort(() => Math.random() - 0.5).slice(0, 2).sort((a, b) => a.year - b.year);
       const html = picked.map((e, i) => `
         <div class="${i > 0 ? 'history-item history-divider' : 'history-item'}">
@@ -423,10 +504,24 @@
         </div>
       `).join('');
       el.innerHTML = html;
-      localStorage.setItem(cacheKey, html);
-    } catch (e) {
-      el.innerHTML = '<span class="info-loading">Could not load history.</span>';
-    }
+      try { localStorage.setItem(cacheKey, html); } catch(e){}
+      return;
+    } catch(e) { /* fall through to embedded events */ }
+
+    // Fallback: embedded events rotating by day of year (works offline / file://)
+    const now2 = new Date();
+    const doy = Math.floor((now2 - new Date(now2.getFullYear(), 0, 0)) / 86400000);
+    const half = Math.floor(HISTORY_FALLBACK.length / 2);
+    const ev1 = HISTORY_FALLBACK[doy % HISTORY_FALLBACK.length];
+    const ev2 = HISTORY_FALLBACK[(doy + half) % HISTORY_FALLBACK.length];
+    const html2 = [ev1, ev2].filter(Boolean).map((e, i) => `
+      <div class="${i > 0 ? 'history-item history-divider' : 'history-item'}">
+        <div class="history-year">${e.year}</div>
+        <div class="history-text">${e.text}</div>
+      </div>
+    `).join('');
+    el.innerHTML = html2;
+    try { localStorage.setItem(cacheKey, html2); } catch(e){}
   }
 
     // --- Weather ---
@@ -980,9 +1075,11 @@ Respond ONLY with valid JSON, no other text, in this exact shape:
   }
 
   window.onload = () => {
-    const gsiScript = document.querySelector('script[src*="gsi"]');
-    if (typeof google !== 'undefined') initGoogle();
-    else gsiScript.addEventListener('load', initGoogle);
+    try {
+      const gsiScript = document.querySelector('script[src*="gsi"]');
+      if (typeof google !== 'undefined') initGoogle();
+      else if (gsiScript) gsiScript.addEventListener('load', initGoogle);
+    } catch(e) { /* Google auth unavailable */ }
     loadSpanishWord();
     loadHistory();
     renderTodayMenu();
