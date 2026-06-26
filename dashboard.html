@@ -233,43 +233,54 @@
     return `<span class="${cls}">${sign} ${change >= 0 ? '+' : ''}${change.toFixed(2)} (${pct >= 0 ? '+' : ''}${pct.toFixed(2)}%)</span>`;
   }
 
+  // Fetch one Yahoo Finance symbol via allorigins proxy + v8 chart API
+  async function fetchYFSymbol(symbol) {
+    try {
+      const raw = `https://query2.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(symbol)}?interval=1d&range=5d`;
+      const r = await fetch(`https://api.allorigins.win/raw?url=${encodeURIComponent(raw)}`);
+      if (!r.ok) return null;
+      const d = await r.json();
+      const meta = d?.chart?.result?.[0]?.meta;
+      if (!meta) return null;
+      const price = meta.regularMarketPrice;
+      const prev = meta.chartPreviousClose ?? meta.previousClose ?? meta.regularMarketPreviousClose;
+      if (!price || !prev) return null;
+      return { price, change: price - prev, changePct: ((price - prev) / prev) * 100 };
+    } catch(e) { return null; }
+  }
+
   async function loadMarkets() {
     const el = document.getElementById('markets-content');
     const timeEl = document.getElementById('markets-time');
     el.innerHTML = '<span class="mkt-loading">Loading market data...</span>';
     try {
-      const symbols = ['^GSPC', '^DJI', '^IXIC', '^TNX', 'GC=F'];
-      const yfRaw = `https://query1.finance.yahoo.com/v7/finance/quote?symbols=${symbols.join(',')}&fields=regularMarketPrice,regularMarketChange,regularMarketChangePercent,regularMarketPreviousClose`;
-      // Use corsproxy.io to bypass CORS restrictions on GitHub Pages
-      const yfUrl = `https://corsproxy.io/?${encodeURIComponent(yfRaw)}`;
-
-      const [yfRes, btcRes] = await Promise.all([
-        fetch(yfUrl),
+      const [sp, dow, nq, tny, gold, btcRes] = await Promise.all([
+        fetchYFSymbol('^GSPC'),
+        fetchYFSymbol('^DJI'),
+        fetchYFSymbol('^IXIC'),
+        fetchYFSymbol('^TNX'),
+        fetchYFSymbol('GC=F'),
         fetch('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd&include_24hr_change=true')
       ]);
 
-      const yfData = await yfRes.json();
       const btcData = await btcRes.json();
-      const quotes = yfData.quoteResponse?.result || [];
-
-      function q(sym) { return quotes.find(x => x.symbol === sym); }
-      const sp = q('^GSPC'), dow = q('^DJI'), nq = q('^IXIC'), tny = q('^TNX'), gold = q('GC=F');
       const btc = btcData.bitcoin;
 
-      function mktItem(name, price, change, pct, isBond, prefix) {
-        if (!price && price !== 0) return `<div class="mkt-item"><div class="mkt-name">${name}</div><div class="mkt-price" style="color:var(--text-muted)">—</div></div>`;
-        const priceStr = isBond ? price.toFixed(2) + '%' : (prefix || '') + price.toLocaleString('en-US', { maximumFractionDigits: 0 });
-        return `<div class="mkt-item"><div class="mkt-name">${name}</div><div class="mkt-price">${priceStr}</div><div class="mkt-change">${fmtChange(change, pct, isBond)}</div></div>`;
+      function mktItem(name, q, isBond, prefix) {
+        if (!q) return `<div class="mkt-item"><div class="mkt-name">${name}</div><div class="mkt-price" style="color:var(--text-muted)">—</div></div>`;
+        const priceStr = isBond ? q.price.toFixed(2) + '%' : (prefix || '') + q.price.toLocaleString('en-US', { maximumFractionDigits: 0 });
+        return `<div class="mkt-item"><div class="mkt-name">${name}</div><div class="mkt-price">${priceStr}</div><div class="mkt-change">${fmtChange(q.change, q.changePct, isBond)}</div></div>`;
       }
       const btcChange = btc ? btc.usd * (btc.usd_24h_change / 100) : 0;
+      const btcQ = btc ? { price: Math.round(btc.usd), change: btcChange, changePct: btc.usd_24h_change } : null;
 
       el.innerHTML = `<div class="mkt-grid">
-        ${mktItem('S&P 500', sp?.regularMarketPrice, sp?.regularMarketChange, sp?.regularMarketChangePercent)}
-        ${mktItem('Dow', dow?.regularMarketPrice, dow?.regularMarketChange, dow?.regularMarketChangePercent)}
-        ${mktItem('Nasdaq', nq?.regularMarketPrice, nq?.regularMarketChange, nq?.regularMarketChangePercent)}
-        ${mktItem('10yr Treasury', tny?.regularMarketPrice, tny?.regularMarketChange, tny?.regularMarketChangePercent, true)}
-        ${mktItem('Gold', gold?.regularMarketPrice, gold?.regularMarketChange, gold?.regularMarketChangePercent, false, '$')}
-        ${btc ? mktItem('Bitcoin', Math.round(btc.usd), btcChange, btc.usd_24h_change, false, '$') : mktItem('Bitcoin', null)}
+        ${mktItem('S&P 500', sp)}
+        ${mktItem('Dow', dow)}
+        ${mktItem('Nasdaq', nq)}
+        ${mktItem('10yr Treasury', tny, true)}
+        ${mktItem('Gold', gold, false, '$')}
+        ${mktItem('Bitcoin', btcQ, false, '$')}
       </div>`;
       timeEl.textContent = 'as of ' + new Date().toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit' });
     } catch(e) {
@@ -280,20 +291,25 @@
   // --- News Briefing ---
   async function fetchRSS(url, count) {
     const n = count || 6;
-    // Try rss2json first
-    try {
-      const r = await fetch(`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(url)}&count=${n}`, { signal: AbortSignal.timeout(6000) });
-      const d = await r.json();
-      if (d.items && d.items.length > 0) return d.items.map(i => i.title).filter(Boolean);
-    } catch(e) {}
-    // Fallback: allorigins.win CORS proxy + parse XML ourselves
-    try {
-      const r = await fetch(`https://api.allorigins.win/get?url=${encodeURIComponent(url)}`, { signal: AbortSignal.timeout(8000) });
-      const d = await r.json();
+    function parseXML(txt) {
       const parser = new DOMParser();
-      const xml = parser.parseFromString(d.contents, 'text/xml');
-      const items = [...xml.querySelectorAll('item')].slice(0, n);
-      return items.map(i => i.querySelector('title')?.textContent?.trim()).filter(Boolean);
+      const xml = parser.parseFromString(txt, 'text/xml');
+      const items = [...xml.querySelectorAll('item, entry')].slice(0, n);
+      return items.map(i => {
+        const t = i.querySelector('title');
+        return t?.textContent?.replace(/<!\[CDATA\[|\]\]>/g,'').trim();
+      }).filter(Boolean);
+    }
+    // Primary: allorigins.win
+    try {
+      const r = await fetch(`https://api.allorigins.win/raw?url=${encodeURIComponent(url)}`);
+      if (r.ok) { const txt = await r.text(); const titles = parseXML(txt); if (titles.length) return titles; }
+    } catch(e) {}
+    // Fallback: rss2json.com
+    try {
+      const r = await fetch(`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(url)}&count=${n}`);
+      const d = await r.json();
+      if (d.items?.length) return d.items.map(i => i.title).filter(Boolean);
     } catch(e) {}
     return [];
   }
@@ -322,7 +338,7 @@
         fetchRSS('https://feeds.arstechnica.com/arstechnica/index', 5),
         fetchRSS('https://www.theverge.com/rss/index.xml', 5),
         fetchRSS('https://feeds.bbci.co.uk/news/world/rss.xml', 7),
-        fetchRSS('https://feeds.reuters.com/Reuters/worldNews', 7),
+        fetchRSS('https://feeds.bbci.co.uk/news/rss.xml', 7),
         fetchRSS('https://feeds.washingtonpost.com/rss/national', 5),
         fetchRSS('https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml', 5),
         fetchRSS('https://www.latimes.com/rss2.0.xml', 5)
@@ -647,3 +663,4 @@ WAPO/NYT/LAT:\n${cmdy || '(unavailable)'}`;
 </script>
 </body>
 </html>
+                                                  
