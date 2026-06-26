@@ -364,7 +364,7 @@
     } catch(e) {}
 
     if (btn) btn.textContent = 'Loading...';
-    el.innerHTML = '<div class="news-loading"><div class="spinner"></div>Fetching headlines (may take ~20 sec)...</div>';
+    el.innerHTML = '<div class="news-loading"><div class="spinner"></div>Step 1 of 3: Fetching headlines...</div>';
 
     // Only confirmed-working feeds (WaPo and LA Times block proxies)
     const [mktwatch, fox, rcp, hill, ars, verge, bbcWorld, bbcTop, nyt] = await Promise.all([
@@ -379,15 +379,17 @@
       fetchRSS('https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml', 5)
     ]);
 
+    const counts = [mktwatch,fox,rcp,hill,ars,verge,bbcWorld,bbcTop,nyt].map(f=>f.length);
+    const totalHeadlines = counts.reduce((a,b)=>a+b,0);
     const mkts = [...new Set(mktwatch)].join('\n');
     const pol  = [...new Set([...fox, ...rcp, ...hill])].slice(0, 10).join('\n');
     const intl = [...new Set([...bbcWorld, ...bbcTop])].slice(0, 10).join('\n');
     const tech = [...new Set([...ars, ...verge])].slice(0, 8).join('\n');
     const lite = [...new Set(nyt)].join('\n');
 
-    try {
-      el.innerHTML = '<div class="news-loading"><div class="spinner"></div>AI is summarizing the headlines...</div>';
+    el.innerHTML = `<div class="news-loading"><div class="spinner"></div>Step 2 of 3: Got ${totalHeadlines} headlines — asking AI to summarize...</div>`;
 
+    try {
       const prompt = `You are Ron's morning briefing assistant. Ron is a conservative-leaning investor in his 60s-70s in Texas. He is interested in: markets and Fed policy, US politics, international news, and technology.
 
 Write a concise morning briefing from the headlines below. 3-4 bullet points per section, one sentence each. Be factual in all sections. For "Light Reading" (NYT), you may be wryly observational about editorial slant if warranted — Ron finds that amusing.
@@ -411,6 +413,8 @@ NYT (light reading):
 ${lite || '(no headlines)'}`;
 
       const aiText = await callAI(prompt, 900);
+      el.innerHTML = '<div class="news-loading"><div class="spinner"></div>Step 3 of 3: Formatting briefing...</div>';
+
       const json = JSON.parse(aiText.replace(/```json|```/g,'').trim());
 
       function section(title, bullets, note) {
@@ -434,7 +438,7 @@ ${lite || '(no headlines)'}`;
       } catch(e) {}
 
     } catch(e) {
-      el.innerHTML = `<div class="news-loading" style="color:var(--danger)">Briefing failed: ${e.message} — <button class="retry-btn" onclick="loadNewsBriefing()">Retry</button></div>`;
+      el.innerHTML = `<div class="news-loading" style="color:var(--danger)">&#10060; Failed at AI step: ${e.message}<br><br><button class="retry-btn" onclick="loadNewsBriefing()">Retry</button></div>`;
     }
     if (btn) btn.textContent = 'Refresh';
   }
@@ -664,25 +668,7 @@ ${lite || '(no headlines)'}`;
       const r=await fetch('https://www.googleapis.com/gmail/v1/users/me/messages/send',{method:'POST',headers:{Authorization:`Bearer ${accessToken}`,'Content-Type':'application/json'},body:JSON.stringify({raw:encoded})});
       if(r.ok){resultEl.innerHTML=`<p class="success-msg">✓ Email sent to ${to}!</p>`;document.getElementById('em-to').value='';document.getElementById('em-subject').value='';document.getElementById('em-body').value='';}
       else{const err=await r.json();resultEl.innerHTML=`<p class="error-msg">Error: ${err.error?.message}</p>`;}
-    }catch(e){resultEl.innerHTML=`<p class="error-msg">Error: ${e.message}</p>`;}
-  }
-  function showAddEvent() {
-    const today=new Date().toISOString().slice(0,16);
-    showOutput('Add Calendar Event',`
-      <div class="form-group"><label>Event Title</label><input type="text" id="ev-title" placeholder="e.g. Doctor appointment"></div>
-      <div class="form-group"><label>Date &amp; Time</label><input type="datetime-local" id="ev-start" value="${today}"></div>
-      <div class="form-group"><label>Duration</label><select id="ev-duration">
-        <option value="30">30 minutes</option><option value="60" selected>1 hour</option>
-        <option value="90">1.5 hours</option><option value="120">2 hours</option>
-      </select></div>
-      <div class="form-group"><label>Calendar</label><select id="ev-calendar">
-        <option value="primary">${MY_LABEL}</option>
-        <option value="${SPOUSE_CALENDAR}">${SPOUSE_LABEL}</option>
-      </select></div>
-      <button class="submit-btn" onclick="addEvent()">Add to Calendar</button>
-      <div id="add-result" style="margin-top:12px"></div>`);
-  }
-  async function addEvent() {
+    }catch(e){resultEl.innerHTML=`<p class="error-msg">Error: ${e.message}</p>`;}  async function addEvent() {
     if(!requireAuth())return;
     const title=document.getElementById('ev-title').value.trim();
     const start=document.getElementById('ev-start').value;
@@ -694,7 +680,7 @@ ${lite || '(no headlines)'}`;
     resultEl.innerHTML='<div class="loading"><div class="spinner"></div>Adding...</div>';
     try{
       const r=await fetch(`https://www.googleapis.com/calendar/v3/calendars/${encodeURIComponent(calId)}/events`,{method:'POST',headers:{Authorization:`Bearer ${accessToken}`,'Content-Type':'application/json'},body:JSON.stringify({summary:title,start:{dateTime:sd.toISOString()},end:{dateTime:ed.toISOString()}})});
-      if(r.ok)resultEl.innerHTML=`<p class="success-msg">\u2713 "${title}" added successfully!</p>`;
+      if(r.ok)resultEl.innerHTML=`<p class="success-msg">✓ "${title}" added successfully!</p>`;
       else{const err=await r.json();resultEl.innerHTML=`<p class="error-msg">Error: ${err.error?.message}</p>`;}
     }catch(e){resultEl.innerHTML=`<p class="error-msg">Error: ${e.message}</p>`;}
   }
