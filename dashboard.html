@@ -686,4 +686,25 @@ ${lite || '(no headlines)'}`;
     if(!requireAuth())return;
     const title=document.getElementById('ev-title').value.trim();
     const start=document.getElementById('ev-start').value;
-    const duration=parseInt(document.getElementById('ev-du
+    const duration=parseInt(document.getElementById('ev-duration').value);
+    const calId=document.getElementById('ev-calendar').value;
+    const resultEl=document.getElementById('add-result');
+    if(!title||!start){resultEl.innerHTML='<p class="error-msg">Please fill in title and date.</p>';return;}
+    const sd=new Date(start); const ed=new Date(sd.getTime()+duration*60000);
+    resultEl.innerHTML='<div class="loading"><div class="spinner"></div>Adding...</div>';
+    try{
+      const r=await fetch(`https://www.googleapis.com/calendar/v3/calendars/${encodeURIComponent(calId)}/events`,{method:'POST',headers:{Authorization:`Bearer ${accessToken}`,'Content-Type':'application/json'},body:JSON.stringify({summary:title,start:{dateTime:sd.toISOString()},end:{dateTime:ed.toISOString()}})});
+      if(r.ok)resultEl.innerHTML=`<p class="success-msg">\u2713 "${title}" added successfully!</p>`;
+      else{const err=await r.json();resultEl.innerHTML=`<p class="error-msg">Error: ${err.error?.message}</p>`;}
+    }catch(e){resultEl.innerHTML=`<p class="error-msg">Error: ${e.message}</p>`;}
+  }
+
+  function init() {
+    document.getElementById('header-date').textContent = new Date().toLocaleDateString('en-US', { weekday:'long', month:'long', day:'numeric', year:'numeric' });
+    loadMarkets();
+  }
+  window.onload = init;
+  window.onGoogleLibraryLoad = initGoogle;
+</script>
+</body>
+</html>
