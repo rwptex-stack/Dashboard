@@ -130,8 +130,19 @@
 </div>
 
 <div class="news-card">
-  <div class="card-label">📰 Overnight Briefing</div>
-  <div id="news-content"><div class="news-loading"><div class="spinner"></div>Fetching overnight news...</div></div>
+  <div class="card-label">📰 News Feed Test</div>
+  <div id="news-content"><div class="news-loading"><span>Click a button below to test a feed</span></div></div>
+  <div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:12px">
+    <button class="retry-btn" onclick="testFeed('https://feeds.bbci.co.uk/news/rss.xml','BBC Top News')">BBC Top</button>
+    <button class="retry-btn" onclick="testFeed('https://feeds.bbci.co.uk/news/world/rss.xml','BBC World')">BBC World</button>
+    <button class="retry-btn" onclick="testFeed('https://feeds.marketwatch.com/marketwatch/topstories/','MarketWatch')">MarketWatch</button>
+    <button class="retry-btn" onclick="testFeed('https://feeds.foxnews.com/foxnews/latest','Fox News')">Fox News</button>
+    <button class="retry-btn" onclick="testFeed('https://www.realclearpolitics.com/index.xml','RealClearPolitics')">RCP</button>
+    <button class="retry-btn" onclick="testFeed('https://feeds.arstechnica.com/arstechnica/index','Ars Technica')">Ars Technica</button>
+    <button class="retry-btn" onclick="testFeed('https://www.theverge.com/rss/index.xml','The Verge')">The Verge</button>
+    <button class="retry-btn" onclick="testFeed('https://thehill.com/rss/syndicator/19110','The Hill')">The Hill</button>
+    <button class="retry-btn" onclick="testFeed('https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml','NYT')">NYT</button>
+  </div>
 </div>
 
 <p class="timestamp" id="briefing-timestamp"></p>
@@ -237,7 +248,7 @@
   async function fetchStooq(symbol) {
     try {
       const ctrl = new AbortController();
-      const tid = setTimeout(() => ctrl.abort(), 8000);
+      const tid = setTimeout(() => ctrl.abort(), 9000);
       const r = await fetch(`https://stooq.com/q/d/l/?s=${encodeURIComponent(symbol)}&i=d`, { signal: ctrl.signal });
       clearTimeout(tid);
       if (!r.ok) return null;
@@ -254,17 +265,42 @@
     } catch(e) { return null; }
   }
 
+  // Yahoo Finance via corsproxy as backup
+  async function fetchYF(yfSymbol) {
+    try {
+      const raw = `https://query2.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(yfSymbol)}?interval=1d&range=5d`;
+      const ctrl = new AbortController();
+      const tid = setTimeout(() => ctrl.abort(), 9000);
+      const r = await fetch(`https://corsproxy.io/?${encodeURIComponent(raw)}`, { signal: ctrl.signal });
+      clearTimeout(tid);
+      if (!r.ok) return null;
+      const d = await r.json();
+      const meta = d?.chart?.result?.[0]?.meta;
+      if (!meta) return null;
+      const price = meta.regularMarketPrice;
+      const prev = meta.chartPreviousClose ?? meta.previousClose;
+      if (!price || !prev) return null;
+      return { price, change: price - prev, changePct: ((price - prev) / prev) * 100 };
+    } catch(e) { return null; }
+  }
+
+  async function fetchMkt(stooqSym, yfSym) {
+    const result = await fetchStooq(stooqSym);
+    if (result) return result;
+    return fetchYF(yfSym); // fallback
+  }
+
   async function loadMarkets() {
     const el = document.getElementById('markets-content');
     const timeEl = document.getElementById('markets-time');
     el.innerHTML = '<span class="mkt-loading">Loading market data...</span>';
     try {
       const [sp, dow, nq, tny, gold, btcRes] = await Promise.all([
-        fetchStooq('^spx'),
-        fetchStooq('^dji'),
-        fetchStooq('^ndq'),
-        fetchStooq('10ys.us'),
-        fetchStooq('gc.f'),
+        fetchMkt('^spx',   '^GSPC'),
+        fetchMkt('^dji',   '^DJI'),
+        fetchMkt('^ndq',   '^IXIC'),
+        fetchMkt('10ys.us','^TNX'),
+        fetchMkt('gc.f',   'GC=F'),
         fetch('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd&include_24hr_change=true')
       ]);
 
@@ -293,118 +329,50 @@
     }
   }
 
-  // --- News Briefing ---
+  // --- News Feed Tester (Step 1: prove one feed works before adding AI/more feeds) ---
   function timedFetch(url, ms) {
     const ctrl = new AbortController();
     const t = setTimeout(() => ctrl.abort(), ms);
     return fetch(url, { signal: ctrl.signal }).finally(() => clearTimeout(t));
   }
 
-  async function fetchRSS(url, count) {
-    const n = count || 6;
+  async function testFeed(rssUrl, name) {
+    const el = document.getElementById('news-content');
+    el.innerHTML = `<div class="news-loading"><div class="spinner"></div>Testing ${name}...</div>`;
     function parseXML(txt) {
       try {
         const xml = new DOMParser().parseFromString(txt, 'text/xml');
-        return [...xml.querySelectorAll('item, entry')].slice(0, n)
+        return [...xml.querySelectorAll('item, entry')].slice(0, 8)
           .map(i => i.querySelector('title')?.textContent?.replace(/<!\[CDATA\[|\]\]>/g,'').trim())
           .filter(t => t && t.length > 5);
       } catch(e) { return []; }
     }
-    // Both proxies fire in parallel, each with a hard 5-second timeout
-    const [r1, r2] = await Promise.all([
-      timedFetch(`https://corsproxy.io/?${encodeURIComponent(url)}`, 5000)
-        .then(r => r.ok ? r.text().then(parseXML) : []).catch(() => []),
-      timedFetch(`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(url)}&count=${n}`, 5000)
-        .then(r => r.json()).then(d => (d.items||[]).map(i=>i.title).filter(Boolean)).catch(() => [])
-    ]);
-    return (r1.length ? r1 : r2).slice(0, n);
-  }
-
-  async function loadNewsBriefing() {
-    const el = document.getElementById('news-content');
-    const tsEl = document.getElementById('briefing-timestamp');
-    const cacheKey = 'ron_briefing_' + getDayKey();
+    // Try corsproxy.io
     try {
-      const cached = localStorage.getItem(cacheKey);
-      if (cached) {
-        el.innerHTML = cached;
-        tsEl.textContent = 'Briefing cached for today · ' + new Date().toLocaleDateString('en-US', { weekday: 'long', month: 'long', day: 'numeric' });
+      const r = await timedFetch(`https://corsproxy.io/?${encodeURIComponent(rssUrl)}`, 6000);
+      if (r.ok) {
+        const txt = await r.text();
+        const titles = parseXML(txt);
+        if (titles.length) {
+          el.innerHTML = `<div class="news-section-title">✅ ${name} — via corsproxy.io (${titles.length} headlines)</div>`
+            + titles.map(t => `<div class="news-item"><span class="news-dot">·</span>${t}</div>`).join('');
+          return;
+        }
+      }
+    } catch(e) {}
+    // Try rss2json
+    try {
+      const r = await timedFetch(`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(rssUrl)}&count=8`, 6000);
+      const d = await r.json();
+      const titles = (d.items||[]).map(i=>i.title).filter(Boolean);
+      if (titles.length) {
+        el.innerHTML = `<div class="news-section-title">✅ ${name} — via rss2json (${titles.length} headlines)</div>`
+          + titles.map(t => `<div class="news-item"><span class="news-dot">·</span>${t}</div>`).join('');
         return;
       }
     } catch(e) {}
-
-    el.innerHTML = '<div class="news-loading"><div class="spinner"></div>Fetching overnight headlines...</div>';
-
-    try {
-      // Reuters killed public RSS in 2023 — replaced with CNBC, Fox News, The Hill
-      // Overall 15-second cap: proceed with whatever loaded, never hang forever
-      const empty12 = Array(12).fill([]);
-      const [cnbcMkts, mktwatch, foxTop, rcp, thehill, ars, verge, bbcWorld, bbcTop, wapo, nyt, lat] =
-        await Promise.race([
-          Promise.all([
-            fetchRSS('https://www.cnbc.com/id/10000664/device/rss/rss.html', 6),
-            fetchRSS('https://feeds.marketwatch.com/marketwatch/topstories/', 6),
-            fetchRSS('https://feeds.foxnews.com/foxnews/latest', 6),
-            fetchRSS('https://www.realclearpolitics.com/index.xml', 6),
-            fetchRSS('https://thehill.com/rss/syndicator/19110', 6),
-            fetchRSS('https://feeds.arstechnica.com/arstechnica/index', 5),
-            fetchRSS('https://www.theverge.com/rss/index.xml', 5),
-            fetchRSS('https://feeds.bbci.co.uk/news/world/rss.xml', 7),
-            fetchRSS('https://feeds.bbci.co.uk/news/rss.xml', 7),
-            fetchRSS('https://feeds.washingtonpost.com/rss/national', 5),
-            fetchRSS('https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml', 5),
-            fetchRSS('https://www.latimes.com/rss2.0.xml', 5)
-          ]),
-          new Promise(resolve => setTimeout(() => resolve(empty12), 15000))
-        ]);
-
-      const mkts = [...new Set([...cnbcMkts, ...mktwatch])].slice(0, 10).join('\n');
-      const pol  = [...new Set([...foxTop, ...rcp, ...thehill])].slice(0, 10).join('\n');
-      const intl = [...new Set([...bbcWorld, ...bbcTop])].slice(0, 10).join('\n');
-      const tech = [...new Set([...ars, ...verge])].slice(0, 8).join('\n');
-      const cmdy = [...new Set([...wapo, ...nyt, ...lat])].slice(0, 8).join('\n');
-
-      const prompt = `You are Ron's morning briefing assistant. Ron is a conservative-leaning investor in his 60s-70s in Texas interested in markets, Fed policy, interest rates, gold, bitcoin, politics, international news, and technology.
-
-Summarize the overnight headlines below into a concise morning briefing. Write 3-4 short bullet points per section (one sentence each). Be factual and neutral in Markets/Politics/International/Tech. For "Light Reading" (WaPo/NYT/LAT), you may be wryly observational about media spin if warranted.
-
-Return ONLY valid JSON:
-{"markets":["bullet","bullet","bullet"],"politics":["bullet","bullet","bullet"],"international":["bullet","bullet","bullet"],"tech":["bullet","bullet","bullet"],"comedy":["bullet","bullet","bullet"]}
-
-MARKETS & FED:\n${mkts || '(unavailable)'}
-POLITICS:\n${pol || '(unavailable)'}
-INTERNATIONAL (BBC/Reuters World):\n${intl || '(unavailable)'}
-TECH:\n${tech || '(unavailable)'}
-WAPO/NYT/LAT:\n${cmdy || '(unavailable)'}`;
-
-      const aiText = await callAI(prompt, 900);
-      const json = JSON.parse(aiText.replace(/```json|```/g, '').trim());
-
-      function section(title, bullets, isComedy) {
-        const hdr = isComedy
-          ? `<div class="news-section-title">Light Reading <span class="comedy-label">WaPo · NYT · LAT</span></div>`
-          : `<div class="news-section-title">${title}</div>`;
-        const items = (bullets || []).map(b => `<div class="news-item"><span class="news-dot">·</span>${b}</div>`).join('');
-        return `<div class="news-section">${hdr}${items}</div>`;
-      }
-
-      const html = section('Markets &amp; Fed', json.markets)
-        + section('Politics', json.politics)
-        + section('🌍 International', json.international)
-        + section('Tech', json.tech)
-        + section('', json.comedy, true);
-
-      el.innerHTML = html;
-      tsEl.textContent = 'Generated at ' + new Date().toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit' }) + ' · ' + new Date().toLocaleDateString('en-US', { weekday: 'long', month: 'long', day: 'numeric' });
-
-      try {
-        Object.keys(localStorage).forEach(k => { if (k.startsWith('ron_briefing_') && k !== cacheKey) localStorage.removeItem(k); });
-        localStorage.setItem(cacheKey, html);
-      } catch(e) {}
-
-    } catch(e) {
-      el.innerHTML = `<span class="mkt-loading">Briefing unavailable — ${e.message}. <button class="retry-btn" onclick="loadNewsBriefing()">Retry</button></span>`;
-    }
+    el.innerHTML = `<div class="news-section-title" style="color:var(--danger)">❌ ${name} — both proxies failed</div>
+      <div class="news-item">corsproxy.io and rss2json both returned nothing for this feed.</div>`;
   }
 
   // --- Weather ---
@@ -661,4 +629,20 @@ WAPO/NYT/LAT:\n${cmdy || '(unavailable)'}`;
     const sd=new Date(start); const ed=new Date(sd.getTime()+duration*60000);
     resultEl.innerHTML='<div class="loading"><div class="spinner"></div>Adding...</div>';
     try{
-      const r=await fetch(`https://www.googleapis.com/calendar/v3/calendars/${encodeURIComponent(calId)}/events`,{method:'POST',headers:{Authorization:`Bearer ${accessToken}`,'Content-Type':'application/json'},body:
+      const r=await fetch(`https://www.googleapis.com/calendar/v3/calendars/${encodeURIComponent(calId)}/events`,{method:'POST',headers:{Authorization:`Bearer ${accessToken}`,'Content-Type':'application/json'},body:JSON.stringify({summary:title,start:{dateTime:sd.toISOString()},end:{dateTime:ed.toISOString()}})});
+      if(r.ok)resultEl.innerHTML=`<p class="success-msg">✓ "${title}" added successfully!</p>`;
+      else{const err=await r.json();resultEl.innerHTML=`<p class="error-msg">Error: ${err.error?.message}</p>`;}
+    }catch(e){resultEl.innerHTML=`<p class="error-msg">Error: ${e.message}</p>`;}
+  }
+
+  function init() {
+    document.getElementById('header-date').textContent = new Date().toLocaleDateString('en-US', { weekday:'long', month:'long', day:'numeric', year:'numeric' });
+    loadMarkets();
+    // News briefing: click a feed button above to test
+  }
+  window.onload = init;
+  window.onGoogleLibraryLoad = initGoogle;
+</script>
+</body>
+</html>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
