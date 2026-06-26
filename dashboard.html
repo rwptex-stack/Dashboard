@@ -233,19 +233,24 @@
     return `<span class="${cls}">${sign} ${change >= 0 ? '+' : ''}${change.toFixed(2)} (${pct >= 0 ? '+' : ''}${pct.toFixed(2)}%)</span>`;
   }
 
-  // Fetch one Yahoo Finance symbol via allorigins proxy + v8 chart API
-  async function fetchYFSymbol(symbol) {
+  // Stooq.com — free, no key, CORS-enabled, returns daily CSV
+  async function fetchStooq(symbol) {
     try {
-      const raw = `https://query2.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(symbol)}?interval=1d&range=5d`;
-      const r = await fetch(`https://api.allorigins.win/raw?url=${encodeURIComponent(raw)}`);
+      const ctrl = new AbortController();
+      const tid = setTimeout(() => ctrl.abort(), 8000);
+      const r = await fetch(`https://stooq.com/q/d/l/?s=${encodeURIComponent(symbol)}&i=d`, { signal: ctrl.signal });
+      clearTimeout(tid);
       if (!r.ok) return null;
-      const d = await r.json();
-      const meta = d?.chart?.result?.[0]?.meta;
-      if (!meta) return null;
-      const price = meta.regularMarketPrice;
-      const prev = meta.chartPreviousClose ?? meta.previousClose ?? meta.regularMarketPreviousClose;
-      if (!price || !prev) return null;
-      return { price, change: price - prev, changePct: ((price - prev) / prev) * 100 };
+      const csv = await r.text();
+      const lines = csv.trim().split('\n');
+      if (lines.length < 3) return null;
+      const header = lines[0].toLowerCase().split(',');
+      const ci = header.indexOf('close');
+      if (ci === -1) return null;
+      const latest = parseFloat(lines[lines.length - 1].split(',')[ci]);
+      const prev   = parseFloat(lines[lines.length - 2].split(',')[ci]);
+      if (isNaN(latest) || isNaN(prev)) return null;
+      return { price: latest, change: latest - prev, changePct: ((latest - prev) / prev) * 100 };
     } catch(e) { return null; }
   }
 
@@ -255,11 +260,11 @@
     el.innerHTML = '<span class="mkt-loading">Loading market data...</span>';
     try {
       const [sp, dow, nq, tny, gold, btcRes] = await Promise.all([
-        fetchYFSymbol('^GSPC'),
-        fetchYFSymbol('^DJI'),
-        fetchYFSymbol('^IXIC'),
-        fetchYFSymbol('^TNX'),
-        fetchYFSymbol('GC=F'),
+        fetchStooq('^spx'),
+        fetchStooq('^dji'),
+        fetchStooq('^ndq'),
+        fetchStooq('10ys.us'),
+        fetchStooq('gc.f'),
         fetch('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd&include_24hr_change=true')
       ]);
 
@@ -292,26 +297,21 @@
   async function fetchRSS(url, count) {
     const n = count || 6;
     function parseXML(txt) {
-      const parser = new DOMParser();
-      const xml = parser.parseFromString(txt, 'text/xml');
-      const items = [...xml.querySelectorAll('item, entry')].slice(0, n);
-      return items.map(i => {
-        const t = i.querySelector('title');
-        return t?.textContent?.replace(/<!\[CDATA\[|\]\]>/g,'').trim();
-      }).filter(Boolean);
+      try {
+        const xml = new DOMParser().parseFromString(txt, 'text/xml');
+        return [...xml.querySelectorAll('item, entry')].slice(0, n)
+          .map(i => i.querySelector('title')?.textContent?.replace(/<!\[CDATA\[|\]\]>/g,'').trim())
+          .filter(t => t && t.length > 5);
+      } catch(e) { return []; }
     }
-    // Primary: allorigins.win
-    try {
-      const r = await fetch(`https://api.allorigins.win/raw?url=${encodeURIComponent(url)}`);
-      if (r.ok) { const txt = await r.text(); const titles = parseXML(txt); if (titles.length) return titles; }
-    } catch(e) {}
-    // Fallback: rss2json.com
-    try {
-      const r = await fetch(`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(url)}&count=${n}`);
-      const d = await r.json();
-      if (d.items?.length) return d.items.map(i => i.title).filter(Boolean);
-    } catch(e) {}
-    return [];
+    // Run both proxies in parallel — take whichever returns usable data first
+    const [r1, r2] = await Promise.all([
+      fetch(`https://corsproxy.io/?${encodeURIComponent(url)}`)
+        .then(r => r.ok ? r.text().then(parseXML) : []).catch(() => []),
+      fetch(`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(url)}&count=${n}`)
+        .then(r => r.json()).then(d => (d.items||[]).map(i=>i.title).filter(Boolean)).catch(() => [])
+    ]);
+    return (r1.length ? r1 : r2).slice(0, n);
   }
 
   async function loadNewsBriefing() {
@@ -330,11 +330,13 @@
     el.innerHTML = '<div class="news-loading"><div class="spinner"></div>Fetching overnight headlines...</div>';
 
     try {
-      const [reutersBiz, reutersTop, marketwatch, rcp, ars, verge, bbc, reutersWorld, wapo, nyt, lat] = await Promise.all([
-        fetchRSS('https://feeds.reuters.com/reuters/businessNews', 6),
-        fetchRSS('https://feeds.reuters.com/reuters/topNews', 6),
+      // Reuters killed public RSS in 2023 — replaced with CNBC, Fox News, The Hill
+      const [cnbcMkts, mktwatch, foxTop, rcp, thehill, ars, verge, bbcWorld, bbcTop, wapo, nyt, lat] = await Promise.all([
+        fetchRSS('https://www.cnbc.com/id/10000664/device/rss/rss.html', 6),   // CNBC markets
         fetchRSS('https://feeds.marketwatch.com/marketwatch/topstories/', 6),
+        fetchRSS('https://feeds.foxnews.com/foxnews/latest', 6),                // Fox News top stories
         fetchRSS('https://www.realclearpolitics.com/index.xml', 6),
+        fetchRSS('https://thehill.com/rss/syndicator/19110', 6),                // The Hill politics
         fetchRSS('https://feeds.arstechnica.com/arstechnica/index', 5),
         fetchRSS('https://www.theverge.com/rss/index.xml', 5),
         fetchRSS('https://feeds.bbci.co.uk/news/world/rss.xml', 7),
@@ -344,9 +346,9 @@
         fetchRSS('https://www.latimes.com/rss2.0.xml', 5)
       ]);
 
-      const mkts = [...new Set([...reutersBiz, ...marketwatch])].slice(0, 10).join('\n');
-      const pol  = [...new Set([...reutersTop, ...rcp])].slice(0, 10).join('\n');
-      const intl = [...new Set([...bbc, ...reutersWorld])].slice(0, 10).join('\n');
+      const mkts = [...new Set([...cnbcMkts, ...mktwatch])].slice(0, 10).join('\n');
+      const pol  = [...new Set([...foxTop, ...rcp, ...thehill])].slice(0, 10).join('\n');
+      const intl = [...new Set([...bbcWorld, ...bbcTop])].slice(0, 10).join('\n');
       const tech = [...new Set([...ars, ...verge])].slice(0, 8).join('\n');
       const cmdy = [...new Set([...wapo, ...nyt, ...lat])].slice(0, 8).join('\n');
 
@@ -654,13 +656,4 @@ WAPO/NYT/LAT:\n${cmdy || '(unavailable)'}`;
   }
 
   function init() {
-    document.getElementById('header-date').textContent = new Date().toLocaleDateString('en-US', { weekday:'long', month:'long', day:'numeric', year:'numeric' });
-    loadMarkets();
-    loadNewsBriefing();
-  }
-  window.onload = init;
-  window.onGoogleLibraryLoad = initGoogle;
-</script>
-</body>
-</html>
-                                                  
+    
