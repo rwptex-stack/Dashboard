@@ -130,19 +130,11 @@
 </div>
 
 <div class="news-card">
-  <div class="card-label">📰 News Feed Test</div>
-  <div id="news-content"><div class="news-loading"><span>Click a button below to test a feed</span></div></div>
-  <div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:12px">
-    <button class="retry-btn" onclick="testFeed('https://feeds.bbci.co.uk/news/rss.xml','BBC Top News')">BBC Top</button>
-    <button class="retry-btn" onclick="testFeed('https://feeds.bbci.co.uk/news/world/rss.xml','BBC World')">BBC World</button>
-    <button class="retry-btn" onclick="testFeed('https://feeds.marketwatch.com/marketwatch/topstories/','MarketWatch')">MarketWatch</button>
-    <button class="retry-btn" onclick="testFeed('https://feeds.foxnews.com/foxnews/latest','Fox News')">Fox News</button>
-    <button class="retry-btn" onclick="testFeed('https://www.realclearpolitics.com/index.xml','RealClearPolitics')">RCP</button>
-    <button class="retry-btn" onclick="testFeed('https://feeds.arstechnica.com/arstechnica/index','Ars Technica')">Ars Technica</button>
-    <button class="retry-btn" onclick="testFeed('https://www.theverge.com/rss/index.xml','The Verge')">The Verge</button>
-    <button class="retry-btn" onclick="testFeed('https://thehill.com/rss/syndicator/19110','The Hill')">The Hill</button>
-    <button class="retry-btn" onclick="testFeed('https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml','NYT')">NYT</button>
+  <div class="card-label" style="justify-content:space-between">
+    <span>📰 Morning Briefing</span>
+    <button class="retry-btn" onclick="loadNewsBriefing()" id="briefing-btn">Load Briefing</button>
   </div>
+  <div id="news-content"><div class="news-loading"><span>Click "Load Briefing" to fetch today's news</span></div></div>
 </div>
 
 <p class="timestamp" id="briefing-timestamp"></p>
@@ -329,50 +321,122 @@
     }
   }
 
-  // --- News Feed Tester (Step 1: prove one feed works before adding AI/more feeds) ---
+  // --- News Briefing ---
   function timedFetch(url, ms) {
     const ctrl = new AbortController();
     const t = setTimeout(() => ctrl.abort(), ms);
     return fetch(url, { signal: ctrl.signal }).finally(() => clearTimeout(t));
   }
 
-  async function testFeed(rssUrl, name) {
-    const el = document.getElementById('news-content');
-    el.innerHTML = `<div class="news-loading"><div class="spinner"></div>Testing ${name}...</div>`;
+  async function fetchRSS(url, count) {
+    const n = count || 6;
     function parseXML(txt) {
       try {
         const xml = new DOMParser().parseFromString(txt, 'text/xml');
-        return [...xml.querySelectorAll('item, entry')].slice(0, 8)
+        return [...xml.querySelectorAll('item, entry')].slice(0, n)
           .map(i => i.querySelector('title')?.textContent?.replace(/<!\[CDATA\[|\]\]>/g,'').trim())
           .filter(t => t && t.length > 5);
       } catch(e) { return []; }
     }
-    // Try corsproxy.io
+    const [r1, r2] = await Promise.all([
+      timedFetch(`https://corsproxy.io/?${encodeURIComponent(url)}`, 6000)
+        .then(r => r.ok ? r.text().then(parseXML) : []).catch(() => []),
+      timedFetch(`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(url)}&count=${n}`, 6000)
+        .then(r => r.json()).then(d => (d.items||[]).map(i=>i.title).filter(Boolean)).catch(() => [])
+    ]);
+    return (r1.length ? r1 : r2).slice(0, n);
+  }
+
+  async function loadNewsBriefing() {
+    const el = document.getElementById('news-content');
+    const tsEl = document.getElementById('briefing-timestamp');
+    const btn = document.getElementById('briefing-btn');
+    const cacheKey = 'ron_briefing_' + getDayKey();
+
+    // Serve from cache if already generated today
     try {
-      const r = await timedFetch(`https://corsproxy.io/?${encodeURIComponent(rssUrl)}`, 6000);
-      if (r.ok) {
-        const txt = await r.text();
-        const titles = parseXML(txt);
-        if (titles.length) {
-          el.innerHTML = `<div class="news-section-title">✅ ${name} — via corsproxy.io (${titles.length} headlines)</div>`
-            + titles.map(t => `<div class="news-item"><span class="news-dot">·</span>${t}</div>`).join('');
-          return;
-        }
-      }
-    } catch(e) {}
-    // Try rss2json
-    try {
-      const r = await timedFetch(`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(rssUrl)}&count=8`, 6000);
-      const d = await r.json();
-      const titles = (d.items||[]).map(i=>i.title).filter(Boolean);
-      if (titles.length) {
-        el.innerHTML = `<div class="news-section-title">✅ ${name} — via rss2json (${titles.length} headlines)</div>`
-          + titles.map(t => `<div class="news-item"><span class="news-dot">·</span>${t}</div>`).join('');
+      const cached = localStorage.getItem(cacheKey);
+      if (cached) {
+        el.innerHTML = cached;
+        tsEl.textContent = 'Cached · ' + new Date().toLocaleDateString('en-US', { weekday:'long', month:'long', day:'numeric' });
         return;
       }
     } catch(e) {}
-    el.innerHTML = `<div class="news-section-title" style="color:var(--danger)">❌ ${name} — both proxies failed</div>
-      <div class="news-item">corsproxy.io and rss2json both returned nothing for this feed.</div>`;
+
+    if (btn) btn.textContent = 'Loading...';
+    el.innerHTML = '<div class="news-loading"><div class="spinner"></div>Fetching headlines (may take ~20 sec)...</div>';
+
+    // Only confirmed-working feeds (WaPo and LA Times block proxies)
+    const [mktwatch, fox, rcp, hill, ars, verge, bbcWorld, bbcTop, nyt] = await Promise.all([
+      fetchRSS('https://feeds.marketwatch.com/marketwatch/topstories/', 6),
+      fetchRSS('https://feeds.foxnews.com/foxnews/latest', 6),
+      fetchRSS('https://www.realclearpolitics.com/index.xml', 6),
+      fetchRSS('https://thehill.com/rss/syndicator/19110', 5),
+      fetchRSS('https://feeds.arstechnica.com/arstechnica/index', 5),
+      fetchRSS('https://www.theverge.com/rss/index.xml', 5),
+      fetchRSS('https://feeds.bbci.co.uk/news/world/rss.xml', 7),
+      fetchRSS('https://feeds.bbci.co.uk/news/rss.xml', 6),
+      fetchRSS('https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml', 5)
+    ]);
+
+    const mkts = [...new Set(mktwatch)].join('\n');
+    const pol  = [...new Set([...fox, ...rcp, ...hill])].slice(0, 10).join('\n');
+    const intl = [...new Set([...bbcWorld, ...bbcTop])].slice(0, 10).join('\n');
+    const tech = [...new Set([...ars, ...verge])].slice(0, 8).join('\n');
+    const lite = [...new Set(nyt)].join('\n');
+
+    try {
+      el.innerHTML = '<div class="news-loading"><div class="spinner"></div>AI is summarizing the headlines...</div>';
+
+      const prompt = `You are Ron's morning briefing assistant. Ron is a conservative-leaning investor in his 60s-70s in Texas. He is interested in: markets and Fed policy, US politics, international news, and technology.
+
+Write a concise morning briefing from the headlines below. 3-4 bullet points per section, one sentence each. Be factual in all sections. For "Light Reading" (NYT), you may be wryly observational about editorial slant if warranted — Ron finds that amusing.
+
+Return ONLY valid JSON (no markdown, no extra text):
+{"markets":["...","...","..."],"politics":["...","...","..."],"international":["...","...","..."],"tech":["...","...","..."],"lite":["...","...","..."]}
+
+MARKETS & ECONOMY:
+${mkts || '(no headlines)'}
+
+POLITICS:
+${pol || '(no headlines)'}
+
+INTERNATIONAL (BBC):
+${intl || '(no headlines)'}
+
+TECH:
+${tech || '(no headlines)'}
+
+NYT (light reading):
+${lite || '(no headlines)'}`;
+
+      const aiText = await callAI(prompt, 900);
+      const json = JSON.parse(aiText.replace(/```json|```/g,'').trim());
+
+      function section(title, bullets, note) {
+        const hdr = `<div class="news-section-title">${title}${note ? `<span class="comedy-label">${note}</span>` : ''}</div>`;
+        return `<div class="news-section">${hdr}${(bullets||[]).map(b=>`<div class="news-item"><span class="news-dot">·</span>${b}</div>`).join('')}</div>`;
+      }
+
+      const html = section('Markets &amp; Economy', json.markets)
+        + section('Politics', json.politics)
+        + section('🌍 International', json.international)
+        + section('Tech', json.tech)
+        + section('Light Reading', json.lite, 'NYT');
+
+      el.innerHTML = html;
+      tsEl.textContent = 'Generated ' + new Date().toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit'})
+        + ' · ' + new Date().toLocaleDateString('en-US',{weekday:'long',month:'long',day:'numeric'});
+
+      try {
+        Object.keys(localStorage).filter(k=>k.startsWith('ron_briefing_')&&k!==cacheKey).forEach(k=>localStorage.removeItem(k));
+        localStorage.setItem(cacheKey, html);
+      } catch(e) {}
+
+    } catch(e) {
+      el.innerHTML = `<div class="news-loading" style="color:var(--danger)">Briefing failed: ${e.message} — <button class="retry-btn" onclick="loadNewsBriefing()">Retry</button></div>`;
+    }
+    if (btn) btn.textContent = 'Refresh';
   }
 
   // --- Weather ---
@@ -622,27 +686,4 @@
     if(!requireAuth())return;
     const title=document.getElementById('ev-title').value.trim();
     const start=document.getElementById('ev-start').value;
-    const duration=parseInt(document.getElementById('ev-duration').value);
-    const calId=document.getElementById('ev-calendar').value;
-    const resultEl=document.getElementById('add-result');
-    if(!title||!start){resultEl.innerHTML='<p class="error-msg">Please fill in title and date.</p>';return;}
-    const sd=new Date(start); const ed=new Date(sd.getTime()+duration*60000);
-    resultEl.innerHTML='<div class="loading"><div class="spinner"></div>Adding...</div>';
-    try{
-      const r=await fetch(`https://www.googleapis.com/calendar/v3/calendars/${encodeURIComponent(calId)}/events`,{method:'POST',headers:{Authorization:`Bearer ${accessToken}`,'Content-Type':'application/json'},body:JSON.stringify({summary:title,start:{dateTime:sd.toISOString()},end:{dateTime:ed.toISOString()}})});
-      if(r.ok)resultEl.innerHTML=`<p class="success-msg">✓ "${title}" added successfully!</p>`;
-      else{const err=await r.json();resultEl.innerHTML=`<p class="error-msg">Error: ${err.error?.message}</p>`;}
-    }catch(e){resultEl.innerHTML=`<p class="error-msg">Error: ${e.message}</p>`;}
-  }
-
-  function init() {
-    document.getElementById('header-date').textContent = new Date().toLocaleDateString('en-US', { weekday:'long', month:'long', day:'numeric', year:'numeric' });
-    loadMarkets();
-    // News briefing: click a feed button above to test
-  }
-  window.onload = init;
-  window.onGoogleLibraryLoad = initGoogle;
-</script>
-</body>
-</html>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+    const duration=parseInt(document.getElementById('ev-du
