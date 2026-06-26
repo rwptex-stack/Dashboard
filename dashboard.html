@@ -294,6 +294,12 @@
   }
 
   // --- News Briefing ---
+  function timedFetch(url, ms) {
+    const ctrl = new AbortController();
+    const t = setTimeout(() => ctrl.abort(), ms);
+    return fetch(url, { signal: ctrl.signal }).finally(() => clearTimeout(t));
+  }
+
   async function fetchRSS(url, count) {
     const n = count || 6;
     function parseXML(txt) {
@@ -304,11 +310,11 @@
           .filter(t => t && t.length > 5);
       } catch(e) { return []; }
     }
-    // Run both proxies in parallel — take whichever returns usable data first
+    // Both proxies fire in parallel, each with a hard 5-second timeout
     const [r1, r2] = await Promise.all([
-      fetch(`https://corsproxy.io/?${encodeURIComponent(url)}`)
+      timedFetch(`https://corsproxy.io/?${encodeURIComponent(url)}`, 5000)
         .then(r => r.ok ? r.text().then(parseXML) : []).catch(() => []),
-      fetch(`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(url)}&count=${n}`)
+      timedFetch(`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(url)}&count=${n}`, 5000)
         .then(r => r.json()).then(d => (d.items||[]).map(i=>i.title).filter(Boolean)).catch(() => [])
     ]);
     return (r1.length ? r1 : r2).slice(0, n);
@@ -331,20 +337,26 @@
 
     try {
       // Reuters killed public RSS in 2023 — replaced with CNBC, Fox News, The Hill
-      const [cnbcMkts, mktwatch, foxTop, rcp, thehill, ars, verge, bbcWorld, bbcTop, wapo, nyt, lat] = await Promise.all([
-        fetchRSS('https://www.cnbc.com/id/10000664/device/rss/rss.html', 6),   // CNBC markets
-        fetchRSS('https://feeds.marketwatch.com/marketwatch/topstories/', 6),
-        fetchRSS('https://feeds.foxnews.com/foxnews/latest', 6),                // Fox News top stories
-        fetchRSS('https://www.realclearpolitics.com/index.xml', 6),
-        fetchRSS('https://thehill.com/rss/syndicator/19110', 6),                // The Hill politics
-        fetchRSS('https://feeds.arstechnica.com/arstechnica/index', 5),
-        fetchRSS('https://www.theverge.com/rss/index.xml', 5),
-        fetchRSS('https://feeds.bbci.co.uk/news/world/rss.xml', 7),
-        fetchRSS('https://feeds.bbci.co.uk/news/rss.xml', 7),
-        fetchRSS('https://feeds.washingtonpost.com/rss/national', 5),
-        fetchRSS('https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml', 5),
-        fetchRSS('https://www.latimes.com/rss2.0.xml', 5)
-      ]);
+      // Overall 15-second cap: proceed with whatever loaded, never hang forever
+      const empty12 = Array(12).fill([]);
+      const [cnbcMkts, mktwatch, foxTop, rcp, thehill, ars, verge, bbcWorld, bbcTop, wapo, nyt, lat] =
+        await Promise.race([
+          Promise.all([
+            fetchRSS('https://www.cnbc.com/id/10000664/device/rss/rss.html', 6),
+            fetchRSS('https://feeds.marketwatch.com/marketwatch/topstories/', 6),
+            fetchRSS('https://feeds.foxnews.com/foxnews/latest', 6),
+            fetchRSS('https://www.realclearpolitics.com/index.xml', 6),
+            fetchRSS('https://thehill.com/rss/syndicator/19110', 6),
+            fetchRSS('https://feeds.arstechnica.com/arstechnica/index', 5),
+            fetchRSS('https://www.theverge.com/rss/index.xml', 5),
+            fetchRSS('https://feeds.bbci.co.uk/news/world/rss.xml', 7),
+            fetchRSS('https://feeds.bbci.co.uk/news/rss.xml', 7),
+            fetchRSS('https://feeds.washingtonpost.com/rss/national', 5),
+            fetchRSS('https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml', 5),
+            fetchRSS('https://www.latimes.com/rss2.0.xml', 5)
+          ]),
+          new Promise(resolve => setTimeout(() => resolve(empty12), 15000))
+        ]);
 
       const mkts = [...new Set([...cnbcMkts, ...mktwatch])].slice(0, 10).join('\n');
       const pol  = [...new Set([...foxTop, ...rcp, ...thehill])].slice(0, 10).join('\n');
@@ -649,11 +661,4 @@ WAPO/NYT/LAT:\n${cmdy || '(unavailable)'}`;
     const sd=new Date(start); const ed=new Date(sd.getTime()+duration*60000);
     resultEl.innerHTML='<div class="loading"><div class="spinner"></div>Adding...</div>';
     try{
-      const r=await fetch(`https://www.googleapis.com/calendar/v3/calendars/${encodeURIComponent(calId)}/events`,{method:'POST',headers:{Authorization:`Bearer ${accessToken}`,'Content-Type':'application/json'},body:JSON.stringify({summary:title,start:{dateTime:sd.toISOString()},end:{dateTime:ed.toISOString()}})});
-      if(r.ok)resultEl.innerHTML=`<p class="success-msg">✓ "${title}" added successfully!</p>`;
-      else{const err=await r.json();resultEl.innerHTML=`<p class="error-msg">Error: ${err.error?.message}</p>`;}
-    }catch(e){resultEl.innerHTML=`<p class="error-msg">Error: ${e.message}</p>`;}
-  }
-
-  function init() {
-    
+      const r=await fetch(`https://www.googleapis.com/calendar/v3/calendars/${encodeURIComponent(calId)}/events`,{method:'POST',headers:{Authorization:`Bearer ${accessToken}`,'Content-Type':'application/json'},body:
