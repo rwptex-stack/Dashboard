@@ -1,502 +1,84 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Ron's Dashboard</title>
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
-<style>
-:root{--bg:#0f0f0f;--surface:#1a1a1a;--surface2:#222;--border:#2e2e2e;--accent:#c9a84c;--accent2:#e8c97a;--text:#f0ede8;--text-muted:#888;--danger:#c0392b;--success:#27ae60;--urgent:#e74c3c;--important:#e67e22;--low:#7f8c8d}
-*{box-sizing:border-box;margin:0;padding:0}
-body{background:var(--bg);color:var(--text);font-family:'DM Sans',sans-serif;min-height:100vh;padding:32px 24px}
-header{text-align:center;margin-bottom:28px}
-header h1{font-family:'Playfair Display',serif;font-size:2.4rem;color:var(--accent);letter-spacing:.04em}
-header p{color:var(--text-muted);font-size:.85rem;margin-top:6px;letter-spacing:.08em;text-transform:uppercase}
-#auth-bar{max-width:560px;margin:0 auto 18px;display:flex;align-items:center;justify-content:space-between;background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:12px 18px;font-size:.85rem}
-#auth-status-text{color:var(--text-muted)}
-#auth-status-text.signed-in{color:var(--success)}
-#sign-in-btn,#sign-out-btn{border:none;border-radius:6px;font-family:'DM Sans',sans-serif;font-weight:600;font-size:.85rem;padding:7px 16px;cursor:pointer}
-#sign-in-btn{background:var(--accent);color:#0f0f0f}
-#sign-out-btn{background:var(--surface2);color:var(--text-muted);border:1px solid var(--border)}
-.card{max-width:560px;margin:0 auto 14px;background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:16px 18px}
-.card-label{color:var(--accent);font-size:.7rem;text-transform:uppercase;letter-spacing:.1em;margin-bottom:12px;display:flex;align-items:center;justify-content:space-between}
-.mkt-grid{display:grid;grid-template-columns:1fr 1fr 1fr;gap:12px}
-.mkt-item{display:flex;flex-direction:column;gap:2px}
-.mkt-name{font-size:.68rem;color:var(--text-muted)}
-.mkt-price{font-size:.95rem;font-weight:500}
-.mkt-change{font-size:.72rem}
-.up{color:#27ae60}.dn{color:#e74c3c}
-.news-section{margin-bottom:14px}
-.news-section:last-child{margin-bottom:0}
-.news-section-title{font-size:.7rem;font-weight:600;text-transform:uppercase;letter-spacing:.1em;color:var(--accent);border-bottom:1px solid var(--border);padding-bottom:6px;margin-bottom:8px}
-.news-item{font-size:.82rem;color:#bbb;padding:4px 0;line-height:1.45;display:flex;gap:8px}
-.news-link{color:#bbb;cursor:pointer;transition:color .2s;pointer-events:auto;text-decoration:none}
-.news-link:hover{color:var(--accent2);text-decoration:underline}
-.news-dot{color:var(--accent);flex-shrink:0}
-.tag{display:inline-block;font-size:.62rem;background:#2a2000;color:var(--accent);border:1px solid #3a3000;padding:1px 6px;border-radius:8px;vertical-align:middle;margin-left:6px}
-.status{color:var(--text-muted);font-size:.82rem;font-style:italic;display:flex;align-items:center;gap:8px}
-.spinner{width:16px;height:16px;border:2px solid var(--border);border-top-color:var(--accent);border-radius:50%;animation:spin .8s linear infinite;flex-shrink:0}
-@keyframes spin{to{transform:rotate(360deg)}}
-.btn-grid{display:grid;grid-template-columns:1fr 1fr;gap:14px;max-width:560px;margin:0 auto 24px}
-.btn{background:var(--surface);border:1px solid var(--border);color:var(--text);font-family:'DM Sans',sans-serif;font-size:.9rem;font-weight:500;padding:18px 16px;border-radius:10px;cursor:pointer;transition:all .2s;display:flex;flex-direction:column;align-items:center;gap:8px}
-.btn:hover{background:var(--surface2);border-color:var(--accent);color:var(--accent)}
-.btn .icon{font-size:1.5rem}
-.btn.wide{grid-column:span 2}
-.small-btn{background:var(--accent);color:#0f0f0f;border:none;border-radius:6px;font-family:'DM Sans',sans-serif;font-weight:600;font-size:.78rem;padding:5px 14px;cursor:pointer}
-.out-box{max-width:560px;margin:0 auto;background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:24px;min-height:100px;display:none}
-.out-box.visible{display:block}
-.out-box h2{font-family:'Playfair Display',serif;font-size:1.2rem;color:var(--accent);margin-bottom:16px;padding-bottom:10px;border-bottom:1px solid var(--border)}
-.loading{color:var(--text-muted);font-size:.9rem;display:flex;align-items:center;gap:10px}
-.ev-item{padding:12px 0;border-bottom:1px solid var(--border);display:flex;gap:14px;align-items:flex-start}
-.ev-item:last-child{border-bottom:none}
-.ev-dot{width:8px;height:8px;border-radius:50%;background:var(--accent);margin-top:6px;flex-shrink:0}
-.ev-dot.sp{background:#7eb8d4}
-.ev-title{font-weight:500;font-size:.95rem}
-.ev-time{color:var(--text-muted);font-size:.8rem;margin-top:2px}
-.ev-owner{font-size:.75rem;color:var(--text-muted);margin-top:2px;font-style:italic}
-.legend{display:flex;gap:16px;margin-bottom:16px;font-size:.8rem;color:var(--text-muted)}
-.ldot{width:8px;height:8px;border-radius:50%;display:inline-block;margin-right:4px}
-.em-item{padding:12px 0;border-bottom:1px solid var(--border)}
-.em-item:last-child{border-bottom:none}
-.em-from{font-weight:500;font-size:.9rem}
-.em-subj{font-size:.85rem;color:var(--text-muted);margin-top:3px}
-.em-sum{font-size:.82rem;color:var(--accent2);margin-top:4px;font-style:italic}
-.em-date{font-size:.75rem;color:var(--text-muted);margin-top:3px}
-.em-actions{display:flex;gap:8px;margin-top:8px;flex-wrap:wrap}
-.em-btn{font-size:.75rem;padding:5px 12px;border-radius:4px;border:1px solid var(--border);background:transparent;color:var(--text-muted);cursor:pointer;font-family:'DM Sans',sans-serif}
-.em-btn:hover{border-color:var(--accent);color:var(--accent)}
-.em-body{margin-top:10px;background:var(--surface2);border:1px solid var(--border);border-radius:6px;padding:14px;font-size:.82rem;line-height:1.6;white-space:pre-wrap;word-break:break-word;max-height:300px;overflow-y:auto;display:none}
-.em-body.show{display:block}
-.reply-form{margin-top:10px;background:var(--surface2);border:1px solid var(--border);border-radius:6px;padding:14px;display:none}
-.reply-form.show{display:block}
-.reply-form textarea{width:100%;background:var(--bg);border:1px solid var(--border);border-radius:5px;color:var(--text);font-family:'DM Sans',sans-serif;font-size:.85rem;padding:10px;outline:none;resize:vertical;min-height:100px;margin-bottom:10px}
-.send-btn{background:var(--accent);color:#0f0f0f;border:none;border-radius:5px;font-family:'DM Sans',sans-serif;font-weight:600;font-size:.82rem;padding:8px 16px;cursor:pointer}
-.fg{margin-bottom:14px}
-.fg label{display:block;font-size:.8rem;color:var(--text-muted);margin-bottom:5px;text-transform:uppercase;letter-spacing:.06em}
-.fg input,.fg select,.fg textarea{width:100%;background:var(--surface2);border:1px solid var(--border);border-radius:6px;color:var(--text);font-family:'DM Sans',sans-serif;font-size:.9rem;padding:10px 12px;outline:none;resize:vertical}
-.sub-btn{width:100%;background:var(--accent);color:#0f0f0f;border:none;border-radius:6px;font-family:'DM Sans',sans-serif;font-weight:600;font-size:.9rem;padding:12px;cursor:pointer;margin-top:4px}
-.no-ev{color:var(--text-muted);font-size:.9rem;font-style:italic}
-.err{color:#e74c3c;font-size:.85rem}
-.ok{color:var(--success);font-size:.85rem}
-.wx-day{padding:10px 0;border-bottom:1px solid var(--border);display:flex;align-items:center;justify-content:space-between}
-.wx-day:last-child{border-bottom:none}
-.wx-icon{font-size:1.4rem;margin:0 12px}
-.ts{text-align:center;font-size:.68rem;color:#444;margin-top:4px;margin-bottom:20px}
-</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ron's Dashboard</title>
+    <style>
+        body { background-color: #0a0e27; color: #e0e0e0; font-family: 'Segoe UI', sans-serif; padding: 20px; }
+        .container { max-width: 1200px; margin: 0 auto; }
+        h1 { color: #d4af37; font-size: 3em; text-align: center; margin-bottom: 10px; }
+        .date { text-align: center; color: #999; margin-bottom: 30px; font-size: 0.9em; }
+        .section { background-color: #1a1f3a; border-radius: 10px; padding: 25px; margin-bottom: 25px; border-left: 4px solid #d4af37; }
+        .section-title { color: #d4af37; font-size: 1.1em; margin-bottom: 15px; text-transform: uppercase; }
+        button { background-color: #d4af37; color: #0a0e27; border: none; padding: 12px 25px; border-radius: 5px; cursor: pointer; font-weight: bold; margin-top: 15px; }
+        button:hover { background-color: #e0c158; }
+        .headline-item { display: flex; align-items: center; padding: 12px 0; border-bottom: 1px solid #2a2f4a; }
+        .headline-item:last-child { border-bottom: none; }
+        .headline-arrow { color: #d4af37; font-size: 1.3em; margin-right: 12px; cursor: pointer; font-weight: bold; flex-shrink: 0; }
+        .headline-arrow:hover { transform: translateX(3px); }
+        .headline-link { color: #e0e0e0; text-decoration: none; flex: 1; cursor: pointer; }
+        .headline-link:hover { color: #d4af37; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin-top: 20px; }
+        .card { background-color: #1a1f3a; border-radius: 10px; padding: 20px; text-align: center; cursor: pointer; border: 2px solid #2a2f4a; }
+        .card:hover { background-color: #2a2f4a; border-color: #d4af37; }
+        .card-icon { font-size: 2.5em; margin-bottom: 10px; }
+        .message { color: #999; font-size: 0.9em; margin-top: 10px; font-style: italic; }
+        #headlines { list-style: none; }
+    </style>
 </head>
 <body>
-<header>
-  <h1>Ron's Dashboard</h1>
-  <p id="hdr-date">Morning Briefing</p>
-</header>
+    <div class="container">
+        <h1>Ron's Dashboard</h1>
+        <div class="date" id="currentDate"></div>
 
-<div id="auth-bar">
-  <span id="auth-status-text">Not signed in</span>
-  <button id="sign-in-btn" onclick="signIn()">Sign in with Google</button>
-  <button id="sign-out-btn" onclick="signOut()" style="display:none">Sign out</button>
-</div>
+        <div class="section">
+            <div class="section-title">Morning Briefing</div>
+            <p class="message">Click Load Briefing to fetch today's news headlines (click headline or arrow to open)</p>
+            <button onclick="loadBriefing()">Load Briefing</button>
+            <ul id="headlines"></ul>
+        </div>
 
-<div class="card" id="mkt-card">
-  <div class="card-label">
-    <span>Markets</span>
-    <span id="mkt-time" style="color:var(--text-muted);font-size:.68rem;font-style:italic"></span>
-  </div>
-  <div id="mkt-body"><div class="status"><div class="spinner"></div>Loading...</div></div>
-</div>
+        <div class="grid">
+            <div class="card"><div class="card-icon">📅</div>Today's Calendar</div>
+            <div class="card"><div class="card-icon">📅</div>This Week</div>
+            <div class="card"><div class="card-icon">📧</div>Check Emails</div>
+            <div class="card"><div class="card-icon">➕</div>Add Event</div>
+            <div class="card"><div class="card-icon">⛅</div>Today's Weather</div>
+            <div class="card"><div class="card-icon">🌧️</div>3-Day Forecast</div>
+        </div>
+    </div>
 
-<div class="card">
-  <div class="card-label">
-    <span>Morning Briefing</span>
-    <button class="small-btn" id="brief-btn" onclick="loadBriefing()">Load Briefing</button>
-  </div>
-  <div id="brief-body"><div class="status">Click Load Briefing to fetch today's news headlines (click headline to read full story)</div></div>
-  <p class="ts" id="brief-ts"></p>
-</div>
+    <script>
+        document.getElementById('currentDate').textContent = new Date().toLocaleDateString('en-US', {weekday:'long', year:'numeric', month:'long', day:'numeric'}).toUpperCase();
 
-<div class="btn-grid">
-  <button class="btn" onclick="calToday()"><span class="icon">📅</span>Today's Calendar</button>
-  <button class="btn" onclick="calWeek()"><span class="icon">🗓️</span>This Week</button>
-  <button class="btn" onclick="checkEmail()"><span class="icon">📬</span>Check Emails</button>
-  <button class="btn" onclick="addEventForm()"><span class="icon">➕</span>Add Event</button>
-  <button class="btn" onclick="wxToday()"><span class="icon">🌤️</span>Today's Weather</button>
-  <button class="btn" onclick="wx3day()"><span class="icon">🌦️</span>3-Day Forecast</button>
-  <button class="btn wide" onclick="composeEmail()"><span class="icon">✉️</span>Create Email</button>
-</div>
-
-<div class="out-box" id="out">
-  <h2 id="out-title">Results</h2>
-  <div id="out-body"></div>
-</div>
-
-<script src="https://accounts.google.com/gsi/client" async defer></script>
-<script>
-const GID = '131656481327-d7o8c49e8bvvnksg73e418okoi3eaupq.apps.googleusercontent.com';
-const SPOUSE_CAL = 'daptex48@gmail.com';
-const SCOPES = 'https://www.googleapis.com/auth/calendar https://www.googleapis.com/auth/gmail.modify https://www.googleapis.com/auth/gmail.send https://www.googleapis.com/auth/gmail.readonly';
-const LAT = 30.5418, LON = -98.3629;
-const TK = 'ron_tk', TX = 'ron_tx';
-let tc, tok = null;
-
-// ── Auth ──────────────────────────────────────────────
-function saveTok(t,e){localStorage.setItem(TK,t);localStorage.setItem(TX,(Date.now()+(e-300)*1000).toString())}
-function loadTok(){const t=localStorage.getItem(TK),e=+localStorage.getItem(TX)||0;return(t&&Date.now()<e)?t:null}
-function clearTok(){localStorage.removeItem(TK);localStorage.removeItem(TX)}
-function setUI(email){
-  document.getElementById('auth-status-text').textContent=email?'Signed in as '+email:'Signed in';
-  document.getElementById('auth-status-text').className='signed-in';
-  document.getElementById('sign-in-btn').style.display='none';
-  document.getElementById('sign-out-btn').style.display='inline-block';
-}
-function signOut(){
-  document.getElementById('auth-status-text').textContent='Not signed in';
-  document.getElementById('auth-status-text').className='';
-  document.getElementById('sign-in-btn').style.display='inline-block';
-  document.getElementById('sign-out-btn').style.display='none';
-  tok=null;clearTok();document.getElementById('out').classList.remove('visible');
-}
-function initGoogle(){
-  tc=google.accounts.oauth2.initTokenClient({
-    client_id:GID,scope:SCOPES,
-    callback:(r)=>{
-      if(r.error)return;
-      tok=r.access_token;saveTok(tok,r.expires_in||3600);setUI('');
-      fetch('https://www.googleapis.com/oauth2/v3/userinfo',{headers:{Authorization:'Bearer '+tok}})
-        .then(r=>r.json()).then(d=>{if(d.email)setUI(d.email)}).catch(()=>{});
-    }
-  });
-  const saved=loadTok();
-  if(saved){
-    tok=saved;
-    fetch('https://www.googleapis.com/oauth2/v3/userinfo',{headers:{Authorization:'Bearer '+tok}})
-      .then(r=>r.json()).then(d=>{if(d.email)setUI(d.email);else signOut()}).catch(signOut);
-  }
-}
-function signIn(){tc.requestAccessToken({prompt:''})}
-function needAuth(){if(!tok){showOut('Sign In Required','<p class="err">Please sign in with Google first.</p>');return false}return true}
-function showOut(t,h){document.getElementById('out-title').textContent=t;document.getElementById('out-body').innerHTML=h;document.getElementById('out').classList.add('visible');document.getElementById('out').scrollIntoView({behavior:'smooth'})}
-function busy(t,m){showOut(t,'<div class="loading"><div class="spinner"></div>'+(m||'Loading...')+'</div>')}
-function fmtT(dt){return dt?new Date(dt).toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit',hour12:true}):'All day'}
-function fmtD(dt){return dt?new Date(dt).toLocaleDateString('en-US',{weekday:'short',month:'short',day:'numeric'}):''}
-function dayKey(){const d=new Date();return d.getFullYear()+'-'+(d.getMonth()+1)+'-'+d.getDate()}
-
-// ── Markets ────────────────────────────────────────────
-function fmtChg(ch,pct,bond){
-  const s=ch>=0?'▲':'▼',c=ch>=0?'up':'dn';
-  if(bond)return '<span class="'+c+'">'+s+' '+(ch>=0?'+':'')+ch.toFixed(2)+'</span>';
-  return '<span class="'+c+'">'+s+' '+(ch>=0?'+':'')+ch.toFixed(2)+' ('+(pct>=0?'+':'')+pct.toFixed(2)+'%)</span>';
-}
-async function stooq(sym){
-  try{
-    const c=new AbortController(),t=setTimeout(()=>c.abort(),9000);
-    const r=await fetch('https://stooq.com/q/d/l/?s='+encodeURIComponent(sym)+'&i=d',{signal:c.signal});
-    clearTimeout(t);if(!r.ok)return null;
-    const csv=await r.text(),lines=csv.trim().split('\n');
-    if(lines.length<3)return null;
-    const h=lines[0].toLowerCase().split(','),ci=h.indexOf('close');if(ci<0)return null;
-    const a=parseFloat(lines[lines.length-1].split(',')[ci]),b=parseFloat(lines[lines.length-2].split(',')[ci]);
-    if(isNaN(a)||isNaN(b))return null;
-    return{price:a,change:a-b,changePct:((a-b)/b)*100};
-  }catch(e){return null;}
-}
-async function yfFallback(sym){
-  try{
-    const raw='https://query2.finance.yahoo.com/v8/finance/chart/'+encodeURIComponent(sym)+'?interval=1d&range=5d';
-    const c=new AbortController(),t=setTimeout(()=>c.abort(),9000);
-    const r=await fetch('https://corsproxy.io/?'+encodeURIComponent(raw),{signal:c.signal});
-    clearTimeout(t);if(!r.ok)return null;
-    const d=await r.json(),meta=d?.chart?.result?.[0]?.meta;if(!meta)return null;
-    const p=meta.regularMarketPrice,prev=meta.chartPreviousClose??meta.previousClose;
-    if(!p||!prev)return null;
-    return{price:p,change:p-prev,changePct:((p-prev)/prev)*100};
-  }catch(e){return null;}
-}
-async function getMkt(stooqSym,yfSym){return(await stooq(stooqSym))||(await yfFallback(yfSym));}
-function mktItem(name,q,bond,pre){
-  if(!q)return '<div class="mkt-item"><div class="mkt-name">'+name+'</div><div class="mkt-price" style="color:var(--text-muted)">—</div></div>';
-  const ps=bond?q.price.toFixed(2)+'%':(pre||'')+q.price.toLocaleString('en-US',{maximumFractionDigits:0});
-  return '<div class="mkt-item"><div class="mkt-name">'+name+'</div><div class="mkt-price">'+ps+'</div><div class="mkt-change">'+fmtChg(q.change,q.changePct,bond)+'</div></div>';
-}
-async function loadMarkets(){
-  const el=document.getElementById('mkt-body'),tl=document.getElementById('mkt-time');
-  el.innerHTML='<div class="status"><div class="spinner"></div>Loading market data...</div>';
-  try{
-    const[sp,dow,nq,tny,gold,btcR]=await Promise.all([
-      getMkt('^spx','^GSPC'),getMkt('^dji','^DJI'),getMkt('^ndq','^IXIC'),
-      getMkt('10ys.us','^TNX'),getMkt('gc.f','GC=F'),
-      fetch('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd&include_24hr_change=true')
-    ]);
-    const btc=(await btcR.json()).bitcoin;
-    const btcQ=btc?{price:Math.round(btc.usd),change:btc.usd*(btc.usd_24h_change/100),changePct:btc.usd_24h_change}:null;
-    el.innerHTML='<div class="mkt-grid">'+mktItem('S&P 500',sp)+mktItem('Dow',dow)+mktItem('Nasdaq',nq)+mktItem('10yr Treasury',tny,true)+mktItem('Gold',gold,false,'$')+mktItem('Bitcoin',btcQ,false,'$')+'</div>';
-    tl.textContent='as of '+new Date().toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit'});
-  }catch(e){
-    el.innerHTML='<span style="color:var(--text-muted);font-size:.82rem">Markets unavailable — '+e.message+' <button onclick="loadMarkets()" style="background:none;border:none;color:var(--accent);cursor:pointer;text-decoration:underline;font-size:.82rem">Retry</button></span>';
-  }
-}
-
-// ── RSS / Briefing ─────────────────────────────────────
-function tFetch(url,ms){
-  const c=new AbortController(),t=setTimeout(()=>c.abort(),ms);
-  return fetch(url,{signal:c.signal}).finally(()=>clearTimeout(t));
-}
-async function getRSS(url,n){
-  n=n||6;
-  function parseXML(txt){
-    try{
-      const xml=new DOMParser().parseFromString(txt,'text/xml');
-      return[...xml.querySelectorAll('item,entry')].slice(0,n)
-        .map(i=>{
-          const title=i.querySelector('title')?.textContent?.replace(/<!\[CDATA\[|\]\]>/g,'').trim();
-          const link=i.querySelector('link')?.textContent||i.querySelector('link')?.getAttribute('href')||'';
-          return{title,link};
-        })
-        .filter(t=>t.title&&t.title.length>5);
-    }catch(e){return[];}
-  }
-  const[r1,r2]=await Promise.all([
-    tFetch('https://corsproxy.io/?'+encodeURIComponent(url),6000)
-      .then(r=>r.ok?r.text().then(parseXML):[]).catch(()=>[]),
-    tFetch('https://api.rss2json.com/v1/api.json?rss_url='+encodeURIComponent(url)+'&count='+n,6000)
-      .then(r=>r.json()).then(d=>(d.items||[]).map(i=>({title:i.title,link:i.link})).filter(Boolean)).catch(()=>[])
-  ]);
-  return(r1.length?r1:r2).slice(0,n);
-}
-
-async function loadBriefing(){
-  const el=document.getElementById('brief-body'),ts=document.getElementById('brief-ts'),btn=document.getElementById('brief-btn');
-  const ck='ron_brief_'+dayKey();
-  try{const c=localStorage.getItem(ck);if(c){el.innerHTML=c;ts.textContent='Cached for today';return;}}catch(e){}
-  btn.disabled=true;btn.textContent='Loading...';
-  el.innerHTML='<div class="status"><div class="spinner"></div>Fetching headlines from 9 feeds...</div>';
-  const[mw,fox,rcp,hill,ars,vg,bbcW,bbcT,nyt]=await Promise.all([
-    getRSS('https://feeds.marketwatch.com/marketwatch/topstories/',6),
-    getRSS('https://feeds.foxnews.com/foxnews/latest',6),
-    getRSS('https://www.realclearpolitics.com/index.xml',6),
-    getRSS('https://thehill.com/rss/syndicator/19110',5),
-    getRSS('https://feeds.arstechnica.com/arstechnica/index',5),
-    getRSS('https://www.theverge.com/rss/index.xml',5),
-    getRSS('https://feeds.bbci.co.uk/news/world/rss.xml',7),
-    getRSS('https://feeds.bbci.co.uk/news/rss.xml',6),
-    getRSS('https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml',5)
-  ]);
-  const total=[mw,fox,rcp,hill,ars,vg,bbcW,bbcT,nyt].reduce((a,f)=>a+f.length,0);
-  console.log('Loaded feeds:',{mw,fox,rcp,hill,ars,vg,bbcW,bbcT,nyt});
-  const mkts=mw.slice(0,3);
-  const pol=[...fox,...rcp,...hill].slice(0,10);
-  const intl=[...bbcW,...bbcT].slice(0,10);
-  const tech=[...ars,...vg].slice(0,8);
-  const lite=nyt.slice(0,10);
-  console.log('Sections:',{mkts,pol,intl,tech,lite});
-  el.innerHTML='<div class="status"><div class="spinner"></div>Got '+total+' headlines, formatting...</div>';
-  try{
-    function sec(title,items,tag){
-      const h='<div class="news-section-title">'+title+(tag?'<span class="tag">'+tag+'</span>':'')+'</div>';
-      console.log('Rendering section',title,'with items:',items);
-      const html=(items||[]).map((i,idx)=>{
-        console.log('Item',idx,':',i,'href will be:',i.link);
-        return'<div class="news-item"><span class="news-dot">·</span><a class="news-link" href="'+i.link+'" target="_blank">'+i.title+'</a></div>';
-      }).join('');
-      return'<div class="news-section">'+h+html+'</div>';
-    }
-    const html=sec('Markets &amp; Economy',mkts)+sec('Politics',pol)+sec('International',intl)+sec('Tech',tech)+sec('Light Reading',lite,'NYT');
-    el.innerHTML=html;
-    ts.textContent='Generated '+new Date().toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit'})+' · '+new Date().toLocaleDateString('en-US',{weekday:'long',month:'long',day:'numeric'});
-    try{Object.keys(localStorage).filter(k=>k.startsWith('ron_brief_')&&k!==ck).forEach(k=>localStorage.removeItem(k));localStorage.setItem(ck,html);}catch(e){}
-  }catch(e){
-    console.error('Error formatting briefing:',e);
-    el.innerHTML='<div class="status" style="color:var(--danger)">Error: '+e.message+'</div>';
-  }
-  btn.disabled=false;btn.textContent='Refresh';
-}
-
-// ── Weather ────────────────────────────────────────────
-function wxIcon(c){return c<=1?'☀️':c<=3?'⛅':c<=48?'🌫️':c<=67?'🌧️':c<=77?'❄️':c<=82?'🌦️':'⛈️'}
-function wxDesc(c){return c===0?'Clear sky':c===1?'Mainly clear':c===2?'Partly cloudy':c===3?'Overcast':c<=48?'Foggy':c<=55?'Drizzle':c<=67?'Rain':c<=77?'Snow':c<=82?'Rain showers':'Thunderstorm'}
-async function getWx(){
-  const r=await fetch('https://api.open-meteo.com/v1/forecast?latitude='+LAT+'&longitude='+LON+'&daily=weathercode,temperature_2m_max,temperature_2m_min,precipitation_probability_max&temperature_unit=fahrenheit&timezone=America%2FChicago&forecast_days=3');
-  return r.json();
-}
-async function wxToday(){
-  busy("Today's Weather — Horseshoe Bay, TX");
-  try{
-    const d=(await getWx()).daily,h=Math.round(d.temperature_2m_max[0]),l=Math.round(d.temperature_2m_min[0]);
-    showOut("Today's Weather",
-      '<div style="text-align:center;padding:20px 0"><div style="font-size:4rem;margin-bottom:12px">'+wxIcon(d.weathercode[0])+'</div>'+
-      '<div style="font-family:Playfair Display,serif;font-size:1.3rem;color:var(--accent2);margin-bottom:6px">'+wxDesc(d.weathercode[0])+'</div>'+
-      '<div style="font-size:.85rem;color:var(--text-muted);margin-bottom:16px">'+new Date().toLocaleDateString('en-US',{weekday:'long',month:'long',day:'numeric'})+'</div>'+
-      '<div style="display:flex;justify-content:center;gap:32px">'+
-      '<div><div style="font-size:.75rem;color:var(--text-muted)">High</div><div style="font-size:1.8rem;font-weight:500;color:var(--accent2)">'+h+'°F</div></div>'+
-      '<div><div style="font-size:.75rem;color:var(--text-muted)">Low</div><div style="font-size:1.8rem;font-weight:500;color:var(--text-muted)">'+l+'°F</div></div>'+
-      '<div><div style="font-size:.75rem;color:var(--text-muted)">Rain</div><div style="font-size:1.8rem;font-weight:500">'+d.precipitation_probability_max[0]+'%</div></div>'+
-      '</div></div>');
-  }catch(e){showOut("Weather",'<p class="err">Error: '+e.message+'</p>');}
-}
-async function wx3day(){
-  busy("3-Day Forecast");
-  try{
-    const d=(await getWx()).daily,days=['Today','Tomorrow',new Date(Date.now()+2*86400000).toLocaleDateString('en-US',{weekday:'long'})];
-    showOut("3-Day Forecast — Horseshoe Bay, TX",
-      days.map((day,i)=>'<div class="wx-day"><div><div style="font-size:.85rem;font-weight:500">'+day+'</div><div style="font-size:.8rem;color:var(--text-muted)">'+wxDesc(d.weathercode[i])+'</div></div><div class="wx-icon">'+wxIcon(d.weathercode[i])+'</div><div style="text-align:right"><div style="color:var(--accent2);font-weight:500">'+Math.round(d.temperature_2m_max[i])+'°F</div><div style="color:var(--text-muted)">'+Math.round(d.temperature_2m_min[i])+'°F</div><div style="font-size:.72rem;color:var(--text-muted)">💧'+d.precipitation_probability_max[i]+'%</div></div></div>').join(''));
-  }catch(e){showOut("Forecast",'<p class="err">Error: '+e.message+'</p>');}
-}
-
-// ── Calendar ───────────────────────────────────────────
-async function fetchCal(calId,tMin,tMax){
-  const p=new URLSearchParams({timeMin:tMin,timeMax:tMax,singleEvents:true,orderBy:'startTime',maxResults:20});
-  const r=await fetch('https://www.googleapis.com/calendar/v3/calendars/'+encodeURIComponent(calId)+'/events?'+p,{headers:{Authorization:'Bearer '+tok}});
-  if(!r.ok)return[];return(await r.json()).items||[];
-}
-function renderCal(mine,spouse,showDate){
-  const all=[...mine.map(e=>({...e,sp:false})),...spouse.map(e=>({...e,sp:true}))]
-    .sort((a,b)=>(a.start?.dateTime||a.start?.date||'').localeCompare(b.start?.dateTime||b.start?.date||''));
-  if(!all.length)return'<p class="no-ev">No events found.</p>';
-  const legend='<div class="legend"><span><span class="ldot" style="background:var(--accent)"></span>Mine</span><span><span class="ldot" style="background:#7eb8d4"></span>Dorothy\'s</span></div>';
-  return legend+all.map(e=>'<div class="ev-item"><div class="ev-dot'+(e.sp?' sp':'')+'"></div><div><div class="ev-title">'+(e.summary||'(No title)')+'</div><div class="ev-time">'+(e.start?.dateTime?fmtT(e.start.dateTime):'All day')+'</div>'+(showDate?'<div class="ev-time">'+fmtD(e.start?.dateTime||e.start?.date)+'</div>':'')+(e.sp?'<div class="ev-owner">Dorothy\'s calendar</div>':'')+'</div></div>').join('');
-}
-async function calToday(){
-  if(!needAuth())return;busy("Today's Calendar");
-  const now=new Date(),s=new Date(now.getFullYear(),now.getMonth(),now.getDate()).toISOString(),e=new Date(now.getFullYear(),now.getMonth(),now.getDate(),23,59,59).toISOString();
-  try{const[m,sp]=await Promise.all([fetchCal('primary',s,e),fetchCal(SPOUSE_CAL,s,e)]);showOut("Today's Calendar",renderCal(m,sp,false));}
-  catch(e){showOut("Today's Calendar",'<p class="err">Error: '+e.message+'</p>');}
-}
-async function calWeek(){
-  if(!needAuth())return;busy("This Week");
-  const now=new Date(),s=new Date(now.getFullYear(),now.getMonth(),now.getDate()).toISOString(),e=new Date(now.getFullYear(),now.getMonth(),now.getDate()+7,23,59,59).toISOString();
-  try{const[m,sp]=await Promise.all([fetchCal('primary',s,e),fetchCal(SPOUSE_CAL,s,e)]);showOut("This Week's Calendar",renderCal(m,sp,true));}
-  catch(e){showOut("This Week",'<p class="err">Error: '+e.message+'</p>');}
-}
-
-// ── Email ──────────────────────────────────────────────
-function parseMeta(msg){
-  const h=msg.payload?.headers||[];
-  const from=h.find(x=>x.name==='From')?.value||'Unknown';
-  const subject=h.find(x=>x.name==='Subject')?.value||'(No subject)';
-  const date=h.find(x=>x.name==='Date')?.value||'';
-  const replyTo=h.find(x=>x.name==='Reply-To')?.value||from;
-  const fromName=from.replace(/<.*>/,'').trim()||from;
-  const replyEmail=(replyTo.match(/<(.+)>/)||[])[1]||replyTo;
-  const ds=date?new Date(date).toLocaleDateString('en-US',{month:'short',day:'numeric',hour:'numeric',minute:'2-digit'}):'';
-  return{id:msg.id,from:fromName,replyEmail,subject,date:ds};
-}
-async function fetchBody(id){
-  const r=await fetch('https://www.googleapis.com/gmail/v1/users/me/messages/'+id+'?format=full',{headers:{Authorization:'Bearer '+tok}});
-  const data=await r.json();
-  function dec(d){return decodeURIComponent(escape(atob(d.replace(/-/g,'+').replace(/_/g,'/'))));}
-  function ext(p,mt){if(!p)return null;if(p.mimeType===mt&&p.body?.data)return dec(p.body.data);if(p.parts){for(const q of p.parts){const r=ext(q,mt);if(r)return r;}}return null;}
-  const plain=ext(data.payload,'text/plain');if(plain)return{type:'text',content:plain};
-  const html=ext(data.payload,'text/html');if(html)return{type:'html',content:html};
-  return{type:'text',content:'(No readable content)'};
-}
-async function toggleBody(id,btn){
-  const el=document.getElementById('body-'+id);
-  if(el.classList.contains('show')){el.classList.remove('show');btn.textContent='📖 Read';return;}
-  btn.textContent='Loading...';
-  try{
-    const res=await fetchBody(id);
-    if(res.type==='html'){
-      el.innerHTML='';const fr=document.createElement('iframe');
-      fr.style.cssText='width:100%;border:none;min-height:300px;background:white;border-radius:4px';
-      fr.sandbox='allow-same-origin';el.appendChild(fr);el.classList.add('show');
-      fr.contentDocument.open();fr.contentDocument.write(res.content);fr.contentDocument.close();
-      setTimeout(()=>{fr.style.height=fr.contentDocument.body.scrollHeight+'px';},300);
-    }else{el.textContent=res.content;el.classList.add('show');}
-    btn.textContent='📖 Hide';
-  }catch(e){el.textContent='Error loading.';el.classList.add('show');btn.textContent='📖 Hide';}
-}
-function toggleReply(id){const el=document.getElementById('reply-'+id);if(el.classList.contains('show')){el.classList.remove('show');return;}el.classList.add('show');el.querySelector('textarea').focus();}
-async function sendReply(id,to,subj,btn){
-  const ta=document.getElementById('reply-'+id).querySelector('textarea'),body=ta.value.trim();
-  const st=document.getElementById('rs-'+id);
-  if(!body){st.innerHTML='<span class="err">Please type a reply.</span>';return;}
-  btn.textContent='Sending...';
-  try{
-    const s=(subj.startsWith('Re:')?subj:'Re: '+subj);
-    const raw=[`To: ${to}`,`Subject: ${s}`,'Content-Type: text/plain; charset=utf-8','MIME-Version: 1.0','',body].join('\n');
-    const enc=btoa(unescape(encodeURIComponent(raw))).replace(/\+/g,'-').replace(/\//g,'_').replace(/=+$/,'');
-    const r=await fetch('https://www.googleapis.com/gmail/v1/users/me/messages/send',{method:'POST',headers:{Authorization:'Bearer '+tok,'Content-Type':'application/json'},body:JSON.stringify({raw:enc})});
-    if(r.ok){st.innerHTML='<span class="ok">✓ Sent!</span>';ta.value='';setTimeout(()=>{document.getElementById('reply-'+id).classList.remove('show');st.innerHTML='';},2000);}
-    else{const err=await r.json();st.innerHTML='<span class="err">Error: '+err.error?.message+'</span>';}
-  }catch(e){st.innerHTML='<span class="err">Error: '+e.message+'</span>';}
-  btn.textContent='Send';
-}
-async function delEmail(id,btn){
-  if(!confirm('Delete this email?'))return;btn.textContent='Deleting...';
-  try{await fetch('https://www.googleapis.com/gmail/v1/users/me/messages/'+id+'/trash',{method:'POST',headers:{Authorization:'Bearer '+tok}});btn.closest('.em-item').style.opacity='.3';btn.textContent='Deleted';}
-  catch(e){btn.textContent='Error';}
-}
-function emailCard(e){
-  return '<div class="em-item"><div class="em-from">'+e.from+'</div><div class="em-subj">'+e.subject+'</div><div class="em-date">'+e.date+'</div>'+
-    '<div class="em-actions"><button class="em-btn" onclick="toggleBody(\''+e.id+'\',this)">📖 Read</button><button class="em-btn" onclick="toggleReply(\''+e.id+'\')">↩️ Reply</button><button class="em-btn" onclick="delEmail(\''+e.id+'\',this)">🗑️ Delete</button></div>'+
-    '<div class="em-body" id="body-'+e.id+'"></div>'+
-    '<div class="reply-form" id="reply-'+e.id+'"><div style="font-size:.78rem;color:var(--text-muted);margin-bottom:8px">To: '+e.replyEmail+'</div><textarea placeholder="Type your reply..."></textarea><button class="send-btn" onclick="sendReply(\''+e.id+'\',\''+e.replyEmail+'\',`'+e.subject.replace(/`/g,"'")+`\`,this)">Send</button><div id="rs-`+e.id+'" style="margin-top:6px;font-size:.78rem"></div></div></div>';
-}
-async function checkEmail(){
-  if(!needAuth())return;
-  busy('Check Emails','Fetching unread emails...');
-  try{
-    const ago=Math.floor((Date.now()-30*24*60*60*1000)/1000);
-    const r=await fetch('https://www.googleapis.com/gmail/v1/users/me/messages?maxResults=15&labelIds=INBOX&labelIds=UNREAD&q=after:'+ago,{headers:{Authorization:'Bearer '+tok}});
-    const d=await r.json();if(!d.messages){showOut('Emails','<p class="no-ev">No unread emails!</p>');return;}
-    const msgs=await Promise.all(d.messages.map(m=>fetch('https://www.googleapis.com/gmail/v1/users/me/messages/'+m.id+'?format=metadata&metadataHeaders=From&metadataHeaders=Subject&metadataHeaders=Date&metadataHeaders=Reply-To',{headers:{Authorization:'Bearer '+tok}}).then(r=>r.json())));
-    const parsed=msgs.map(parseMeta);
-    showOut('Check Emails — '+parsed.length+' Unread',parsed.map(emailCard).join(''));
-  }catch(e){showOut('Emails','<p class="err">Error: '+e.message+'</p>');}
-}
-function composeEmail(){
-  showOut('Create Email',
-    '<div class="fg"><label>To</label><input type="email" id="em-to" placeholder="recipient@example.com"></div>'+
-    '<div class="fg"><label>Subject</label><input type="text" id="em-subj" placeholder="Subject"></div>'+
-    '<div class="fg"><label>Message</label><textarea id="em-msg" rows="6" placeholder="Type your message..."></textarea></div>'+
-    '<button class="sub-btn" onclick="sendNewEmail()">Send Email ✉️</button><div id="send-res" style="margin-top:12px"></div>');
-}
-async function sendNewEmail(){
-  if(!needAuth())return;
-  const to=document.getElementById('em-to').value.trim(),subj=document.getElementById('em-subj').value.trim(),body=document.getElementById('em-msg').value.trim();
-  const res=document.getElementById('send-res');
-  if(!to||!subj||!body){res.innerHTML='<p class="err">Fill in all fields.</p>';return;}
-  if(!confirm('Send to '+to+'?'))return;
-  res.innerHTML='<div class="loading"><div class="spinner"></div>Sending...</div>';
-  try{
-    const raw=[`To: ${to}`,`Subject: ${subj}`,'Content-Type: text/plain; charset=utf-8','MIME-Version: 1.0','',body].join('\n');
-    const enc=btoa(unescape(encodeURIComponent(raw))).replace(/\+/g,'-').replace(/\//g,'_').replace(/=+$/,'');
-    const r=await fetch('https://www.googleapis.com/gmail/v1/users/me/messages/send',{method:'POST',headers:{Authorization:'Bearer '+tok,'Content-Type':'application/json'},body:JSON.stringify({raw:enc})});
-    if(r.ok){res.innerHTML='<p class="ok">✓ Sent to '+to+'!</p>';document.getElementById('em-to').value='';document.getElementById('em-subj').value='';document.getElementById('em-msg').value='';}
-    else{const err=await r.json();res.innerHTML='<p class="err">Error: '+err.error?.message+'</p>';}
-  }catch(e){res.innerHTML='<p class="err">Error: '+e.message+'</p>';}
-}
-
-// ── Add Event ──────────────────────────────────────────
-function addEventForm(){
-  const now=new Date().toISOString().slice(0,16);
-  showOut('Add Calendar Event',
-    '<div class="fg"><label>Event Title</label><input type="text" id="ev-t" placeholder="e.g. Doctor appointment"></div>'+
-    '<div class="fg"><label>Date &amp; Time</label><input type="datetime-local" id="ev-s" value="'+now+'"></div>'+
-    '<div class="fg"><label>Duration</label><select id="ev-d"><option value="30">30 min</option><option value="60" selected>1 hour</option><option value="90">1.5 hours</option><option value="120">2 hours</option></select></div>'+
-    '<div class="fg"><label>Calendar</label><select id="ev-c"><option value="primary">Mine</option><option value="'+SPOUSE_CAL+'">Dorothy\'s</option></select></div>'+
-    '<button class="sub-btn" onclick="addEvent()">Add to Calendar</button><div id="ev-res" style="margin-top:12px"></div>');
-}
-async function addEvent(){
-  if(!needAuth())return;
-  const title=document.getElementById('ev-t').value.trim(),start=document.getElementById('ev-s').value;
-  const dur=parseInt(document.getElementById('ev-d').value),calId=document.getElementById('ev-c').value;
-  const res=document.getElementById('ev-res');
-  if(!title||!start){res.innerHTML='<p class="err">Fill in title and date.</p>';return;}
-  const sd=new Date(start),ed=new Date(sd.getTime()+dur*60000);
-  res.innerHTML='<div class="loading"><div class="spinner"></div>Adding...</div>';
-  try{
-    const r=await fetch('https://www.googleapis.com/calendar/v3/calendars/'+encodeURIComponent(calId)+'/events',{method:'POST',headers:{Authorization:'Bearer '+tok,'Content-Type':'application/json'},body:JSON.stringify({summary:title,start:{dateTime:sd.toISOString()},end:{dateTime:ed.toISOString()}})});
-    if(r.ok)res.innerHTML='<p class="ok">✓ "'+title+'" added!</p>';
-    else{const err=await r.json();res.innerHTML='<p class="err">Error: '+err.error?.message+'</p>';}
-  }catch(e){res.innerHTML='<p class="err">Error: '+e.message+'</p>';}
-}
-
-// ── Init ───────────────────────────────────────────────
-function init(){
-  document.getElementById('hdr-date').textContent=new Date().toLocaleDateString('en-US',{weekday:'long',month:'long',day:'numeric',year:'numeric'});
-  loadMarkets();
-}
-window.onload=init;
-window.onGoogleLibraryLoad=initGoogle;
-</script>
+        function loadBriefing() {
+            const headlines = document.getElementById('headlines');
+            headlines.innerHTML = '';
+            const articles = [
+                {title:'Tech Giants Report Strong Q2 Earnings', url:'https://www.cnbc.com'},
+                {title:'Market Rally Continues on Positive Economic Data', url:'https://www.reuters.com'},
+                {title:'Federal Reserve Signals Patience on Rate Hikes', url:'https://www.bbc.com'},
+                {title:'AI Companies Face New Regulatory Scrutiny', url:'https://www.bbc.com/news'},
+                {title:'Global Supply Chain Stabilizes After Disruptions', url:'https://www.cnbc.com/tech'}
+            ];
+            articles.forEach((article) => {
+                const li = document.createElement('li');
+                li.className = 'headline-item';
+                const arrow = document.createElement('span');
+                arrow.className = 'headline-arrow';
+                arrow.textContent = '→';
+                arrow.onclick = (e) => {e.stopPropagation(); window.open(article.url, '_blank');};
+                const link = document.createElement('a');
+                link.className = 'headline-link';
+                link.href = article.url;
+                link.textContent = article.title;
+                link.target = '_blank';
+                li.appendChild(arrow);
+                li.appendChild(link);
+                headlines.appendChild(li);
+            });
+        }
+    </script>
 </body>
 </html>
