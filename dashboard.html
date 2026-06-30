@@ -107,7 +107,7 @@ header p{color:var(--text-muted);font-size:.85rem;margin-top:6px;letter-spacing:
     <span>Morning Briefing</span>
     <button class="small-btn" id="brief-btn" onclick="loadBriefing()">Load Briefing</button>
   </div>
-  <div id="brief-body"><div class="status">Click Load Briefing to fetch today's news</div></div>
+  <div id="brief-body"><div class="status">Click Load Briefing to fetch today's news headlines</div></div>
   <p class="ts" id="brief-ts"></p>
 </div>
 
@@ -128,11 +128,9 @@ header p{color:var(--text-muted);font-size:.85rem;margin-top:6px;letter-spacing:
 
 <script src="https://accounts.google.com/gsi/client" async defer></script>
 <script>
-const _k = atob('c2stYW50LWFwaTAzLVlocC1NS2w1UVp1ZXN2VDhteUhYdTktNk9pZGpNUTBEcjUyT3VYV2Nsek1saFdBNDFwdlBmMVRXSnNxWWppbnFncUJzQTZ0TmVfdUY5ZTlDUWpld1lnLWdkY08yd0FB');
 const GID = '131656481327-d7o8c49e8bvvnksg73e418okoi3eaupq.apps.googleusercontent.com';
 const SPOUSE_CAL = 'daptex48@gmail.com';
 const SCOPES = 'https://www.googleapis.com/auth/calendar https://www.googleapis.com/auth/gmail.modify https://www.googleapis.com/auth/gmail.send https://www.googleapis.com/auth/gmail.readonly';
-const MODEL = 'claude-haiku-4-5-20251001';
 const LAT = 30.5418, LON = -98.3629;
 const TK = 'ron_tk', TX = 'ron_tx';
 let tc, tok = null;
@@ -178,18 +176,6 @@ function busy(t,m){showOut(t,'<div class="loading"><div class="spinner"></div>'+
 function fmtT(dt){return dt?new Date(dt).toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit',hour12:true}):'All day'}
 function fmtD(dt){return dt?new Date(dt).toLocaleDateString('en-US',{weekday:'short',month:'short',day:'numeric'}):''}
 function dayKey(){const d=new Date();return d.getFullYear()+'-'+(d.getMonth()+1)+'-'+d.getDate()}
-
-// ── Claude API ─────────────────────────────────────────
-async function ai(prompt,maxTok){
-  const r=await fetch('https://api.anthropic.com/v1/messages',{
-    method:'POST',
-    headers:{'Content-Type':'application/json','x-api-key':_k,'anthropic-version':'2023-06-01','anthropic-dangerous-direct-browser-access':'true'},
-    body:JSON.stringify({model:MODEL,max_tokens:maxTok||600,messages:[{role:'user',content:prompt}]})
-  });
-  const d=await r.json();
-  if(!r.ok||d.error)throw new Error((d.error&&d.error.message)||'HTTP '+r.status);
-  return d.content?.[0]?.text||'';
-}
 
 // ── Markets ────────────────────────────────────────────
 function fmtChg(ch,pct,bond){
@@ -269,46 +255,58 @@ async function getRSS(url,n){
   ]);
   return(r1.length?r1:r2).slice(0,n);
 }
+
+// ── OPTIMIZED BRIEFING: Headlines only, no AI ──────────
 async function loadBriefing(){
   const el=document.getElementById('brief-body'),ts=document.getElementById('brief-ts'),btn=document.getElementById('brief-btn');
   const ck='ron_brief_'+dayKey();
-  try{const c=localStorage.getItem(ck);if(c){el.innerHTML=c;ts.textContent='Cached for today';return;}}catch(e){}
+
+  // Check cache first (24-hour cache)
+  try{const c=localStorage.getItem(ck);if(c){el.innerHTML=c;ts.textContent='Cached from '+new Date().toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit'});return;}}catch(e){}
+
   btn.disabled=true;btn.textContent='Loading...';
-  el.innerHTML='<div class="status"><div class="spinner"></div>Step 1 — Fetching headlines from 9 feeds...</div>';
-  const[mw,fox,rcp,hill,ars,vg,bbcW,bbcT,nyt]=await Promise.all([
-    getRSS('https://feeds.marketwatch.com/marketwatch/topstories/',6),
-    getRSS('https://feeds.foxnews.com/foxnews/latest',6),
-    getRSS('https://www.realclearpolitics.com/index.xml',6),
-    getRSS('https://thehill.com/rss/syndicator/19110',5),
-    getRSS('https://feeds.arstechnica.com/arstechnica/index',5),
-    getRSS('https://www.theverge.com/rss/index.xml',5),
-    getRSS('https://feeds.bbci.co.uk/news/world/rss.xml',7),
-    getRSS('https://feeds.bbci.co.uk/news/rss.xml',6),
-    getRSS('https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml',5)
-  ]);
-  const total=[mw,fox,rcp,hill,ars,vg,bbcW,bbcT,nyt].reduce((a,f)=>a+f.length,0);
-  const mkts=[...new Set(mw)].join('\n')||'(none)';
-  const pol=[...new Set([...fox,...rcp,...hill])].slice(0,10).join('\n')||'(none)';
-  const intl=[...new Set([...bbcW,...bbcT])].slice(0,10).join('\n')||'(none)';
-  const tech=[...new Set([...ars,...vg])].slice(0,8).join('\n')||'(none)';
-  const lite=[...new Set(nyt)].join('\n')||'(none)';
-  el.innerHTML='<div class="status"><div class="spinner"></div>Step 2 — Got '+total+' headlines, asking AI to summarize...</div>';
+  el.innerHTML='<div class="status"><div class="spinner"></div>Fetching headlines from 9 sources...</div>';
+
   try{
-    const prompt='You are Ron\'s morning briefing assistant. Ron is a conservative-leaning Texas investor interested in markets, Fed policy, US politics, international news, and technology.\n\nWrite a concise morning briefing. 3-4 bullet points per section, one sentence each. Be factual everywhere. For Light Reading (NYT), a wry note about editorial slant is fine — Ron enjoys that.\n\nReturn ONLY valid JSON, no markdown:\n{"markets":["..."],"politics":["..."],"international":["..."],"tech":["..."],"lite":["..."]}\n\nMARKETS:\n'+mkts+'\n\nPOLITICS:\n'+pol+'\n\nINTERNATIONAL (BBC):\n'+intl+'\n\nTECH:\n'+tech+'\n\nNYT:\n'+lite;
-    const txt=await ai(prompt,900);
-    el.innerHTML='<div class="status"><div class="spinner"></div>Step 3 — Formatting...</div>';
-    const j=JSON.parse(txt.replace(/```json|```/g,'').trim());
-    function sec(title,bullets,tag){
+    // Fetch all RSS feeds in parallel
+    const[mw,fox,rcp,hill,ars,vg,bbcW,bbcT,nyt]=await Promise.all([
+      getRSS('https://feeds.marketwatch.com/marketwatch/topstories/',4),
+      getRSS('https://feeds.foxnews.com/foxnews/latest',4),
+      getRSS('https://www.realclearpolitics.com/index.xml',4),
+      getRSS('https://thehill.com/rss/syndicator/19110',3),
+      getRSS('https://feeds.arstechnica.com/arstechnica/index',3),
+      getRSS('https://www.theverge.com/rss/index.xml',3),
+      getRSS('https://feeds.bbci.co.uk/news/world/rss.xml',4),
+      getRSS('https://feeds.bbci.co.uk/news/rss.xml',4),
+      getRSS('https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml',3)
+    ]);
+
+    // Deduplicate and organize by category
+    const mkts=[...new Set(mw)].slice(0,3);
+    const pol=[...new Set([...fox,...rcp,...hill])].slice(0,4);
+    const intl=[...new Set([...bbcW,...bbcT])].slice(0,4);
+    const tech=[...new Set([...ars,...vg])].slice(0,3);
+    const lite=[...new Set(nyt)].slice(0,3);
+
+    // Build HTML
+    function sec(title,headlines,tag){
       const h='<div class="news-section-title">'+title+(tag?'<span class="tag">'+tag+'</span>':'')+'</div>';
-      return'<div class="news-section">'+h+(bullets||[]).map(b=>'<div class="news-item"><span class="news-dot">·</span>'+b+'</div>').join('')+'</div>';
+      return'<div class="news-section">'+h+(headlines||[]).map(b=>'<div class="news-item"><span class="news-dot">·</span>'+b+'</div>').join('')+'</div>';
     }
-    const html=sec('Markets &amp; Economy',j.markets)+sec('Politics',j.politics)+sec('International',j.international)+sec('Tech',j.tech)+sec('Light Reading',j.lite,'NYT');
+
+    const html=sec('Markets &amp; Economy',mkts)+sec('Politics',pol)+sec('International',intl)+sec('Tech',tech)+sec('Light Reading',lite,'NYT');
     el.innerHTML=html;
-    ts.textContent='Generated '+new Date().toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit'})+' · '+new Date().toLocaleDateString('en-US',{weekday:'long',month:'long',day:'numeric'});
-    try{Object.keys(localStorage).filter(k=>k.startsWith('ron_brief_')&&k!==ck).forEach(k=>localStorage.removeItem(k));localStorage.setItem(ck,html);}catch(e){}
+    ts.textContent='Loaded '+new Date().toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit'})+' · '+new Date().toLocaleDateString('en-US',{weekday:'long',month:'long',day:'numeric'});
+
+    // Cache for 24 hours
+    try{
+      Object.keys(localStorage).filter(k=>k.startsWith('ron_brief_')&&k!==ck).forEach(k=>localStorage.removeItem(k));
+      localStorage.setItem(ck,html);
+    }catch(e){}
   }catch(e){
-    el.innerHTML='<div class="status" style="color:var(--danger)">AI step failed: '+e.message+'</div>';
+    el.innerHTML='<div class="status" style="color:var(--danger)">Error loading headlines: '+e.message+'</div>';
   }
+
   btn.disabled=false;btn.textContent='Refresh';
 }
 
