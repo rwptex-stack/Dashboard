@@ -5,194 +5,47 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ron's Dashboard</title>
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-        body {
-            background-color: #0a0e27;
-            color: #e0e0e0;
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            padding: 20px;
-        }
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-        }
-        header {
-            text-align: center;
-            margin-bottom: 40px;
-            padding: 20px 0;
-            border-bottom: 2px solid #d4af37;
-        }
-        h1 {
-            font-size: 3em;
-            color: #d4af37;
-            margin-bottom: 10px;
-        }
-        .date {
-            color: #999;
-            font-size: 0.9em;
-            text-transform: uppercase;
-            letter-spacing: 2px;
-        }
-        .auth-section {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            background-color: #2a2f4a;
-            padding: 20px;
-            border-radius: 8px;
-            margin-bottom: 25px;
-        }
-        .section {
-            background-color: #1a1f3a;
-            border-radius: 10px;
-            padding: 25px;
-            margin-bottom: 25px;
-            border-left: 4px solid #d4af37;
-        }
-        .section-title {
-            color: #d4af37;
-            font-size: 1.1em;
-            margin-bottom: 15px;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-        }
-        button {
-            background-color: #d4af37;
-            color: #0a0e27;
-            border: none;
-            padding: 12px 25px;
-            border-radius: 5px;
-            cursor: pointer;
-            font-weight: bold;
-            font-size: 0.95em;
-            transition: background-color 0.3s ease;
-        }
-        button:hover {
-            background-color: #e0c158;
-        }
-        .loading {
-            color: #999;
-            font-style: italic;
-        }
-        .headline-list {
-            list-style: none;
-        }
-        .headline-item {
-            display: flex;
-            align-items: center;
-            padding: 12px 0;
-            border-bottom: 1px solid #2a2f4a;
-        }
-        .headline-item:last-child {
-            border-bottom: none;
-        }
-        .headline-arrow {
-            color: #d4af37;
-            font-size: 1.3em;
-            margin-right: 12px;
-            flex-shrink: 0;
-            cursor: pointer;
-            font-weight: bold;
-        }
-        .headline-arrow:hover {
-            transform: translateX(3px);
-        }
-        .headline-link {
-            color: #e0e0e0;
-            text-decoration: none;
-            cursor: pointer;
-            flex: 1;
-        }
-        .headline-link:hover {
-            color: #d4af37;
-        }
-        .grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 20px;
-            margin-top: 20px;
-        }
-        .card {
-            background-color: #1a1f3a;
-            border-radius: 10px;
-            padding: 20px;
-            text-align: center;
-            cursor: pointer;
-            transition: background-color 0.3s ease;
-            border: 2px solid #2a2f4a;
-        }
-        .card:hover {
-            background-color: #2a2f4a;
-            border-color: #d4af37;
-        }
-        .card-icon {
-            font-size: 2.5em;
-            margin-bottom: 10px;
-        }
-        .message {
-            color: #999;
-            font-size: 0.9em;
-            margin-top: 10px;
-            font-style: italic;
-        }
+        body { background-color: #0a0e27; color: #e0e0e0; font-family: 'Segoe UI', sans-serif; padding: 20px; }
+        .container { max-width: 1200px; margin: 0 auto; }
+        h1 { color: #d4af37; font-size: 3em; text-align: center; margin-bottom: 10px; }
+        .date { text-align: center; color: #999; margin-bottom: 30px; font-size: 0.9em; }
+        .section { background-color: #1a1f3a; border-radius: 10px; padding: 25px; margin-bottom: 25px; border-left: 4px solid #d4af37; }
+        .section-title { color: #d4af37; font-size: 1.1em; margin-bottom: 15px; text-transform: uppercase; }
+        button { background-color: #d4af37; color: #0a0e27; border: none; padding: 12px 25px; border-radius: 5px; cursor: pointer; font-weight: bold; margin-top: 15px; }
+        button:hover { background-color: #e0c158; }
+        .headline-item { display: flex; align-items: center; padding: 12px 0; border-bottom: 1px solid #2a2f4a; }
+        .headline-item:last-child { border-bottom: none; }
+        .headline-arrow { color: #d4af37; font-size: 1.3em; margin-right: 12px; cursor: pointer; font-weight: bold; flex-shrink: 0; }
+        .headline-arrow:hover { transform: translateX(3px); }
+        .headline-link { color: #e0e0e0; text-decoration: none; flex: 1; cursor: pointer; }
+        .headline-link:hover { color: #d4af37; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin-top: 20px; }
+        .card { background-color: #1a1f3a; border-radius: 10px; padding: 20px; text-align: center; cursor: pointer; border: 2px solid #2a2f4a; }
+        .card:hover { background-color: #2a2f4a; border-color: #d4af37; }
+        .card-icon { font-size: 2.5em; margin-bottom: 10px; }
+        .message { color: #999; font-size: 0.9em; margin-top: 10px; font-style: italic; }
+        #headlines { list-style: none; }
     </style>
 </head>
 <body>
     <div class="container">
-        <header>
-            <h1>Ron's Dashboard</h1>
-            <div class="date" id="currentDate"></div>
-        </header>
+        <h1>Ron's Dashboard</h1>
+        <div class="date" id="currentDate"></div>
 
-        <div class="auth-section">
-            <span>Not signed in</span>
-            <button onclick="alert('Sign in with Google - Coming soon')">Sign in with Google</button>
-        </div>
-
-        <!-- Markets Section -->
-        <div class="section">
-            <div class="section-title">Markets</div>
-            <div class="loading">Loading market data...</div>
-        </div>
-
-        <!-- Morning Briefing Section -->
         <div class="section">
             <div class="section-title">Morning Briefing</div>
-            <p class="message">Click Load Briefing to fetch today's news headlines (click headline or arrow to read full story)</p>
-            <button onclick="loadBriefing()" style="margin-top: 15px;">Load Briefing</button>
-            <ul class="headline-list" id="headlines"></ul>
+            <p class="message">Click Load Briefing to fetch today's news headlines (click headline or arrow to open)</p>
+            <button onclick="loadBriefing()">Load Briefing</button>
+            <ul id="headlines"></ul>
         </div>
 
-        <!-- Quick Access Cards -->
         <div class="grid">
-            <div class="card" onclick="alert('Today\'s Calendar')">
-                <div class="card-icon">📅</div>
-                <div>Today's Calendar</div>
-            </div>
-            <div class="card" onclick="alert('This Week')">
-                <div class="card-icon">📅</div>
-                <div>This Week</div>
-            </div>
-            <div class="card" onclick="alert('Check Emails')">
-                <div class="card-icon">📧</div>
-                <div>Check Emails</div>
-            </div>
-            <div class="card" onclick="alert('Add Event')">
-                <div class="card-icon">➕</div>
-                <div>Add Event</div>
-            </div>
-            <div class="card" onclick="alert('Today\'s Weather')">
-                <div class="card-icon">⛅</div>
-                <div>Today's Weather</div>
-            </div>
-            <div class="card" onclick="alert('3-Day Forecast')">
-                <div class="card-icon">🌧️</div>
-                <div>3-Day Forecast</div>
-            </div>
+            <div class="card"><div class="card-icon">📅</div>Today's Calendar</div>
+            <div class="card"><div class="card-icon">📅</div>This Week</div>
+            <div class="card"><div class="card-icon">📧</div>Check Emails</div>
+            <div class="card"><div class="card-icon">➕</div>Add Event</div>
+            <div class="card"><div class="card-icon">⛅</div>Today's Weather</div>
+            <div class="card"><div class="card-icon">🌧️</div>3-Day Forecast</div>
         </div>
     </div>
 
@@ -202,7 +55,6 @@
         function loadBriefing() {
             const headlines = document.getElementById('headlines');
             headlines.innerHTML = '';
-
             const articles = [
                 {title:'Tech Giants Report Strong Q2 Earnings', url:'https://www.cnbc.com'},
                 {title:'Market Rally Continues on Positive Economic Data', url:'https://www.reuters.com'},
@@ -210,25 +62,18 @@
                 {title:'AI Companies Face New Regulatory Scrutiny', url:'https://www.bbc.com/news'},
                 {title:'Global Supply Chain Stabilizes After Disruptions', url:'https://www.cnbc.com/tech'}
             ];
-
             articles.forEach((article) => {
                 const li = document.createElement('li');
                 li.className = 'headline-item';
-
                 const arrow = document.createElement('span');
                 arrow.className = 'headline-arrow';
                 arrow.textContent = '→';
-                arrow.onclick = (e) => {
-                    e.stopPropagation();
-                    window.open(article.url, '_blank');
-                };
-
+                arrow.onclick = (e) => {e.stopPropagation(); window.open(article.url, '_blank');};
                 const link = document.createElement('a');
                 link.className = 'headline-link';
                 link.href = article.url;
                 link.textContent = article.title;
                 link.target = '_blank';
-
                 li.appendChild(arrow);
                 li.appendChild(link);
                 headlines.appendChild(li);
