@@ -30,6 +30,8 @@ header p{color:var(--text-muted);font-size:.85rem;margin-top:6px;letter-spacing:
 .news-section:last-child{margin-bottom:0}
 .news-section-title{font-size:.7rem;font-weight:600;text-transform:uppercase;letter-spacing:.1em;color:var(--accent);border-bottom:1px solid var(--border);padding-bottom:6px;margin-bottom:8px}
 .news-item{font-size:.82rem;color:#bbb;padding:4px 0;line-height:1.45;display:flex;gap:8px}
+.news-link{color:#bbb;text-decoration:none;cursor:pointer;transition:color .2s}
+.news-link:hover{color:var(--accent2);text-decoration:underline}
 .news-dot{color:var(--accent);flex-shrink:0}
 .tag{display:inline-block;font-size:.62rem;background:#2a2000;color:var(--accent);border:1px solid #3a3000;padding:1px 6px;border-radius:8px;vertical-align:middle;margin-left:6px}
 .status{color:var(--text-muted);font-size:.82rem;font-style:italic;display:flex;align-items:center;gap:8px}
@@ -107,7 +109,7 @@ header p{color:var(--text-muted);font-size:.85rem;margin-top:6px;letter-spacing:
     <span>Morning Briefing</span>
     <button class="small-btn" id="brief-btn" onclick="loadBriefing()">Load Briefing</button>
   </div>
-  <div id="brief-body"><div class="status">Click Load Briefing to fetch today's news headlines</div></div>
+  <div id="brief-body"><div class="status">Click Load Briefing to fetch today's news headlines (click headline to read full story)</div></div>
   <p class="ts" id="brief-ts"></p>
 </div>
 
@@ -243,20 +245,24 @@ async function getRSS(url,n){
     try{
       const xml=new DOMParser().parseFromString(txt,'text/xml');
       return[...xml.querySelectorAll('item,entry')].slice(0,n)
-        .map(i=>i.querySelector('title')?.textContent?.replace(/<!\[CDATA\[|\]\]>/g,'').trim())
-        .filter(t=>t&&t.length>5);
+        .map(i=>{
+          const title=i.querySelector('title')?.textContent?.replace(/<!\[CDATA\[|\]\]>/g,'').trim();
+          const link=i.querySelector('link')?.textContent||i.querySelector('link')?.getAttribute('href')||'';
+          return{title,link};
+        })
+        .filter(t=>t.title&&t.title.length>5);
     }catch(e){return[];}
   }
   const[r1,r2]=await Promise.all([
     tFetch('https://corsproxy.io/?'+encodeURIComponent(url),6000)
       .then(r=>r.ok?r.text().then(parseXML):[]).catch(()=>[]),
     tFetch('https://api.rss2json.com/v1/api.json?rss_url='+encodeURIComponent(url)+'&count='+n,6000)
-      .then(r=>r.json()).then(d=>(d.items||[]).map(i=>i.title).filter(Boolean)).catch(()=>[])
+      .then(r=>r.json()).then(d=>(d.items||[]).map(i=>({title:i.title,link:i.link})).filter(Boolean)).catch(()=>[])
   ]);
   return(r1.length?r1:r2).slice(0,n);
 }
 
-// ── OPTIMIZED BRIEFING: Headlines only, no AI ──────────
+// ── OPTIMIZED BRIEFING: Clickable headlines ──────────
 async function loadBriefing(){
   const el=document.getElementById('brief-body'),ts=document.getElementById('brief-ts'),btn=document.getElementById('brief-btn');
   const ck='ron_brief_'+dayKey();
@@ -281,17 +287,21 @@ async function loadBriefing(){
       getRSS('https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml',3)
     ]);
 
-    // Deduplicate and organize by category
-    const mkts=[...new Set(mw)].slice(0,3);
-    const pol=[...new Set([...fox,...rcp,...hill])].slice(0,4);
-    const intl=[...new Set([...bbcW,...bbcT])].slice(0,4);
-    const tech=[...new Set([...ars,...vg])].slice(0,3);
-    const lite=[...new Set(nyt)].slice(0,3);
+    // Deduplicate by title and keep unique links
+    const dedup=(arr)=>{const seen=new Set();return arr.filter(i=>{if(seen.has(i.title))return false;seen.add(i.title);return true;})};
+    const mkts=dedup(mw).slice(0,3);
+    const pol=dedup([...fox,...rcp,...hill]).slice(0,4);
+    const intl=dedup([...bbcW,...bbcT]).slice(0,4);
+    const tech=dedup([...ars,...vg]).slice(0,3);
+    const lite=dedup(nyt).slice(0,3);
 
-    // Build HTML
+    // Build HTML with clickable links
     function sec(title,headlines,tag){
       const h='<div class="news-section-title">'+title+(tag?'<span class="tag">'+tag+'</span>':'')+'</div>';
-      return'<div class="news-section">'+h+(headlines||[]).map(b=>'<div class="news-item"><span class="news-dot">·</span>'+b+'</div>').join('')+'</div>';
+      return'<div class="news-section">'+h+(headlines||[]).map(b=>{
+        const url=b.link?`onclick="window.open('${b.link}','_blank')"`:'';
+        return'<div class="news-item"><span class="news-dot">·</span><a class="news-link" '+url+'>'+b.title+'</a></div>';
+      }).join('')+'</div>';
     }
 
     const html=sec('Markets &amp; Economy',mkts)+sec('Politics',pol)+sec('International',intl)+sec('Tech',tech)+sec('Light Reading',lite,'NYT');
