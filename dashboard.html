@@ -263,12 +263,16 @@ async function getRSS(url,n){
 }
 
 // ── OPTIMIZED BRIEFING: Clickable headlines ──────────
+function openArticle(url){
+  if(url){window.open(url,'_blank');}
+}
+
 async function loadBriefing(){
   const el=document.getElementById('brief-body'),ts=document.getElementById('brief-ts'),btn=document.getElementById('brief-btn');
   const ck='ron_brief_'+dayKey();
 
   // Check cache first (24-hour cache)
-  try{const c=localStorage.getItem(ck);if(c){el.innerHTML=c;ts.textContent='Cached from '+new Date().toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit'});return;}}catch(e){}
+  try{const c=localStorage.getItem(ck);if(c){el.innerHTML=c;ts.textContent='Cached from '+new Date().toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit'});attachLinkListeners();return;}}catch(e){}
 
   btn.disabled=true;btn.textContent='Loading...';
   el.innerHTML='<div class="status"><div class="spinner"></div>Fetching headlines from 9 sources...</div>';
@@ -298,9 +302,9 @@ async function loadBriefing(){
     // Build HTML with clickable links
     function sec(title,headlines,tag){
       const h='<div class="news-section-title">'+title+(tag?'<span class="tag">'+tag+'</span>':'')+'</div>';
-      return'<div class="news-section">'+h+(headlines||[]).map(b=>{
-        const url=b.link?`onclick="window.open('${b.link}','_blank')"`:'';
-        return'<div class="news-item"><span class="news-dot">·</span><a class="news-link" '+url+'>'+b.title+'</a></div>';
+      return'<div class="news-section">'+h+(headlines||[]).map((b,i)=>{
+        const linkId='link-'+Math.random().toString(36).substr(2,9);
+        return'<div class="news-item"><span class="news-dot">·</span><a class="news-link" id="'+linkId+'" data-url="'+escapeHtml(b.link)+'">'+escapeHtml(b.title)+'</a></div>';
       }).join('')+'</div>';
     }
 
@@ -313,11 +317,29 @@ async function loadBriefing(){
       Object.keys(localStorage).filter(k=>k.startsWith('ron_brief_')&&k!==ck).forEach(k=>localStorage.removeItem(k));
       localStorage.setItem(ck,html);
     }catch(e){}
+
+    // Attach event listeners
+    attachLinkListeners();
   }catch(e){
     el.innerHTML='<div class="status" style="color:var(--danger)">Error loading headlines: '+e.message+'</div>';
   }
 
   btn.disabled=false;btn.textContent='Refresh';
+}
+
+function escapeHtml(text){
+  const map={'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'};
+  return text.replace(/[&<>"']/g,m=>map[m]);
+}
+
+function attachLinkListeners(){
+  document.querySelectorAll('.news-link').forEach(link=>{
+    link.addEventListener('click',function(e){
+      e.preventDefault();
+      const url=this.getAttribute('data-url');
+      if(url){window.open(url,'_blank');}
+    });
+  });
 }
 
 // ── Weather ────────────────────────────────────────────
