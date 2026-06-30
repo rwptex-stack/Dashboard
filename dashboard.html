@@ -30,9 +30,9 @@ header p{color:var(--text-muted);font-size:.85rem;margin-top:6px;letter-spacing:
 .news-section:last-child{margin-bottom:0}
 .news-section-title{font-size:.7rem;font-weight:600;text-transform:uppercase;letter-spacing:.1em;color:var(--accent);border-bottom:1px solid var(--border);padding-bottom:6px;margin-bottom:8px}
 .news-item{font-size:.82rem;color:#bbb;padding:4px 0;line-height:1.45;display:flex;gap:8px}
-.news-link{color:#bbb;text-decoration:none;cursor:pointer;transition:color .2s}
+.news-link{color:#bbb;text-decoration:none;cursor:pointer;transition:color .2s;display:block;flex:1}
 .news-link:hover{color:var(--accent2);text-decoration:underline}
-.news-dot{color:var(--accent);flex-shrink:0}
+.news-dot{color:var(--accent);flex-shrink:0;margin-top:1px}
 .tag{display:inline-block;font-size:.62rem;background:#2a2000;color:var(--accent);border:1px solid #3a3000;padding:1px 6px;border-radius:8px;vertical-align:middle;margin-left:6px}
 .status{color:var(--text-muted);font-size:.82rem;font-style:italic;display:flex;align-items:center;gap:8px}
 .spinner{width:16px;height:16px;border:2px solid var(--border);border-top-color:var(--accent);border-radius:50%;animation:spin .8s linear infinite;flex-shrink:0}
@@ -136,6 +136,7 @@ const SCOPES = 'https://www.googleapis.com/auth/calendar https://www.googleapis.
 const LAT = 30.5418, LON = -98.3629;
 const TK = 'ron_tk', TX = 'ron_tx';
 let tc, tok = null;
+let articleStore = {};
 
 // ── Auth ──────────────────────────────────────────────
 function saveTok(t,e){localStorage.setItem(TK,t);localStorage.setItem(TX,(Date.now()+(e-300)*1000).toString())}
@@ -262,84 +263,52 @@ async function getRSS(url,n){
   return(r1.length?r1:r2).slice(0,n);
 }
 
-// ── OPTIMIZED BRIEFING: Clickable headlines ──────────
-function openArticle(url){
-  if(url){window.open(url,'_blank');}
+function openArticle(link){
+  if(link)window.open(link,'_blank');
 }
 
 async function loadBriefing(){
   const el=document.getElementById('brief-body'),ts=document.getElementById('brief-ts'),btn=document.getElementById('brief-btn');
   const ck='ron_brief_'+dayKey();
-
-  // Check cache first (24-hour cache)
-  try{const c=localStorage.getItem(ck);if(c){el.innerHTML=c;ts.textContent='Cached from '+new Date().toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit'});attachLinkListeners();return;}}catch(e){}
-
+  try{const c=localStorage.getItem(ck);if(c){el.innerHTML=c;ts.textContent='Cached for today';return;}}catch(e){}
   btn.disabled=true;btn.textContent='Loading...';
-  el.innerHTML='<div class="status"><div class="spinner"></div>Fetching headlines from 9 sources...</div>';
-
+  el.innerHTML='<div class="status"><div class="spinner"></div>Fetching headlines from 9 feeds...</div>';
+  const[mw,fox,rcp,hill,ars,vg,bbcW,bbcT,nyt]=await Promise.all([
+    getRSS('https://feeds.marketwatch.com/marketwatch/topstories/',6),
+    getRSS('https://feeds.foxnews.com/foxnews/latest',6),
+    getRSS('https://www.realclearpolitics.com/index.xml',6),
+    getRSS('https://thehill.com/rss/syndicator/19110',5),
+    getRSS('https://feeds.arstechnica.com/arstechnica/index',5),
+    getRSS('https://www.theverge.com/rss/index.xml',5),
+    getRSS('https://feeds.bbci.co.uk/news/world/rss.xml',7),
+    getRSS('https://feeds.bbci.co.uk/news/rss.xml',6),
+    getRSS('https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml',5)
+  ]);
+  const total=[mw,fox,rcp,hill,ars,vg,bbcW,bbcT,nyt].reduce((a,f)=>a+f.length,0);
+  const mkts=[...new Set(mw.map(x=>x.title))].slice(0,3);
+  const pol=[...new Set([...fox,...rcp,...hill].map(x=>x.title))].slice(0,10);
+  const intl=[...new Set([...bbcW,...bbcT].map(x=>x.title))].slice(0,10);
+  const tech=[...new Set([...ars,...vg].map(x=>x.title))].slice(0,8);
+  const lite=[...new Set(nyt.map(x=>x.title))];
+  el.innerHTML='<div class="status"><div class="spinner"></div>Got '+total+' headlines, formatting...</div>';
   try{
-    // Fetch all RSS feeds in parallel
-    const[mw,fox,rcp,hill,ars,vg,bbcW,bbcT,nyt]=await Promise.all([
-      getRSS('https://feeds.marketwatch.com/marketwatch/topstories/',4),
-      getRSS('https://feeds.foxnews.com/foxnews/latest',4),
-      getRSS('https://www.realclearpolitics.com/index.xml',4),
-      getRSS('https://thehill.com/rss/syndicator/19110',3),
-      getRSS('https://feeds.arstechnica.com/arstechnica/index',3),
-      getRSS('https://www.theverge.com/rss/index.xml',3),
-      getRSS('https://feeds.bbci.co.uk/news/world/rss.xml',4),
-      getRSS('https://feeds.bbci.co.uk/news/rss.xml',4),
-      getRSS('https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml',3)
-    ]);
-
-    // Deduplicate by title and keep unique links
-    const dedup=(arr)=>{const seen=new Set();return arr.filter(i=>{if(seen.has(i.title))return false;seen.add(i.title);return true;})};
-    const mkts=dedup(mw).slice(0,3);
-    const pol=dedup([...fox,...rcp,...hill]).slice(0,4);
-    const intl=dedup([...bbcW,...bbcT]).slice(0,4);
-    const tech=dedup([...ars,...vg]).slice(0,3);
-    const lite=dedup(nyt).slice(0,3);
-
-    // Build HTML with clickable links
-    function sec(title,headlines,tag){
+    function sec(title,items,tag){
       const h='<div class="news-section-title">'+title+(tag?'<span class="tag">'+tag+'</span>':'')+'</div>';
-      return'<div class="news-section">'+h+(headlines||[]).map((b,i)=>{
-        const linkId='link-'+Math.random().toString(36).substr(2,9);
-        return'<div class="news-item"><span class="news-dot">·</span><a class="news-link" id="'+linkId+'" data-url="'+escapeHtml(b.link)+'">'+escapeHtml(b.title)+'</a></div>';
+      return'<div class="news-section">'+h+(items||[]).map(t=>{
+        const item=[...mw,...fox,...rcp,...hill,...ars,...vg,...bbcW,...bbcT,...nyt].find(x=>x.title===t);
+        const linkId='link_'+Math.random().toString(36).substr(2,9);
+        articleStore[linkId]=item?.link||'';
+        return'<div class="news-item"><span class="news-dot">·</span><a class="news-link" id="'+linkId+'" onclick="openArticle(articleStore[\''+linkId+'\']);return false;">'+t+'</a></div>';
       }).join('')+'</div>';
     }
-
     const html=sec('Markets &amp; Economy',mkts)+sec('Politics',pol)+sec('International',intl)+sec('Tech',tech)+sec('Light Reading',lite,'NYT');
     el.innerHTML=html;
-    ts.textContent='Loaded '+new Date().toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit'})+' · '+new Date().toLocaleDateString('en-US',{weekday:'long',month:'long',day:'numeric'});
-
-    // Cache for 24 hours
-    try{
-      Object.keys(localStorage).filter(k=>k.startsWith('ron_brief_')&&k!==ck).forEach(k=>localStorage.removeItem(k));
-      localStorage.setItem(ck,html);
-    }catch(e){}
-
-    // Attach event listeners
-    attachLinkListeners();
+    ts.textContent='Generated '+new Date().toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit'})+' · '+new Date().toLocaleDateString('en-US',{weekday:'long',month:'long',day:'numeric'});
+    try{Object.keys(localStorage).filter(k=>k.startsWith('ron_brief_')&&k!==ck).forEach(k=>localStorage.removeItem(k));localStorage.setItem(ck,html);}catch(e){}
   }catch(e){
-    el.innerHTML='<div class="status" style="color:var(--danger)">Error loading headlines: '+e.message+'</div>';
+    el.innerHTML='<div class="status" style="color:var(--danger)">Error: '+e.message+'</div>';
   }
-
   btn.disabled=false;btn.textContent='Refresh';
-}
-
-function escapeHtml(text){
-  const map={'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'};
-  return text.replace(/[&<>"']/g,m=>map[m]);
-}
-
-function attachLinkListeners(){
-  document.querySelectorAll('.news-link').forEach(link=>{
-    link.addEventListener('click',function(e){
-      e.preventDefault();
-      const url=this.getAttribute('data-url');
-      if(url){window.open(url,'_blank');}
-    });
-  });
 }
 
 // ── Weather ────────────────────────────────────────────
