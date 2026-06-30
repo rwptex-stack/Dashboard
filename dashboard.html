@@ -30,9 +30,9 @@ header p{color:var(--text-muted);font-size:.85rem;margin-top:6px;letter-spacing:
 .news-section:last-child{margin-bottom:0}
 .news-section-title{font-size:.7rem;font-weight:600;text-transform:uppercase;letter-spacing:.1em;color:var(--accent);border-bottom:1px solid var(--border);padding-bottom:6px;margin-bottom:8px}
 .news-item{font-size:.82rem;color:#bbb;padding:4px 0;line-height:1.45;display:flex;gap:8px}
-.news-link{color:#bbb;text-decoration:none;cursor:pointer;transition:color .2s;display:block;flex:1}
+.news-link{color:#bbb;text-decoration:none;cursor:pointer;transition:color .2s}
 .news-link:hover{color:var(--accent2);text-decoration:underline}
-.news-dot{color:var(--accent);flex-shrink:0;margin-top:1px}
+.news-dot{color:var(--accent);flex-shrink:0}
 .tag{display:inline-block;font-size:.62rem;background:#2a2000;color:var(--accent);border:1px solid #3a3000;padding:1px 6px;border-radius:8px;vertical-align:middle;margin-left:6px}
 .status{color:var(--text-muted);font-size:.82rem;font-style:italic;display:flex;align-items:center;gap:8px}
 .spinner{width:16px;height:16px;border:2px solid var(--border);border-top-color:var(--accent);border-radius:50%;animation:spin .8s linear infinite;flex-shrink:0}
@@ -136,7 +136,6 @@ const SCOPES = 'https://www.googleapis.com/auth/calendar https://www.googleapis.
 const LAT = 30.5418, LON = -98.3629;
 const TK = 'ron_tk', TX = 'ron_tx';
 let tc, tok = null;
-let articleStore = {};
 
 // ── Auth ──────────────────────────────────────────────
 function saveTok(t,e){localStorage.setItem(TK,t);localStorage.setItem(TX,(Date.now()+(e-300)*1000).toString())}
@@ -263,10 +262,6 @@ async function getRSS(url,n){
   return(r1.length?r1:r2).slice(0,n);
 }
 
-function openArticle(link){
-  if(link)window.open(link,'_blank');
-}
-
 async function loadBriefing(){
   const el=document.getElementById('brief-body'),ts=document.getElementById('brief-ts'),btn=document.getElementById('brief-btn');
   const ck='ron_brief_'+dayKey();
@@ -285,21 +280,16 @@ async function loadBriefing(){
     getRSS('https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml',5)
   ]);
   const total=[mw,fox,rcp,hill,ars,vg,bbcW,bbcT,nyt].reduce((a,f)=>a+f.length,0);
-  const mkts=[...new Set(mw.map(x=>x.title))].slice(0,3);
-  const pol=[...new Set([...fox,...rcp,...hill].map(x=>x.title))].slice(0,10);
-  const intl=[...new Set([...bbcW,...bbcT].map(x=>x.title))].slice(0,10);
-  const tech=[...new Set([...ars,...vg].map(x=>x.title))].slice(0,8);
-  const lite=[...new Set(nyt.map(x=>x.title))];
+  const mkts=[...new Set(mw)].slice(0,3);
+  const pol=[...new Set([...fox,...rcp,...hill])].slice(0,10);
+  const intl=[...new Set([...bbcW,...bbcT])].slice(0,10);
+  const tech=[...new Set([...ars,...vg])].slice(0,8);
+  const lite=[...new Set(nyt)];
   el.innerHTML='<div class="status"><div class="spinner"></div>Got '+total+' headlines, formatting...</div>';
   try{
     function sec(title,items,tag){
       const h='<div class="news-section-title">'+title+(tag?'<span class="tag">'+tag+'</span>':'')+'</div>';
-      return'<div class="news-section">'+h+(items||[]).map(t=>{
-        const item=[...mw,...fox,...rcp,...hill,...ars,...vg,...bbcW,...bbcT,...nyt].find(x=>x.title===t);
-        const linkId='link_'+Math.random().toString(36).substr(2,9);
-        articleStore[linkId]=item?.link||'';
-        return'<div class="news-item"><span class="news-dot">·</span><a class="news-link" id="'+linkId+'" onclick="openArticle(articleStore[\''+linkId+'\']);return false;">'+t+'</a></div>';
-      }).join('')+'</div>';
+      return'<div class="news-section">'+h+(items||[]).map(i=>'<div class="news-item"><span class="news-dot">·</span><a class="news-link" href="'+i.link+'" target="_blank">'+i.title+'</a></div>').join('')+'</div>';
     }
     const html=sec('Markets &amp; Economy',mkts)+sec('Politics',pol)+sec('International',intl)+sec('Tech',tech)+sec('Light Reading',lite,'NYT');
     el.innerHTML=html;
