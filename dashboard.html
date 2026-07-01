@@ -265,7 +265,9 @@ async function loadBriefing(force){
       return href?'<a class="news-item" href="'+href+'" target="_blank" rel="noopener noreferrer">'+inner+'</a>':'<div class="news-item">'+inner+'</div>';
     }).join('')+'</div>';
   }
-  const html=sec('Markets &amp; Economy',dedupe(mw).slice(0,6),'',idxBlock(indices))+
+  const mwItems=dedupe(mw).slice(0,6),idxHtml=idxBlock(indices);
+  const marketsExtra=idxHtml||(mwItems.length?'':'<div class="status" style="padding:2px 0 6px">No market data available right now — try Refresh.</div>');
+  const html=sec('Markets &amp; Economy',mwItems,'',marketsExtra)+
              sec('Politics',dedupe([...fox,...rcp,...hill]).slice(0,8))+
              sec('International',dedupe([...bbcW,...bbcT]).slice(0,8))+
              sec('Tech',dedupe([...ars,...vg]).slice(0,6))+
