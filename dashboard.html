@@ -232,7 +232,7 @@ function idxBlock(list){
 }
 async function loadBriefing(force){
   const el=document.getElementById('brief-body'),ts=document.getElementById('brief-ts'),btn=document.getElementById('brief-btn');
-  const ck='ron_brief_'+dayKey();
+  const ck='ron_brief_v2_'+dayKey();
   if(!force){
     try{const c=localStorage.getItem(ck);if(c){el.innerHTML=c;ts.textContent='Cached for today · click Refresh for the latest';btn.textContent='Refresh';return;}}catch(e){}
   }
