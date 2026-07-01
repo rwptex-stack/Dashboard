@@ -197,35 +197,54 @@ async function getRSS(url,n){
     }catch(e){return[];}
   }
   const[r1,r2]=await Promise.all([
-    tFetch('https://corsproxy.io/?'+encodeURIComponent(url),6000)
+    tFetch('https://corsproxy.io/?'+encodeURIComponent(url),14000)
       .then(r=>r.ok?r.text().then(parseXML):[]).catch(()=>[]),
-    tFetch('https://api.rss2json.com/v1/api.json?rss_url='+encodeURIComponent(url)+'&count='+n,6000)
+    tFetch('https://api.rss2json.com/v1/api.json?rss_url='+encodeURIComponent(url)+'&count='+n,14000)
       .then(r=>r.json()).then(d=>(d.items||[]).map(i=>({title:i.title,link:i.link||''})).filter(o=>o.title)).catch(()=>[])
   ]);
   return(r1.length?r1:r2).slice(0,n);
 }
+async function fetchIndex(sym,name){
+  const url='https://query1.finance.yahoo.com/v8/finance/chart/'+sym+'?interval=1d&range=5d';
+  const proxies=[
+    'https://corsproxy.io/?'+encodeURIComponent(url),
+    'https://api.allorigins.win/raw?url='+encodeURIComponent(url)
+  ];
+  for(const p of proxies){
+    try{
+      const r=await tFetch(p,14000);
+      if(!r.ok)continue;
+      const d=await r.json();
+      const meta=d?.chart?.result?.[0]?.meta;
+      const price=meta?.regularMarketPrice,prev=meta?.chartPreviousClose;
+      if(isFinite(price)&&isFinite(prev)&&prev!==0)return{name,price,pct:(price-prev)/prev*100};
+    }catch(e){}
+  }
+  return null;
+}
+const IDX_CACHE_KEY='ron_idx_cache';
 async function getIndices(){
   const syms=[['^GSPC','S&amp;P 500'],['^DJI','Dow Jones'],['^IXIC','Nasdaq']];
-  const results=await Promise.all(syms.map(([sym,name])=>
-    tFetch('https://corsproxy.io/?'+encodeURIComponent('https://query1.finance.yahoo.com/v8/finance/chart/'+sym+'?interval=1d&range=5d'),6000)
-      .then(r=>r.ok?r.json():null).catch(()=>null)
-      .then(d=>{
-        try{
-          const meta=d?.chart?.result?.[0]?.meta;
-          const price=meta?.regularMarketPrice,prev=meta?.chartPreviousClose;
-          if(!isFinite(price)||!isFinite(prev)||prev===0)return null;
-          return{name,price,pct:(price-prev)/prev*100};
-        }catch(e){return null;}
-      })
-  ));
-  return results.filter(Boolean);
+  const results=await Promise.all(syms.map(([sym,name])=>fetchIndex(sym,name)));
+  const fresh=results.filter(Boolean);
+  if(fresh.length){
+    try{localStorage.setItem(IDX_CACHE_KEY,JSON.stringify({data:fresh,ts:Date.now()}));}catch(e){}
+    return{data:fresh,stale:false};
+  }
+  try{
+    const cached=JSON.parse(localStorage.getItem(IDX_CACHE_KEY)||'null');
+    if(cached&&cached.data&&cached.data.length)return{data:cached.data,stale:true,ts:cached.ts};
+  }catch(e){}
+  return{data:[],stale:false};
 }
-function idxBlock(list){
-  if(!list||!list.length)return'';
-  return'<div class="idx-block">'+list.map(i=>{
+function idxBlock(result){
+  if(!result||!result.data||!result.data.length)return'';
+  const rows=result.data.map(i=>{
     const up=i.pct>=0,cls=up?'up':'down',arrow=up?'▲':'▼';
     return'<div class="idx-row"><span class="idx-name">'+i.name+'</span><span><span class="idx-price">'+i.price.toLocaleString('en-US',{maximumFractionDigits:2})+'</span><span class="idx-chg '+cls+'">'+arrow+' '+(up?'+':'')+i.pct.toFixed(2)+'%</span></span></div>';
-  }).join('')+'</div>';
+  }).join('');
+  const note=result.stale?'<div class="status" style="padding:0 0 4px;font-size:.7rem">Live fetch failed — showing last known values from '+new Date(result.ts).toLocaleString('en-US',{month:'short',day:'numeric',hour:'numeric',minute:'2-digit'})+'</div>':'';
+  return'<div class="idx-block">'+note+rows+'</div>';
 }
 async function loadBriefing(force){
   const el=document.getElementById('brief-body'),ts=document.getElementById('brief-ts'),btn=document.getElementById('brief-btn');
