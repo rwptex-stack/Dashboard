@@ -205,19 +205,16 @@ async function getRSS(url,n){
   return(r1.length?r1:r2).slice(0,n);
 }
 async function getIndices(){
-  const syms=[['^spx','S&amp;P 500'],['^dji','Dow Jones'],['^ndq','Nasdaq']];
+  const syms=[['^GSPC','S&amp;P 500'],['^DJI','Dow Jones'],['^IXIC','Nasdaq']];
   const results=await Promise.all(syms.map(([sym,name])=>
-    tFetch('https://corsproxy.io/?'+encodeURIComponent('https://stooq.com/q/d/l/?s='+sym+'&i=d'),6000)
-      .then(r=>r.ok?r.text():'').catch(()=>'')
-      .then(txt=>{
+    tFetch('https://corsproxy.io/?'+encodeURIComponent('https://query1.finance.yahoo.com/v8/finance/chart/'+sym+'?interval=1d&range=5d'),6000)
+      .then(r=>r.ok?r.json():null).catch(()=>null)
+      .then(d=>{
         try{
-          const lines=txt.trim().split('\n').filter(Boolean);
-          if(lines.length<3)return null;
-          const rows=lines.slice(1).map(l=>l.split(','));
-          const last=rows[rows.length-1],prev=rows[rows.length-2];
-          const lastClose=parseFloat(last[4]),prevClose=parseFloat(prev[4]);
-          if(!isFinite(lastClose)||!isFinite(prevClose)||prevClose===0)return null;
-          return{name,price:lastClose,pct:(lastClose-prevClose)/prevClose*100};
+          const meta=d?.chart?.result?.[0]?.meta;
+          const price=meta?.regularMarketPrice,prev=meta?.chartPreviousClose;
+          if(!isFinite(price)||!isFinite(prev)||prev===0)return null;
+          return{name,price,pct:(price-prev)/prev*100};
         }catch(e){return null;}
       })
   ));
