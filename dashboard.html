@@ -224,7 +224,7 @@ async function fetchIndex(sym,name){
 }
 const IDX_CACHE_KEY='ron_idx_cache';
 async function getIndices(){
-  const syms=[['^GSPC','S&amp;P 500'],['^DJI','Dow Jones'],['^IXIC','Nasdaq']];
+  const syms=[['^GSPC','S&amp;P 500'],['^DJI','Dow Jones'],['^IXIC','Nasdaq'],['GC=F','Gold'],['BTC-USD','Bitcoin'],['SPCX','SpaceX']];
   const results=await Promise.all(syms.map(([sym,name])=>fetchIndex(sym,name)));
   const fresh=results.filter(Boolean);
   if(fresh.length){
