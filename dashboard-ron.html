@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Dorothy's Dashboard</title>
+<title>Ron's Dashboard</title>
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
 <style>
 :root{--bg:#0f0f0f;--surface:#1a1a1a;--surface2:#222;--border:#2e2e2e;--accent:#c9a84c;--accent2:#e8c97a;--text:#f0ede8;--text-muted:#888;--danger:#c0392b;--success:#27ae60;--urgent:#e74c3c;--important:#e67e22;--low:#7f8c8d}
@@ -27,6 +27,7 @@ header p{color:var(--text-muted);font-size:.85rem;margin-top:6px;letter-spacing:
 .news-item:hover{color:var(--accent2)}
 .news-dot{color:var(--accent);flex-shrink:0;font-weight:bold}
 .news-dot::before{content:'→ ';margin-right:4px}
+.tag{display:inline-block;font-size:.62rem;background:#2a2000;color:var(--accent);border:1px solid #3a3000;padding:1px 6px;border-radius:8px;vertical-align:middle;margin-left:6px}
 .status{color:var(--text-muted);font-size:.82rem;font-style:italic;display:flex;align-items:center;gap:8px}
 .spinner{width:16px;height:16px;border:2px solid var(--border);border-top-color:var(--accent);border-radius:50%;animation:spin .8s linear infinite;flex-shrink:0}
 @keyframes spin{to{transform:rotate(360deg)}}
@@ -53,6 +54,7 @@ header p{color:var(--text-muted);font-size:.85rem;margin-top:6px;letter-spacing:
 .em-item:last-child{border-bottom:none}
 .em-from{font-weight:500;font-size:.9rem}
 .em-subj{font-size:.85rem;color:var(--text-muted);margin-top:3px}
+.em-sum{font-size:.82rem;color:var(--accent2);margin-top:4px;font-style:italic}
 .em-date{font-size:.75rem;color:var(--text-muted);margin-top:3px}
 .em-actions{display:flex;gap:8px;margin-top:8px;flex-wrap:wrap}
 .em-btn{font-size:.75rem;padding:5px 12px;border-radius:4px;border:1px solid var(--border);background:transparent;color:var(--text-muted);cursor:pointer;font-family:'DM Sans',sans-serif}
@@ -74,11 +76,18 @@ header p{color:var(--text-muted);font-size:.85rem;margin-top:6px;letter-spacing:
 .wx-day:last-child{border-bottom:none}
 .wx-icon{font-size:1.4rem;margin:0 12px}
 .ts{text-align:center;font-size:.68rem;color:#444;margin-top:4px;margin-bottom:20px}
+.idx-block{margin-bottom:10px}
+.idx-row{display:flex;justify-content:space-between;align-items:center;padding:3px 0;font-size:.82rem}
+.idx-name{color:var(--text-muted)}
+.idx-price{color:var(--text);margin-right:8px}
+.idx-chg{font-weight:600}
+.idx-chg.up{color:var(--success)}
+.idx-chg.down{color:var(--urgent)}
 </style>
 </head>
 <body>
 <header>
-  <h1>Dorothy's Dashboard</h1>
+  <h1>Ron's Dashboard</h1>
   <p id="hdr-date">Morning Briefing</p>
 </header>
 
@@ -115,10 +124,10 @@ header p{color:var(--text-muted);font-size:.85rem;margin-top:6px;letter-spacing:
 <script src="https://accounts.google.com/gsi/client" async defer></script>
 <script>
 const GID = '131656481327-d7o8c49e8bvvnksg73e418okoi3eaupq.apps.googleusercontent.com';
-const SPOUSE_CAL = 'ronptex@gmail.com';
+const SPOUSE_CAL = 'daptex48@gmail.com';
 const SCOPES = 'https://www.googleapis.com/auth/calendar https://www.googleapis.com/auth/gmail.modify https://www.googleapis.com/auth/gmail.send https://www.googleapis.com/auth/gmail.readonly';
 const LAT = 30.5418, LON = -98.3629;
-const TK = 'dorothy_tk', TX = 'dorothy_tx';
+const TK = 'ron_tk', TX = 'ron_tx';
 let tc, tok = null;
 
 function saveTok(t,e){localStorage.setItem(TK,t);localStorage.setItem(TX,(Date.now()+(e-300)*1000).toString())}
@@ -195,15 +204,58 @@ async function getRSS(url,n){
   ]);
   return(r1.length?r1:r2).slice(0,n);
 }
+async function fetchIndex(sym,name){
+  const url='https://query1.finance.yahoo.com/v8/finance/chart/'+sym+'?interval=1d&range=5d';
+  const proxies=[
+    'https://corsproxy.io/?'+encodeURIComponent(url),
+    'https://api.allorigins.win/raw?url='+encodeURIComponent(url)
+  ];
+  for(const p of proxies){
+    try{
+      const r=await tFetch(p,14000);
+      if(!r.ok)continue;
+      const d=await r.json();
+      const meta=d?.chart?.result?.[0]?.meta;
+      const price=meta?.regularMarketPrice,prev=meta?.chartPreviousClose;
+      if(isFinite(price)&&isFinite(prev)&&prev!==0)return{name,price,pct:(price-prev)/prev*100};
+    }catch(e){}
+  }
+  return null;
+}
+const IDX_CACHE_KEY='ron_idx_cache';
+async function getIndices(){
+  const syms=[['^GSPC','S&amp;P 500'],['^DJI','Dow Jones'],['^IXIC','Nasdaq'],['GC=F','Gold'],['BTC-USD','Bitcoin'],['SPCX','SpaceX']];
+  const results=await Promise.all(syms.map(([sym,name])=>fetchIndex(sym,name)));
+  const fresh=results.filter(Boolean);
+  if(fresh.length){
+    try{localStorage.setItem(IDX_CACHE_KEY,JSON.stringify({data:fresh,ts:Date.now()}));}catch(e){}
+    return{data:fresh,stale:false};
+  }
+  try{
+    const cached=JSON.parse(localStorage.getItem(IDX_CACHE_KEY)||'null');
+    if(cached&&cached.data&&cached.data.length)return{data:cached.data,stale:true,ts:cached.ts};
+  }catch(e){}
+  return{data:[],stale:false};
+}
+function idxBlock(result){
+  if(!result||!result.data||!result.data.length)return'';
+  const rows=result.data.map(i=>{
+    const up=i.pct>=0,cls=up?'up':'down',arrow=up?'▲':'▼';
+    return'<div class="idx-row"><span class="idx-name">'+i.name+'</span><span><span class="idx-price">'+i.price.toLocaleString('en-US',{maximumFractionDigits:2})+'</span><span class="idx-chg '+cls+'">'+arrow+' '+(up?'+':'')+i.pct.toFixed(2)+'%</span></span></div>';
+  }).join('');
+  const note=result.stale?'<div class="status" style="padding:0 0 4px;font-size:.7rem">Live fetch failed — showing last known values from '+new Date(result.ts).toLocaleString('en-US',{month:'short',day:'numeric',hour:'numeric',minute:'2-digit'})+'</div>':'';
+  return'<div class="idx-block">'+note+rows+'</div>';
+}
 async function loadBriefing(force){
   const el=document.getElementById('brief-body'),ts=document.getElementById('brief-ts'),btn=document.getElementById('brief-btn');
-  const ck='dorothy_brief_v2_'+dayKey();
+  const ck='ron_brief_v2_'+dayKey();
   if(!force){
     try{const c=localStorage.getItem(ck);if(c){el.innerHTML=c;ts.textContent='Cached for today · click Refresh for the latest';btn.textContent='Refresh';return;}}catch(e){}
   }
   btn.disabled=true;btn.textContent='Loading...';
-  el.innerHTML='<div class="status"><div class="spinner"></div>Fetching headlines from 12 feeds...</div>';
-  const[fox,rcp,hill,ars,vg,bbcW,bbcT,nyt,artnews,hyperallergic,contempart,booooooom]=await Promise.all([
+  el.innerHTML='<div class="status"><div class="spinner"></div>Fetching headlines from 9 feeds + market data...</div>';
+  const[mw,fox,rcp,hill,ars,vg,bbcW,bbcT,nyt,indices]=await Promise.all([
+    getRSS('https://feeds.marketwatch.com/marketwatch/topstories/',6),
     getRSS('https://feeds.foxnews.com/foxnews/latest',6),
     getRSS('https://www.realclearpolitics.com/index.xml',6),
     getRSS('https://thehill.com/rss/syndicator/19110',5),
@@ -212,34 +264,33 @@ async function loadBriefing(force){
     getRSS('https://feeds.bbci.co.uk/news/world/rss.xml',7),
     getRSS('https://feeds.bbci.co.uk/news/rss.xml',6),
     getRSS('https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml',5),
-    getRSS('https://www.artnews.com/feed/',6),
-    getRSS('https://hyperallergic.com/feed/',6),
-    getRSS('https://www.contemporaryartdaily.com/feed/',6),
-    getRSS('https://www.booooooom.com/feed/',6)
+    getIndices()
   ]);
-  const totalItems=fox.length+rcp.length+hill.length+ars.length+vg.length+bbcW.length+bbcT.length+nyt.length+artnews.length+hyperallergic.length+contempart.length+booooooom.length;
+  const totalItems=mw.length+fox.length+rcp.length+hill.length+ars.length+vg.length+bbcW.length+bbcT.length+nyt.length;
   if(totalItems===0){
     el.innerHTML='<div class="status"><span class="err">Could not fetch headlines right now.</span> <button class="small-btn" onclick="loadBriefing(true)">Retry</button></div>';
     ts.textContent='';
     btn.disabled=false;btn.textContent='Refresh';
     return;
   }
-  function sec(title,items){
-    const h='<div class="news-section-title">'+title+'</div>';
-    return'<div class="news-section">'+h+(items||[]).map(i=>{
+  function sec(title,items,tag,extra){
+    const h='<div class="news-section-title">'+title+(tag?'<span class="tag">'+tag+'</span>':'')+'</div>';
+    return'<div class="news-section">'+h+(extra||'')+(items||[]).map(i=>{
       const t=esc(i.title||''),href=i.link?esc(i.link):'';
       const inner='<span class="news-dot">·</span>'+t;
       return href?'<a class="news-item" href="'+href+'" target="_blank" rel="noopener noreferrer">'+inner+'</a>':'<div class="news-item">'+inner+'</div>';
     }).join('')+'</div>';
   }
-  const html=sec('Politics',dedupe([...fox,...rcp,...hill]).slice(0,8))+
+  const mwItems=dedupe(mw).slice(0,6),idxHtml=idxBlock(indices);
+  const marketsExtra=idxHtml||(mwItems.length?'':'<div class="status" style="padding:2px 0 6px">No market data available right now — try Refresh.</div>');
+  const html=sec('Markets &amp; Economy',mwItems,'',marketsExtra)+
+             sec('Politics',dedupe([...fox,...rcp,...hill]).slice(0,8))+
              sec('International',dedupe([...bbcW,...bbcT]).slice(0,8))+
              sec('Tech',dedupe([...ars,...vg]).slice(0,6))+
-             sec('Light Reading',dedupe(nyt))+
-             sec('Art &amp; Culture',dedupe([...artnews,...hyperallergic,...contempart,...booooooom]).slice(0,10));
+             sec('Light Reading',dedupe(nyt),'');
   el.innerHTML=html;
   ts.textContent='Loaded '+new Date().toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit'})+' · '+new Date().toLocaleDateString('en-US',{weekday:'long',month:'long',day:'numeric'});
-  try{Object.keys(localStorage).filter(k=>k.startsWith('dorothy_brief_')&&k!==ck).forEach(k=>localStorage.removeItem(k));localStorage.setItem(ck,html);}catch(e){}
+  try{Object.keys(localStorage).filter(k=>k.startsWith('ron_brief_')&&k!==ck).forEach(k=>localStorage.removeItem(k));localStorage.setItem(ck,html);}catch(e){}
   btn.disabled=false;btn.textContent='Refresh';
 }
 
@@ -282,8 +333,8 @@ function renderCal(mine,spouse,showDate){
   const all=[...mine.map(e=>({...e,sp:false})),...spouse.map(e=>({...e,sp:true}))]
     .sort((a,b)=>(a.start?.dateTime||a.start?.date||'').localeCompare(b.start?.dateTime||b.start?.date||''));
   if(!all.length)return'<p class="no-ev">No events found.</p>';
-  const legend='<div class="legend"><span><span class="ldot" style="background:var(--accent)"></span>Mine</span><span><span class="ldot" style="background:#7eb8d4"></span>Ron\'s</span></div>';
-  return legend+all.map(e=>'<div class="ev-item"><div class="ev-dot'+(e.sp?' sp':'')+'"></div><div><div class="ev-title">'+(e.summary||'(No title)')+'</div><div class="ev-time">'+(e.start?.dateTime?fmtT(e.start.dateTime):'All day')+'</div>'+(showDate?'<div class="ev-time">'+fmtD(e.start?.dateTime||e.start?.date)+'</div>':'')+(e.sp?'<div class="ev-owner">Ron\'s calendar</div>':'')+'</div></div>').join('');
+  const legend='<div class="legend"><span><span class="ldot" style="background:var(--accent)"></span>Mine</span><span><span class="ldot" style="background:#7eb8d4"></span>Dorothy\'s</span></div>';
+  return legend+all.map(e=>'<div class="ev-item"><div class="ev-dot'+(e.sp?' sp':'')+'"></div><div><div class="ev-title">'+(e.summary||'(No title)')+'</div><div class="ev-time">'+(e.start?.dateTime?fmtT(e.start.dateTime):'All day')+'</div>'+(showDate?'<div class="ev-time">'+fmtD(e.start?.dateTime||e.start?.date)+'</div>':'')+(e.sp?'<div class="ev-owner">Dorothy\'s calendar</div>':'')+'</div></div>').join('');
 }
 async function calToday(){
   if(!needAuth())return;busy("Today's Calendar");
@@ -402,7 +453,7 @@ function addEventForm(){
     '<div class="fg"><label>Event Title</label><input type="text" id="ev-t" placeholder="e.g. Doctor appointment"></div>'+
     '<div class="fg"><label>Date &amp; Time</label><input type="datetime-local" id="ev-s" value="'+now+'"></div>'+
     '<div class="fg"><label>Duration</label><select id="ev-d"><option value="30">30 min</option><option value="60" selected>1 hour</option><option value="90">1.5 hours</option><option value="120">2 hours</option></select></div>'+
-    '<div class="fg"><label>Calendar</label><select id="ev-c"><option value="primary">Mine</option><option value="'+SPOUSE_CAL+'">Ron\'s</option></select></div>'+
+    '<div class="fg"><label>Calendar</label><select id="ev-c"><option value="primary">Mine</option><option value="'+SPOUSE_CAL+'">Dorothy\'s</option></select></div>'+
     '<button class="sub-btn" onclick="addEvent()">Add to Calendar</button><div id="ev-res" style="margin-top:12px"></div>');
 }
 async function addEvent(){
