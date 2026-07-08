@@ -327,13 +327,18 @@ async function wx3day(){
 async function fetchCal(calId,tMin,tMax){
   const p=new URLSearchParams({timeMin:tMin,timeMax:tMax,singleEvents:true,orderBy:'startTime',maxResults:20});
   const r=await fetch('https://www.googleapis.com/calendar/v3/calendars/'+encodeURIComponent(calId)+'/events?'+p,{headers:{Authorization:'Bearer '+tok}});
-  if(!r.ok)return[];return(await r.json()).items||[];
+  if(!r.ok)return null;return(await r.json()).items||[];
 }
 function renderCal(mine,spouse,showDate){
+  const spErr=spouse===null,mErr=mine===null;
+  mine=mine||[];spouse=spouse||[];
+  let warn='';
+  if(mErr)warn+='<p class="err" style="font-size:.8rem">⚠️ Could not read your calendar. Try signing out and back in.</p>';
+  if(spErr)warn+='<p class="err" style="font-size:.8rem">⚠️ Could not read Dorothy\'s calendar ('+SPOUSE_CAL+'). Her calendar may not be shared with the Google account you signed in with — check the sharing settings in her Google Calendar, and check which account you used to sign in here.</p>';
   const all=[...mine.map(e=>({...e,sp:false})),...spouse.map(e=>({...e,sp:true}))]
     .sort((a,b)=>(a.start?.dateTime||a.start?.date||'').localeCompare(b.start?.dateTime||b.start?.date||''));
-  if(!all.length)return'<p class="no-ev">No events found.</p>';
-  const legend='<div class="legend"><span><span class="ldot" style="background:var(--accent)"></span>Mine</span><span><span class="ldot" style="background:#7eb8d4"></span>Dorothy\'s</span></div>';
+  if(!all.length)return warn+'<p class="no-ev">No events found.</p>';
+  const legend=warn+'<div class="legend"><span><span class="ldot" style="background:var(--accent)"></span>Mine</span><span><span class="ldot" style="background:#7eb8d4"></span>Dorothy\'s</span></div>';
   return legend+all.map(e=>'<div class="ev-item"><div class="ev-dot'+(e.sp?' sp':'')+'"></div><div><div class="ev-title">'+(e.summary||'(No title)')+'</div><div class="ev-time">'+(e.start?.dateTime?fmtT(e.start.dateTime):'All day')+'</div>'+(showDate?'<div class="ev-time">'+fmtD(e.start?.dateTime||e.start?.date)+'</div>':'')+(e.sp?'<div class="ev-owner">Dorothy\'s calendar</div>':'')+'</div></div>').join('');
 }
 async function calToday(){
