@@ -28,6 +28,8 @@ header p{color:var(--text-muted);font-size:.85rem;margin-top:6px;letter-spacing:
 .news-dot{color:var(--accent);flex-shrink:0;font-weight:bold}
 .news-dot::before{content:'→ ';margin-right:4px}
 .status{color:var(--text-muted);font-size:.82rem;font-style:italic;display:flex;align-items:center;gap:8px}
+.feed-health{font-size:.72rem;color:var(--text-muted);padding-bottom:8px}
+.feed-health.warn{color:#e67e22}
 .spinner{width:16px;height:16px;border:2px solid var(--border);border-top-color:var(--accent);border-radius:50%;animation:spin .8s linear infinite;flex-shrink:0}
 @keyframes spin{to{transform:rotate(360deg)}}
 .btn-grid{display:grid;grid-template-columns:1fr 1fr;gap:14px;max-width:560px;margin:0 auto 24px}
@@ -197,7 +199,7 @@ async function getRSS(url,n){
 }
 async function loadBriefing(force){
   const el=document.getElementById('brief-body'),ts=document.getElementById('brief-ts'),btn=document.getElementById('brief-btn');
-  const ck='dorothy_brief_v2_'+dayKey();
+  const ck='dorothy_brief_v3_'+dayKey();
   if(!force){
     try{const c=localStorage.getItem(ck);if(c){el.innerHTML=c;ts.textContent='Cached for today · click Refresh for the latest';btn.textContent='Refresh';return;}}catch(e){}
   }
@@ -232,7 +234,12 @@ async function loadBriefing(force){
       return href?'<a class="news-item" href="'+href+'" target="_blank" rel="noopener noreferrer">'+inner+'</a>':'<div class="news-item">'+inner+'</div>';
     }).join('')+'</div>';
   }
-  const html=sec('Politics',dedupe([...fox,...rcp,...hill]).slice(0,8))+
+  const feedList=[['Fox News',fox],['Real Clear Politics',rcp],['The Hill',hill],['Ars Technica',ars],['The Verge',vg],['BBC World',bbcW],['BBC News',bbcT],['NY Times',nyt],['ARTNews',artnews],['Hyperallergic',hyperallergic],['Contemporary Art Daily',contempart],['Booooooom',booooooom]];
+  const failedFeeds=feedList.filter(f=>!f[1].length).map(f=>f[0]);
+  const health=failedFeeds.length
+    ?'<div class="feed-health warn">⚠️ '+(feedList.length-failedFeeds.length)+' of '+feedList.length+' feeds loaded — no response from: '+failedFeeds.join(', ')+' (try Refresh)</div>'
+    :'<div class="feed-health">✓ All '+feedList.length+' feeds loaded</div>';
+  const html=health+sec('Politics',dedupe([...fox,...rcp,...hill]).slice(0,8))+
              sec('International',dedupe([...bbcW,...bbcT]).slice(0,8))+
              sec('Tech',dedupe([...ars,...vg]).slice(0,6))+
              sec('Light Reading',dedupe(nyt))+
