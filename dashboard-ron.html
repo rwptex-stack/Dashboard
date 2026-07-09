@@ -435,10 +435,12 @@ async function updateEmailBadge(){
   if(!b)return;
   if(!tok){b.style.display='none';return;}
   try{
-    const r=await fetch('https://www.googleapis.com/gmail/v1/users/me/labels/INBOX',{headers:{Authorization:'Bearer '+tok}});
+    const ago=Math.floor((Date.now()-30*24*60*60*1000)/1000);
+    const r=await fetch('https://www.googleapis.com/gmail/v1/users/me/messages?maxResults=100&labelIds=INBOX&labelIds=UNREAD&q=after:'+ago,{headers:{Authorization:'Bearer '+tok}});
     if(!r.ok)return;
-    const n=(await r.json()).messagesUnread||0;
-    if(n>0){b.textContent=n>99?'99+':n;b.style.display='inline-flex';}
+    const d=await r.json();
+    const n=(d.messages||[]).length;
+    if(n>0){b.textContent=(d.nextPageToken||n>99)?'99+':n;b.style.display='inline-flex';}
     else{b.style.display='none';}
   }catch(e){}
 }
