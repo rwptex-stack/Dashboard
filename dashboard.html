@@ -32,8 +32,12 @@ header p{color:var(--text-muted);font-size:.85rem;margin-top:6px;letter-spacing:
 .feed-health.warn{color:#e67e22}
 .spinner{width:16px;height:16px;border:2px solid var(--border);border-top-color:var(--accent);border-radius:50%;animation:spin .8s linear infinite;flex-shrink:0}
 @keyframes spin{to{transform:rotate(360deg)}}
-.btn-grid{display:grid;grid-template-columns:1fr 1fr;gap:14px;max-width:560px;margin:0 auto 24px}
-.btn{background:var(--surface);border:1px solid var(--border);color:var(--text);font-family:'DM Sans',sans-serif;font-size:.9rem;font-weight:500;padding:18px 16px;border-radius:10px;cursor:pointer;transition:all .2s;display:flex;flex-direction:column;align-items:center;gap:8px}
+.btn-grid{display:grid;grid-template-columns:repeat(12,1fr);gap:14px;max-width:560px;margin:0 auto 24px}
+.c3{grid-column:span 3}.c4{grid-column:span 4}.c5{grid-column:span 5}.c6{grid-column:span 6}
+.btn.sm{padding:12px 8px;font-size:.8rem}
+.btn.sm .icon{font-size:1.2rem}
+.badge{position:absolute;top:8px;right:10px;background:var(--danger);color:#fff;border-radius:9px;font-size:.68rem;font-weight:600;min-width:18px;height:18px;display:none;align-items:center;justify-content:center;padding:0 5px;line-height:1}
+.btn{position:relative;background:var(--surface);border:1px solid var(--border);color:var(--text);font-family:'DM Sans',sans-serif;font-size:.9rem;font-weight:500;padding:18px 16px;border-radius:10px;cursor:pointer;transition:all .2s;display:flex;flex-direction:column;align-items:center;gap:8px}
 .btn:hover{background:var(--surface2);border-color:var(--accent);color:var(--accent)}
 .btn .icon{font-size:1.5rem}
 .btn.wide{grid-column:span 2}
@@ -100,13 +104,13 @@ header p{color:var(--text-muted);font-size:.85rem;margin-top:6px;letter-spacing:
 </div>
 
 <div class="btn-grid">
-  <button class="btn" onclick="calToday()"><span class="icon">📅</span>Today's Calendar</button>
-  <button class="btn" onclick="calWeek()"><span class="icon">🗓️</span>This Week</button>
-  <button class="btn" onclick="checkEmail()"><span class="icon">📬</span>Check Emails</button>
-  <button class="btn" onclick="addEventForm()"><span class="icon">➕</span>Add Event</button>
-  <button class="btn" onclick="wxToday()"><span class="icon">🌤️</span>Today's Weather</button>
-  <button class="btn" onclick="wx3day()"><span class="icon">🌦️</span>3-Day Forecast</button>
-  <button class="btn wide" onclick="composeEmail()"><span class="icon">✉️</span>Create Email</button>
+  <button class="btn c5" onclick="calToday()"><span class="icon">📅</span>Today's Calendar</button>
+  <button class="btn c4" onclick="calWeek()"><span class="icon">🗓️</span>This Week</button>
+  <button class="btn c3 sm" onclick="addEventForm()"><span class="icon">➕</span>Add Event</button>
+  <button class="btn c6" onclick="checkEmail()"><span class="icon">📬</span>Check Emails<span class="badge" id="em-badge"></span></button>
+  <button class="btn c6" onclick="composeEmail()"><span class="icon">✉️</span>Create Email</button>
+  <button class="btn c6" onclick="wxToday()"><span class="icon">🌤️</span>Today's Weather</button>
+  <button class="btn c6" onclick="wx3day()"><span class="icon">🌦️</span>3-Day Forecast</button>
 </div>
 
 <div class="out-box" id="out">
@@ -131,6 +135,7 @@ function setUI(email){
   document.getElementById('auth-status-text').className='signed-in';
   document.getElementById('sign-in-btn').style.display='none';
   document.getElementById('sign-out-btn').style.display='inline-block';
+  updateEmailBadge();
 }
 function signOut(){
   document.getElementById('auth-status-text').textContent='Not signed in';
@@ -138,6 +143,7 @@ function signOut(){
   document.getElementById('sign-in-btn').style.display='inline-block';
   document.getElementById('sign-out-btn').style.display='none';
   tok=null;clearTok();document.getElementById('out').classList.remove('visible');
+  updateEmailBadge();
 }
 function initGoogle(){
   tc=google.accounts.oauth2.initTokenClient({
@@ -373,6 +379,19 @@ function emailCard(e){
     '<div class="em-body" id="body-'+e.id+'"></div>'+
     '<div class="reply-form" id="reply-'+e.id+'"><div style="font-size:.78rem;color:var(--text-muted);margin-bottom:8px">To: '+e.replyEmail+'</div><textarea placeholder="Type your reply..."></textarea><button class="send-btn" onclick="sendReply(\''+e.id+'\',\''+e.replyEmail+'\',`'+e.subject.replace(/`/g,"'")+`\`,this)">Send</button><div id="rs-`+e.id+'" style="margin-top:6px;font-size:.78rem"></div></div></div>';
 }
+async function updateEmailBadge(){
+  const b=document.getElementById('em-badge');
+  if(!b)return;
+  if(!tok){b.style.display='none';return;}
+  try{
+    const r=await fetch('https://www.googleapis.com/gmail/v1/users/me/labels/INBOX',{headers:{Authorization:'Bearer '+tok}});
+    if(!r.ok)return;
+    const n=(await r.json()).messagesUnread||0;
+    if(n>0){b.textContent=n>99?'99+':n;b.style.display='inline-flex';}
+    else{b.style.display='none';}
+  }catch(e){}
+}
+setInterval(updateEmailBadge,5*60*1000);
 async function checkEmail(){
   if(!needAuth())return;
   busy('Check Emails','Fetching unread emails...');
@@ -383,6 +402,7 @@ async function checkEmail(){
     const msgs=await Promise.all(d.messages.map(m=>fetch('https://www.googleapis.com/gmail/v1/users/me/messages/'+m.id+'?format=metadata&metadataHeaders=From&metadataHeaders=Subject&metadataHeaders=Date&metadataHeaders=Reply-To',{headers:{Authorization:'Bearer '+tok}}).then(r=>r.json())));
     const parsed=msgs.map(parseMeta);
     showOut('Check Emails — '+parsed.length+' Unread',parsed.map(emailCard).join(''));
+    updateEmailBadge();
   }catch(e){showOut('Emails','<p class="err">Error: '+e.message+'</p>');}
 }
 function composeEmail(){
