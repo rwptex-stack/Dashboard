@@ -159,7 +159,7 @@ function needAuth(){if(!tok){showOut('Sign In Required','<p class="err">Please s
 function showOut(t,h){document.getElementById('out-title').textContent=t;document.getElementById('out-body').innerHTML=h;document.getElementById('out').classList.add('visible');document.getElementById('out').scrollIntoView({behavior:'smooth'})}
 function busy(t,m){showOut(t,'<div class="loading"><div class="spinner"></div>'+(m||'Loading...')+'</div>')}
 function fmtT(dt){return dt?new Date(dt).toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit',hour12:true}):'All day'}
-function fmtD(dt){return dt?new Date(dt).toLocaleDateString('en-US',{weekday:'short',month:'short',day:'numeric'}):''}
+function fmtD(dt){if(!dt)return'';const d=/^\d{4}-\d{2}-\d{2}$/.test(dt)?new Date(dt+'T00:00:00'):new Date(dt);return d.toLocaleDateString('en-US',{weekday:'short',month:'short',day:'numeric'})}
 function dayKey(){const d=new Date();return d.getFullYear()+'-'+(d.getMonth()+1)+'-'+d.getDate()}
 
 function tFetch(url,ms){
