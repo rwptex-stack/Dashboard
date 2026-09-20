@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-20T18:38:23.307Z",
+  "fetchedAt": "2026-09-20T21:23:07.553Z",
   "feeds": {
     "MarketWatch": {
       "items": [
@@ -29,37 +29,37 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T18:38:22.033Z"
+      "updatedAt": "2026-09-20T21:23:06.272Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Scary scene as Jayden Reed carted off on spine board during Packers game against the Jets",
-          "link": "https://www.foxnews.com/outkick-sports/scary-scene-jayden-reed-carted-off-spine-board-packers-game-jets"
+          "title": "Jalen Hurts saves Eagles from ugly upset as Philadelphia escapes Titans to remain unbeaten",
+          "link": "https://www.foxnews.com/outkick-sports/jalen-hurts-saves-eagles-ugly-upset-philadelphia-escapes-titans-remain-unbeaten"
         },
         {
-          "title": "1619 Project founder regrets school choice for her daughter, admits putting ideals ahead of her education",
-          "link": "https://www.foxnews.com/media/1619-project-founder-regrets-school-choice-her-daughter-admits-putting-ideals-ahead-her-education"
+          "title": "McDonald’s once sold beloved cookies featuring forgotten characters from the chain's past",
+          "link": "https://www.foxnews.com/food-drink/mcdonalds-sold-beloved-cookies-featuring-forgotten-characters-chains-past"
         },
         {
-          "title": "Kevin Costner sparks romance rumors after grocery run with lifestyle coach",
-          "link": "https://www.foxnews.com/entertainment/kevin-costner-sparks-romance-rumors-after-grocery-run-lifestyle-coach"
+          "title": "Keenan Allen faces NFL suspension after blood alcohol level nearly triple the legal limit: report",
+          "link": "https://www.foxnews.com/outkick-sports/keenan-allen-faces-nfl-suspension-blood-alcohol-level-nearly-triple-legal-limit-report"
         },
         {
-          "title": "DHS chief fires back at Jayapal over claim majority of immigration arrests pose 'no threat'",
-          "link": "https://www.foxnews.com/media/dhs-chief-fires-back-jayapal-over-claim-majority-immigration-arrests-pose-no-threat"
+          "title": "Massage clients report bizarre flu-like reaction after popular spa treatment",
+          "link": "https://www.foxnews.com/health/massage-clients-report-bizarre-flu-like-reaction-after-popular-spa-treatment"
         },
         {
-          "title": "Nicki Minaj offers career advice to young Americans, delivers blunt response to Trump critics",
-          "link": "https://www.foxnews.com/media/nicki-minaj-offers-career-advice-young-americans-delivers-blunt-response-trump-critics"
+          "title": "ICE shooting rocks Austin as Democrat demands bodycam video, independent probe",
+          "link": "https://www.foxnews.com/us/ice-shooting-rocks-austin-democrat-demands-bodycam-video-independent-probe"
         },
         {
-          "title": "Scammers are buying Google ads to steal bank logins",
-          "link": "https://www.foxnews.com/tech/scammers-buying-google-ads-steal-bank-logins"
+          "title": "Trump, Iranian president converge on NYC for ‘dramatic’ UN showdown as Tehran faces tight restrictions",
+          "link": "https://www.foxnews.com/world/trump-iranian-president-converge-nyc-dramatic-un-showdown-tehran-faces-tight-restrictions"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T18:38:22.147Z"
+      "updatedAt": "2026-09-20T21:23:06.369Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -89,33 +89,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T18:38:22.254Z"
+      "updatedAt": "2026-09-20T21:23:06.442Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "What is the AI singularity? Some experts say it's closer than ever",
-          "link": "https://thehill.com/policy/technology/6100478-ai-singularity-predictions/"
+          "title": "Zelensky to meet with Trump in New York this week",
+          "link": "https://thehill.com/policy/international/6100733-trump-zelensky-nyc-meeting/"
         },
         {
-          "title": "Florida Republican says Trump 'has his own style' in handling reporters covering the White House",
-          "link": "https://thehill.com/homenews/house/6100450-salazar-defends-trump-media-ban/"
+          "title": "DDHQ director says Mike Rogers's time is 'running out'",
+          "link": "https://thehill.com/homenews/campaign/6100643-michigan-senate-race-forecast/"
         },
         {
-          "title": "The only solution to our $40 trillion debt problem is a value-added tax",
-          "link": "https://thehill.com/opinion/finance/6099509-us-debt-vat-solution/"
+          "title": "Florida Republican calls interim Venezuelan president 'necessary evil'",
+          "link": "https://thehill.com/homenews/house/6100642-salazar-delcy-rodriguez-necessary-evil/"
         },
         {
-          "title": "Khanna calls for a government agency to oversee AI 'like the FDA'",
-          "link": "https://thehill.com/policy/technology/6100322-khanna-proposes-ai-regulatory-agency/"
+          "title": "Hassett on Iran war: 'The president had to act'",
+          "link": "https://thehill.com/homenews/administration/6100592-hassett-defends-trump-iran-war/"
         },
         {
-          "title": "AI learned to sing in Spanish. Latin artists need to get paid.",
-          "link": "https://thehill.com/opinion/technology/6093887-latin-music-ai-threat/"
+          "title": "Trump, Mamdani to meet in New York on Monday",
+          "link": "https://thehill.com/homenews/administration/6100625-trump-mamdani-gracie-mansion-meeting/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T18:38:22.642Z"
+      "updatedAt": "2026-09-20T21:23:06.673Z"
     },
     "Ars Technica": {
       "items": [
@@ -141,10 +141,18 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T18:38:22.846Z"
+      "updatedAt": "2026-09-20T21:23:06.766Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "No Dogs in Space is back to feed your need for obsessive music history",
+          "link": "https://www.theverge.com/report/997948/no-dogs-in-space-is-back-punk-2-0-music-history-podcast"
+        },
+        {
+          "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown"
+        },
         {
           "title": "Kojima Productions disputes reports the studio is in trouble",
           "link": "https://www.theverge.com/games/997880/hideo-kojima-productions-physint-xbox-sony-playstation"
@@ -156,18 +164,10 @@
         {
           "title": "A24’s reputation is on the line with the SCP Foundation movie",
           "link": "https://www.theverge.com/entertainment/997853/a24-scp-movie-creative-commons-license"
-        },
-        {
-          "title": "A great new video game movie",
-          "link": "https://www.theverge.com/tech/997322/resident-evil-steam-frame-fire-emblem-fortunes-weave"
-        },
-        {
-          "title": "The hidden monopoly behind your TI graphing calculator",
-          "link": "https://www.theverge.com/podcast/997725/the-hidden-monopoly-behind-your-ti-graphing-calculator"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T18:38:22.909Z"
+      "updatedAt": "2026-09-20T21:23:07.157Z"
     },
     "BBC World": {
       "items": [
@@ -188,20 +188,20 @@
           "link": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss"
         },
         {
+          "title": "Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece",
+          "link": "https://www.bbc.co.uk/news/articles/cqm27pnyd294o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Sister of Pakistan's ex-PM Imran Khan arrested",
+          "link": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Houthis say they targeted Saudi capital with ballistic missiles",
           "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Converse pulls 'deeply upsetting' advert after backlash",
-          "link": "https://www.bbc.co.uk/news/articles/crwyzj53pl1lo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
-          "link": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T18:38:23.134Z"
+      "updatedAt": "2026-09-20T21:23:07.403Z"
     },
     "BBC News": {
       "items": [
@@ -226,12 +226,12 @@
           "link": "https://www.bbc.co.uk/news/articles/c8207255rq5lo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
-          "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss"
+          "title": "Sister of Pakistan's ex-PM Imran Khan arrested",
+          "link": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T18:38:23.140Z"
+      "updatedAt": "2026-09-20T21:23:07.427Z"
     },
     "NY Times": {
       "items": [
@@ -240,8 +240,8 @@
           "link": "https://www.nytimes.com/2026/09/20/us/politics/trump-kennedy-center.html"
         },
         {
-          "title": "Trump Faced Loss After Loss. He Then Turned to a Familiar Target: The Press.",
-          "link": "https://www.nytimes.com/2026/09/19/us/politics/trump-cnn-msnow-press-ban.html"
+          "title": "White House Moves to Take Control of N.I.H. Grants",
+          "link": "https://www.nytimes.com/2026/09/20/science/nih-omb-grants-bhattacharya-vought.html"
         },
         {
           "title": "Markwayne Mullin Lost His Pick to Lead ICE, as He Struggles to Prove His Toughness on Immigration",
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T18:38:23.189Z"
+      "updatedAt": "2026-09-20T21:23:07.459Z"
     }
   },
   "indices": {
@@ -284,8 +284,8 @@
       },
       {
         "name": "Bitcoin",
-        "price": 81188.47,
-        "pct": 6.616058868826808
+        "price": 80800.89,
+        "pct": 6.107091867768897
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-09-20T18:38:23.307Z"
+    "updatedAt": "2026-09-20T21:23:07.553Z"
   }
 }
