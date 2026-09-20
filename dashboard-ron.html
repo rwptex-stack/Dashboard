@@ -207,7 +207,7 @@ async function getRSS(url,n){
   const[r1,r2]=await Promise.all([
     tFetch('https://corsproxy.io/?'+encodeURIComponent(url),14000)
       .then(r=>r.ok?r.text().then(parseXML):[]).catch(()=>[]),
-    tFetch('https://api.rss2json.com/v1/api.json?rss_url='+encodeURIComponent(url)+'&count='+n,14000)
+    tFetch('https://api.rss2json.com/v1/api.json?rss_url='+encodeURIComponent(url),14000)
       .then(r=>r.json()).then(d=>(d.items||[]).map(i=>({title:i.title,link:i.link||''})).filter(o=>o.title)).catch(()=>[])
   ]);
   return(r1.length?r1:r2).slice(0,n);
