@@ -189,94 +189,30 @@ function dedupe(arr){
   for(const o of arr){if(o&&o.title&&!seen.has(o.title)){seen.add(o.title);out.push(o);}}
   return out;
 }
-async function getRSS(url,n){
-  n=n||6;
-  function parseXML(txt){
-    try{
-      const xml=new DOMParser().parseFromString(txt,'text/xml');
-      return[...xml.querySelectorAll('item,entry')].slice(0,n)
-        .map(i=>{
-          const title=i.querySelector('title')?.textContent?.replace(/<!\[CDATA\[|\]\]>/g,'').trim();
-          const linkEl=i.querySelector('link');
-          const link=(linkEl?.getAttribute('href'))||(linkEl?.textContent?.trim())||'';
-          return{title,link};
-        })
-        .filter(o=>o.title&&o.title.length>5);
-    }catch(e){return[];}
-  }
-  const[r1,r2]=await Promise.all([
-    tFetch('https://corsproxy.io/?'+encodeURIComponent(url),14000)
-      .then(r=>r.ok?r.text().then(parseXML):[]).catch(()=>[]),
-    tFetch('https://api.rss2json.com/v1/api.json?rss_url='+encodeURIComponent(url),14000)
-      .then(r=>r.json()).then(d=>(d.items||[]).map(i=>({title:i.title,link:i.link||''})).filter(o=>o.title)).catch(()=>[])
-  ]);
-  return(r1.length?r1:r2).slice(0,n);
-}
-async function fetchIndex(sym,name){
-  const url='https://query1.finance.yahoo.com/v8/finance/chart/'+sym+'?interval=1d&range=5d';
-  const proxies=[
-    'https://corsproxy.io/?'+encodeURIComponent(url),
-    'https://api.allorigins.win/raw?url='+encodeURIComponent(url)
-  ];
-  for(const p of proxies){
-    try{
-      const r=await tFetch(p,14000);
-      if(!r.ok)continue;
-      const d=await r.json();
-      const meta=d?.chart?.result?.[0]?.meta;
-      const price=meta?.regularMarketPrice,prev=meta?.chartPreviousClose;
-      if(isFinite(price)&&isFinite(prev)&&prev!==0)return{name,price,pct:(price-prev)/prev*100};
-    }catch(e){}
-  }
-  return null;
-}
-const IDX_CACHE_KEY='ron_idx_cache';
-async function getIndices(){
-  const syms=[['^GSPC','S&amp;P 500'],['^DJI','Dow Jones'],['^IXIC','Nasdaq'],['GC=F','Gold'],['BTC-USD','Bitcoin'],['SPCX','SpaceX']];
-  const results=await Promise.all(syms.map(([sym,name])=>fetchIndex(sym,name)));
-  const fresh=results.filter(Boolean);
-  if(fresh.length){
-    try{localStorage.setItem(IDX_CACHE_KEY,JSON.stringify({data:fresh,ts:Date.now()}));}catch(e){}
-    return{data:fresh,stale:false};
-  }
-  try{
-    const cached=JSON.parse(localStorage.getItem(IDX_CACHE_KEY)||'null');
-    if(cached&&cached.data&&cached.data.length)return{data:cached.data,stale:true,ts:cached.ts};
-  }catch(e){}
-  return{data:[],stale:false};
-}
-function idxBlock(result){
-  if(!result||!result.data||!result.data.length)return'';
-  const rows=result.data.map(i=>{
+function idxBlock(indices){
+  if(!indices||!indices.data||!indices.data.length)return'';
+  const rows=indices.data.map(i=>{
     const up=i.pct>=0,cls=up?'up':'down',arrow=up?'▲':'▼';
     return'<div class="idx-row"><span class="idx-name">'+i.name+'</span><span><span class="idx-price">'+i.price.toLocaleString('en-US',{maximumFractionDigits:2})+'</span><span class="idx-chg '+cls+'">'+arrow+' '+(up?'+':'')+i.pct.toFixed(2)+'%</span></span></div>';
   }).join('');
-  const note=result.stale?'<div class="status" style="padding:0 0 4px;font-size:.7rem">Live fetch failed — showing last known values from '+new Date(result.ts).toLocaleString('en-US',{month:'short',day:'numeric',hour:'numeric',minute:'2-digit'})+'</div>':'';
+  const note=(!indices.ok&&indices.updatedAt)?'<div class="status" style="padding:0 0 4px;font-size:.7rem">Last updated '+new Date(indices.updatedAt).toLocaleString('en-US',{month:'short',day:'numeric',hour:'numeric',minute:'2-digit'})+'</div>':'';
   return'<div class="idx-block">'+note+rows+'</div>';
 }
 async function loadBriefing(force){
   const el=document.getElementById('brief-body'),ts=document.getElementById('brief-ts'),btn=document.getElementById('brief-btn');
-  const ck='ron_brief_v3_'+dayKey();
+  const ck='ron_brief_v4_'+dayKey();
   if(!force){
-    try{const c=localStorage.getItem(ck);if(c){el.innerHTML=c;ts.textContent='Cached for today · click Refresh for the latest';btn.textContent='Refresh';return;}}catch(e){}
+    try{const c=localStorage.getItem(ck);if(c){el.innerHTML=c;ts.textContent='Cached for today · click Refresh to check for newer';btn.textContent='Refresh';return;}}catch(e){}
   }
   btn.disabled=true;btn.textContent='Loading...';
-  el.innerHTML='<div class="status"><div class="spinner"></div>Fetching headlines from 9 feeds + market data...</div>';
-  const[mw,fox,rcp,hill,ars,vg,bbcW,bbcT,nyt,indices]=await Promise.all([
-    getRSS('https://feeds.marketwatch.com/marketwatch/topstories/',6),
-    getRSS('https://feeds.foxnews.com/foxnews/latest',6),
-    getRSS('https://www.realclearpolitics.com/index.xml',6),
-    getRSS('https://thehill.com/rss/syndicator/19110',5),
-    getRSS('https://feeds.arstechnica.com/arstechnica/index',5),
-    getRSS('https://www.theverge.com/rss/index.xml',5),
-    getRSS('https://feeds.bbci.co.uk/news/world/rss.xml',7),
-    getRSS('https://feeds.bbci.co.uk/news/rss.xml',6),
-    getRSS('https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml',5),
-    getIndices()
-  ]);
-  const totalItems=mw.length+fox.length+rcp.length+hill.length+ars.length+vg.length+bbcW.length+bbcT.length+nyt.length;
-  if(totalItems===0){
-    el.innerHTML='<div class="status"><span class="err">Could not fetch headlines right now.</span> <button class="small-btn" onclick="loadBriefing(true)">Retry</button></div>';
+  el.innerHTML='<div class="status"><div class="spinner"></div>Loading briefing...</div>';
+  let data;
+  try{
+    const r=await tFetch('briefing-ron.json?t='+Date.now(),14000);
+    if(!r.ok)throw new Error('bad status');
+    data=await r.json();
+  }catch(e){
+    el.innerHTML='<div class="status"><span class="err">Could not load briefing data right now.</span> <button class="small-btn" onclick="loadBriefing(true)">Retry</button></div>';
     ts.textContent='';
     btn.disabled=false;btn.textContent='Refresh';
     return;
@@ -289,23 +225,30 @@ async function loadBriefing(force){
       return href?'<a class="news-item" href="'+href+'" target="_blank" rel="noopener noreferrer">'+inner+'</a>':'<div class="news-item">'+inner+'</div>';
     }).join('')+'</div>';
   }
-  const feedList=[['MarketWatch',mw],['Fox News',fox],['Real Clear Politics',rcp],['The Hill',hill],['Ars Technica',ars],['The Verge',vg],['BBC World',bbcW],['BBC News',bbcT],['NY Times',nyt]];
-  const failedFeeds=feedList.filter(f=>!f[1].length).map(f=>f[0]);
-  const health=failedFeeds.length
-    ?'<div class="feed-health warn">⚠️ '+(feedList.length-failedFeeds.length)+' of '+feedList.length+' feeds loaded — no response from: '+failedFeeds.join(', ')+' (try Refresh)</div>'
-    :'<div class="feed-health">✓ All '+feedList.length+' feeds loaded</div>';
-  const mwItems=dedupe(mw).slice(0,6),idxHtml=idxBlock(indices);
-  const marketsExtra=idxHtml||(mwItems.length?'':'<div class="status" style="padding:2px 0 6px">No market data available right now — try Refresh.</div>');
+  const F=data.feeds||{};
+  const get=name=>(F[name]&&F[name].items)||[];
+  const feedNames=['MarketWatch','Fox News','Real Clear Politics','The Hill','Ars Technica','The Verge','BBC World','BBC News','NY Times'];
+  const isCurrent=n=>F[n]&&F[n].ok&&F[n].items&&F[n].items.length;
+  const notCurrent=feedNames.filter(n=>!isCurrent(n));
+  const currentCount=feedNames.length-notCurrent.length;
+  const health=notCurrent.length
+    ?'<div class="feed-health warn">⚠️ '+currentCount+' of '+feedNames.length+' feeds current — showing last known for: '+notCurrent.join(', ')+'</div>'
+    :'<div class="feed-health">✓ All '+feedNames.length+' feeds current</div>';
+  const mw=get('MarketWatch'),fox=get('Fox News'),rcp=get('Real Clear Politics'),hill=get('The Hill'),ars=get('Ars Technica'),vg=get('The Verge'),bbcW=get('BBC World'),bbcT=get('BBC News'),nyt=get('NY Times');
+  const mwItems=dedupe(mw).slice(0,6),idxHtml=idxBlock(data.indices);
+  const marketsExtra=idxHtml||(mwItems.length?'':'<div class="status" style="padding:2px 0 6px">No market data available right now.</div>');
   const html=health+sec('Markets &amp; Economy',mwItems,'',marketsExtra)+
              sec('Politics',dedupe([...fox,...rcp,...hill]).slice(0,8))+
              sec('International',dedupe([...bbcW,...bbcT]).slice(0,8))+
              sec('Tech',dedupe([...ars,...vg]).slice(0,6))+
              sec('Light Reading',dedupe(nyt),'');
   el.innerHTML=html;
-  ts.textContent='Loaded '+new Date().toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit'})+' · '+new Date().toLocaleDateString('en-US',{weekday:'long',month:'long',day:'numeric'});
+  const fetchedAt=data.fetchedAt?new Date(data.fetchedAt):null;
+  ts.textContent=fetchedAt?('Data refreshed '+fetchedAt.toLocaleString('en-US',{month:'short',day:'numeric',hour:'numeric',minute:'2-digit'})+' · updates hourly'):'';
   try{Object.keys(localStorage).filter(k=>k.startsWith('ron_brief_')&&k!==ck).forEach(k=>localStorage.removeItem(k));localStorage.setItem(ck,html);}catch(e){}
   btn.disabled=false;btn.textContent='Refresh';
 }
+
 
 function wxIcon(c){return c<=1?'☀️':c<=3?'⛅':c<=48?'🌫️':c<=67?'🌧️':c<=77?'❄️':c<=82?'🌦️':'⛈️'}
 function wxDesc(c){return c===0?'Clear sky':c===1?'Mainly clear':c===2?'Partly cloudy':c===3?'Overcast':c<=48?'Foggy':c<=55?'Drizzle':c<=67?'Rain':c<=77?'Snow':c<=82?'Rain showers':'Thunderstorm'}
