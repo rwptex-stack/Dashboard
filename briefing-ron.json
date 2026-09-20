@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-20T15:54:14.162Z",
+  "fetchedAt": "2026-09-20T16:03:33.187Z",
   "feeds": {
     "MarketWatch": {
       "items": [
@@ -29,7 +29,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T15:54:12.781Z"
+      "updatedAt": "2026-09-20T16:03:31.218Z"
     },
     "Fox News": {
       "items": [
@@ -59,7 +59,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T15:54:12.961Z"
+      "updatedAt": "2026-09-20T16:03:31.528Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -89,7 +89,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T15:54:13.257Z"
+      "updatedAt": "2026-09-20T16:03:31.766Z"
     },
     "The Hill": {
       "items": [
@@ -115,7 +115,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T15:54:13.587Z"
+      "updatedAt": "2026-09-20T16:03:32.333Z"
     },
     "Ars Technica": {
       "items": [
@@ -141,7 +141,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T15:54:13.679Z"
+      "updatedAt": "2026-09-20T16:03:32.510Z"
     },
     "The Verge": {
       "items": [
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T15:54:13.749Z"
+      "updatedAt": "2026-09-20T16:03:32.677Z"
     },
     "BBC World": {
       "items": [
@@ -201,7 +201,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T15:54:13.880Z"
+      "updatedAt": "2026-09-20T16:03:32.779Z"
     },
     "BBC News": {
       "items": [
@@ -231,7 +231,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T15:54:13.898Z"
+      "updatedAt": "2026-09-20T16:03:32.816Z"
     },
     "NY Times": {
       "items": [
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T15:54:14.010Z"
+      "updatedAt": "2026-09-20T16:03:32.952Z"
     }
   },
   "indices": {
@@ -284,8 +284,8 @@
       },
       {
         "name": "Bitcoin",
-        "price": 80879.99,
-        "pct": 6.210965364295249
+        "price": 80822.04,
+        "pct": 6.134865881062596
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-09-20T15:54:14.162Z"
+    "updatedAt": "2026-09-20T16:03:33.187Z"
   }
 }
