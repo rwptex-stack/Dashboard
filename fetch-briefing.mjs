@@ -84,4 +84,4 @@ async function main() {
   console.log('Wrote', OUT_FILE + '.', failedFeeds.length ? 'Failed feeds: ' + failedFeeds.join(', ') : 'All feeds OK.', 'Indices ok:', indices.ok);
 }
 
-main().catch(e => { console.error(e); process.exit(1); });
+main().then(() => process.exit(0)).catch(e => { console.error(e); process.exit(1); });
