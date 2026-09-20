@@ -1,8 +1,16 @@
 {
-  "fetchedAt": "2026-09-20T16:03:33.187Z",
+  "fetchedAt": "2026-09-20T18:38:23.307Z",
   "feeds": {
     "MarketWatch": {
       "items": [
+        {
+          "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
+          "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories"
+        },
+        {
+          "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
+          "link": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories"
+        },
         {
           "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
           "link": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories"
@@ -18,104 +26,96 @@
         {
           "title": "China is chasing SpaceX and setting its sights on the global space economy",
           "link": "https://www.marketwatch.com/story/china-is-chasing-spacex-and-setting-its-sights-on-the-global-space-economy-3b9e37ff?mod=mw_rss_topstories"
-        },
-        {
-          "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
-          "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Record diesel prices are exposing pain points in the stock market and economy",
-          "link": "https://www.marketwatch.com/story/record-diesel-prices-are-exposing-pain-points-in-the-stock-market-and-economy-a2079b04?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T16:03:31.218Z"
+      "updatedAt": "2026-09-20T18:38:22.033Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Rutgers' Greg Schiano crashes out on official after costly penalty in tough loss to USC",
-          "link": "https://www.foxnews.com/outkick-sports/rutgers-greg-schiano-crashes-out-official-costly-penalty-tough-loss-usc"
+          "title": "Scary scene as Jayden Reed carted off on spine board during Packers game against the Jets",
+          "link": "https://www.foxnews.com/outkick-sports/scary-scene-jayden-reed-carted-off-spine-board-packers-game-jets"
         },
         {
-          "title": "Mississippi gov trolls Lane Kiffin, LSU after Ole Miss defeats Tigers in coach's return to Oxford",
-          "link": "https://www.foxnews.com/outkick-sports/mississippi-gov-trolls-lane-kiffin-lsu-ole-miss-defeats-tigers-coachs-return-oxford"
+          "title": "1619 Project founder regrets school choice for her daughter, admits putting ideals ahead of her education",
+          "link": "https://www.foxnews.com/media/1619-project-founder-regrets-school-choice-her-daughter-admits-putting-ideals-ahead-her-education"
         },
         {
-          "title": "Trump says new arch will also deploy drones, position snipers and store ammo",
-          "link": "https://www.foxnews.com/politics/trump-says-new-arch-will-also-deploy-drones-position-snipers-store-ammo"
+          "title": "Kevin Costner sparks romance rumors after grocery run with lifestyle coach",
+          "link": "https://www.foxnews.com/entertainment/kevin-costner-sparks-romance-rumors-after-grocery-run-lifestyle-coach"
         },
         {
-          "title": "Waltz delivers blunt warning to nations defying Iran sanctions, touts Greenland deal",
-          "link": "https://www.foxnews.com/world/waltz-delivers-blunt-warning-nations-defying-iran-sanctions-touts-greenland-deal"
+          "title": "DHS chief fires back at Jayapal over claim majority of immigration arrests pose 'no threat'",
+          "link": "https://www.foxnews.com/media/dhs-chief-fires-back-jayapal-over-claim-majority-immigration-arrests-pose-no-threat"
         },
         {
-          "title": "Electric Mercedes motorhome targets 621-mile range",
-          "link": "https://www.foxnews.com/tech/electric-mercedes-motorhome-targets-621-mile-range"
+          "title": "Nicki Minaj offers career advice to young Americans, delivers blunt response to Trump critics",
+          "link": "https://www.foxnews.com/media/nicki-minaj-offers-career-advice-young-americans-delivers-blunt-response-trump-critics"
         },
         {
-          "title": "Comedian Tim Dillon slams Sydney Sweeney critics upset with steamy ad: 'How insane is that? '",
-          "link": "https://www.foxnews.com/outkick-sports/comedian-tim-dillon-slams-sydney-sweeney-critics-upset-steamy-ad-how-insane"
+          "title": "Scammers are buying Google ads to steal bank logins",
+          "link": "https://www.foxnews.com/tech/scammers-buying-google-ads-steal-bank-logins"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T16:03:31.528Z"
+      "updatedAt": "2026-09-20T18:38:22.147Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "America's Story, Told in 15 Million First Drafts of History",
-          "link": "https://www.realclearpolitics.com/2026/09/20/americas_story_told_in_15_million_first_drafts_of_history_711584.html"
+          "title": "The Fall of California",
+          "link": "https://www.realclearpolitics.com/2026/09/19/the_fall_of_california_711469.html"
         },
         {
-          "title": "NYT Alum Would Be Shocked By Gray Lady's Decline",
-          "link": "https://www.realclearpolitics.com/2026/09/20/nyt_alum_would_be_shocked_by_gray_ladys_decline_711536.html"
+          "title": "Mayor Bass Calls Herself 'An Activist Fighting for Change'",
+          "link": "https://www.realclearpolitics.com/2026/09/20/mayor_bass_calls_herself_an_activist_fighting_for_change_711616.html"
         },
         {
-          "title": "Anger at Elites & the Establishment Fueling Midterms",
-          "link": "https://www.realclearpolitics.com/2026/09/20/anger_at_elites_amp_the_establishment_fueling_midterms_711544.html"
+          "title": "How Brandon Johnson's Agenda Hurts Black Chicagoans",
+          "link": "https://www.realclearpolitics.com/2026/09/20/how_brandon_johnsons_agenda_hurts_black_chicagoans_711531.html"
         },
         {
-          "title": "How To Rescue America From the Spread of Socialism",
-          "link": "https://www.realclearpolitics.com/2026/09/20/how_to_rescue_america_from_the_spread_of_socialism_711554.html"
+          "title": "7 Takeaways From the 2026 Primaries",
+          "link": "https://www.realclearpolitics.com/2026/09/20/7_takeaways_from_the_2026_primaries_711547.html"
         },
         {
-          "title": "Trump Is Only Amping Up His Antics Ahead of Midterms",
-          "link": "https://www.realclearpolitics.com/2026/09/20/trump_is_only_amping_up_his_antics_ahead_of_midterms_711540.html"
+          "title": "Republicans Will Hold Senate in Nov, Gain 1-2 Seats",
+          "link": "https://www.realclearpolitics.com/2026/09/20/republicans_will_hold_senate_in_nov_gain_1-2_seats_711614.html"
         },
         {
-          "title": "GOP Will Keep Senate, Very Good Chance House as Well",
-          "link": "https://www.realclearpolitics.com/2026/09/20/gop_will_keep_senate_very_good_chance_house_as_well_711545.html"
+          "title": "Even in Reliably Red Kansas, GOP Enthusiasm Fading",
+          "link": "https://www.realclearpolitics.com/2026/09/20/even_in_reliably_red_kansas_gop_enthusiasm_fading_711533.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T16:03:31.766Z"
+      "updatedAt": "2026-09-20T18:38:22.254Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Moore says Trump uses Constitution like a 'suggestion box' in banning CNN, Politico, MS NOW reporters from White House",
-          "link": "https://thehill.com/homenews/media/6100320-wes-moore-trump-press-ban/"
+          "title": "What is the AI singularity? Some experts say it's closer than ever",
+          "link": "https://thehill.com/policy/technology/6100478-ai-singularity-predictions/"
         },
         {
-          "title": "Trump on Iran: 'My question is, if and when do I blow the entire nation up?'",
-          "link": "https://thehill.com/homenews/administration/6100347-trump-speculates-iran-war/"
+          "title": "Florida Republican says Trump 'has his own style' in handling reporters covering the White House",
+          "link": "https://thehill.com/homenews/house/6100450-salazar-defends-trump-media-ban/"
         },
         {
-          "title": "A commitment to the First Amendment should not be controversial",
-          "link": "https://thehill.com/homenews/6098461-protecting-freedom-speech-government-power/"
+          "title": "The only solution to our $40 trillion debt problem is a value-added tax",
+          "link": "https://thehill.com/opinion/finance/6099509-us-debt-vat-solution/"
         },
         {
-          "title": "19 states approved permanent daylight saving time. The last obstacle to locking their clocks could soon fall",
-          "link": "https://thehill.com/policy/energy-environment/6082525-19-states-approved-permanent-daylight-saving-time-the-last-obstacle-to-locking-their-clocks-could-soon-fall/"
+          "title": "Khanna calls for a government agency to oversee AI 'like the FDA'",
+          "link": "https://thehill.com/policy/technology/6100322-khanna-proposes-ai-regulatory-agency/"
         },
         {
-          "title": "Waltz says Trump 'absolutely within his rights' to bar reporters 'not behaving' in good faith",
-          "link": "https://thehill.com/homenews/administration/6100318-waltz-defends-white-house-media-ban/"
+          "title": "AI learned to sing in Spanish. Latin artists need to get paid.",
+          "link": "https://thehill.com/opinion/technology/6093887-latin-music-ai-threat/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T16:03:32.333Z"
+      "updatedAt": "2026-09-20T18:38:22.642Z"
     },
     "Ars Technica": {
       "items": [
@@ -141,10 +141,14 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T16:03:32.510Z"
+      "updatedAt": "2026-09-20T18:38:22.846Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "Kojima Productions disputes reports the studio is in trouble",
+          "link": "https://www.theverge.com/games/997880/hideo-kojima-productions-physint-xbox-sony-playstation"
+        },
         {
           "title": "Trump now says he wants to form an ‘AI Force’",
           "link": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar"
@@ -160,17 +164,17 @@
         {
           "title": "The hidden monopoly behind your TI graphing calculator",
           "link": "https://www.theverge.com/podcast/997725/the-hidden-monopoly-behind-your-ti-graphing-calculator"
-        },
-        {
-          "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
-          "link": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T16:03:32.677Z"
+      "updatedAt": "2026-09-20T18:38:22.909Z"
     },
     "BBC World": {
       "items": [
+        {
+          "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+          "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
           "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss"
@@ -180,11 +184,7 @@
           "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "German elections under way which could decide fate of Chancellor Merz",
-          "link": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Trump says his planned triumphal arch will double as a military complex to store ammunition",
+          "title": "Trump says triumphal arch will be military complex with drones and snipers",
           "link": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss"
         },
         {
@@ -192,22 +192,22 @@
           "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
-          "link": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss"
+          "title": "Converse pulls 'deeply upsetting' advert after backlash",
+          "link": "https://www.bbc.co.uk/news/articles/crwyzj53pl1lo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Cultural treasures are being destroyed worldwide - so why is no-one being punished?",
-          "link": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss"
+          "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
+          "link": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T16:03:32.779Z"
+      "updatedAt": "2026-09-20T18:38:23.134Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Harry and Meghan's media treatment echoes what happened to Diana, Earl Spencer tells BBC",
-          "link": "https://www.bbc.co.uk/news/articles/cwj3d7zrgvk1o?at_medium=RSS&at_campaign=rss"
+          "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+          "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Key takeaways from BBC interview as Earl Spencer defends claims about King",
@@ -222,16 +222,16 @@
           "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
-          "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss"
+          "title": "Burnham hails Greenland deal ahead of expected first Trump meeting",
+          "link": "https://www.bbc.co.uk/news/articles/c8207255rq5lo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
-          "link": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss"
+          "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
+          "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T16:03:32.816Z"
+      "updatedAt": "2026-09-20T18:38:23.140Z"
     },
     "NY Times": {
       "items": [
@@ -252,12 +252,12 @@
           "link": "https://www.nytimes.com/2026/09/20/us/politics/trump-dc-arch-snipers-drones-military-complex.html"
         },
         {
-          "title": "In China, A.I. Is Moving Forward While the Economy Lags Behind",
-          "link": "https://www.nytimes.com/2026/09/20/business/china-ai-economy.html"
+          "title": "Houthis Push to Expand Territory as Tensions With Saudi Arabia Rise",
+          "link": "https://www.nytimes.com/2026/09/20/world/middleeast/saudi-arabia-yemen-houthis-fighting.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T16:03:32.952Z"
+      "updatedAt": "2026-09-20T18:38:23.189Z"
     }
   },
   "indices": {
@@ -284,8 +284,8 @@
       },
       {
         "name": "Bitcoin",
-        "price": 80822.04,
-        "pct": 6.134865881062596
+        "price": 81188.47,
+        "pct": 6.616058868826808
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-09-20T16:03:33.187Z"
+    "updatedAt": "2026-09-20T18:38:23.307Z"
   }
 }
