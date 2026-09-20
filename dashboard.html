@@ -180,54 +180,21 @@ function dedupe(arr){
   for(const o of arr){if(o&&o.title&&!seen.has(o.title)){seen.add(o.title);out.push(o);}}
   return out;
 }
-async function getRSS(url,n){
-  n=n||6;
-  function parseXML(txt){
-    try{
-      const xml=new DOMParser().parseFromString(txt,'text/xml');
-      return[...xml.querySelectorAll('item,entry')].slice(0,n)
-        .map(i=>{
-          const title=i.querySelector('title')?.textContent?.replace(/<!\[CDATA\[|\]\]>/g,'').trim();
-          const linkEl=i.querySelector('link');
-          const link=(linkEl?.getAttribute('href'))||(linkEl?.textContent?.trim())||'';
-          return{title,link};
-        })
-        .filter(o=>o.title&&o.title.length>5);
-    }catch(e){return[];}
-  }
-  const[r1,r2]=await Promise.all([
-    tFetch('https://corsproxy.io/?'+encodeURIComponent(url),14000)
-      .then(r=>r.ok?r.text().then(parseXML):[]).catch(()=>[]),
-    tFetch('https://api.rss2json.com/v1/api.json?rss_url='+encodeURIComponent(url)+'&count='+n,14000)
-      .then(r=>r.json()).then(d=>(d.items||[]).map(i=>({title:i.title,link:i.link||''})).filter(o=>o.title)).catch(()=>[])
-  ]);
-  return(r1.length?r1:r2).slice(0,n);
-}
 async function loadBriefing(force){
   const el=document.getElementById('brief-body'),ts=document.getElementById('brief-ts'),btn=document.getElementById('brief-btn');
-  const ck='dorothy_brief_v3_'+dayKey();
+  const ck='dorothy_brief_v4_'+dayKey();
   if(!force){
-    try{const c=localStorage.getItem(ck);if(c){el.innerHTML=c;ts.textContent='Cached for today · click Refresh for the latest';btn.textContent='Refresh';return;}}catch(e){}
+    try{const c=localStorage.getItem(ck);if(c){el.innerHTML=c;ts.textContent='Cached for today · click Refresh to check for newer';btn.textContent='Refresh';return;}}catch(e){}
   }
   btn.disabled=true;btn.textContent='Loading...';
-  el.innerHTML='<div class="status"><div class="spinner"></div>Fetching headlines from 12 feeds...</div>';
-  const[fox,rcp,hill,ars,vg,bbcW,bbcT,nyt,artnews,hyperallergic,contempart,booooooom]=await Promise.all([
-    getRSS('https://feeds.foxnews.com/foxnews/latest',6),
-    getRSS('https://www.realclearpolitics.com/index.xml',6),
-    getRSS('https://thehill.com/rss/syndicator/19110',5),
-    getRSS('https://feeds.arstechnica.com/arstechnica/index',5),
-    getRSS('https://www.theverge.com/rss/index.xml',5),
-    getRSS('https://feeds.bbci.co.uk/news/world/rss.xml',7),
-    getRSS('https://feeds.bbci.co.uk/news/rss.xml',6),
-    getRSS('https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml',5),
-    getRSS('https://www.artnews.com/feed/',6),
-    getRSS('https://hyperallergic.com/feed/',6),
-    getRSS('https://www.contemporaryartdaily.com/feed/',6),
-    getRSS('https://www.booooooom.com/feed/',6)
-  ]);
-  const totalItems=fox.length+rcp.length+hill.length+ars.length+vg.length+bbcW.length+bbcT.length+nyt.length+artnews.length+hyperallergic.length+contempart.length+booooooom.length;
-  if(totalItems===0){
-    el.innerHTML='<div class="status"><span class="err">Could not fetch headlines right now.</span> <button class="small-btn" onclick="loadBriefing(true)">Retry</button></div>';
+  el.innerHTML='<div class="status"><div class="spinner"></div>Loading briefing...</div>';
+  let data;
+  try{
+    const r=await tFetch('briefing-dorothy.json?t='+Date.now(),14000);
+    if(!r.ok)throw new Error('bad status');
+    data=await r.json();
+  }catch(e){
+    el.innerHTML='<div class="status"><span class="err">Could not load briefing data right now.</span> <button class="small-btn" onclick="loadBriefing(true)">Retry</button></div>';
     ts.textContent='';
     btn.disabled=false;btn.textContent='Refresh';
     return;
@@ -240,21 +207,28 @@ async function loadBriefing(force){
       return href?'<a class="news-item" href="'+href+'" target="_blank" rel="noopener noreferrer">'+inner+'</a>':'<div class="news-item">'+inner+'</div>';
     }).join('')+'</div>';
   }
-  const feedList=[['Fox News',fox],['Real Clear Politics',rcp],['The Hill',hill],['Ars Technica',ars],['The Verge',vg],['BBC World',bbcW],['BBC News',bbcT],['NY Times',nyt],['ARTNews',artnews],['Hyperallergic',hyperallergic],['Contemporary Art Daily',contempart],['Booooooom',booooooom]];
-  const failedFeeds=feedList.filter(f=>!f[1].length).map(f=>f[0]);
-  const health=failedFeeds.length
-    ?'<div class="feed-health warn">⚠️ '+(feedList.length-failedFeeds.length)+' of '+feedList.length+' feeds loaded — no response from: '+failedFeeds.join(', ')+' (try Refresh)</div>'
-    :'<div class="feed-health">✓ All '+feedList.length+' feeds loaded</div>';
+  const F=data.feeds||{};
+  const get=name=>(F[name]&&F[name].items)||[];
+  const feedNames=['Fox News','Real Clear Politics','The Hill','Ars Technica','The Verge','BBC World','BBC News','NY Times','ARTNews','Hyperallergic','Contemporary Art Daily','Booooooom'];
+  const isCurrent=n=>F[n]&&F[n].ok&&F[n].items&&F[n].items.length;
+  const notCurrent=feedNames.filter(n=>!isCurrent(n));
+  const currentCount=feedNames.length-notCurrent.length;
+  const health=notCurrent.length
+    ?'<div class="feed-health warn">⚠️ '+currentCount+' of '+feedNames.length+' feeds current — showing last known for: '+notCurrent.join(', ')+'</div>'
+    :'<div class="feed-health">✓ All '+feedNames.length+' feeds current</div>';
+  const fox=get('Fox News'),rcp=get('Real Clear Politics'),hill=get('The Hill'),ars=get('Ars Technica'),vg=get('The Verge'),bbcW=get('BBC World'),bbcT=get('BBC News'),nyt=get('NY Times'),artnews=get('ARTNews'),hyperallergic=get('Hyperallergic'),contempart=get('Contemporary Art Daily'),booooooom=get('Booooooom');
   const html=health+sec('Politics',dedupe([...fox,...rcp,...hill]).slice(0,8))+
              sec('International',dedupe([...bbcW,...bbcT]).slice(0,8))+
              sec('Tech',dedupe([...ars,...vg]).slice(0,6))+
              sec('Light Reading',dedupe(nyt))+
              sec('Art &amp; Culture',dedupe([...artnews,...hyperallergic,...contempart,...booooooom]).slice(0,10));
   el.innerHTML=html;
-  ts.textContent='Loaded '+new Date().toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit'})+' · '+new Date().toLocaleDateString('en-US',{weekday:'long',month:'long',day:'numeric'});
+  const fetchedAt=data.fetchedAt?new Date(data.fetchedAt):null;
+  ts.textContent=fetchedAt?('Data refreshed '+fetchedAt.toLocaleString('en-US',{month:'short',day:'numeric',hour:'numeric',minute:'2-digit'})+' · updates hourly'):'';
   try{Object.keys(localStorage).filter(k=>k.startsWith('dorothy_brief_')&&k!==ck).forEach(k=>localStorage.removeItem(k));localStorage.setItem(ck,html);}catch(e){}
   btn.disabled=false;btn.textContent='Refresh';
 }
+
 
 function wxIcon(c){return c<=1?'☀️':c<=3?'⛅':c<=48?'🌫️':c<=67?'🌧️':c<=77?'❄️':c<=82?'🌦️':'⛈️'}
 function wxDesc(c){return c===0?'Clear sky':c===1?'Mainly clear':c===2?'Partly cloudy':c===3?'Overcast':c<=48?'Foggy':c<=55?'Drizzle':c<=67?'Rain':c<=77?'Snow':c<=82?'Rain showers':'Thunderstorm'}
