@@ -1,65 +1,65 @@
 {
-  "fetchedAt": "2026-09-21T19:13:32.916Z",
+  "fetchedAt": "2026-09-21T23:07:55.712Z",
   "feeds": {
     "MarketWatch": {
       "items": [
         {
-          "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
-          "link": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories"
+          "title": "Meta’s stock is enjoying its best month in 13 years thanks to the company’s hot new AI assistant",
+          "link": "https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories"
+        },
+        {
+          "title": "AT&T’s stock looks like the smartest bet in the wireless sector, analyst says",
+          "link": "https://www.marketwatch.com/story/at-ts-stock-looks-like-the-smartest-bet-in-the-wireless-sector-analyst-says-6e773d63?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Bitcoin hits an 8-month high — and sends a clear message about risk appetite right now",
+          "link": "https://www.marketwatch.com/story/bitcoin-hits-an-8-month-high-and-sends-a-clear-message-about-risk-appetite-right-now-edc7b9a5?mod=mw_rss_topstories"
         },
         {
           "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
           "link": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories"
         },
         {
-          "title": "‘She says it’s just money’: My friend pays for everything. I should be grateful, but I can’t stand her anymore.",
-          "link": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories"
+          "title": "As the S&P 500 nears a new record high, there are signs of weakness below the surface",
+          "link": "https://www.marketwatch.com/story/as-the-s-p-500-nears-a-new-record-high-there-are-cracks-below-the-surface-6df3e90d?mod=mw_rss_topstories"
         },
         {
-          "title": "Meta’s stock is enjoying its best month in 13 years thanks to the company’s hot new AI assistant",
-          "link": "https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories"
-        },
-        {
-          "title": "The future of retirement? Work until you die.",
-          "link": "https://www.marketwatch.com/story/the-future-of-retirement-work-until-you-die-6d0e5341?mod=mw_rss_topstories"
-        },
-        {
-          "title": "A happier retirement contains these 3 elements",
-          "link": "https://www.marketwatch.com/story/a-happier-retirement-contains-these-3-elements-9aa99c9a?mod=mw_rss_topstories"
+          "title": "These beaten-down stocks could bounce back in January, if history is any guide",
+          "link": "https://www.marketwatch.com/story/these-beaten-down-stocks-could-bounce-back-in-january-if-history-is-any-guide-865a3f6b?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-21T19:13:31.916Z"
+      "updatedAt": "2026-09-21T23:07:53.934Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Kyler Murray clears concussion protocol and will start for Vikings against Tampa Bay Buccaneers",
-          "link": "https://www.foxnews.com/outkick/kyler-murray-clears-concussion-protocol-start-vikings-tampa-bay-buccaneers"
+          "title": "Trumpeter Dr Jesse McGuire belts national anthem after instrument malfunctions in unforgettable MLB moment",
+          "link": "https://www.foxnews.com/outkick-sports/trumpeter-dr-jesse-mcguire-belts-national-anthem-instrument-malfunctions-unforgettable-mlb-moment"
         },
         {
-          "title": "Frightening object caught by TSA inside passenger's baseball bat-shaped flashlight",
-          "link": "https://www.foxnews.com/travel/frightening-object-caught-tsa-inside-passengers-baseball-bat-shaped-flashlight"
+          "title": "National Park Service director calls Yellowstone's wild bison recovery an 'incredible conservation story'",
+          "link": "https://www.foxnews.com/outkick-culture/national-park-service-director-calls-yellowstones-wild-bison-recovery-incredible-conservation-story"
         },
         {
-          "title": "SEE IT: Chinese nationals intercepted in ‘extremely dangerous’ infiltration attempt near Florida coast",
-          "link": "https://www.foxnews.com/politics/chinese-nationals-intercepted-extremely-dangerous-infiltration-attempt-florida-coast"
+          "title": "Chiefs coach suggests Taylor Swift has sparked Travis Kelce's performance in first two weeks of season",
+          "link": "https://www.foxnews.com/outkick-sports/chiefs-coach-suggests-taylor-swift-sparked-travis-kelce-performance-first-two-weeks-season"
         },
         {
-          "title": "Presley Gerber's death being investigated as 'a suspected overdose': police",
-          "link": "https://www.foxnews.com/entertainment/presley-gerbers-death-being-investigated-a-suspected-overdose-police"
+          "title": "Fury erupts over Mamdani parade invite as old Columbus insult resurfaces: ‘Are you kidding me?’",
+          "link": "https://www.foxnews.com/politics/fury-erupts-over-mamdani-parade-invite-old-columbus-insult-resurfaces-are-you-kidding-me"
         },
         {
-          "title": "3 VPN settings to check before your next trip",
-          "link": "https://www.foxnews.com/tech/vpn-settings-check-before-next-trip"
+          "title": "'The View' host Sunny Hostin claims her children experienced racism at private schools",
+          "link": "https://www.foxnews.com/media/the-view-host-sunny-hostin-claims-children-experienced-racism-private-schools"
         },
         {
-          "title": "Colin Kaepernick says NFL and slavery are part of the 'same process' in interview with Ryan Clark",
-          "link": "https://www.foxnews.com/outkick-sports/colin-kaepernick-nfl-slavery-same-process-interview-ryan-clark"
+          "title": "Rep Eric Burlison: 'Most of my colleagues' are 'drunk on spending other people's money, even Republicans'",
+          "link": "https://www.foxnews.com/politics/rep-eric-burlison-most-colleagues-drunk-spending-other-peoples-money-even-republicans"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-21T19:13:32.006Z"
+      "updatedAt": "2026-09-21T23:07:54.145Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -77,7 +77,7 @@
         },
         {
           "title": "Courthouse Coup, Minnesota Style",
-          "link": "https://www.realclearpolitics.com/2026/09/19/courthouse_coup_minnesota_style_711482.html"
+          "link": "https://www.realclearpolitics.com/2026/09/21/courthouse_coup_minnesota_style_711482.html"
         },
         {
           "title": "Center-Left Needs To Step Up",
@@ -89,36 +89,48 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-21T19:13:32.197Z"
+      "updatedAt": "2026-09-21T23:07:54.337Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Duffy: A ‘human’ will always be in charge of AI air traffic program",
-          "link": "https://thehill.com/policy/transportation/6102275-sean-duffy-ai-program-faa-air-traffic-control-rollout/"
+          "title": "Former WHCA president on Trump's press ban: 'An attack on one outlet is an attack on everyone'",
+          "link": "https://thehill.com/media/6102786-trump-whca-media-ban/"
         },
         {
-          "title": "White House drafting executive order to take over NIH grant approvals: Reports",
-          "link": "https://thehill.com/policy/healthcare/6102144-executive-order-nih-grantmaking/"
+          "title": "Hegseth to chair Pentagon’s new homeland defense panel",
+          "link": "https://thehill.com/policy/defense/6102879-hegseth-establishes-pentagon-homeland-defense-board/"
         },
         {
-          "title": "Lindsay Clancy case 'needs to be done': Kevin Reddington",
-          "link": "https://thehill.com/homenews/state-watch/6102295-kevin-reddington-lindsay-clancy-massachusetts-mistrial/"
+          "title": "Appeals court reinstates GOP House map in Missouri for November election",
+          "link": "https://thehill.com/regulation/court-battles/6102804-mo-court-reinstates-gop-house-map/"
         },
         {
-          "title": "Paramount settles with states that sued over Warner Bros. Discovery merger",
-          "link": "https://thehill.com/homenews/media/6102198-paramount-settlements-states-lawsuit-warner-bros-discovery-merger/"
+          "title": "Trump says Mamdani has ‘great potential’ after Gracie Mansion visit",
+          "link": "https://thehill.com/homenews/administration/6102816-trump-mamdani-gracie-mansion-visit/"
         },
         {
-          "title": "AI ads flood campaign trail despite growing data center outrage, 'doomsday' warnings",
-          "link": "https://thehill.com/homenews/campaign/6098906-ai-political-ads-midterms-voter-concerns/"
+          "title": "CIA director meets with Zelensky at airport in Ireland",
+          "link": "https://thehill.com/policy/international/6102785-ratcliffe-zelensky-airport-meeting/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-21T19:13:32.372Z"
+      "updatedAt": "2026-09-21T23:07:54.755Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+          "link": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/"
+        },
+        {
+          "title": "Military milestone: Ukrainian naval drone sinks Russian kamikaze drone boat",
+          "link": "https://arstechnica.com/gadgets/2026/09/military-milestone-ukrainian-naval-drone-sinks-russian-kamikaze-drone-boat/"
+        },
+        {
+          "title": "Saudi Arabia wants a car industry, launches Ceer with two EVs",
+          "link": "https://arstechnica.com/cars/2026/09/saudi-arabia-wants-a-car-industry-launches-ceer-with-two-evs/"
+        },
         {
           "title": "Google confirms Gemini models hacked three companies in May 2026",
           "link": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/"
@@ -126,25 +138,17 @@
         {
           "title": "Russel Vought will reportedly be given veto power over all NIH grants",
           "link": "https://arstechnica.com/science/2026/09/trump-planning-to-hand-veto-power-over-nih-grants-to-political-appointee/"
-        },
-        {
-          "title": "California settles lawsuit against Paramount/Warner merger, angering advocates",
-          "link": "https://arstechnica.com/tech-policy/2026/09/california-settles-lawsuit-against-paramount-warner-merger-angering-advocates/"
-        },
-        {
-          "title": "Trump rejects AI slowdown calls, launches \"AI Force\" instead",
-          "link": "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/"
-        },
-        {
-          "title": "Review: Neagley is a worthy spinoff to megahit Reacher",
-          "link": "https://arstechnica.com/culture/2026/09/review-neagley-is-a-worthy-spinoff-to-megahit-reacher/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-21T19:13:32.430Z"
+      "updatedAt": "2026-09-21T23:07:54.952Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "California tightens rules on AI data center energy and water use",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills"
+        },
         {
           "title": "GM can’t ‘bring back’ Apple CarPlay because it never left",
           "link": "https://www.theverge.com/transportation/998259/gm-apple-carplay-android-auto-phone-mirror-google"
@@ -160,14 +164,10 @@
         {
           "title": "Grab an Xbox controller and a $50 Xbox gift card together for just $80",
           "link": "https://www.theverge.com/gadgets/998207/xbox-controller-chromebook-usbc-charger-deal-sale"
-        },
-        {
-          "title": "Can John Ternus find Apple’s next big thing?",
-          "link": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-21T19:13:32.544Z"
+      "updatedAt": "2026-09-21T23:07:55.139Z"
     },
     "BBC World": {
       "items": [
@@ -201,13 +201,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-21T19:13:32.679Z"
+      "updatedAt": "2026-09-21T23:07:55.285Z"
     },
     "BBC News": {
       "items": [
         {
           "title": "Airlines criticise air traffic control as second glitch causes more disruption",
           "link": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "UK to provide Saudi Arabia with 'defensive' military support, says Burnham",
+          "link": "https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
@@ -218,20 +222,16 @@
           "link": "https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Seventeen arrested in Teesside organised crime raids",
-          "link": "https://www.bbc.co.uk/news/articles/ckjrxpz03w8no?at_medium=RSS&at_campaign=rss"
+          "title": "Flights at major US airports delayed after cable cut by construction workers",
+          "link": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
-          "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Man charged with causing death by dangerous driving over crash that killed 6",
-          "link": "https://www.bbc.co.uk/news/articles/cmqlwpkl72plo?at_medium=RSS&at_campaign=rss"
+          "title": "Watch: Police raid organised crime targets in Teesside",
+          "link": "https://www.bbc.co.uk/news/videos/c9x2z1m45vlno?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-21T19:13:32.687Z"
+      "updatedAt": "2026-09-21T23:07:55.307Z"
     },
     "NY Times": {
       "items": [
@@ -248,52 +248,52 @@
           "link": "https://www.nytimes.com/2026/09/21/us/politics/united-nations-artificial-intelligence-china-us.html"
         },
         {
-          "title": "Paramount to Settle States’ Lawsuit, Clearing Way for Warner Bros. Merger",
-          "link": "https://www.nytimes.com/2026/09/21/business/paramount-warner-bros-ellison.html"
+          "title": "Paramount Cleared to Buy Warner Bros.",
+          "link": "https://www.nytimes.com/2026/09/21/briefing/paramount-cnn-houthis.html"
         },
         {
-          "title": "Trump and Xi Meet Amid an Uneasy U.S.-China Trade Truce",
-          "link": "https://www.nytimes.com/2026/09/21/business/economy/trump-xi-china-trade.html"
+          "title": "Paramount Settles States’ Lawsuit, Clearing Way for Warner Bros. Merger",
+          "link": "https://www.nytimes.com/2026/09/21/business/paramount-warner-bros-ellison.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-21T19:13:32.797Z"
+      "updatedAt": "2026-09-21T23:07:55.435Z"
     }
   },
   "indices": {
     "data": [
       {
         "name": "S&P 500",
-        "price": 7773.66,
-        "pct": 2.0168031937091735
+        "price": 7764.7,
+        "pct": 1.8992175832482534
       },
       {
         "name": "Dow Jones",
-        "price": 52098.09,
-        "pct": -0.616372765217127
+        "price": 52048.83,
+        "pct": -0.71034238056358
       },
       {
         "name": "Nasdaq",
-        "price": 27132.432,
-        "pct": 3.6126448795386645
+        "price": 27122.094,
+        "pct": 3.5731663866868395
       },
       {
         "name": "Gold",
-        "price": 4382.2,
-        "pct": -0.12079772079772494
+        "price": 4402.7,
+        "pct": 0.3464387464387423
       },
       {
         "name": "Bitcoin",
-        "price": 86039.88,
-        "pct": 12.61208707371377
+        "price": 86577.38,
+        "pct": 13.315586390566853
       },
       {
         "name": "SpaceX",
-        "price": 152.12,
-        "pct": 2.6797165035437045
+        "price": 151.85,
+        "pct": 2.4974687816402215
       }
     ],
     "ok": true,
-    "updatedAt": "2026-09-21T19:13:32.916Z"
+    "updatedAt": "2026-09-21T23:07:55.712Z"
   }
 }
