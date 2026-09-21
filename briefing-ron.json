@@ -1,124 +1,132 @@
 {
-  "fetchedAt": "2026-09-21T06:04:25.964Z",
+  "fetchedAt": "2026-09-21T13:50:53.712Z",
   "feeds": {
     "MarketWatch": {
       "items": [
         {
-          "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
-          "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories"
+          "title": "Novo Nordisk’s stock tumbles as doubts persist about Ozempic maker’s goals for 2030",
+          "link": "https://www.marketwatch.com/story/novo-nordisk-stock-tumbles-as-ozempic-maker-sets-out-2030-goals-8a5a8d2d?mod=mw_rss_topstories"
         },
         {
-          "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
-          "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories"
+          "title": "Why one Warren Buffett–inspired fund manager is betting big on Chinese stocks",
+          "link": "https://www.marketwatch.com/story/why-one-buffett-inspired-fund-manager-is-betting-big-on-chinese-stocks-b7b8a51e?mod=mw_rss_topstories"
         },
         {
-          "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
-          "link": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories"
+          "title": "Record diesel prices are exposing pain points in the stock market and economy",
+          "link": "https://www.marketwatch.com/story/record-diesel-prices-are-exposing-pain-points-in-the-stock-market-and-economy-a2079b04?mod=mw_rss_topstories"
         },
         {
-          "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
-          "link": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories"
+          "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
+          "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories"
         },
         {
-          "title": "Snoopy cups at Starbucks and McDonald’s SpongeBob toys are commanding huge markups on eBay",
-          "link": "https://www.marketwatch.com/story/starbuckss-snoopy-cups-and-mcdonalds-spongebob-toys-are-commanding-huge-markups-on-ebay-ed3e514d?mod=mw_rss_topstories"
+          "title": "A sudden end to the Iran war would strike a blow against oil prices and energy stocks. Yet company insiders are buying.",
+          "link": "https://www.marketwatch.com/story/a-sudden-end-to-the-iran-war-would-strike-a-blow-against-oil-prices-and-energy-stocks-yet-company-insiders-are-buying-673899a0?mod=mw_rss_topstories"
         },
         {
-          "title": "China is chasing SpaceX and setting its sights on the global space economy",
-          "link": "https://www.marketwatch.com/story/china-is-chasing-spacex-and-setting-its-sights-on-the-global-space-economy-3b9e37ff?mod=mw_rss_topstories"
+          "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
+          "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-21T06:04:25.174Z"
+      "updatedAt": "2026-09-21T13:50:52.543Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Presley Gerber, son of Cindy Crawford and Rande Gerber, dead at 27",
-          "link": "https://www.foxnews.com/entertainment/presley-gerber-son-cindy-crawford-rande-gerber-dead-27"
+          "title": "Princess Diana's brother Charles Spencer says King Charles 'gaslit' him over memoir claims",
+          "link": "https://www.foxnews.com/entertainment/princess-diana-brother-charles-spencer-says-king-charles-gaslit-memoir-claims"
         },
         {
-          "title": "Harrison Butker drills game-winner as Chiefs survive overtime thriller against Colts",
-          "link": "https://www.foxnews.com/outkick-sports/harrison-butker-drills-game-winner-chiefs-survive-overtime-thriller-colts"
+          "title": "'Lioness' season 3 finale reveals who orchestrated Joe's kidnapping all along",
+          "link": "https://www.foxnews.com/outkick/lioness-season-3-finale-reveals-who-orchestrated-zoe-saldana-kidnapping"
         },
         {
-          "title": "Manhunt underway in California after armed suspect allegedly points gun at people, shoots at officers",
-          "link": "https://www.foxnews.com/us/manhunt-underway-california-after-armed-suspect-allegedly-points-gun-people-shoots-officers"
+          "title": "GOP fiscal hawk sounds alarm on 'out of control' federal spending, saying 'both parties have failed us'",
+          "link": "https://www.foxnews.com/politics/gop-fiscal-hawk-sounds-alarm-out-control-federal-spending-saying-both-parties-have-failed-us"
         },
         {
-          "title": "Missing Carnival Panorama passenger jumped overboard off Mexico's coast",
-          "link": "https://www.foxnews.com/travel/missing-carnival-panorama-passenger-jumped-overboard-mexicos-coast"
+          "title": "Sydney Thomas mocks Lane Kiffin after loss with brutal Halloween costume idea, LSU fans fight & Nate's shorts",
+          "link": "https://www.foxnews.com/outkick-sports/sydney-thomas-mocks-lane-kiffin-loss-brutal-halloween-costume-idea-lsu-fans-fight-nates-shorts"
         },
         {
-          "title": "Taylor Swift has savage celebration after Travis Kelce scores first touchdown of 2026 season",
-          "link": "https://www.foxnews.com/outkick-sports/taylor-swift-savage-celebration-travis-kelce-scores-first-touchdown-2026-season"
+          "title": "CHAD WOLF: Congress has a chance to stop China from turning your car into a Chinese spy",
+          "link": "https://www.foxnews.com/opinion/chad-wolf-congress-chance-stop-china-turning-car-chinese-spy"
         },
         {
-          "title": "Patrick Clancy in his own words: Top takeaways from grieving father's first interview",
-          "link": "https://www.foxnews.com/us/patrick-clancy-his-own-words-top-takeaways-from-grieving-fathers-first-interview"
+          "title": "NASCAR wives make explosive claims after husbands brawl at Bristol & driver launches water bottle into scrum",
+          "link": "https://www.foxnews.com/outkick-sports/nascar-wives-explosive-claims-husbands-brawl-bristol-driver-launches-water-bottle-scrum"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-21T06:04:25.279Z"
+      "updatedAt": "2026-09-21T13:50:52.622Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "RFK Jr. Rabidly Anti-Vaccine in Face of Measles Outbreak",
-          "link": "https://www.realclearpolitics.com/2026/09/20/rfk_jr_rabidly_anti-vaccine_in_face_of_measles_outbreak_711535.html"
-        },
-        {
-          "title": "Bobby Kennedy Keeps Me in the Trump Column",
-          "link": "https://www.realclearpolitics.com/articles/2026/09/21/bobby_kennedy_keeps_me_in_the_trump_column_154518.html"
-        },
-        {
-          "title": "Why Democrats Keep Coming Back to Hasan Piker",
-          "link": "https://www.realclearpolitics.com/2026/09/20/why_democrats_keep_coming_back_to_hasan_piker_711617.html"
-        },
-        {
-          "title": "Can These 4 Working-Class Populists Win?",
-          "link": "https://www.realclearpolitics.com/2026/09/17/can_these_4_working-class_populists_win_711344.html"
-        },
-        {
-          "title": "Beware of Billionaires Touting the Apocalypse",
-          "link": "https://www.realclearpolitics.com/2026/09/19/beware_of_billionaires_touting_the_apocalypse_711467.html"
+          "title": "A DOGE Insider Sets the Record Straight",
+          "link": "https://www.realclearpolitics.com/2026/09/21/a_doge_insider_sets_the_record_straight_711642.html"
         },
         {
           "title": "AI Labs Just Want to Be Relieved of Existing Regulations",
           "link": "https://www.realclearpolitics.com/video/2026/09/20/jensen_huang_ai_labs_want_relief_from_existing_laws_not_more_regulation.html"
+        },
+        {
+          "title": "Dems Bet on AI Apocalypse Politics For Midterms",
+          "link": "https://www.realclearpolitics.com/2026/09/21/dems_bet_on_ai_apocalypse_politics_for_midterms_711655.html"
+        },
+        {
+          "title": "Is AI a Deal With the Devil - Literally?",
+          "link": "https://www.realclearpolitics.com/video/2026/09/20/openais_dean_ball_debates_qntiquity_scholar_zachary_pursu_debate_is_ai_a_deal_with_the_devil_how_literal_is_that_question.html"
+        },
+        {
+          "title": "What Voters in Detroit Want From the Midterms",
+          "link": "https://www.realclearpolitics.com/2026/09/21/what_voters_in_detroit_want_from_the_midterms_711635.html"
+        },
+        {
+          "title": "RFK Jr. Rabidly Anti-Vaccine in Face of Measles Outbreak",
+          "link": "https://www.realclearpolitics.com/2026/09/21/rfk_jr_rabidly_anti-vaccine_in_face_of_measles_outbreak_711535.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-21T06:04:25.429Z"
+      "updatedAt": "2026-09-21T13:50:52.869Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Tafoya blames Kristi Noem, Minnesota leadership for ICE rollout",
-          "link": "https://thehill.com/homenews/campaign/6101001-taforya-criticizes-noem-immigration-rollout/"
+          "title": "Bessent on talks with China ahead of Trump-Xi meeting: 'Very successful engagement'",
+          "link": "https://thehill.com/policy/international/6101242-bessent-china-trade-board/"
         },
         {
-          "title": "Majority of voters say Trump’s policies worsened the economy: Poll",
-          "link": "https://thehill.com/business/6100985-trump-economic-policies-poll/"
+          "title": "Down but not out: How America can rebuild after Trump",
+          "link": "https://thehill.com/opinion/campaign/6098466-repairing-america-after-trump/"
         },
         {
-          "title": "ICE agent shoots and injures man in Austin, officials say",
-          "link": "https://thehill.com/policy/national-security/6100961-ice-officer-shoots-austin-man/"
+          "title": "Xavier Becerra has the opportunity to ban executions in California once and for all",
+          "link": "https://thehill.com/opinion/criminal-justice/6098545-california-death-penalty-limbo/"
         },
         {
-          "title": "Grassley urges Trump to place embargo on diesel exports amid high prices",
-          "link": "https://thehill.com/policy/transportation/6100820-grassley-urges-trump-diesel-embargo/"
+          "title": "Live updates: Outlets to sue White House over ban; Trump meets Mamdani as UN General Assembly kicks off",
+          "link": "https://thehill.com/homenews/6100754-live-updates-trump-white-house-media-ban-united-nations-general-assembly/"
         },
         {
-          "title": "This week on the Hill: Senate eyes final passage on college sports bill",
-          "link": "https://thehill.com/newsletters/this-week-on-the-hill/6099111-senate-protect-college-sports-act-heidi-overton-fda/"
+          "title": "Trump denies 'instituting an assault on the free press'",
+          "link": "https://thehill.com/homenews/administration/6101202-donald-trump-cnn-politico-msnow-white-house-ban-defense/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-21T06:04:25.602Z"
+      "updatedAt": "2026-09-21T13:50:53.395Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "Apple Mac mini review: The new M6 impresses, but the price hike is rough",
+          "link": "https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/"
+        },
+        {
+          "title": "Googlebooks launch October 4 starting at $899—here are the five models you can preorder today",
+          "link": "https://arstechnica.com/gadgets/2026/09/googlebook-laptops-launch-october-4-starting-at-899-preorders-for-five-models-live-today/"
+        },
         {
           "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
           "link": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/"
@@ -130,108 +138,100 @@
         {
           "title": "T. rex teeth indicate it ran as warm as an elephant",
           "link": "https://arstechnica.com/science/2026/09/t-rex-teeth-indicate-it-ran-as-warm-as-an-elephant/"
-        },
-        {
-          "title": "Learning another language may be one of the best ways to keep your brain healthy",
-          "link": "https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/"
-        },
-        {
-          "title": "Rings around a tiny body have changed over the past decade",
-          "link": "https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-21T06:04:25.683Z"
+      "updatedAt": "2026-09-21T13:50:53.492Z"
     },
     "The Verge": {
       "items": [
         {
-          "title": "No Dogs in Space is back to feed your need for obsessive music history",
-          "link": "https://www.theverge.com/report/997948/no-dogs-in-space-is-back-punk-2-0-music-history-podcast"
+          "title": "iPhone owners can now submit a claim in Apple’s $250 million Siri AI lawsuit",
+          "link": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement"
         },
         {
-          "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown"
+          "title": "Vivo’s X500 Pro Max has 17 stops of dynamic range and 4K240 slo-mo",
+          "link": "https://www.theverge.com/gadgets/998165/vivo-x500-pro-max-launch-specs-release-date-lofic-china"
         },
         {
-          "title": "Kojima Productions disputes reports the studio is in trouble",
-          "link": "https://www.theverge.com/games/997880/hideo-kojima-productions-physint-xbox-sony-playstation"
+          "title": "These are the first five Googlebook laptops",
+          "link": "https://www.theverge.com/gadgets/997659/googlebooks-breakdown-acer-asus-hp-lenovo-dell"
         },
         {
-          "title": "Trump now says he wants to form an ‘AI Force’",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar"
+          "title": "The long dream of the Googlebook",
+          "link": "https://www.theverge.com/tech/997972/googlebook-laptop-chromeos-android-history"
         },
         {
-          "title": "A24’s reputation is on the line with the SCP Foundation movie",
-          "link": "https://www.theverge.com/entertainment/997853/a24-scp-movie-creative-commons-license"
+          "title": "I got to see Google&#8217;s wild ideas about the future of laptops",
+          "link": "https://www.theverge.com/tech/997986/google-googlebooks-android-laptops-dell-hp-lenovo-acer-asus-price-specs"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-21T06:04:25.771Z"
+      "updatedAt": "2026-09-21T13:50:53.544Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
-          "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss"
+          "title": "Merz vows to keep coalition together for Germany's 'democratic future'",
+          "link": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-          "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss"
+          "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
+          "link": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
-          "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss"
+          "title": "CNN, MS NOW and Politico to file lawsuit against Trump's White House ban",
+          "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Trump says triumphal arch will be military complex with drones and snipers",
-          "link": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss"
+          "title": "Seven Ethiopian rebel groups form new alliance",
+          "link": "https://www.bbc.co.uk/news/articles/ckp84pj8zpngo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece",
-          "link": "https://www.bbc.co.uk/news/articles/cqm27pnyd294o?at_medium=RSS&at_campaign=rss"
+          "title": "US strikes on alleged drug boats could be crimes against humanity, says UN",
+          "link": "https://www.bbc.co.uk/news/articles/ck5ye7v88qy7o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Sister of Pakistan's ex-PM Imran Khan arrested",
-          "link": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo?at_medium=RSS&at_campaign=rss"
+          "title": "Xhaka under investigation over Covid-19 certificate",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c3qjkpgengn7o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Houthis say they targeted Saudi capital with ballistic missiles",
-          "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss"
+          "title": "Three held over woman's murder as South Africa police investigate eight other body finds",
+          "link": "https://www.bbc.co.uk/news/articles/c617j2x01epjo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-21T06:04:25.802Z"
+      "updatedAt": "2026-09-21T13:50:53.581Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Specialist courts for rape cases to be rolled out across England and Wales",
-          "link": "https://www.bbc.co.uk/news/articles/c5lympv9nw3jo?at_medium=RSS&at_campaign=rss"
+          "title": "Young people aren't snowflakes - mental distress is rising, says head of official review",
+          "link": "https://www.bbc.co.uk/news/articles/cqzrz0z4plk1o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
-          "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Oxford grooming gang survivors tell BBC 'hundreds' of abusers still free",
+          "title": "'I see my abusers in the supermarket' - Oxford grooming gang survivors' ongoing torment",
           "link": "https://www.bbc.co.uk/news/articles/cmpwln09gknzo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Union calls for halt to graded Ofsted inspections over health concerns",
-          "link": "https://www.bbc.co.uk/news/articles/cv1j4k1nez76o?at_medium=RSS&at_campaign=rss"
+          "title": "Inside Djibouti refugee camp for thousands fleeing Houthi advance in Yemen",
+          "link": "https://www.bbc.co.uk/news/videos/c6z0z2nne11vo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
-          "link": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss"
+          "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
+          "link": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Young people aren't snowflakes - mental distress is rising, says head of official review",
-          "link": "https://www.bbc.co.uk/news/articles/cqzrz0z4plk1o?at_medium=RSS&at_campaign=rss"
+          "title": "Southport killer accused of throwing boiling water mixed with sugar at prison officer",
+          "link": "https://www.bbc.co.uk/news/articles/c6d79pzny7gjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Presley Gerber, Cindy Crawford's son, dies aged 27",
+          "link": "https://www.bbc.co.uk/news/articles/cmdx0pqrv72wo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-21T06:04:25.808Z"
+      "updatedAt": "2026-09-21T13:50:53.587Z"
     },
     "NY Times": {
       "items": [
@@ -240,60 +240,60 @@
           "link": "https://www.nytimes.com/2026/09/20/us/politics/trump-yemen-houthis-red-sea-iran.html"
         },
         {
-          "title": "Houthis Push to Expand Territory as Tensions With Saudi Arabia Rise",
-          "link": "https://www.nytimes.com/2026/09/20/world/middleeast/saudi-arabia-yemen-houthis-fighting.html"
+          "title": "Trump’s New Middle East Dilemma, and How DraftKings Uses A.I. to Target Gamblers",
+          "link": "https://www.nytimes.com/2026/09/21/podcasts/the-headlines/trumps-saudi-dilemma-draftkings-ai-gamblers.html"
         },
         {
-          "title": "How President Trump Broke the Kennedy Center",
-          "link": "https://www.nytimes.com/2026/09/20/us/politics/trump-kennedy-center.html"
+          "title": "CNN, MS NOW and Politico to Sue Trump Administration Over White House Access",
+          "link": "https://www.nytimes.com/2026/09/21/business/media/trump-white-house-ban-lawsuit-cnn-politico-msnow.html"
         },
         {
-          "title": "White House Moves to Take Control of N.I.H. Grants",
-          "link": "https://www.nytimes.com/2026/09/20/science/nih-omb-grants-bhattacharya-vought.html"
+          "title": "Networks Suspend Pool Coverage of Trump After White House Bans CNN",
+          "link": "https://www.nytimes.com/2026/09/21/business/media/cnn-trump-press-pool-ban.html"
         },
         {
-          "title": "In Fighting for Every Black Child, Did I Betray My Own?",
-          "link": "https://www.nytimes.com/2026/09/20/magazine/ny-public-schools-black-students-segregation.html"
+          "title": "White House Plan to Subsidize Stay-at-Home Parents Divides Conservatives",
+          "link": "https://www.nytimes.com/2026/09/21/us/politics/conservatives-stay-at-home-subsidy.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-21T06:04:25.861Z"
+      "updatedAt": "2026-09-21T13:50:53.612Z"
     }
   },
   "indices": {
     "data": [
       {
         "name": "S&P 500",
-        "price": 7650.5,
-        "pct": -0.08462866560967332
+        "price": 7700.88,
+        "pct": 1.0616825765946964
       },
       {
         "name": "Dow Jones",
-        "price": 51682.64,
-        "pct": -1.6941112112253225
+        "price": 51821.01,
+        "pct": -1.1449375443522756
       },
       {
         "name": "Nasdaq",
-        "price": 26522.545,
-        "pct": 0.7196472568301927
+        "price": 26809.705,
+        "pct": 2.380223176831043
       },
       {
         "name": "Gold",
-        "price": 4392.1,
-        "pct": 0.10484330484331313
+        "price": 4391.7,
+        "pct": 0.09572649572649157
       },
       {
         "name": "Bitcoin",
-        "price": 81605.98,
-        "pct": 6.80883940674654
+        "price": 85652.54,
+        "pct": 12.105122561360506
       },
       {
         "name": "SpaceX",
-        "price": 152.71,
-        "pct": 0.991997883737848
+        "price": 155.193,
+        "pct": 4.753965575430311
       }
     ],
     "ok": true,
-    "updatedAt": "2026-09-21T06:04:25.964Z"
+    "updatedAt": "2026-09-21T13:50:53.712Z"
   }
 }
