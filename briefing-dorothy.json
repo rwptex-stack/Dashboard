@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-09-20T22:00:30.998Z",
+  "fetchedAt": "2026-09-21T00:37:06.019Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Atlanta Falcons are dealing with the worst quarterback situation in the NFL and it isn't very close",
-          "link": "https://www.foxnews.com/outkick/atlanta-falcons-dealing-worst-quarterback-situation-nfl"
+          "title": "Cubs star Alex Bregman hospitalized after taking brutal foul ball to the face",
+          "link": "https://www.foxnews.com/outkick-sports/cubs-star-alex-bregman-hospitalized-brutal-foul-ball-face"
         },
         {
-          "title": "Frankie Muniz describes hitting 'rock bottom' as estranged wife posts cryptic message about perspective",
-          "link": "https://www.foxnews.com/entertainment/frankie-muniz-describes-hitting-rock-bottom-estranged-wife-posts-cryptic-message-perspective"
+          "title": "Gorillaz frontman Damon Albarn holds up Palestinian flag during show after Macklemore tour removal",
+          "link": "https://www.foxnews.com/media/gorillaz-frontman-damon-albarn-holds-up-palestinian-flag-during-show-after-macklemore-tour-removal"
         },
         {
-          "title": "Bet365 Bonus Code: Bet $10, Get $365 on Giants vs Rams, Colts vs Chiefs",
-          "link": "https://www.foxnews.com/outkick-betting/bet365-bonus-code-bet-10-get-365-giants-vs-rams-colts-vs-chiefs"
+          "title": "Lindsay Clancy holdout juror makes new promise as lawyer warns of public attacks",
+          "link": "https://www.foxnews.com/us/lindsay-clancy-holdout-juror-vows-break-silence-lawyer-warns-public-attacks"
         },
         {
-          "title": "Jalen Hurts saves Eagles from ugly upset as Philadelphia escapes Titans to remain unbeaten",
-          "link": "https://www.foxnews.com/outkick-sports/jalen-hurts-saves-eagles-ugly-upset-philadelphia-escapes-titans-remain-unbeaten"
+          "title": "Jack Osbourne reveals he and wife Aree raise five kids without a nanny: 'You find a rhythm'",
+          "link": "https://www.foxnews.com/entertainment/jack-osbourne-reveals-wife-aree-raise-five-kids-without-nanny-find-rhythm"
         },
         {
-          "title": "McDonald’s once sold beloved cookies featuring forgotten characters from the chain's past",
-          "link": "https://www.foxnews.com/food-drink/mcdonalds-sold-beloved-cookies-featuring-forgotten-characters-chains-past"
+          "title": "Browns' Deshaun Watson may have silenced doubters after outlasting Baker Mayfield and 2-hour weather delay",
+          "link": "https://www.foxnews.com/outkick-sports/browns-deshaun-watson-silenced-doubters-outlasting-baker-mayfield-2-hour-weather-delay"
         },
         {
-          "title": "Keenan Allen faces NFL suspension after blood alcohol level nearly triple the legal limit: report",
-          "link": "https://www.foxnews.com/outkick-sports/keenan-allen-faces-nfl-suspension-blood-alcohol-level-nearly-triple-legal-limit-report"
+          "title": "Caitlin Clark shines, but Fever suffer embarrassing blowout loss to Mystics as playoff race heats up",
+          "link": "https://www.foxnews.com/outkick-sports/caitlin-clark-shines-fever-suffer-embarrassing-blowout-loss-mystics-playoff-race-heats"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T22:00:29.222Z"
+      "updatedAt": "2026-09-21T00:37:03.434Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,10 +59,14 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T22:00:29.360Z"
+      "updatedAt": "2026-09-21T00:37:03.763Z"
     },
     "The Hill": {
       "items": [
+        {
+          "title": "Grassley urges Trump to place embargo on diesel exports amid high prices",
+          "link": "https://thehill.com/policy/transportation/6100820-grassley-urges-trump-diesel-embargo/"
+        },
         {
           "title": "This week on the Hill: Senate eyes final passage on college sports bill",
           "link": "https://thehill.com/newsletters/this-week-on-the-hill/6099111-senate-protect-college-sports-act-heidi-overton-fda/"
@@ -78,14 +82,10 @@
         {
           "title": "DDHQ director says Mike Rogers's time is 'running out'",
           "link": "https://thehill.com/homenews/campaign/6100643-michigan-senate-race-forecast/"
-        },
-        {
-          "title": "Florida Republican calls interim Venezuelan president 'necessary evil'",
-          "link": "https://thehill.com/homenews/house/6100642-salazar-delcy-rodriguez-necessary-evil/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T22:00:29.993Z"
+      "updatedAt": "2026-09-21T00:37:04.445Z"
     },
     "Ars Technica": {
       "items": [
@@ -111,7 +111,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T22:00:30.100Z"
+      "updatedAt": "2026-09-21T00:37:04.608Z"
     },
     "The Verge": {
       "items": [
@@ -137,7 +137,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T22:00:30.158Z"
+      "updatedAt": "2026-09-21T00:37:04.658Z"
     },
     "BBC World": {
       "items": [
@@ -171,7 +171,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T22:00:30.195Z"
+      "updatedAt": "2026-09-21T00:37:04.734Z"
     },
     "BBC News": {
       "items": [
@@ -184,12 +184,12 @@
           "link": "https://www.bbc.co.uk/news/articles/cry4z1xykeleo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Watch: Emotional Earl Spencer says he misses sister Diana every day",
-          "link": "https://www.bbc.co.uk/news/videos/cw62mdrjll18o?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "Specialist courts for rape cases to be rolled out across England and Wales",
           "link": "https://www.bbc.co.uk/news/articles/c5lympv9nw3jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Union calls for halt to graded Ofsted inspections over health concerns",
+          "link": "https://www.bbc.co.uk/news/articles/cv1j4k1nez76o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
@@ -201,10 +201,14 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T22:00:30.265Z"
+      "updatedAt": "2026-09-21T00:37:04.749Z"
     },
     "NY Times": {
       "items": [
+        {
+          "title": "Houthis Push to Expand Territory as Tensions With Saudi Arabia Rise",
+          "link": "https://www.nytimes.com/2026/09/20/world/middleeast/saudi-arabia-yemen-houthis-fighting.html"
+        },
         {
           "title": "How President Trump Broke the Kennedy Center",
           "link": "https://www.nytimes.com/2026/09/20/us/politics/trump-kennedy-center.html"
@@ -214,20 +218,16 @@
           "link": "https://www.nytimes.com/2026/09/20/science/nih-omb-grants-bhattacharya-vought.html"
         },
         {
-          "title": "Markwayne Mullin Lost His Pick to Lead ICE, as He Struggles to Prove His Toughness on Immigration",
-          "link": "https://www.nytimes.com/2026/09/20/us/politics/dhs-leader-ice-markwayne-mullin-immigration.html"
+          "title": "In Fighting for Every Black Child, Did I Betray My Own?",
+          "link": "https://www.nytimes.com/2026/09/20/magazine/ny-public-schools-black-students-segregation.html"
         },
         {
-          "title": "Trump Says His D.C. Arch Would Be a ‘Military Complex’ Housing Drones and Snipers",
-          "link": "https://www.nytimes.com/2026/09/20/us/politics/trump-dc-arch-snipers-drones-military-complex.html"
-        },
-        {
-          "title": "Houthis Push to Expand Territory as Tensions With Saudi Arabia Rise",
-          "link": "https://www.nytimes.com/2026/09/20/world/middleeast/saudi-arabia-yemen-houthis-fighting.html"
+          "title": "Reality Bites",
+          "link": "https://www.nytimes.com/2026/09/20/briefing/a-school-choice.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T22:00:30.372Z"
+      "updatedAt": "2026-09-21T00:37:04.817Z"
     },
     "ARTNews": {
       "items": [
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T22:00:30.577Z"
+      "updatedAt": "2026-09-21T00:37:05.020Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T22:00:30.627Z"
+      "updatedAt": "2026-09-21T00:37:05.183Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T22:00:30.911Z"
+      "updatedAt": "2026-09-21T00:37:05.875Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T22:00:30.998Z"
+      "updatedAt": "2026-09-21T00:37:06.019Z"
     }
   }
 }
