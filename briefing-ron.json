@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-20T21:23:07.553Z",
+  "fetchedAt": "2026-09-21T00:03:18.505Z",
   "feeds": {
     "MarketWatch": {
       "items": [
@@ -29,37 +29,37 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T21:23:06.272Z"
+      "updatedAt": "2026-09-21T00:03:16.944Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Jalen Hurts saves Eagles from ugly upset as Philadelphia escapes Titans to remain unbeaten",
-          "link": "https://www.foxnews.com/outkick-sports/jalen-hurts-saves-eagles-ugly-upset-philadelphia-escapes-titans-remain-unbeaten"
+          "title": "Jack Osbourne reveals he and wife Aree raise five kids without a nanny: 'You find a rhythm'",
+          "link": "https://www.foxnews.com/entertainment/jack-osbourne-reveals-wife-aree-raise-five-kids-without-nanny-find-rhythm"
         },
         {
-          "title": "McDonald’s once sold beloved cookies featuring forgotten characters from the chain's past",
-          "link": "https://www.foxnews.com/food-drink/mcdonalds-sold-beloved-cookies-featuring-forgotten-characters-chains-past"
+          "title": "Browns' Deshaun Watson may have silenced doubters after outlasting Baker Mayfield and 2-hour weather delay",
+          "link": "https://www.foxnews.com/outkick-sports/browns-deshaun-watson-silenced-doubters-outlasting-baker-mayfield-2-hour-weather-delay"
         },
         {
-          "title": "Keenan Allen faces NFL suspension after blood alcohol level nearly triple the legal limit: report",
-          "link": "https://www.foxnews.com/outkick-sports/keenan-allen-faces-nfl-suspension-blood-alcohol-level-nearly-triple-legal-limit-report"
+          "title": "Caitlin Clark shines, but Fever suffer embarrassing blowout loss to Mystics as playoff race heats up",
+          "link": "https://www.foxnews.com/outkick-sports/caitlin-clark-shines-fever-suffer-embarrassing-blowout-loss-mystics-playoff-race-heats"
         },
         {
-          "title": "Massage clients report bizarre flu-like reaction after popular spa treatment",
-          "link": "https://www.foxnews.com/health/massage-clients-report-bizarre-flu-like-reaction-after-popular-spa-treatment"
+          "title": "Washington Commanders face season-defining crisis as Jayden Daniels suffers another serious elbow injury",
+          "link": "https://www.foxnews.com/outkick-sports/commanders-face-season-defining-crisis-quarterback-jayden-daniels-suffers-another-serious-elbow-injury"
         },
         {
-          "title": "ICE shooting rocks Austin as Democrat demands bodycam video, independent probe",
-          "link": "https://www.foxnews.com/us/ice-shooting-rocks-austin-democrat-demands-bodycam-video-independent-probe"
+          "title": "Jets collapse late against Packers, miss chance at first 2-0 start since 2015 in overtime loss",
+          "link": "https://www.foxnews.com/outkick-sports/jets-collapse-late-against-packers-miss-chance-first-2-0-start-since-2015-overtime-loss"
         },
         {
-          "title": "Trump, Iranian president converge on NYC for ‘dramatic’ UN showdown as Tehran faces tight restrictions",
-          "link": "https://www.foxnews.com/world/trump-iranian-president-converge-nyc-dramatic-un-showdown-tehran-faces-tight-restrictions"
+          "title": "Mike Vrabel snaps at reporter over Drake Maye's struggles after Pats win: 'you're not going to ruin my Sunday'",
+          "link": "https://www.foxnews.com/outkick/mike-vrabel-snaps-reporter-drake-maye-struggles-pats-win-not-going-ruin-sunday"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T21:23:06.369Z"
+      "updatedAt": "2026-09-21T00:03:17.137Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -89,10 +89,22 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T21:23:06.442Z"
+      "updatedAt": "2026-09-21T00:03:17.294Z"
     },
     "The Hill": {
       "items": [
+        {
+          "title": "Grassley urges Trump to place embargo on diesel exports amid high prices",
+          "link": "https://thehill.com/policy/transportation/6100820-grassley-urges-trump-diesel-embargo/"
+        },
+        {
+          "title": "This week on the Hill: Senate eyes final passage on college sports bill",
+          "link": "https://thehill.com/newsletters/this-week-on-the-hill/6099111-senate-protect-college-sports-act-heidi-overton-fda/"
+        },
+        {
+          "title": "AI fears burst onto Trump-Xi agenda, but challenges abound",
+          "link": "https://thehill.com/policy/international/6099099-trump-xi-ai-talks-us-china/"
+        },
         {
           "title": "Zelensky to meet with Trump in New York this week",
           "link": "https://thehill.com/policy/international/6100733-trump-zelensky-nyc-meeting/"
@@ -100,22 +112,10 @@
         {
           "title": "DDHQ director says Mike Rogers's time is 'running out'",
           "link": "https://thehill.com/homenews/campaign/6100643-michigan-senate-race-forecast/"
-        },
-        {
-          "title": "Florida Republican calls interim Venezuelan president 'necessary evil'",
-          "link": "https://thehill.com/homenews/house/6100642-salazar-delcy-rodriguez-necessary-evil/"
-        },
-        {
-          "title": "Hassett on Iran war: 'The president had to act'",
-          "link": "https://thehill.com/homenews/administration/6100592-hassett-defends-trump-iran-war/"
-        },
-        {
-          "title": "Trump, Mamdani to meet in New York on Monday",
-          "link": "https://thehill.com/homenews/administration/6100625-trump-mamdani-gracie-mansion-meeting/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T21:23:06.673Z"
+      "updatedAt": "2026-09-21T00:03:17.944Z"
     },
     "Ars Technica": {
       "items": [
@@ -141,7 +141,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T21:23:06.766Z"
+      "updatedAt": "2026-09-21T00:03:18.074Z"
     },
     "The Verge": {
       "items": [
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T21:23:07.157Z"
+      "updatedAt": "2026-09-21T00:03:18.141Z"
     },
     "BBC World": {
       "items": [
@@ -201,7 +201,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T21:23:07.403Z"
+      "updatedAt": "2026-09-21T00:03:18.268Z"
     },
     "BBC News": {
       "items": [
@@ -214,8 +214,12 @@
           "link": "https://www.bbc.co.uk/news/articles/cry4z1xykeleo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Watch: Emotional Earl Spencer says he misses sister Diana every day",
-          "link": "https://www.bbc.co.uk/news/videos/cw62mdrjll18o?at_medium=RSS&at_campaign=rss"
+          "title": "Specialist courts for rape cases to be rolled out across England and Wales",
+          "link": "https://www.bbc.co.uk/news/articles/c5lympv9nw3jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Union calls for halt to graded Ofsted inspections over health concerns",
+          "link": "https://www.bbc.co.uk/news/articles/cv1j4k1nez76o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
@@ -224,17 +228,17 @@
         {
           "title": "Burnham hails Greenland deal ahead of expected first Trump meeting",
           "link": "https://www.bbc.co.uk/news/articles/c8207255rq5lo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Sister of Pakistan's ex-PM Imran Khan arrested",
-          "link": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T21:23:07.427Z"
+      "updatedAt": "2026-09-21T00:03:18.309Z"
     },
     "NY Times": {
       "items": [
+        {
+          "title": "Houthis Push to Expand Territory as Tensions With Saudi Arabia Rise",
+          "link": "https://www.nytimes.com/2026/09/20/world/middleeast/saudi-arabia-yemen-houthis-fighting.html"
+        },
         {
           "title": "How President Trump Broke the Kennedy Center",
           "link": "https://www.nytimes.com/2026/09/20/us/politics/trump-kennedy-center.html"
@@ -244,20 +248,16 @@
           "link": "https://www.nytimes.com/2026/09/20/science/nih-omb-grants-bhattacharya-vought.html"
         },
         {
-          "title": "Markwayne Mullin Lost His Pick to Lead ICE, as He Struggles to Prove His Toughness on Immigration",
-          "link": "https://www.nytimes.com/2026/09/20/us/politics/dhs-leader-ice-markwayne-mullin-immigration.html"
-        },
-        {
           "title": "Trump Says His D.C. Arch Would Be a ‘Military Complex’ Housing Drones and Snipers",
           "link": "https://www.nytimes.com/2026/09/20/us/politics/trump-dc-arch-snipers-drones-military-complex.html"
         },
         {
-          "title": "Houthis Push to Expand Territory as Tensions With Saudi Arabia Rise",
-          "link": "https://www.nytimes.com/2026/09/20/world/middleeast/saudi-arabia-yemen-houthis-fighting.html"
+          "title": "In Fighting for Every Black Child, Did I Betray My Own?",
+          "link": "https://www.nytimes.com/2026/09/20/magazine/ny-public-schools-black-students-segregation.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T21:23:07.459Z"
+      "updatedAt": "2026-09-21T00:03:18.409Z"
     }
   },
   "indices": {
@@ -279,13 +279,13 @@
       },
       {
         "name": "Gold",
-        "price": 4424.9,
-        "pct": 2.1256462333825574
+        "price": 4411.8,
+        "pct": 1.823301329394387
       },
       {
         "name": "Bitcoin",
-        "price": 80800.89,
-        "pct": 6.107091867768897
+        "price": 81325,
+        "pct": 6.441082684794214
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-09-20T21:23:07.553Z"
+    "updatedAt": "2026-09-21T00:03:18.505Z"
   }
 }
