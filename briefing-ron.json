@@ -1,8 +1,24 @@
 {
-  "fetchedAt": "2026-09-22T04:26:08.682Z",
+  "fetchedAt": "2026-09-22T09:47:13.259Z",
   "feeds": {
     "MarketWatch": {
       "items": [
+        {
+          "title": "What this machine-learning model with 65% accuracy says is coming next for the 10-year Treasury",
+          "link": "https://www.marketwatch.com/story/what-this-machine-learning-model-with-65-accuracy-says-is-coming-next-for-the-10-year-treasury-55d76b8f?mod=mw_rss_topstories"
+        },
+        {
+          "title": "‘She gave a neighbor $2,000’: Social Security overpaid my mother, 82, by $20,000. What else is hiding in her finances?",
+          "link": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Amanda Seyfried splits with husband Thomas Sadoski, weeks after listing L.A. home for $3.2 million",
+          "link": "https://www.marketwatch.com/story/amanda-seyfried-splits-with-husband-thomas-sadoski-weeks-after-listing-l-a-home-for-3-2-million-2ed9b8ab?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Singer Charlie Puth sells $18.5 million SoCal mansion where he married Brook Sansone",
+          "link": "https://www.marketwatch.com/story/singer-charlie-puth-sells-18-5-million-socal-mansion-where-he-married-brook-sansone-4447dc2c?mod=mw_rss_topstories"
+        },
         {
           "title": "Princeton’s 15-year run as the nation’s top college is over. MIT is now No. 1.",
           "link": "https://www.marketwatch.com/story/princetons-15-year-run-as-the-nations-top-college-is-over-mit-is-now-no-1-e9f17169?mod=mw_rss_topstories"
@@ -10,56 +26,40 @@
         {
           "title": "Meta’s stock is enjoying its best month in 13 years thanks to the company’s hot new AI assistant",
           "link": "https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories"
-        },
-        {
-          "title": "AT&T’s stock looks like the smartest bet in the wireless sector, analyst says",
-          "link": "https://www.marketwatch.com/story/at-ts-stock-looks-like-the-smartest-bet-in-the-wireless-sector-analyst-says-6e773d63?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Bitcoin hits an 8-month high — and sends a clear message about risk appetite right now",
-          "link": "https://www.marketwatch.com/story/bitcoin-hits-an-8-month-high-and-sends-a-clear-message-about-risk-appetite-right-now-edc7b9a5?mod=mw_rss_topstories"
-        },
-        {
-          "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
-          "link": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories"
-        },
-        {
-          "title": "As the S&P 500 nears a new record high, there are signs of weakness below the surface",
-          "link": "https://www.marketwatch.com/story/as-the-s-p-500-nears-a-new-record-high-there-are-cracks-below-the-surface-6df3e90d?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T04:26:06.992Z"
+      "updatedAt": "2026-09-22T09:47:10.629Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Giants' season-opening high comes crashing down as Jaxson Dart's knee injury overshadows Rams' blowout win",
-          "link": "https://www.foxnews.com/outkick-sports/giants-season-opening-high-comes-crashing-down-jaxson-darts-knee-injury-overshadows-rams-blowout-win"
+          "title": "Pro-life group ramps up NC ground game as report finds fed abortion message gives GOP candidate biggest boost",
+          "link": "https://www.foxnews.com/politics/pro-life-group-ramps-nc-ground-game-report-finds-fed-abortion-message-gives-gop-candidate-biggest-boost"
         },
         {
-          "title": "Trump was a 'caged lion' roaring to return to WHCA Dinner ballroom after shooting, Leavitt says",
-          "link": "https://www.foxnews.com/media/trump-caged-lion-roaring-return-whca-dinner-ballroom-shooting-leavitt-says"
+          "title": "Trump to zero-in on Iran nuclear threat, Gaza plan and UN overhaul in world stage speech",
+          "link": "https://www.foxnews.com/politics/trump-zero-in-iran-nuclear-threat-gaza-plan-un-overhaul-world-stage-speech"
         },
         {
-          "title": "Sylvester Stallone reveals what he said to Trump after surprise Hollywood ambassador appointment",
-          "link": "https://www.foxnews.com/entertainment/sylvester-stallone-reveals-what-he-said-trump-after-surprise-hollywood-ambassador-appointment"
+          "title": "LIZ PEEK: Can Trump Make the UN Great Again despite its globalist agenda?",
+          "link": "https://www.foxnews.com/opinion/liz-peek-can-trump-make-un-great-again-despite-globalist-agenda"
         },
         {
-          "title": "Mamdani tells Trump banned White House outlets are welcome at NYC meeting",
-          "link": "https://www.foxnews.com/politics/mamdani-tells-trump-banned-white-house-outlets-welcome-nyc-meeting"
+          "title": "MORNING GLORY: The best case for AI? Let it decide who gets into college",
+          "link": "https://www.foxnews.com/opinion/morning-glory-best-case-ai-decide-who-gets-into-college"
         },
         {
-          "title": "Maryland hunter's alleged mistake leaves Delaware mother dead",
-          "link": "https://www.foxnews.com/us/maryland-hunters-alleged-mistake-leaves-delaware-mother-dead"
+          "title": "Presley Gerber’s death sparks questions about overdose, withdrawal and rehab safety",
+          "link": "https://www.foxnews.com/health/presley-gerber-death-sparks-questions-overdose-withdrawal-rehab-safety"
         },
         {
-          "title": "Giants quarterback Jaxson Dart suffers knee injury against Rams, possible MCL issue feared",
-          "link": "https://www.foxnews.com/outkick-sports/giants-quarterback-jaxson-dart-suffers-knee-injury-against-rams-possible-mcl-issue-feared"
+          "title": "DR. MARC SIEGEL: 'THE ANGELS AMONG US' -- A dying woman, the shofar and the miracle that followed",
+          "link": "https://www.foxnews.com/opinion/dr-marc-siegel-angels-among-us-dying-woman-shofar-miracle-followed"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T04:26:07.216Z"
+      "updatedAt": "2026-09-22T09:47:10.980Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -89,7 +89,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T04:26:07.542Z"
+      "updatedAt": "2026-09-22T09:47:11.313Z"
     },
     "The Hill": {
       "items": [
@@ -115,7 +115,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T04:26:07.949Z"
+      "updatedAt": "2026-09-22T09:47:12.082Z"
     },
     "Ars Technica": {
       "items": [
@@ -141,10 +141,14 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T04:26:08.085Z"
+      "updatedAt": "2026-09-22T09:47:12.441Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "Apple&#8217;s first live music venue is opening beneath its UK headquarters",
+          "link": "https://www.theverge.com/tech/998581/apple-music-hall-london-venue-battersea"
+        },
         {
           "title": "A cut cable disrupted hundreds of flights across the US",
           "link": "https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us"
@@ -160,78 +164,74 @@
         {
           "title": "GM can’t ‘bring back’ Apple CarPlay because it never left",
           "link": "https://www.theverge.com/transportation/998259/gm-apple-carplay-android-auto-phone-mirror-google"
-        },
-        {
-          "title": "Paramount settles lawsuit blocking $110 billion Warner Bros. merger",
-          "link": "https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T04:26:08.219Z"
+      "updatedAt": "2026-09-22T09:47:12.620Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
-          "link": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
-          "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Merz vows to keep coalition together for Germany's 'democratic future'",
-          "link": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "First UK charges brought over 1994 Rwanda genocide",
-          "link": "https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
-          "link": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
-          "link": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Xhaka under investigation over Covid-19 certificate",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c3qjkpgengn7o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "ok": true,
-      "updatedAt": "2026-09-22T04:26:08.351Z"
-    },
-    "BBC News": {
-      "items": [
-        {
-          "title": "Burnham expects to find 'common ground' with Trump in first meeting",
-          "link": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "UK to provide Saudi Arabia with 'defensive' military support, says Burnham",
-          "link": "https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Martha's Rule rolled out at every A&E department in England",
-          "link": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss"
+          "title": "Major US outlets boycott shared Trump coverage in protest at media ban",
+          "link": "https://www.bbc.co.uk/news/articles/cje3rezd92y3o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
           "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Airlines criticise air traffic control as second glitch causes more disruption",
-          "link": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss"
+          "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
+          "link": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Watch: Police raid organised crime targets in Teesside",
-          "link": "https://www.bbc.co.uk/news/videos/c9x2z1m45vlno?at_medium=RSS&at_campaign=rss"
+          "title": "Teenager captured after 11 shot at Turkish high school",
+          "link": "https://www.bbc.co.uk/news/articles/c6y0z4gv0le4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Sri Lankan court to deliver verdict on deadly Easter bombings",
+          "link": "https://www.bbc.co.uk/news/articles/cw8r687nedzgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Texas ICE shooting leaves Venezuelan DoorDash driver with bullet in his back, says lawyer",
+          "link": "https://www.bbc.co.uk/news/articles/c3y0z25v0zjwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Four dead after powerful Typhoon Dujuan lashes Japan",
+          "link": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T04:26:08.374Z"
+      "updatedAt": "2026-09-22T09:47:12.815Z"
+    },
+    "BBC News": {
+      "items": [
+        {
+          "title": "Martha's Rule rolled out at every A&E department in England",
+          "link": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor",
+          "link": "https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Burnham expects to find 'common ground' with Trump in first meeting",
+          "link": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Who will - and who won't - be talking to Donald Trump at the UN General Assembly?",
+          "link": "https://www.bbc.co.uk/news/videos/cxe87p9d4198o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Scientists discover why Kent meningitis outbreak was so severe",
+          "link": "https://www.bbc.co.uk/news/articles/cmdx5pp6rxqyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Major US outlets boycott shared Trump coverage in protest at media ban",
+          "link": "https://www.bbc.co.uk/news/articles/cje3rezd92y3o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "ok": true,
+      "updatedAt": "2026-09-22T09:47:12.967Z"
     },
     "NY Times": {
       "items": [
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T04:26:08.534Z"
+      "updatedAt": "2026-09-22T09:47:13.124Z"
     }
   },
   "indices": {
@@ -279,13 +279,13 @@
       },
       {
         "name": "Gold",
-        "price": 4375.1,
-        "pct": -0.5591290315248643
+        "price": 4352,
+        "pct": -1.0841648294201838
       },
       {
         "name": "Bitcoin",
-        "price": 85522.5,
-        "pct": 5.711936471851056
+        "price": 86029.17,
+        "pct": 6.3382168875567775
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-09-22T04:26:08.682Z"
+    "updatedAt": "2026-09-22T09:47:13.259Z"
   }
 }
