@@ -1,8 +1,12 @@
 {
-  "fetchedAt": "2026-09-21T23:07:55.712Z",
+  "fetchedAt": "2026-09-22T04:26:08.682Z",
   "feeds": {
     "MarketWatch": {
       "items": [
+        {
+          "title": "Princeton’s 15-year run as the nation’s top college is over. MIT is now No. 1.",
+          "link": "https://www.marketwatch.com/story/princetons-15-year-run-as-the-nations-top-college-is-over-mit-is-now-no-1-e9f17169?mod=mw_rss_topstories"
+        },
         {
           "title": "Meta’s stock is enjoying its best month in 13 years thanks to the company’s hot new AI assistant",
           "link": "https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories"
@@ -22,100 +26,96 @@
         {
           "title": "As the S&P 500 nears a new record high, there are signs of weakness below the surface",
           "link": "https://www.marketwatch.com/story/as-the-s-p-500-nears-a-new-record-high-there-are-cracks-below-the-surface-6df3e90d?mod=mw_rss_topstories"
-        },
-        {
-          "title": "These beaten-down stocks could bounce back in January, if history is any guide",
-          "link": "https://www.marketwatch.com/story/these-beaten-down-stocks-could-bounce-back-in-january-if-history-is-any-guide-865a3f6b?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-21T23:07:53.934Z"
+      "updatedAt": "2026-09-22T04:26:06.992Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Trumpeter Dr Jesse McGuire belts national anthem after instrument malfunctions in unforgettable MLB moment",
-          "link": "https://www.foxnews.com/outkick-sports/trumpeter-dr-jesse-mcguire-belts-national-anthem-instrument-malfunctions-unforgettable-mlb-moment"
+          "title": "Giants' season-opening high comes crashing down as Jaxson Dart's knee injury overshadows Rams' blowout win",
+          "link": "https://www.foxnews.com/outkick-sports/giants-season-opening-high-comes-crashing-down-jaxson-darts-knee-injury-overshadows-rams-blowout-win"
         },
         {
-          "title": "National Park Service director calls Yellowstone's wild bison recovery an 'incredible conservation story'",
-          "link": "https://www.foxnews.com/outkick-culture/national-park-service-director-calls-yellowstones-wild-bison-recovery-incredible-conservation-story"
+          "title": "Trump was a 'caged lion' roaring to return to WHCA Dinner ballroom after shooting, Leavitt says",
+          "link": "https://www.foxnews.com/media/trump-caged-lion-roaring-return-whca-dinner-ballroom-shooting-leavitt-says"
         },
         {
-          "title": "Chiefs coach suggests Taylor Swift has sparked Travis Kelce's performance in first two weeks of season",
-          "link": "https://www.foxnews.com/outkick-sports/chiefs-coach-suggests-taylor-swift-sparked-travis-kelce-performance-first-two-weeks-season"
+          "title": "Sylvester Stallone reveals what he said to Trump after surprise Hollywood ambassador appointment",
+          "link": "https://www.foxnews.com/entertainment/sylvester-stallone-reveals-what-he-said-trump-after-surprise-hollywood-ambassador-appointment"
         },
         {
-          "title": "Fury erupts over Mamdani parade invite as old Columbus insult resurfaces: ‘Are you kidding me?’",
-          "link": "https://www.foxnews.com/politics/fury-erupts-over-mamdani-parade-invite-old-columbus-insult-resurfaces-are-you-kidding-me"
+          "title": "Mamdani tells Trump banned White House outlets are welcome at NYC meeting",
+          "link": "https://www.foxnews.com/politics/mamdani-tells-trump-banned-white-house-outlets-welcome-nyc-meeting"
         },
         {
-          "title": "'The View' host Sunny Hostin claims her children experienced racism at private schools",
-          "link": "https://www.foxnews.com/media/the-view-host-sunny-hostin-claims-children-experienced-racism-private-schools"
+          "title": "Maryland hunter's alleged mistake leaves Delaware mother dead",
+          "link": "https://www.foxnews.com/us/maryland-hunters-alleged-mistake-leaves-delaware-mother-dead"
         },
         {
-          "title": "Rep Eric Burlison: 'Most of my colleagues' are 'drunk on spending other people's money, even Republicans'",
-          "link": "https://www.foxnews.com/politics/rep-eric-burlison-most-colleagues-drunk-spending-other-peoples-money-even-republicans"
+          "title": "Giants quarterback Jaxson Dart suffers knee injury against Rams, possible MCL issue feared",
+          "link": "https://www.foxnews.com/outkick-sports/giants-quarterback-jaxson-dart-suffers-knee-injury-against-rams-possible-mcl-issue-feared"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-21T23:07:54.145Z"
+      "updatedAt": "2026-09-22T04:26:07.216Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "Did I Betray My Own Child?",
-          "link": "https://www.realclearpolitics.com/2026/09/21/did_i_betray_my_own_child_711686.html"
+          "title": "Greenland Bases Forever",
+          "link": "https://www.realclearpolitics.com/2026/09/21/greenland_bases_forever_711711.html"
         },
         {
-          "title": "Partisanship on the Program at the Kennedy Center",
-          "link": "https://www.realclearpolitics.com/2026/09/21/partisanship_on_the_program_at_the_kennedy_center_711690.html"
+          "title": "China Still Has What America Needs",
+          "link": "https://www.realclearpolitics.com/2026/09/21/china_still_has_what_america_needs_711689.html"
         },
         {
-          "title": "CNN, MS Now, Politico Sue Trump Admin Over WH Access",
-          "link": "https://www.realclearpolitics.com/2026/09/21/cnn_ms_now_politico_sue_trump_admin_over_wh_access_711695.html"
+          "title": "AI's Threat to China's Control",
+          "link": "https://www.realclearpolitics.com/2026/09/21/ais_threat_to_chinas_control_711712.html"
         },
         {
-          "title": "Courthouse Coup, Minnesota Style",
-          "link": "https://www.realclearpolitics.com/2026/09/21/courthouse_coup_minnesota_style_711482.html"
+          "title": "Who Funds the Uniparty in UK?",
+          "link": "https://www.realclearpolitics.com/2026/09/21/who_funds_the_uniparty_in_uk_711706.html"
         },
         {
-          "title": "Center-Left Needs To Step Up",
-          "link": "https://www.realclearpolitics.com/2026/09/21/center-left_needs_to_step_up_711447.html"
+          "title": "3 Pillars of a New Era for Schools",
+          "link": "https://www.realclearpolitics.com/2026/09/21/3_pillars_of_a_new_era_for_schools_711681.html"
         },
         {
-          "title": "Starbucks Resolves Lawsuit, Ends Race/Sex-Based Hiring",
-          "link": "https://www.realclearpolitics.com/2026/09/21/starbucks_resolves_lawsuit_ends_racesex-based_hiring_711703.html"
+          "title": "OPNightingale Exposes Fake Nursing Degree Scheme",
+          "link": "https://www.realclearpolitics.com/2026/09/21/opnightingale_exposes_fake_nursing_degree_scheme_711702.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-21T23:07:54.337Z"
+      "updatedAt": "2026-09-22T04:26:07.542Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Former WHCA president on Trump's press ban: 'An attack on one outlet is an attack on everyone'",
-          "link": "https://thehill.com/media/6102786-trump-whca-media-ban/"
+          "title": "White House launches Trump TV following press bans",
+          "link": "https://thehill.com/homenews/administration/6103061-white-house-launches-trump-tv/"
         },
         {
-          "title": "Hegseth to chair Pentagon’s new homeland defense panel",
-          "link": "https://thehill.com/policy/defense/6102879-hegseth-establishes-pentagon-homeland-defense-board/"
+          "title": "Fewer than half of California voters back billionaire tax: Poll",
+          "link": "https://thehill.com/homenews/campaign/6103019-prop-40-support-drops/"
         },
         {
-          "title": "Appeals court reinstates GOP House map in Missouri for November election",
-          "link": "https://thehill.com/regulation/court-battles/6102804-mo-court-reinstates-gop-house-map/"
+          "title": "UN panel calls for guardrails on AI as current safeguards are 'unraveling'",
+          "link": "https://thehill.com/policy/technology/6102955-un-ai-panel-urges-safeguards/"
         },
         {
-          "title": "Trump says Mamdani has ‘great potential’ after Gracie Mansion visit",
-          "link": "https://thehill.com/homenews/administration/6102816-trump-mamdani-gracie-mansion-visit/"
+          "title": "GOP nominees call for end to Iran war while on campaign trail",
+          "link": "https://thehill.com/newsletters/defense-national-security/6102932-gop-nominees-call-end-iran-war-while-campaign-trail/"
         },
         {
-          "title": "CIA director meets with Zelensky at airport in Ireland",
-          "link": "https://thehill.com/policy/international/6102785-ratcliffe-zelensky-airport-meeting/"
+          "title": "Trump admin reportedly considers NIH grant approval takeover",
+          "link": "https://thehill.com/newsletters/healthcare/6102928-trump-admin-reportedly-considers-nih-grant-approval-takeover/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-21T23:07:54.755Z"
+      "updatedAt": "2026-09-22T04:26:07.949Z"
     },
     "Ars Technica": {
       "items": [
@@ -141,10 +141,18 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-21T23:07:54.952Z"
+      "updatedAt": "2026-09-22T04:26:08.085Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "A cut cable disrupted hundreds of flights across the US",
+          "link": "https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us"
+        },
+        {
+          "title": "Amazon wants to help the Colorado River, but we still don’t know how much water the company uses",
+          "link": "https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river"
+        },
         {
           "title": "California tightens rules on AI data center energy and water use",
           "link": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills"
@@ -156,18 +164,10 @@
         {
           "title": "Paramount settles lawsuit blocking $110 billion Warner Bros. merger",
           "link": "https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement"
-        },
-        {
-          "title": "Bungie says it’s ‘not done with Destiny’ and will bring back vaulted content",
-          "link": "https://www.theverge.com/news/998317/bungie-destiny-2-unvaulted-raids-campaigns-destinations"
-        },
-        {
-          "title": "Grab an Xbox controller and a $50 Xbox gift card together for just $80",
-          "link": "https://www.theverge.com/gadgets/998207/xbox-controller-chromebook-usbc-charger-deal-sale"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-21T23:07:55.139Z"
+      "updatedAt": "2026-09-22T04:26:08.219Z"
     },
     "BBC World": {
       "items": [
@@ -201,29 +201,29 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-21T23:07:55.285Z"
+      "updatedAt": "2026-09-22T04:26:08.351Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Airlines criticise air traffic control as second glitch causes more disruption",
-          "link": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss"
+          "title": "Burnham expects to find 'common ground' with Trump in first meeting",
+          "link": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "UK to provide Saudi Arabia with 'defensive' military support, says Burnham",
           "link": "https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
-          "link": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss"
+          "title": "Martha's Rule rolled out at every A&E department in England",
+          "link": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "First UK charges brought over 1994 Rwanda genocide",
-          "link": "https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss"
+          "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
+          "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Flights at major US airports delayed after cable cut by construction workers",
-          "link": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss"
+          "title": "Airlines criticise air traffic control as second glitch causes more disruption",
+          "link": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Watch: Police raid organised crime targets in Teesside",
@@ -231,10 +231,22 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-21T23:07:55.307Z"
+      "updatedAt": "2026-09-22T04:26:08.374Z"
     },
     "NY Times": {
       "items": [
+        {
+          "title": "China’s Leader Xi Seeks to Extend Truce with Trump During U.S. Summit",
+          "link": "https://www.nytimes.com/2026/09/21/world/asia/xi-trump-meeting-china-summit.html"
+        },
+        {
+          "title": "China’s Continued Control of Rare Earths Looms Over Trump-Xi Meeting",
+          "link": "https://www.nytimes.com/2026/09/21/business/china-rare-earth-summit.html"
+        },
+        {
+          "title": "Japan Meets With Trump, Hoping to Get His Help on China",
+          "link": "https://www.nytimes.com/2026/09/21/world/asia/trump-takaichi-japan-china-economy.html"
+        },
         {
           "title": "Wall Street Is Growing Skeptical of the Data Center Boom",
           "link": "https://www.nytimes.com/2026/09/21/business/ai-data-center-ipos.html"
@@ -242,22 +254,10 @@
         {
           "title": "Are A.I. Models Being Misled to Act Too Human?",
           "link": "https://www.nytimes.com/2026/09/21/science/ai-anthropomorphism-consciousness.html"
-        },
-        {
-          "title": "U.N. Seeks Relevance on A.I. as the U.S. and China Race Ahead",
-          "link": "https://www.nytimes.com/2026/09/21/us/politics/united-nations-artificial-intelligence-china-us.html"
-        },
-        {
-          "title": "Paramount Cleared to Buy Warner Bros.",
-          "link": "https://www.nytimes.com/2026/09/21/briefing/paramount-cnn-houthis.html"
-        },
-        {
-          "title": "Paramount Settles States’ Lawsuit, Clearing Way for Warner Bros. Merger",
-          "link": "https://www.nytimes.com/2026/09/21/business/paramount-warner-bros-ellison.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-21T23:07:55.435Z"
+      "updatedAt": "2026-09-22T04:26:08.534Z"
     }
   },
   "indices": {
@@ -279,13 +279,13 @@
       },
       {
         "name": "Gold",
-        "price": 4402.7,
-        "pct": 0.3464387464387423
+        "price": 4375.1,
+        "pct": -0.5591290315248643
       },
       {
         "name": "Bitcoin",
-        "price": 86577.38,
-        "pct": 13.315586390566853
+        "price": 85522.5,
+        "pct": 5.711936471851056
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-09-21T23:07:55.712Z"
+    "updatedAt": "2026-09-22T04:26:08.682Z"
   }
 }
