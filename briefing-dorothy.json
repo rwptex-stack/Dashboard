@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-09-22T05:33:47.646Z",
+  "fetchedAt": "2026-09-22T10:29:49.342Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Giants' season-opening high comes crashing down as Jaxson Dart's knee injury overshadows Rams' blowout win",
-          "link": "https://www.foxnews.com/outkick-sports/giants-season-opening-high-comes-crashing-down-jaxson-darts-knee-injury-overshadows-rams-blowout-win"
+          "title": "Outgoing House Democrat backs incumbent Republican lawmaker for re-election",
+          "link": "https://www.foxnews.com/politics/outgoing-house-democrat-backs-incumbent-republican-lawmaker-re-election"
         },
         {
-          "title": "Trump was a 'caged lion' roaring to return to WHCA Dinner ballroom after shooting, Leavitt says",
-          "link": "https://www.foxnews.com/media/trump-caged-lion-roaring-return-whca-dinner-ballroom-shooting-leavitt-says"
+          "title": "Anxiety grows over emerging election issue, but GOP says Washington isn't the answer",
+          "link": "https://www.foxnews.com/politics/anxiety-grows-over-emerging-election-issue-gop-says-washington-isnt-answer"
         },
         {
-          "title": "Sylvester Stallone reveals what he said to Trump after surprise Hollywood ambassador appointment",
-          "link": "https://www.foxnews.com/entertainment/sylvester-stallone-reveals-what-he-said-trump-after-surprise-hollywood-ambassador-appointment"
+          "title": "Kirk family may have path around archaic law shielding gov't in police chief’s alleged ‘got you covered’ text",
+          "link": "https://www.foxnews.com/us/kirk-family-path-archaic-law-shielding-govt-police-chief-alleged-got-you-covered-text"
         },
         {
-          "title": "Mamdani tells Trump banned White House outlets are welcome at NYC meeting",
-          "link": "https://www.foxnews.com/politics/mamdani-tells-trump-banned-white-house-outlets-welcome-nyc-meeting"
+          "title": "Trump’s Greenland deal set for signing after months-long fight over US control",
+          "link": "https://www.foxnews.com/politics/trumps-greenland-deal-set-signing-months-long-fight-us-control"
         },
         {
-          "title": "Maryland hunter's alleged mistake leaves Delaware mother dead",
-          "link": "https://www.foxnews.com/us/maryland-hunters-alleged-mistake-leaves-delaware-mother-dead"
+          "title": "Mamdani’s ‘mass engagement’ office draws fire over plans to build influence beyond City Hall: ‘NYC is done’",
+          "link": "https://www.foxnews.com/politics/mamdanis-mass-engagement-office-draws-fire-plans-build-influence-beyond-city-hall-nyc-done"
         },
         {
-          "title": "Giants quarterback Jaxson Dart suffers knee injury against Rams, possible MCL issue feared",
-          "link": "https://www.foxnews.com/outkick-sports/giants-quarterback-jaxson-dart-suffers-knee-injury-against-rams-possible-mcl-issue-feared"
+          "title": "Pro-life group ramps up NC ground game as report finds fed abortion message gives GOP candidate biggest boost",
+          "link": "https://www.foxnews.com/politics/pro-life-group-ramps-nc-ground-game-report-finds-fed-abortion-message-gives-gop-candidate-biggest-boost"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T05:33:45.080Z"
+      "updatedAt": "2026-09-22T10:29:47.060Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,33 +59,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T05:33:45.229Z"
+      "updatedAt": "2026-09-22T10:29:47.263Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "White House launches Trump TV following press bans",
-          "link": "https://thehill.com/homenews/administration/6103061-white-house-launches-trump-tv/"
+          "title": "Newsom eyes 2028 as Democrats weigh their political future",
+          "link": "https://thehill.com/homenews/campaign/fight-for-2028/6102239-gavin-newsom-2028-democratic-party-future-live-discussion/"
         },
         {
-          "title": "Fewer than half of California voters back billionaire tax: Poll",
-          "link": "https://thehill.com/homenews/campaign/6103019-prop-40-support-drops/"
+          "title": "Trump floods the zone with press ban, triumphal arch, Kennedy Center",
+          "link": "https://thehill.com/homenews/administration/6102803-trump-economy-midterm-concerns/"
         },
         {
-          "title": "UN panel calls for guardrails on AI as current safeguards are 'unraveling'",
-          "link": "https://thehill.com/policy/technology/6102955-un-ai-panel-urges-safeguards/"
+          "title": "A diesel-powered panic for GOP in Iowa",
+          "link": "https://thehill.com/homenews/analysis/6102812-ashley-hinson-iran-war/"
         },
         {
-          "title": "GOP nominees call for end to Iran war while on campaign trail",
-          "link": "https://thehill.com/newsletters/defense-national-security/6102932-gop-nominees-call-end-iran-war-while-campaign-trail/"
+          "title": "Republicans walk a Trump tightrope heading into midterms",
+          "link": "https://thehill.com/homenews/house/6102813-gop-lawmakers-distance-trump-midterms/"
         },
         {
-          "title": "Trump admin reportedly considers NIH grant approval takeover",
-          "link": "https://thehill.com/newsletters/healthcare/6102928-trump-admin-reportedly-considers-nih-grant-approval-takeover/"
+          "title": "Hung Cao's bid for Navy secretary faces choppy waters post-USS Abraham Lincoln",
+          "link": "https://thehill.com/policy/defense/6102669-trump-hung-cao-waiver-jeopardy/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T05:33:45.917Z"
+      "updatedAt": "2026-09-22T10:29:47.847Z"
     },
     "Ars Technica": {
       "items": [
@@ -111,10 +111,18 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T05:33:46.010Z"
+      "updatedAt": "2026-09-22T10:29:47.978Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "Can you forget how you feel about Meta?",
+          "link": "https://www.theverge.com/cs/features/991659/meta-mark-zuckerberg-future-glasses-ai-instagram"
+        },
+        {
+          "title": "Apple&#8217;s first live music venue is opening beneath its UK headquarters",
+          "link": "https://www.theverge.com/tech/998581/apple-music-hall-london-venue-battersea"
+        },
         {
           "title": "A cut cable disrupted hundreds of flights across the US",
           "link": "https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us"
@@ -126,82 +134,74 @@
         {
           "title": "California tightens rules on AI data center energy and water use",
           "link": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills"
-        },
-        {
-          "title": "GM can’t ‘bring back’ Apple CarPlay because it never left",
-          "link": "https://www.theverge.com/transportation/998259/gm-apple-carplay-android-auto-phone-mirror-google"
-        },
-        {
-          "title": "Paramount settles lawsuit blocking $110 billion Warner Bros. merger",
-          "link": "https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T05:33:46.089Z"
+      "updatedAt": "2026-09-22T10:29:48.035Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
-          "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss"
+          "title": "Major US outlets boycott shared Trump coverage in protest at media ban",
+          "link": "https://www.bbc.co.uk/news/articles/cje3rezd92y3o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
-          "link": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss"
+          "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
+          "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
           "link": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
-          "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss"
+          "title": "Eleven injured in shooting outside Turkish school",
+          "link": "https://www.bbc.co.uk/news/articles/c6y0z4gv0le4o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Merz vows to keep coalition together for Germany's 'democratic future'",
-          "link": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss"
+          "title": "Sri Lankan court to deliver verdict on deadly Easter bombings",
+          "link": "https://www.bbc.co.uk/news/articles/cw8r687nedzgo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "First UK charges brought over 1994 Rwanda genocide",
-          "link": "https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss"
+          "title": "Outrage in India over viral video of teen molested and her friend beaten",
+          "link": "https://www.bbc.co.uk/news/articles/cmz6z2vx65jeo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
+          "title": "Four dead after powerful Typhoon Dujuan lashes Japan",
           "link": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T05:33:46.162Z"
+      "updatedAt": "2026-09-22T10:29:48.181Z"
     },
     "BBC News": {
       "items": [
-        {
-          "title": "Burnham expects to find 'common ground' with Trump in first meeting",
-          "link": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "UK to provide Saudi Arabia with 'defensive' military support, says Burnham",
-          "link": "https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&at_campaign=rss"
-        },
         {
           "title": "Martha's Rule rolled out at every A&E department in England",
           "link": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
-          "link": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss"
+          "title": "Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor",
+          "link": "https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
-          "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss"
+          "title": "Burnham expects to find 'common ground' with Trump in first meeting",
+          "link": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Airlines criticise air traffic control as second glitch causes more disruption",
-          "link": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss"
+          "title": "Who will - and who won't - be talking to Donald Trump at the UN General Assembly?",
+          "link": "https://www.bbc.co.uk/news/videos/cxe87p9d4198o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Scientists discover why Kent meningitis outbreak was so severe",
+          "link": "https://www.bbc.co.uk/news/articles/cmdx5pp6rxqyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Major US outlets boycott shared Trump coverage in protest at media ban",
+          "link": "https://www.bbc.co.uk/news/articles/cje3rezd92y3o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T05:33:46.331Z"
+      "updatedAt": "2026-09-22T10:29:48.191Z"
     },
     "NY Times": {
       "items": [
@@ -218,16 +218,16 @@
           "link": "https://www.nytimes.com/2026/09/21/world/asia/trump-takaichi-japan-china-economy.html"
         },
         {
-          "title": "Wall Street Is Growing Skeptical of the Data Center Boom",
-          "link": "https://www.nytimes.com/2026/09/21/business/ai-data-center-ipos.html"
+          "title": "Why Xi Is Coming to Washington, and White House TV Feeds Go Dark",
+          "link": "https://www.nytimes.com/2026/09/22/podcasts/the-headlines/xi-jinping-dc-white-house-press-ban.html"
         },
         {
-          "title": "Are A.I. Models Being Misled to Act Too Human?",
-          "link": "https://www.nytimes.com/2026/09/21/science/ai-anthropomorphism-consciousness.html"
+          "title": "How Trump Has Cracked Down on Dissent Since the Killing of Charlie Kirk",
+          "link": "https://www.nytimes.com/2026/09/22/us/charlie-kirk-trump-free-speech.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T05:33:46.517Z"
+      "updatedAt": "2026-09-22T10:29:48.285Z"
     },
     "ARTNews": {
       "items": [
@@ -257,10 +257,14 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T05:33:46.635Z"
+      "updatedAt": "2026-09-22T10:29:48.579Z"
     },
     "Hyperallergic": {
       "items": [
+        {
+          "title": "Venice Pavilions That Missed the Mark",
+          "link": "https://hyperallergic.com/venice-pavilions-that-missed-the-mark/"
+        },
         {
           "title": "The Worst National Pavilions at the Venice Biennale",
           "link": "https://hyperallergic.com/the-worst-national-pavilions-at-the-venice-biennale/"
@@ -280,14 +284,10 @@
         {
           "title": "Photographer Nelson Garrido, Who Embraced an \"Aesthetics of the Ugly,\" Dies at 73",
           "link": "https://hyperallergic.com/photographer-nelson-garrido-who-embraced-an-aesthetics-of-the-ugly-dies-at-73/"
-        },
-        {
-          "title": "The Book of Alison Knowles",
-          "link": "https://hyperallergic.com/the-book-of-alison-knowles/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T05:33:46.741Z"
+      "updatedAt": "2026-09-22T10:29:48.714Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T05:33:47.535Z"
+      "updatedAt": "2026-09-22T10:29:49.195Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T05:33:47.646Z"
+      "updatedAt": "2026-09-22T10:29:49.342Z"
     }
   }
 }
