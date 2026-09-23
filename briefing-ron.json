@@ -1,65 +1,65 @@
 {
-  "fetchedAt": "2026-09-23T05:45:12.914Z",
+  "fetchedAt": "2026-09-23T11:16:36.179Z",
   "feeds": {
     "MarketWatch": {
       "items": [
         {
-          "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
-          "link": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories"
+          "title": "Financial stocks are falling as rates rise. Why that’s a problem for the broader market.",
+          "link": "https://www.marketwatch.com/story/financial-stocks-are-falling-as-rates-rise-why-thats-a-problem-for-the-broader-market-70bd9b04?mod=mw_rss_topstories"
         },
         {
-          "title": "‘She gave a neighbor $2,000’: Social Security overpaid my mother, 82, by $20,000. What else is hiding in her finances?",
+          "title": "The AI-infrastructure trade is still not over, says this top-performing fund manager. Here’s where he’s investing.",
+          "link": "https://www.marketwatch.com/story/the-ai-infrastructure-trade-is-still-not-over-says-this-top-performing-fund-manager-where-hes-investing-8c61f6da?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
           "link": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories"
         },
         {
-          "title": "The Nasdaq’s rapid rise to a record is sending a message to investors: Don’t wait for a pullback to buy",
-          "link": "https://www.marketwatch.com/story/the-nasdaqs-rapid-rise-to-a-record-is-sending-a-message-to-investors-dont-wait-for-a-pullback-to-buy-5f533ed8?mod=mw_rss_topstories"
+          "title": "‘I don’t begrudge them their money’: My husband and I have friends who spend, spend, spend. How do we keep up?",
+          "link": "https://www.marketwatch.com/story/i-dont-begrudge-them-their-money-my-husband-and-i-have-friends-who-spend-spend-spend-how-do-we-keep-up-e10164dc?mod=mw_rss_topstories"
         },
         {
-          "title": "Sandisk’s stock is rising: Why one analyst says AI could help it reach new heights",
-          "link": "https://www.marketwatch.com/story/sandisks-stock-is-rising-why-one-analyst-says-ai-could-help-it-reach-new-heights-5541ded8?mod=mw_rss_topstories"
+          "title": "Why analysts say a diesel export ban could backfire",
+          "link": "https://www.marketwatch.com/story/why-analysts-say-a-diesel-export-ban-could-backfire-8b13cd51?mod=mw_rss_topstories"
         },
         {
-          "title": "Want to bet on risky, high-beta stocks? Why you should wait for mid-October.",
-          "link": "https://www.marketwatch.com/story/want-to-bet-on-risky-high-beta-stocks-why-you-should-wait-for-this-week-in-october-d9094820?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Could Meta’s viral Muse app be the company’s ChatGPT moment?",
-          "link": "https://www.marketwatch.com/story/could-metas-viral-muse-app-be-the-companys-chatgpt-moment-8e7075aa?mod=mw_rss_topstories"
+          "title": "Here are the hidden flaws in Warsh’s new way of tracking inflation",
+          "link": "https://www.marketwatch.com/story/here-are-the-hidden-flaws-in-warshs-new-way-of-tracking-inflation-fb7939de?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T05:45:11.697Z"
+      "updatedAt": "2026-09-23T11:16:34.355Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Florida AG accuses teacher of labeling student a 'misogynist' over 'conservative views': 'She should be fired'",
-          "link": "https://www.foxnews.com/politics/florida-ag-accuses-teacher-labeling-student-misogynist-conservative-views-fired"
+          "title": "Chinese President Xi set to arrive in DC for high-stakes Trump summit and more top headlines",
+          "link": "https://www.foxnews.com/us/chinese-president-xi-set-arrive-dc-high-stakes-trump-summit-more-top-headlines"
         },
         {
-          "title": "Texas man charged with capital murder after 5-year-old killed in roadway shooting",
-          "link": "https://www.foxnews.com/us/texas-man-charged-capital-murder-5-year-old-killed-roadway-shooting"
+          "title": "Man goes to doctor to prove he’s 'in perfect shape,' test reveals shocking diagnosis",
+          "link": "https://www.foxnews.com/health/man-goes-doctor-prove-perfect-shape-test-reveals-shocking-diagnosis"
         },
         {
-          "title": "College basketball TV analyst and former Duke assistant Chris Spatola, Coach K's son-in-law, dies at 47",
-          "link": "https://www.foxnews.com/outkick-sports/college-basketball-tv-analyst-former-duke-assistant-chris-spatola-coach-k-son-in-law-dies-47"
+          "title": "Presley Gerber’s final hours at rehab in focus amid cause of death questions",
+          "link": "https://www.foxnews.com/entertainment/presley-gerber-final-hours-rehab-focus-amid-cause-death-questions"
         },
         {
-          "title": "Caitlin Clark, Indiana Fever drop statement win on top-seeded Lynx in final home game",
-          "link": "https://www.foxnews.com/outkick-sports/caitlin-clark-indiana-fever-drop-statement-win-top-seeded-lynx-final-home-game"
+          "title": "Ambassador Jeff Bartos: UN must abandon anti-American, anti-Western legacy of Durban Conference",
+          "link": "https://www.foxnews.com/opinion/ambassador-jeff-bartos-un-must-abandon-anti-american-anti-western-legacy-durban-conference"
         },
         {
-          "title": "Ella Langley says 'Choosin' Texas' success is 'changing my life' after her song breaks Mariah Carey's record",
-          "link": "https://www.foxnews.com/entertainment/ella-langley-says-choosin-texas-success-changing-my-life-after-her-song-breaks-mariah-careys-record"
+          "title": "Darren Rovell details how bad financial advice cost NBA legend Kobe Bryant an easy $23M payday",
+          "link": "https://www.foxnews.com/outkick-sports/darren-rovell-details-bad-financial-advice-cost-nba-legend-kobe-bryant-easy-23m-payday"
         },
         {
-          "title": "Harris keeps 2028 door open as she hits midterm campaign trail, warns ‘28 won’t matter’ without 2026",
-          "link": "https://www.foxnews.com/politics/harris-keeps-2028-door-open-hits-midterm-campaign-trail-warns-28-wont-matter-without-2026"
+          "title": "US Presidents Cup players explain how Christian faith builds friendships and puts golf in perspective",
+          "link": "https://www.foxnews.com/outkick-sports/us-presidents-cup-players-explain-christian-faith-builds-friendships-puts-golf-perspective"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T05:45:11.843Z"
+      "updatedAt": "2026-09-23T11:16:34.549Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -89,33 +89,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T05:45:11.986Z"
+      "updatedAt": "2026-09-23T11:16:34.875Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Wicker blasts Xi ahead of summit with Trump in DC",
-          "link": "https://thehill.com/homenews/senate/6105609-wicker-slams-trump-xi-summit/"
+          "title": "Pete Hegseth confronts House with a lame-duck impeachment dilemma",
+          "link": "https://thehill.com/homenews/house/6105122-trump-administration-iran-war-controversy/"
         },
         {
-          "title": "Cruz rips 'right-wing socialism,' says GOP shouldn't be 'giving away free stuff'",
-          "link": "https://thehill.com/homenews/senate/6105582-ted-cruz-criticizes-right-wing-socialism/"
+          "title": "Trawling fight makes waves in Alaska Senate contest",
+          "link": "https://thehill.com/homenews/6105130-peltola-sullivan-trawling-clash-alaska-senate/"
         },
         {
-          "title": "Ohio TV stations ignore legal threat from Max Miller, air opponent's ad: Report",
-          "link": "https://thehill.com/homenews/campaign/6105523-ohio-poindexter-max-miller-ad/"
+          "title": "Trump vs. press: White House media ban faces legal test",
+          "link": "https://thehill.com/newsletters/the-gavel/the-gavel-live-briefing/6104953-donald-trump-white-house-media-ban-court-battle-live-discussion/"
         },
         {
-          "title": "Lawmakers across Americas urge US to end drug boat strike campaign",
-          "link": "https://thehill.com/homenews/6105496-trump-administration-drone-strike-controversy/"
+          "title": "Voters are turning to AI on politics. Is it up to the task?",
+          "link": "https://thehill.com/policy/technology/6104694-ai-reshaping-voter-information/"
         },
         {
-          "title": "Michigan attorney general Nessel endorses El-Sayed after previous criticism",
-          "link": "https://thehill.com/homenews/campaign/6105450-nessel-endorses-elsayed/"
+          "title": "Democrats in competitive races fight back against GOP's communist labels",
+          "link": "https://thehill.com/homenews/campaign/6104373-democrats-fight-gop-communist-branding/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T05:45:12.428Z"
+      "updatedAt": "2026-09-23T11:16:35.272Z"
     },
     "Ars Technica": {
       "items": [
@@ -141,10 +141,18 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T05:45:12.604Z"
+      "updatedAt": "2026-09-23T11:16:35.476Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam"
+        },
+        {
+          "title": "Eight Sleep’s new cooling hub is small enough to hide under your bed",
+          "link": "https://www.theverge.com/tech/999018/eight-sleep-pod-6-intelligent-sleep-system-sensors-health-tracking"
+        },
         {
           "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
           "link": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel"
@@ -156,62 +164,54 @@
         {
           "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
           "link": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3"
-        },
-        {
-          "title": "Saudi Arabia’s new Exobot EVs make the Cybertruck look normal",
-          "link": "https://www.theverge.com/transportation/998791/ceer-ev-saudi-arabia-foxconn-exobot"
-        },
-        {
-          "title": "Qualcomm’s Snapdragon 8 Elite Gen 6 comes in an Extreme version too",
-          "link": "https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T05:45:12.690Z"
+      "updatedAt": "2026-09-23T11:16:35.586Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines",
-          "link": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss"
+          "title": "US and Iran hold first talks since June after Trump's 'annihilation' threat",
+          "link": "https://www.bbc.co.uk/news/articles/ck62m1631d7po?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Burnham expects to find 'common ground' with Trump in first meeting",
-          "link": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss"
+          "title": "Reports of violence against women in Gaza surge, UN agency finds",
+          "link": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Eleven killed in mass shooting at house in South Africa",
+          "link": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Trump administration accuses banned media outlets of 'falsehoods' ahead of court hearing",
+          "link": "https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "US to build two military bases in Greenland under new deal with Denmark",
           "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "How Ceuta, football and Israel are shaping Morocco's election",
-          "link": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss"
+          "title": "Hurricane Polo intensifies into rare category 5 storm off the coast of Mexico",
+          "link": "https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
-          "link": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Developing El Niño becomes strongest on record weeks before expected peak",
-          "link": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
-          "link": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss"
+          "title": "Playing loud music on the bus? That will cost you hundreds of dollars in Singapore",
+          "link": "https://www.bbc.co.uk/news/articles/c3kg80ve7x0no?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T05:45:12.727Z"
+      "updatedAt": "2026-09-23T11:16:35.832Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "UK to fight Russian disinformation and push new global AI standards, Burnham says",
-          "link": "https://www.bbc.co.uk/news/articles/c6rerlq99w30o?at_medium=RSS&at_campaign=rss"
+          "title": "UK to review Chagos Islands deal over lack of US support, Streeting tells BBC",
+          "link": "https://www.bbc.co.uk/news/articles/ck3wjy3pdwdno?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Watch: Key moments from Andy Burnham's first UN speech",
-          "link": "https://www.bbc.co.uk/news/videos/cq5y4zpn655ko?at_medium=RSS&at_campaign=rss"
+          "title": "Chris Mason: From inside the room, how Burnham survived first Trump meeting",
+          "link": "https://www.bbc.co.uk/news/articles/cm158y74n5vxo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Open wounds and eyes that can't close - women warn about cheap bleph eyelid surgery",
@@ -222,16 +222,16 @@
           "link": "https://www.bbc.co.uk/news/videos/cjp306113l0wo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "'Poison seller' who sold my daughter deadly drugs should rot in hell",
-          "link": "https://www.bbc.co.uk/news/articles/c9j3dgxl8j58o?at_medium=RSS&at_campaign=rss"
+          "title": "UK warned over ballooning debt costs and slower growth ahead of Budget",
+          "link": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Chris Mason: In the room with the president and the prime minister",
-          "link": "https://www.bbc.co.uk/news/articles/cm158y74n5vxo?at_medium=RSS&at_campaign=rss"
+          "title": "Drug deaths in Scotland rise 11% as country struggles with worst rate in Europe",
+          "link": "https://www.bbc.co.uk/news/articles/cmwyz2pvw058o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T05:45:12.742Z"
+      "updatedAt": "2026-09-23T11:16:35.855Z"
     },
     "NY Times": {
       "items": [
@@ -240,16 +240,16 @@
           "link": "https://www.nytimes.com/2026/09/22/us/politics/un-trump-speech-iran-venezuela-greenland.html"
         },
         {
-          "title": "At U.N., Carney Lays Out a Broad Plan for a Divided World",
-          "link": "https://www.nytimes.com/2026/09/22/world/canada/carney-united-nations-general-assembly.html"
-        },
-        {
           "title": "Trump Once Vowed to ‘Own’ Greenland. He Settled for Something Much Less.",
           "link": "https://www.nytimes.com/2026/09/22/us/politics/trump-greenland-denmark-agreement.html"
         },
         {
-          "title": "Fact-Checking Trump’s Speech at the United Nations",
-          "link": "https://www.nytimes.com/2026/09/22/us/politics/fact-check-trump-united-nations.html"
+          "title": "Trump Praises Burnham as ‘Natural Business Person’ After First Meeting",
+          "link": "https://www.nytimes.com/2026/09/22/world/europe/trump-burnham-meeting-un-us-uk.html"
+        },
+        {
+          "title": "Trump’s Major Retreat on Greenland, and Why Texas Hit Pause on New Data Centers",
+          "link": "https://www.nytimes.com/2026/09/23/podcasts/the-headlines/trump-greenland-texas-data-centers.html"
         },
         {
           "title": "White House Defends Trump’s Ban on CNN, MS NOW and Politico in Court Filing",
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T05:45:12.797Z"
+      "updatedAt": "2026-09-23T11:16:36.022Z"
     }
   },
   "indices": {
@@ -279,13 +279,13 @@
       },
       {
         "name": "Gold",
-        "price": 4375.1,
-        "pct": -1.125449162692926
+        "price": 4350.7,
+        "pct": -1.6768740536509261
       },
       {
         "name": "Bitcoin",
-        "price": 86752.08,
-        "pct": 6.7932414240005
+        "price": 85725.72,
+        "pct": 5.529775334565674
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-09-23T05:45:12.914Z"
+    "updatedAt": "2026-09-23T11:16:36.179Z"
   }
 }
