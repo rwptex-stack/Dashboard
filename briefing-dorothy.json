@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-09-23T20:47:31.648Z",
+  "fetchedAt": "2026-09-23T23:17:16.378Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Mitch McConnell swarmed by security as reporter pleads: 'Can you say a word for us?'",
-          "link": "https://www.foxnews.com/politics/mitch-mcconnell-swarmed-security-reporter-pleads-can-you-say-word-us"
+          "title": "Local Virginia GOP chair says Arlington County officials prioritize illegal immigrants over public safety",
+          "link": "https://www.foxnews.com/us/local-virginia-gop-chair-says-arlington-county-officials-prioritize-illegal-immigrants-over-public-safety"
         },
         {
-          "title": "America's best national parks for fall revealed — plus the NPS director's personal picks",
-          "link": "https://www.foxnews.com/outkick-sports/americas-best-national-parks-fall-revealed-plus-nps-directors-personal-picks"
+          "title": "Sharp weapon discovered by TSA tucked inside unusual item in passenger's carry-on bag",
+          "link": "https://www.foxnews.com/travel/sharp-weapon-discovered-tsa-tucked-inside-unusual-item-passengers-carry-on-bag"
         },
         {
-          "title": "Massachusetts restaurant owner assaults teen dine-and-dashers, pulls gun during scuffle, police say",
-          "link": "https://www.foxnews.com/us/massachusetts-restaurant-owner-assaults-teen-dine-dashers-pulls-gun-during-scuffle-police-say"
+          "title": "Justin Verlander on the Kate Upton 'f—' tweet heard round the world after he lost close Cy Young race",
+          "link": "https://www.foxnews.com/outkick-sports/justin-verlander-kate-upton-tweet-heard-round-world-lost-close-cy-young-race"
         },
         {
-          "title": "Christian nurse says Oregon hospital tried to force employee group to go ‘interfaith’",
-          "link": "https://www.foxnews.com/media/christian-nurse-says-oregon-hospital-tried-force-employee-group-interfaith"
+          "title": "Newsom denies pressuring California AG into Paramount settlement after liberal backlash",
+          "link": "https://www.foxnews.com/media/newsom-denies-pressuring-california-ag-paramount-settlement-liberal-backlash"
         },
         {
-          "title": "Spencer Pratt warns 'good luck LA' after new poll vindicates his stunning prediction",
-          "link": "https://www.foxnews.com/politics/spencer-pratt-warns-good-luck-la-new-poll-vindicates-stunning-prediction"
+          "title": "Mets look to play spoiler as Nolan McLean takes the mound against struggling Texas Rangers",
+          "link": "https://www.foxnews.com/outkick-sports/mets-look-play-spoiler-nolan-mclean-takes-mound-against-struggling-texas-rangers"
         },
         {
-          "title": "Trump's diesel idea could unleash a problem Americans never saw coming",
-          "link": "https://www.foxnews.com/politics/trumps-diesel-idea-could-unleash-problem-americans-never-saw-coming"
+          "title": "Sonny Gray and the Boston Red Sox host Cleveland Guardians in a potential MLB playoffs preview",
+          "link": "https://www.foxnews.com/outkick-sports/sonny-gray-boston-red-sox-host-cleveland-guardians-potential-mlb-playoffs-preview"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T20:47:26.535Z"
+      "updatedAt": "2026-09-23T23:17:13.478Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,33 +59,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T20:47:26.714Z"
+      "updatedAt": "2026-09-23T23:17:13.789Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Trump set to attend Tennessee-Texas football game in Knoxville",
-          "link": "https://thehill.com/policy/sports-gaming/6107241-trump-texas-tennessee-game-knoxville/"
+          "title": "House has lame-duck impeachment dilemma with Hegseth",
+          "link": "https://thehill.com/newsletters/defense-national-security/6107715-house-lame-duck-impeachment-dilemma-hegseth/"
         },
         {
-          "title": "Zelensky says AI will soon 'decide what happens on the battlefield'",
-          "link": "https://thehill.com/policy/technology/6107156-trump-renames-ai-super-intelligence/"
+          "title": "Wright throws cold water on diesel export ban",
+          "link": "https://thehill.com/newsletters/energy-environment/6107716-wright-opposes-diesel-export-ban/"
         },
         {
-          "title": "Live updates: White House media ban heads to court; Trump to greet Xi Jinping in airport welcome",
-          "link": "https://thehill.com/homenews/administration/6105507-live-updates-trump-media-ban-unga-xi-visit/"
+          "title": "Would a diesel export ban actually bring down prices?",
+          "link": "https://thehill.com/policy/energy-environment/6107629-diesel-export-ban-gas-prices-oil-refineries/"
         },
         {
-          "title": "DDHQ shifts Florida governor race to toss-up",
-          "link": "https://thehill.com/homenews/campaign/6107124-ddhq-shifts-florida-governor-race-tossup/"
+          "title": "10-year Treasury yield spikes to highest point since 2007",
+          "link": "https://thehill.com/business/6107495-us-treasury-yield-19-year-high/"
         },
         {
-          "title": "Economic frustrations chip away at Trump’s rural support: Survey",
-          "link": "https://thehill.com/homenews/administration/6107117-trump-rural-approval-economic-concerns/"
+          "title": "Acting Navy Secretary says eight sailors on USS Abraham Lincoln carrier strike group attempted suicide",
+          "link": "https://thehill.com/policy/defense/6107676-navy-secretary-letter-uss-lincoln/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T20:47:29.603Z"
+      "updatedAt": "2026-09-23T23:17:14.317Z"
     },
     "Ars Technica": {
       "items": [
@@ -111,10 +111,18 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T20:47:29.750Z"
+      "updatedAt": "2026-09-23T23:17:14.445Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "Meta Connect 2026: The biggest news and announcements",
+          "link": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements"
+        },
+        {
+          "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
+          "link": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote"
+        },
         {
           "title": "Microsoft refreshes its smaller Surface Pro and Laptop with Qualcomm’s X2 Plus",
           "link": "https://www.theverge.com/news/999195/microsoft-surface-pro-12-inch-surface-laptop-13-inch-qualcomm-x2-plus"
@@ -126,21 +134,21 @@
         {
           "title": "Meta’s AI agent is a cute little guy who’s great at spending my money",
           "link": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping"
-        },
-        {
-          "title": "Data centers are black boxes, but California wants to change that",
-          "link": "https://www.theverge.com/policy/999412/data-center-water-electricity-disclosure-bills"
-        },
-        {
-          "title": "Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T20:47:29.835Z"
+      "updatedAt": "2026-09-23T23:17:14.517Z"
     },
     "BBC World": {
       "items": [
+        {
+          "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
+          "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+          "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "Iran's president tells Trump it will never 'bend the knee'",
           "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss"
@@ -150,31 +158,31 @@
           "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "White House rolling out red carpet for historic Xi Jinping visit",
-          "link": "https://www.bbc.co.uk/news/articles/c6n9w410v3vzo?at_medium=RSS&at_campaign=rss"
+          "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
+          "link": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
           "link": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Dolly Parton's manager accuses her nephew of 'threats and intimidation'",
-          "link": "https://www.bbc.co.uk/news/articles/c670lydl5wg5o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
-          "link": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Poland accuses Russian military helicopter of violating its airspace",
-          "link": "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&at_campaign=rss"
+          "title": "UK survivor of Canadian poison seller says he exploited her despair",
+          "link": "https://www.bbc.co.uk/news/articles/cmvgy4237gq9o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T20:47:30.069Z"
+      "updatedAt": "2026-09-23T23:17:14.683Z"
     },
     "BBC News": {
       "items": [
+        {
+          "title": "Blood tests find high level of cancer-causing forever chemical in residents near factory",
+          "link": "https://www.bbc.co.uk/news/articles/cjly4rv0q3l0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "What video footage tells us about RAF training jet crash",
+          "link": "https://www.bbc.co.uk/news/articles/cw8d32vv4l7vo?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "UK military jamming other nations' satellites to defend itself, BBC told",
           "link": "https://www.bbc.co.uk/news/articles/c32l8y8kygdvo?at_medium=RSS&at_campaign=rss"
@@ -184,24 +192,16 @@
           "link": "https://www.bbc.co.uk/news/articles/cm5yjzj8l5k5o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Watch: Moment pilots eject as RAF jet crashes in Anglesey",
-          "link": "https://www.bbc.co.uk/news/videos/c6wyz0zlx10qo?at_medium=RSS&at_campaign=rss"
+          "title": "Burnham brands ban on football fans drinking alcohol in stands as 'discrimination'",
+          "link": "https://www.bbc.co.uk/news/articles/c933ky0nknxko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Iran's president tells Trump it will never 'bend the knee'",
-          "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Police examine video of anti-migrant activist slashing dinghy with knife",
-          "link": "https://www.bbc.co.uk/news/articles/c3rr48pxg54qo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Family tribute to 'devoted' mum and 'precious' children who died in fire",
-          "link": "https://www.bbc.co.uk/news/articles/ckpq03g8940po?at_medium=RSS&at_campaign=rss"
+          "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+          "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T20:47:30.091Z"
+      "updatedAt": "2026-09-23T23:17:14.969Z"
     },
     "NY Times": {
       "items": [
@@ -218,19 +218,23 @@
           "link": "https://www.nytimes.com/2026/09/23/us/politics/polls-us-china-trump-xi.html"
         },
         {
-          "title": "Iran Will Not Be Bullied, President Masoud Pezeshkian Says in U.N. Speech",
-          "link": "https://www.nytimes.com/2026/09/23/world/middleeast/iran-president-un-speech.html"
+          "title": "At the U.N., Iran Says It Will Not Give Up Its Nuclear Program",
+          "link": "https://www.nytimes.com/2026/09/23/briefing/at-the-un-iran-says-it-will-not-give-up-its-nuclear-program.html"
         },
         {
-          "title": "Fox News Finds Itself at Odds With Trump on Press Ban",
-          "link": "https://www.nytimes.com/2026/09/23/business/media/fox-trump-press-pool-ban.html"
+          "title": "Trump Invites Putin to Attend Group of 20 Summit in Miami",
+          "link": "https://www.nytimes.com/2026/09/23/us/politics/trump-putin-g20-summit.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T20:47:30.239Z"
+      "updatedAt": "2026-09-23T23:17:15.119Z"
     },
     "ARTNews": {
       "items": [
+        {
+          "title": "After a $105 M. Memorabilia Blockbuster, Christie’s Launches a Pop Culture Division",
+          "link": "https://www.artnews.com/art-news/news/christies-pop-culture-division-josh-benesh-jim-irsay-1234799208/"
+        },
         {
           "title": "Bavarian State Painting Collections in Munich Returns Painting to Great-Grandson of Jewish Collector Who Fled Germany in 1938",
           "link": "https://www.artnews.com/art-news/news/bavarian-state-painting-collections-munich-returns-painting-nazi-repatriation-albert-lang-1234799202/"
@@ -250,14 +254,10 @@
         {
           "title": "Art in America Celebrates Fall “Icons” Issue with Talk Featuring William T. Williams and Nari Ward",
           "link": "https://www.artnews.com/art-in-america/columns/icons-issue-launch-talk-william-t-williams-1234799139/"
-        },
-        {
-          "title": "Amateur Archaeologist With a Metal Detector Finds 934 Roman Silver Coins in a Field in Western Germany",
-          "link": "https://www.artnews.com/art-news/news/amateur-archaeologist-roman-silver-coins-west-german-field-1234799112/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T20:47:30.629Z"
+      "updatedAt": "2026-09-23T23:17:15.345Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T20:47:31.073Z"
+      "updatedAt": "2026-09-23T23:17:15.436Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,10 +317,14 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T20:47:31.525Z"
+      "updatedAt": "2026-09-23T23:17:16.280Z"
     },
     "Booooooom": {
       "items": [
+        {
+          "title": "Artist Spotlight: Tommy Carroll",
+          "link": "https://www.booooooom.com/2026/09/23/artist-spotlight-tommy-carroll/"
+        },
         {
           "title": "“Handover” by Pig Iron Works",
           "link": "https://www.booooooom.com/2026/09/22/handover-by-pig-iron-works/"
@@ -340,14 +344,10 @@
         {
           "title": "“Excavation Record I – Sayonara” by Artist Kosuke Ajiro",
           "link": "https://www.booooooom.com/2026/09/15/excavation-record-i-sayonara-by-artist-kosuke-ajiro/"
-        },
-        {
-          "title": "“An island within the island” by succco",
-          "link": "https://www.booooooom.com/2026/09/14/an-island-within-the-island-by-succco/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T20:47:31.648Z"
+      "updatedAt": "2026-09-23T23:17:16.378Z"
     }
   }
 }
