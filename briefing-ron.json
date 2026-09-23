@@ -1,65 +1,65 @@
 {
-  "fetchedAt": "2026-09-23T20:06:56.915Z",
+  "fetchedAt": "2026-09-23T23:32:26.258Z",
   "feeds": {
     "MarketWatch": {
       "items": [
         {
-          "title": "Record-breaking diesel prices look set to push grocery bills even higher — and Thanksgiving is getting closer",
-          "link": "https://www.marketwatch.com/story/record-breaking-diesel-prices-look-set-to-push-grocery-bills-even-higher-and-thanksgiving-is-getting-closer-178d3959?mod=mw_rss_topstories"
+          "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
+          "link": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories"
         },
         {
-          "title": "Bond yields surge above 5% as Wall Street fears more Fed rate hikes",
-          "link": "https://www.marketwatch.com/story/bond-yields-surge-as-wall-street-fears-more-potential-federal-reserve-rate-hikes-eabcd3da?mod=mw_rss_topstories"
+          "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
+          "link": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories"
         },
         {
-          "title": "The ingredients for a market crash are all in place",
-          "link": "https://www.marketwatch.com/story/the-ingredients-for-a-financial-reckoning-are-all-in-place-07520a5d?mod=mw_rss_topstories"
+          "title": "‘I don’t begrudge them their money’: My husband and I have friends who spend, spend, spend. How do we keep up?",
+          "link": "https://www.marketwatch.com/story/i-dont-begrudge-them-their-money-my-husband-and-i-have-friends-who-spend-spend-spend-how-do-we-keep-up-e10164dc?mod=mw_rss_topstories"
         },
         {
-          "title": "McDonald’s is making a historic bet on chicken — and AI — to bring back customers",
-          "link": "https://www.marketwatch.com/story/mcdonalds-is-making-a-historic-bet-on-chicken-and-ai-to-bring-back-customers-43468a53?mod=mw_rss_topstories"
+          "title": "This test screens for 50 cancers — but whether Medicare and other health insurers will cover it hinges on FDA approval",
+          "link": "https://www.marketwatch.com/story/fda-advisers-are-reviewing-a-multicancer-detection-test-medicare-coverage-could-follow-77cb8817?mod=mw_rss_topstories"
         },
         {
           "title": "Micron’s stock has become a ‘battleground’ as the AI narrative shifts",
           "link": "https://www.marketwatch.com/story/microns-stock-has-become-a-battleground-as-the-ai-narrative-shifts-d61a3408?mod=mw_rss_topstories"
         },
         {
-          "title": "The AI ‘scare trade’ is finally hitting banks. Bargain hunters should take note.",
-          "link": "https://www.marketwatch.com/story/the-ai-scare-trade-is-finally-hitting-banks-bargain-hunters-should-take-note-b2fc7410?mod=mw_rss_topstories"
+          "title": "Is gridlock in Washington actually good for stocks? Here’s what historical market data says.",
+          "link": "https://www.marketwatch.com/story/is-gridlock-in-washington-actually-good-for-stocks-heres-what-historical-market-data-says-ea20746d?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T20:06:56.045Z"
+      "updatedAt": "2026-09-23T23:32:24.849Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Friend of slain pregnant Texas woman calls death penalty removal the 'biggest relief in months'",
-          "link": "https://www.foxnews.com/media/friend-slain-pregnant-texas-woman-calls-death-penalty-removal-biggest-relief-months"
+          "title": "Local Virginia GOP chair says Arlington County officials prioritize illegal immigrants over public safety",
+          "link": "https://www.foxnews.com/us/local-virginia-gop-chair-says-arlington-county-officials-prioritize-illegal-immigrants-over-public-safety"
         },
         {
-          "title": "Tigers legend Justin Verlander's final career start signals the sad end of an era in baseball",
-          "link": "https://www.foxnews.com/outkick-sports/tigers-legend-justin-verlander-final-career-start-signals-sad-end-era-baseball"
+          "title": "Sharp weapon discovered by TSA tucked inside unusual item in passenger's carry-on bag",
+          "link": "https://www.foxnews.com/travel/sharp-weapon-discovered-tsa-tucked-inside-unusual-item-passengers-carry-on-bag"
         },
         {
-          "title": "What is kratom? Risks of popular substance revealed after college students' deaths",
-          "link": "https://www.foxnews.com/health/what-kratom-risks-popular-substance-revealed-after-college-students-deaths"
+          "title": "Justin Verlander on the Kate Upton 'f—' tweet heard round the world after he lost close Cy Young race",
+          "link": "https://www.foxnews.com/outkick-sports/justin-verlander-kate-upton-tweet-heard-round-world-lost-close-cy-young-race"
         },
         {
-          "title": "EXCLUSIVE: Trump’s CBP axes Biden-era policy allowing private gifts for illegal immigrants in federal custody",
-          "link": "https://www.foxnews.com/us/exclusive-trumps-cbp-axes-biden-era-policy-allowing-private-gifts-illegal-immigrants-federal-custody"
+          "title": "Newsom denies pressuring California AG into Paramount settlement after liberal backlash",
+          "link": "https://www.foxnews.com/media/newsom-denies-pressuring-california-ag-paramount-settlement-liberal-backlash"
         },
         {
-          "title": "Sophie Cunningham's shirt has a message for the haters, Arch Manning neutralized & Cowboys WAG Haley Cavinder!",
-          "link": "https://www.foxnews.com/outkick-sports/sophie-cunningham-shirt-message-haters-arch-manning-neutralized-cowboys-wag-haley-cavinder"
+          "title": "Mets look to play spoiler as Nolan McLean takes the mound against struggling Texas Rangers",
+          "link": "https://www.foxnews.com/outkick-sports/mets-look-play-spoiler-nolan-mclean-takes-mound-against-struggling-texas-rangers"
         },
         {
-          "title": "Canadians Nick Taylor and Corey Conners laugh off Lake Ontario renaming ahead of Presidents Cup",
-          "link": "https://www.foxnews.com/outkick-sports/canadians-nick-taylor-corey-conners-laugh-off-lake-ontario-renaming-ahead-presidents-cup"
+          "title": "Sonny Gray and the Boston Red Sox host Cleveland Guardians in a potential MLB playoffs preview",
+          "link": "https://www.foxnews.com/outkick-sports/sonny-gray-boston-red-sox-host-cleveland-guardians-potential-mlb-playoffs-preview"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T20:06:56.122Z"
+      "updatedAt": "2026-09-23T23:32:24.936Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -89,88 +89,96 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T20:06:56.340Z"
+      "updatedAt": "2026-09-23T23:32:25.107Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Live updates: Trump's media ban heads to court; Hearing on AI-powered surveillance cameras",
-          "link": "https://thehill.com/homenews/administration/6105507-live-updates-trump-media-ban-unga-xi-visit/"
+          "title": "Fed's Barr says future interest rate hikes 'likely' needed to tame inflation",
+          "link": "https://thehill.com/business/6107670-fed-governor-barr-rate-hike/"
         },
         {
-          "title": "DDHQ shifts Florida governor race to toss-up",
-          "link": "https://thehill.com/homenews/campaign/6107124-ddhq-shifts-florida-governor-race-tossup/"
+          "title": "House has lame-duck impeachment dilemma with Hegseth",
+          "link": "https://thehill.com/newsletters/defense-national-security/6107715-house-lame-duck-impeachment-dilemma-hegseth/"
         },
         {
-          "title": "Economic frustrations chip away at Trump’s rural support: Survey",
-          "link": "https://thehill.com/homenews/administration/6107117-trump-rural-approval-economic-concerns/"
+          "title": "Wright throws cold water on diesel export ban",
+          "link": "https://thehill.com/newsletters/energy-environment/6107716-wright-opposes-diesel-export-ban/"
         },
         {
-          "title": "Venezuela’s opposition leader blocked 3 times from returning to country",
-          "link": "https://thehill.com/policy/international/6106979-machado-blocked-venezuela-entry/"
+          "title": "Would a diesel export ban actually bring down prices?",
+          "link": "https://thehill.com/policy/energy-environment/6107629-diesel-export-ban-gas-prices-oil-refineries/"
         },
         {
-          "title": "Collins: White House backing down from NIH grant order",
-          "link": "https://thehill.com/policy/healthcare/6107141-white-house-drops-nih-grant-proposal-collins/"
+          "title": "10-year Treasury yield spikes to highest point since 2007",
+          "link": "https://thehill.com/business/6107495-us-treasury-yield-19-year-high/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T20:06:56.532Z"
+      "updatedAt": "2026-09-23T23:32:25.487Z"
     },
     "Ars Technica": {
       "items": [
         {
-          "title": "After multiple deaths and injuries, NHTSA is investigating comma.ai",
-          "link": "https://arstechnica.com/cars/2026/09/aftermarket-driver-assist-under-federal-probe-following-fatal-crashes/"
+          "title": "XPRIZE Wildfire winners spotted fires within 10 min—but couldn’t stop them",
+          "link": "https://arstechnica.com/gadgets/2026/09/xprize-wildfire-winners-spotted-fires-within-10-min-but-couldnt-stop-them/"
         },
         {
-          "title": "America gave up its rare earth edge. China took full advantage.",
-          "link": "https://arstechnica.com/reviews/2026/09/how-the-us-handed-china-control-of-the-rare-earth-supply-chain/"
+          "title": "Discord age verification rolls out today with changes spurred by user backlash",
+          "link": "https://arstechnica.com/tech-policy/2026/09/discord-age-verification-rolls-out-today-with-changes-spurred-by-user-backlash/"
         },
         {
-          "title": "Small undersea volcanoes may unleash outsized tsunamis",
-          "link": "https://arstechnica.com/science/2026/09/small-undersea-volcanoes-may-unleash-outsized-tsunamis/"
+          "title": "YouTube promises custom feeds and a lot more AI later this year",
+          "link": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/"
         },
         {
-          "title": "A new report from Europe raises serious alarms about orbital collisions",
-          "link": "https://arstechnica.com/space/2026/09/there-are-now-17000-satellites-in-orbit-and-growing-should-we-be-concerned/"
+          "title": "Contrary to some reports, you don't have two brains",
+          "link": "https://arstechnica.com/science/2026/09/contrary-to-some-reports-you-dont-have-two-brains/"
         },
         {
-          "title": "Woman's brain worm infection confirmed after eggs grow tails in lab test",
-          "link": "https://arstechnica.com/health/2026/09/womans-brain-worm-infection-confirmed-after-eggs-grow-tails-in-lab-test/"
+          "title": "Netflix releases trailer for Brad Bird's Ray Gunn",
+          "link": "https://arstechnica.com/culture/2026/09/netflix-drops-trailer-for-brad-birds-ray-gunn/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T20:06:56.616Z"
+      "updatedAt": "2026-09-23T23:32:25.661Z"
     },
     "The Verge": {
       "items": [
         {
-          "title": "Meta’s AI agent is a cute little guy who’s great at spending my money",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping"
+          "title": "Meta is making Muse more powerful and will let you video chat with it, too",
+          "link": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026"
         },
         {
-          "title": "Data centers are black boxes, but California wants to change that",
-          "link": "https://www.theverge.com/policy/999412/data-center-water-electricity-disclosure-bills"
+          "title": "Meta Connect 2026: The biggest news and announcements",
+          "link": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements"
         },
         {
-          "title": "Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr"
+          "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
+          "link": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote"
         },
         {
-          "title": "Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act"
+          "title": "Microsoft refreshes its smaller Surface Pro and Laptop with Qualcomm’s X2 Plus",
+          "link": "https://www.theverge.com/news/999195/microsoft-surface-pro-12-inch-surface-laptop-13-inch-qualcomm-x2-plus"
         },
         {
-          "title": "Logitech’s new Blue Yeti 2 mic adjusts itself to where you are",
-          "link": "https://www.theverge.com/gadgets/999406/blue-yeti-2-usb-microphone-price-availability"
+          "title": "Microsoft’s new Surface Mouse has haptic feedback and a customizable action button",
+          "link": "https://www.theverge.com/news/999211/microsoft-surface-mouse-haptic-feedback"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T20:06:56.723Z"
+      "updatedAt": "2026-09-23T23:32:25.763Z"
     },
     "BBC World": {
       "items": [
+        {
+          "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
+          "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+          "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "Iran's president tells Trump it will never 'bend the knee'",
           "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss"
@@ -180,31 +188,31 @@
           "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "White House rolling out red carpet for historic Xi Jinping visit",
-          "link": "https://www.bbc.co.uk/news/articles/c6n9w410v3vzo?at_medium=RSS&at_campaign=rss"
+          "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
+          "link": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
           "link": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Dolly Parton's manager accuses her nephew of 'threats and intimidation'",
-          "link": "https://www.bbc.co.uk/news/articles/c670lydl5wg5o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
-          "link": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Poland accuses Russian military helicopter of violating its airspace",
-          "link": "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&at_campaign=rss"
+          "title": "UK survivor of Canadian poison seller says he exploited her despair",
+          "link": "https://www.bbc.co.uk/news/articles/cmvgy4237gq9o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T20:06:56.752Z"
+      "updatedAt": "2026-09-23T23:32:25.977Z"
     },
     "BBC News": {
       "items": [
+        {
+          "title": "Blood tests find high level of cancer-causing forever chemical in residents near factory",
+          "link": "https://www.bbc.co.uk/news/articles/cjly4rv0q3l0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "What video footage tells us about RAF training jet crash",
+          "link": "https://www.bbc.co.uk/news/articles/cw8d32vv4l7vo?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "UK military jamming other nations' satellites to defend itself, BBC told",
           "link": "https://www.bbc.co.uk/news/articles/c32l8y8kygdvo?at_medium=RSS&at_campaign=rss"
@@ -214,58 +222,50 @@
           "link": "https://www.bbc.co.uk/news/articles/cm5yjzj8l5k5o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Watch: Moment pilots eject as RAF jet crashes in Anglesey",
-          "link": "https://www.bbc.co.uk/news/videos/c6wyz0zlx10qo?at_medium=RSS&at_campaign=rss"
+          "title": "Burnham brands ban on football fans drinking alcohol in stands as 'discrimination'",
+          "link": "https://www.bbc.co.uk/news/articles/c933ky0nknxko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Iran's president tells Trump it will never 'bend the knee'",
-          "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Police examine video of anti-migrant activist slashing dinghy with knife",
-          "link": "https://www.bbc.co.uk/news/articles/c3rr48pxg54qo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Family tribute to 'devoted' mum and 'precious' children who died in fire",
-          "link": "https://www.bbc.co.uk/news/articles/ckpq03g8940po?at_medium=RSS&at_campaign=rss"
+          "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+          "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T20:06:56.758Z"
+      "updatedAt": "2026-09-23T23:32:26.072Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "Iran Will Not Be Bullied, President Masoud Pezeshkian Says in U.N. Speech",
-          "link": "https://www.nytimes.com/2026/09/23/world/middleeast/iran-president-un-speech.html"
-        },
-        {
-          "title": "Fox News Finds Itself at Odds With Trump on Press Ban",
-          "link": "https://www.nytimes.com/2026/09/23/business/media/fox-trump-press-pool-ban.html"
-        },
-        {
-          "title": "Hackers Say They Stole Thousands of Sensitive F.B.I. Personnel Records",
-          "link": "https://www.nytimes.com/2026/09/23/us/politics/fbi-hack-shinyhunters-data.html"
-        },
-        {
           "title": "As Xi Visits Washington, Trump Plays Down China’s Actions Against U.S. Interests",
-          "link": "https://www.nytimes.com/2026/09/23/us/politics/as-xi-visits-washington-trump-plays-down-chinas-actions-against-us-interests.html"
+          "link": "https://www.nytimes.com/2026/09/23/us/politics/trump-xi-china-visit.html"
         },
         {
           "title": "Where Is the U.S. Beating China on A.I., and Where Is It Lagging?",
           "link": "https://www.nytimes.com/2026/09/23/us/politics/ai-us-china-trump-xi-economy.html"
+        },
+        {
+          "title": "As Trump Welcomes Xi, More Americans Have a Positive View of China",
+          "link": "https://www.nytimes.com/2026/09/23/us/politics/polls-us-china-trump-xi.html"
+        },
+        {
+          "title": "At the U.N., Iran Says It Will Not Give Up Its Nuclear Program",
+          "link": "https://www.nytimes.com/2026/09/23/briefing/at-the-un-iran-says-it-will-not-give-up-its-nuclear-program.html"
+        },
+        {
+          "title": "Trump Invites Putin to Attend Group of 20 Summit in Miami",
+          "link": "https://www.nytimes.com/2026/09/23/us/politics/trump-putin-g20-summit.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T20:06:56.830Z"
+      "updatedAt": "2026-09-23T23:32:26.146Z"
     }
   },
   "indices": {
     "data": [
       {
         "name": "S&P 500",
-        "price": 7706.05,
-        "pct": 2.0424242665003463
+        "price": 7706.03,
+        "pct": 2.042159429328854
       },
       {
         "name": "Dow Jones",
@@ -279,13 +279,13 @@
       },
       {
         "name": "Gold",
-        "price": 4318.9,
-        "pct": -2.3955343623584717
+        "price": 4324.8,
+        "pct": -2.2621980157743558
       },
       {
         "name": "Bitcoin",
-        "price": 84354.47,
-        "pct": 3.841743966295764
+        "price": 84452.47,
+        "pct": 3.9623835827701126
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-09-23T20:06:56.915Z"
+    "updatedAt": "2026-09-23T23:32:26.258Z"
   }
 }
