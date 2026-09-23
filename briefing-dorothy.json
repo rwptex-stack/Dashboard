@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-09-22T22:29:00.590Z",
+  "fetchedAt": "2026-09-23T01:01:11.160Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Dr Drew Pinsky reveals red flag in Presley Gerber addiction treatment before model's death",
-          "link": "https://www.foxnews.com/health/dr-drew-pinsky-reveals-red-flag-presley-gerber-addiction-treatment-before-model-death"
+          "title": "Former WWE star Kurt Angle says 'I believe that I had a better career in TNA'",
+          "link": "https://www.foxnews.com/outkick-sports/former-wwe-star-kurt-angle-says-i-believe-i-had-better-career-tna"
         },
         {
-          "title": "Joy Behar doubles down on argument US will not elect a woman president",
-          "link": "https://www.foxnews.com/media/joy-behar-doubles-down-argument-us-will-not-elect-woman-president"
+          "title": "From Austin to New York, pro-China network fuels week of anti-US protests as Xi meets Trump",
+          "link": "https://www.foxnews.com/politics/austin-new-york-pro-china-network-fuels-week-anti-us-protests-xi-meets-trump"
         },
         {
-          "title": "Battle-tested Zelenskyy sounds chilling alarm on where Putin’s war could head next",
-          "link": "https://www.foxnews.com/world/battle-tested-zelenskyy-sounds-chilling-alarm-where-putins-war-could-head-next"
+          "title": "El-Sayed mocked for 'word salad' answer when pressed by conservative on voting for him: 'Worse than Kamala's'",
+          "link": "https://www.foxnews.com/politics/el-sayed-mocked-word-salad-answer-pressed-conservative-voting-worse-than-kamalas"
         },
         {
-          "title": "Former USPS worker indicted after allegedly dumping 300-plus Utah mail-in ballots without delivering one",
-          "link": "https://www.foxnews.com/politics/former-usps-worker-indicted-allegedly-dumping-300-plus-utah-mail-in-ballots-without-delivering-one"
+          "title": "Violent brawl over lounge chairs at famous beach leaves one man dead, others facing charges",
+          "link": "https://www.foxnews.com/travel/violent-brawl-lounge-chairs-famous-beach-leaves-one-man-dead-others-facing-charges"
         },
         {
-          "title": "Fox News Poll: Voters question whether AI’s promise outweighs its risks",
-          "link": "https://www.foxnews.com/politics/fox-news-poll-voters-question-whether-ais-promise-outweighs-its-risks"
+          "title": "Bunnie Xo responds to fan backlash over cozy outing with 24-year-old reality star",
+          "link": "https://www.foxnews.com/entertainment/bunnie-xo-responds-fan-backlash-cozy-outing-24-year-old-reality-star"
         },
         {
-          "title": "Simone Biles buys a new Porsche because her old one now carries the unmistakable stench of theft",
-          "link": "https://www.foxnews.com/outkick-sports/simone-biles-buys-new-porsche-old-one-carries-unmistakable-stench-theft"
+          "title": "Super Bowl-winning coach reveals 'Cold War' with Broncos' Sean Payton over alleged spying | Matt Calkins",
+          "link": "https://www.foxnews.com/outkick-sports/super-bowl-winning-coach-reveals-cold-war-broncos-sean-payton-alleged-spying-matt-calkins"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T22:28:57.126Z"
+      "updatedAt": "2026-09-23T01:01:07.937Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,36 +59,44 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T22:28:57.361Z"
+      "updatedAt": "2026-09-23T01:01:08.271Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Trump eyes diesel export ban",
-          "link": "https://thehill.com/newsletters/energy-environment/6105320-trump-eyes-diesel-export-ban/"
+          "title": "Lawmakers across Americas urge US to end drug boat strike campaign",
+          "link": "https://thehill.com/homenews/6105496-trump-administration-drone-strike-controversy/"
         },
         {
-          "title": "5 takeaways from Trump’s whirlwind day at UN General Assembly",
-          "link": "https://thehill.com/homenews/6105208-trump-un-speech-iran-venezuela/"
+          "title": "Michigan attorney general Nessel endorses El-Sayed after previous criticism",
+          "link": "https://thehill.com/homenews/campaign/6105450-nessel-endorses-elsayed/"
         },
         {
-          "title": "Hunter Biden responds to GOP senator's request: 'I'll sit next to Don Jr. and testify any time'",
-          "link": "https://thehill.com/homenews/senate/6105280-hunter-biden-responds-senator-request/"
+          "title": "MAHA lashes out at RFK Jr.",
+          "link": "https://thehill.com/newsletters/healthcare/6105393-maha-lashes-out-rfk-jr/"
         },
         {
-          "title": "Lawsuit targets 'medically frail' Medicaid work requirement exemption",
-          "link": "https://thehill.com/policy/healthcare/6105262-lawsuit-trump-medicaid-work-requirements/"
+          "title": "Kagan steers Supreme Court clear of high-profile surrogacy fight",
+          "link": "https://thehill.com/regulation/court-battles/6105403-kagan-denies-surrogacy-emergency-bid/"
         },
         {
-          "title": "Trump looks to rebrand AI",
-          "link": "https://thehill.com/newsletters/technology/6105266-trump-looks-to-rebrand-ai/"
+          "title": "Justice Department indicts former postal worker for tossing out mail-in ballots in Utah",
+          "link": "https://thehill.com/regulation/court-battles/6105303-usps-employee-indictment-mail-in-ballots/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T22:28:58.330Z"
+      "updatedAt": "2026-09-23T01:01:09.100Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "Woman's brain worm infection confirmed after eggs grow tails in lab test",
+          "link": "https://arstechnica.com/health/2026/09/womans-brain-worm-infection-confirmed-after-eggs-grow-tails-in-lab-test/"
+        },
+        {
+          "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
+          "link": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/"
+        },
         {
           "title": "Cities across US oppose Trump FCC plan to preempt local broadband rules",
           "link": "https://arstechnica.com/tech-policy/2026/09/cities-across-us-oppose-trump-fcc-plan-to-preempt-local-broadband-rules/"
@@ -100,21 +108,21 @@
         {
           "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
           "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/"
-        },
-        {
-          "title": "Adobe Premiere finally brings powerful video editing to Android, and it's free",
-          "link": "https://arstechnica.com/gadgets/2026/09/adobe-premiere-finally-brings-powerful-video-editing-to-android-and-its-free/"
-        },
-        {
-          "title": "Review: Resident Evil might just be the best gaming adaptation yet",
-          "link": "https://arstechnica.com/culture/2026/09/review-resident-evil-is-the-fresh-take-this-flagging-franchise-really-needed/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T22:28:58.522Z"
+      "updatedAt": "2026-09-23T01:01:09.295Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel"
+        },
+        {
+          "title": "Paramount will need to release way more movies to make this merger work",
+          "link": "https://www.theverge.com/entertainment/999056/paramount-warner-bros-discovery-merger-annual-film-quota-guardrails"
+        },
         {
           "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
           "link": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3"
@@ -126,23 +134,15 @@
         {
           "title": "Qualcomm’s Snapdragon 8 Elite Gen 6 comes in an Extreme version too",
           "link": "https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6"
-        },
-        {
-          "title": "Motorola’s wild-looking Signature 27 runs Qualcomm’s new Extreme chipset",
-          "link": "https://www.theverge.com/tech/998844/motorola-signature-27-specs-snapdragon-8-elite-extreme-gen-6"
-        },
-        {
-          "title": "Apple clarifies that Texture and Grain controls are exclusive to the latest iPhones’ cameras",
-          "link": "https://www.theverge.com/tech/998874/apple-iphone-18-pro-ios-27-camera-texture-grain-photographic-style"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T22:28:58.618Z"
+      "updatedAt": "2026-09-23T01:01:09.408Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines",
+          "title": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines",
           "link": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss"
         },
         {
@@ -171,7 +171,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T22:28:58.892Z"
+      "updatedAt": "2026-09-23T01:01:09.607Z"
     },
     "BBC News": {
       "items": [
@@ -188,46 +188,46 @@
           "link": "https://www.bbc.co.uk/news/articles/cq07ly8xzvn4o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Tim Westwood charged with two more sexual offences",
-          "link": "https://www.bbc.co.uk/news/articles/ckx2zv0rx0nqo?at_medium=RSS&at_campaign=rss"
+          "title": "'Poison seller' who sold my daughter deadly drugs should rot in hell",
+          "link": "https://www.bbc.co.uk/news/articles/c9j3dgxl8j58o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Earl Spencer should pull Diana book from shelves, Piers Morgan says",
-          "link": "https://www.bbc.co.uk/news/articles/cr93e2nz0281o?at_medium=RSS&at_campaign=rss"
+          "title": "IMF tells advanced economies to 'bring debt down' as borrowing costs rise",
+          "link": "https://www.bbc.co.uk/news/articles/cx305ymq4ldqo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Father admits causing death of his son in hotel fall",
-          "link": "https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&at_campaign=rss"
+          "title": "Booker Prize judges reveal shortlisted novels after selection 'tussle'",
+          "link": "https://www.bbc.co.uk/news/articles/cqzjz8dk4wddo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T22:28:58.934Z"
+      "updatedAt": "2026-09-23T01:01:09.687Z"
     },
     "NY Times": {
       "items": [
         {
+          "title": "Trump Threatens Annihilation in Iran in UN Speech and Lays Out Winner-Takes-All Vision",
+          "link": "https://www.nytimes.com/2026/09/22/us/politics/un-trump-speech-iran-venezuela-greenland.html"
+        },
+        {
+          "title": "At U.N., Carney Lays Out a Broad Plan for a Divided World",
+          "link": "https://www.nytimes.com/2026/09/22/world/canada/carney-united-nations-general-assembly.html"
+        },
+        {
           "title": "Fact-Checking Trump’s Speech at the United Nations",
           "link": "https://www.nytimes.com/2026/09/22/us/politics/fact-check-trump-united-nations.html"
-        },
-        {
-          "title": "U.N. Searches for Its Next Leader",
-          "link": "https://www.nytimes.com/2026/09/22/world/next-un-leader-guterres.html"
-        },
-        {
-          "title": "UNGA Brings Traffic and a Little Chaos to New York City",
-          "link": "https://www.nytimes.com/2026/09/22/nyregion/un-general-assembly-traffic-nyc.html"
         },
         {
           "title": "Trump Uses U.N. Address to Threaten Annihilation of Iran",
           "link": "https://www.nytimes.com/2026/09/22/briefing/trump-un-speech-iran-unions-ai-threats.html"
         },
         {
-          "title": "Trump Officials Eject 750,000 From Obamacare Markets, Claiming Fraud",
-          "link": "https://www.nytimes.com/2026/09/22/us/politics/aca-obamacare-vance-fraud.html"
+          "title": "Trump Cites National Security as He Faces Pushback on Press Ban, D.C. Arch and More",
+          "link": "https://www.nytimes.com/2026/09/22/us/politics/trump-arch-national-security.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T22:28:59.089Z"
+      "updatedAt": "2026-09-23T01:01:09.780Z"
     },
     "ARTNews": {
       "items": [
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T22:28:59.328Z"
+      "updatedAt": "2026-09-23T01:01:10.034Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T22:28:59.744Z"
+      "updatedAt": "2026-09-23T01:01:10.330Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,10 +317,14 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T22:29:00.380Z"
+      "updatedAt": "2026-09-23T01:01:10.984Z"
     },
     "Booooooom": {
       "items": [
+        {
+          "title": "“Handover” by Pig Iron Works",
+          "link": "https://www.booooooom.com/2026/09/22/handover-by-pig-iron-works/"
+        },
         {
           "title": "“In the shadow of an old apple tree” by Photographer Elena Serafimova",
           "link": "https://www.booooooom.com/2026/09/21/in-the-shadow-of-an-old-apple-tree-by-photographer-elena-serafimova/"
@@ -340,14 +344,10 @@
         {
           "title": "“An island within the island” by succco",
           "link": "https://www.booooooom.com/2026/09/14/an-island-within-the-island-by-succco/"
-        },
-        {
-          "title": "Photographer Spotlight: Raphaël Gaultier",
-          "link": "https://www.booooooom.com/2026/09/11/photographer-spotlight-raphael-gaultier/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T22:29:00.590Z"
+      "updatedAt": "2026-09-23T01:01:11.160Z"
     }
   }
 }
