@@ -1,8 +1,16 @@
 {
-  "fetchedAt": "2026-09-23T00:16:14.644Z",
+  "fetchedAt": "2026-09-23T05:45:12.914Z",
   "feeds": {
     "MarketWatch": {
       "items": [
+        {
+          "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
+          "link": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories"
+        },
+        {
+          "title": "‘She gave a neighbor $2,000’: Social Security overpaid my mother, 82, by $20,000. What else is hiding in her finances?",
+          "link": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories"
+        },
         {
           "title": "The Nasdaq’s rapid rise to a record is sending a message to investors: Don’t wait for a pullback to buy",
           "link": "https://www.marketwatch.com/story/the-nasdaqs-rapid-rise-to-a-record-is-sending-a-message-to-investors-dont-wait-for-a-pullback-to-buy-5f533ed8?mod=mw_rss_topstories"
@@ -18,81 +26,85 @@
         {
           "title": "Could Meta’s viral Muse app be the company’s ChatGPT moment?",
           "link": "https://www.marketwatch.com/story/could-metas-viral-muse-app-be-the-companys-chatgpt-moment-8e7075aa?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Why Apple could soon join Nvidia in the exclusive $5 trillion club",
-          "link": "https://www.marketwatch.com/story/why-apple-could-soon-join-nvidia-in-the-exclusive-5-trillion-club-4e7724e7?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Want to retire with more money? Leave the U.S. early in your career — and then come back.",
-          "link": "https://www.marketwatch.com/story/want-to-retire-with-more-money-leave-the-country-for-work-early-in-your-career-7e568d03?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T00:16:12.773Z"
+      "updatedAt": "2026-09-23T05:45:11.697Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "El-Sayed mocked for 'word salad' answer when pressed by conservative on voting for him: 'Worse than Kamala's'",
-          "link": "https://www.foxnews.com/politics/el-sayed-mocked-word-salad-answer-pressed-conservative-voting-worse-than-kamalas"
+          "title": "Florida AG accuses teacher of labeling student a 'misogynist' over 'conservative views': 'She should be fired'",
+          "link": "https://www.foxnews.com/politics/florida-ag-accuses-teacher-labeling-student-misogynist-conservative-views-fired"
         },
         {
-          "title": "Violent brawl over lounge chairs at famous beach leaves one man dead, others facing charges",
-          "link": "https://www.foxnews.com/travel/violent-brawl-lounge-chairs-famous-beach-leaves-one-man-dead-others-facing-charges"
+          "title": "Texas man charged with capital murder after 5-year-old killed in roadway shooting",
+          "link": "https://www.foxnews.com/us/texas-man-charged-capital-murder-5-year-old-killed-roadway-shooting"
         },
         {
-          "title": "Bunnie Xo responds to fan backlash over cozy outing with 24-year-old reality star",
-          "link": "https://www.foxnews.com/entertainment/bunnie-xo-responds-fan-backlash-cozy-outing-24-year-old-reality-star"
+          "title": "College basketball TV analyst and former Duke assistant Chris Spatola, Coach K's son-in-law, dies at 47",
+          "link": "https://www.foxnews.com/outkick-sports/college-basketball-tv-analyst-former-duke-assistant-chris-spatola-coach-k-son-in-law-dies-47"
         },
         {
-          "title": "Super Bowl-winning coach reveals 'Cold War' with Broncos' Sean Payton over alleged spying | Matt Calkins",
-          "link": "https://www.foxnews.com/outkick-sports/super-bowl-winning-coach-reveals-cold-war-broncos-sean-payton-alleged-spying-matt-calkins"
+          "title": "Caitlin Clark, Indiana Fever drop statement win on top-seeded Lynx in final home game",
+          "link": "https://www.foxnews.com/outkick-sports/caitlin-clark-indiana-fever-drop-statement-win-top-seeded-lynx-final-home-game"
         },
         {
-          "title": "'Reacher' star Alan Ritchson claims studios begged him to shut up about politics",
-          "link": "https://www.foxnews.com/media/reacher-star-alan-ritchson-claims-studios-begged-him-shut-up-about-politics"
+          "title": "Ella Langley says 'Choosin' Texas' success is 'changing my life' after her song breaks Mariah Carey's record",
+          "link": "https://www.foxnews.com/entertainment/ella-langley-says-choosin-texas-success-changing-my-life-after-her-song-breaks-mariah-careys-record"
         },
         {
-          "title": "Virginia school district faces probe over 9/11 teaching guide telling teachers not to ‘center the extremists’",
-          "link": "https://www.foxnews.com/politics/virginia-school-district-faces-probe-over-911-teaching-guide-telling-teachers-not-center-extremists"
+          "title": "Harris keeps 2028 door open as she hits midterm campaign trail, warns ‘28 won’t matter’ without 2026",
+          "link": "https://www.foxnews.com/politics/harris-keeps-2028-door-open-hits-midterm-campaign-trail-warns-28-wont-matter-without-2026"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T00:16:12.905Z"
+      "updatedAt": "2026-09-23T05:45:11.843Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "Trump, Xi Seek Trade Stability, Deals--AI, Tariffs, Iran Loom",
-          "link": "https://www.realclearpolitics.com/2026/09/22/trump_xi_seek_trade_stability_deals--ai_tariffs_iran_loom_711791.html"
+          "title": "The AI Capitalists in Search of Cronies",
+          "link": "https://www.realclearpolitics.com/2026/09/22/the_ai_capitalists_in_search_of_cronies_711797.html"
         },
         {
-          "title": "Greenland Bases Forever",
-          "link": "https://www.realclearpolitics.com/2026/09/22/greenland_bases_forever_711711.html"
+          "title": "No AI Autonomy Without Human Accountability",
+          "link": "https://www.realclearpolitics.com/2026/09/22/no_ai_autonomy_without_human_accountability_711744.html"
         },
         {
-          "title": "The GOP's Incredible Shrinking Senate Map",
-          "link": "https://www.realclearpolitics.com/2026/09/22/the_gops_incredible_shrinking_senate_map_711803.html"
+          "title": "How do Republicans Deal With el Sayed?",
+          "link": "https://www.realclearpolitics.com/2026/09/22/how_do_republicans_deal_with_el_sayed_711807.html"
         },
         {
-          "title": "Best-Case Midterm Scenarios for Democrats, Republicans",
-          "link": "https://www.realclearpolitics.com/2026/09/22/best-case_midterm_scenarios_for_democrats_republicans_711788.html"
+          "title": "Troy Jackson, the Accidental Candidate",
+          "link": "https://www.realclearpolitics.com/2026/09/22/troy_jackson_the_accidental_candidate_711770.html"
         },
         {
-          "title": "Sacrificing Children at the Altar of Race Communism",
-          "link": "https://www.realclearpolitics.com/2026/09/22/sacrificing_children_at_the_altar_of_race_communism_711782.html"
+          "title": "1619 Project Creator Gets 'Mugged by Reality'",
+          "link": "https://www.realclearpolitics.com/2026/09/22/1619_project_creator_gets_mugged_by_reality_711806.html"
         },
         {
-          "title": "Carney's Eloquent Case for Trying To Sideline the U.S.",
-          "link": "https://www.realclearpolitics.com/2026/09/22/carneys_eloquent_case_for_trying_to_sideline_the_us_711696.html"
+          "title": "Trump's Bullish United Nations Speech",
+          "link": "https://www.realclearpolitics.com/2026/09/22/trumps_bullish_united_nations_speech_711808.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T00:16:13.248Z"
+      "updatedAt": "2026-09-23T05:45:11.986Z"
     },
     "The Hill": {
       "items": [
+        {
+          "title": "Wicker blasts Xi ahead of summit with Trump in DC",
+          "link": "https://thehill.com/homenews/senate/6105609-wicker-slams-trump-xi-summit/"
+        },
+        {
+          "title": "Cruz rips 'right-wing socialism,' says GOP shouldn't be 'giving away free stuff'",
+          "link": "https://thehill.com/homenews/senate/6105582-ted-cruz-criticizes-right-wing-socialism/"
+        },
+        {
+          "title": "Ohio TV stations ignore legal threat from Max Miller, air opponent's ad: Report",
+          "link": "https://thehill.com/homenews/campaign/6105523-ohio-poindexter-max-miller-ad/"
+        },
         {
           "title": "Lawmakers across Americas urge US to end drug boat strike campaign",
           "link": "https://thehill.com/homenews/6105496-trump-administration-drone-strike-controversy/"
@@ -100,22 +112,10 @@
         {
           "title": "Michigan attorney general Nessel endorses El-Sayed after previous criticism",
           "link": "https://thehill.com/homenews/campaign/6105450-nessel-endorses-elsayed/"
-        },
-        {
-          "title": "MAHA lashes out at RFK Jr.",
-          "link": "https://thehill.com/newsletters/healthcare/6105393-maha-lashes-out-rfk-jr/"
-        },
-        {
-          "title": "Kagan steers Supreme Court clear of high-profile surrogacy fight",
-          "link": "https://thehill.com/regulation/court-battles/6105403-kagan-denies-surrogacy-emergency-bid/"
-        },
-        {
-          "title": "Justice Department indicts former postal worker for tossing out mail-in ballots in Utah",
-          "link": "https://thehill.com/regulation/court-battles/6105303-usps-employee-indictment-mail-in-ballots/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T00:16:13.668Z"
+      "updatedAt": "2026-09-23T05:45:12.428Z"
     },
     "Ars Technica": {
       "items": [
@@ -141,10 +141,14 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T00:16:13.826Z"
+      "updatedAt": "2026-09-23T05:45:12.604Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel"
+        },
         {
           "title": "Paramount will need to release way more movies to make this merger work",
           "link": "https://www.theverge.com/entertainment/999056/paramount-warner-bros-discovery-merger-annual-film-quota-guardrails"
@@ -160,19 +164,15 @@
         {
           "title": "Qualcomm’s Snapdragon 8 Elite Gen 6 comes in an Extreme version too",
           "link": "https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6"
-        },
-        {
-          "title": "Motorola’s wild-looking Signature 27 runs Qualcomm’s new Extreme chipset",
-          "link": "https://www.theverge.com/tech/998844/motorola-signature-27-specs-snapdragon-8-elite-extreme-gen-6"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T00:16:13.896Z"
+      "updatedAt": "2026-09-23T05:45:12.690Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines",
+          "title": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines",
           "link": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss"
         },
         {
@@ -201,63 +201,63 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T00:16:14.050Z"
+      "updatedAt": "2026-09-23T05:45:12.727Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Trump says he can do business with Burnham but criticises 'terrible' Chagos deal",
-          "link": "https://www.bbc.co.uk/news/articles/cq2dwye3r7k4o?at_medium=RSS&at_campaign=rss"
+          "title": "UK to fight Russian disinformation and push new global AI standards, Burnham says",
+          "link": "https://www.bbc.co.uk/news/articles/c6rerlq99w30o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Watch: Burnham 'gets it' says Trump, as the two leaders meet for first time",
-          "link": "https://www.bbc.co.uk/news/videos/cxly57mv4767o?at_medium=RSS&at_campaign=rss"
+          "title": "Watch: Key moments from Andy Burnham's first UN speech",
+          "link": "https://www.bbc.co.uk/news/videos/cq5y4zpn655ko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Plot targeting Manchester's Jewish community disrupted, say police",
-          "link": "https://www.bbc.co.uk/news/articles/cq07ly8xzvn4o?at_medium=RSS&at_campaign=rss"
+          "title": "Open wounds and eyes that can't close - women warn about cheap bleph eyelid surgery",
+          "link": "https://www.bbc.co.uk/news/articles/c9rk3rdp644mo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "'My eyelids became infected - I was scared to sleep'",
+          "link": "https://www.bbc.co.uk/news/videos/cjp306113l0wo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "'Poison seller' who sold my daughter deadly drugs should rot in hell",
           "link": "https://www.bbc.co.uk/news/articles/c9j3dgxl8j58o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "IMF tells advanced economies to 'bring debt down' as borrowing costs rise",
-          "link": "https://www.bbc.co.uk/news/articles/cx305ymq4ldqo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Booker Prize judges reveal shortlisted novels after selection 'tussle'",
-          "link": "https://www.bbc.co.uk/news/articles/cqzjz8dk4wddo?at_medium=RSS&at_campaign=rss"
+          "title": "Chris Mason: In the room with the president and the prime minister",
+          "link": "https://www.bbc.co.uk/news/articles/cm158y74n5vxo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T00:16:14.097Z"
+      "updatedAt": "2026-09-23T05:45:12.742Z"
     },
     "NY Times": {
       "items": [
         {
+          "title": "Trump Threatens Annihilation in Iran in UN Speech and Lays Out Winner-Takes-All Vision",
+          "link": "https://www.nytimes.com/2026/09/22/us/politics/un-trump-speech-iran-venezuela-greenland.html"
+        },
+        {
           "title": "At U.N., Carney Lays Out a Broad Plan for a Divided World",
           "link": "https://www.nytimes.com/2026/09/22/world/canada/carney-united-nations-general-assembly.html"
+        },
+        {
+          "title": "Trump Once Vowed to ‘Own’ Greenland. He Settled for Something Much Less.",
+          "link": "https://www.nytimes.com/2026/09/22/us/politics/trump-greenland-denmark-agreement.html"
         },
         {
           "title": "Fact-Checking Trump’s Speech at the United Nations",
           "link": "https://www.nytimes.com/2026/09/22/us/politics/fact-check-trump-united-nations.html"
         },
         {
-          "title": "UNGA Brings Traffic and a Little Chaos to New York City",
-          "link": "https://www.nytimes.com/2026/09/22/nyregion/un-general-assembly-traffic-nyc.html"
-        },
-        {
-          "title": "Trump Uses U.N. Address to Threaten Annihilation of Iran",
-          "link": "https://www.nytimes.com/2026/09/22/briefing/trump-un-speech-iran-unions-ai-threats.html"
-        },
-        {
-          "title": "Trump Officials Eject 750,000 From Obamacare Markets, Claiming Fraud",
-          "link": "https://www.nytimes.com/2026/09/22/us/politics/aca-obamacare-vance-fraud.html"
+          "title": "White House Defends Trump’s Ban on CNN, MS NOW and Politico in Court Filing",
+          "link": "https://www.nytimes.com/2026/09/23/business/trump-cnn-politico-ms-now-ban.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T00:16:14.440Z"
+      "updatedAt": "2026-09-23T05:45:12.797Z"
     }
   },
   "indices": {
@@ -279,13 +279,13 @@
       },
       {
         "name": "Gold",
-        "price": 4401.4,
-        "pct": 0.0386389981135036
+        "price": 4375.1,
+        "pct": -1.125449162692926
       },
       {
         "name": "Bitcoin",
-        "price": 86360.8,
-        "pct": 6.311569289979244
+        "price": 86752.08,
+        "pct": 6.7932414240005
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-09-23T00:16:14.644Z"
+    "updatedAt": "2026-09-23T05:45:12.914Z"
   }
 }
