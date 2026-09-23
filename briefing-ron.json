@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-22T21:56:11.476Z",
+  "fetchedAt": "2026-09-23T00:16:14.644Z",
   "feeds": {
     "MarketWatch": {
       "items": [
@@ -29,37 +29,37 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T21:56:09.698Z"
+      "updatedAt": "2026-09-23T00:16:12.773Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Simone Biles buys a new Porsche because her old one now carries the unmistakable stench of theft",
-          "link": "https://www.foxnews.com/outkick-sports/simone-biles-buys-new-porsche-old-one-carries-unmistakable-stench-theft"
+          "title": "El-Sayed mocked for 'word salad' answer when pressed by conservative on voting for him: 'Worse than Kamala's'",
+          "link": "https://www.foxnews.com/politics/el-sayed-mocked-word-salad-answer-pressed-conservative-voting-worse-than-kamalas"
         },
         {
-          "title": "NBA's Kevin Durant brushes off Enes Kanter Freedom's WNBA trans debate: 'I don't give a f---'",
-          "link": "https://www.foxnews.com/outkick-sports/nbas-kevin-durant-brushes-off-enes-kanter-freedoms-wnba-trans-debate-i-dont-give-f"
+          "title": "Violent brawl over lounge chairs at famous beach leaves one man dead, others facing charges",
+          "link": "https://www.foxnews.com/travel/violent-brawl-lounge-chairs-famous-beach-leaves-one-man-dead-others-facing-charges"
         },
         {
-          "title": "Hasan Piker admits he has 'dialed down' his opinions after public and Democratic backlash",
-          "link": "https://www.foxnews.com/media/hasan-piker-admits-dialed-down-opinions-after-public-democratic-backlash"
+          "title": "Bunnie Xo responds to fan backlash over cozy outing with 24-year-old reality star",
+          "link": "https://www.foxnews.com/entertainment/bunnie-xo-responds-fan-backlash-cozy-outing-24-year-old-reality-star"
         },
         {
-          "title": "CNN staffers accept new reality as Paramount's takeover of Warner Bros Discovery goes full steam ahead",
-          "link": "https://www.foxnews.com/media/cnn-staffers-accept-new-reality-paramount-takeover-warner-bros-discovery-goes-full-steam-ahead"
+          "title": "Super Bowl-winning coach reveals 'Cold War' with Broncos' Sean Payton over alleged spying | Matt Calkins",
+          "link": "https://www.foxnews.com/outkick-sports/super-bowl-winning-coach-reveals-cold-war-broncos-sean-payton-alleged-spying-matt-calkins"
         },
         {
-          "title": "Biden administration granted woman green card months before she illegally voted in 2024 election: DHS",
-          "link": "https://www.foxnews.com/politics/biden-admin-granted-woman-green-card-months-before-illegally-voted-2024-election-dhs"
+          "title": "'Reacher' star Alan Ritchson claims studios begged him to shut up about politics",
+          "link": "https://www.foxnews.com/media/reacher-star-alan-ritchson-claims-studios-begged-him-shut-up-about-politics"
         },
         {
-          "title": "Father of 9/11 hero Todd Beamer appears in Michigan Senate race ad to condemn Hasan Piker rhetoric",
-          "link": "https://www.foxnews.com/media/father-9-11-hero-todd-beamer-appears-michigan-senate-race-ad-condemn-hasan-piker-rhetoric"
+          "title": "Virginia school district faces probe over 9/11 teaching guide telling teachers not to ‘center the extremists’",
+          "link": "https://www.foxnews.com/politics/virginia-school-district-faces-probe-over-911-teaching-guide-telling-teachers-not-center-extremists"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T21:56:09.959Z"
+      "updatedAt": "2026-09-23T00:16:12.905Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -89,36 +89,44 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T21:56:10.220Z"
+      "updatedAt": "2026-09-23T00:16:13.248Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Hunter Biden responds to GOP senator's request: 'I'll sit next to Don Jr. and testify any time'",
-          "link": "https://thehill.com/homenews/senate/6105280-hunter-biden-responds-senator-request/"
+          "title": "Lawmakers across Americas urge US to end drug boat strike campaign",
+          "link": "https://thehill.com/homenews/6105496-trump-administration-drone-strike-controversy/"
         },
         {
-          "title": "Lawsuit targets 'medically frail' Medicaid work requirement exemption",
-          "link": "https://thehill.com/policy/healthcare/6105262-lawsuit-trump-medicaid-work-requirements/"
+          "title": "Michigan attorney general Nessel endorses El-Sayed after previous criticism",
+          "link": "https://thehill.com/homenews/campaign/6105450-nessel-endorses-elsayed/"
         },
         {
-          "title": "Trump looks to rebrand AI",
-          "link": "https://thehill.com/newsletters/technology/6105266-trump-looks-to-rebrand-ai/"
+          "title": "MAHA lashes out at RFK Jr.",
+          "link": "https://thehill.com/newsletters/healthcare/6105393-maha-lashes-out-rfk-jr/"
         },
         {
-          "title": "The Memo: Ocasio-Cortez speculation spikes again for 2028",
-          "link": "https://thehill.com/homenews/analysis/6105267-aoc-political-future-rumors/"
+          "title": "Kagan steers Supreme Court clear of high-profile surrogacy fight",
+          "link": "https://thehill.com/regulation/court-battles/6105403-kagan-denies-surrogacy-emergency-bid/"
         },
         {
-          "title": "Harris says Trump's move to ban news outlets shows ‘the man is afraid’",
-          "link": "https://thehill.com/homenews/administration/6105227-trump-withdrew-white-house-credentials/"
+          "title": "Justice Department indicts former postal worker for tossing out mail-in ballots in Utah",
+          "link": "https://thehill.com/regulation/court-battles/6105303-usps-employee-indictment-mail-in-ballots/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T21:56:10.605Z"
+      "updatedAt": "2026-09-23T00:16:13.668Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "Woman's brain worm infection confirmed after eggs grow tails in lab test",
+          "link": "https://arstechnica.com/health/2026/09/womans-brain-worm-infection-confirmed-after-eggs-grow-tails-in-lab-test/"
+        },
+        {
+          "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
+          "link": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/"
+        },
         {
           "title": "Cities across US oppose Trump FCC plan to preempt local broadband rules",
           "link": "https://arstechnica.com/tech-policy/2026/09/cities-across-us-oppose-trump-fcc-plan-to-preempt-local-broadband-rules/"
@@ -130,21 +138,17 @@
         {
           "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
           "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/"
-        },
-        {
-          "title": "Adobe Premiere finally brings powerful video editing to Android, and it's free",
-          "link": "https://arstechnica.com/gadgets/2026/09/adobe-premiere-finally-brings-powerful-video-editing-to-android-and-its-free/"
-        },
-        {
-          "title": "Review: Resident Evil might just be the best gaming adaptation yet",
-          "link": "https://arstechnica.com/culture/2026/09/review-resident-evil-is-the-fresh-take-this-flagging-franchise-really-needed/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T21:56:10.945Z"
+      "updatedAt": "2026-09-23T00:16:13.826Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "Paramount will need to release way more movies to make this merger work",
+          "link": "https://www.theverge.com/entertainment/999056/paramount-warner-bros-discovery-merger-annual-film-quota-guardrails"
+        },
         {
           "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
           "link": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3"
@@ -160,19 +164,15 @@
         {
           "title": "Motorola’s wild-looking Signature 27 runs Qualcomm’s new Extreme chipset",
           "link": "https://www.theverge.com/tech/998844/motorola-signature-27-specs-snapdragon-8-elite-extreme-gen-6"
-        },
-        {
-          "title": "Apple clarifies that Texture and Grain controls are exclusive to the latest iPhones’ cameras",
-          "link": "https://www.theverge.com/tech/998874/apple-iphone-18-pro-ios-27-camera-texture-grain-photographic-style"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T21:56:10.999Z"
+      "updatedAt": "2026-09-23T00:16:13.896Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Trump tells UN he has 'big decision' on whether to 'annihilate' Iran or make peace deal",
+          "title": "Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines",
           "link": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss"
         },
         {
@@ -201,7 +201,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T21:56:11.175Z"
+      "updatedAt": "2026-09-23T00:16:14.050Z"
     },
     "BBC News": {
       "items": [
@@ -218,46 +218,46 @@
           "link": "https://www.bbc.co.uk/news/articles/cq07ly8xzvn4o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Tim Westwood charged with two more sexual offences",
-          "link": "https://www.bbc.co.uk/news/articles/ckx2zv0rx0nqo?at_medium=RSS&at_campaign=rss"
+          "title": "'Poison seller' who sold my daughter deadly drugs should rot in hell",
+          "link": "https://www.bbc.co.uk/news/articles/c9j3dgxl8j58o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Earl Spencer should pull Diana book from shelves, Piers Morgan says",
-          "link": "https://www.bbc.co.uk/news/articles/cr93e2nz0281o?at_medium=RSS&at_campaign=rss"
+          "title": "IMF tells advanced economies to 'bring debt down' as borrowing costs rise",
+          "link": "https://www.bbc.co.uk/news/articles/cx305ymq4ldqo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Father admits causing death of his son in hotel fall",
-          "link": "https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&at_campaign=rss"
+          "title": "Booker Prize judges reveal shortlisted novels after selection 'tussle'",
+          "link": "https://www.bbc.co.uk/news/articles/cqzjz8dk4wddo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T21:56:11.208Z"
+      "updatedAt": "2026-09-23T00:16:14.097Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "Fact-Checking Trump’s Speech at the United Nations",
-          "link": "https://www.nytimes.com/2026/09/22/us/politics/fact-check-trump-united-nations.html"
+          "title": "At U.N., Carney Lays Out a Broad Plan for a Divided World",
+          "link": "https://www.nytimes.com/2026/09/22/world/canada/carney-united-nations-general-assembly.html"
         },
         {
-          "title": "U.N. Searches for Its Next Leader",
-          "link": "https://www.nytimes.com/2026/09/22/world/next-un-leader-guterres.html"
+          "title": "Fact-Checking Trump’s Speech at the United Nations",
+          "link": "https://www.nytimes.com/2026/09/22/us/politics/fact-check-trump-united-nations.html"
         },
         {
           "title": "UNGA Brings Traffic and a Little Chaos to New York City",
           "link": "https://www.nytimes.com/2026/09/22/nyregion/un-general-assembly-traffic-nyc.html"
         },
         {
-          "title": "Trump Officials Eject 750,000 From Obamacare Markets, Claiming Fraud",
-          "link": "https://www.nytimes.com/2026/09/22/health/aca-obamacare-vance-fraud.html"
+          "title": "Trump Uses U.N. Address to Threaten Annihilation of Iran",
+          "link": "https://www.nytimes.com/2026/09/22/briefing/trump-un-speech-iran-unions-ai-threats.html"
         },
         {
-          "title": "Veterans Package Stalls After House’s Swift Departure",
-          "link": "https://www.nytimes.com/2026/09/22/us/politics/veterans-benefits-bill-congress-elections.html"
+          "title": "Trump Officials Eject 750,000 From Obamacare Markets, Claiming Fraud",
+          "link": "https://www.nytimes.com/2026/09/22/us/politics/aca-obamacare-vance-fraud.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T21:56:11.330Z"
+      "updatedAt": "2026-09-23T00:16:14.440Z"
     }
   },
   "indices": {
@@ -279,13 +279,13 @@
       },
       {
         "name": "Gold",
-        "price": 4396.2,
-        "pct": -0.07955087846898652
+        "price": 4401.4,
+        "pct": 0.0386389981135036
       },
       {
         "name": "Bitcoin",
-        "price": 86275.73,
-        "pct": 6.64298271007716
+        "price": 86360.8,
+        "pct": 6.311569289979244
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-09-22T21:56:11.476Z"
+    "updatedAt": "2026-09-23T00:16:14.644Z"
   }
 }
