@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-09-23T12:23:57.035Z",
+  "fetchedAt": "2026-09-23T17:32:34.587Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Arch Manning officially goes through the PR spin cycle and the finished product sounds awful",
-          "link": "https://www.foxnews.com/outkick-sports/arch-manning-officially-goes-through-pr-spin-cycle-finished-product-sounds-awful"
+          "title": "Trump to ask Xi to free wrongfully detained US citizen as wife speaks out",
+          "link": "https://www.foxnews.com/politics/trump-ask-xi-free-wrongfully-detained-us-citizen-wife-speaks-out"
         },
         {
-          "title": "Lost in translation: Israel, Huckabee blast Macron over Hamas comments as France clarifies wording",
-          "link": "https://www.foxnews.com/politics/lost-translation-israel-huckabee-blast-macron-over-hamas-comments-france-clarifies-wording"
+          "title": "DAVID MARCUS: Minnesota GOP candidates keep Trump at arm's length as they eye a post-Trump party future",
+          "link": "https://www.foxnews.com/opinion/david-marcus-minnesota-gop-candidates-keep-trump-arms-length-eye-post-trump-party-future"
         },
         {
-          "title": "Mystery surrounds German soldiers found near mud-covered WWII motorcycle in Danube",
-          "link": "https://www.foxnews.com/travel/mystery-surrounds-german-soldiers-found-mud-covered-wwii-motorcycle-danube"
+          "title": "Travis Kelce reacts to Taylor Swift's viral 'that's my husband' moment during win over Colts",
+          "link": "https://www.foxnews.com/outkick-sports/travis-kelce-reacts-taylor-swift-viral-thats-my-husband-moment-win-colts"
         },
         {
-          "title": "Cowboys' Dak Prescott still giving Jerry Jones Super Bowl fever: 'Gives us our best chance'",
-          "link": "https://www.foxnews.com/outkick-sports/cowboys-dak-prescott-giving-jerry-jones-super-bowl-fever-gives-us-best-chance"
+          "title": "SHOCK POLL: Powerful blue state gov's lead shrinks to single digits weeks before election",
+          "link": "https://www.foxnews.com/politics/gop-challenger-within-single-digits-blue-state-gov-despite-dem-massive-advantage"
         },
         {
-          "title": "Socialist mayor’s new answer to rampant retail crime ignites fury: ‘Bandage on a bullet wound’",
-          "link": "https://www.foxnews.com/politics/socialist-mayors-new-answer-rampant-retail-crime-ignites-fury-bandage-bullet-wound"
+          "title": "Antonio Brown avoids 30-year prison sentence for attempted murder by accepting 'an offer he couldn't refuse'",
+          "link": "https://www.foxnews.com/outkick-sports/antonio-brown-avoids-30-year-prison-sentence-attempted-murder-accepting-offer-he-couldnt-refuse"
         },
         {
-          "title": "Supreme Court declines to intervene in case of surrogate mother who refused abortion",
-          "link": "https://www.foxnews.com/politics/supreme-court-declines-intervene-case-surrogate-mother-refused-abortion"
+          "title": "FIRST ON FOX: Rubio ramps up birth tourism crackdown hours before Xi touches down in US",
+          "link": "https://www.foxnews.com/politics/first-fox-rubio-ramps-up-birth-tourism-crackdown-hours-before-xi-touches-down-us"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T12:23:55.151Z"
+      "updatedAt": "2026-09-23T17:32:31.964Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -51,7 +51,7 @@
         },
         {
           "title": "Polls Show GOP Staring Down Midterm Reckoning",
-          "link": "https://www.realclearpolitics.com/2026/09/22/polls_show_gop_staring_down_midterm_reckoning_711802.html"
+          "link": "https://www.realclearpolitics.com/2026/09/23/polls_show_gop_staring_down_midterm_reckoning_711802.html"
         },
         {
           "title": "Too Soon To Call This Election for the Democrats",
@@ -59,36 +59,44 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T12:23:55.480Z"
+      "updatedAt": "2026-09-23T17:32:32.063Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "The First Amendment doesn't come with an approval rating",
-          "link": "https://thehill.com/opinion/white-house/6103602-media-outlets-sue-trump-administration/"
+          "title": "Trump threatens to 'annihilate' Iran in UN speech",
+          "link": "https://thehill.com/opinion/lindseys-lens/6106814-trump-iran-war-un-speech/"
         },
         {
-          "title": "Missouri redistricting fight reaches Supreme Court for third time",
-          "link": "https://thehill.com/regulation/court-battles/6105766-missouri-redistricting-fight-supreme-court-challenge-2026-midterms/"
+          "title": "Watch live: Hawley turns spotlight on Flock, AI-powered cameras",
+          "link": "https://thehill.com/video-clips/6106616-watch-live-josh-hawley-senate-judiciary-hearing-flock-ai-cameras/"
         },
         {
-          "title": "Fight over Trump’s media ban heads to court",
-          "link": "https://thehill.com/newsletters/morning-report/6105756-donald-trump-white-house-media-ban-court-battle/"
+          "title": "Ted Cruz blasts Joel Webbon for saying MAGA should 'embrace socialism'",
+          "link": "https://thehill.com/opinion/robbys-radar/6106781-gop-rejects-webbons-socialism/"
         },
         {
-          "title": "25 years after 9/11, terrorism has entered the AI era — we must adapt",
-          "link": "https://thehill.com/opinion/national-security/6103613-terrorist-groups-adopt-ai-technology/"
+          "title": "Weinstein handed 15-year prison sentence in New York sexual assault case",
+          "link": "https://thehill.com/regulation/court-battles/6106741-harvey-weinstein-15-years-prison/"
         },
         {
-          "title": "Trawling fight makes waves in Alaska Senate contest",
-          "link": "https://thehill.com/homenews/6105130-peltola-sullivan-trawling-clash-alaska-senate/"
+          "title": "Chicago mayor seeks to block data center expansion: ‘We are not for sale’",
+          "link": "https://thehill.com/homenews/state-watch/6106716-chicago-mayor-seeks-to-block-data-center-expansion-we-are-not-for-sale/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T12:23:55.947Z"
+      "updatedAt": "2026-09-23T17:32:32.505Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "After multiple deaths and injuries, NHTSA is investigating comma.ai",
+          "link": "https://arstechnica.com/cars/2026/09/aftermarket-driver-assist-under-federal-probe-following-fatal-crashes/"
+        },
+        {
+          "title": "America gave up its rare earth edge. China took full advantage.",
+          "link": "https://arstechnica.com/reviews/2026/09/how-the-us-handed-china-control-of-the-rare-earth-supply-chain/"
+        },
         {
           "title": "Small undersea volcanoes may unleash outsized tsunamis",
           "link": "https://arstechnica.com/science/2026/09/small-undersea-volcanoes-may-unleash-outsized-tsunamis/"
@@ -100,167 +108,171 @@
         {
           "title": "Woman's brain worm infection confirmed after eggs grow tails in lab test",
           "link": "https://arstechnica.com/health/2026/09/womans-brain-worm-infection-confirmed-after-eggs-grow-tails-in-lab-test/"
-        },
-        {
-          "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
-          "link": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/"
-        },
-        {
-          "title": "Cities across US oppose Trump FCC plan to preempt local broadband rules",
-          "link": "https://arstechnica.com/tech-policy/2026/09/cities-across-us-oppose-trump-fcc-plan-to-preempt-local-broadband-rules/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T12:23:56.016Z"
+      "updatedAt": "2026-09-23T17:32:32.573Z"
     },
     "The Verge": {
       "items": [
         {
-          "title": "Xiaomi’s new 18 Pro phones improve on Samsung’s privacy display",
-          "link": "https://www.theverge.com/tech/999253/xiaomi-18-pro-max-privacy-display-launch-china"
+          "title": "Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act"
         },
         {
-          "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam"
+          "title": "Logitech’s new Blue Yeti 2 mic adjusts itself to where you are",
+          "link": "https://www.theverge.com/gadgets/999406/blue-yeti-2-usb-microphone-price-availability"
         },
         {
-          "title": "Eight Sleep’s new cooling hub is small enough to hide under your bed",
-          "link": "https://www.theverge.com/tech/999018/eight-sleep-pod-6-intelligent-sleep-system-sensors-health-tracking"
+          "title": "Logitech’s new haptics-based gaming mouse is a little better and $20 more",
+          "link": "https://www.theverge.com/news/998266/logitech-x3-pro-superstrike-specs-price"
         },
         {
-          "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel"
+          "title": "Xbox’s Mythic Achievements sound like PlayStation’s Platinum trophy",
+          "link": "https://www.theverge.com/news/999404/xbox-mythic-achievement-feature"
         },
         {
-          "title": "Paramount will need to release way more movies to make this merger work",
-          "link": "https://www.theverge.com/entertainment/999056/paramount-warner-bros-discovery-merger-annual-film-quota-guardrails"
+          "title": "One of the best Metroid games for the Switch is 30 percent off",
+          "link": "https://www.theverge.com/gadgets/999329/metroid-prime-remastered-nintendo-flow-usbc-apple-deal-sale"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T12:23:56.048Z"
+      "updatedAt": "2026-09-23T17:32:32.612Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "US and Iran hold first talks since June after Trump's 'annihilation' threat",
-          "link": "https://www.bbc.co.uk/news/articles/ck62m1631d7po?at_medium=RSS&at_campaign=rss"
+          "title": "Iran's president tells Trump it will never 'bend the knee'",
+          "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Reports of violence against women in Gaza surge, UN agency finds",
-          "link": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Tigray forces seize main airport in northern Ethiopia from police, residents tell the BBC",
+          "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
           "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Trump administration accuses banned media outlets of 'falsehoods' ahead of court hearing",
-          "link": "https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&at_campaign=rss"
+          "title": "White House rolling out red carpet for historic Xi Jinping visit",
+          "link": "https://www.bbc.co.uk/news/articles/c6n9w410v3vzo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Eleven killed in mass shooting at house in South Africa",
-          "link": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss"
+          "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
+          "link": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "More than 170,000 respiratory cases recorded in haze-choked Indonesia",
-          "link": "https://www.bbc.co.uk/news/articles/cq62j13gnyrko?at_medium=RSS&at_campaign=rss"
+          "title": "Dolly Parton's manager accuses her nephew of 'threats and intimidation'",
+          "link": "https://www.bbc.co.uk/news/articles/c670lydl5wg5o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Hurricane Polo intensifies into rare category 5 storm off the coast of Mexico",
-          "link": "https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo?at_medium=RSS&at_campaign=rss"
+          "title": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
+          "link": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Poland accuses Russian military helicopter of violating its airspace",
+          "link": "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T12:23:56.117Z"
+      "updatedAt": "2026-09-23T17:32:32.645Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "UK to review Chagos Islands deal over lack of US support, Streeting tells BBC",
-          "link": "https://www.bbc.co.uk/news/articles/ck3wjy3pdwdno?at_medium=RSS&at_campaign=rss"
+          "title": "UK military jamming other nation's satellites to defend itself, BBC told",
+          "link": "https://www.bbc.co.uk/news/articles/c32l8y8kygdvo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Chris Mason: From inside the room, how Burnham survived first Trump meeting",
-          "link": "https://www.bbc.co.uk/news/articles/cm158y74n5vxo?at_medium=RSS&at_campaign=rss"
+          "title": "Home secretary says undetected migrant landings 'unacceptable'",
+          "link": "https://www.bbc.co.uk/news/articles/cm5yjzj8l5k5o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Open wounds and eyes that can't close - women warn about cheap bleph eyelid surgery",
-          "link": "https://www.bbc.co.uk/news/articles/c9rk3rdp644mo?at_medium=RSS&at_campaign=rss"
+          "title": "Watch: Moment pilots eject as RAF jet crashes in Anglesey",
+          "link": "https://www.bbc.co.uk/news/videos/c6wyz0zlx10qo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Iran's president tells Trump it will never 'bend the knee'",
+          "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Police examine video of anti-migrant activist slashing dinghy with knife",
           "link": "https://www.bbc.co.uk/news/articles/c3rr48pxg54qo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "UK warned over ballooning debt costs and slower growth ahead of Budget",
-          "link": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "What's at stake when Trump and Xi meet in the US?",
-          "link": "https://www.bbc.co.uk/news/videos/c38xk275jd21o?at_medium=RSS&at_campaign=rss"
+          "title": "UK to review Chagos Islands deal over lack of US support, Streeting tells BBC",
+          "link": "https://www.bbc.co.uk/news/articles/ck3wjy3pdwdno?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T12:23:56.129Z"
+      "updatedAt": "2026-09-23T17:32:32.650Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "Trump Threatens Annihilation in Iran in UN Speech and Lays Out Winner-Takes-All Vision",
-          "link": "https://www.nytimes.com/2026/09/22/us/politics/un-trump-speech-iran-venezuela-greenland.html"
+          "title": "How China’s Leader Plans to Win the Future With A.I.",
+          "link": "https://www.nytimes.com/2026/09/23/world/asia/china-ai-economy-xi-jinping.html"
         },
         {
-          "title": "Trump Once Vowed to ‘Own’ Greenland. He Settled for Something Much Less.",
-          "link": "https://www.nytimes.com/2026/09/22/us/politics/trump-greenland-denmark-agreement.html"
-        },
-        {
-          "title": "Trump Praises Burnham as ‘Natural Business Person’ After First Meeting",
-          "link": "https://www.nytimes.com/2026/09/22/world/europe/trump-burnham-meeting-un-us-uk.html"
-        },
-        {
-          "title": "Trump’s Major Retreat on Greenland, and Why Texas Hit Pause on New Data Centers",
-          "link": "https://www.nytimes.com/2026/09/23/podcasts/the-headlines/trump-greenland-texas-data-centers.html"
+          "title": "Hackers Say They Stole Thousands of Sensitive F.B.I. Personnel Records",
+          "link": "https://www.nytimes.com/2026/09/23/us/politics/fbi-hack-shinyhunters-data.html"
         },
         {
           "title": "White House Defends Trump’s Ban on CNN, MS NOW and Politico in Court Filing",
           "link": "https://www.nytimes.com/2026/09/23/business/trump-cnn-politico-ms-now-ban.html"
+        },
+        {
+          "title": "Fox News Finds Itself at Odds With Trump on Press Ban",
+          "link": "https://www.nytimes.com/2026/09/23/business/media/fox-trump-press-pool-ban.html"
+        },
+        {
+          "title": "Trump’s One Big Beautiful Bill Is Starting to Bite Before the Midterm Elections",
+          "link": "https://www.nytimes.com/2026/09/23/us/politics/one-big-beautiful-bill-midterms-affordability.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T12:23:56.155Z"
+      "updatedAt": "2026-09-23T17:32:32.682Z"
     },
     "ARTNews": {
       "items": [
         {
-          "title": "Christie’s Heads to Abu Dhabi to Mark 20 Years in United Arab Emirates, as Country’s Market Grows",
-          "link": "https://www.artnews.com/art-news/market/christies-abu-dhabi-first-fine-art-auction-middle-east-1234799062/"
+          "title": "Amateur Archaeologist With a Metal Detector Finds 934 Roman Silver Coins in a Field in Western Germany",
+          "link": "https://www.artnews.com/art-news/news/amateur-archaeologist-roman-silver-coins-west-german-field-1234799112/"
         },
         {
-          "title": "Solange Knowles Will Show Large-Scale Sculpture on New York’s High Line",
-          "link": "https://www.artnews.com/art-news/news/solange-knowles-sculpture-high-line-1234799082/"
+          "title": "The Only Shocking Thing About Jordan Wolfson’s Gagosian Show Is How Boring It Is",
+          "link": "https://www.artnews.com/art-news/reviews/jordan-wolfson-gagosian-new-york-review-1234799150/"
         },
         {
-          "title": "Weis Family Files Counterclaim in Suit Over $4 M. Pierre Soulages Painting",
-          "link": "https://www.artnews.com/art-news/news/weis-family-counterclaim-filing-pierre-soulages-painting-1234799088/"
+          "title": "Art Institute of Chicago Returns a Metzinger to Family of Jewish Collector Following Further Provenance Research",
+          "link": "https://www.artnews.com/art-news/news/art-institute-chicago-returns-metzinger-jewish-collector-1234799122/"
         },
         {
-          "title": "Tyler Mitchell Wins $250,000 Don Tyson Prize from Crystal Bridges Museum",
-          "link": "https://www.artnews.com/art-news/news/tyler-mitchell-wins-don-tyson-prize-crystal-bridges-museum-1234799079/"
+          "title": "LA’s Getty Museum Acquires Recently Rediscovered Velázquez Painting, a First for a West Coast Museum",
+          "link": "https://www.artnews.com/art-news/news/getty-museum-recently-rediscovered-diego-velazquez-painting-1234799118/"
         },
         {
-          "title": "UK Temporarily Bans Export of a ‘Small But Mighty’ Italian Renaissance Bronze Valued at $6.1 M.",
-          "link": "https://www.artnews.com/art-news/news/uk-temporarily-bans-export-italian-renaissance-bronze-antico-1234799064/"
+          "title": "Lucia Laguna, Brazilian Artist Who Got Late But Fruitful Start on Painting Career, Has Died",
+          "link": "https://www.artnews.com/art-news/news/lucia-laguna-dead-brazilian-artist-1234799111/"
         },
         {
-          "title": "Codex Azcatitlan Goes on View in Mexico City, as Culture Ministry Continues Centuries-Long Quest for Repatriation",
-          "link": "https://www.artnews.com/art-news/news/codex-azcatitlan-on-view-mexico-city-repatriation-claim-1234799055/"
+          "title": "Mauritshuis Returns Nazi-Looted Painting to Heirs of Jewish Dealer",
+          "link": "https://www.artnews.com/art-news/news/mauritshuis-returns-nazi-looted-painting-1234799104/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T12:23:56.249Z"
+      "updatedAt": "2026-09-23T17:32:32.779Z"
     },
     "Hyperallergic": {
       "items": [
+        {
+          "title": "Thomas Hart Benton's Sanitized American Idyll",
+          "link": "https://hyperallergic.com/thomas-hart-bentons-sanitized-american-idyll/"
+        },
+        {
+          "title": "Derrick Adams, Randy Polumbo, Wills Glasspiegel & More Artists Project Newly-Commissioned Works Onto Historic Hangars in Brooklyn",
+          "link": "https://hyperallergic.com/derrick-adams-randy-polumbo-wills-glasspiegel-more-artists-project-newly-commissioned-works-onto-historic-hangars-in-brooklyn/"
+        },
+        {
+          "title": "Gather 'Round, Willie Birch Is Speaking",
+          "link": "https://hyperallergic.com/gather-round-willie-birch-is-speaking/"
+        },
         {
           "title": "How Tarot Survived for 500 Years",
           "link": "https://hyperallergic.com/how-tarot-survived-for-500-years/"
@@ -272,25 +284,21 @@
         {
           "title": "Met Museum Brokers Return of Three Artworks to Nigeria",
           "link": "https://hyperallergic.com/met-museum-brokers-return-of-three-artworks-to-nigeria/"
-        },
-        {
-          "title": "Duo Calls to Oust Leon Black in Protest Outside MoMA",
-          "link": "https://hyperallergic.com/duo-calls-to-oust-leon-black-in-protest-outside-moma/"
-        },
-        {
-          "title": "Tarot for a Broken World",
-          "link": "https://hyperallergic.com/tarot-for-a-broken-world/"
-        },
-        {
-          "title": "Armory Week is Here",
-          "link": "https://hyperallergic.com/armory-week-is-here/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T12:23:56.437Z"
+      "updatedAt": "2026-09-23T17:32:32.978Z"
     },
     "Contemporary Art Daily": {
       "items": [
+        {
+          "title": "Announcement",
+          "link": ""
+        },
+        {
+          "title": "Sara Greenberger Rafferty at Halsey McKay",
+          "link": "https://www.contemporaryartdaily.com/project/sara-greenberger-rafferty-at-halsey-mckay-east-hampton-101765?source=rss"
+        },
         {
           "title": "Krista Vindberga-Auzniece at Kim? Contemporary Art Centre",
           "link": "https://www.contemporaryartdaily.com/project/krista-vindberga-auzniece-at-kim-contemporary-art-centre-riga-101634?source=rss"
@@ -306,18 +314,10 @@
         {
           "title": "Eva de Souza at Stadtgalerie Bern",
           "link": "https://www.contemporaryartdaily.com/project/eva-de-souza-at-stadtgalerie-bern-100347?source=rss"
-        },
-        {
-          "title": "Wu Tsang at Galerie Isabella Bortolozzi",
-          "link": "https://www.contemporaryartdaily.com/project/wu-tsang-at-galerie-isabella-bortolozzi-berlin-101666?source=rss"
-        },
-        {
-          "title": "<i>Longer Than the Sky: Art of the Obama Years</i> at Logan Center",
-          "link": "https://www.contemporaryartdaily.com/project/longer-than-the-sky-art-of-the-obama-years-at-logan-center-chicago-83021?source=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T12:23:56.991Z"
+      "updatedAt": "2026-09-23T17:32:34.526Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T12:23:57.035Z"
+      "updatedAt": "2026-09-23T17:32:34.587Z"
     }
   }
 }
