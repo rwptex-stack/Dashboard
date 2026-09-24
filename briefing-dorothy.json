@@ -1,68 +1,76 @@
 {
-  "fetchedAt": "2026-09-24T02:00:40.252Z",
+  "fetchedAt": "2026-09-24T07:54:01.385Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
+          "title": "Parents accuse Oregon hospital of making them drive dead baby home to Seattle: lawsuit",
+          "link": "https://www.foxnews.com/us/parents-accuse-oregon-hospital-making-drive-dead-baby-home-seattle-lawsuit"
+        },
+        {
+          "title": "Federal judge orders Trump administration to restore White House access to CNN, MS NOW and Politico",
+          "link": "https://www.foxnews.com/media/federal-judge-orders-trump-administration-restore-white-house-access-cnn-msnow-politico"
+        },
+        {
+          "title": "Tennessee cops raided man's home after he criticized officer for speeding: lawsuit",
+          "link": "https://www.foxnews.com/us/tennessee-cops-raided-mans-home-after-criticized-officer-speeding-lawsuit"
+        },
+        {
+          "title": "Aaron Judge says he intends to be ready for Yankees' Wild Card series despite calf injury",
+          "link": "https://www.foxnews.com/outkick-sports/aaron-judge-intends-ready-yankees-wild-card-series-despite-calf-injury"
+        },
+        {
+          "title": "Illegal alien allegedly grabs school police officer's gun, shoots him in femoral artery: DOJ",
+          "link": "https://www.foxnews.com/politics/illegal-alien-allegedly-grabs-school-police-officer-gun-shoots-femoral-artery-doj"
+        },
+        {
           "title": "Michigan student confronts El-Sayed over Iran stance in tense exchange: ‘Do you stand with us?’",
           "link": "https://www.foxnews.com/politics/michigan-student-confronts-el-sayed-over-iran-stance-tense-exchange-do-you-stand-us"
-        },
-        {
-          "title": "NYC kitten rescue defends ‘NO F---ING MAGA’ adoption policy as PETA calls for it to be abolished",
-          "link": "https://www.foxnews.com/politics/nyc-kitten-rescue-defends-no-f-ing-maga-adoption-policy-peta-calls-abolished"
-        },
-        {
-          "title": "English soccer star Harry Kane wants to play in the MLS and kick in the NFL at the same time",
-          "link": "https://www.foxnews.com/outkick-sports/english-soccer-star-harry-kane-wants-play-mls-kick-nfl-same-time"
-        },
-        {
-          "title": "Trump likely ‘smirked’ as 'crass' Iranian president lashed out at US in UN speech: expert",
-          "link": "https://www.foxnews.com/world/trump-smirked-iranian-president-lashed-us-fiery-un-speech-expert"
-        },
-        {
-          "title": "Tylenol murders mystery deepens after sheriff’s office solves decades-old ‘Unknown Wanderer’ cold case",
-          "link": "https://www.foxnews.com/us/tylenol-murders-mystery-deepens-sheriff-office-solves-decades-old-unknown-wanderer-cold-case"
-        },
-        {
-          "title": "Blue Jays' Vladimir Guerrero Jr. says his $500M contract was for past performance – not future results",
-          "link": "https://www.foxnews.com/outkick-sports/blue-jays-vladimir-guerrero-jr-500m-contract-past-performance-not-future-results"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T02:00:38.203Z"
+      "updatedAt": "2026-09-24T07:53:59.274Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "High Prices Are Killing GOP Midterm Hopes",
-          "link": "https://www.realclearpolitics.com/2026/09/23/high_prices_are_killing_gop_midterm_hopes_711925.html"
+          "title": "Xi Gets Rare Airport Welcome as Visit Begins",
+          "link": "https://www.realclearpolitics.com/2026/09/23/xi_gets_rare_airport_welcome_as_visit_begins_711934.html"
         },
         {
-          "title": "Beliefs, Reality and Wanting the Best School for Your Kid",
-          "link": "https://www.realclearpolitics.com/2026/09/23/beliefs_reality_and_wanting_the_best_school_for_your_kid_711912.html"
+          "title": "On Dogmas, Heterodoxy and Supermajorities",
+          "link": "https://www.realclearpolitics.com/2026/09/23/on_dogmas_heterodoxy_and_supermajorities_711927.html"
         },
         {
-          "title": "Nikole Hannah-Jones' New Version of 'The Jungle'",
-          "link": "https://www.realclearpolitics.com/2026/09/23/nikole_hannah-jones_new_version_of_the_jungle_711920.html"
+          "title": "Do You Believe Polls or Dem Insiders About Harris 2028?",
+          "link": "https://www.realclearpolitics.com/2026/09/23/do_you_believe_polls_or_dem_insiders_about_harris_2028_711787.html"
         },
         {
-          "title": "Mamdani Hosts the World",
-          "link": "https://www.realclearpolitics.com/2026/09/23/mamdani_hosts_the_world_711922.html"
+          "title": "If You Don't Like Polls, Follow the Money",
+          "link": "https://www.realclearpolitics.com/2026/09/23/if_you_dont_like_polls_follow_the_money_711769.html"
         },
         {
-          "title": "Even the United Nations Hates Iran",
-          "link": "https://www.realclearpolitics.com/articles/2026/09/23/even_the_un_hates_iran_154532.html"
+          "title": "Sore Losers Are the Left's Allies",
+          "link": "https://www.realclearpolitics.com/articles/2026/09/22/sore_losers_are_the_lefts_allies.html"
         },
         {
-          "title": "Free My Fellow Church Leaders in China",
-          "link": "https://www.realclearpolitics.com/2026/09/23/free_my_fellow_church_leaders_in_china_711905.html"
+          "title": "Schools Need Standards and Accountability, Not 'Equity'",
+          "link": "https://www.realclearpolitics.com/2026/09/23/schools_need_standards_and_accountability_not_equity_711929.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T02:00:38.297Z"
+      "updatedAt": "2026-09-24T07:53:59.548Z"
     },
     "The Hill": {
       "items": [
+        {
+          "title": "Judge orders White House to immediately restore access to CNN, MS NOW, Politico",
+          "link": "https://thehill.com/regulation/court-battles/6108012-judge-orders-white-house-to-immediately-restore-access-to-cnn-ms-now-politico/"
+        },
+        {
+          "title": "Judge tosses Trump’s suit against Iowa pollster",
+          "link": "https://thehill.com/regulation/court-battles/6107914-trump-selzer-polling-lawsuit-dismissed/"
+        },
         {
           "title": "RNC chair predicts GOP keeps House, 53 Senate seats",
           "link": "https://thehill.com/homenews/campaign/6107823-gruters-gop-house-senate-majorities-prediction/"
@@ -74,18 +82,10 @@
         {
           "title": "Fed's Barr says future interest rate hikes 'likely' needed to tame inflation",
           "link": "https://thehill.com/business/6107670-fed-governor-barr-rate-hike/"
-        },
-        {
-          "title": "House has lame-duck impeachment dilemma with Hegseth",
-          "link": "https://thehill.com/newsletters/defense-national-security/6107715-house-lame-duck-impeachment-dilemma-hegseth/"
-        },
-        {
-          "title": "Wright throws cold water on diesel export ban",
-          "link": "https://thehill.com/newsletters/energy-environment/6107716-wright-opposes-diesel-export-ban/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T02:00:38.799Z"
+      "updatedAt": "2026-09-24T07:53:59.875Z"
     },
     "Ars Technica": {
       "items": [
@@ -111,7 +111,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T02:00:38.926Z"
+      "updatedAt": "2026-09-24T07:54:00.008Z"
     },
     "The Verge": {
       "items": [
@@ -137,17 +137,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T02:00:39.047Z"
+      "updatedAt": "2026-09-24T07:54:00.099Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
-          "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss"
+          "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+          "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
-          "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss"
+          "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
+          "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Iran's president tells Trump it will never 'bend the knee'",
@@ -171,7 +171,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T02:00:39.114Z"
+      "updatedAt": "2026-09-24T07:54:00.245Z"
     },
     "BBC News": {
       "items": [
@@ -180,54 +180,54 @@
           "link": "https://www.bbc.co.uk/news/articles/cjly4rv0q3l0o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "What video footage tells us about RAF training jet crash",
-          "link": "https://www.bbc.co.uk/news/articles/cw8d32vv4l7vo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "A red carpet and military flyover - How Trump welcomed Xi",
+          "title": "Watch: Trump greets China's Xi beside plane in rare presidential welcome for foreign leader",
           "link": "https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
-          "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss"
+          "title": "What we know after video shows moment of RAF training jet crash",
+          "link": "https://www.bbc.co.uk/news/articles/cw8d32vv4l7vo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Burnham brands ban on football fans drinking alcohol in stands as 'discrimination'",
-          "link": "https://www.bbc.co.uk/news/articles/c933ky0nknxko?at_medium=RSS&at_campaign=rss"
+          "title": "Judge temporarily overturns Trump's White House media ban",
+          "link": "https://www.bbc.co.uk/news/articles/cqm2mg34x2v7o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
-          "link": "https://www.bbc.co.uk/news/articles/cwp80l0my1x2o?at_medium=RSS&at_campaign=rss"
+          "title": "Tories would stop long-term jobless using benefits to buy alcohol and cigarettes",
+          "link": "https://www.bbc.co.uk/news/articles/c920vy2jxle8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Mother of teen who died ‘deeply hurt’ that NHS staff may have accessed son’s records inappropriately",
+          "link": "https://www.bbc.co.uk/news/articles/cm207yn1124zo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T02:00:39.227Z"
+      "updatedAt": "2026-09-24T07:54:00.267Z"
     },
     "NY Times": {
       "items": [
+        {
+          "title": "Court Blocks Trump’s White House Ban on CNN, MS NOW and Politico",
+          "link": "https://www.nytimes.com/2026/09/23/business/media/cnn-ms-now-politico-white-house-trump-ban-ruling.html"
+        },
+        {
+          "title": "Iowa Judge Dismisses Trump’s Lawsuit Against The Des Moines Register",
+          "link": "https://www.nytimes.com/2026/09/23/us/politics/des-moines-register-trump-lawsuit.html"
+        },
         {
           "title": "As Xi Visits Washington, Trump Plays Down China’s Actions Against U.S. Interests",
           "link": "https://www.nytimes.com/2026/09/23/us/politics/trump-xi-china-visit.html"
         },
         {
-          "title": "Where Is the U.S. Beating China on A.I., and Where Is It Lagging?",
-          "link": "https://www.nytimes.com/2026/09/23/us/politics/ai-us-china-trump-xi-economy.html"
+          "title": "U.S. and China Agree to Extend Trade Truce by 2 Months, Bessent Says",
+          "link": "https://www.nytimes.com/2026/09/23/us/politics/china-trade-truce-tariffs.html"
         },
         {
           "title": "As Trump Welcomes Xi, More Americans Have a Positive View of China",
           "link": "https://www.nytimes.com/2026/09/23/us/politics/polls-us-china-trump-xi.html"
-        },
-        {
-          "title": "At the U.N., Iran Says It Will Not Give Up Its Nuclear Program",
-          "link": "https://www.nytimes.com/2026/09/23/briefing/at-the-un-iran-says-it-will-not-give-up-its-nuclear-program.html"
-        },
-        {
-          "title": "Trump Invites Putin to Attend Group of 20 Summit in Miami",
-          "link": "https://www.nytimes.com/2026/09/23/us/politics/trump-putin-g20-summit.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T02:00:39.357Z"
+      "updatedAt": "2026-09-24T07:54:00.425Z"
     },
     "ARTNews": {
       "items": [
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T02:00:39.384Z"
+      "updatedAt": "2026-09-24T07:54:00.887Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T02:00:39.527Z"
+      "updatedAt": "2026-09-24T07:54:01.033Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T02:00:40.100Z"
+      "updatedAt": "2026-09-24T07:54:01.253Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T02:00:40.252Z"
+      "updatedAt": "2026-09-24T07:54:01.385Z"
     }
   }
 }
