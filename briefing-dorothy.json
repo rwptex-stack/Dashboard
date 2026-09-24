@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-09-23T23:17:16.378Z",
+  "fetchedAt": "2026-09-24T02:00:40.252Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Local Virginia GOP chair says Arlington County officials prioritize illegal immigrants over public safety",
-          "link": "https://www.foxnews.com/us/local-virginia-gop-chair-says-arlington-county-officials-prioritize-illegal-immigrants-over-public-safety"
+          "title": "Michigan student confronts El-Sayed over Iran stance in tense exchange: ‘Do you stand with us?’",
+          "link": "https://www.foxnews.com/politics/michigan-student-confronts-el-sayed-over-iran-stance-tense-exchange-do-you-stand-us"
         },
         {
-          "title": "Sharp weapon discovered by TSA tucked inside unusual item in passenger's carry-on bag",
-          "link": "https://www.foxnews.com/travel/sharp-weapon-discovered-tsa-tucked-inside-unusual-item-passengers-carry-on-bag"
+          "title": "NYC kitten rescue defends ‘NO F---ING MAGA’ adoption policy as PETA calls for it to be abolished",
+          "link": "https://www.foxnews.com/politics/nyc-kitten-rescue-defends-no-f-ing-maga-adoption-policy-peta-calls-abolished"
         },
         {
-          "title": "Justin Verlander on the Kate Upton 'f—' tweet heard round the world after he lost close Cy Young race",
-          "link": "https://www.foxnews.com/outkick-sports/justin-verlander-kate-upton-tweet-heard-round-world-lost-close-cy-young-race"
+          "title": "English soccer star Harry Kane wants to play in the MLS and kick in the NFL at the same time",
+          "link": "https://www.foxnews.com/outkick-sports/english-soccer-star-harry-kane-wants-play-mls-kick-nfl-same-time"
         },
         {
-          "title": "Newsom denies pressuring California AG into Paramount settlement after liberal backlash",
-          "link": "https://www.foxnews.com/media/newsom-denies-pressuring-california-ag-paramount-settlement-liberal-backlash"
+          "title": "Trump likely ‘smirked’ as 'crass' Iranian president lashed out at US in UN speech: expert",
+          "link": "https://www.foxnews.com/world/trump-smirked-iranian-president-lashed-us-fiery-un-speech-expert"
         },
         {
-          "title": "Mets look to play spoiler as Nolan McLean takes the mound against struggling Texas Rangers",
-          "link": "https://www.foxnews.com/outkick-sports/mets-look-play-spoiler-nolan-mclean-takes-mound-against-struggling-texas-rangers"
+          "title": "Tylenol murders mystery deepens after sheriff’s office solves decades-old ‘Unknown Wanderer’ cold case",
+          "link": "https://www.foxnews.com/us/tylenol-murders-mystery-deepens-sheriff-office-solves-decades-old-unknown-wanderer-cold-case"
         },
         {
-          "title": "Sonny Gray and the Boston Red Sox host Cleveland Guardians in a potential MLB playoffs preview",
-          "link": "https://www.foxnews.com/outkick-sports/sonny-gray-boston-red-sox-host-cleveland-guardians-potential-mlb-playoffs-preview"
+          "title": "Blue Jays' Vladimir Guerrero Jr. says his $500M contract was for past performance – not future results",
+          "link": "https://www.foxnews.com/outkick-sports/blue-jays-vladimir-guerrero-jr-500m-contract-past-performance-not-future-results"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T23:17:13.478Z"
+      "updatedAt": "2026-09-24T02:00:38.203Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,10 +59,22 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T23:17:13.789Z"
+      "updatedAt": "2026-09-24T02:00:38.297Z"
     },
     "The Hill": {
       "items": [
+        {
+          "title": "RNC chair predicts GOP keeps House, 53 Senate seats",
+          "link": "https://thehill.com/homenews/campaign/6107823-gruters-gop-house-senate-majorities-prediction/"
+        },
+        {
+          "title": "5 crucial issues lawmakers want Trump to address with China",
+          "link": "https://thehill.com/homenews/administration/6107744-trump-xi-summit-washington/"
+        },
+        {
+          "title": "Fed's Barr says future interest rate hikes 'likely' needed to tame inflation",
+          "link": "https://thehill.com/business/6107670-fed-governor-barr-rate-hike/"
+        },
         {
           "title": "House has lame-duck impeachment dilemma with Hegseth",
           "link": "https://thehill.com/newsletters/defense-national-security/6107715-house-lame-duck-impeachment-dilemma-hegseth/"
@@ -70,74 +82,62 @@
         {
           "title": "Wright throws cold water on diesel export ban",
           "link": "https://thehill.com/newsletters/energy-environment/6107716-wright-opposes-diesel-export-ban/"
-        },
-        {
-          "title": "Would a diesel export ban actually bring down prices?",
-          "link": "https://thehill.com/policy/energy-environment/6107629-diesel-export-ban-gas-prices-oil-refineries/"
-        },
-        {
-          "title": "10-year Treasury yield spikes to highest point since 2007",
-          "link": "https://thehill.com/business/6107495-us-treasury-yield-19-year-high/"
-        },
-        {
-          "title": "Acting Navy Secretary says eight sailors on USS Abraham Lincoln carrier strike group attempted suicide",
-          "link": "https://thehill.com/policy/defense/6107676-navy-secretary-letter-uss-lincoln/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T23:17:14.317Z"
+      "updatedAt": "2026-09-24T02:00:38.799Z"
     },
     "Ars Technica": {
       "items": [
         {
-          "title": "XPRIZE Wildfire winners spotted fires within 10 min—but couldn’t stop them",
-          "link": "https://arstechnica.com/gadgets/2026/09/xprize-wildfire-winners-spotted-fires-within-10-min-but-couldnt-stop-them/"
+          "title": "RFK Jr.'s CDC isn’t letting states order COVID-19 shots for kids, blocking access",
+          "link": "https://arstechnica.com/health/2026/09/rfk-jr-s-cdc-isnt-letting-states-order-covid-19-shots-for-kids-blocking-access/"
         },
         {
-          "title": "Discord age verification rolls out today with changes spurred by user backlash",
-          "link": "https://arstechnica.com/tech-policy/2026/09/discord-age-verification-rolls-out-today-with-changes-spurred-by-user-backlash/"
+          "title": "FBI rushes to investigate if ShinyHunters hack of thousands of employees is real",
+          "link": "https://arstechnica.com/tech-policy/2026/09/fbi-rushes-to-investigate-if-shinyhunters-hack-of-thousands-of-employees-is-real/"
         },
         {
-          "title": "YouTube promises custom feeds and a lot more AI later this year",
-          "link": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/"
+          "title": "Disney+ and Hulu raise prices by up to 13 percent after doubling profits",
+          "link": "https://arstechnica.com/gadgets/2026/09/disney-and-hulu-raise-prices-by-up-to-13-percent-after-doubling-profits/"
         },
         {
-          "title": "Contrary to some reports, you don't have two brains",
-          "link": "https://arstechnica.com/science/2026/09/contrary-to-some-reports-you-dont-have-two-brains/"
+          "title": "Here's the Torcal, the first fully electric Bentley",
+          "link": "https://arstechnica.com/cars/2026/09/heres-the-torcal-the-first-fully-electric-bentley/"
         },
         {
-          "title": "Netflix releases trailer for Brad Bird's Ray Gunn",
-          "link": "https://arstechnica.com/culture/2026/09/netflix-drops-trailer-for-brad-birds-ray-gunn/"
+          "title": "Trump’s China rivalry and “AI race” delusion may endanger US, experts say",
+          "link": "https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T23:17:14.445Z"
+      "updatedAt": "2026-09-24T02:00:38.926Z"
     },
     "The Verge": {
       "items": [
         {
-          "title": "Meta Connect 2026: The biggest news and announcements",
-          "link": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements"
+          "title": "Meta is making a standalone Muse AI gadget",
+          "link": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware"
         },
         {
-          "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
-          "link": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote"
+          "title": "Meta Connect 2026: The 7 biggest announcements",
+          "link": "https://www.theverge.com/tech/999593/meta-connect-2026-everything-announced"
         },
         {
-          "title": "Microsoft refreshes its smaller Surface Pro and Laptop with Qualcomm’s X2 Plus",
-          "link": "https://www.theverge.com/news/999195/microsoft-surface-pro-12-inch-surface-laptop-13-inch-qualcomm-x2-plus"
+          "title": "Meta’s next VR device isn’t a headset — it’s glasses",
+          "link": "https://www.theverge.com/tech/999517/meta-vr-glasses-connect-2026-hands-on"
         },
         {
-          "title": "Microsoft’s new Surface Mouse has haptic feedback and a customizable action button",
-          "link": "https://www.theverge.com/news/999211/microsoft-surface-mouse-haptic-feedback"
+          "title": "Muse is coming to Meta smart glasses",
+          "link": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features"
         },
         {
-          "title": "Meta’s AI agent is a cute little guy who’s great at spending my money",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping"
+          "title": "Meta ditches the camera on its newest smart glasses",
+          "link": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T23:17:14.517Z"
+      "updatedAt": "2026-09-24T02:00:39.047Z"
     },
     "BBC World": {
       "items": [
@@ -171,7 +171,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T23:17:14.683Z"
+      "updatedAt": "2026-09-24T02:00:39.114Z"
     },
     "BBC News": {
       "items": [
@@ -184,24 +184,24 @@
           "link": "https://www.bbc.co.uk/news/articles/cw8d32vv4l7vo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "UK military jamming other nations' satellites to defend itself, BBC told",
-          "link": "https://www.bbc.co.uk/news/articles/c32l8y8kygdvo?at_medium=RSS&at_campaign=rss"
+          "title": "A red carpet and military flyover - How Trump welcomed Xi",
+          "link": "https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Home secretary says undetected migrant landings 'unacceptable'",
-          "link": "https://www.bbc.co.uk/news/articles/cm5yjzj8l5k5o?at_medium=RSS&at_campaign=rss"
+          "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+          "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Burnham brands ban on football fans drinking alcohol in stands as 'discrimination'",
           "link": "https://www.bbc.co.uk/news/articles/c933ky0nknxko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
-          "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss"
+          "title": "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
+          "link": "https://www.bbc.co.uk/news/articles/cwp80l0my1x2o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T23:17:14.969Z"
+      "updatedAt": "2026-09-24T02:00:39.227Z"
     },
     "NY Times": {
       "items": [
@@ -227,7 +227,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T23:17:15.119Z"
+      "updatedAt": "2026-09-24T02:00:39.357Z"
     },
     "ARTNews": {
       "items": [
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T23:17:15.345Z"
+      "updatedAt": "2026-09-24T02:00:39.384Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T23:17:15.436Z"
+      "updatedAt": "2026-09-24T02:00:39.527Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T23:17:16.280Z"
+      "updatedAt": "2026-09-24T02:00:40.100Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T23:17:16.378Z"
+      "updatedAt": "2026-09-24T02:00:40.252Z"
     }
   }
 }
