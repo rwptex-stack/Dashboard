@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-09-24T20:53:14.173Z",
+  "fetchedAt": "2026-09-24T23:37:55.818Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "NHL sets its most confusing team history straight, and it's still pretty confusing",
-          "link": "https://www.foxnews.com/outkick-sports/nhl-sets-most-confusing-team-history-straight-still-pretty-confusing"
+          "title": "Corie Walsh’s husband faces alleged killer mom accused of plotting to poison him as attorney lays blame",
+          "link": "https://www.foxnews.com/us/corie-walsh-husband-faces-alleged-killer-mom-accused-plotting-poison-attorney-lays-blame"
         },
         {
-          "title": "California superintendent candidate ejected from sports league meeting for boisterous Title IX defense",
-          "link": "https://www.foxnews.com/outkick-sports/california-superintendent-candidate-ejected-sports-league-meeting-boisterous-title-ix-defense"
+          "title": "AOC's 'Tax the Rich' designer accused of leaving small business with massive charity gala bill",
+          "link": "https://www.foxnews.com/media/aoc-tax-rich-designer-accused-leaving-small-business-massive-charity-gala-bill"
         },
         {
-          "title": "WATCH: Mass walkout before Netanyahu speech prompts fiery response from Israeli prime minister",
-          "link": "https://www.foxnews.com/politics/watch-mass-walkout-before-netanyahu-speech-prompts-fiery-response-israeli-prime-minister"
+          "title": "Country music star Ella Langley faces her fears following record-breaking week",
+          "link": "https://www.foxnews.com/entertainment/country-music-star-ella-langley-faces-her-fears-following-record-breaking-week"
         },
         {
-          "title": "Rogan warns of youth support for communism as comic Yakov Smirnoff recalls escape from USSR",
-          "link": "https://www.foxnews.com/media/rogan-warns-youth-support-communism-comic-yakov-smirnoff-recalls-escape-ussr"
+          "title": "Roseanne Barr calls former co-star a 'brainwashed bigot' after he said reboot was 'rightfully canceled'",
+          "link": "https://www.foxnews.com/entertainment/roseanne-barr-calls-former-co-star-brainwashed-bigot-reboot-rightfully-canceled"
         },
         {
-          "title": "Iowa teacher, 10-year-old student die during fifth grade school field trip at Lake Macbride State Park",
-          "link": "https://www.foxnews.com/us/iowa-teacher-10-year-old-student-die-fifth-grade-school-field-trip-lake-macbride-state-park"
+          "title": "Reporter's Notebook: Call for a free Iran echoes at the United Nations",
+          "link": "https://www.foxnews.com/world/reporters-notebook-call-free-iran-echoes-united-nations"
         },
         {
-          "title": "Breaking up Troy Aikman and Joe Buck would be a big mistake for ESPN | Bobby Burack",
-          "link": "https://www.foxnews.com/outkick-sports/breaking-up-troy-aikman-joe-buck-big-mistake-espn-bobby-burack"
+          "title": "Florida Gators, Ole Miss Rebels find themselves in good old fashioned 'respect off' ahead of Saturday's game",
+          "link": "https://www.foxnews.com/outkick-sports/florida-gators-ole-miss-rebels-respect-off-saturday-game"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T20:53:11.452Z"
+      "updatedAt": "2026-09-24T23:37:53.204Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,36 +59,44 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T20:53:11.719Z"
+      "updatedAt": "2026-09-24T23:37:53.454Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Whitmer: Michigan to review ICE vehicle pursuit that resulted in fatal crash",
-          "link": "https://thehill.com/homenews/state-watch/6110094-whitmer-orders-ice-pursuit-investigation/"
+          "title": "GOP lawmakers concerned after F-35 equipment ended up in China",
+          "link": "https://thehill.com/newsletters/defense-national-security/6110708-gop-lawmakers-concerned-after-f-35-equipment-ended-up-in-china/"
         },
         {
-          "title": "Man shot, injured in Butler Trump assassination attempt dies",
-          "link": "https://thehill.com/homenews/state-watch/6110269-trump-rally-shooting-victim-dies/"
+          "title": "Error causes backlog of thousands of Texas voter registration applications",
+          "link": "https://thehill.com/homenews/campaign/6110597-texas-voter-registration-application-backlog/"
         },
         {
-          "title": "Pro-Trump TV ad funded by government draws fire from both sides",
-          "link": "https://thehill.com/homenews/administration/6110237-trump-government-ad-criticism/"
+          "title": "Whitehouse vs. White House on permitting timeline",
+          "link": "https://thehill.com/newsletters/energy-environment/6110633-whitehouse-vs-white-house-on-permitting-timeline/"
         },
         {
-          "title": "Marshall GOP primary challenger backs Democrat in Kansas Senate race",
-          "link": "https://thehill.com/homenews/campaign/6110022-former-primary-challenger-backs-marshall-opponent/"
+          "title": "Jennings on $5K dividend: 'I don‘t know that that is the right idea'",
+          "link": "https://thehill.com/homenews/media/6110573-scott-jennings-trump-dividend-ambivalence/"
         },
         {
-          "title": "California Supreme Court rules sheriff who ran for governor must return seized ballots",
-          "link": "https://thehill.com/homenews/state-watch/6110184-california-supreme-court-ballots-ruling/"
+          "title": "White House TV pool in limbo amid high stakes Xi visit",
+          "link": "https://thehill.com/homenews/administration/6110575-white-house-press-pool-limbo/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T20:53:11.958Z"
+      "updatedAt": "2026-09-24T23:37:54.152Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "CDC opens state ordering for COVID-19 vaccines after unexplained delay",
+          "link": "https://arstechnica.com/health/2026/09/cdc-opens-state-ordering-for-covid-19-vaccines-after-unexplained-delay/"
+        },
+        {
+          "title": "Donald Duck's uncle was partly based on Wernher von Braun",
+          "link": "https://arstechnica.com/space/2026/09/disneys-ludwig-von-drake-was-inspired-by-rocket-scientists-65-years-ago/"
+        },
         {
           "title": "F-Droid gets its biggest update in a decade with new UI and smoother app installs",
           "link": "https://arstechnica.com/gadgets/2026/09/f-droid-gets-its-biggest-update-in-a-decade-with-new-ui-and-smoother-app-installs/"
@@ -100,21 +108,17 @@
         {
           "title": "We have a trailer for Musk documentary Elon called a \"hit piece\"",
           "link": "https://arstechnica.com/culture/2026/09/we-have-a-trailer-for-musk-documentary-elon-called-a-hit-piece/"
-        },
-        {
-          "title": "Robots make combat airdrops, clear mines as Ukraine defeats Russian pincer",
-          "link": "https://arstechnica.com/gadgets/2026/09/robots-make-combat-airdrops-clear-mines-as-ukraine-defeats-russian-pincer/"
-        },
-        {
-          "title": "New Jersey fines data center $1.1M after drone pics expose 62 gas generators",
-          "link": "https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T20:53:12.065Z"
+      "updatedAt": "2026-09-24T23:37:54.299Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "Microsoft puts Brad Smith in charge of communications",
+          "link": "https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela"
+        },
         {
           "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
           "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face"
@@ -130,20 +134,24 @@
         {
           "title": "Meta is going to let you build games with AI right on your phone",
           "link": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games"
-        },
-        {
-          "title": "Muse will apparently let you download its entire filesystem",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T20:53:12.192Z"
+      "updatedAt": "2026-09-24T23:37:54.365Z"
     },
     "BBC World": {
       "items": [
         {
+          "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+          "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "White House restores access to media outlets banned by Trump after judge's order",
           "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Hundreds of thousands expected in Paris for Pope's visit",
+          "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
@@ -160,18 +168,10 @@
         {
           "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
           "link": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
-          "link": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
-          "link": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T20:53:12.432Z"
+      "updatedAt": "2026-09-24T23:37:54.566Z"
     },
     "BBC News": {
       "items": [
@@ -188,8 +188,8 @@
           "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Watch: UN delegates walk out of Netanyahu speech",
-          "link": "https://www.bbc.co.uk/news/videos/cqwyzmpm3pgdo?at_medium=RSS&at_campaign=rss"
+          "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+          "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
@@ -201,21 +201,13 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T20:53:12.457Z"
+      "updatedAt": "2026-09-24T23:37:54.638Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "Netanyahu Attacks Mamdani in Heated U.N. Speech",
-          "link": "https://www.nytimes.com/2026/09/24/nyregion/netanyahu-mamdani-un-speech.html"
-        },
-        {
-          "title": "Abbas Presses Case for Palestinian State in Taped General Assembly Address",
-          "link": "https://www.nytimes.com/2026/09/24/world/middleeast/abbas-general-assembly-palestinians.html"
-        },
-        {
-          "title": "Trump Struggles to Find Leverage With Xi Over Chinese Exports",
-          "link": "https://www.nytimes.com/2026/09/24/business/trump-xi-china-exports.html"
+          "title": "White House Restores Access for CNN, MS NOW and Politico",
+          "link": "https://www.nytimes.com/2026/09/24/business/media/trump-white-house-cnn-politico-msnow-ban.html"
         },
         {
           "title": "Conservative Outlets Offer Trump Feed While White House TV Pool Is Suspended",
@@ -224,13 +216,25 @@
         {
           "title": "Who Is the Trump-Appointed Judge Who Blocked the White House Media Ban?",
           "link": "https://www.nytimes.com/2026/09/24/us/politics/who-is-tim-kelly-media-judge.html"
+        },
+        {
+          "title": "As Trump Hosts State Dinner Honoring Xi, See the Menu",
+          "link": "https://www.nytimes.com/2026/09/24/us/politics/trump-xi-state-dinner-menu.html"
+        },
+        {
+          "title": "Trump Struggles to Find Leverage With Xi Over Chinese Exports",
+          "link": "https://www.nytimes.com/2026/09/24/business/trump-xi-china-exports.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T20:53:12.632Z"
+      "updatedAt": "2026-09-24T23:37:54.774Z"
     },
     "ARTNews": {
       "items": [
+        {
+          "title": "When It Comes to Armory Show Sales, Can Slow and Steady Win the Race?",
+          "link": "https://www.artnews.com/art-news/market/armory-show-2026-sales-new-york-1234799366/"
+        },
         {
           "title": "New York Investigators Return 36 Artifacts to Syria, Including Relief Looted from Palmyra",
           "link": "https://www.artnews.com/art-news/news/new-york-investigators-return-artifacts-syria-relief-looted-palmyra-1234799359/"
@@ -250,17 +254,25 @@
         {
           "title": "Greek PM Rejects British Museum Comparison of Parthenon Marbles and Bayeux Tapestry",
           "link": "https://www.artnews.com/art-news/news/greek-pm-rejects-british-museum-comparison-of-parthenon-marbles-and-bayeux-tapestry-1234799293/"
-        },
-        {
-          "title": "At Spring/Break’s First Edition in the Old CBS Newsroom, (Almost) Everything Is Political",
-          "link": "https://www.artnews.com/art-news/news/spring-break-art-fair-cbs-newsroom-installation-1234799211/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T20:53:12.830Z"
+      "updatedAt": "2026-09-24T23:37:54.955Z"
     },
     "Hyperallergic": {
       "items": [
+        {
+          "title": "The Armory Show in One Sentence",
+          "link": "https://hyperallergic.com/the-armory-show-in-one-sentence/"
+        },
+        {
+          "title": "Independent 20th Century, the Mise en Abyme of Art Fairs",
+          "link": "https://hyperallergic.com/independent-20th-century-the-mise-en-abyme-of-art-fairs/"
+        },
+        {
+          "title": "The Polish Pavilion Dissolves You in the Politics of Sound",
+          "link": "https://hyperallergic.com/the-polish-pavilion-dissolves-you-in-the-politics-of-sound/"
+        },
         {
           "title": "El Museo del Barrio Apologizes for Renting Space for 9/11 Conspiracy Event",
           "link": "https://hyperallergic.com/el-museo-del-barrio-apologizes-for-renting-space-for-9-11-conspiracy-event/"
@@ -272,22 +284,10 @@
         {
           "title": "Photographer Tyler Mitchell Wins Crystal Bridges's $250K Prize",
           "link": "https://hyperallergic.com/photographer-tyler-mitchell-wins-crystal-bridgess-250k-prize/"
-        },
-        {
-          "title": "Shimmer: Dreaming the Posthuman",
-          "link": "https://hyperallergic.com/shimmer-dreaming-the-posthuman/"
-        },
-        {
-          "title": "What Happens After Repatriation?",
-          "link": "https://hyperallergic.com/tide/"
-        },
-        {
-          "title": "What Can Photographs Say in a World Full of Images?",
-          "link": "https://hyperallergic.com/what-can-photographs-say-in-a-world-full-of-images/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T20:53:12.981Z"
+      "updatedAt": "2026-09-24T23:37:55.109Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,10 +317,14 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T20:53:14.100Z"
+      "updatedAt": "2026-09-24T23:37:55.655Z"
     },
     "Booooooom": {
       "items": [
+        {
+          "title": "A Letter From the Editor: Exciting News!",
+          "link": "https://www.booooooom.com/2026/09/24/a-letter-from-the-editor-exciting-news/"
+        },
         {
           "title": "Artist Spotlight: Tommy Carroll",
           "link": "https://www.booooooom.com/2026/09/23/artist-spotlight-tommy-carroll/"
@@ -340,14 +344,10 @@
         {
           "title": "Artist Spotlight: Benjamin Styer",
           "link": "https://www.booooooom.com/2026/09/16/artist-spotlight-benjamin-styer/"
-        },
-        {
-          "title": "“Excavation Record I – Sayonara” by Artist Kosuke Ajiro",
-          "link": "https://www.booooooom.com/2026/09/15/excavation-record-i-sayonara-by-artist-kosuke-ajiro/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T20:53:14.173Z"
+      "updatedAt": "2026-09-24T23:37:55.818Z"
     }
   }
 }
