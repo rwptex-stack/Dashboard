@@ -1,65 +1,65 @@
 {
-  "fetchedAt": "2026-09-24T04:19:52.113Z",
+  "fetchedAt": "2026-09-24T09:50:00.398Z",
   "feeds": {
     "MarketWatch": {
       "items": [
         {
+          "title": "‘We made a bad, bad decision’: I learned the hard way how to manage my aging father’s money",
+          "link": "https://www.marketwatch.com/story/we-made-a-bad-bad-decision-i-learned-the-hard-way-how-to-manage-my-aging-fathers-money-c87cabed?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Meta gets price-target boost as JPMorgan says Muse agent has potential to become the top AI application since ChatGPT",
+          "link": "https://www.marketwatch.com/story/meta-gets-price-target-boost-as-jpmorgan-says-muse-agent-has-potential-to-become-the-top-ai-application-since-chatgpt-280ca648?mod=mw_rss_topstories"
+        },
+        {
+          "title": "8 grassroots porchfests for experiencing free live music and neighborhood culture",
+          "link": "https://www.marketwatch.com/story/8-grassroots-porchfests-for-experiencing-free-live-music-and-neighborhood-culture-34a2dc81?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Selena Gomez sells her Encino mansion, once owned by Tom Petty, for $5.4 million",
+          "link": "https://www.marketwatch.com/story/selena-gomez-sells-her-encino-mansion-once-owned-by-tom-petty-for-5-4-million-47a87d65?mod=mw_rss_topstories"
+        },
+        {
+          "title": "The market is pricing in too many Fed hikes, says the former Dallas Fed chief",
+          "link": "https://www.marketwatch.com/story/the-market-is-pricing-in-too-many-fed-hikes-says-the-former-dallas-fed-chief-5de8cc3c?mod=mw_rss_topstories"
+        },
+        {
           "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
           "link": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
-          "link": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories"
-        },
-        {
-          "title": "‘I don’t begrudge them their money’: My husband and I have friends who spend, spend, spend. How do we keep up?",
-          "link": "https://www.marketwatch.com/story/i-dont-begrudge-them-their-money-my-husband-and-i-have-friends-who-spend-spend-spend-how-do-we-keep-up-e10164dc?mod=mw_rss_topstories"
-        },
-        {
-          "title": "This test screens for 50 cancers — but whether Medicare and other health insurers will cover it hinges on FDA approval",
-          "link": "https://www.marketwatch.com/story/fda-advisers-are-reviewing-a-multicancer-detection-test-medicare-coverage-could-follow-77cb8817?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Micron’s stock has become a ‘battleground’ as the AI narrative shifts",
-          "link": "https://www.marketwatch.com/story/microns-stock-has-become-a-battleground-as-the-ai-narrative-shifts-d61a3408?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Is gridlock in Washington actually good for stocks? Here’s what historical market data says.",
-          "link": "https://www.marketwatch.com/story/is-gridlock-in-washington-actually-good-for-stocks-heres-what-historical-market-data-says-ea20746d?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T04:19:50.534Z"
+      "updatedAt": "2026-09-24T09:49:58.038Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Aaron Judge says he intends to be ready for Yankees' Wild Card series despite calf injury",
-          "link": "https://www.foxnews.com/outkick-sports/aaron-judge-intends-ready-yankees-wild-card-series-despite-calf-injury"
+          "title": "Florida couple recounts 'miraculous' rescue after surviving harrowing lightning strike during evening stroll",
+          "link": "https://www.foxnews.com/us/florida-couple-recounts-miraculous-rescue-surviving-harrowing-lightning-strike-evening-stroll"
         },
         {
-          "title": "Illegal alien allegedly grabs school police officer's gun, shoots him in femoral artery: DOJ",
-          "link": "https://www.foxnews.com/politics/illegal-alien-allegedly-grabs-school-police-officer-gun-shoots-femoral-artery-doj"
+          "title": "KAROL MARKOWICZ: 1619 Project founder Nikole Hannah-Jones learned the hard truth about schools",
+          "link": "https://www.foxnews.com/opinion/karol-markowicz-1619-project-founder-nikole-hannah-jones-learned-hard-truth-schools"
         },
         {
-          "title": "Michigan student confronts El-Sayed over Iran stance in tense exchange: ‘Do you stand with us?’",
-          "link": "https://www.foxnews.com/politics/michigan-student-confronts-el-sayed-over-iran-stance-tense-exchange-do-you-stand-us"
+          "title": "MORNING GLORY: El-Sayed might have a problem with the Black vote in Michigan",
+          "link": "https://www.foxnews.com/opinion/morning-glory-el-sayed-problem-black-vote-michigan"
         },
         {
-          "title": "NYC kitten rescue defends ‘NO F---ING MAGA’ adoption policy as PETA calls for it to be abolished",
-          "link": "https://www.foxnews.com/politics/nyc-kitten-rescue-defends-no-f-ing-maga-adoption-policy-peta-calls-abolished"
+          "title": "MN Dem Sen candidate in hot seat over upcoming event hosted by man enveloped in fraud scandal: 'Red flags'",
+          "link": "https://www.foxnews.com/politics/mn-dem-sen-candidate-hot-seat-upcoming-event-hosted-man-enveloped-fraud-scandal-red-flags"
         },
         {
-          "title": "English soccer star Harry Kane wants to play in the MLS and kick in the NFL at the same time",
-          "link": "https://www.foxnews.com/outkick-sports/english-soccer-star-harry-kane-wants-play-mls-kick-nfl-same-time"
+          "title": "Lawsuits cost every American household thousands of dollars. Supreme Court can help",
+          "link": "https://www.foxnews.com/opinion/lawsuits-cost-every-american-household-thousands-dollars-supreme-court-can-help"
         },
         {
-          "title": "Trump likely ‘smirked’ as 'crass' Iranian president lashed out at US in UN speech: expert",
-          "link": "https://www.foxnews.com/world/trump-smirked-iranian-president-lashed-us-fiery-un-speech-expert"
+          "title": "Republicans face brutal midterm headwinds. Six forces could help them defy history.",
+          "link": "https://www.foxnews.com/politics/republicans-face-brutal-midterm-headwinds-six-forces-could-help-them-defy-history"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T04:19:50.695Z"
+      "updatedAt": "2026-09-24T09:49:58.415Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -89,10 +89,14 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T04:19:51.035Z"
+      "updatedAt": "2026-09-24T09:49:58.718Z"
     },
     "The Hill": {
       "items": [
+        {
+          "title": "Judge orders White House to immediately restore access to CNN, MS NOW, Politico",
+          "link": "https://thehill.com/regulation/court-battles/6108012-judge-orders-white-house-to-immediately-restore-access-to-cnn-ms-now-politico/"
+        },
         {
           "title": "Judge tosses Trump’s suit against Iowa pollster",
           "link": "https://thehill.com/regulation/court-battles/6107914-trump-selzer-polling-lawsuit-dismissed/"
@@ -108,14 +112,10 @@
         {
           "title": "Fed's Barr says future interest rate hikes 'likely' needed to tame inflation",
           "link": "https://thehill.com/business/6107670-fed-governor-barr-rate-hike/"
-        },
-        {
-          "title": "House has lame-duck impeachment dilemma with Hegseth",
-          "link": "https://thehill.com/newsletters/defense-national-security/6107715-house-lame-duck-impeachment-dilemma-hegseth/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T04:19:51.391Z"
+      "updatedAt": "2026-09-24T09:49:59.211Z"
     },
     "Ars Technica": {
       "items": [
@@ -141,10 +141,14 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T04:19:51.576Z"
+      "updatedAt": "2026-09-24T09:49:59.399Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
+          "link": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu"
+        },
         {
           "title": "Meta is making a standalone Muse AI gadget",
           "link": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware"
@@ -160,23 +164,23 @@
         {
           "title": "Muse is coming to Meta smart glasses",
           "link": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features"
-        },
-        {
-          "title": "Meta ditches the camera on its newest smart glasses",
-          "link": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T04:19:51.674Z"
+      "updatedAt": "2026-09-24T09:49:59.509Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+          "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
           "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
+          "title": "Trump offers warm welcome as China's Xi arrives for US visit",
+          "link": "https://www.bbc.co.uk/news/articles/cqgmrk7187lzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Trump and Xi come face-to-face as US and China jostle for dominance over AI",
           "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss"
         },
         {
@@ -194,47 +198,51 @@
         {
           "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
           "link": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "UK survivor of Canadian poison seller says he exploited her despair",
-          "link": "https://www.bbc.co.uk/news/articles/cmvgy4237gq9o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T04:19:51.819Z"
+      "updatedAt": "2026-09-24T09:49:59.972Z"
     },
     "BBC News": {
       "items": [
+        {
+          "title": "NHS trust to review 4,500 breast cancer cases after unnecessary surgeries found",
+          "link": "https://www.bbc.co.uk/news/articles/ckddvje77m2zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Anti-migrant activist arrested over video of dinghy slashing",
+          "link": "https://www.bbc.co.uk/news/articles/c6eq8e98wnr7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Watch: Trump greets China's Xi beside plane in rare presidential welcome for foreign leader",
+          "link": "https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "Blood tests find high level of cancer-causing forever chemical in residents near factory",
           "link": "https://www.bbc.co.uk/news/articles/cjly4rv0q3l0o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "What video footage tells us about RAF training jet crash",
+          "title": "What we know after video shows moment of RAF training jet crash",
           "link": "https://www.bbc.co.uk/news/articles/cw8d32vv4l7vo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Trump offers warm welcome as China's Xi arrives for US visit",
-          "link": "https://www.bbc.co.uk/news/articles/cqgmrk7187lzo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "A red carpet and military flyover - How Trump welcomed Xi",
-          "link": "https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Burnham brands ban on football fans drinking alcohol in stands as 'discrimination'",
-          "link": "https://www.bbc.co.uk/news/articles/c933ky0nknxko?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Teenagers to be offered new vocational GCSE subjects in school",
-          "link": "https://www.bbc.co.uk/news/articles/c6rerl41evw5o?at_medium=RSS&at_campaign=rss"
+          "title": "Tories would stop long-term jobless using benefits to buy alcohol and cigarettes",
+          "link": "https://www.bbc.co.uk/news/articles/c920vy2jxle8o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T04:19:51.856Z"
+      "updatedAt": "2026-09-24T09:50:00.004Z"
     },
     "NY Times": {
       "items": [
+        {
+          "title": "Court Blocks Trump’s White House Ban on CNN, MS NOW and Politico",
+          "link": "https://www.nytimes.com/2026/09/23/business/media/cnn-ms-now-politico-white-house-trump-ban-ruling.html"
+        },
+        {
+          "title": "Iowa Judge Dismisses Trump’s Lawsuit Against The Des Moines Register",
+          "link": "https://www.nytimes.com/2026/09/23/us/politics/des-moines-register-trump-lawsuit.html"
+        },
         {
           "title": "As Xi Visits Washington, Trump Plays Down China’s Actions Against U.S. Interests",
           "link": "https://www.nytimes.com/2026/09/23/us/politics/trump-xi-china-visit.html"
@@ -246,18 +254,10 @@
         {
           "title": "As Trump Welcomes Xi, More Americans Have a Positive View of China",
           "link": "https://www.nytimes.com/2026/09/23/us/politics/polls-us-china-trump-xi.html"
-        },
-        {
-          "title": "At the U.N., Iran Says It Will Not Give Up Its Nuclear Program",
-          "link": "https://www.nytimes.com/2026/09/23/briefing/at-the-un-iran-says-it-will-not-give-up-its-nuclear-program.html"
-        },
-        {
-          "title": "From a Nepal in Pain, a Young Leader Makes a Case for Climate Reparations",
-          "link": "https://www.nytimes.com/2026/09/24/world/asia/un-general-assembly-nepal-balen-shah.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T04:19:52.026Z"
+      "updatedAt": "2026-09-24T09:50:00.183Z"
     }
   },
   "indices": {
@@ -279,13 +279,13 @@
       },
       {
         "name": "Gold",
-        "price": 4318.5,
-        "pct": -1.4918223499623542
+        "price": 4292,
+        "pct": -2.0963069413079594
       },
       {
         "name": "Bitcoin",
-        "price": 83805.49,
-        "pct": 3.281728305264034
+        "price": 83120.08,
+        "pct": 2.4370303099690793
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-09-24T04:19:52.113Z"
+    "updatedAt": "2026-09-24T09:50:00.398Z"
   }
 }
