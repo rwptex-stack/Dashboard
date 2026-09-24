@@ -1,65 +1,65 @@
 {
-  "fetchedAt": "2026-09-24T18:57:56.440Z",
+  "fetchedAt": "2026-09-24T22:14:30.590Z",
   "feeds": {
     "MarketWatch": {
       "items": [
-        {
-          "title": "I spend my time and money caring for my aging mother — yet she gave my brother $100,000. Should I pull back?",
-          "link": "https://www.marketwatch.com/story/i-spend-my-time-and-money-caring-for-my-aging-mother-yet-she-gave-my-brother-100-000-should-i-pull-back-7e4a3185?mod=mw_rss_topstories"
-        },
         {
           "title": "8% mortgage rates are ‘not an impossibility’ as the 30-year fixed rate surges",
           "link": "https://www.marketwatch.com/story/8-mortgage-rates-are-not-an-impossibility-as-the-30-year-fixed-rate-surges-aa202464?mod=mw_rss_topstories"
         },
         {
-          "title": "It’s no secret that Social Security and Medicare are on the ropes. Here’s what to do instead of panicking.",
-          "link": "https://www.marketwatch.com/story/everyone-knows-social-security-and-medicare-are-on-the-ropes-heres-what-to-do-instead-of-panicking-717ff133?mod=mw_rss_topstories"
+          "title": "Why investors aren’t buying yet another attempt by the Treasury to calm the rattled bond market",
+          "link": "https://www.marketwatch.com/story/why-investors-arent-buying-yet-another-attempt-by-the-treasury-to-calm-the-rattled-bond-market-b168cac3?mod=mw_rss_topstories"
         },
         {
-          "title": "Social Security stopped our checks due to a hacked bank account. We’re relying on our church for help. What can we do?",
-          "link": "https://www.marketwatch.com/story/social-security-stopped-our-checks-due-to-a-hacked-bank-account-were-relying-on-our-church-for-help-what-can-we-do-a9464325?mod=mw_rss_topstories"
+          "title": "Costco earnings beat expectations, thanks to tariff refunds",
+          "link": "https://www.marketwatch.com/story/costco-earnings-beat-expectations-thanks-to-tariff-refunds-e7270cfa?mod=mw_rss_topstories"
         },
         {
-          "title": "Here are 3 alternatives for investors looking to dodge the bond-market beatdown",
-          "link": "https://www.marketwatch.com/story/here-are-3-alternatives-for-investors-looking-to-dodge-the-bond-market-beatdown-ec8fda43?mod=mw_rss_topstories"
+          "title": "Here’s how to position your portfolio for the next AI wave, according to Morgan Stanley",
+          "link": "https://www.marketwatch.com/story/heres-how-to-position-your-portfolio-for-the-next-ai-wave-according-to-morgan-stanley-ac8f8a4a?mod=mw_rss_topstories"
         },
         {
-          "title": "A new bill in Congress would lower the retirement age to 60. See who would qualify.",
-          "link": "https://www.marketwatch.com/story/a-new-bill-in-congress-would-lower-the-retirement-age-to-60-see-who-would-qualify-10563052?mod=mw_rss_topstories"
+          "title": "Stop trying to beat the market: Even the richest Americans can’t do it consistently",
+          "link": "https://www.marketwatch.com/story/stop-trying-to-beat-the-market-even-the-richest-americans-cant-do-it-consistently-4560e275?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Oracle’s stock is falling as investors fear a data-center setback",
+          "link": "https://www.marketwatch.com/story/oracles-stock-is-falling-as-investors-fear-a-data-center-setback-d8105ef9?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T18:57:55.270Z"
+      "updatedAt": "2026-09-24T22:14:28.089Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Dems shamed as DHS brings ICE shooting reciepts after politician called ICE officers ‘liars with masks’",
-          "link": "https://www.foxnews.com/politics/dems-shamed-dhs-brings-ice-shooting-receipts-politician-called-ice-officers-liars-masks"
+          "title": "Pennsylvania Sports Betting — Best Sportsbooks and Apps | Outkick",
+          "link": "https://www.foxnews.com/outkick-betting/pennsylvania-sports-betting"
         },
         {
-          "title": "4 GOP senators rebel against Trump on Iran war, vote with Dems to rein in authority",
-          "link": "https://www.foxnews.com/politics/4-gop-senators-rebel-against-trump-iran-war-vote-dems-rein-authority"
+          "title": "Best DFS Apps and Promos 2026: Top Daily Fantasy Sites Reviewed",
+          "link": "https://www.foxnews.com/outkick-betting/best-dfs-apps-promos-2026-top-daily-fantasy-sites-reviewed"
         },
         {
-          "title": "The deals we’re shopping before October Prime Day",
-          "link": "https://www.foxnews.com/deals/deals-were-shopping-before-october-prime-day"
+          "title": "Ms Rachel doubles down on Gaza advocacy, targets ‘uncancellable’ celebrities for staying silent",
+          "link": "https://www.foxnews.com/media/ms-rachel-doubles-down-gaza-advocacy-targets-uncancellable-celebrities-staying-silent"
         },
         {
-          "title": "James Copenhaver, man shot at Trump Butler rally, dies of complications from injuries: report",
-          "link": "https://www.foxnews.com/politics/james-copenhaver-man-shot-trump-butler-rally-dies-complications-from-injuries-report"
+          "title": "Dolly Parton’s sisters push back on feud rumors after nephew’s legal battle with star's estate erupts",
+          "link": "https://www.foxnews.com/entertainment/dolly-parton-sisters-push-back-feud-rumors-nephew-legal-battle-star-estate-erupts"
         },
         {
-          "title": "Alaska has a voting system like no other state; Republicans worry it could cost them in November",
-          "link": "https://www.foxnews.com/politics/alaska-has-voting-system-like-no-other-state-republicans-worry-could-cost-them-november"
+          "title": "What's on the menu for Trump's state dinner with China's Xi? One American staple is notably missing",
+          "link": "https://www.foxnews.com/politics/whats-menu-trumps-state-dinner-chinas-xi-american-staple-notably-missing"
         },
         {
-          "title": "NFL fines player nicknamed 'Juice' $14,926 for using a drinking celebration, calling it offensive",
-          "link": "https://www.foxnews.com/outkick-sports/nfl-fines-player-nicknamed-juice-14926-drinking-celebration-offensive"
+          "title": "Dale Earnhardt once broke his hand punching a man who killed a deer on his North Carolina farm",
+          "link": "https://www.foxnews.com/outkick-sports/dale-earnhardt-broke-hand-punching-man-killed-deer-north-carolina-farm"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T18:57:55.428Z"
+      "updatedAt": "2026-09-24T22:14:28.256Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -89,62 +89,70 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T18:57:55.526Z"
+      "updatedAt": "2026-09-24T22:14:28.483Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Avila Chevalier arrested at anti-Netanyahu protest in New York",
-          "link": "https://thehill.com/homenews/state-watch/6109871-avila-chevalier-arrested-netanyahu/"
+          "title": "Trump complains CNN, MS NOW didn't cover 'made for Television' Xi visit",
+          "link": "https://thehill.com/homenews/media/6110466-trump-blasts-cnn-msnow-xi-visit/"
         },
         {
-          "title": "Harmeet Dhillon exposes UC school for discriminating against whites, Asians",
-          "link": "https://thehill.com/opinion/robbys-radar/6109902-ucsf-medical-school-racial-bias/"
+          "title": "Xi addresses AI as summit with Trump kicks off",
+          "link": "https://thehill.com/newsletters/technology/6110517-xi-addresses-ai-as-summit-with-trump-kicks-off/"
         },
         {
-          "title": "75 percent fearful, concerned about AI: Poll",
-          "link": "https://thehill.com/policy/technology/6109777-cnn-americans-worried-ai-progress/"
+          "title": "Trump administration asks Supreme Court to allow third-country deportations to resume",
+          "link": "https://thehill.com/regulation/court-battles/6110459-trump-deportation-third-country-supreme-court/"
         },
         {
-          "title": "Phone weather forecast often wrong? Here's why",
-          "link": "https://thehill.com/policy/technology/6109227-phone-weather-forecast-often-wrong-heres-why/"
+          "title": "Trump FDA pick dodges vaccine, abortion questions at Senate confirmation hearing",
+          "link": "https://thehill.com/policy/healthcare/6110423-overton-fda-senate-confirmation-hearing/"
         },
         {
-          "title": "Diplomats ordered to use 'super intelligence' instead of 'artificial intelligence' in Trump push",
-          "link": "https://thehill.com/homenews/administration/6109549-diplomats-ai-super-intelligence/"
+          "title": "Netanyahu slams critics, Mamdani in defiant speech as UN delegates walk out",
+          "link": "https://thehill.com/policy/international/6110373-israel-netanyahu-speech-united-nations-defiant/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T18:57:55.813Z"
+      "updatedAt": "2026-09-24T22:14:29.096Z"
     },
     "Ars Technica": {
       "items": [
         {
-          "title": "NASA chief concerned China may deny access to parts of South Pole",
-          "link": "https://arstechnica.com/space/2026/09/nasa-chief-concerned-china-may-deny-access-to-parts-of-south-pole/"
+          "title": "F-Droid gets its biggest update in a decade with new UI and smoother app installs",
+          "link": "https://arstechnica.com/gadgets/2026/09/f-droid-gets-its-biggest-update-in-a-decade-with-new-ui-and-smoother-app-installs/"
         },
         {
-          "title": "Meta puts its AI assistant on a keychain",
-          "link": "https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/"
+          "title": "New York defies Trump admin, asks court to shut down Polymarket gambling",
+          "link": "https://arstechnica.com/tech-policy/2026/09/new-york-asks-court-to-shut-down-polymarkets-illegal-gambling-operation/"
         },
         {
-          "title": "There's a new way to break RSA that's faster than anything we've seen before",
-          "link": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/"
+          "title": "We have a trailer for Musk documentary Elon called a \"hit piece\"",
+          "link": "https://arstechnica.com/culture/2026/09/we-have-a-trailer-for-musk-documentary-elon-called-a-hit-piece/"
         },
         {
-          "title": "Review: Apple's hyper-pricey M5 Ultra Mac Studio made me into a vibe coder",
-          "link": "https://arstechnica.com/gadgets/2026/09/review-apples-hyper-pricey-m5-ultra-mac-studio-made-me-into-a-vibe-coder/"
+          "title": "Robots make combat airdrops, clear mines as Ukraine defeats Russian pincer",
+          "link": "https://arstechnica.com/gadgets/2026/09/robots-make-combat-airdrops-clear-mines-as-ukraine-defeats-russian-pincer/"
         },
         {
-          "title": "RFK Jr.'s CDC isn’t letting states order COVID-19 shots for kids, blocking access",
-          "link": "https://arstechnica.com/health/2026/09/rfk-jr-s-cdc-isnt-letting-states-order-covid-19-shots-for-kids-blocking-access/"
+          "title": "New Jersey fines data center $1.1M after drone pics expose 62 gas generators",
+          "link": "https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T18:57:55.981Z"
+      "updatedAt": "2026-09-24T22:14:29.633Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "Microsoft puts Brad Smith in charge of communications",
+          "link": "https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela"
+        },
+        {
+          "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
+          "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face"
+        },
         {
           "title": "Sadly, this $1,549 RTX 5070-equipped gaming PC is a very good deal",
           "link": "https://www.theverge.com/gadgets/1000122/cyberpowerpc-gaming-prebuilt-rtx-5070-core-i7-asrock-oled-monitor-deal-sale"
@@ -156,52 +164,44 @@
         {
           "title": "Meta is going to let you build games with AI right on your phone",
           "link": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games"
-        },
-        {
-          "title": "Muse will apparently let you download its entire filesystem",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem"
-        },
-        {
-          "title": "Muse sure looks a lot like OpenClaw",
-          "link": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T18:57:56.062Z"
+      "updatedAt": "2026-09-24T22:14:29.710Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "White House restores access to media outlets banned by Trump after judge's order",
-          "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss"
+          "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+          "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
-          "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss"
+          "title": "White House restores access to media outlets banned by Trump after judge's order",
+          "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
           "link": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
-          "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss"
+          "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
+          "link": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
-          "link": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss"
+          "title": "Priest killed and four injured in knife attack at Polish abbey",
+          "link": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
-          "link": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss"
+          "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
+          "link": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Greek PM urges UK PM to return Elgin Marbles permanently",
-          "link": "https://www.bbc.co.uk/news/articles/cqm2mgk6mlddo?at_medium=RSS&at_campaign=rss"
+          "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
+          "link": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T18:57:56.106Z"
+      "updatedAt": "2026-09-24T22:14:30.247Z"
     },
     "BBC News": {
       "items": [
@@ -210,90 +210,90 @@
           "link": "https://www.bbc.co.uk/news/videos/c914d17zn6kxo?at_medium=RSS&at_campaign=rss"
         },
         {
+          "title": "Anti-migrant activist charged after dinghy slashed in Channel",
+          "link": "https://www.bbc.co.uk/news/articles/crkgwe3egpzgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "White House restores access to media outlets banned by Trump after judge's order",
           "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+          "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
           "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Crashed RAF jet steered to 'avoid built-up areas' before pilots ejected, commander says",
-          "link": "https://www.bbc.co.uk/news/articles/crx2zlqqpn2do?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "Man jailed for two years over throwing bottle at Portsmouth migrant protest",
           "link": "https://www.bbc.co.uk/news/articles/c8vgy7ww21rqo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "'It has broken us as a family,' mother of poison seller victim tells hearing",
-          "link": "https://www.bbc.co.uk/news/articles/cm20ldvx9xlxo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T18:57:56.206Z"
+      "updatedAt": "2026-09-24T22:14:30.281Z"
     },
     "NY Times": {
       "items": [
         {
+          "title": "White House Restores Access for CNN, MS NOW and Politico",
+          "link": "https://www.nytimes.com/2026/09/24/business/media/trump-white-house-cnn-politico-msnow-ban.html"
+        },
+        {
+          "title": "Conservative Outlets Offer Trump Feed While White House TV Pool Is Suspended",
+          "link": "https://www.nytimes.com/2026/09/24/business/media/trump-white-house-press-ban-tv-pool-conservative-news.html"
+        },
+        {
+          "title": "Who Is the Trump-Appointed Judge Who Blocked the White House Media Ban?",
+          "link": "https://www.nytimes.com/2026/09/24/us/politics/who-is-tim-kelly-media-judge.html"
+        },
+        {
+          "title": "As Trump Hosts State Dinner Honoring Xi, See the Menu",
+          "link": "https://www.nytimes.com/2026/09/24/us/politics/trump-xi-state-dinner-menu.html"
+        },
+        {
           "title": "Trump Struggles to Find Leverage With Xi Over Chinese Exports",
           "link": "https://www.nytimes.com/2026/09/24/business/trump-xi-china-exports.html"
-        },
-        {
-          "title": "Abbas Presses Case for Palestinian State in Taped General Assembly Address",
-          "link": "https://www.nytimes.com/2026/09/24/world/middleeast/abbas-general-assembly-palestinians.html"
-        },
-        {
-          "title": "Mortgage Rates Hit 7% as Iran War Fallout Crushes a Weak Housing Market",
-          "link": "https://www.nytimes.com/2026/09/24/business/mortgage-rates-7-percent.html"
-        },
-        {
-          "title": "Bond Markets Are Volatile and Oil Prices Rise",
-          "link": "https://www.nytimes.com/2026/09/24/business/oil-bonds-stocks-prices.html"
-        },
-        {
-          "title": "From 15,000 to 185 to Zero: Trump’s Claims of Illegal Voting in Nevada Fizzle",
-          "link": "https://www.nytimes.com/2026/09/24/us/politics/nevada-voters-homeland-security-trump.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T18:57:56.321Z"
+      "updatedAt": "2026-09-24T22:14:30.378Z"
     }
   },
   "indices": {
     "data": [
       {
         "name": "S&P 500",
-        "price": 7712.86,
-        "pct": 0.9832725825372812
+        "price": 7704.13,
+        "pct": 0.8689720546338179
       },
       {
         "name": "Dow Jones",
-        "price": 51388.08,
-        "pct": -0.753137816726935
+        "price": 51349.98,
+        "pct": -0.8267211350603416
       },
       {
         "name": "Nasdaq",
-        "price": 26962.316,
-        "pct": 2.0592392394665806
+        "price": 26939.373,
+        "pct": 1.9723941358830825
       },
       {
         "name": "Gold",
-        "price": 4306,
-        "pct": -1.7769565911631116
+        "price": 4310.5,
+        "pct": -1.674308264330839
       },
       {
         "name": "Bitcoin",
-        "price": 84511.78,
-        "pct": 4.152158773300487
+        "price": 84329.56,
+        "pct": 3.9275911879097762
       },
       {
         "name": "SpaceX",
-        "price": 147.66,
-        "pct": -4.61856469220335
+        "price": 148.03,
+        "pct": -4.379562043795621
       }
     ],
     "ok": true,
-    "updatedAt": "2026-09-24T18:57:56.440Z"
+    "updatedAt": "2026-09-24T22:14:30.590Z"
   }
 }
