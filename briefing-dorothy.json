@@ -1,8 +1,24 @@
 {
-  "fetchedAt": "2026-09-25T02:17:32.723Z",
+  "fetchedAt": "2026-09-25T08:16:59.986Z",
   "feeds": {
     "Fox News": {
       "items": [
+        {
+          "title": "UMass Dartmouth football murder suspect overstayed tourist visa, received deferred action: federal sources",
+          "link": "https://www.foxnews.com/politics/umass-dartmouth-football-murder-suspect-overstayed-tourist-visa-received-deferred-action-federal-sources"
+        },
+        {
+          "title": "Packers' shocking blowout loss to Falcons should put coach Matt LaFleur on the hot seat",
+          "link": "https://www.foxnews.com/outkick-sports/packers-shocking-blowout-loss-falcons-should-put-coach-matt-lafleur-hot-seat"
+        },
+        {
+          "title": "Indiana Fever routed by Lynx in regular season finale as Caitlin Clark posts career-worst performance",
+          "link": "https://www.foxnews.com/outkick-sports/indiana-fever-routed-lynx-regular-season-finale-caitlin-clark-career-worst-performance"
+        },
+        {
+          "title": "Pittsburgh doctor stabbed to death after intruder allegedly attacks him, wife as they slept: police",
+          "link": "https://www.foxnews.com/us/pittsburgh-doctor-stabbed-death-intruder-allegedly-attacks-wife-slept-police"
+        },
         {
           "title": "New Jersey Gov Mikie Sherrill calls on lieutenant governor to resign after sexual harassment investigation",
           "link": "https://www.foxnews.com/politics/new-jersey-gov-mikie-sherrill-calls-lieutenant-governor-resign-sexual-harassment-investigation"
@@ -10,26 +26,10 @@
         {
           "title": "FBI says source of its jobs portal breach still unknown as hackers allege employee data compromised",
           "link": "https://www.foxnews.com/politics/fbi-source-jobs-portal-breach-still-unknown-hackers-allege-employee-data-compromised"
-        },
-        {
-          "title": "Mamdani-backed socialist arrested at anti-Netanyahu protest outside UN",
-          "link": "https://www.foxnews.com/politics/mamdani-backed-socialist-house-nominee-arrested-anti-netanyahu-protest-outside-un"
-        },
-        {
-          "title": "JJ Redick takes shot at LeBron James, promises starters will not be all 'white guys' in odd presser",
-          "link": "https://www.foxnews.com/outkick-sports/jj-redick-takes-shot-lebron-james-promises-starters-not-all-white-guys-odd-presser"
-        },
-        {
-          "title": "Final Sophie Cunningham rally of the 2026 regular season pits supporters against trans activists in Minnesota",
-          "link": "https://www.foxnews.com/outkick-sports/final-sophie-cunningham-rally-2026-regular-season-pits-supporters-against-trans-activists-minnesota"
-        },
-        {
-          "title": "Kyle Juszczyk responds to beer fine by explaining in detail his celebration is about his nickname – Juice",
-          "link": "https://www.foxnews.com/outkick-sports/kyle-juszczyk-responds-beer-fine-explaining-detail-celebration-nickname-juice"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-25T02:17:28.764Z"
+      "updatedAt": "2026-09-25T08:16:57.431Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,10 +59,14 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-25T02:17:29.078Z"
+      "updatedAt": "2026-09-25T08:16:57.876Z"
     },
     "The Hill": {
       "items": [
+        {
+          "title": "Iran's president tells Fox anchor the war was 'imposed on us'",
+          "link": "https://thehill.com/policy/international/6110895-pezeshkian-us-conflict-iran/"
+        },
         {
           "title": "Zuckerberg, Altman, other Big Tech moguls among attendees at Trump-Xi dinner",
           "link": "https://thehill.com/homenews/administration/6110866-trump-xi-white-house-dinner/"
@@ -78,14 +82,10 @@
         {
           "title": "Live updates: Xi, Trump meet at dinner for high-stakes talks; UN delegates walk out of Netanyahu's remarks",
           "link": "https://thehill.com/homenews/administration/6107815-live-updates-trump-xi-summit-media-ban-ruling-fda/"
-        },
-        {
-          "title": "Iran's president claims Supreme Leader Khamenei healthy, able to govern",
-          "link": "https://thehill.com/policy/international/6110716-masoud-pezeshkian-claims-khamenei-healthy/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-25T02:17:29.907Z"
+      "updatedAt": "2026-09-25T08:16:58.301Z"
     },
     "Ars Technica": {
       "items": [
@@ -111,7 +111,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-25T02:17:30.456Z"
+      "updatedAt": "2026-09-25T08:16:58.382Z"
     },
     "The Verge": {
       "items": [
@@ -137,10 +137,18 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-25T02:17:30.607Z"
+      "updatedAt": "2026-09-25T08:16:58.436Z"
     },
     "BBC World": {
       "items": [
+        {
+          "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
+          "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
+          "link": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
           "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss"
@@ -160,74 +168,66 @@
         {
           "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
           "link": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Priest killed and four injured in knife attack at Polish abbey",
-          "link": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
-          "link": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-25T02:17:30.776Z"
+      "updatedAt": "2026-09-25T08:16:58.808Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Watch: The world’s two most powerful men just met. How did it go?",
-          "link": "https://www.bbc.co.uk/news/videos/cm790gjyw1qxo?at_medium=RSS&at_campaign=rss"
+          "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
+          "link": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Anti-migrant activist charged after dinghy slashed in Channel",
-          "link": "https://www.bbc.co.uk/news/articles/crkgwe3egpzgo?at_medium=RSS&at_campaign=rss"
+          "title": "Watch: What was it like inside the Trump-Xi White House dinner?",
+          "link": "https://www.bbc.co.uk/news/videos/cw14d1yey0nmo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "From weeks to hours - the rapid new test transforming brain tumour diagnosis",
-          "link": "https://www.bbc.co.uk/news/articles/cr3wj04d88ywo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
-          "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "New policies, election speculation: What to expect from Burnham's first Labour conference as PM",
-          "link": "https://www.bbc.co.uk/news/articles/crz9z7y2ky0go?at_medium=RSS&at_campaign=rss"
+          "title": "Victims 'grossly failed' by sex offender bail decision",
+          "link": "https://www.bbc.co.uk/news/articles/cmwyzrrnn015o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Just how hot and dry was your summer? Use our postcode lookup to find out",
           "link": "https://www.bbc.co.uk/news/articles/cy9zvw47v90o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Brain tumour diagnosis cut from weeks to hours with rapid new test",
+          "link": "https://www.bbc.co.uk/news/articles/cr3wj04d88ywo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "What to expect from Burnham's first Labour conference as PM",
+          "link": "https://www.bbc.co.uk/news/articles/crz9z7y2ky0go?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-25T02:17:30.944Z"
+      "updatedAt": "2026-09-25T08:16:58.834Z"
     },
     "NY Times": {
       "items": [
+        {
+          "title": "In Trump’s White House, China’s Dictator Is Welcome. American Media, Less So.",
+          "link": "https://www.nytimes.com/2026/09/24/us/politics/trump-xi-press-pool-boycott-media.html"
+        },
+        {
+          "title": "Flyovers and Pandas Masked Divides in Trump and Xi’s U.S.-China Summit",
+          "link": "https://www.nytimes.com/2026/09/24/us/politics/trump-xi-summit-china.html"
+        },
         {
           "title": "As Trump Hosts State Dinner Honoring Xi, See the Menu",
           "link": "https://www.nytimes.com/2026/09/24/us/politics/trump-xi-state-dinner-menu.html"
         },
         {
-          "title": "Full Guest List for Trump’s State Dinner With Xi",
-          "link": "https://www.nytimes.com/2026/09/24/us/politics/full-guest-list-trump-state-dinner-xi.html"
+          "title": "Netanyahu, Addressing U.N., Denounces Israel’s Critics as ‘Moral Cowards’",
+          "link": "https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-israel-un.html"
         },
         {
-          "title": "White House Restores Access for CNN, MS NOW and Politico",
-          "link": "https://www.nytimes.com/2026/09/24/business/media/trump-white-house-cnn-politico-msnow-ban.html"
-        },
-        {
-          "title": "Conservative Outlets Offer Trump Feed While White House TV Pool Is Suspended",
-          "link": "https://www.nytimes.com/2026/09/24/business/media/trump-white-house-press-ban-tv-pool-conservative-news.html"
-        },
-        {
-          "title": "Who Is the Trump-Appointed Judge Who Blocked the White House Media Ban?",
-          "link": "https://www.nytimes.com/2026/09/24/us/politics/who-is-tim-kelly-media-judge.html"
+          "title": "Mamdani Accuses Netanyahu of Spreading ‘Baseless Lies’ After U.N. Speech",
+          "link": "https://www.nytimes.com/2026/09/24/nyregion/netanyahu-mamdani-un-speech.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-25T02:17:31.092Z"
+      "updatedAt": "2026-09-25T08:16:59.020Z"
     },
     "ARTNews": {
       "items": [
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-25T02:17:31.273Z"
+      "updatedAt": "2026-09-25T08:16:59.163Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-25T02:17:31.591Z"
+      "updatedAt": "2026-09-25T08:16:59.281Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-25T02:17:32.558Z"
+      "updatedAt": "2026-09-25T08:16:59.870Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-25T02:17:32.723Z"
+      "updatedAt": "2026-09-25T08:16:59.986Z"
     }
   }
 }
