@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-25T01:20:28.772Z",
+  "fetchedAt": "2026-09-25T07:31:40.725Z",
   "feeds": {
     "MarketWatch": {
       "items": [
@@ -29,70 +29,78 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-25T01:20:27.533Z"
+      "updatedAt": "2026-09-25T07:31:38.671Z"
     },
     "Fox News": {
       "items": [
         {
+          "title": "UMass Dartmouth football murder suspect overstayed tourist visa, received deferred action: federal sources",
+          "link": "https://www.foxnews.com/politics/umass-dartmouth-football-murder-suspect-overstayed-tourist-visa-received-deferred-action-federal-sources"
+        },
+        {
+          "title": "Packers' shocking blowout loss to Falcons should put coach Matt LaFleur on the hot seat",
+          "link": "https://www.foxnews.com/outkick-sports/packers-shocking-blowout-loss-falcons-should-put-coach-matt-lafleur-hot-seat"
+        },
+        {
+          "title": "Indiana Fever routed by Lynx in regular season finale as Caitlin Clark posts career-worst performance",
+          "link": "https://www.foxnews.com/outkick-sports/indiana-fever-routed-lynx-regular-season-finale-caitlin-clark-career-worst-performance"
+        },
+        {
+          "title": "Pittsburgh doctor stabbed to death after intruder allegedly attacks him, wife as they slept: police",
+          "link": "https://www.foxnews.com/us/pittsburgh-doctor-stabbed-death-intruder-allegedly-attacks-wife-slept-police"
+        },
+        {
+          "title": "New Jersey Gov Mikie Sherrill calls on lieutenant governor to resign after sexual harassment investigation",
+          "link": "https://www.foxnews.com/politics/new-jersey-gov-mikie-sherrill-calls-lieutenant-governor-resign-sexual-harassment-investigation"
+        },
+        {
           "title": "FBI says source of its jobs portal breach still unknown as hackers allege employee data compromised",
           "link": "https://www.foxnews.com/politics/fbi-source-jobs-portal-breach-still-unknown-hackers-allege-employee-data-compromised"
-        },
-        {
-          "title": "Mamdani-backed socialist arrested at anti-Netanyahu protest outside UN",
-          "link": "https://www.foxnews.com/politics/mamdani-backed-socialist-house-nominee-arrested-anti-netanyahu-protest-outside-un"
-        },
-        {
-          "title": "JJ Redick takes shot at LeBron James, promises starters will not be all 'white guys' in odd presser",
-          "link": "https://www.foxnews.com/outkick-sports/jj-redick-takes-shot-lebron-james-promises-starters-not-all-white-guys-odd-presser"
-        },
-        {
-          "title": "Final Sophie Cunningham rally of the 2026 regular season pits supporters against trans activists in Minnesota",
-          "link": "https://www.foxnews.com/outkick-sports/final-sophie-cunningham-rally-2026-regular-season-pits-supporters-against-trans-activists-minnesota"
-        },
-        {
-          "title": "Kyle Juszczyk responds to beer fine by explaining in detail his celebration is about his nickname – Juice",
-          "link": "https://www.foxnews.com/outkick-sports/kyle-juszczyk-responds-beer-fine-explaining-detail-celebration-nickname-juice"
-        },
-        {
-          "title": "Michigan nurse accused of breaking bones and bruising premature infant at children's hospital",
-          "link": "https://www.foxnews.com/us/michigan-nurse-accused-breaking-bones-bruising-premature-infant-childrens-hospital"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-25T01:20:27.680Z"
+      "updatedAt": "2026-09-25T07:31:38.869Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "Are Republicans Allowing the Election To Be About Nothing?",
-          "link": "https://www.realclearpolitics.com/2026/09/24/are_republicans_allowing_the_election_to_be_about_nothing_711951.html"
+          "title": "So What Are Democrats Supposed To Do About Schools?",
+          "link": "https://www.realclearpolitics.com/2026/09/24/so_what_are_democrats_supposed_to_do_about_schools_711981.html"
         },
         {
-          "title": "The Book Dems Hate--and Can't Stop Talking About",
-          "link": "https://www.realclearpolitics.com/2026/09/24/the_book_dems_hate--and_cant_stop_talking_about_711973.html"
+          "title": "The Problem With Potemkin Democrat Candidates",
+          "link": "https://www.realclearpolitics.com/2026/09/24/the_problem_with_potemkin_democrat_candidates_711974.html"
         },
         {
-          "title": "Trump, Xi Summit Gets Started With Pomp and Pageantry",
-          "link": "https://www.realclearpolitics.com/2026/09/24/trump_xi_summit_gets_started_with_pomp_and_pageantry_711970.html"
+          "title": "Vote by Mail Is Safe--for Now",
+          "link": "https://www.realclearpolitics.com/2026/09/24/vote_by_mail_is_safe--for_now_711944.html"
         },
         {
-          "title": "CA's Shadow Welfare System for Illegal Aliens",
-          "link": "https://www.realclearpolitics.com/2026/09/24/cas_shadow_welfare_system_for_illegal_aliens_711968.html"
+          "title": "How Much Welfare Spending for Illegals?",
+          "link": "https://www.realclearpolitics.com/2026/09/24/how_much_welfare_spending_for_illegals_711980.html"
         },
         {
-          "title": "The New Union Way To Build Progressive Power",
-          "link": "https://www.realclearpolitics.com/2026/09/24/the_new_union_way_to_build_progressive_power_711969.html"
+          "title": "We Could All Be Wrong About the Midterms",
+          "link": "https://www.realclearpolitics.com/2026/09/24/we_could_all_be_wrong_about_the_midterms_711982.html"
         },
         {
-          "title": "Teacher Unions Want Noncitizens Driving the Bus?",
-          "link": "https://www.realclearpolitics.com/2026/09/24/teacher_unions_want_noncitizens_driving_the_bus_711972.html"
+          "title": "Trump Invades the UN With a Brutish Speech",
+          "link": "https://www.realclearpolitics.com/2026/09/23/trump_invades_the_un_with_a_brutish_speech_711924.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-25T01:20:27.799Z"
+      "updatedAt": "2026-09-25T07:31:39.106Z"
     },
     "The Hill": {
       "items": [
+        {
+          "title": "Iran's president tells Fox anchor the war was 'imposed on us'",
+          "link": "https://thehill.com/policy/international/6110895-pezeshkian-us-conflict-iran/"
+        },
+        {
+          "title": "Zuckerberg, Altman, other Big Tech moguls among attendees at Trump-Xi dinner",
+          "link": "https://thehill.com/homenews/administration/6110866-trump-xi-white-house-dinner/"
+        },
         {
           "title": "Jackson warns Supreme Court’s emergency rulings imposing ‘institutional costs’",
           "link": "https://thehill.com/regulation/court-battles/6110805-justice-jackson-critiques-scotus-emergency-docket/"
@@ -104,18 +112,10 @@
         {
           "title": "Live updates: Xi, Trump meet at dinner for high-stakes talks; UN delegates walk out of Netanyahu's remarks",
           "link": "https://thehill.com/homenews/administration/6107815-live-updates-trump-xi-summit-media-ban-ruling-fda/"
-        },
-        {
-          "title": "Iran's president claims Supreme Leader Khamenei healthy, able to govern",
-          "link": "https://thehill.com/policy/international/6110716-masoud-pezeshkian-claims-khamenei-healthy/"
-        },
-        {
-          "title": "GOP lawmakers concerned after F-35 equipment ended up in China",
-          "link": "https://thehill.com/newsletters/defense-national-security/6110708-gop-lawmakers-concerned-after-f-35-equipment-ended-up-in-china/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-25T01:20:28.324Z"
+      "updatedAt": "2026-09-25T07:31:39.778Z"
     },
     "Ars Technica": {
       "items": [
@@ -141,10 +141,18 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-25T01:20:28.428Z"
+      "updatedAt": "2026-09-25T07:31:39.974Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "Here’s the Tesla Semi… again",
+          "link": "https://www.theverge.com/transportation/1000317/tesla-semi-launch-customer-delivery-freight-battery-engineer"
+        },
+        {
+          "title": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
+          "link": "https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand"
+        },
         {
           "title": "Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures",
           "link": "https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats"
@@ -156,21 +164,21 @@
         {
           "title": "Microsoft puts Brad Smith in charge of communications",
           "link": "https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela"
-        },
-        {
-          "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
-          "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face"
-        },
-        {
-          "title": "Sadly, this $1,549 RTX 5070-equipped gaming PC is a very good deal",
-          "link": "https://www.theverge.com/gadgets/1000122/cyberpowerpc-gaming-prebuilt-rtx-5070-core-i7-asrock-oled-monitor-deal-sale"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-25T01:20:28.463Z"
+      "updatedAt": "2026-09-25T07:31:40.088Z"
     },
     "BBC World": {
       "items": [
+        {
+          "title": "US and China must act as responsible powers together, Xi says as Trump toasts friendship at state dinner",
+          "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
+          "link": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
           "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss"
@@ -190,74 +198,66 @@
         {
           "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
           "link": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Priest killed and four injured in knife attack at Polish abbey",
-          "link": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
-          "link": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-25T01:20:28.545Z"
+      "updatedAt": "2026-09-25T07:31:40.409Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Watch: Why has Trump been so eager to welcome Xi?",
-          "link": "https://www.bbc.co.uk/news/videos/c914d17zn6kxo?at_medium=RSS&at_campaign=rss"
+          "title": "US and China must act as responsible powers together, Xi says as Trump toasts friendship at state dinner",
+          "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Watch: The world’s two most powerful men just met. How did it go?",
+          "link": "https://www.bbc.co.uk/news/videos/cm790gjyw1qxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Just how hot and dry was your summer? Use our postcode lookup to find out",
+          "link": "https://www.bbc.co.uk/news/articles/cy9zvw47v90o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Brain tumour diagnosis cut from weeks to hours with rapid new test",
+          "link": "https://www.bbc.co.uk/news/articles/cr3wj04d88ywo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Anti-migrant activist charged after dinghy slashed in Channel",
           "link": "https://www.bbc.co.uk/news/articles/crkgwe3egpzgo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "From weeks to hours - the rapid new test transforming brain tumour diagnosis",
-          "link": "https://www.bbc.co.uk/news/articles/cr3wj04d88ywo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
-          "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "New policies, election speculation: What to expect from Burnham's first Labour conference as PM",
           "link": "https://www.bbc.co.uk/news/articles/crz9z7y2ky0go?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Just how hot and dry was your summer? Use our postcode lookup to find out",
-          "link": "https://www.bbc.co.uk/news/articles/cy9zvw47v90o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-25T01:20:28.583Z"
+      "updatedAt": "2026-09-25T07:31:40.445Z"
     },
     "NY Times": {
       "items": [
+        {
+          "title": "In Trump’s White House, China’s Dictator Is Welcome. American Media, Less So.",
+          "link": "https://www.nytimes.com/2026/09/24/us/politics/trump-xi-press-pool-boycott-media.html"
+        },
+        {
+          "title": "Flyovers and Pandas Masked Divides in Trump and Xi’s U.S.-China Summit",
+          "link": "https://www.nytimes.com/2026/09/24/us/politics/trump-xi-summit-china.html"
+        },
         {
           "title": "As Trump Hosts State Dinner Honoring Xi, See the Menu",
           "link": "https://www.nytimes.com/2026/09/24/us/politics/trump-xi-state-dinner-menu.html"
         },
         {
-          "title": "Full Guest List for Trump’s State Dinner With Xi",
-          "link": "https://www.nytimes.com/2026/09/24/us/politics/full-guest-list-trump-state-dinner-xi.html"
+          "title": "Netanyahu, Addressing U.N., Denounces Israel’s Critics as ‘Moral Cowards’",
+          "link": "https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-israel-un.html"
         },
         {
-          "title": "White House Restores Access for CNN, MS NOW and Politico",
-          "link": "https://www.nytimes.com/2026/09/24/business/media/trump-white-house-cnn-politico-msnow-ban.html"
-        },
-        {
-          "title": "Conservative Outlets Offer Trump Feed While White House TV Pool Is Suspended",
-          "link": "https://www.nytimes.com/2026/09/24/business/media/trump-white-house-press-ban-tv-pool-conservative-news.html"
-        },
-        {
-          "title": "Who Is the Trump-Appointed Judge Who Blocked the White House Media Ban?",
-          "link": "https://www.nytimes.com/2026/09/24/us/politics/who-is-tim-kelly-media-judge.html"
+          "title": "Mamdani Accuses Netanyahu of Spreading ‘Baseless Lies’ After U.N. Speech",
+          "link": "https://www.nytimes.com/2026/09/24/nyregion/netanyahu-mamdani-un-speech.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-25T01:20:28.631Z"
+      "updatedAt": "2026-09-25T07:31:40.553Z"
     }
   },
   "indices": {
@@ -269,8 +269,8 @@
       },
       {
         "name": "Dow Jones",
-        "price": 51349.98,
-        "pct": -0.8267211350603416
+        "price": 51350,
+        "pct": -0.8266825086465245
       },
       {
         "name": "Nasdaq",
@@ -279,13 +279,13 @@
       },
       {
         "name": "Gold",
-        "price": 4319.4,
-        "pct": -1.4712926845959078
+        "price": 4309.8,
+        "pct": -1.6902757818380771
       },
       {
         "name": "Bitcoin",
-        "price": 84658.43,
-        "pct": -2.245287035029804
+        "price": 84064.49,
+        "pct": -2.9311069140237
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-09-25T01:20:28.772Z"
+    "updatedAt": "2026-09-25T07:31:40.725Z"
   }
 }
