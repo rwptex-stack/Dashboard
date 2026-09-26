@@ -1,65 +1,65 @@
 {
-  "fetchedAt": "2026-09-26T12:55:04.745Z",
+  "fetchedAt": "2026-09-26T17:01:05.510Z",
   "feeds": {
     "MarketWatch": {
       "items": [
         {
-          "title": "China is playing a different game when it comes to AI",
-          "link": "https://www.marketwatch.com/story/china-is-playing-a-different-game-when-it-comes-to-ai-c48791cd?mod=mw_rss_topstories"
+          "title": "A 10% risk-free yield? For some, yes.",
+          "link": "https://www.marketwatch.com/story/a-10-risk-free-yield-for-some-yes-0d1fa51a?mod=mw_rss_topstories"
         },
         {
-          "title": "Why bond-market volatility hasn’t spilled over into stocks",
-          "link": "https://www.marketwatch.com/story/why-bond-market-volatility-hasnt-spilled-over-into-stocks-f156b24a?mod=mw_rss_topstories"
+          "title": "Choosing these AI-exposed college majors could dent your job prospects — and lower your pay",
+          "link": "https://www.marketwatch.com/story/choosing-these-ai-exposed-college-majors-could-dent-your-job-prospects-and-lower-your-pay-b80576cb?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Tax-free bond yields are in a sweet spot. Get in before it’s too late.",
+          "link": "https://www.marketwatch.com/story/tax-free-bond-yields-are-in-a-sweet-spot-get-in-before-its-too-late-94b8adac?mod=mw_rss_topstories"
+        },
+        {
+          "title": "‘She says it’s just money’: My friend pays for everything. I should be grateful, but I can’t stand her anymore.",
+          "link": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Millions will lose Medicaid once new work rules kick in. These groups will be hit the hardest.",
+          "link": "https://www.marketwatch.com/story/millions-will-lose-medicaid-once-new-work-rules-kick-in-these-groups-will-be-hit-the-hardest-507694d3?mod=mw_rss_topstories"
         },
         {
           "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
           "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Meta turned Muse into a viral hit. Now comes the hard part.",
-          "link": "https://www.marketwatch.com/story/meta-turned-muse-into-a-viral-hit-now-comes-the-hard-part-fb3177a8?mod=mw_rss_topstories"
-        },
-        {
-          "title": "I’m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
-          "link": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories"
-        },
-        {
-          "title": "My friend is terminally ill. Should she sell her rental home and pay $100,000 in capital gains?",
-          "link": "https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T12:55:02.888Z"
+      "updatedAt": "2026-09-26T17:01:03.608Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Behemoth high school football star slams defender to the ground like a ragdoll after interception",
-          "link": "https://www.foxnews.com/outkick-sports/behemoth-high-school-football-star-slams-defender-ground-ragdoll-interception"
+          "title": "Rob Gronkowski calls Chargers 'probably the biggest mess in the NFL' right now after rough start",
+          "link": "https://www.foxnews.com/outkick-sports/rob-gronkowski-calls-chargers-biggest-mess-nfl-rough-start"
         },
         {
-          "title": "Trump revives rare budget maneuver to rescind $810M in congressionally approved funds",
-          "link": "https://www.foxnews.com/politics/trump-revives-rare-budget-maneuver-rescind-810m-congressionally-approved-funds"
+          "title": "Legal expert details what travelers are entitled to after massive East Coast flight cancellations",
+          "link": "https://www.foxnews.com/travel/legal-expert-details-travelers-entitled-massive-east-coast-flight-cancellations"
         },
         {
-          "title": "Iowa Hawkeyes get +5.5 points as college football betting pick against Michigan in Ann Arbor",
-          "link": "https://www.foxnews.com/outkick-betting/iowa-hawkeyes-get-5-5-points-college-football-betting-pick-against-michigan-ann-arbor"
+          "title": "SEC crowd greets Trump with massive cheers ahead of Tennessee-Texas showdown",
+          "link": "https://www.foxnews.com/outkick-sports/sec-crowd-greets-trump-massive-cheers-ahead-tennessee-texas-showdown"
         },
         {
-          "title": "Tennessee Volunteers look to prove playoff credentials against top-ranked Texas Longhorns football",
-          "link": "https://www.foxnews.com/outkick-betting/tennessee-volunteers-prove-playoff-credentials-against-top-ranked-texas-longhorns-football"
+          "title": "Bill Maher credits Trump’s ‘kick a--’ crime approach as violent offenses fall across America",
+          "link": "https://www.foxnews.com/media/bill-maher-credits-trumps-kick-a-crime-approach-violent-offenses-fall-across-america"
         },
         {
-          "title": "KFC unveils radically different restaurant in major comeback push",
-          "link": "https://www.foxnews.com/food-drink/kfc-unveils-radically-different-restaurant-major-comeback-push"
+          "title": "US, China strike deal to lower tariffs on $30B in goods after Trump-Xi Washington summit",
+          "link": "https://www.foxnews.com/politics/us-china-strike-deal-lower-tariffs-30b-goods-trump-xi-washington-summit"
         },
         {
-          "title": "BROADCAST BIAS: Media bash Sydney Sweeney, but cover for leftist Macklemore",
-          "link": "https://www.foxnews.com/opinion/broadcast-bias-media-bash-sydney-sweeney-cover-leftist-macklemore"
+          "title": "Craig Carton calls out Pablo Torre for tying Tim Tebow to alleged Life Surge scam: 'Shame on you'",
+          "link": "https://www.foxnews.com/outkick-sports/craig-carton-calls-out-pablo-torre-tying-tim-tebow-alleged-life-surge-scam-shame"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T12:55:03.072Z"
+      "updatedAt": "2026-09-26T17:01:03.895Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -73,11 +73,11 @@
         },
         {
           "title": "Walz's Fall From VP Nominee to Democrat Liability",
-          "link": "https://www.realclearpolitics.com/2026/09/25/walzs_fall_from_vp_nominee_to_democrat_liability_712027.html"
+          "link": "https://www.realclearpolitics.com/2026/09/26/walzs_fall_from_vp_nominee_to_democrat_liability_712027.html"
         },
         {
           "title": "One Thing GOP's Massive Midterms Cash Pile Can't Buy",
-          "link": "https://www.realclearpolitics.com/2026/09/25/one_thing_gops_massive_midterms_cash_pile_cant_buy_712163.html"
+          "link": "https://www.realclearpolitics.com/2026/09/26/one_thing_gops_massive_midterms_cash_pile_cant_buy_712163.html"
         },
         {
           "title": "What the White House Got Out of Xi's Visit",
@@ -85,40 +85,44 @@
         },
         {
           "title": "Mamdani Can Play Nice, Not Schumer and Jeffries?",
-          "link": "https://www.realclearpolitics.com/2026/09/25/mamdani_can_play_nice_not_schumer_and_jeffries_712038.html"
+          "link": "https://www.realclearpolitics.com/2026/09/26/mamdani_can_play_nice_not_schumer_and_jeffries_712038.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T12:55:03.252Z"
+      "updatedAt": "2026-09-26T17:01:04.044Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "US, China agree to cut tariffs on $30 billion worth of goods, set up channel for AI incidents",
-          "link": "https://thehill.com/homenews/administration/6112947-donald-trump-xi-jinping-tariffs/"
+          "title": "Kehoe says he's 'disappointed' GOP-favored map in Missouri is blocked again",
+          "link": "https://thehill.com/homenews/campaign/6113111-kehoe-missouri-map-blocked/"
         },
         {
-          "title": "The future is here: What will a Millennial-Gen Z majority mean for America?",
-          "link": "https://thehill.com/opinion/campaign/6110360-millennial-gen-z-independent-surge/"
+          "title": "'America First' means evaluating real cost of our wars — and who pays the ultimate price",
+          "link": "https://thehill.com/opinion/national-security/6111713-cost-human-life-wars-choice/"
         },
         {
-          "title": "Trump faces growing GOP dissent in heartland as policies bite",
-          "link": "https://thehill.com/homenews/administration/6111406-republicans-break-trump-iran-war/"
+          "title": "National security becomes Trump’s buzzword for legal fights",
+          "link": "https://thehill.com/regulation/court-battles/6112509-trump-national-security-media-ban/"
         },
         {
-          "title": "Trump's polls sink further in warning sign for GOP",
-          "link": "https://thehill.com/homenews/administration/6112712-trump-approval-ratings-midterm-elections/"
+          "title": "Ending the roadless rule can help fight forest fires and improve wildlife access",
+          "link": "https://thehill.com/opinion/energy-environment/6111745-rescinding-roadless-conservation-rule/"
         },
         {
-          "title": "Congress kicks AI fight down the road as lawmakers demand action",
-          "link": "https://thehill.com/homenews/house/6112131-lawmakers-missed-ai-deadline/"
+          "title": "OpenAI agent made unauthorized attempts to access federal agencies' websites",
+          "link": "https://thehill.com/policy/technology/6113061-openai-access-government-websites/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T12:55:03.940Z"
+      "updatedAt": "2026-09-26T17:01:04.431Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "Tesla’s big electric truck faces an even bigger infrastructure challenge",
+          "link": "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/"
+        },
         {
           "title": "Can Trump ever be wrong? His pick to lead FDA refused to say.",
           "link": "https://arstechnica.com/health/2026/09/can-trump-ever-be-wrong-his-pick-to-lead-fda-refused-to-say/"
@@ -134,17 +138,25 @@
         {
           "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
           "link": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/"
-        },
-        {
-          "title": "Review: The iPhone 18 Pro is Apple's coolest smartphone (but only literally)",
-          "link": "https://arstechnica.com/apple/2026/09/review-the-iphone-18-pro-is-apples-coolest-smartphone-but-only-literally/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T12:55:04.123Z"
+      "updatedAt": "2026-09-26T17:01:04.521Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "OpenAI pauses training of its ‘most capable models’",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause"
+        },
+        {
+          "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+          "link": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising"
+        },
+        {
+          "title": "Control Resonant is a great game — it’s even better when you read everything",
+          "link": "https://www.theverge.com/games/1000818/control-resonant-reading-collectibles-documents-logs"
+        },
         {
           "title": "Pokémon card resellers have turned collecting into an online blood sport",
           "link": "https://www.theverge.com/games/1001002/pokemon-30th-celebration-scalping-resellers"
@@ -152,36 +164,28 @@
         {
           "title": "Can &#8216;eSUV&#8217; e-bikes really go from trail to town?",
           "link": "https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox"
-        },
-        {
-          "title": "Roku&#8217;s first OLED TVs are up to $400 off, starting at $699",
-          "link": "https://www.theverge.com/gadgets/1000859/roku-pro-series-oled-nothing-phone-4a-pro-deal-sale"
-        },
-        {
-          "title": "Phones don’t have lights",
-          "link": "https://www.theverge.com/podcast/1000751/vergecast-meta-connect-muse-googlebooks"
-        },
-        {
-          "title": "These camera apps give you more control over the iPhone 18 Pro’s aperture",
-          "link": "https://www.theverge.com/tech/1000729/moment-pro-blackmagic-camera-ii-ios-app-iphone-18-pro-max-aperature-camera"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T12:55:04.240Z"
+      "updatedAt": "2026-09-26T17:01:04.633Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Huge crowds greet Pope in Paris ahead of open-air Mass",
-          "link": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss"
+          "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+          "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
-          "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss"
+          "title": "Pope praises 'energy and commitment' of young people as huge crowds join open-air Mass in Paris",
+          "link": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "British national among six dead in building explosion close to Acropolis in Athens",
           "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Security lapses at Utah campus where Charlie Kirk was killed, review says",
+          "link": "https://www.bbc.co.uk/news/articles/cq4g55r76d9lo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Bangkok roads submerged as flood disaster declared",
@@ -192,46 +196,42 @@
           "link": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "OpenAI bots meddled with multiple US government agency sites",
-          "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Black woman found hanging from tree was dead before body was 'staged', police say",
-          "link": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss"
+          "title": "German town bans 'stumbling stone' memorials to Nazi victims",
+          "link": "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T12:55:04.412Z"
+      "updatedAt": "2026-09-26T17:01:04.723Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Man City legal fight could spiral out of control, former Premier League club executive warns",
+          "title": "Heathrow Airport warns third runway could be delayed by four years",
+          "link": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Man City chairman confident club will prove innocence",
           "link": "https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "British national among six dead in building explosion close to Acropolis in Athens",
-          "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Rayner criticises visa rule proposals ahead of Labour conference",
-          "link": "https://www.bbc.co.uk/news/articles/cmx2zz035q99o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "How long can Labour's feel-good factor last?",
           "link": "https://www.bbc.co.uk/news/articles/cwn8mn0rzkzlo?at_medium=RSS&at_campaign=rss"
         },
         {
+          "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+          "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Met to re-examine CCTV from Jill Dando murder case",
           "link": "https://www.bbc.co.uk/news/articles/c60m334grx9vo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Republic of Ireland confirm rescheduled news conference before controversial Israel game",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c962jjl18g3ro?at_medium=RSS&at_campaign=rss"
+          "title": "Republic of Ireland to wear black armbands for Israel game",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T12:55:04.427Z"
+      "updatedAt": "2026-09-26T17:01:04.744Z"
     },
     "NY Times": {
       "items": [
@@ -244,20 +244,20 @@
           "link": "https://www.nytimes.com/2026/09/25/us/politics/us-rejects-un-declaration-on-preparing-for-pandemics.html"
         },
         {
-          "title": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
-          "link": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html"
-        },
-        {
-          "title": "How OpenAI’s Rogue A.I. Agents Tried to Trick a Robot Detector",
-          "link": "https://www.nytimes.com/2026/09/25/technology/openai-hugging-face-hack.html"
+          "title": "Nor’easter Live Updates: Heavy Rain and Wind Batter Northeast, Bringing Coastal Flooding",
+          "link": "https://www.nytimes.com/live/2026/09/26/nyregion/noreaster-storm-rain-nyc-boston"
         },
         {
           "title": "A 7-Day Standoff That Said So Much About Trump and the Media",
           "link": "https://www.nytimes.com/2026/09/26/business/media/trump-white-house-press-ban.html"
+        },
+        {
+          "title": "White House Blocks CNN From Covering Trump’s Trip to Tennessee",
+          "link": "https://www.nytimes.com/2026/09/25/business/media/white-house-cnn-air-force-one-ban.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T12:55:04.609Z"
+      "updatedAt": "2026-09-26T17:01:05.252Z"
     }
   },
   "indices": {
@@ -284,8 +284,8 @@
       },
       {
         "name": "Bitcoin",
-        "price": 84036.15,
-        "pct": -2.4789062097463415
+        "price": 84101.87,
+        "pct": -2.4026403850519027
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-09-26T12:55:04.745Z"
+    "updatedAt": "2026-09-26T17:01:05.510Z"
   }
 }
