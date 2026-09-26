@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-09-25T22:03:14.211Z",
+  "fetchedAt": "2026-09-26T01:02:19.973Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "UK Prime Minister says football fans 'singled out' by alcohol ban not imposed on rugby matches",
-          "link": "https://www.foxnews.com/outkick-sports/uk-prime-minister-says-football-fans-singled-out-alcohol-ban-not-imposed-rugby-matches"
+          "title": "Fulton Sheen became a TV sensation preaching faith, morality and warnings Michael Knowles says still resonate",
+          "link": "https://www.foxnews.com/politics/fulton-sheen-tv-sensation-preaching-faith-morality-warnings-michael-knowles-says-still-resonate"
         },
         {
-          "title": "Florida GOP nominee blasts 20-year Dem incumbent as a 'socialist' rubber-stamp with 'precious little to show'",
-          "link": "https://www.foxnews.com/politics/florida-gop-nominee-blasts-20-year-dem-incumbent-socialist-rubber-stamp-precious-little-show"
+          "title": "WATCH: Former Dem Lt Gov reveals why he resigned after sexual harassment probe rocked state",
+          "link": "https://www.foxnews.com/politics/former-dem-lt-gov-reveals-why-he-resigned-after-sexual-harassment-probe-rocked-state"
         },
         {
-          "title": "Carville says the GOP is better than Democrats at one key skill the 2028 Dem nominee will need",
-          "link": "https://www.foxnews.com/media/carville-gop-better-democrats-key-skill-2028-dem-nominee-need"
+          "title": "UCF Knights unveil incredibly on-brand helmet sponsorship deal with Walt Disney World",
+          "link": "https://www.foxnews.com/outkick-sports/ucf-knights-unveil-incredibly-on-brand-helmet-sponsorship-deal-walt-disney-world"
         },
         {
-          "title": "Indiana attorney general sues high school sports association over race-based board quota",
-          "link": "https://www.foxnews.com/outkick-sports/indiana-attorney-general-sues-high-school-sports-association-race-based-board-quota"
+          "title": "Bill Burr tells healthcare CEOs to probe what motivated Luigi Mangione instead of adding security",
+          "link": "https://www.foxnews.com/media/bill-burr-tells-healthcare-ceos-do-soul-searching-what-motivated-luigi-mangione-instead-add-security"
         },
         {
-          "title": "Ella Langley goes viral after shutting down fan who asked her on a date",
-          "link": "https://www.foxnews.com/entertainment/ella-langley-goes-viral-after-shutting-down-fan-who-asked-her-date"
+          "title": "St Paul police chief sues mayor, alleging she called herself a 'MILF,' sexually harassed him and retaliated",
+          "link": "https://www.foxnews.com/politics/st-paul-police-chief-sues-mayor-alleging-called-herself-milf-sexually-harassed-retaliation"
         },
         {
-          "title": "Secret service, cheap beer and Arch Manning: Tennessee prepares for college football chaos, with Trump visit",
-          "link": "https://www.foxnews.com/outkick-sports/secret-service-cheap-beer-arch-manning-tennessee-prepares-college-football-chaos-trump-visit"
+          "title": "Common kitchen staple may sharpen your brain, and it only takes 2 tablespoons",
+          "link": "https://www.foxnews.com/food-drink/common-kitchen-staple-may-sharpen-your-brain-only-takes-2-tablespoons"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-25T22:03:11.167Z"
+      "updatedAt": "2026-09-26T01:02:17.412Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,33 +59,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-25T22:03:11.378Z"
+      "updatedAt": "2026-09-26T01:02:17.589Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Appeals court rules against Kalshi, says prediction markets can be regulated like gambling",
-          "link": "https://thehill.com/policy/technology/6112365-6th-circuit-rules-against-kalshi/"
+          "title": "TikTok settles for over $100 million in mental health lawsuit, Alabama AG says",
+          "link": "https://thehill.com/regulation/court-battles/6112693-tiktok-alabama-lawsuit-settlement/"
         },
         {
-          "title": "33 new Costco stores announced. Here's what we know about their locations",
-          "link": "https://thehill.com/business/6112042-33-new-costco-locations-announced-heres-what-we-know-about-their-locations/"
+          "title": "GOP senators not happy with Trump's embrace of Xi after China helped Iran",
+          "link": "https://thehill.com/policy/defense/overnights/6112699-gop-senators-dismay-trump-xi-welcome/"
         },
         {
-          "title": "Report shows Utah Valley University had several security issues on day of Charlie Kirk assassination",
-          "link": "https://thehill.com/homenews/state-watch/6112409-uvu-report-charlie-kirk-assassination/"
+          "title": "Senate Democrats question if Kennedy struck a deal in vaccine lawsuit",
+          "link": "https://thehill.com/homenews/6112657-rfk-jr-vaccine-lawsuit-ethics-newsletter/"
         },
         {
-          "title": "Consumer confidence hits 4-month low",
-          "link": "https://thehill.com/newsletters/business-economy/6112397-consumer-confidence-hits-4-month-low/"
+          "title": "Francesca Hong says she regrets CNN interview about Thanksgiving",
+          "link": "https://thehill.com/homenews/state-watch/6112617-hong-regrets-cnn-thanksgiving/"
         },
         {
-          "title": "5 takeaways from Trump and Xi’s ‘Made for TV’ summit",
-          "link": "https://thehill.com/homenews/administration/6112342-trump-xi-summit-takeaways/"
+          "title": "Iran pitches 7-day plan to US to reopen strait",
+          "link": "https://thehill.com/newsletters/energy-environment/6112626-iran-pitches-7-day-plan-to-us-to-reopen-strait/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-25T22:03:12.132Z"
+      "updatedAt": "2026-09-26T01:02:18.084Z"
     },
     "Ars Technica": {
       "items": [
@@ -111,7 +111,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-25T22:03:12.309Z"
+      "updatedAt": "2026-09-26T01:02:18.205Z"
     },
     "The Verge": {
       "items": [
@@ -137,97 +137,97 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-25T22:03:12.467Z"
+      "updatedAt": "2026-09-26T01:02:18.287Z"
     },
     "BBC World": {
       "items": [
-        {
-          "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
-          "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Special agents' blood and urine test results stolen in FBI hack",
-          "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Pope warns against 'losing humanity' to AI machines",
-          "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
-          "link": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Trump's plans for massive arch move ahead",
-          "link": "https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Students strike across Germany in protest against military service",
-          "link": "https://www.bbc.co.uk/news/articles/cxnvlnve52qdo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Man shot during 2024 Trump campaign rally in Butler dies",
-          "link": "https://www.bbc.co.uk/news/articles/c5dj401d88l3o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "ok": true,
-      "updatedAt": "2026-09-25T22:03:12.583Z"
-    },
-    "BBC News": {
-      "items": [
-        {
-          "title": "Man City found guilty of majority of 115 financial rule breaches",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Watch: What could the potential sanctions for Man City be?",
-          "link": "https://www.bbc.co.uk/sport/football/videos/cj62ee3zydxlo?at_medium=RSS&at_campaign=rss"
-        },
         {
           "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
           "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "I'm not tempted to call an early election, Burnham says",
-          "link": "https://www.bbc.co.uk/news/articles/cqwyzz79mdgjo?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
           "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Daniel Thomas pleads not guilty after dinghy slashed",
-          "link": "https://www.bbc.co.uk/news/articles/cq0lr5r46z5jo?at_medium=RSS&at_campaign=rss"
+          "title": "South African white genocide does not exist, new ambassador to US tells BBC",
+          "link": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
+          "link": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
+          "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Black woman found hanging from tree was dead before body was 'staged', police say",
+          "link": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Pope warns against 'losing humanity' to AI machines",
+          "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-25T22:03:12.614Z"
+      "updatedAt": "2026-09-26T01:02:18.376Z"
+    },
+    "BBC News": {
+      "items": [
+        {
+          "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+          "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Man City found guilty of majority of 115 financial rule breaches",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Relegation? Titles stripped? Appeals? What next for Man City",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cx30540044q0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
+          "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
+          "link": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "E-bikes seized by police sold on at auction, BBC finds",
+          "link": "https://www.bbc.co.uk/news/articles/cm86xn6775z3o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "ok": true,
+      "updatedAt": "2026-09-26T01:02:18.422Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "China’s Xi Snubs a Troubled U.N. for Trump, Drowning Out Its Big Week",
-          "link": "https://www.nytimes.com/2026/09/25/us/politics/trump-china-united-nations.html"
-        },
-        {
-          "title": "Dining With A.I. Moguls, Billionaires and Xi Jinping, Trump Went Off Script",
-          "link": "https://www.nytimes.com/2026/09/24/us/politics/state-dinner-scene.html"
-        },
-        {
-          "title": "Kennedy Center Shelved Repairs Now Cited for Closure, Whistle-Blowers Say",
-          "link": "https://www.nytimes.com/2026/09/25/arts/music/kennedy-center-trump-renovations.html"
+          "title": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
+          "link": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html"
         },
         {
           "title": "How OpenAI’s Rogue A.I. Agents Tried to Trick a Robot Detector",
           "link": "https://www.nytimes.com/2026/09/25/technology/openai-hugging-face-hack.html"
         },
         {
-          "title": "Supreme Court Allows Use of Trump Administration’s Expansive Database for Voter Screening",
-          "link": "https://www.nytimes.com/2026/09/25/us/politics/supreme-court-citizenship-voter-lists.html"
+          "title": "His Novel Had a Shot at a Top Book Prize. Then Someone Ran an A.I. Test.",
+          "link": "https://www.nytimes.com/2026/09/25/world/europe/thelyson-orelien-ai-canada-haiti-france.html"
+        },
+        {
+          "title": "As Xi Leaves Washington, Divisions Still Simmer Beneath the Surface",
+          "link": "https://www.nytimes.com/2026/09/25/us/politics/trump-xi-state-visit.html"
+        },
+        {
+          "title": "China’s Xi Snubs a Troubled U.N. for Trump, Overshadowing Its Big Week",
+          "link": "https://www.nytimes.com/2026/09/25/us/politics/trump-china-united-nations.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-25T22:03:12.807Z"
+      "updatedAt": "2026-09-26T01:02:18.488Z"
     },
     "ARTNews": {
       "items": [
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-25T22:03:12.983Z"
+      "updatedAt": "2026-09-26T01:02:18.718Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-25T22:03:13.202Z"
+      "updatedAt": "2026-09-26T01:02:18.984Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,10 +317,14 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-25T22:03:14.055Z"
+      "updatedAt": "2026-09-26T01:02:19.889Z"
     },
     "Booooooom": {
       "items": [
+        {
+          "title": "Booooooom x Format: Creative Development Program Winners",
+          "link": "https://www.booooooom.com/2026/09/25/creative-development-program-winners/"
+        },
         {
           "title": "“Rowers” by Photographer Jacob Faulkner",
           "link": "https://www.booooooom.com/2026/09/25/rowers-by-photographer-jacob-faulkner/"
@@ -340,14 +344,10 @@
         {
           "title": "“In the shadow of an old apple tree” by Photographer Elena Serafimova",
           "link": "https://www.booooooom.com/2026/09/21/in-the-shadow-of-an-old-apple-tree-by-photographer-elena-serafimova/"
-        },
-        {
-          "title": "“A Dinner With Myself” by Graphic Designer Kübra Çetin",
-          "link": "https://www.booooooom.com/2026/09/18/a-dinner-with-myself-by-graphic-designer-kubra-cetin/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-25T22:03:14.211Z"
+      "updatedAt": "2026-09-26T01:02:19.973Z"
     }
   }
 }
