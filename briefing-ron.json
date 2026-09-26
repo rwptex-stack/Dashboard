@@ -1,8 +1,24 @@
 {
-  "fetchedAt": "2026-09-26T17:01:05.510Z",
+  "fetchedAt": "2026-09-26T20:56:16.490Z",
   "feeds": {
     "MarketWatch": {
       "items": [
+        {
+          "title": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
+          "link": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories"
+        },
+        {
+          "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
+          "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories"
+        },
+        {
+          "title": "From $6 eggs to $50,000 cars, these charts show how inflation has defined the past 5 years",
+          "link": "https://www.marketwatch.com/story/from-6-eggs-to-50-000-cars-these-charts-show-how-inflation-has-defined-the-past-5-years-3c7b9ab9?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Social Security checks are projected to be cut by $540 a month in just six years",
+          "link": "https://www.marketwatch.com/story/social-security-checks-are-projected-to-be-cut-by-540-a-month-in-just-six-years-a8842912?mod=mw_rss_topstories"
+        },
         {
           "title": "A 10% risk-free yield? For some, yes.",
           "link": "https://www.marketwatch.com/story/a-10-risk-free-yield-for-some-yes-0d1fa51a?mod=mw_rss_topstories"
@@ -10,56 +26,40 @@
         {
           "title": "Choosing these AI-exposed college majors could dent your job prospects — and lower your pay",
           "link": "https://www.marketwatch.com/story/choosing-these-ai-exposed-college-majors-could-dent-your-job-prospects-and-lower-your-pay-b80576cb?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Tax-free bond yields are in a sweet spot. Get in before it’s too late.",
-          "link": "https://www.marketwatch.com/story/tax-free-bond-yields-are-in-a-sweet-spot-get-in-before-its-too-late-94b8adac?mod=mw_rss_topstories"
-        },
-        {
-          "title": "‘She says it’s just money’: My friend pays for everything. I should be grateful, but I can’t stand her anymore.",
-          "link": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Millions will lose Medicaid once new work rules kick in. These groups will be hit the hardest.",
-          "link": "https://www.marketwatch.com/story/millions-will-lose-medicaid-once-new-work-rules-kick-in-these-groups-will-be-hit-the-hardest-507694d3?mod=mw_rss_topstories"
-        },
-        {
-          "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
-          "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T17:01:03.608Z"
+      "updatedAt": "2026-09-26T20:56:14.649Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Rob Gronkowski calls Chargers 'probably the biggest mess in the NFL' right now after rough start",
-          "link": "https://www.foxnews.com/outkick-sports/rob-gronkowski-calls-chargers-biggest-mess-nfl-rough-start"
+          "title": "Maren Morris flaunts bikini body in photodump from her girls trip to Bali",
+          "link": "https://www.foxnews.com/entertainment/maren-morris-flaunts-bikini-body-photodump-wellness-trip-bali"
         },
         {
-          "title": "Legal expert details what travelers are entitled to after massive East Coast flight cancellations",
-          "link": "https://www.foxnews.com/travel/legal-expert-details-travelers-entitled-massive-east-coast-flight-cancellations"
+          "title": "Tigers legend Justin Verlander leaves mound in tears after daughter surprises him during final career start",
+          "link": "https://www.foxnews.com/outkick-sports/tigers-legend-justin-verlander-leaves-mound-tears-daughter-surprises-final-career-start"
         },
         {
-          "title": "SEC crowd greets Trump with massive cheers ahead of Tennessee-Texas showdown",
-          "link": "https://www.foxnews.com/outkick-sports/sec-crowd-greets-trump-massive-cheers-ahead-tennessee-texas-showdown"
+          "title": "Shaun Cassidy says teen idol fame trapped him before he made drastic career move at 21",
+          "link": "https://www.foxnews.com/entertainment/shaun-cassidy-teen-idol-fame-trapped-him-drastic-career-move-21"
         },
         {
-          "title": "Bill Maher credits Trump’s ‘kick a--’ crime approach as violent offenses fall across America",
-          "link": "https://www.foxnews.com/media/bill-maher-credits-trumps-kick-a-crime-approach-violent-offenses-fall-across-america"
+          "title": "Maher blasts ‘intolerant left’ after Massachusetts lesbian bar faces fury for tweaking COVID-era mask policy",
+          "link": "https://www.foxnews.com/media/maher-blasts-tolerant-left-after-massachusetts-lesbian-bar-faces-fury-tweaking-covid-era-mask-policy"
         },
         {
-          "title": "US, China strike deal to lower tariffs on $30B in goods after Trump-Xi Washington summit",
-          "link": "https://www.foxnews.com/politics/us-china-strike-deal-lower-tariffs-30b-goods-trump-xi-washington-summit"
+          "title": "Ohio State's Jeremiah Smith is now the Heisman favorite following historic performance",
+          "link": "https://www.foxnews.com/outkick-sports/ohio-state-jeremiah-smith-heisman-favorite-historic-performance"
         },
         {
-          "title": "Craig Carton calls out Pablo Torre for tying Tim Tebow to alleged Life Surge scam: 'Shame on you'",
-          "link": "https://www.foxnews.com/outkick-sports/craig-carton-calls-out-pablo-torre-tying-tim-tebow-alleged-life-surge-scam-shame"
+          "title": "No. 1 Texas escapes Tennessee with thrilling SEC victory as President Trump watches on from Neyland Stadium",
+          "link": "https://www.foxnews.com/outkick-sports/texas-defense-rocks-tennessee-freshman-qb-strong-sec-victory-trump-attendance"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T17:01:03.895Z"
+      "updatedAt": "2026-09-26T20:56:14.820Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -89,10 +89,22 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T17:01:04.044Z"
+      "updatedAt": "2026-09-26T20:56:14.891Z"
     },
     "The Hill": {
       "items": [
+        {
+          "title": "Live updates: Trump returns to White House after Texas-Tennessee game; Iran's proposal to reopen Strait of Hormuz rejected",
+          "link": "https://thehill.com/homenews/6112836-live-updates-trump-college-football-gop/"
+        },
+        {
+          "title": "Colleges must help America keep the promise it makes to its military",
+          "link": "https://thehill.com/opinion/education/6112413-higher-education-veteran-support-gap/"
+        },
+        {
+          "title": "United in debt: America has become a nation of fake rich people",
+          "link": "https://thehill.com/opinion/finance/6112015-us-split-digital-physical-economies/"
+        },
         {
           "title": "Kehoe says he's 'disappointed' GOP-favored map in Missouri is blocked again",
           "link": "https://thehill.com/homenews/campaign/6113111-kehoe-missouri-map-blocked/"
@@ -100,22 +112,10 @@
         {
           "title": "'America First' means evaluating real cost of our wars — and who pays the ultimate price",
           "link": "https://thehill.com/opinion/national-security/6111713-cost-human-life-wars-choice/"
-        },
-        {
-          "title": "National security becomes Trump’s buzzword for legal fights",
-          "link": "https://thehill.com/regulation/court-battles/6112509-trump-national-security-media-ban/"
-        },
-        {
-          "title": "Ending the roadless rule can help fight forest fires and improve wildlife access",
-          "link": "https://thehill.com/opinion/energy-environment/6111745-rescinding-roadless-conservation-rule/"
-        },
-        {
-          "title": "OpenAI agent made unauthorized attempts to access federal agencies' websites",
-          "link": "https://thehill.com/policy/technology/6113061-openai-access-government-websites/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T17:01:04.431Z"
+      "updatedAt": "2026-09-26T20:56:15.372Z"
     },
     "Ars Technica": {
       "items": [
@@ -141,10 +141,18 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T17:01:04.521Z"
+      "updatedAt": "2026-09-26T20:56:15.599Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "Decap is the man behind the drums behind your favorite song",
+          "link": "https://www.theverge.com/report/1000994/decap-drums-that-knock-interview"
+        },
+        {
+          "title": "Kids turned the comment section of an NPR podcast into a group chat",
+          "link": "https://www.theverge.com/entertainment/1001056/this-american-life-npr-kids-group-chat-comment-section"
+        },
         {
           "title": "OpenAI pauses training of its ‘most capable models’",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause"
@@ -156,18 +164,10 @@
         {
           "title": "Control Resonant is a great game — it’s even better when you read everything",
           "link": "https://www.theverge.com/games/1000818/control-resonant-reading-collectibles-documents-logs"
-        },
-        {
-          "title": "Pokémon card resellers have turned collecting into an online blood sport",
-          "link": "https://www.theverge.com/games/1001002/pokemon-30th-celebration-scalping-resellers"
-        },
-        {
-          "title": "Can &#8216;eSUV&#8217; e-bikes really go from trail to town?",
-          "link": "https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T17:01:04.633Z"
+      "updatedAt": "2026-09-26T20:56:15.745Z"
     },
     "BBC World": {
       "items": [
@@ -176,7 +176,7 @@
           "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Pope praises 'energy and commitment' of young people as huge crowds join open-air Mass in Paris",
+          "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
           "link": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss"
         },
         {
@@ -188,76 +188,76 @@
           "link": "https://www.bbc.co.uk/news/articles/cq4g55r76d9lo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Bangkok roads submerged as flood disaster declared",
-          "link": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "South African white genocide does not exist, new ambassador to US tells BBC",
-          "link": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "German town bans 'stumbling stone' memorials to Nazi victims",
           "link": "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Nor'easter storm brings coastal flooding, as New York and New Jersey declare emergency",
+          "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Bangkok roads submerged as flood disaster declared",
+          "link": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T17:01:04.723Z"
+      "updatedAt": "2026-09-26T20:56:15.925Z"
     },
     "BBC News": {
       "items": [
         {
+          "title": "Burnham announces scheme to help first-time buyers onto housing ladder",
+          "link": "https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Heathrow Airport warns third runway could be delayed by four years",
           "link": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Man City chairman confident club will prove innocence",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "How long can Labour's feel-good factor last?",
-          "link": "https://www.bbc.co.uk/news/articles/cwn8mn0rzkzlo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
           "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Met to re-examine CCTV from Jill Dando murder case",
-          "link": "https://www.bbc.co.uk/news/articles/c60m334grx9vo?at_medium=RSS&at_campaign=rss"
+          "title": "How long can Labour's feel-good factor last?",
+          "link": "https://www.bbc.co.uk/news/articles/cwn8mn0rzkzlo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Republic of Ireland to wear black armbands for Israel game",
           "link": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Watch: Prince Harry says 'kids are happy' in British school after six years in US",
+          "link": "https://www.bbc.co.uk/news/articles/cm5yww993n10o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T17:01:04.744Z"
+      "updatedAt": "2026-09-26T20:56:16.165Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "‘Zombified’ C.D.C., Hobbled by Cuts, Struggles to Fulfill Scientific Mission",
-          "link": "https://www.nytimes.com/2026/09/26/health/cdc-staff-cuts-rfk-jr.html"
-        },
-        {
-          "title": "U.S. Rejects U.N. Declaration on Preparing for Future Pandemics",
-          "link": "https://www.nytimes.com/2026/09/25/us/politics/us-rejects-un-declaration-on-preparing-for-pandemics.html"
-        },
-        {
           "title": "Nor’easter Live Updates: Heavy Rain and Wind Batter Northeast, Bringing Coastal Flooding",
           "link": "https://www.nytimes.com/live/2026/09/26/nyregion/noreaster-storm-rain-nyc-boston"
+        },
+        {
+          "title": "How El Niño Is Shaping Storms on Two Sides of the U.S.",
+          "link": "https://www.nytimes.com/2026/09/26/climate/el-nino-hurricane-noreaster.html"
+        },
+        {
+          "title": "‘Zombified’ C.D.C., Hobbled by Cuts, Struggles to Fulfill Scientific Mission",
+          "link": "https://www.nytimes.com/2026/09/26/health/cdc-staff-cuts-rfk-jr.html"
         },
         {
           "title": "A 7-Day Standoff That Said So Much About Trump and the Media",
           "link": "https://www.nytimes.com/2026/09/26/business/media/trump-white-house-press-ban.html"
         },
         {
-          "title": "White House Blocks CNN From Covering Trump’s Trip to Tennessee",
-          "link": "https://www.nytimes.com/2026/09/25/business/media/white-house-cnn-air-force-one-ban.html"
+          "title": "Trump Rejects Iran’s Cease-Fire Proposal to Reopen Strait of Hormuz",
+          "link": "https://www.nytimes.com/2026/09/26/us/politics/trump-iran-hormuz-strait.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T17:01:05.252Z"
+      "updatedAt": "2026-09-26T20:56:16.305Z"
     }
   },
   "indices": {
@@ -284,8 +284,8 @@
       },
       {
         "name": "Bitcoin",
-        "price": 84101.87,
-        "pct": -2.4026403850519027
+        "price": 84018.04,
+        "pct": -2.499922248778848
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-09-26T17:01:05.510Z"
+    "updatedAt": "2026-09-26T20:56:16.490Z"
   }
 }
