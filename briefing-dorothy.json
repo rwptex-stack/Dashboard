@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-09-26T18:48:19.814Z",
+  "fetchedAt": "2026-09-26T21:41:23.345Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Trump claims stunning casualty numbers in Russia-Ukraine war",
-          "link": "https://www.foxnews.com/politics/trump-reveals-stunning-casualty-numbers-russia-ukraine-war"
+          "title": "Arch Manning does interview with Holly Rowe after controversy over AI slapping video comment",
+          "link": "https://www.foxnews.com/outkick-sports/arch-manning-interview-holly-rowe-controversy-ai-slapping-video-comment"
         },
         {
-          "title": "Former UK Prime Minister Tony Blair warns Europe ‘we don’t win’ in war without US support",
-          "link": "https://www.foxnews.com/media/former-uk-prime-minister-tony-blair-warns-europe-dont-win-war-without-us-support"
+          "title": "Arch Manning revels in cigar smoke: Texas leaves Neyland with win—and a warning for college football",
+          "link": "https://www.foxnews.com/outkick-sports/arch-manning-revels-cigar-smoke-texas-leaves-neyland-win-warning-college-football"
         },
         {
-          "title": "Someone could have opened an account in your name. Check now",
-          "link": "https://www.foxnews.com/tech/someone-could-opened-account-your-name-check-now"
+          "title": "Maren Morris flaunts bikini body in photodump from her girls trip to Bali",
+          "link": "https://www.foxnews.com/entertainment/maren-morris-flaunts-bikini-body-photodump-wellness-trip-bali"
         },
         {
-          "title": "The wildest things celebrity guest picker Johnny Knoxville said on College Gameday",
-          "link": "https://www.foxnews.com/outkick-sports/wildest-things-celebrity-guest-picker-johnny-knoxville-said-college-gameday"
+          "title": "Tigers legend Justin Verlander leaves mound in tears after daughter surprises him during final career start",
+          "link": "https://www.foxnews.com/outkick-sports/tigers-legend-justin-verlander-leaves-mound-tears-daughter-surprises-final-career-start"
         },
         {
-          "title": "Trump's home county hits pause on data centers over environment and electric bill concerns",
-          "link": "https://www.foxnews.com/politics/trumps-home-county-hits-pause-data-centers-environment-electric-bill-concerns"
+          "title": "Shaun Cassidy says teen idol fame trapped him before he made drastic career move at 21",
+          "link": "https://www.foxnews.com/entertainment/shaun-cassidy-teen-idol-fame-trapped-him-drastic-career-move-21"
         },
         {
-          "title": "Your favorite grocery and snack items may have disappeared from store shelves in 2026",
-          "link": "https://www.foxnews.com/food-drink/favorite-grocery-snack-items-may-have-disappeared-store-shelves-2026"
+          "title": "Maher blasts ‘intolerant left’ after Massachusetts lesbian bar faces fury for tweaking COVID-era mask policy",
+          "link": "https://www.foxnews.com/media/maher-blasts-tolerant-left-after-massachusetts-lesbian-bar-faces-fury-tweaking-covid-era-mask-policy"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T18:48:17.484Z"
+      "updatedAt": "2026-09-26T21:41:20.199Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,33 +59,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T18:48:17.550Z"
+      "updatedAt": "2026-09-26T21:41:20.471Z"
     },
     "The Hill": {
       "items": [
+        {
+          "title": "Sunday shows preview: Trump rejects Iran deal after week of high-stakes meetings; GOP clammers to keep Congress",
+          "link": "https://thehill.com/homenews/sunday-talk-shows/6113249-sunday-shows-trump-rejects-iran-proposal/"
+        },
+        {
+          "title": "Election forecasters don't see polling 'sugar-high' Democrats fear — for now",
+          "link": "https://thehill.com/homenews/campaign/6112624-election-forecasters-dont-see-polling-sugar-high-democrats-fear-for-now/"
+        },
+        {
+          "title": "Live updates: Trump returns to White House after Texas-Tennessee game; Iran's proposal to reopen Strait of Hormuz rejected",
+          "link": "https://thehill.com/homenews/6112836-live-updates-trump-college-football-gop/"
+        },
         {
           "title": "Colleges must help America keep the promise it makes to its military",
           "link": "https://thehill.com/opinion/education/6112413-higher-education-veteran-support-gap/"
         },
         {
-          "title": "Live updates: Trump at Texas-Tennessee football game in Knoxville; Iran's proposal to reopen Strait of Hormuz rejected",
-          "link": "https://thehill.com/homenews/6112836-live-updates-trump-college-football-gop/"
-        },
-        {
           "title": "United in debt: America has become a nation of fake rich people",
           "link": "https://thehill.com/opinion/finance/6112015-us-split-digital-physical-economies/"
-        },
-        {
-          "title": "Kehoe says he's 'disappointed' GOP-favored map in Missouri is blocked again",
-          "link": "https://thehill.com/homenews/campaign/6113111-kehoe-missouri-map-blocked/"
-        },
-        {
-          "title": "'America First' means evaluating real cost of our wars — and who pays the ultimate price",
-          "link": "https://thehill.com/opinion/national-security/6111713-cost-human-life-wars-choice/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T18:48:18.099Z"
+      "updatedAt": "2026-09-26T21:41:21.203Z"
     },
     "Ars Technica": {
       "items": [
@@ -111,10 +111,18 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T18:48:18.158Z"
+      "updatedAt": "2026-09-26T21:41:21.339Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "Apple hit with $5.7 billion in damages over haptic patents",
+          "link": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents"
+        },
+        {
+          "title": "Decap is the man behind the drums behind your favorite song",
+          "link": "https://www.theverge.com/report/1000994/decap-drums-that-knock-interview"
+        },
         {
           "title": "Kids turned the comment section of an NPR podcast into a group chat",
           "link": "https://www.theverge.com/entertainment/1001056/this-american-life-npr-kids-group-chat-comment-section"
@@ -126,18 +134,10 @@
         {
           "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
           "link": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising"
-        },
-        {
-          "title": "Control Resonant is a great game — it’s even better when you read everything",
-          "link": "https://www.theverge.com/games/1000818/control-resonant-reading-collectibles-documents-logs"
-        },
-        {
-          "title": "Pokémon card resellers have turned collecting into an online blood sport",
-          "link": "https://www.theverge.com/games/1001002/pokemon-30th-celebration-scalping-resellers"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T18:48:18.265Z"
+      "updatedAt": "2026-09-26T21:41:21.522Z"
     },
     "BBC World": {
       "items": [
@@ -154,29 +154,29 @@
           "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Security lapses at Utah campus where Charlie Kirk was killed, review says",
-          "link": "https://www.bbc.co.uk/news/articles/cq4g55r76d9lo?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "German town bans 'stumbling stone' memorials to Nazi victims",
           "link": "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Nor'easter storm brings coastal flooding, as New York and New Jersey declare emergency",
+          "title": "Nor'easter storm brings coastal flooding as New York and New Jersey declare emergency",
           "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Bangkok roads submerged as flood disaster declared",
-          "link": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss"
+          "title": "Republic of Ireland to wear black armbands for Israel game",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Mother of woman found hanging in tree shocked as police say body was staged",
+          "link": "https://www.bbc.co.uk/news/articles/cq4gmmdl52rgo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T18:48:18.310Z"
+      "updatedAt": "2026-09-26T21:41:21.628Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Burnham announces scheme to help first-time buyers onto housing ladder",
+          "title": "Burnham announces scheme to help first-time buyers on to housing ladder",
           "link": "https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss"
         },
         {
@@ -192,42 +192,42 @@
           "link": "https://www.bbc.co.uk/news/articles/cwn8mn0rzkzlo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Met to re-examine CCTV from Jill Dando murder case",
-          "link": "https://www.bbc.co.uk/news/articles/c60m334grx9vo?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "Republic of Ireland to wear black armbands for Israel game",
           "link": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Watch: Prince Harry says 'kids are happy' in British school after six years in US",
+          "link": "https://www.bbc.co.uk/news/articles/cm5yww993n10o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T18:48:18.550Z"
+      "updatedAt": "2026-09-26T21:41:21.677Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "‘Zombified’ C.D.C., Hobbled by Cuts, Struggles to Fulfill Scientific Mission",
-          "link": "https://www.nytimes.com/2026/09/26/health/cdc-staff-cuts-rfk-jr.html"
-        },
-        {
-          "title": "U.S. Rejects U.N. Declaration on Preparing for Future Pandemics",
-          "link": "https://www.nytimes.com/2026/09/25/us/politics/us-rejects-un-declaration-on-preparing-for-pandemics.html"
-        },
-        {
           "title": "Nor’easter Live Updates: Heavy Rain and Wind Batter Northeast, Bringing Coastal Flooding",
           "link": "https://www.nytimes.com/live/2026/09/26/nyregion/noreaster-storm-rain-nyc-boston"
+        },
+        {
+          "title": "How El Niño Is Shaping Storms on Two Sides of the U.S.",
+          "link": "https://www.nytimes.com/2026/09/26/climate/el-nino-hurricane-noreaster.html"
+        },
+        {
+          "title": "‘Zombified’ C.D.C., Hobbled by Cuts, Struggles to Fulfill Scientific Mission",
+          "link": "https://www.nytimes.com/2026/09/26/health/cdc-staff-cuts-rfk-jr.html"
         },
         {
           "title": "A 7-Day Standoff That Said So Much About Trump and the Media",
           "link": "https://www.nytimes.com/2026/09/26/business/media/trump-white-house-press-ban.html"
         },
         {
-          "title": "White House Blocks CNN From Covering Trump’s Trip to Tennessee",
-          "link": "https://www.nytimes.com/2026/09/25/business/media/white-house-cnn-air-force-one-ban.html"
+          "title": "Trump Rejects Iran’s Cease-Fire Proposal to Reopen Strait of Hormuz",
+          "link": "https://www.nytimes.com/2026/09/26/us/politics/trump-iran-hormuz-strait.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T18:48:18.584Z"
+      "updatedAt": "2026-09-26T21:41:21.747Z"
     },
     "ARTNews": {
       "items": [
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T18:48:18.844Z"
+      "updatedAt": "2026-09-26T21:41:21.997Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T18:48:18.906Z"
+      "updatedAt": "2026-09-26T21:41:22.311Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T18:48:19.757Z"
+      "updatedAt": "2026-09-26T21:41:23.180Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T18:48:19.814Z"
+      "updatedAt": "2026-09-26T21:41:23.345Z"
     }
   }
 }
