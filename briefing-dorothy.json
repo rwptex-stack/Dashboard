@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-09-26T06:47:15.417Z",
+  "fetchedAt": "2026-09-26T11:55:00.632Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Reigning champion Indiana Hoosiers survive major scare from Northwestern in Big Ten opener",
-          "link": "https://www.foxnews.com/outkick-sports/reigning-champion-indiana-hoosiers-survive-major-scare-northwestern-big-ten-opener"
+          "title": "PRESIDENT PAZ: Bolivia has rejected socialism and is open for business",
+          "link": "https://www.foxnews.com/opinion/president-paz-bolivia-rejected-socialism-open-business"
         },
         {
-          "title": "Phillies shut out by Rays in opener of final regular-season series, pushing playoff hopes to the brink",
-          "link": "https://www.foxnews.com/outkick-sports/phillies-shut-out-rays-opener-final-regular-season-series-pushing-playoff-hopes-brink"
+          "title": "Legendary agent Leigh Steinberg explains why fans should not be concerned about this 0-2 team",
+          "link": "https://www.foxnews.com/outkick-sports/legendary-agent-leigh-steinberg-explains-why-fans-should-not-be-concerned-0-2-team"
         },
         {
-          "title": "Doctor reveals '10-year rule' for evaluating brain fog and dementia symptoms",
-          "link": "https://www.foxnews.com/health/doctor-reveals-10-year-rule-evaluating-brain-fog-dementia-symptoms"
+          "title": "NFL legend Brian Urlacher rips Colin Kaepernick, says protests wouldn't have flown in his locker room",
+          "link": "https://www.foxnews.com/outkick-sports/nfl-legend-brian-urlacher-rips-colin-kaepernick-says-protests-wouldnt-have-flown-his-locker-room"
         },
         {
-          "title": "Lynx coach Cheryl Reeve voices support for the trans community again after regular season finale vs Fever",
-          "link": "https://www.foxnews.com/outkick-sports/lynx-coach-cheryl-reeve-voices-support-trans-community-regular-season-finale-vs-fever"
+          "title": "Put down those textbooks and turn off the screens. Here is a great way for kids to learn",
+          "link": "https://www.foxnews.com/opinion/put-down-textbooks-turn-off-screens-great-way-kids-learn"
         },
         {
-          "title": "Fulton Sheen became a TV sensation preaching faith, morality and warnings Michael Knowles says still resonate",
-          "link": "https://www.foxnews.com/politics/fulton-sheen-tv-sensation-preaching-faith-morality-warnings-michael-knowles-says-still-resonate"
+          "title": "Wave of overlooked 'left-wing' lawsuits could come with an unexpected price tag for Americans",
+          "link": "https://www.foxnews.com/politics/wave-overlooked-left-wing-lawsuits-unexpected-price-tag-americans"
         },
         {
-          "title": "WATCH: Former Dem Lt Gov reveals why he resigned after sexual harassment probe rocked state",
-          "link": "https://www.foxnews.com/politics/former-dem-lt-gov-reveals-why-he-resigned-after-sexual-harassment-probe-rocked-state"
+          "title": "Mistress may have handed prosecutors missing ‘why’ in ‘American Idol’ alum’s wife murder case: expert",
+          "link": "https://www.foxnews.com/us/mistress-may-handed-prosecutors-missing-why-american-idol-alum-wife-murder-case-expert"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T06:47:14.026Z"
+      "updatedAt": "2026-09-26T11:54:58.273Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,10 +59,22 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T06:47:14.235Z"
+      "updatedAt": "2026-09-26T11:54:58.512Z"
     },
     "The Hill": {
       "items": [
+        {
+          "title": "Trump faces growing GOP dissent in heartland as policies bite",
+          "link": "https://thehill.com/homenews/administration/6111406-republicans-break-trump-iran-war/"
+        },
+        {
+          "title": "Trump's polls sink further in warning sign for GOP",
+          "link": "https://thehill.com/homenews/administration/6112712-trump-approval-ratings-midterm-elections/"
+        },
+        {
+          "title": "Congress kicks AI fight down the road as lawmakers demand action",
+          "link": "https://thehill.com/homenews/house/6112131-lawmakers-missed-ai-deadline/"
+        },
         {
           "title": "New York, New Jersey declare states of emergency ahead of nor'easter",
           "link": "https://thehill.com/homenews/state-watch/6112822-ny-nj-noreaster-declare-emergency/"
@@ -70,22 +82,10 @@
         {
           "title": "CNN says its reporters were barred from joining press pool on Air Force One",
           "link": "https://thehill.com/media/6112790-trump-cnn-barred-air-force-one/"
-        },
-        {
-          "title": "Trump rescinds nearly $1B in federal funding, bypassing congressional approval",
-          "link": "https://thehill.com/homenews/administration/6112779-trump-cancels-billion-federal-funding/"
-        },
-        {
-          "title": "TikTok settles for over $100 million in mental health lawsuit, Alabama AG says",
-          "link": "https://thehill.com/regulation/court-battles/6112693-tiktok-alabama-lawsuit-settlement/"
-        },
-        {
-          "title": "GOP senators not happy with Trump's embrace of Xi after China helped Iran",
-          "link": "https://thehill.com/policy/defense/overnights/6112699-gop-senators-dismay-trump-xi-welcome/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T06:47:14.387Z"
+      "updatedAt": "2026-09-26T11:54:59.059Z"
     },
     "Ars Technica": {
       "items": [
@@ -94,7 +94,7 @@
           "link": "https://arstechnica.com/health/2026/09/can-trump-ever-be-wrong-his-pick-to-lead-fda-refused-to-say/"
         },
         {
-          "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+          "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
           "link": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/"
         },
         {
@@ -111,10 +111,14 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T06:47:14.515Z"
+      "updatedAt": "2026-09-26T11:54:59.120Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "Can &#8216;eSUV&#8217; e-bikes really go from trail to town?",
+          "link": "https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox"
+        },
         {
           "title": "Roku&#8217;s first OLED TVs are up to $400 off, starting at $699",
           "link": "https://www.theverge.com/gadgets/1000859/roku-pro-series-oled-nothing-phone-4a-pro-deal-sale"
@@ -130,81 +134,85 @@
         {
           "title": "Tesla&#8217;s Optimus robot is going through growing pains",
           "link": "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands"
-        },
-        {
-          "title": "Meta makes the Muse filesystem even more accessible",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T06:47:14.632Z"
+      "updatedAt": "2026-09-26T11:54:59.225Z"
     },
     "BBC World": {
       "items": [
-        {
-          "title": "OpenAI bots meddled with multiple US government agency sites",
-          "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss"
-        },
         {
           "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
           "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
-          "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss"
+          "title": "OpenAI bots meddled with multiple US government agency sites",
+          "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "At least two dead after explosion destroys building close to Acropolis in Athens",
+          "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Bangkok roads submerged as flood disaster declared",
+          "link": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "South African white genocide does not exist, new ambassador to US tells BBC",
           "link": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
-          "link": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "White House bars CNN from travelling with Trump on Air Force One",
-          "link": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "Black woman found hanging from tree was dead before body was 'staged', police say",
           "link": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
+          "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T06:47:14.668Z"
+      "updatedAt": "2026-09-26T11:54:59.295Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Clubs seek legal advice after Man City found guilty over financial rule breaches",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss"
+          "title": "Man City legal fight could spiral out of control, former Premier League club executive warns",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "The computer hacker who tried to take down Man City",
           "link": "https://www.bbc.co.uk/sport/football/articles/cwywld5v28jo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "OpenAI bots meddled with multiple US government agency sites",
-          "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
           "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "E-bikes seized by police sold on at auction, BBC finds",
+          "title": "Rayner criticises visa rule proposals ahead of Labour conference",
+          "link": "https://www.bbc.co.uk/news/articles/cmx2zz035q99o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "E-motorbikes seized by police sold on at auction, BBC finds",
           "link": "https://www.bbc.co.uk/news/articles/cm86xn6775z3o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
-          "link": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss"
+          "title": "Republic of Ireland news conference delayed before controversial Israel game",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c962jjl18g3ro?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T06:47:14.682Z"
+      "updatedAt": "2026-09-26T11:54:59.315Z"
     },
     "NY Times": {
       "items": [
+        {
+          "title": "‘Zombified’ C.D.C., Hobbled by Cuts, Struggles to Fulfill Scientific Mission",
+          "link": "https://www.nytimes.com/2026/09/26/health/cdc-staff-cuts-rfk-jr.html"
+        },
+        {
+          "title": "U.S. Rejects U.N. Declaration on Preparing for Future Pandemics",
+          "link": "https://www.nytimes.com/2026/09/25/us/politics/us-rejects-un-declaration-on-preparing-for-pandemics.html"
+        },
         {
           "title": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
           "link": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html"
@@ -214,20 +222,12 @@
           "link": "https://www.nytimes.com/2026/09/25/technology/openai-hugging-face-hack.html"
         },
         {
-          "title": "His Novel Had a Shot at a Top Book Prize. Then Someone Ran an A.I. Test.",
-          "link": "https://www.nytimes.com/2026/09/25/world/europe/thelyson-orelien-ai-canada-haiti-france.html"
-        },
-        {
-          "title": "As Xi Leaves Washington, Divisions Still Simmer Beneath the Surface",
-          "link": "https://www.nytimes.com/2026/09/25/us/politics/trump-xi-state-visit.html"
-        },
-        {
-          "title": "China’s Xi Snubs a Troubled U.N. for Trump, Overshadowing Its Big Week",
-          "link": "https://www.nytimes.com/2026/09/25/us/politics/trump-china-united-nations.html"
+          "title": "A 7-Day Standoff That Said So Much About Trump and the Media",
+          "link": "https://www.nytimes.com/2026/09/26/business/media/trump-white-house-press-ban.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T06:47:14.776Z"
+      "updatedAt": "2026-09-26T11:54:59.455Z"
     },
     "ARTNews": {
       "items": [
@@ -257,10 +257,14 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T06:47:14.943Z"
+      "updatedAt": "2026-09-26T11:54:59.567Z"
     },
     "Hyperallergic": {
       "items": [
+        {
+          "title": "Thanks, I’m Just Looking",
+          "link": "https://hyperallergic.com/thanks-im-just-looking/"
+        },
         {
           "title": "No One Is Reading, Except at the New York Art Book Fair",
           "link": "https://hyperallergic.com/no-one-is-reading-except-at-the-new-york-art-book-fair/"
@@ -280,17 +284,17 @@
         {
           "title": "A View From the Easel",
           "link": "https://hyperallergic.com/a-view-from-the-easel-356/"
-        },
-        {
-          "title": "Spring Break Art Show Tackles Life's Crushing Burdens",
-          "link": "https://hyperallergic.com/spring-break-art-show-tackles-lifes-crushing-burdens/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T06:47:14.998Z"
+      "updatedAt": "2026-09-26T11:54:59.772Z"
     },
     "Contemporary Art Daily": {
       "items": [
+        {
+          "title": "Yeh Shih-Chiang at Misako & Rosen",
+          "link": "https://www.contemporaryartdaily.com/project/yeh-shih-chiang-at-misako-rosen-tokyo-104604?source=rss"
+        },
         {
           "title": "Lin May Saeed at Meyer Riegger",
           "link": "https://www.contemporaryartdaily.com/project/lin-may-saeed-at-meyer-riegger-berlin-99719?source=rss"
@@ -310,14 +314,10 @@
         {
           "title": "Announcement",
           "link": ""
-        },
-        {
-          "title": "Sara Greenberger Rafferty at Halsey McKay",
-          "link": "https://www.contemporaryartdaily.com/project/sara-greenberger-rafferty-at-halsey-mckay-east-hampton-101765?source=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T06:47:15.309Z"
+      "updatedAt": "2026-09-26T11:55:00.517Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T06:47:15.417Z"
+      "updatedAt": "2026-09-26T11:55:00.632Z"
     }
   }
 }
