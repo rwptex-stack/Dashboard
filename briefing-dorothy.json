@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-09-26T21:41:23.345Z",
+  "fetchedAt": "2026-09-27T00:00:16.484Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Arch Manning does interview with Holly Rowe after controversy over AI slapping video comment",
-          "link": "https://www.foxnews.com/outkick-sports/arch-manning-interview-holly-rowe-controversy-ai-slapping-video-comment"
+          "title": "Enes Freedom rips Cheryl Reeve for saying women's sports advocates 'don’t want transgender people to exist'",
+          "link": "https://www.foxnews.com/outkick-sports/enes-freedom-rips-cheryl-reeve-for-saying-womens-sports-advocates-dont-want-transgender-people-to-exist"
         },
         {
-          "title": "Arch Manning revels in cigar smoke: Texas leaves Neyland with win—and a warning for college football",
-          "link": "https://www.foxnews.com/outkick-sports/arch-manning-revels-cigar-smoke-texas-leaves-neyland-win-warning-college-football"
+          "title": "Pope Leo draws staggering 800,000 faithful to heart of Paris for massive outdoor Mass",
+          "link": "https://www.foxnews.com/world/pope-leo-draws-staggering-800000-faithful-heart-paris-massive-outdoor-mass"
         },
         {
-          "title": "Maren Morris flaunts bikini body in photodump from her girls trip to Bali",
-          "link": "https://www.foxnews.com/entertainment/maren-morris-flaunts-bikini-body-photodump-wellness-trip-bali"
+          "title": "Ben Affleck admits his teenager roasted his dating history while at dinner",
+          "link": "https://www.foxnews.com/entertainment/ben-affleck-admits-teenager-roasted-dating-history-dinner"
         },
         {
-          "title": "Tigers legend Justin Verlander leaves mound in tears after daughter surprises him during final career start",
-          "link": "https://www.foxnews.com/outkick-sports/tigers-legend-justin-verlander-leaves-mound-tears-daughter-surprises-final-career-start"
+          "title": "Civilian detained after 'violently engaging' security personnel at Florida Air Force base: report",
+          "link": "https://www.foxnews.com/us/civilian-detained-violently-engaging-security-personnel-florida-air-force-base"
         },
         {
-          "title": "Shaun Cassidy says teen idol fame trapped him before he made drastic career move at 21",
-          "link": "https://www.foxnews.com/entertainment/shaun-cassidy-teen-idol-fame-trapped-him-drastic-career-move-21"
+          "title": "Texas dropped some celebrations against Tennessee that were about as unhinged as they come",
+          "link": "https://www.foxnews.com/outkick-sports/texas-dropped-celebrations-tennessee-unhinged"
         },
         {
-          "title": "Maher blasts ‘intolerant left’ after Massachusetts lesbian bar faces fury for tweaking COVID-era mask policy",
-          "link": "https://www.foxnews.com/media/maher-blasts-tolerant-left-after-massachusetts-lesbian-bar-faces-fury-tweaking-covid-era-mask-policy"
+          "title": "Costco membership offers hidden savings beyond groceries: 5 perks to know",
+          "link": "https://www.foxnews.com/food-drink/costco-membership-offers-hidden-savings-beyond-groceries-5-perks-know"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T21:41:20.199Z"
+      "updatedAt": "2026-09-27T00:00:11.754Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,10 +59,18 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T21:41:20.471Z"
+      "updatedAt": "2026-09-27T00:00:12.193Z"
     },
     "The Hill": {
       "items": [
+        {
+          "title": "Trump says he ended Biden electric vehicle rule, updated fuel economy standards",
+          "link": "https://thehill.com/homenews/administration/6113324-trump-eliminates-biden-ev-mandate/"
+        },
+        {
+          "title": "Former Kennedy Center employees claim officials halted repairs months prior to closure",
+          "link": "https://thehill.com/homenews/administration/6113290-kennedy-center-whistleblower-letter-repairs/"
+        },
         {
           "title": "Sunday shows preview: Trump rejects Iran deal after week of high-stakes meetings; GOP clammers to keep Congress",
           "link": "https://thehill.com/homenews/sunday-talk-shows/6113249-sunday-shows-trump-rejects-iran-proposal/"
@@ -74,18 +82,10 @@
         {
           "title": "Live updates: Trump returns to White House after Texas-Tennessee game; Iran's proposal to reopen Strait of Hormuz rejected",
           "link": "https://thehill.com/homenews/6112836-live-updates-trump-college-football-gop/"
-        },
-        {
-          "title": "Colleges must help America keep the promise it makes to its military",
-          "link": "https://thehill.com/opinion/education/6112413-higher-education-veteran-support-gap/"
-        },
-        {
-          "title": "United in debt: America has become a nation of fake rich people",
-          "link": "https://thehill.com/opinion/finance/6112015-us-split-digital-physical-economies/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T21:41:21.203Z"
+      "updatedAt": "2026-09-27T00:00:13.241Z"
     },
     "Ars Technica": {
       "items": [
@@ -111,7 +111,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T21:41:21.339Z"
+      "updatedAt": "2026-09-27T00:00:13.447Z"
     },
     "The Verge": {
       "items": [
@@ -137,7 +137,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T21:41:21.522Z"
+      "updatedAt": "2026-09-27T00:00:13.596Z"
     },
     "BBC World": {
       "items": [
@@ -158,7 +158,7 @@
           "link": "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Nor'easter storm brings coastal flooding as New York and New Jersey declare emergency",
+          "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
           "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss"
         },
         {
@@ -171,13 +171,21 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T21:41:21.628Z"
+      "updatedAt": "2026-09-27T00:00:13.988Z"
     },
     "BBC News": {
       "items": [
         {
           "title": "Burnham announces scheme to help first-time buyers on to housing ladder",
           "link": "https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Faisal Islam: The two big calls the chancellor has to make ahead of the Budget",
+          "link": "https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Court of Appeal overturns ban on Drumcree parade",
+          "link": "https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Heathrow Airport warns third runway could be delayed by four years",
@@ -188,25 +196,17 @@
           "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "How long can Labour's feel-good factor last?",
-          "link": "https://www.bbc.co.uk/news/articles/cwn8mn0rzkzlo?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "Republic of Ireland to wear black armbands for Israel game",
           "link": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Watch: Prince Harry says 'kids are happy' in British school after six years in US",
-          "link": "https://www.bbc.co.uk/news/articles/cm5yww993n10o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T21:41:21.677Z"
+      "updatedAt": "2026-09-27T00:00:14.125Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "Nor’easter Live Updates: Heavy Rain and Wind Batter Northeast, Bringing Coastal Flooding",
+          "title": "Heavy Rain and Wind Batter Northeast, Bringing Coastal Flooding",
           "link": "https://www.nytimes.com/live/2026/09/26/nyregion/noreaster-storm-rain-nyc-boston"
         },
         {
@@ -214,20 +214,20 @@
           "link": "https://www.nytimes.com/2026/09/26/climate/el-nino-hurricane-noreaster.html"
         },
         {
+          "title": "Trump Administration Plans to Gut Clean Car Rules",
+          "link": "https://www.nytimes.com/2026/09/26/climate/trump-fuel-economy-car-rules.html"
+        },
+        {
           "title": "‘Zombified’ C.D.C., Hobbled by Cuts, Struggles to Fulfill Scientific Mission",
           "link": "https://www.nytimes.com/2026/09/26/health/cdc-staff-cuts-rfk-jr.html"
         },
         {
-          "title": "A 7-Day Standoff That Said So Much About Trump and the Media",
-          "link": "https://www.nytimes.com/2026/09/26/business/media/trump-white-house-press-ban.html"
-        },
-        {
-          "title": "Trump Rejects Iran’s Cease-Fire Proposal to Reopen Strait of Hormuz",
-          "link": "https://www.nytimes.com/2026/09/26/us/politics/trump-iran-hormuz-strait.html"
+          "title": "TV Networks to Resume Trump Coverage, Even as White House Excludes CNN",
+          "link": "https://www.nytimes.com/2026/09/26/business/media/trump-white-house-tv-pool-cnn.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T21:41:21.747Z"
+      "updatedAt": "2026-09-27T00:00:14.294Z"
     },
     "ARTNews": {
       "items": [
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T21:41:21.997Z"
+      "updatedAt": "2026-09-27T00:00:14.879Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T21:41:22.311Z"
+      "updatedAt": "2026-09-27T00:00:15.321Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T21:41:23.180Z"
+      "updatedAt": "2026-09-27T00:00:16.220Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T21:41:23.345Z"
+      "updatedAt": "2026-09-27T00:00:16.484Z"
     }
   }
 }
