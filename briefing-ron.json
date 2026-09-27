@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-26T23:30:32.830Z",
+  "fetchedAt": "2026-09-27T04:55:03.943Z",
   "feeds": {
     "MarketWatch": {
       "items": [
@@ -29,37 +29,37 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T23:30:30.331Z"
+      "updatedAt": "2026-09-27T04:55:02.819Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Ben Affleck admits his teenager roasted his dating history while at dinner",
-          "link": "https://www.foxnews.com/entertainment/ben-affleck-admits-teenager-roasted-dating-history-dinner"
+          "title": "Hank Brown's last-second touchdown pass lifts Iowa to 20-19 win over Michigan in Big Ten",
+          "link": "https://www.foxnews.com/outkick-sports/hank-browns-last-second-touchdown-pass-lifts-iowa-20-19-win-michigan-big-ten"
         },
         {
-          "title": "Civilian detained after 'violently engaging' security personnel at Florida Air Force base: report",
-          "link": "https://www.foxnews.com/us/civilian-detained-violently-engaging-security-personnel-florida-air-force-base"
+          "title": "Israeli UN envoy's Starlink video reaches millions, with nearly 40% of Instagram viewers in Iran",
+          "link": "https://www.foxnews.com/world/israeli-un-envoy-starlink-video-reaches-millions-nearly-40-percent-instagram-viewers-iran"
         },
         {
-          "title": "Texas dropped some celebrations against Tennessee that were about as unhinged as they come",
-          "link": "https://www.foxnews.com/outkick-sports/texas-dropped-celebrations-tennessee-unhinged"
+          "title": "Oregon Ducks QB Dante Moore carted off the field after a vicious hit to the head against USC",
+          "link": "https://www.foxnews.com/outkick-sports/oregon-ducks-qb-dante-moore-carted-off-field-vicious-hit-head-usc"
         },
         {
-          "title": "Costco membership offers hidden savings beyond groceries: 5 perks to know",
-          "link": "https://www.foxnews.com/food-drink/costco-membership-offers-hidden-savings-beyond-groceries-5-perks-know"
+          "title": "Hiker falls up to 1,000 feet to his death day after another body found on same mountain",
+          "link": "https://www.foxnews.com/us/hiker-falls-1000-feet-death-day-after-another-body-found-same-mountain"
         },
         {
-          "title": "Arch Manning does interview with Holly Rowe after controversy over AI slapping video comment",
-          "link": "https://www.foxnews.com/outkick-sports/arch-manning-interview-holly-rowe-controversy-ai-slapping-video-comment"
+          "title": "Florida drops impressive offensive performance to pull off massive win over No. 4 Ole Miss",
+          "link": "https://www.foxnews.com/outkick-sports/florida-drops-impressive-offensive-performance-pull-off-massive-win-no-4-ole-miss"
         },
         {
-          "title": "Arch Manning revels in cigar smoke: Texas leaves Neyland with win—and a warning for college football",
-          "link": "https://www.foxnews.com/outkick-sports/arch-manning-revels-cigar-smoke-texas-leaves-neyland-win-warning-college-football"
+          "title": "Enes Freedom rips Cheryl Reeve for saying women's sports advocates 'don’t want transgender people to exist'",
+          "link": "https://www.foxnews.com/outkick-sports/enes-freedom-rips-cheryl-reeve-for-saying-womens-sports-advocates-dont-want-transgender-people-to-exist"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T23:30:30.605Z"
+      "updatedAt": "2026-09-27T04:55:02.903Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -89,10 +89,22 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T23:30:30.820Z"
+      "updatedAt": "2026-09-27T04:55:03.182Z"
     },
     "The Hill": {
       "items": [
+        {
+          "title": "Fetterman defends political identity, weighs potential role as 51st senator",
+          "link": "https://thehill.com/homenews/senate/6113446-fetterman-gop-speculation-51st-democrat-midterms/"
+        },
+        {
+          "title": "Graham, Andrews neck and neck in South Carolina Senate race: Poll",
+          "link": "https://thehill.com/homenews/campaign/6113414-graham-andrews-south-carolina-poll-close/"
+        },
+        {
+          "title": "Trump slams reporting on removal of his endorsements from GOP candidate's website",
+          "link": "https://thehill.com/homenews/administration/6113353-trump-denies-byron-donalds-endorsement-story/"
+        },
         {
           "title": "Trump says he ended Biden electric vehicle rule, updated fuel economy standards",
           "link": "https://thehill.com/homenews/administration/6113324-trump-eliminates-biden-ev-mandate/"
@@ -100,22 +112,10 @@
         {
           "title": "Former Kennedy Center employees claim officials halted repairs months prior to closure",
           "link": "https://thehill.com/homenews/administration/6113290-kennedy-center-whistleblower-letter-repairs/"
-        },
-        {
-          "title": "Sunday shows preview: Trump rejects Iran deal after week of high-stakes meetings; GOP clammers to keep Congress",
-          "link": "https://thehill.com/homenews/sunday-talk-shows/6113249-sunday-shows-trump-rejects-iran-proposal/"
-        },
-        {
-          "title": "Election forecasters don't see polling 'sugar-high' Democrats fear — for now",
-          "link": "https://thehill.com/homenews/campaign/6112624-election-forecasters-dont-see-polling-sugar-high-democrats-fear-for-now/"
-        },
-        {
-          "title": "Live updates: Trump returns to White House after Texas-Tennessee game; Iran's proposal to reopen Strait of Hormuz rejected",
-          "link": "https://thehill.com/homenews/6112836-live-updates-trump-college-football-gop/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T23:30:31.472Z"
+      "updatedAt": "2026-09-27T04:55:03.507Z"
     },
     "Ars Technica": {
       "items": [
@@ -141,7 +141,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T23:30:31.627Z"
+      "updatedAt": "2026-09-27T04:55:03.563Z"
     },
     "The Verge": {
       "items": [
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T23:30:31.788Z"
+      "updatedAt": "2026-09-27T04:55:03.666Z"
     },
     "BBC World": {
       "items": [
@@ -201,10 +201,14 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T23:30:31.892Z"
+      "updatedAt": "2026-09-27T04:55:03.693Z"
     },
     "BBC News": {
       "items": [
+        {
+          "title": "Controversial Orange Order march to go ahead for first time in nearly 30 years after late night drama",
+          "link": "https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "Burnham announces scheme to help first-time buyers on to housing ladder",
           "link": "https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss"
@@ -214,16 +218,12 @@
           "link": "https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Court of Appeal overturns ban on Drumcree parade",
-          "link": "https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss"
+          "title": "Iran says it will wait for official US response after Trump rejects Strait of Hormuz proposal",
+          "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Heathrow Airport warns third runway could be delayed by four years",
           "link": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-          "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Republic of Ireland to wear black armbands for Israel game",
@@ -231,7 +231,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T23:30:32.107Z"
+      "updatedAt": "2026-09-27T04:55:03.703Z"
     },
     "NY Times": {
       "items": [
@@ -244,20 +244,20 @@
           "link": "https://www.nytimes.com/2026/09/26/climate/el-nino-hurricane-noreaster.html"
         },
         {
+          "title": "Likely Piece of 1884 Shipwreck Washes Ashore in Nantucket During Nor’easter",
+          "link": "https://www.nytimes.com/2026/09/26/nyregion/shipwreck-nantucket-noreaster.html"
+        },
+        {
+          "title": "TV Networks to Resume Trump Coverage, Even as White House Excludes CNN",
+          "link": "https://www.nytimes.com/2026/09/26/business/media/trump-white-house-tv-pool-cnn.html"
+        },
+        {
           "title": "Trump Administration Plans to Gut Clean Car Rules",
           "link": "https://www.nytimes.com/2026/09/26/climate/trump-fuel-economy-car-rules.html"
-        },
-        {
-          "title": "‘Zombified’ C.D.C., Hobbled by Cuts, Struggles to Fulfill Scientific Mission",
-          "link": "https://www.nytimes.com/2026/09/26/health/cdc-staff-cuts-rfk-jr.html"
-        },
-        {
-          "title": "A 7-Day Standoff That Said So Much About Trump and the Media",
-          "link": "https://www.nytimes.com/2026/09/26/business/media/trump-white-house-press-ban.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T23:30:32.248Z"
+      "updatedAt": "2026-09-27T04:55:03.743Z"
     }
   },
   "indices": {
@@ -280,12 +280,12 @@
       {
         "name": "Gold",
         "price": 4321.2,
-        "pct": -1.4302333538629948
+        "pct": -1.2613106663010654
       },
       {
         "name": "Bitcoin",
-        "price": 84371.45,
-        "pct": -2.0898019641583137
+        "price": 84309.52,
+        "pct": -0.08709099142112932
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-09-26T23:30:32.830Z"
+    "updatedAt": "2026-09-27T04:55:03.943Z"
   }
 }
