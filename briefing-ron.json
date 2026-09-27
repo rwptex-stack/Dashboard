@@ -1,124 +1,128 @@
 {
-  "fetchedAt": "2026-09-27T10:28:15.927Z",
+  "fetchedAt": "2026-09-27T15:35:13.578Z",
   "feeds": {
     "MarketWatch": {
       "items": [
         {
-          "title": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
-          "link": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories"
+          "title": "My friend is terminally ill. Should she sell her rental home and pay $100,000 in capital gains?",
+          "link": "https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories"
+        },
+        {
+          "title": "I’m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
+          "link": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories"
         },
         {
           "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
           "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories"
         },
         {
-          "title": "From $6 eggs to $50,000 cars, these charts show how inflation has defined the past 5 years",
-          "link": "https://www.marketwatch.com/story/from-6-eggs-to-50-000-cars-these-charts-show-how-inflation-has-defined-the-past-5-years-3c7b9ab9?mod=mw_rss_topstories"
+          "title": "Micron could dethrone Nvidia and become the biggest driver of S&P 500 profit growth",
+          "link": "https://www.marketwatch.com/story/micron-could-dethrone-nvidia-and-become-the-biggest-driver-of-s-p-500-profit-growth-d62e0e68?mod=mw_rss_topstories"
         },
         {
-          "title": "Social Security checks are projected to be cut by $540 a month in just six years",
-          "link": "https://www.marketwatch.com/story/social-security-checks-are-projected-to-be-cut-by-540-a-month-in-just-six-years-a8842912?mod=mw_rss_topstories"
+          "title": "Look closer, and Wall Street’s rally is showing cracks",
+          "link": "https://www.marketwatch.com/story/look-closer-and-wall-streets-rally-is-showing-cracks-94952048?mod=mw_rss_topstories"
         },
         {
-          "title": "A 10% risk-free yield? For some, yes.",
-          "link": "https://www.marketwatch.com/story/a-10-risk-free-yield-for-some-yes-0d1fa51a?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Choosing these AI-exposed college majors could dent your job prospects — and lower your pay",
-          "link": "https://www.marketwatch.com/story/choosing-these-ai-exposed-college-majors-could-dent-your-job-prospects-and-lower-your-pay-b80576cb?mod=mw_rss_topstories"
+          "title": "Why the upcoming jobs report could send 10-year and 30-year Treasury yields surging",
+          "link": "https://www.marketwatch.com/story/why-the-upcoming-jobs-report-could-send-10-year-and-30-year-treasury-yields-surging-67eab4ba?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T10:28:14.940Z"
+      "updatedAt": "2026-09-27T15:35:12.156Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "American Culture Quiz: Test yourself on Taylor's triumph and favorite food findings",
-          "link": "https://www.foxnews.com/lifestyle/american-culture-quiz-test-yourself-taylors-triumph-favorite-food-findings"
+          "title": "Hugh Hefner's 'most sexy' Playboy model reveals how Anna Nicole Smith changed her life",
+          "link": "https://www.foxnews.com/entertainment/hugh-hefners-sexy-playboy-model-reveals-anna-nicole-smith-changed-life"
         },
         {
-          "title": "SCOTUS detention fight could unleash dangerous criminal migrants onto US streets, experts warns",
-          "link": "https://www.foxnews.com/politics/scotus-detention-fight-could-unleash-dangerous-criminal-migrants-us-streets-experts-warn"
+          "title": "Child actor recalls receiving disturbing prison mail from fans during peak of '90s fame",
+          "link": "https://www.foxnews.com/entertainment/child-actor-recalls-receiving-disturbing-prison-mail-from-fans-during-peak-90s-fame"
         },
         {
-          "title": "Lindsay Clancy attorney Kevin Reddington fires back at lone holdout juror's attorney after fiery interview",
-          "link": "https://www.foxnews.com/us/lindsay-clancy-attorney-kevin-reddington-fires-back-lone-holdout-juror-attorney-fiery-interview"
+          "title": "Golf star Tom Kim going from Presidents Cup to Asian Games seeking exemption from military service",
+          "link": "https://www.foxnews.com/outkick-sports/golf-star-tom-kim-presidents-cup-asian-games-seeking-exemption-military-service"
         },
         {
-          "title": "Finland's Stubb credits Trump for pushing Ukraine peace talks while dismissing Russian invasion fears",
-          "link": "https://www.foxnews.com/world/finlands-stubb-credits-trump-pushing-ukraine-peace-talks-while-dismissing-russian-invasion-fears"
+          "title": "Noise cameras are spreading across America",
+          "link": "https://www.foxnews.com/science/noise-cameras-spreading-across-america"
         },
         {
-          "title": "From Gettysburg to Antarctica, military Bibles reveal prayers of families who sent loved ones to war",
-          "link": "https://www.foxnews.com/travel/gettysburg-antarctica-military-bibles-reveal-prayers-families-sent-loved-ones-war"
+          "title": "4 killed, 4 wounded in mass shooting near capital of Caribbean luxury tourism destination",
+          "link": "https://www.foxnews.com/travel/4-killed-4-wounded-mass-shooting-near-capital-caribbean-luxury-tourism-destination"
         },
         {
-          "title": "Massive ICE sweep fuels GOP push to lock Trump immigration crackdown into law",
-          "link": "https://www.foxnews.com/politics/massive-ice-sweep-fuels-gop-push-lock-trump-immigration-crackdown-law"
+          "title": "First-ever images reveal mysterious remains of town swallowed by sea 700 years ago",
+          "link": "https://www.foxnews.com/travel/first-ever-images-reveal-mysterious-remains-town-swallowed-sea-700-years-ago"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T10:28:15.101Z"
+      "updatedAt": "2026-09-27T15:35:12.260Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "The Left's Blind Spot When It Comes to Schools",
-          "link": "https://www.realclearpolitics.com/2026/09/26/the_lefts_blind_spot_when_it_comes_to_schools_712164.html"
+          "title": "Trump's Tirade Over Press Ban Reveals Achilles' Heel",
+          "link": "https://www.realclearpolitics.com/2026/09/27/trumps_tirade_over_press_ban_reveals_achilles_heel_712318.html"
         },
         {
-          "title": "What Does El-Sayed Believe?",
-          "link": "https://www.realclearpolitics.com/2026/09/26/what_does_el-sayed_believe_712184.html"
+          "title": "Why Trust Democrats on Fuel Prices or Healthcare?",
+          "link": "https://www.realclearpolitics.com/2026/09/27/why_trust_democrats_on_fuel_prices_or_healthcare_712016.html"
         },
         {
-          "title": "Walz's Fall From VP Nominee to Democrat Liability",
-          "link": "https://www.realclearpolitics.com/2026/09/26/walzs_fall_from_vp_nominee_to_democrat_liability_712027.html"
+          "title": "Blackout: The Failure of the Million Dollar Classroom",
+          "link": "https://www.realclearpolitics.com/2026/09/27/blackout_the_failure_of_the_million_dollar_classroom_712306.html"
         },
         {
-          "title": "One Thing GOP's Massive Midterms Cash Pile Can't Buy",
-          "link": "https://www.realclearpolitics.com/2026/09/26/one_thing_gops_massive_midterms_cash_pile_cant_buy_712163.html"
+          "title": "Reclaiming Liberal Education in America",
+          "link": "https://www.realclearpolitics.com/articles/2026/09/27/reclaiming_liberal_education_in_america_preface_154538.html"
         },
         {
-          "title": "What the White House Got Out of Xi's Visit",
-          "link": "https://www.realclearpolitics.com/articles/2026/09/25/what_the_white_house_got_out_of_xis_visit_154539.html"
+          "title": "The U.S.-China Tectonic Plates Have Shifted",
+          "link": "https://www.realclearpolitics.com/2026/09/27/the_us-china_tectonic_plates_have_shifted_712317.html"
         },
         {
-          "title": "Mamdani Can Play Nice, Not Schumer and Jeffries?",
-          "link": "https://www.realclearpolitics.com/2026/09/26/mamdani_can_play_nice_not_schumer_and_jeffries_712038.html"
+          "title": "How Communism Kills Kindness",
+          "link": "https://www.realclearpolitics.com/2026/09/27/how_communism_kills_kindness_712310.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T10:28:15.163Z"
+      "updatedAt": "2026-09-27T15:35:12.355Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Jewish Democrats contend with another glass ceiling: Their religion",
-          "link": "https://thehill.com/homenews/campaign/6111968-ossoff-jewish-glass-ceiling/"
+          "title": "Tillis says Trump endorsing Paxton over Cornyn was 'colossal mistake'",
+          "link": "https://thehill.com/homenews/senate/6113713-tillis-blasts-trump-paxton-endorsement/"
         },
         {
-          "title": "Supreme Court’s liberals see dash of progress on emergency appeals, or ‘shadow docket’",
-          "link": "https://thehill.com/regulation/court-battles/6112423-supreme-court-explaining-emergency-decisions/"
+          "title": "Permanent daylight saving time: How would your state be impacted?",
+          "link": "https://thehill.com/policy/energy-environment/6090862-permanent-daylight-saving-time-how-would-your-state-be-impacted/"
         },
         {
-          "title": "The Memo: Trump’s media ban overshadows Xi visit as midterms clock runs down",
-          "link": "https://thehill.com/homenews/administration/6112681-trump-xi-visit-media-clash/"
+          "title": "The vital vaccine shield America cannot afford to lose",
+          "link": "https://thehill.com/opinion/healthcare/6111550-rfk-jr-autism-conspiracy-claims/"
         },
         {
-          "title": "Russia intensifies hybrid war beyond Ukraine, rattling Europe",
-          "link": "https://thehill.com/policy/international/6112252-russia-escalates-nato-hybrid-warfare/"
+          "title": "Jim Jordan predicts third Trump impeachment if Democrats take control of House",
+          "link": "https://thehill.com/homenews/house/6113638-jim-jordan-trump-impeachment-prediction/"
         },
         {
-          "title": "Fetterman defends political identity, weighs potential role as 51st senator",
-          "link": "https://thehill.com/homenews/senate/6113446-fetterman-gop-speculation-51st-democrat-midterms/"
+          "title": "Waltz says Iranians asked for 'everything up front' before Trump rejected ceasefire",
+          "link": "https://thehill.com/homenews/administration/6113670-trump-rejects-iranian-ceasefire/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T10:28:15.669Z"
+      "updatedAt": "2026-09-27T15:35:12.732Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "How the Smithsonian became the latest front in Trump’s culture war",
+          "link": "https://arstechnica.com/tech-policy/2026/09/how-the-smithsonian-became-the-latest-front-in-trumps-culture-war/"
+        },
         {
           "title": "Tesla’s big electric truck faces an even bigger infrastructure challenge",
           "link": "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/"
@@ -134,17 +138,25 @@
         {
           "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
           "link": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/"
-        },
-        {
-          "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
-          "link": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T10:28:15.725Z"
+      "updatedAt": "2026-09-27T15:35:12.790Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "Why OLPC’s $100 laptop never stood a chance",
+          "link": "https://www.theverge.com/podcast/1000517/why-olpcs-100-laptop-never-stood-a-chance"
+        },
+        {
+          "title": "Googlebooks might be the real deal",
+          "link": "https://www.theverge.com/tech/1000424/googlebooks-meta-ray-ban-audio-control-resonant-microsoft-surface-mouse"
+        },
+        {
+          "title": "The smart home graveyard is getting crowded",
+          "link": "https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard"
+        },
         {
           "title": "Apple hit with $5.7 billion in damages over haptic patents",
           "link": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents"
@@ -152,22 +164,10 @@
         {
           "title": "Decap is the man behind the drums behind your favorite song",
           "link": "https://www.theverge.com/report/1000994/decap-drums-that-knock-interview"
-        },
-        {
-          "title": "Kids turned the comment section of an NPR podcast into a group chat",
-          "link": "https://www.theverge.com/entertainment/1001056/this-american-life-npr-kids-group-chat-comment-section"
-        },
-        {
-          "title": "OpenAI pauses training of its ‘most capable models’",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause"
-        },
-        {
-          "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
-          "link": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T10:28:15.766Z"
+      "updatedAt": "2026-09-27T15:35:13.265Z"
     },
     "BBC World": {
       "items": [
@@ -176,38 +176,42 @@
           "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Killer Christa Pike is to be executed within days - but her defence say she's a victim too",
-          "link": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Four killed in helicopter crash near Montreal",
-          "link": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss"
+          "title": "'Scourge' of abuse must be rooted out, says Pope, during Lourdes visit",
+          "link": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Two mass shootings in South Africa leave 27 dead",
           "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
-          "link": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss"
+          "title": "Killer Christa Pike is to be executed within days, but her defence say she's a victim too",
+          "link": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
+          "title": "Ten climbers missing after avalanche hits Himalayan base camp",
+          "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Four killed in helicopter crash near Montreal",
+          "link": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "One dead as nor'easter storm pummels New York and New Jersey",
           "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "British national among six dead in building explosion close to Acropolis in Athens",
-          "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T10:28:15.793Z"
+      "updatedAt": "2026-09-27T15:35:13.313Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "'Broken social care will in the end break the NHS,' says Burnham",
-          "link": "https://www.bbc.co.uk/news/videos/c6ge4lyy9x0no?at_medium=RSS&at_campaign=rss"
+          "title": "Burnham proposes NHS-style social care system for England",
+          "link": "https://www.bbc.co.uk/news/articles/crwyzd3gv519o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Orange Order march row goes to heart of ongoing divisions in Northern Ireland",
+          "link": "https://www.bbc.co.uk/news/articles/ckx2zq7x32wro?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Ten NHS staff removed over Noah Woods data breach",
@@ -218,20 +222,16 @@
           "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss"
         },
         {
+          "title": "Pope says 'scourge' of abuse must be rooted out as he visits Lourdes",
+          "link": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Celebrity Traitors 2 cast: Who are this year's 'big dogs' and dark horses?",
           "link": "https://www.bbc.co.uk/news/articles/cv5yjzz803edo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Killer Christa Pike is to be executed within days - but her defence say she's a victim too",
-          "link": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Before BTS and Blackpink, there was Big Bang: Now the Kings of K-pop are back",
-          "link": "https://www.bbc.co.uk/news/articles/cq39me84zrkdo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T10:28:15.802Z"
+      "updatedAt": "2026-09-27T15:35:13.343Z"
     },
     "NY Times": {
       "items": [
@@ -248,7 +248,7 @@
           "link": "https://www.nytimes.com/2026/09/27/us/politics/mary-peltola-alaska-senate.html"
         },
         {
-          "title": "A ‘Big Problem’: Trump’s War With Iran Drags Down Republicans in Midterms",
+          "title": "Trump’s War With Iran Drags Down Republicans in Midterm Elections",
           "link": "https://www.nytimes.com/2026/09/27/us/politics/iran-war-republicans-midterms-trump.html"
         },
         {
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T10:28:15.831Z"
+      "updatedAt": "2026-09-27T15:35:13.463Z"
     }
   },
   "indices": {
@@ -284,8 +284,8 @@
       },
       {
         "name": "Bitcoin",
-        "price": 84922.84,
-        "pct": 0.6397377860780289
+        "price": 84507.16,
+        "pct": 0.14712677350571962
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-09-27T10:28:15.927Z"
+    "updatedAt": "2026-09-27T15:35:13.578Z"
   }
 }
