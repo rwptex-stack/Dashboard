@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-09-27T04:18:40.097Z",
+  "fetchedAt": "2026-09-27T10:16:12.073Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Hank Brown's last-second touchdown pass lifts Iowa to 20-19 win over Michigan in Big Ten",
-          "link": "https://www.foxnews.com/outkick-sports/hank-browns-last-second-touchdown-pass-lifts-iowa-20-19-win-michigan-big-ten"
+          "title": "American Culture Quiz: Test yourself on Taylor's triumph and favorite food findings",
+          "link": "https://www.foxnews.com/lifestyle/american-culture-quiz-test-yourself-taylors-triumph-favorite-food-findings"
         },
         {
-          "title": "Israeli UN envoy's Starlink video reaches millions, with nearly 40% of Instagram viewers in Iran",
-          "link": "https://www.foxnews.com/world/israeli-un-envoy-starlink-video-reaches-millions-nearly-40-percent-instagram-viewers-iran"
+          "title": "SCOTUS detention fight could unleash dangerous criminal migrants onto US streets, experts warns",
+          "link": "https://www.foxnews.com/politics/scotus-detention-fight-could-unleash-dangerous-criminal-migrants-us-streets-experts-warn"
         },
         {
-          "title": "Oregon Ducks QB Dante Moore carted off the field after a vicious hit to the head against USC",
-          "link": "https://www.foxnews.com/outkick-sports/oregon-ducks-qb-dante-moore-carted-off-field-vicious-hit-head-usc"
+          "title": "Lindsay Clancy attorney Kevin Reddington fires back at lone holdout juror's attorney after fiery interview",
+          "link": "https://www.foxnews.com/us/lindsay-clancy-attorney-kevin-reddington-fires-back-lone-holdout-juror-attorney-fiery-interview"
         },
         {
-          "title": "Hiker falls up to 1,000 feet to his death day after another body found on same mountain",
-          "link": "https://www.foxnews.com/us/hiker-falls-1000-feet-death-day-after-another-body-found-same-mountain"
+          "title": "Finland's Stubb credits Trump for pushing Ukraine peace talks while dismissing Russian invasion fears",
+          "link": "https://www.foxnews.com/world/finlands-stubb-credits-trump-pushing-ukraine-peace-talks-while-dismissing-russian-invasion-fears"
         },
         {
-          "title": "Florida drops impressive offensive performance to pull off massive win over No. 4 Ole Miss",
-          "link": "https://www.foxnews.com/outkick-sports/florida-drops-impressive-offensive-performance-pull-off-massive-win-no-4-ole-miss"
+          "title": "From Gettysburg to Antarctica, military Bibles reveal prayers of families who sent loved ones to war",
+          "link": "https://www.foxnews.com/travel/gettysburg-antarctica-military-bibles-reveal-prayers-families-sent-loved-ones-war"
         },
         {
-          "title": "Enes Freedom rips Cheryl Reeve for saying women's sports advocates 'don’t want transgender people to exist'",
-          "link": "https://www.foxnews.com/outkick-sports/enes-freedom-rips-cheryl-reeve-for-saying-womens-sports-advocates-dont-want-transgender-people-to-exist"
+          "title": "Massive ICE sweep fuels GOP push to lock Trump immigration crackdown into law",
+          "link": "https://www.foxnews.com/politics/massive-ice-sweep-fuels-gop-push-lock-trump-immigration-crackdown-law"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T04:18:38.020Z"
+      "updatedAt": "2026-09-27T10:16:08.146Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,33 +59,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T04:18:38.194Z"
+      "updatedAt": "2026-09-27T10:16:08.503Z"
     },
     "The Hill": {
       "items": [
         {
+          "title": "Jewish Democrats contend with another glass ceiling: Their religion",
+          "link": "https://thehill.com/homenews/campaign/6111968-ossoff-jewish-glass-ceiling/"
+        },
+        {
+          "title": "Supreme Court’s liberals see dash of progress on emergency appeals, or ‘shadow docket’",
+          "link": "https://thehill.com/regulation/court-battles/6112423-supreme-court-explaining-emergency-decisions/"
+        },
+        {
+          "title": "The Memo: Trump’s media ban overshadows Xi visit as midterms clock runs down",
+          "link": "https://thehill.com/homenews/administration/6112681-trump-xi-visit-media-clash/"
+        },
+        {
+          "title": "Russia intensifies hybrid war beyond Ukraine, rattling Europe",
+          "link": "https://thehill.com/policy/international/6112252-russia-escalates-nato-hybrid-warfare/"
+        },
+        {
           "title": "Fetterman defends political identity, weighs potential role as 51st senator",
           "link": "https://thehill.com/homenews/senate/6113446-fetterman-gop-speculation-51st-democrat-midterms/"
-        },
-        {
-          "title": "Graham, Andrews neck and neck in South Carolina Senate race: Poll",
-          "link": "https://thehill.com/homenews/campaign/6113414-graham-andrews-south-carolina-poll-close/"
-        },
-        {
-          "title": "Trump slams reporting on removal of his endorsements from GOP candidate's website",
-          "link": "https://thehill.com/homenews/administration/6113353-trump-denies-byron-donalds-endorsement-story/"
-        },
-        {
-          "title": "Trump says he ended Biden electric vehicle rule, updated fuel economy standards",
-          "link": "https://thehill.com/homenews/administration/6113324-trump-eliminates-biden-ev-mandate/"
-        },
-        {
-          "title": "Former Kennedy Center employees claim officials halted repairs months prior to closure",
-          "link": "https://thehill.com/homenews/administration/6113290-kennedy-center-whistleblower-letter-repairs/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T04:18:38.528Z"
+      "updatedAt": "2026-09-27T10:16:09.375Z"
     },
     "Ars Technica": {
       "items": [
@@ -111,7 +111,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T04:18:38.614Z"
+      "updatedAt": "2026-09-27T10:16:09.539Z"
     },
     "The Verge": {
       "items": [
@@ -137,100 +137,104 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T04:18:38.747Z"
+      "updatedAt": "2026-09-27T10:16:09.698Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-          "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss"
+          "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
+          "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Killer Christa Pike is to be executed within days - but her defence say she's a victim too",
+          "link": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Four killed in helicopter crash near Montreal",
+          "link": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Two mass shootings in South Africa leave 27 dead",
+          "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
           "link": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "British national among six dead in building explosion close to Acropolis in Athens",
-          "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "German town bans 'stumbling stone' memorials to Nazi victims",
-          "link": "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
           "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Republic of Ireland to wear black armbands for Israel game",
-          "link": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Mother of woman found hanging in tree shocked as police say body was staged",
-          "link": "https://www.bbc.co.uk/news/articles/cq4gmmdl52rgo?at_medium=RSS&at_campaign=rss"
+          "title": "British national among six dead in building explosion close to Acropolis in Athens",
+          "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T04:18:38.775Z"
+      "updatedAt": "2026-09-27T10:16:09.820Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Controversial Orange Order march to go ahead for first time in nearly 30 years after late night drama",
-          "link": "https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss"
+          "title": "'Broken social care will in the end break the NHS,' says Burnham",
+          "link": "https://www.bbc.co.uk/news/videos/c6ge4lyy9x0no?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Burnham announces scheme to help first-time buyers on to housing ladder",
-          "link": "https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss"
+          "title": "Ten NHS staff removed over Noah Woods data breach",
+          "link": "https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Faisal Islam: The two big calls the chancellor has to make ahead of the Budget",
-          "link": "https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss"
+          "title": "Two mass shootings in South Africa leave 27 dead",
+          "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Iran says it will wait for official US response after Trump rejects Strait of Hormuz proposal",
-          "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss"
+          "title": "Celebrity Traitors 2 cast: Who are this year's 'big dogs' and dark horses?",
+          "link": "https://www.bbc.co.uk/news/articles/cv5yjzz803edo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Heathrow Airport warns third runway could be delayed by four years",
-          "link": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss"
+          "title": "Can you eat ultra-processed foods and still be healthy? A dietitian analysed my weekly shop",
+          "link": "https://www.bbc.co.uk/news/articles/cqn4knlj9v81o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Republic of Ireland to wear black armbands for Israel game",
-          "link": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss"
+          "title": "Killer Christa Pike is to be executed within days - but her defence say she's a victim too",
+          "link": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T04:18:38.783Z"
+      "updatedAt": "2026-09-27T10:16:10.030Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "Heavy Rain and Wind Batter Northeast, Bringing Coastal Flooding",
-          "link": "https://www.nytimes.com/live/2026/09/26/nyregion/noreaster-storm-rain-nyc-boston"
+          "title": "As A.I. Accelerates, Governments Are Increasingly Being Left Behind",
+          "link": "https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html"
         },
         {
-          "title": "How El Niño Is Shaping Storms on Two Sides of the U.S.",
-          "link": "https://www.nytimes.com/2026/09/26/climate/el-nino-hurricane-noreaster.html"
+          "title": "The Surprising Reasons China Is Skeptical of A.I. Safety Calls",
+          "link": "https://www.nytimes.com/2026/09/27/world/asia/china-us-ai-distrust.html"
         },
         {
-          "title": "Likely Piece of 1884 Shipwreck Washes Ashore in Nantucket During Nor’easter",
-          "link": "https://www.nytimes.com/2026/09/26/nyregion/shipwreck-nantucket-noreaster.html"
+          "title": "‘She’s One of Us’: Mary Peltola’s Bumpy Rise to Political Power",
+          "link": "https://www.nytimes.com/2026/09/27/us/politics/mary-peltola-alaska-senate.html"
         },
         {
-          "title": "TV Networks to Resume Trump Coverage, Even as White House Excludes CNN",
-          "link": "https://www.nytimes.com/2026/09/26/business/media/trump-white-house-tv-pool-cnn.html"
+          "title": "A ‘Big Problem’: Trump’s War With Iran Drags Down Republicans in Midterms",
+          "link": "https://www.nytimes.com/2026/09/27/us/politics/iran-war-republicans-midterms-trump.html"
         },
         {
-          "title": "Trump Administration Plans to Gut Clean Car Rules",
-          "link": "https://www.nytimes.com/2026/09/26/climate/trump-fuel-economy-car-rules.html"
+          "title": "Washington Taxed Its Millionaires. Now the Rich Want It Repealed.",
+          "link": "https://www.nytimes.com/2026/09/27/us/politics/washington-state-millionaires-tax.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T04:18:38.971Z"
+      "updatedAt": "2026-09-27T10:16:10.451Z"
     },
     "ARTNews": {
       "items": [
+        {
+          "title": "“From Monet and Manet to Money”: A Berlin Museum Spotlights the Dealer Who Made Impressionism an International Sensation",
+          "link": "https://www.artnews.com/art-in-america/aia-reviews/paul-cassirer-berlin-alte-nationalgalerie-impressionism-1234799643/"
+        },
         {
           "title": "Ai Weiwei Exhibits 500 Cast-Iron Combat Helmets at Australia Museum",
           "link": "https://www.artnews.com/art-news/news/ai-weiwei-500-cast-iron-combat-helmets-mca-commission-1234799483/"
@@ -250,14 +254,10 @@
         {
           "title": "Melania Trump, Peng Liyuan Tour Smithsonian’s National Museum of Asian Art",
           "link": "https://www.artnews.com/art-news/news/melania-trump-peng-liyuan-tour-national-museum-asian-art-1234799476/"
-        },
-        {
-          "title": "Steven Shearer Wins Canada’s $71,000 Audain Prize",
-          "link": "https://www.artnews.com/art-news/news/steven-shearer-audain-prize-1234799461/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T04:18:39.050Z"
+      "updatedAt": "2026-09-27T10:16:10.748Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T04:18:39.181Z"
+      "updatedAt": "2026-09-27T10:16:11.083Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T04:18:39.987Z"
+      "updatedAt": "2026-09-27T10:16:11.917Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T04:18:40.097Z"
+      "updatedAt": "2026-09-27T10:16:12.073Z"
     }
   }
 }
