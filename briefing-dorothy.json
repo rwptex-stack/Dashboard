@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-09-27T15:26:12.051Z",
+  "fetchedAt": "2026-09-27T19:23:29.767Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Hugh Hefner's 'most sexy' Playboy model reveals how Anna Nicole Smith changed her life",
-          "link": "https://www.foxnews.com/entertainment/hugh-hefners-sexy-playboy-model-reveals-anna-nicole-smith-changed-life"
+          "title": "Bessent says Iran will have 'nothing left to trade' within two weeks as oil lifeline dries up",
+          "link": "https://www.foxnews.com/media/bessent-says-iran-nothing-left-trade-two-weeks-oil-lifeline-dries-up"
         },
         {
-          "title": "Child actor recalls receiving disturbing prison mail from fans during peak of '90s fame",
-          "link": "https://www.foxnews.com/entertainment/child-actor-recalls-receiving-disturbing-prison-mail-from-fans-during-peak-90s-fame"
+          "title": "John Fetterman accidentally calls himself a 'lifelong Republican' at Texas Tribune Festival",
+          "link": "https://www.foxnews.com/politics/john-fetterman-accidentally-calls-himself-lifelong-republican-texas-tribune-festival"
         },
         {
-          "title": "Golf star Tom Kim going from Presidents Cup to Asian Games seeking exemption from military service",
-          "link": "https://www.foxnews.com/outkick-sports/golf-star-tom-kim-presidents-cup-asian-games-seeking-exemption-military-service"
+          "title": "Fetterman claims Democratic ‘big tent’ has more room for ‘America deserved 9/11’ than Israel support",
+          "link": "https://www.foxnews.com/media/fetterman-claims-democratic-big-tent-more-room-america-deserved-911-than-israel-support"
         },
         {
-          "title": "Noise cameras are spreading across America",
-          "link": "https://www.foxnews.com/science/noise-cameras-spreading-across-america"
+          "title": "USC linebacker suspended after vicious hit on Oregon quarterback Dante Moore",
+          "link": "https://www.foxnews.com/outkick-sports/usc-linebacker-suspended-vicious-hit-oregon-quarterback-dante-moore"
         },
         {
-          "title": "4 killed, 4 wounded in mass shooting near capital of Caribbean luxury tourism destination",
-          "link": "https://www.foxnews.com/travel/4-killed-4-wounded-mass-shooting-near-capital-caribbean-luxury-tourism-destination"
+          "title": "Forgetting names and losing keys may signal something other than dementia",
+          "link": "https://www.foxnews.com/health/forgetting-names-losing-keys-may-signal-something-other-than-dementia"
         },
         {
-          "title": "First-ever images reveal mysterious remains of town swallowed by sea 700 years ago",
-          "link": "https://www.foxnews.com/travel/first-ever-images-reveal-mysterious-remains-town-swallowed-sea-700-years-ago"
+          "title": "Will Ospreay puts Jon Moxley, The Death Riders in the rearview with successful title defense at AEW All Out",
+          "link": "https://www.foxnews.com/outkick-sports/will-ospreay-puts-jon-moxley-death-riders-rearview-successful-title-defense-aew-all-out"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T15:26:10.347Z"
+      "updatedAt": "2026-09-27T19:23:28.409Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,33 +59,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T15:26:10.408Z"
+      "updatedAt": "2026-09-27T19:23:28.494Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Permanent daylight saving time: How would your state be impacted?",
-          "link": "https://thehill.com/policy/energy-environment/6090862-permanent-daylight-saving-time-how-would-your-state-be-impacted/"
+          "title": "Iran 'fully prepared' for war to resume if Trump authorizes strikes after midterms",
+          "link": "https://thehill.com/policy/international/6113728-araghchi-warns-trump-aggression/"
         },
         {
-          "title": "The vital vaccine shield America cannot afford to lose",
-          "link": "https://thehill.com/opinion/healthcare/6111550-rfk-jr-autism-conspiracy-claims/"
+          "title": "Waiting at a red light? It may not know you're there",
+          "link": "https://thehill.com/policy/technology/6113895-waiting-at-a-red-light-it-may-not-know-youre-there/"
         },
         {
-          "title": "Jim Jordan predicts third Trump impeachment if Democrats take control of House",
-          "link": "https://thehill.com/homenews/house/6113638-jim-jordan-trump-impeachment-prediction/"
+          "title": "Trump calls arrests of UK men on suspicion of terror offenses 'fantastic'",
+          "link": "https://thehill.com/homenews/administration/6113865-trump-praises-uk-arrests-raf-plot/"
         },
         {
-          "title": "Waltz says Iranians asked for 'everything up front' before Trump rejected ceasefire",
-          "link": "https://thehill.com/homenews/administration/6113670-trump-rejects-iranian-ceasefire/"
+          "title": "Live updates: Trump calls US 'better than ever' at Presidents Cup; Blanche defends White House media ban",
+          "link": "https://thehill.com/homenews/administration/6113491-live-updates-trump-presidents-cup-chicago-iran/"
         },
         {
-          "title": "These states are scrambling to become home to a US Space Academy",
-          "link": "https://thehill.com/opinion/technology/6112075-us-space-academy-site-bidding/"
+          "title": "Beshear: More states within 'margin of error' for Democratic gubernatorial candidates",
+          "link": "https://thehill.com/homenews/campaign/6113828-beshear-democrats-target-gop-governors/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T15:26:10.930Z"
+      "updatedAt": "2026-09-27T19:23:28.719Z"
     },
     "Ars Technica": {
       "items": [
@@ -111,10 +111,14 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T15:26:10.980Z"
+      "updatedAt": "2026-09-27T19:23:28.800Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website"
+        },
         {
           "title": "Why OLPC’s $100 laptop never stood a chance",
           "link": "https://www.theverge.com/podcast/1000517/why-olpcs-100-laptop-never-stood-a-chance"
@@ -130,14 +134,10 @@
         {
           "title": "Apple hit with $5.7 billion in damages over haptic patents",
           "link": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents"
-        },
-        {
-          "title": "Decap is the man behind the drums behind your favorite song",
-          "link": "https://www.theverge.com/report/1000994/decap-drums-that-knock-interview"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T15:26:11.036Z"
+      "updatedAt": "2026-09-27T19:23:28.846Z"
     },
     "BBC World": {
       "items": [
@@ -146,19 +146,15 @@
           "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "'Scourge' of abuse must be rooted out, says Pope, during Lourdes visit",
-          "link": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "Two mass shootings in South Africa leave 27 dead",
           "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Killer Christa Pike is to be executed within days, but her defence say she's a victim too",
+          "title": "Killer Christa Pike to be executed within days - but her defence say she's a victim too",
           "link": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Ten climbers missing after avalanche hits Himalayan base camp",
+          "title": "Two bodies found after avalanche hits Himalayan climbing group",
           "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss"
         },
         {
@@ -168,13 +164,21 @@
         {
           "title": "One dead as nor'easter storm pummels New York and New Jersey",
           "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Venezuela releases dozens of political prisoners as election calls grow",
+          "link": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T15:26:11.137Z"
+      "updatedAt": "2026-09-27T19:23:28.984Z"
     },
     "BBC News": {
       "items": [
+        {
+          "title": "What we know about RAF base counter-terror investigation",
+          "link": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "Burnham proposes NHS-style social care system for England",
           "link": "https://www.bbc.co.uk/news/articles/crwyzd3gv519o?at_medium=RSS&at_campaign=rss"
@@ -188,46 +192,42 @@
           "link": "https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Two mass shootings in South Africa leave 27 dead",
-          "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss"
+          "title": "No handshakes between Republic of Ireland and Israel",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Pope says 'scourge' of abuse must be rooted out as he visits Lourdes",
-          "link": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Celebrity Traitors 2 cast: Who are this year's 'big dogs' and dark horses?",
-          "link": "https://www.bbc.co.uk/news/articles/cv5yjzz803edo?at_medium=RSS&at_campaign=rss"
+          "title": "England win series as Banton delivers on potential",
+          "link": "https://www.bbc.co.uk/sport/cricket/articles/cqrl6y38wez3o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T15:26:11.144Z"
+      "updatedAt": "2026-09-27T19:23:28.997Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "As A.I. Accelerates, Governments Are Increasingly Being Left Behind",
-          "link": "https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html"
-        },
-        {
-          "title": "The Surprising Reasons China Is Skeptical of A.I. Safety Calls",
-          "link": "https://www.nytimes.com/2026/09/27/world/asia/china-us-ai-distrust.html"
+          "title": "Trump’s War With Iran Drags Down Republicans in Midterm Elections",
+          "link": "https://www.nytimes.com/2026/09/27/us/politics/iran-war-republicans-midterms-trump.html"
         },
         {
           "title": "‘She’s One of Us’: Mary Peltola’s Bumpy Rise to Political Power",
           "link": "https://www.nytimes.com/2026/09/27/us/politics/mary-peltola-alaska-senate.html"
         },
         {
-          "title": "Trump’s War With Iran Drags Down Republicans in Midterm Elections",
-          "link": "https://www.nytimes.com/2026/09/27/us/politics/iran-war-republicans-midterms-trump.html"
-        },
-        {
           "title": "Washington Taxed Its Millionaires. Now the Rich Want It Repealed.",
           "link": "https://www.nytimes.com/2026/09/27/us/politics/washington-state-millionaires-tax.html"
+        },
+        {
+          "title": "5 Arrested on Suspicion of Terrorism Near RAF Fairford Air Base in UK",
+          "link": "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html"
+        },
+        {
+          "title": "As A.I. Accelerates, Governments Are Increasingly Being Left Behind",
+          "link": "https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T15:26:11.172Z"
+      "updatedAt": "2026-09-27T19:23:29.181Z"
     },
     "ARTNews": {
       "items": [
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T15:26:11.252Z"
+      "updatedAt": "2026-09-27T19:23:29.354Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T15:26:11.357Z"
+      "updatedAt": "2026-09-27T19:23:29.480Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T15:26:11.990Z"
+      "updatedAt": "2026-09-27T19:23:29.654Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T15:26:12.051Z"
+      "updatedAt": "2026-09-27T19:23:29.767Z"
     }
   }
 }
