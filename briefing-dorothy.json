@@ -1,94 +1,98 @@
 {
-  "fetchedAt": "2026-09-28T07:52:16.998Z",
+  "fetchedAt": "2026-09-28T16:11:12.680Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Sen Kennedy says no living politicians should have buildings named after them after Trump's moves",
-          "link": "https://www.foxnews.com/politics/sen-kennedy-says-no-living-politicians-should-have-buildings-named-after-them-after-trumps-moves"
+          "title": "Blue city funds immigrant activist program with taxpayer dollars, critics say it 'shuts citizens out'",
+          "link": "https://www.foxnews.com/politics/blue-city-funds-immigrant-activist-program-taxpayer-dollars-critics-say-shuts-citizens"
         },
         {
-          "title": "Madonna dominates VMAs with Artist of the Year win after showstopping opening performance",
-          "link": "https://www.foxnews.com/entertainment/madonna-dominates-vmas-artist-year-win-showstopping-opening-performance"
+          "title": "UK airbase terror suspects being released on bail as Iran denies connection",
+          "link": "https://www.foxnews.com/world/uk-airbase-terror-suspects-released-bail-iran-denies-connection"
         },
         {
-          "title": "Denver Broncos storm back from down 16-0 at halftime to beat Los Angeles Rams in instant classic",
-          "link": "https://www.foxnews.com/outkick-sports/denver-broncos-storm-back-down-16-0-halftime-beat-los-angeles-rams-instant-classic"
+          "title": "Americans win Presidents Cup on depth, Scheffler's complicated Sunday, and an overwhelming sense of false hope",
+          "link": "https://www.foxnews.com/outkick-sports/americans-win-presidents-cup-depth-schefflers-complicated-sunday-overwhelming-sense-false-hope"
         },
         {
-          "title": "Texas man arrested after 'intentionally' crashing into a closed Kroger to use bathroom: cops",
-          "link": "https://www.foxnews.com/us/texas-man-arrested-intentionally-crashing-closed-kroger-use-bathroom-cops"
+          "title": "DHS tears into MS NOW after host touts ‘anti-authoritarian’ ICE monitoring group",
+          "link": "https://www.foxnews.com/media/dhs-tears-ms-now-host-touts-anti-authoritarian-ice-monitoring-group"
         },
         {
-          "title": "Benjamin Satterley, pro wrestling star known as Pac, dead at 40",
-          "link": "https://www.foxnews.com/outkick-sports/benjamin-satterley-pro-wrestling-star-known-pac-dead-40"
+          "title": "Republicans zero in on key player accused of helping Democrat fundraising giant hide foreign cash",
+          "link": "https://www.foxnews.com/politics/republicans-zero-key-player-accused-helping-democrat-fundraising-giant-hide-foreign-cash"
         },
         {
-          "title": "Attorney for lone holdout juror in Lindsay Clancy mistrial pushes back on claims of refusing the law",
-          "link": "https://www.foxnews.com/us/attorney-lone-holdout-juror-lindsay-clancy-mistrial-pushes-back-claims-refusing-law"
+          "title": "Largest-ever US steel plant is coming to a key red state as Trump unveils $15B investment",
+          "link": "https://www.foxnews.com/politics/largest-ever-us-steel-plant-coming-key-red-state-trump-unveils-15b-investment"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T07:52:12.823Z"
+      "updatedAt": "2026-09-28T16:11:10.547Z"
     },
     "Real Clear Politics": {
       "items": [
         {
+          "title": "Trump's Efforts To Aid U.S. Consumers Run Into Resistance",
+          "link": "https://www.realclearpolitics.com/2026/09/28/trumps_efforts_to_aid_us_consumers_run_into_resistance_712414.html"
+        },
+        {
+          "title": "Mad at High Gas Prices? Things Will Be Worse Under Dems",
+          "link": "https://www.realclearpolitics.com/2026/09/28/mad_at_high_gas_prices_things_will_be_worse_under_dems_712410.html"
+        },
+        {
+          "title": "Who Cares About Hasan Piker?",
+          "link": "https://www.realclearpolitics.com/2026/09/28/who_cares_about_hasan_piker_712400.html"
+        },
+        {
+          "title": "The DSA Sincerely Dislikes America",
+          "link": "https://www.realclearpolitics.com/2026/09/28/the_dsa_sincerely_dislikes_america_712409.html"
+        },
+        {
           "title": "'Party That's Not Crazy First Could Be in Power for 30 Years'",
-          "link": "https://www.realclearpolitics.com/2026/09/26/party_thats_not_crazy_first_could_be_in_power_for_30_years_712168.html"
+          "link": "https://www.realclearpolitics.com/2026/09/28/party_thats_not_crazy_first_could_be_in_power_for_30_years_712168.html"
         },
         {
-          "title": "The Mean Girls Presidency",
-          "link": "https://www.realclearpolitics.com/2026/09/27/the_mean_girls_presidency_712336.html"
-        },
-        {
-          "title": "Nixon-Maxxing the Federal Bureaucracy",
-          "link": "https://www.realclearpolitics.com/video/2026/09/24/omb_director_russ_vought_with_trump_20_were_nixon-maxxing_the_federal_bureaucracy.html"
-        },
-        {
-          "title": "Trump TV Is a Dull, Digital Pathway to Hell",
-          "link": "https://www.realclearpolitics.com/2026/09/27/trump_tv_is_a_dull_digital_pathway_to_hell_712308.html"
-        },
-        {
-          "title": "What Will NATO 3.0 Look Like?",
-          "link": "https://www.realclearpolitics.com/video/2026/09/27/sharyl_attkisson_what_will_a_new_nato_30_look_like.html"
-        },
-        {
-          "title": "Iran Will Have 'Nothing Left to Trade' in Two Weeks",
-          "link": "https://www.realclearpolitics.com/video/2026/09/27/bessent_iran_will_have_nothing_left_to_trade_within_two_weeks.html"
+          "title": "Trump's Gimmicks Aren't Working With Voters Anymore",
+          "link": "https://www.realclearpolitics.com/2026/09/28/trumps_gimmicks_arent_working_with_voters_anymore_712402.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T07:52:13.059Z"
+      "updatedAt": "2026-09-28T16:11:10.728Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Trump floated US weapons sales to Xi, ambassador says",
-          "link": "https://thehill.com/policy/defense/6114367-trump-proposed-selling-weapons-china/"
+          "title": "Iran denies involvement in suspected plot targeting US air base in England",
+          "link": "https://thehill.com/homenews/administration/6115430-iran-denies-uk-terror-plot/"
         },
         {
-          "title": "White House airs taxpayer-funded ad talking about 'the final battle'",
-          "link": "https://thehill.com/homenews/administration/6114342-trump-nfl-ad-airing/"
+          "title": "What will winter be like near you? Here's what the outlooks suggest",
+          "link": "https://thehill.com/homenews/state-watch/6115182-what-will-winter-be-like-near-you-heres-what-the-outlooks-suggest/"
         },
         {
-          "title": "MLB, Trump administration mulling baseball game in National Park: Report",
-          "link": "https://thehill.com/policy/sports-gaming/6114278-mlb-grand-teton-national-park/"
+          "title": "GOP chair of Georgia Peanut Commission backs Ossoff for Senate",
+          "link": "https://thehill.com/homenews/campaign/6115282-republican-peanut-commission-chair-backs-ossoff/"
         },
         {
-          "title": "GOP rep believes Iran was involved in thwarted terrorist plan on US air base in the UK",
-          "link": "https://thehill.com/homenews/house/6114136-uk-arrests-raf-fairford-terrorists/"
+          "title": "GoFundMe: 'Factual misrepresentations' led to end of fundraiser for man paying wife's cancer bills",
+          "link": "https://thehill.com/homenews/state-watch/6115357-gofundme-cancer-treatment-campaign/"
         },
         {
-          "title": "Anthropic CEO Dario Amodei to have private White House dinner with Trump",
-          "link": "https://thehill.com/policy/technology/6114077-trump-anthropic-ceo-meeting/"
+          "title": "Despite popular narratives, free speech is working in Macklemore’s favor",
+          "link": "https://thehill.com/opinion/civil-rights/6112167-macklemore-sheeran-stadium-controversy/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T07:52:15.991Z"
+      "updatedAt": "2026-09-28T16:11:11.307Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "Microsoft goes quiet after church groups ask for 1% of data center costs",
+          "link": "https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/"
+        },
         {
           "title": "How the Smithsonian became the latest front in Trump’s culture war",
           "link": "https://arstechnica.com/tech-policy/2026/09/how-the-smithsonian-became-the-latest-front-in-trumps-culture-war/"
@@ -104,40 +108,36 @@
         {
           "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
           "link": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/"
-        },
-        {
-          "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
-          "link": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T07:52:16.072Z"
+      "updatedAt": "2026-09-28T16:11:11.462Z"
     },
     "The Verge": {
       "items": [
         {
-          "title": "Out of the Park Baseball lets me enjoy baseball even when the Mets suck",
-          "link": "https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review"
+          "title": "Dreame’s step-climbing X50 Ultra mopping vacuum is hundreds off",
+          "link": "https://www.theverge.com/gadgets/1001313/dreame-x50-ultra-robot-vacuum-mop-asus-rog-ally-deal-sale"
         },
         {
-          "title": "Engram is a sampler that turns broken AI hallucinations into music",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music"
+          "title": "Bose’s first wired earbuds in 11 years add noise canceling",
+          "link": "https://www.theverge.com/tech/1001326/bose-wired-earbuds-noise-canceling-headphones-preorder"
         },
         {
-          "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website"
+          "title": "The SaaSpocalypse that wasn&#8217;t, with Atlassian CEO Mike Cannon-Brookes",
+          "link": "https://www.theverge.com/podcast/1000914/atlassian-ceo-mike-cannon-brookes-saaspocalypse-ai-enterprise-software-trello-jira"
         },
         {
-          "title": "Why OLPC’s $100 laptop never stood a chance",
-          "link": "https://www.theverge.com/podcast/1000517/why-olpcs-100-laptop-never-stood-a-chance"
+          "title": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
+          "link": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents"
         },
         {
-          "title": "Googlebooks might be the real deal",
-          "link": "https://www.theverge.com/tech/1000424/googlebooks-meta-ray-ban-audio-control-resonant-microsoft-surface-mouse"
+          "title": "Philips’ motion-tracking smart toothbrush uses AI to make you a better brusher",
+          "link": "https://www.theverge.com/tech/1000924/philips-sonicare-next-generation-diamondclean-9900-prestige-smart-toothbrush"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T07:52:16.128Z"
+      "updatedAt": "2026-09-28T16:11:11.535Z"
     },
     "BBC World": {
       "items": [
@@ -146,32 +146,32 @@
           "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Embattled Serbian president resigns, paving way for early elections",
-          "link": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss"
+          "title": "Trump-Xi summit: What wasn't said might matter the most",
+          "link": "https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Two bodies found after avalanche hits Himalayan climbing group",
-          "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss"
+          "title": "Mexico's Pacific coast braces for Hurricane Polo",
+          "link": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
+          "link": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Plan for controversial Sydney data centre scrapped after push-back",
+          "link": "https://www.bbc.co.uk/news/articles/c6n9wrqpj4yqo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Two mass shootings in South Africa leave 28 dead",
           "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Four killed in helicopter crash near Montreal",
-          "link": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Venezuela releases dozens of political prisoners as election calls grow",
-          "link": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Switzerland rejects stricter interpretation of its neutrality",
-          "link": "https://www.bbc.co.uk/news/articles/cm750plvwy9vo?at_medium=RSS&at_campaign=rss"
+          "title": "Embattled Serbian president resigns, paving way for early elections",
+          "link": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T07:52:16.164Z"
+      "updatedAt": "2026-09-28T16:11:11.733Z"
     },
     "BBC News": {
       "items": [
@@ -180,117 +180,125 @@
           "link": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Police block Protestant Orange Order from controversial parade route",
-          "link": "https://www.bbc.co.uk/news/articles/cmqlwn60yyq9o?at_medium=RSS&at_campaign=rss"
+          "title": "Best thing we can offer young people is a job, not benefits, says chancellor",
+          "link": "https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Inside Yemen's front-line city as Houthis battle for control",
-          "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Watch: BBC team takes cover as Houthi drone spotted on Yemen front-line",
-          "link": "https://www.bbc.co.uk/news/videos/crp3kgjygnkeo?at_medium=RSS&at_campaign=rss"
+          "title": "UK diesel price hits all-time high, the RAC says",
+          "link": "https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Thousands of illegal ghost plates on cars revealed by new cameras",
           "link": "https://www.bbc.co.uk/news/articles/cq9860162dj2o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "My hometown shows that high streets have to change or die",
-          "link": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss"
+          "title": "Police block Protestant Orange Order from controversial parade route",
+          "link": "https://www.bbc.co.uk/news/articles/cmqlwn60yyq9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Three dead, including child, in Channel crossing attempt",
+          "link": "https://www.bbc.co.uk/news/articles/c6vgy71rle35o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T07:52:16.173Z"
+      "updatedAt": "2026-09-28T16:11:11.764Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "Trump’s War With Iran Drags Down Republicans in Midterm Elections",
-          "link": "https://www.nytimes.com/2026/09/27/us/politics/iran-war-republicans-midterms-trump.html"
+          "title": "Trump Brought Venezuelan Gold to the U.S., but Refiners Won’t Touch It",
+          "link": "https://www.nytimes.com/2026/09/28/world/americas/venezuela-gold-trump.html"
         },
         {
-          "title": "Tom Kean Jr. Backs Trump on Iran and Tariffs, if Not Local Issues",
-          "link": "https://www.nytimes.com/2026/09/28/nyregion/tom-kean-jr-rebecca-bennett-debate-trump.html"
+          "title": "What We Saw in One Venezuelan Gold Town",
+          "link": "https://www.nytimes.com/2026/09/28/world/americas/what-we-saw-in-one-venezuelan-gold-town.html"
         },
         {
-          "title": "Washington Taxed Its Millionaires. Now the Rich Want It Repealed.",
-          "link": "https://www.nytimes.com/2026/09/27/us/politics/washington-state-millionaires-tax.html"
+          "title": "Possible Terrorist Plot at R.A.F. Fairford Air Base in U.K.: What We Know",
+          "link": "https://www.nytimes.com/2026/09/28/world/europe/raf-fairford-incident-air-base-terrorism-uk.html"
         },
         {
-          "title": "A Trump 2024 Campaign Ad Returns, Now Brought to You by the Government",
-          "link": "https://www.nytimes.com/2026/09/27/us/politics/trump-ad-government-campaign.html"
+          "title": "Andrew Bailey, a Deputy Director at the F.B.I., Leaves His Job",
+          "link": "https://www.nytimes.com/2026/09/28/us/politics/andrew-bailey-fbi-patel-bongino.html"
         },
         {
-          "title": "Trump Offered to Sell Arms to China, U.S. Ambassador Says",
-          "link": "https://www.nytimes.com/2026/09/27/us/politics/trump-weapons-sale-china.html"
+          "title": "Under Trump, Commodity Futures Trading Commission Scales Back Enforcement, Worrying Farmers",
+          "link": "https://www.nytimes.com/2026/09/28/us/politics/cotton-trump-commodity-markets-cftc.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T07:52:16.265Z"
+      "updatedAt": "2026-09-28T16:11:11.825Z"
     },
     "ARTNews": {
       "items": [
         {
+          "title": "Whistleblowers Say Kennedy Center Leaders Put Off Fixing the Same Problems They Now Blame for Closing the Building",
+          "link": "https://www.artnews.com/art-news/news/kennedy-center-whistleblowers-same-problems-blame-closing-1234799696/"
+        },
+        {
+          "title": "Janine Antoni’s Taste of Vision Graces the Cover of our Icons Issue",
+          "link": "https://www.artnews.com/art-in-america/interviews/janine-antoni-photograph-mortar-pestle-icons-cover-1234799691/"
+        },
+        {
+          "title": "Frieze Abu Dhabi Unveils Exhibitors and Inaugural Curatorial Program",
+          "link": "https://www.artnews.com/art-news/news/frieze-abu-dhabi-inaugural-edition-artists-1234799662/"
+        },
+        {
+          "title": "Richard Manoogian, Industrialist and Collector of American Art, Has Died at 90",
+          "link": "https://www.artnews.com/art-news/news/richard-manoogian-american-art-collector-died-at-90-1234799670/"
+        },
+        {
+          "title": "British Pop Artist Antony Donaldson Has Died, Rare David Hockney Dog Painting Heads to Christie’s, and More: Morning Links for September 28, 2026",
+          "link": "https://www.artnews.com/art-news/news/morning-links-september-28-2026-1234799680/"
+        },
+        {
           "title": "“From Monet and Manet to Money”: A Berlin Museum Spotlights the Dealer Who Made Impressionism an International Sensation",
           "link": "https://www.artnews.com/art-in-america/aia-reviews/paul-cassirer-berlin-alte-nationalgalerie-impressionism-1234799643/"
-        },
-        {
-          "title": "Ai Weiwei Exhibits 500 Cast-Iron Combat Helmets at Australia Museum",
-          "link": "https://www.artnews.com/art-news/news/ai-weiwei-500-cast-iron-combat-helmets-mca-commission-1234799483/"
-        },
-        {
-          "title": "The Best Booths at Independent 20th Century",
-          "link": "https://www.artnews.com/list/art-news/market/highlights-independent-20th-century-art-fair-1234799390/"
-        },
-        {
-          "title": "At 77, Artist Imelda Cajipe Endaya is the First Woman to Receive Top Philippine Honor",
-          "link": "https://www.artnews.com/art-news/news/imelda-cajipe-endaya-wins-top-philippine-art-award-1234799420/"
-        },
-        {
-          "title": "Ancient Wall Found in Paris May Solve Mystery of City’s Origins",
-          "link": "https://www.artnews.com/art-news/news/ancient-wall-paris-lutetia-ile-de-la-cite-1234799497/"
-        },
-        {
-          "title": "Melania Trump, Peng Liyuan Tour Smithsonian’s National Museum of Asian Art",
-          "link": "https://www.artnews.com/art-news/news/melania-trump-peng-liyuan-tour-national-museum-asian-art-1234799476/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T07:52:16.472Z"
+      "updatedAt": "2026-09-28T16:11:11.912Z"
     },
     "Hyperallergic": {
       "items": [
         {
+          "title": "A Broomstick in a Man's World",
+          "link": "https://hyperallergic.com/a-broomstick-in-a-mans-world/"
+        },
+        {
+          "title": "Ruby City Presents \"Generative Disruption: Feminist Art from the Collection\"",
+          "link": "https://hyperallergic.com/ruby-city-presents-generative-disruption-feminist-art-from-the-collection/"
+        },
+        {
+          "title": "Museum of the City of New York Inaugurates New Activism Center",
+          "link": "https://hyperallergic.com/museum-of-the-city-of-new-york-inaugurates-new-activism-center/"
+        },
+        {
+          "title": "Announcing the 2026 Center for Craft Archive Fellows",
+          "link": "https://hyperallergic.com/announcing-the-2026-center-for-craft-archive-fellows/"
+        },
+        {
+          "title": "Arthur Jafa’s Elegy to America",
+          "link": "https://hyperallergic.com/arthur-jafas-elegy-to-america/"
+        },
+        {
           "title": "Thanks, I’m Just Looking",
           "link": "https://hyperallergic.com/thanks-im-just-looking/"
-        },
-        {
-          "title": "No One Is Reading, Except at the New York Art Book Fair",
-          "link": "https://hyperallergic.com/no-one-is-reading-except-at-the-new-york-art-book-fair/"
-        },
-        {
-          "title": "Here’s What (Dealers Said) Sold at the Armory Show",
-          "link": "https://hyperallergic.com/heres-what-dealers-said-sold-at-the-armory-show/"
-        },
-        {
-          "title": "Arthur Jafa, King of Pop",
-          "link": "https://hyperallergic.com/arthur-jafa-king-of-pop/"
-        },
-        {
-          "title": "A Tribute to Black Soho Inside a New York Art Fair",
-          "link": "https://hyperallergic.com/a-tribute-to-black-soho-inside-a-new-york-art-fair/"
-        },
-        {
-          "title": "A View From the Easel",
-          "link": "https://hyperallergic.com/a-view-from-the-easel-356/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T07:52:16.667Z"
+      "updatedAt": "2026-09-28T16:11:11.991Z"
     },
     "Contemporary Art Daily": {
       "items": [
+        {
+          "title": "Jean-Luc Mylayne at Sprüth Magers",
+          "link": "https://www.contemporaryartdaily.com/project/jean-luc-mylayne-at-spruth-magers-berlin-84869?source=rss"
+        },
+        {
+          "title": "Patricia Leite at Mendes Wood DM",
+          "link": "https://www.contemporaryartdaily.com/project/patricia-leite-at-mendes-wood-dm-paris-101897?source=rss"
+        },
         {
           "title": "Nolan Simon at The Green Gallery",
           "link": "https://www.contemporaryartdaily.com/project/nolan-simon-at-the-green-gallery-milwaukee-103746?source=rss"
@@ -306,18 +314,10 @@
         {
           "title": "Lin May Saeed at Meyer Riegger",
           "link": "https://www.contemporaryartdaily.com/project/lin-may-saeed-at-meyer-riegger-berlin-99719?source=rss"
-        },
-        {
-          "title": "Kerstin Brätsch at Galerie Thomas Schulte",
-          "link": "https://www.contemporaryartdaily.com/project/kerstin-bratsch-at-galerie-thomas-schulte-berlin-102337?source=rss"
-        },
-        {
-          "title": "Jeremy Shaw at Galerie Neu",
-          "link": "https://www.contemporaryartdaily.com/project/jeremy-shaw-at-galerie-neu-berlin-101931?source=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T07:52:16.956Z"
+      "updatedAt": "2026-09-28T16:11:12.568Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T07:52:16.998Z"
+      "updatedAt": "2026-09-28T16:11:12.680Z"
     }
   }
 }
