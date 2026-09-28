@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-27T22:55:37.177Z",
+  "fetchedAt": "2026-09-28T01:31:16.972Z",
   "feeds": {
     "MarketWatch": {
       "items": [
@@ -29,37 +29,37 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T22:55:35.386Z"
+      "updatedAt": "2026-09-28T01:31:13.966Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Top NFL Draft prospect receives indefinite suspension after outburst in loss to Alabama",
-          "link": "https://www.foxnews.com/outkick-sports/top-nfl-draft-prospect-receives-indefinite-suspension-after-outburst-loss-alabama"
+          "title": "Attorney for lone holdout juror in Lindsay Clancy mistrial pushes back on claims of refusing the law",
+          "link": "https://www.foxnews.com/us/attorney-lone-holdout-juror-lindsay-clancy-mistrial-pushes-back-claims-refusing-law"
         },
         {
-          "title": "'Home Improvement' star says Patricia Richardson got 'tired' of fighting for sitcom",
-          "link": "https://www.foxnews.com/entertainment/home-improvement-star-says-patricia-richardson-got-tired-fighting-sitcom"
+          "title": "Houston Astros secure the most embarrassing kind of Major League Baseball history with AL West win",
+          "link": "https://www.foxnews.com/outkick-sports/houston-astros-secure-most-embarrassing-kind-major-league-baseball-history-al-west-win"
         },
         {
-          "title": "Susie Wiles reveals brutal toll of fighting cancer while running Trump’s White House",
-          "link": "https://www.foxnews.com/politics/susie-wiles-reveals-brutal-toll-fighting-cancer-while-running-trumps-white-house"
+          "title": "Foiled terror plot at bomber base signals wider threat to US military installations: expert",
+          "link": "https://www.foxnews.com/world/foiled-terror-plot-key-bomber-base-signals-wider-threat-us-military-installations-expert"
         },
         {
-          "title": "Patriots' Drake Maye 'looking myself in the mirror' as game has completely collapsed since AFC Championship",
-          "link": "https://www.foxnews.com/outkick-sports/patriots-drake-maye-looking-myself-mirror-game-completely-collapsed-afc-championship"
+          "title": "Angels reach historic 100-loss low with season-closing defeat against Mariners as new era looms",
+          "link": "https://www.foxnews.com/outkick-sports/angels-reach-historic-100-loss-low-season-closing-defeat-against-mariners-new-era-looms"
         },
         {
-          "title": "Dabble Promo Code FOXNEWS: Play $5, Get $50 on Rams vs Broncos",
-          "link": "https://www.foxnews.com/outkick-betting/dabble-promo-code-foxnews-play-5-get-50-rams-vs-broncos"
+          "title": "Trevor Lawrence fantasy owners are beside themselves after inexplicable decision in fourth quarter blowout",
+          "link": "https://www.foxnews.com/outkick-sports/trevor-lawrence-fantasy-owners-beside-themselves-inexplicable-decision-fourth-quarter-blowout"
         },
         {
-          "title": "Caesars Sportsbook Promo Code FOXNEWSDYW: Bet $1 on Rams-Broncos, Unlock 10x 100% Profit Boosts",
-          "link": "https://www.foxnews.com/outkick-betting/caesars-sportsbook-promo-code-foxnewsdyw-bet-1-rams-broncos-unlock-10x-100-profit-boosts"
+          "title": "Kathy Griffin says Ed Sheeran should have told Robert Kraft to 'go f--- yourself' over Macklemore",
+          "link": "https://www.foxnews.com/media/kathy-griffin-says-ed-sheeran-should-told-robert-kraft-go-f-yourself-macklemore"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T22:55:35.556Z"
+      "updatedAt": "2026-09-28T01:31:14.104Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -89,10 +89,14 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T22:55:35.818Z"
+      "updatedAt": "2026-09-28T01:31:14.388Z"
     },
     "The Hill": {
       "items": [
+        {
+          "title": "MLB, Trump administration mulling baseball game in National Park: Report",
+          "link": "https://thehill.com/policy/sports-gaming/6114278-mlb-grand-teton-national-park/"
+        },
         {
           "title": "GOP rep believes Iran was involved in thwarted terrorist plan on US air base in the UK",
           "link": "https://thehill.com/homenews/house/6114136-uk-arrests-raf-fairford-terrorists/"
@@ -106,16 +110,12 @@
           "link": "https://thehill.com/homenews/house/6112471-democrats-to-confront-netanyahu-israel-west-bank/"
         },
         {
-          "title": "Manchin says 'if character means anything, you can't vote for Ken Paxton'",
+          "title": "Manchin: 'If character means anything, you can't vote for Ken Paxton'",
           "link": "https://thehill.com/homenews/campaign/6114094-manchin-slams-paxton-character/"
-        },
-        {
-          "title": "GOP rep says Americans feel 'fatigue' in diesel prices increasing",
-          "link": "https://thehill.com/homenews/house/6113992-crawford-diesel-prices-iran-war/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T22:55:36.418Z"
+      "updatedAt": "2026-09-28T01:31:15.695Z"
     },
     "Ars Technica": {
       "items": [
@@ -141,7 +141,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T22:55:36.535Z"
+      "updatedAt": "2026-09-28T01:31:16.178Z"
     },
     "The Verge": {
       "items": [
@@ -167,17 +167,13 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T22:55:36.626Z"
+      "updatedAt": "2026-09-28T01:31:16.258Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
-          "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Two mass shootings in South Africa leave 27 dead",
-          "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss"
+          "title": "Inside Yemen's front-line city as Houthis battle for control",
+          "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Embattled Serbian president resigns, paving way for early elections",
@@ -188,20 +184,24 @@
           "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss"
         },
         {
+          "title": "Two mass shootings in South Africa leave 27 dead",
+          "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Four killed in helicopter crash near Montreal",
           "link": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "One dead as nor'easter storm pummels New York and New Jersey",
-          "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "Venezuela releases dozens of political prisoners as election calls grow",
           "link": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Switzerland rejects stricter interpretation of its neutrality",
+          "link": "https://www.bbc.co.uk/news/articles/cm750plvwy9vo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T22:55:36.700Z"
+      "updatedAt": "2026-09-28T01:31:16.481Z"
     },
     "BBC News": {
       "items": [
@@ -214,34 +214,30 @@
           "link": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Burnham proposes NHS-style social care system for England",
-          "link": "https://www.bbc.co.uk/news/articles/crwyzd3gv519o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Orange Order march row goes to heart of ongoing divisions in Northern Ireland",
-          "link": "https://www.bbc.co.uk/news/articles/ckx2zq7x32wro?at_medium=RSS&at_campaign=rss"
+          "title": "Protesters disperse after blocking contentious Orange Order parade",
+          "link": "https://www.bbc.co.uk/news/articles/c6qjkk55wd47o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Inside Yemen's front-line city as Houthis battle for control",
           "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Republic of Ireland 'raised awareness worldwide' in Israel game",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&at_campaign=rss"
+          "title": "Watch: BBC reports from the front-line of an escalating war in Yemen",
+          "link": "https://www.bbc.co.uk/news/videos/crp3kgjygnkeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "My hometown shows that high streets have to change or die",
+          "link": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T22:55:36.717Z"
+      "updatedAt": "2026-09-28T01:31:16.513Z"
     },
     "NY Times": {
       "items": [
         {
           "title": "Trump’s War With Iran Drags Down Republicans in Midterm Elections",
           "link": "https://www.nytimes.com/2026/09/27/us/politics/iran-war-republicans-midterms-trump.html"
-        },
-        {
-          "title": "A Trump 2024 Campaign Ad Returns, Now Brought to You by the Government",
-          "link": "https://www.nytimes.com/2026/09/27/us/politics/trump-ad-government-campaign.html"
         },
         {
           "title": "‘She’s One of Us’: Mary Peltola’s Bumpy Rise to Political Power",
@@ -252,12 +248,16 @@
           "link": "https://www.nytimes.com/2026/09/27/us/politics/washington-state-millionaires-tax.html"
         },
         {
-          "title": "5 Arrested on Suspicion of Terrorism Near RAF Fairford Air Base in UK",
-          "link": "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html"
+          "title": "A Trump 2024 Campaign Ad Returns, Now Brought to You by the Government",
+          "link": "https://www.nytimes.com/2026/09/27/us/politics/trump-ad-government-campaign.html"
+        },
+        {
+          "title": "Trump Offered to Sell Arms to China, U.S. Ambassador Says",
+          "link": "https://www.nytimes.com/2026/09/27/us/politics/trump-weapons-sale-china.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T22:55:36.959Z"
+      "updatedAt": "2026-09-28T01:31:16.800Z"
     }
   },
   "indices": {
@@ -279,13 +279,13 @@
       },
       {
         "name": "Gold",
-        "price": 4294.8,
-        "pct": -1.8645462023580903
+        "price": 4254.3,
+        "pct": -2.789964354263766
       },
       {
         "name": "Bitcoin",
-        "price": 84218.11,
-        "pct": -0.19541848530882483
+        "price": 84110.39,
+        "pct": -0.3184083823640584
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-09-27T22:55:37.177Z"
+    "updatedAt": "2026-09-28T01:31:16.972Z"
   }
 }
