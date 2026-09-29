@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-09-28T22:19:12.153Z",
+  "fetchedAt": "2026-09-29T02:22:12.917Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Once again, no one knows when Josh Simmons will return — perhaps including the Chiefs",
-          "link": "https://www.foxnews.com/outkick-sports/josh-simmons-return-timeline-unclear-chiefs"
+          "title": "Will the College Football Playoff selection committee's new rules make their rankings better?",
+          "link": "https://www.foxnews.com/outkick-sports/college-football-playoff-selection-committee-new-rules-make-rankings-better"
         },
         {
-          "title": "Phillies manager Don Mattingly delivers expletive-laden speech as team makes playoffs after Game 162 win",
-          "link": "https://www.foxnews.com/outkick-sports/phillies-manager-don-mattingly-delivers-expletive-laden-speech-team-makes-playoffs-game-162-win"
+          "title": "Reality star claims daughter, 20, 'had fentanyl in her system' in airport bodycam",
+          "link": "https://www.foxnews.com/entertainment/reality-star-claims-daughter-20-had-fentanyl-her-system-airport-bodycam"
         },
         {
-          "title": "DHS send ominous warning as migrant caravan heads toward US-Mexico border from Honduras",
-          "link": "https://www.foxnews.com/us/dhs-send-ominous-warning-migrant-caravan-heads-toward-us-mexico-border-from-honduras"
+          "title": "Caleb Williams, limited by a hamstring injury, seen casually pacing Bears sideline during national anthem",
+          "link": "https://www.foxnews.com/outkick-sports/caleb-williams-limited-hamstring-injury-seen-casually-pacing-bears-sideline-national-anthem"
         },
         {
-          "title": "'Insulting': Ex-Trump official's 'dishonest' campaign ad triggers conservative revolt",
-          "link": "https://www.foxnews.com/politics/insulting-ex-trump-officials-dishonest-campaign-ad-triggers-conservative-revolt"
+          "title": "Sylvester Stallone says he'd be in 'big trouble' trying to make his career in today's Hollywood",
+          "link": "https://www.foxnews.com/entertainment/sylvester-stallone-big-trouble-making-career-todays-hollywood"
         },
         {
-          "title": "Comedian Matt Rife says he ditched Hollywood's old playbook for success after hitting 'rock bottom'",
-          "link": "https://www.foxnews.com/media/comedian-matt-rife-ditched-hollywoods-playbook-success-hitting-rock-bottom"
+          "title": "Lindsay Clancy holdout juror asks for one thing in new video after mistrial drama",
+          "link": "https://www.foxnews.com/us/lindsay-clancy-holdout-juror-asks-one-thing-new-video-mistrial-drama"
         },
         {
-          "title": "Lane Kiffin is already somehow blaming the SEC's new conference schedule for LSU's injuries",
-          "link": "https://www.foxnews.com/outkick-sports/lane-kiffin-blaming-sec-conference-schedule-lsu-injuries"
+          "title": "Arizona State hockey players ask school president to place coach on leave after workout left teammate in coma",
+          "link": "https://www.foxnews.com/outkick-sports/arizona-state-hockey-players-ask-school-president-place-coach-leave-after-workout-left-teammate-coma"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T22:19:08.730Z"
+      "updatedAt": "2026-09-29T02:22:10.343Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,36 +59,40 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T22:19:08.998Z"
+      "updatedAt": "2026-09-29T02:22:10.488Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Confusion around the UK bomb plotting probe",
-          "link": "https://thehill.com/newsletters/defense-national-security/6116244-confusion-around-the-uk-bomb-plotting-probe/"
+          "title": "Senate defeats proposal to limit ticket price increases for college sports",
+          "link": "https://thehill.com/homenews/senate/6116594-kennedy-amendment-fails-vote/"
         },
         {
-          "title": "Senate Democratic PAC hits Collins over Medicaid cuts she voted against",
-          "link": "https://thehill.com/policy/healthcare/6115908-democrats-attack-collins-medicaid-cuts/"
+          "title": "Russell Brand to moderate panel at MAHA summit",
+          "link": "https://thehill.com/blogs/in-the-know/6116458-brand-moderates-maha-summit/"
         },
         {
-          "title": "GOP senator says Trump should bring Iran war to an end",
-          "link": "https://thehill.com/homenews/senate/6116123-senator-calls-end-iran-conflict/"
+          "title": "Hegseth instructs Pentagon to defend 2026 elections from ‘foreign actors’",
+          "link": "https://thehill.com/policy/defense/6116486-hegseth-prioritizes-cyber-election-security/"
         },
         {
-          "title": "Arizona tour company sues over Trump's nonresident fee at national parks",
-          "link": "https://thehill.com/policy/energy-environment/6116167-arizona-national-park-visitor-fees-nps/"
+          "title": "Shaheen presses Senate to cap insulin costs",
+          "link": "https://thehill.com/newsletters/healthcare/6116460-shaheen-presses-senate-cap-insulin-costs/"
         },
         {
-          "title": "Democratic Women's Caucus releases policy priorities",
-          "link": "https://thehill.com/newsletters/business-economy/6116170-democratic-womens-caucus-releases-policy-priorities/"
+          "title": "Vance, RFK Jr., Mike Tyson to speak at MAHA Summit in DC",
+          "link": "https://thehill.com/homenews/administration/6116342-vance-kennedy-maha-summit/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T22:19:09.784Z"
+      "updatedAt": "2026-09-29T02:22:10.644Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "Boeing \"incredibly excited\" to serve as nation's only astronaut transportation",
+          "link": "https://arstechnica.com/space/2026/09/boeing-incredibly-excited-to-serve-as-nations-only-astronaut-transportation/"
+        },
         {
           "title": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
           "link": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/"
@@ -104,17 +108,17 @@
         {
           "title": "New device captures carbon dioxide by pumping it across a battery",
           "link": "https://arstechnica.com/science/2026/09/new-device-captures-carbon-dioxide-by-pumping-it-across-a-battery/"
-        },
-        {
-          "title": "To keep drug prices high, pharma has been piling up the patents",
-          "link": "https://arstechnica.com/health/2026/09/to-keep-drug-prices-high-pharma-has-been-piling-up-the-patents/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T22:19:09.988Z"
+      "updatedAt": "2026-09-29T02:22:10.985Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "Nothing’s new flagship Headphone 1 Pro put you in the studio",
+          "link": "https://www.theverge.com/tech/1001797/nothings-headphone-1-pro-review"
+        },
         {
           "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
           "link": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal"
@@ -130,48 +134,44 @@
         {
           "title": "Trump finalizes rule to make cars less fuel efficient",
           "link": "https://www.theverge.com/news/1001610/trump-weakens-fuel-efficiency-standards"
-        },
-        {
-          "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T22:19:10.139Z"
+      "updatedAt": "2026-09-29T02:22:11.319Z"
     },
     "BBC World": {
       "items": [
         {
+          "title": "OpenAI scraps rollout of new model over safety concerns",
+          "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Inside Yemen's front-line city as Houthis battle for control",
           "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "New York Times executive fatally shot allegedly by elderly in-laws",
+          "link": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
           "link": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
-          "link": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "French PM warns against escalation of school protests after 164 arrested",
           "link": "https://www.bbc.co.uk/news/articles/cmqxvnn49rg2o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Nigerian attempts to break world record by dancing non-stop for seven days",
-          "link": "https://www.bbc.co.uk/news/articles/cq8r6z2gjzd1o?at_medium=RSS&at_campaign=rss"
+          "title": "Tennessee governor rejects clemency bid for Christa Pike as execution looms",
+          "link": "https://www.bbc.co.uk/news/articles/ckr50yyddljlo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Iran court upholds lashes sentence for singer who performed without hijab",
-          "link": "https://www.bbc.co.uk/news/articles/crn45ed1kqqgo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Stand-up comic released after being convicted of insulting Erdoğan",
-          "link": "https://www.bbc.co.uk/news/articles/c8zxzlqwzw0eo?at_medium=RSS&at_campaign=rss"
+          "title": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
+          "link": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T22:19:10.327Z"
+      "updatedAt": "2026-09-29T02:22:11.357Z"
     },
     "BBC News": {
       "items": [
@@ -180,34 +180,38 @@
           "link": "https://www.bbc.co.uk/news/articles/c6e9elmpvglno?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Watch: RAF Fairford suspects are bailed, what happens now?",
-          "link": "https://www.bbc.co.uk/news/videos/cw33kxk3707jo?at_medium=RSS&at_campaign=rss"
+          "title": "Burnham to unveil public body to invest in electricity grid",
+          "link": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "OpenAI scraps rollout of new model over safety concerns",
+          "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "UK tries to stop Trump's diesel export ban",
           "link": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Best thing we can offer young people is a job, not benefits, says chancellor",
-          "link": "https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss"
+          "title": "Are Trump's US government funded ads illegal?",
+          "link": "https://www.bbc.co.uk/news/videos/c6lymekx0repo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Watch: From launch to fiery splashdown, SpaceX's Starship completes orbit test",
-          "link": "https://www.bbc.co.uk/news/videos/c6ge4lp442npo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Mahmood signals rethink on migrants' right to remain",
-          "link": "https://www.bbc.co.uk/news/articles/cmz7zxdy4gllo?at_medium=RSS&at_campaign=rss"
+          "title": "Migrants using longer, more dangerous routes across Channel",
+          "link": "https://www.bbc.co.uk/news/articles/c6y8zzdjmrgvo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T22:19:10.386Z"
+      "updatedAt": "2026-09-29T02:22:11.368Z"
     },
     "NY Times": {
       "items": [
         {
           "title": "Embarrassing Breach at F.B.I. Fuels Fears of Harm to Its Employees",
           "link": "https://www.nytimes.com/2026/09/28/us/politics/fbi-shinyhunters-damage.html"
+        },
+        {
+          "title": "Trump Sharply Scales Back Fuel Economy Rules",
+          "link": "https://www.nytimes.com/2026/09/28/briefing/trump-sharply-scales-back-fuel-economy-rules.html"
         },
         {
           "title": "Russian Drone Strikes Ukraine’s Science Academy, Causing Fire in City Center",
@@ -218,16 +222,12 @@
           "link": "https://www.nytimes.com/2026/09/28/world/europe/ukraine-russia-war-soldiers-deaths-north-ossetia.html"
         },
         {
-          "title": "Release of Suspects in U.K. Prompts New Questions Over Possible Terror Plot at RAF Fairford Base",
-          "link": "https://www.nytimes.com/2026/09/28/world/europe/us-air-base-uk-terror-incident-fairford.html"
-        },
-        {
-          "title": "UK Villages That Host US Bombers Are Abuzz Over Possible Terrorist Plot",
-          "link": "https://www.nytimes.com/2026/09/28/world/europe/uk-fairford-base-terrorist-plot.html"
+          "title": "Trump Officials Revise How Title IX Sex Discrimination Rules Are Enforced",
+          "link": "https://www.nytimes.com/2026/09/28/us/politics/trump-administration-revises-sex-discrimination-rules.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T22:19:10.579Z"
+      "updatedAt": "2026-09-29T02:22:11.411Z"
     },
     "ARTNews": {
       "items": [
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T22:19:10.748Z"
+      "updatedAt": "2026-09-29T02:22:11.505Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T22:19:11.078Z"
+      "updatedAt": "2026-09-29T02:22:11.570Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T22:19:11.992Z"
+      "updatedAt": "2026-09-29T02:22:12.777Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T22:19:12.153Z"
+      "updatedAt": "2026-09-29T02:22:12.917Z"
     }
   }
 }
