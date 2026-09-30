@@ -1,176 +1,188 @@
 {
-  "fetchedAt": "2026-09-30T15:47:38.761Z",
+  "fetchedAt": "2026-09-30T20:42:08.549Z",
   "feeds": {
     "MarketWatch": {
       "items": [
         {
-          "title": "The 15 worst-performing S&P 500 stocks during a dismal September",
-          "link": "https://www.marketwatch.com/story/the-15-worst-performing-s-p-500-stocks-during-a-dismal-september-991f8a07?mod=mw_rss_topstories"
+          "title": "U.S. bond yields post biggest jump in a generation as global rout rattles investors",
+          "link": "https://www.marketwatch.com/story/u-s-bond-yields-head-for-biggest-jump-in-a-generation-as-global-rout-rattles-investors-7dede2f2?mod=mw_rss_topstories"
         },
         {
-          "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
-          "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories"
+          "title": "Paramount’s mega debt sale reveals how higher bond yields are squeezing corporate America",
+          "link": "https://www.marketwatch.com/story/paramounts-mega-debt-sale-reveals-how-higher-bond-yields-are-squeezing-corporate-america-e9694ec3?mod=mw_rss_topstories"
         },
         {
-          "title": "Citi tells investors it’s time to sell Moderna after 600%-plus stock gains",
-          "link": "https://www.marketwatch.com/story/citi-tells-investors-its-time-to-sell-moderna-after-600-plus-stock-gains-84cb9b62?mod=mw_rss_topstories"
+          "title": "Billionaires like Ken Griffin are doling out tons of money to prove that a college degree still matters",
+          "link": "https://www.marketwatch.com/story/billionaires-like-ken-griffin-are-doling-out-tons-of-money-to-prove-that-a-college-degree-still-matters-63e50332?mod=mw_rss_topstories"
         },
         {
-          "title": "Adding Lilly’s new drug to Zepbound helped people lose up to 23% of their weight. But there were more side effects.",
+          "title": "My friend’s pet-sitting business grosses $300,000 a year, but she pays herself $50,000. Should I start one too?",
+          "link": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Adding Lilly’s new drug to Zepbound helped people lose more weight — but there were more side effects",
           "link": "https://www.marketwatch.com/story/adding-lillys-new-drug-to-zepbound-helped-people-lose-up-to-23-of-their-weight-but-there-were-more-side-effects-b7b7c6c0?mod=mw_rss_topstories"
         },
         {
-          "title": "This is the big risk that stock investors should be watching as rising bond yields menace markets",
-          "link": "https://www.marketwatch.com/story/this-is-the-big-risk-that-stock-investors-should-be-watching-as-rising-bond-yields-menace-markets-904cae0a?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Americans get back to their spending ways. Economy might be speeding up again.",
-          "link": "https://www.marketwatch.com/story/americans-get-back-to-their-spending-ways-economy-might-be-speeding-up-again-7884c424?mod=mw_rss_topstories"
+          "title": "After I sold TOMS Shoes for $400 million I was misdiagnosed with bipolar disorder — and it almost cost me everything",
+          "link": "https://www.marketwatch.com/story/after-i-sold-toms-shoes-for-400-million-i-was-misdiagnosed-with-bipolar-disorder-and-it-almost-cost-me-everything-4409da4c?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-30T15:47:36.307Z"
+      "updatedAt": "2026-09-30T20:42:06.684Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "White Sox look to close out Houston Astros in two games after dominant playoff opener",
-          "link": "https://www.foxnews.com/outkick-betting/white-sox-close-houston-astros-two-games-dominant-playoff-opener"
+          "title": "Anne Hathaway takes charge at the 'Verity' red carpet in viral moment",
+          "link": "https://www.foxnews.com/entertainment/anne-hathaway-takes-charge-verity-red-carpet-viral-moment"
         },
         {
-          "title": "Early Prime Day coffee and tea deals: $100 Keurig, 31% off Cuisinart kettles and more",
-          "link": "https://www.foxnews.com/deals/october-prime-day-coffee-tea-deals"
+          "title": "Howard Stern warns ABC will have 'hell to pay' if something 'goes wrong' with Jimmy Kimmel's show",
+          "link": "https://www.foxnews.com/media/howard-stern-warns-abc-hell-pay-something-goes-wrong-jimmy-kimmel-show"
         },
         {
-          "title": "WWE NXT star EK Prosper hits jaw-dropping move on Grayson Waller but fails to win championship",
-          "link": "https://www.foxnews.com/outkick-sports/wwe-nxt-star-ek-prosper-hits-jaw-dropping-move-grayson-waller-fails-win-championship"
+          "title": "South Carolina mom accused of knife attack on young children; 6-year-old may lose arm: sheriff's office",
+          "link": "https://www.foxnews.com/us/south-carolina-mom-accused-knife-attack-young-children-6-year-old-may-lose-arm-sheriffs-office"
         },
         {
-          "title": "Lindsay Clancy holdout juror’s lawyers say they plan bar complaint against Reddington",
-          "link": "https://www.foxnews.com/us/lindsay-clancy-holdout-juror-lawyers-plan-bar-complaint-reddington"
+          "title": "'The Five' leads cable news for 20th straight quarter as Fox News outdraws CNN and MS NOW combined",
+          "link": "https://www.foxnews.com/media/the-five-leads-cable-news-20th-straight-quarter-fox-news-outdraws-cnn-ms-now-combined"
         },
         {
-          "title": "WNBA refs miss opportunity to eject A'ja Wilson over meltdown, entering stands",
-          "link": "https://www.foxnews.com/outkick-sports/wnba-refs-miss-opportunity-eject-aja-wilson-over-meltdown-entering-stands"
+          "title": "Stewart expects Schumer, Jeffries to disappoint if the Dems win back the House and Senate",
+          "link": "https://www.foxnews.com/media/stewart-expects-schumer-jeffries-disappoint-dems-win-back-house-senate"
         },
         {
-          "title": "GOP fortress is under threat in one key red state, and these voters could decide whether it falls",
-          "link": "https://www.foxnews.com/politics/gop-fortress-under-threat-key-red-state-voters-decide-whether-falls"
+          "title": "Inside Diddy's prison life with massages, booze and nude photos: report",
+          "link": "https://www.foxnews.com/entertainment/inside-diddy-prison-life-massages-booze-nude-photos-report"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-30T15:47:36.491Z"
+      "updatedAt": "2026-09-30T20:42:06.836Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "Americans Want Populist Policies That Defy Traditional Labels",
-          "link": "https://www.realclearpolitics.com/2026/09/30/americans_want_populist_policies_that_defy_traditional_labels_712648.html"
+          "title": "Even Democrats Oppose Foreigners Tilting the Census",
+          "link": "https://www.realclearpolitics.com/2026/09/30/even_democrats_oppose_foreigners_tilting_the_census_712667.html"
         },
         {
-          "title": "Prison Population Plummets as Crime Rates Fall",
-          "link": "https://www.realclearpolitics.com/2026/09/30/prison_population_plummets_as_crime_rates_fall_712653.html"
+          "title": "Vance's Senate Takeover Plan Has a Big Flaw",
+          "link": "https://www.realclearpolitics.com/2026/09/30/vances_senate_takeover_plan_has_a_big_flaw_712677.html"
         },
         {
-          "title": "Immigration Enforcement Without the Melodrama",
-          "link": "https://www.realclearpolitics.com/2026/09/30/immigration_enforcement_without_the_melodrama_712527.html"
+          "title": "Kids Should Not Be Trapped in Failing Schools",
+          "link": "https://www.realclearpolitics.com/2026/09/30/kids_should_not_be_trapped_in_failing_schools_712676.html"
         },
         {
-          "title": "AI (or Super Intelligence) Day at the White House",
-          "link": "https://www.realclearpolitics.com/articles/2026/09/30/ai_day_at_the_white_house_154547.html"
+          "title": "Does Trump Have a Point About Interest Rates?",
+          "link": "https://www.realclearpolitics.com/2026/09/30/does_trump_have_a_point_about_interest_rates_712656.html"
         },
         {
-          "title": "What China Wants From AI",
-          "link": "https://www.realclearpolitics.com/2026/09/30/what_china_wants_from_ai_712595.html"
+          "title": "'I Ran Toward the Cockpit': The Dad Who Stopped a Hijacking",
+          "link": "https://www.realclearpolitics.com/2026/09/30/i_ran_toward_the_cockpit_the_dad_who_stopped_a_hijacking_712682.html"
         },
         {
-          "title": "Scripture-Twisting Talarico Claims Bible Is Leftist",
-          "link": "https://www.realclearpolitics.com/2026/09/30/scripture-twisting_talarico_claims_bible_is_leftist_712654.html"
+          "title": "What Iowa's New Steel Mill Means for the Midwest",
+          "link": "https://www.realclearpolitics.com/2026/09/30/what_iowas_new_steel_mill_means_for_the_midwest_712672.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-30T15:47:36.747Z"
+      "updatedAt": "2026-09-30T20:42:06.936Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "What to know about Flydubai cockpit clash as pilot is arrested",
-          "link": "https://thehill.com/policy/transportation/6120297-flydubai-co-pilot-arrested/"
+          "title": "Schumer calls for review of 'horrifying' Cornell rape case: \"No stone unturned'",
+          "link": "https://thehill.com/homenews/senate/6121358-schumer-calls-cornell-assault-review/"
         },
         {
-          "title": "Bessent is wrong: China armed Iran’s nuclear weapons ambitions",
-          "link": "https://thehill.com/opinion/6118290-china-supplied-iran-nuclear-tech/"
+          "title": "Lawmakers press regulators to reject AES acquisition",
+          "link": "https://thehill.com/policy/energy-environment/6121349-lawmakers-seek-block-aes-sale/"
         },
         {
-          "title": "Federal appeals court stays Christa Pike execution with hours to spare",
-          "link": "https://thehill.com/regulation/court-battles/6120336-christa-pike-execution-stayed/"
+          "title": "Hegseth invites governors to bid for 'next great American base'",
+          "link": "https://thehill.com/policy/defense/6121389-pete-hegseth-invites-governors-base-bids/"
         },
         {
-          "title": "Senate Democrats rip DHS over diverted funding for campaign-style Trump ads",
-          "link": "https://thehill.com/homenews/senate/6120110-senate-democrats-dhs-funding-trump-taxpayer-funded-tv-ads/"
+          "title": "Trump admits struggling to find balance on immigration ahead of midterms",
+          "link": "https://thehill.com/homenews/administration/6121398-trump-immigration-hispanic-heritage-month/"
         },
         {
-          "title": "New University of Michigan grading plan halted after backlash",
-          "link": "https://thehill.com/homenews/education/6120237-university-of-michigan-freshmen-grading/"
+          "title": "Live updates: Hegseth calls officer cuts 'bare minimum' in address to troops; Senate Democrats block key bills",
+          "link": "https://thehill.com/homenews/administration/6119378-live-updates-trump-ai-tariffs-hegseth-pentagon-cuts/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-30T15:47:37.581Z"
+      "updatedAt": "2026-09-30T20:42:07.423Z"
     },
     "Ars Technica": {
       "items": [
         {
-          "title": "Cloudflare plans to issue quantum-safe TLS certificates",
-          "link": "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/"
+          "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
+          "link": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/"
         },
         {
-          "title": "Most powerful obesity drug yet: People lost up to 25% of weight in trial",
-          "link": "https://arstechnica.com/health/2026/09/most-powerful-obesity-drug-yet-people-lost-up-to-25-of-weight-in-trial/"
+          "title": "Reddit is putting more limits on Old.Reddit.com",
+          "link": "https://arstechnica.com/gadgets/2026/09/reddit-will-block-old-reddit-com-from-people-who-havent-used-it-in-6-months/"
         },
         {
-          "title": "Protests against OpenAI get increasingly creative",
-          "link": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/"
+          "title": "RFK Jr. thinks AI will free us from the \"tyranny\" of medical facts, expertise",
+          "link": "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/"
         },
         {
-          "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
-          "link": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/"
+          "title": "The Disney protests were a wake-up call about the risks of streaming mergers",
+          "link": "https://arstechnica.com/gadgets/2026/09/what-the-disney-protests-over-kimmel-taught-us-about-streaming-mergers/"
         },
         {
-          "title": "Trump ads paid for by US government allegedly violate anti-propaganda laws",
-          "link": "https://arstechnica.com/tech-policy/2026/09/trump-ads-paid-for-by-us-government-allegedly-violate-anti-propaganda-laws/"
+          "title": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
+          "link": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-30T15:47:37.819Z"
+      "updatedAt": "2026-09-30T20:42:07.566Z"
     },
     "The Verge": {
       "items": [
         {
-          "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai"
+          "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
+          "link": "https://www.theverge.com/tech/1002980/google-gemini-4-argon"
         },
         {
-          "title": "Google reportedly tests paying publishers for AI search results",
-          "link": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features"
+          "title": "The AI Tamagotchis are coming",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices"
         },
         {
-          "title": "Instagram is adding an AI ‘assistant’ to tell you how to post",
-          "link": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube"
+          "title": "Reddit says it has to cut back access to ‘Old Reddit’ because of AI bots",
+          "link": "https://www.theverge.com/tech/1002788/old-reddit-ai-scraping"
         },
         {
-          "title": "Amazon&#8217;s new Fire TV Stick 4K can pull power directly from your TV",
-          "link": "https://www.theverge.com/streaming/1002597/amazon-fire-tv-stick-4k-direct-power"
+          "title": "Amazon&#8217;s delivery driver smart glasses will reportedly take photos &#8216;almost constantly&#8217;",
+          "link": "https://www.theverge.com/tech/1002766/amazon-delivery-driver-smart-glasses-privacy"
         },
         {
-          "title": "The Sonos Ace Ultra are the headphones Sonos should have made the first time",
-          "link": "https://www.theverge.com/tech/1002122/sonos-ace-ultra-headphones-review"
+          "title": "Here&#8217;s what AI leaders are saying about Trump’s new safety plan",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-30T15:47:37.934Z"
+      "updatedAt": "2026-09-30T20:42:07.960Z"
     },
     "BBC World": {
       "items": [
+        {
+          "title": "What we know about stabbing on Flydubai flight to Israel",
+          "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Six smugglers jailed for manslaughter over worst Channel small boats disaster",
+          "link": "https://www.bbc.co.uk/news/articles/c6n8m33pn9djo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "UK-France 'one in, one out' migrant scheme scrapped",
+          "link": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
           "link": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss"
@@ -184,116 +196,104 @@
           "link": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Chinese AI tool told researchers how to make bioweapons",
-          "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Girl has multiple surgeries to control infections after strike in Gaza",
-          "link": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "US actor Chad Lowe 'heartbroken' by death of daughter Fiona aged 13",
-          "link": "https://www.bbc.co.uk/news/articles/c3x2z9k1zdn4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Singapore launches matchmaking service for government workers",
-          "link": "https://www.bbc.co.uk/news/articles/cqzjzr893yv4o?at_medium=RSS&at_campaign=rss"
+          "title": "Ethiopia fighting escalates in Tigray killing 52 civilians, medic tells the BBC",
+          "link": "https://www.bbc.co.uk/news/articles/c6grveejg1e2o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-30T15:47:38.290Z"
+      "updatedAt": "2026-09-30T20:42:08.201Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "'We've just taken control': Passengers describe what happened on flight",
-          "link": "https://www.bbc.co.uk/news/videos/cv70d22kd34do?at_medium=RSS&at_campaign=rss"
+          "title": "Dame Esther Rantzen: A presenter who campaigned for change",
+          "link": "https://www.bbc.co.uk/news/videos/cmn8e8736wjyo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "What we know about stabbing on Flydubai flight to Israel",
-          "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss"
+          "title": "UK believes Iran involved in RAF Fairford incident, PM says",
+          "link": "https://www.bbc.co.uk/news/articles/cjwyz59k5y75o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Move to rejoin EU among options for UK, says Burnham",
-          "link": "https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss"
+          "title": "UK-France 'one in, one out' migrant scheme scrapped",
+          "link": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Residents near RAF Fairford left 'like sitting ducks'",
-          "link": "https://www.bbc.co.uk/news/articles/cmlyr71jq44wo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "China funding UK research which is being sent to Beijing's spies, MI5 warns",
+          "title": "China funding UK research and sending it to Beijing's spies, MI5 warns",
           "link": "https://www.bbc.co.uk/news/articles/cwy7zrljp527o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
-          "link": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss"
+          "title": "Teens who died in car that entered River Wear named",
+          "link": "https://www.bbc.co.uk/news/articles/ck5yw1zg8lqgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Brexit referendum 'possible' in Labour election manifesto, Burnham tells BBC",
+          "link": "https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-30T15:47:38.328Z"
+      "updatedAt": "2026-09-30T20:42:08.266Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "Passenger Describes Chaos Aboard FlyDubai Flight",
-          "link": "https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-flight-israel-plane-passenger.html"
+          "title": "Panic and Heroics on FlyDubai Flight: ‘We Felt That This Was It’",
+          "link": "https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-israel-dubai-flight-pilots-attack.html"
         },
         {
           "title": "FlyDubai Flight to Israel Diverted After Clash Between Pilots: What We Know and Don’t Know",
           "link": "https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-dubai-israel-flight-diverted.html"
         },
         {
-          "title": "U.S. Withdraws From Iraq After Two Decades, and Trump Tells A.I. Giants to Police Themselves",
-          "link": "https://www.nytimes.com/2026/09/30/podcasts/the-headlines/us-iraq-trump-ai.html"
+          "title": "Trump’s Voluntary A.I. Policing Echoes What Biden Did. But Is It Enough Today?",
+          "link": "https://www.nytimes.com/2026/09/30/us/politics/trump-biden-ai.html"
         },
         {
-          "title": "After Two Decades, U.S. Forces Leave Iraq to an Uncertain Future",
-          "link": "https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-forces.html"
+          "title": "Congress Set to Leave Washington for the Midterms With No A.I. Progress",
+          "link": "https://www.nytimes.com/2026/09/30/us/politics/congress-ai-safety.html"
         },
         {
-          "title": "American Forces Withdraw From Iraq 23 Years After Invading",
-          "link": "https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-troop-withdrawal.html"
+          "title": "Who Attended Trump’s AI Luncheon, and Who Sat Where",
+          "link": "https://www.nytimes.com/2026/09/29/us/politics/trump-ai-luncheon-guests-ceos.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-30T15:47:38.548Z"
+      "updatedAt": "2026-09-30T20:42:08.379Z"
     }
   },
   "indices": {
     "data": [
       {
         "name": "S&P 500",
-        "price": 7709.73,
-        "pct": 0.04801434720601682
+        "price": 7651.54,
+        "pct": -0.7071085889881012
       },
       {
         "name": "Dow Jones",
-        "price": 51293.01,
-        "pct": -0.42433168923730463
+        "price": 50906.05,
+        "pct": -1.1755412713915327
       },
       {
         "name": "Nasdaq",
-        "price": 27054.098,
-        "pct": 0.43829011242929883
+        "price": 26861.064,
+        "pct": -0.2783482650011003
       },
       {
         "name": "Gold",
-        "price": 4188.7,
-        "pct": -3.066277885772471
+        "price": 4188.8,
+        "pct": -3.0639637137832
       },
       {
         "name": "Bitcoin",
-        "price": 84126.26,
-        "pct": -0.331953304516423
+        "price": 83677.35,
+        "pct": -0.863796546353971
       },
       {
         "name": "SpaceX",
-        "price": 150.395,
-        "pct": 1.3716635211647321
+        "price": 150.86,
+        "pct": 1.685090320841197
       }
     ],
     "ok": true,
-    "updatedAt": "2026-09-30T15:47:38.761Z"
+    "updatedAt": "2026-09-30T20:42:08.549Z"
   }
 }
