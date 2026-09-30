@@ -1,124 +1,128 @@
 {
-  "fetchedAt": "2026-09-30T08:19:43.120Z",
+  "fetchedAt": "2026-09-30T15:47:38.761Z",
   "feeds": {
     "MarketWatch": {
       "items": [
         {
-          "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
-          "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories"
-        },
-        {
-          "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
-          "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories"
-        },
-        {
-          "title": "I’m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
-          "link": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories"
+          "title": "The 15 worst-performing S&P 500 stocks during a dismal September",
+          "link": "https://www.marketwatch.com/story/the-15-worst-performing-s-p-500-stocks-during-a-dismal-september-991f8a07?mod=mw_rss_topstories"
         },
         {
           "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
           "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories"
         },
         {
-          "title": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?",
-          "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories"
+          "title": "Citi tells investors it’s time to sell Moderna after 600%-plus stock gains",
+          "link": "https://www.marketwatch.com/story/citi-tells-investors-its-time-to-sell-moderna-after-600-plus-stock-gains-84cb9b62?mod=mw_rss_topstories"
         },
         {
-          "title": "Hollywood’s big debt deal hits a wall of higher yields as Paramount finances Warner Bros. buyout",
-          "link": "https://www.marketwatch.com/story/hollywoods-big-debt-deal-hits-a-wall-of-higher-yields-as-paramount-finances-warner-bros-buyout-6ee6e3b8?mod=mw_rss_topstories"
+          "title": "Adding Lilly’s new drug to Zepbound helped people lose up to 23% of their weight. But there were more side effects.",
+          "link": "https://www.marketwatch.com/story/adding-lillys-new-drug-to-zepbound-helped-people-lose-up-to-23-of-their-weight-but-there-were-more-side-effects-b7b7c6c0?mod=mw_rss_topstories"
+        },
+        {
+          "title": "This is the big risk that stock investors should be watching as rising bond yields menace markets",
+          "link": "https://www.marketwatch.com/story/this-is-the-big-risk-that-stock-investors-should-be-watching-as-rising-bond-yields-menace-markets-904cae0a?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Americans get back to their spending ways. Economy might be speeding up again.",
+          "link": "https://www.marketwatch.com/story/americans-get-back-to-their-spending-ways-economy-might-be-speeding-up-again-7884c424?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-30T08:19:40.835Z"
+      "updatedAt": "2026-09-30T15:47:36.307Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Ohio cancer patient sues hospital after surgeon allegedly amputated wrong leg",
-          "link": "https://www.foxnews.com/us/ohio-cancer-patient-sues-hospital-surgeon-allegedly-amputated-wrong-leg"
+          "title": "White Sox look to close out Houston Astros in two games after dominant playoff opener",
+          "link": "https://www.foxnews.com/outkick-betting/white-sox-close-houston-astros-two-games-dominant-playoff-opener"
         },
         {
-          "title": "Utah man released after decades on death row as DNA evidence excludes him from 1985 killing",
-          "link": "https://www.foxnews.com/us/utah-man-released-decades-death-row-dna-evidence-excludes-1985-killing"
+          "title": "Early Prime Day coffee and tea deals: $100 Keurig, 31% off Cuisinart kettles and more",
+          "link": "https://www.foxnews.com/deals/october-prime-day-coffee-tea-deals"
         },
         {
-          "title": "Venezuelan national shot by ICE officer in Austin charged with assaulting federal officer",
-          "link": "https://www.foxnews.com/us/venezuelan-national-shot-ice-officer-austin-charged-assaulting-federal-officer"
+          "title": "WWE NXT star EK Prosper hits jaw-dropping move on Grayson Waller but fails to win championship",
+          "link": "https://www.foxnews.com/outkick-sports/wwe-nxt-star-ek-prosper-hits-jaw-dropping-move-grayson-waller-fails-win-championship"
         },
         {
-          "title": "Cam Schlittler and Ben Rice, Yankees’ own Massachusetts natives, crush Red Sox in Game 1 blowout",
-          "link": "https://www.foxnews.com/outkick-sports/cam-schlittler-ben-rice-yankees-massachusetts-natives-crush-red-sox-game-1-blowout"
+          "title": "Lindsay Clancy holdout juror’s lawyers say they plan bar complaint against Reddington",
+          "link": "https://www.foxnews.com/us/lindsay-clancy-holdout-juror-lawyers-plan-bar-complaint-reddington"
         },
         {
-          "title": "Chicago White Sox stun Houston Astros to take 1-0 lead in American League Wild Card Series",
-          "link": "https://www.foxnews.com/outkick-sports/chicago-white-sox-stun-houston-astros-take-1-0-lead-american-league-wild-card-series"
+          "title": "WNBA refs miss opportunity to eject A'ja Wilson over meltdown, entering stands",
+          "link": "https://www.foxnews.com/outkick-sports/wnba-refs-miss-opportunity-eject-aja-wilson-over-meltdown-entering-stands"
         },
         {
-          "title": "Aces' A'ja Wilson gets tech for confrontation with Fever fan, who was determined to have broken no rules",
-          "link": "https://www.foxnews.com/outkick-sports/aces-aja-wilson-gets-tech-confrontation-fever-fan-determined-broken-no-rules"
+          "title": "GOP fortress is under threat in one key red state, and these voters could decide whether it falls",
+          "link": "https://www.foxnews.com/politics/gop-fortress-under-threat-key-red-state-voters-decide-whether-falls"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-30T08:19:41.024Z"
+      "updatedAt": "2026-09-30T15:47:36.491Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "The Future of Trump's Counterrevolution",
-          "link": "https://www.realclearpolitics.com/video/2026/09/28/get_real_w_david_desrosiers_victor_david_hanson_explains_trumps_counterrevolution.html"
+          "title": "Americans Want Populist Policies That Defy Traditional Labels",
+          "link": "https://www.realclearpolitics.com/2026/09/30/americans_want_populist_policies_that_defy_traditional_labels_712648.html"
         },
         {
-          "title": "9 Senate Seats Most Likely To Flip Party Control",
-          "link": "https://www.realclearpolitics.com/2026/09/29/9_senate_seats_most_likely_to_flip_party_control_712458.html"
+          "title": "Prison Population Plummets as Crime Rates Fall",
+          "link": "https://www.realclearpolitics.com/2026/09/30/prison_population_plummets_as_crime_rates_fall_712653.html"
         },
         {
-          "title": "Embracing AI is a Winning Message",
-          "link": "https://www.realclearpolitics.com/2026/09/29/embracing_ai_is_a_winning_message_712588.html"
+          "title": "Immigration Enforcement Without the Melodrama",
+          "link": "https://www.realclearpolitics.com/2026/09/30/immigration_enforcement_without_the_melodrama_712527.html"
         },
         {
-          "title": "Gov. Sanders Picking on the Wrong Target?",
-          "link": "https://www.realclearpolitics.com/2026/09/29/gov_sanders_picking_on_the_wrong_target_712586.html"
+          "title": "AI (or Super Intelligence) Day at the White House",
+          "link": "https://www.realclearpolitics.com/articles/2026/09/30/ai_day_at_the_white_house_154547.html"
         },
         {
-          "title": "Trump Is Using Taxpayer Money for Illegal Propaganda",
-          "link": "https://www.realclearpolitics.com/2026/09/29/trump_is_using_taxpayer_money_for_illegal_propaganda_712581.html"
+          "title": "What China Wants From AI",
+          "link": "https://www.realclearpolitics.com/2026/09/30/what_china_wants_from_ai_712595.html"
         },
         {
-          "title": "$469,936 for a Fairfax County Bureaucrat?",
-          "link": "https://www.realclearpolitics.com/2026/09/29/469936_for_a_fairfax_county_bureaucrat_712442.html"
+          "title": "Scripture-Twisting Talarico Claims Bible Is Leftist",
+          "link": "https://www.realclearpolitics.com/2026/09/30/scripture-twisting_talarico_claims_bible_is_leftist_712654.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-30T08:19:41.218Z"
+      "updatedAt": "2026-09-30T15:47:36.747Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Marshall sends cease-and-desist to Hamilton over \"defamatory\" medical debt ad",
-          "link": "https://thehill.com/homenews/campaign/6119443-marshall-cease-desist-hamilton-ad/"
+          "title": "What to know about Flydubai cockpit clash as pilot is arrested",
+          "link": "https://thehill.com/policy/transportation/6120297-flydubai-co-pilot-arrested/"
         },
         {
-          "title": "NYC appeals Staten Island judge's ruling against Mamdani's pied-à-terre tax",
-          "link": "https://thehill.com/regulation/court-battles/6119432-nyc-mayor-appeals-pied-a-terre-tax/"
+          "title": "Bessent is wrong: China armed Iran’s nuclear weapons ambitions",
+          "link": "https://thehill.com/opinion/6118290-china-supplied-iran-nuclear-tech/"
         },
         {
-          "title": "What products are part of US-China $60 billion tariff cuts deal",
-          "link": "https://thehill.com/business/6119380-us-china-tariff-cuts/"
+          "title": "Federal appeals court stays Christa Pike execution with hours to spare",
+          "link": "https://thehill.com/regulation/court-battles/6120336-christa-pike-execution-stayed/"
         },
         {
-          "title": "Eric Cantor named new president of pharma trade group",
-          "link": "https://thehill.com/homenews/6119349-eric-cantor-phrma-president-newsletter/"
+          "title": "Senate Democrats rip DHS over diverted funding for campaign-style Trump ads",
+          "link": "https://thehill.com/homenews/senate/6120110-senate-democrats-dhs-funding-trump-taxpayer-funded-tv-ads/"
         },
         {
-          "title": "Senate blocks Democratic effort to force report on West Bank violence",
-          "link": "https://thehill.com/homenews/senate/6119354-senate-blocks-west-bank-resolution/"
+          "title": "New University of Michigan grading plan halted after backlash",
+          "link": "https://thehill.com/homenews/education/6120237-university-of-michigan-freshmen-grading/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-30T08:19:42.288Z"
+      "updatedAt": "2026-09-30T15:47:37.581Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "Cloudflare plans to issue quantum-safe TLS certificates",
+          "link": "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/"
+        },
         {
           "title": "Most powerful obesity drug yet: People lost up to 25% of weight in trial",
           "link": "https://arstechnica.com/health/2026/09/most-powerful-obesity-drug-yet-people-lost-up-to-25-of-weight-in-trial/"
@@ -134,166 +138,162 @@
         {
           "title": "Trump ads paid for by US government allegedly violate anti-propaganda laws",
           "link": "https://arstechnica.com/tech-policy/2026/09/trump-ads-paid-for-by-us-government-allegedly-violate-anti-propaganda-laws/"
-        },
-        {
-          "title": "NASA has a Dragon dilemma, and there appear to be no good answers",
-          "link": "https://arstechnica.com/space/2026/09/nasa-has-a-dragon-dilemma-and-there-appear-to-be-no-good-answers/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-30T08:19:42.499Z"
+      "updatedAt": "2026-09-30T15:47:37.819Z"
     },
     "The Verge": {
       "items": [
         {
-          "title": "Sam Altman says OpenAI won’t go public until its models are safe",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety"
+          "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai"
         },
         {
-          "title": "Trump orders US government to call AI ‘Super Intelligence’",
-          "link": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai"
+          "title": "Google reportedly tests paying publishers for AI search results",
+          "link": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features"
         },
         {
-          "title": "BMW’s revamped i3 boasts up to 468 miles of range",
-          "link": "https://www.theverge.com/transportation/1002173/bmws-revamped-i3-boasts-up-to-468-miles-of-range"
+          "title": "Instagram is adding an AI ‘assistant’ to tell you how to post",
+          "link": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube"
         },
         {
-          "title": "Suspected ShinyHunters leader arrested in the Netherlands",
-          "link": "https://www.theverge.com/tech/1002410/shinyhunters-hacking-suspect-arrested"
+          "title": "Amazon&#8217;s new Fire TV Stick 4K can pull power directly from your TV",
+          "link": "https://www.theverge.com/streaming/1002597/amazon-fire-tv-stick-4k-direct-power"
         },
         {
-          "title": "Elon Musk&#8217;s AI-powered Grokipedia is updating again",
-          "link": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again"
+          "title": "The Sonos Ace Ultra are the headphones Sonos should have made the first time",
+          "link": "https://www.theverge.com/tech/1002122/sonos-ace-ultra-headphones-review"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-30T08:19:42.639Z"
+      "updatedAt": "2026-09-30T15:47:37.934Z"
     },
     "BBC World": {
       "items": [
+        {
+          "title": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
+          "link": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
+          "link": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
+          "link": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "Chinese AI tool told researchers how to make bioweapons",
           "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Three takeaways from Trump's 'Super Intelligence' summit",
-          "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "Girl has multiple surgeries to control infections after strike in Gaza",
           "link": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Israel-bound flight diverted after fight between pilots",
-          "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss"
+          "title": "US actor Chad Lowe 'heartbroken' by death of daughter Fiona aged 13",
+          "link": "https://www.bbc.co.uk/news/articles/c3x2z9k1zdn4o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
-          "link": "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Six Flags shuts down X2 rollercoaster after more than 100 allege brain injuries",
-          "link": "https://www.bbc.co.uk/news/articles/cw14d37446d8o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "South Africa to clean up high-risk areas after 12 women killed",
-          "link": "https://www.bbc.co.uk/news/articles/c51kx9ze1mdzo?at_medium=RSS&at_campaign=rss"
+          "title": "Singapore launches matchmaking service for government workers",
+          "link": "https://www.bbc.co.uk/news/articles/cqzjzr893yv4o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-30T08:19:42.774Z"
+      "updatedAt": "2026-09-30T15:47:38.290Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Watch: Burnham says UK could go 'all the way' towards rejoining EU",
-          "link": "https://www.bbc.co.uk/news/videos/ck1e5w239epjo?at_medium=RSS&at_campaign=rss"
+          "title": "'We've just taken control': Passengers describe what happened on flight",
+          "link": "https://www.bbc.co.uk/news/videos/cv70d22kd34do?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "One of the five men arrested near RAF Fairford called 999 himself",
-          "link": "https://www.bbc.co.uk/news/articles/cqn8m342rgk9o?at_medium=RSS&at_campaign=rss"
+          "title": "What we know about stabbing on Flydubai flight to Israel",
+          "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Household energy bills forecast to see biggest rise in four years",
-          "link": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss"
+          "title": "Move to rejoin EU among options for UK, says Burnham",
+          "link": "https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Man City charges leave football fans questioning legitimacy of team's achievements",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c9lyk46gekkeo?at_medium=RSS&at_campaign=rss"
+          "title": "Residents near RAF Fairford left 'like sitting ducks'",
+          "link": "https://www.bbc.co.uk/news/articles/cmlyr71jq44wo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "'Mum sent them £140,000': How to spot the signs a loved one is being scammed",
-          "link": "https://www.bbc.co.uk/news/articles/c674evx4p1x1o?at_medium=RSS&at_campaign=rss"
+          "title": "China funding UK research which is being sent to Beijing's spies, MI5 warns",
+          "link": "https://www.bbc.co.uk/news/articles/cwy7zrljp527o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Girl has multiple surgeries to control infections after strike in Gaza",
-          "link": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss"
+          "title": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
+          "link": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-30T08:19:42.812Z"
+      "updatedAt": "2026-09-30T15:47:38.328Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "Jack Smith Defends Trump Charges as Senator’s Perjury Claim Falls Apart",
-          "link": "https://www.nytimes.com/2026/09/29/us/politics/jack-smith-congress-testimony.html"
+          "title": "Passenger Describes Chaos Aboard FlyDubai Flight",
+          "link": "https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-flight-israel-plane-passenger.html"
         },
         {
-          "title": "Democrats in Congress Embrace a More Punitive Posture Toward Israel",
-          "link": "https://www.nytimes.com/2026/09/29/us/politics/democrats-congress-israel.html"
+          "title": "FlyDubai Flight to Israel Diverted After Clash Between Pilots: What We Know and Don’t Know",
+          "link": "https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-dubai-israel-flight-diverted.html"
         },
         {
-          "title": "Judge Orders New York to Scrap Rollout of Second-Home Tax and Start Over",
-          "link": "https://www.nytimes.com/2026/09/29/nyregion/nyc-second-home-tax-lawsuit.html"
+          "title": "U.S. Withdraws From Iraq After Two Decades, and Trump Tells A.I. Giants to Police Themselves",
+          "link": "https://www.nytimes.com/2026/09/30/podcasts/the-headlines/us-iraq-trump-ai.html"
         },
         {
-          "title": "D.A. in Cornell Case Hopes to Speak to Accuser as He Weighs New Evidence",
-          "link": "https://www.nytimes.com/2026/09/29/nyregion/van-houten-cornell-district-attorney.html"
+          "title": "After Two Decades, U.S. Forces Leave Iraq to an Uncertain Future",
+          "link": "https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-forces.html"
         },
         {
-          "title": "Cornell University Rape Investigation: What We Know",
-          "link": "https://www.nytimes.com/2026/09/29/nyregion/cornell-university-rape-investigation-chi-phi-fraternity.html"
+          "title": "American Forces Withdraw From Iraq 23 Years After Invading",
+          "link": "https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-troop-withdrawal.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-30T08:19:42.976Z"
+      "updatedAt": "2026-09-30T15:47:38.548Z"
     }
   },
   "indices": {
     "data": [
       {
         "name": "S&P 500",
-        "price": 7670.84,
-        "pct": -1.2080405530713616
+        "price": 7709.73,
+        "pct": 0.04801434720601682
       },
       {
         "name": "Dow Jones",
-        "price": 51349.92,
-        "pct": -0.9906159781535098
+        "price": 51293.01,
+        "pct": -0.42433168923730463
       },
       {
         "name": "Nasdaq",
-        "price": 26797.541,
-        "pct": -1.6397533720839668
+        "price": 27054.098,
+        "pct": 0.43829011242929883
       },
       {
         "name": "Gold",
-        "price": 4226.9,
-        "pct": -2.182264185874298
+        "price": 4188.7,
+        "pct": -3.066277885772471
       },
       {
         "name": "Bitcoin",
-        "price": 83185.17,
-        "pct": -1.4469036430272793
+        "price": 84126.26,
+        "pct": -0.331953304516423
       },
       {
         "name": "SpaceX",
-        "price": 149.24,
-        "pct": -3.541882109617367
+        "price": 150.395,
+        "pct": 1.3716635211647321
       }
     ],
     "ok": true,
-    "updatedAt": "2026-09-30T08:19:43.120Z"
+    "updatedAt": "2026-09-30T15:47:38.761Z"
   }
 }
