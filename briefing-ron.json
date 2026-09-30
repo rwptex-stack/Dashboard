@@ -1,8 +1,24 @@
 {
-  "fetchedAt": "2026-09-29T22:54:35.197Z",
+  "fetchedAt": "2026-09-30T01:56:26.833Z",
   "feeds": {
     "MarketWatch": {
       "items": [
+        {
+          "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
+          "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories"
+        },
+        {
+          "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
+          "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories"
+        },
+        {
+          "title": "I’m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
+          "link": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories"
+        },
+        {
+          "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
+          "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories"
+        },
         {
           "title": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?",
           "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories"
@@ -10,56 +26,40 @@
         {
           "title": "Hollywood’s big debt deal hits a wall of higher yields as Paramount finances Warner Bros. buyout",
           "link": "https://www.marketwatch.com/story/hollywoods-big-debt-deal-hits-a-wall-of-higher-yields-as-paramount-finances-warner-bros-buyout-6ee6e3b8?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Could SpaceX be worth $12 trillion one day? Citi says Starship gets it a step closer.",
-          "link": "https://www.marketwatch.com/story/could-spacex-be-worth-12-trillion-one-day-citi-says-starship-gets-it-a-step-closer-6ce44961?mod=mw_rss_topstories"
-        },
-        {
-          "title": "The real prize in AMD’s $8 billion World Labs acquisition isn’t what you’d think",
-          "link": "https://www.marketwatch.com/story/the-real-prize-in-amds-8-billion-world-labs-acquisition-isnt-what-youd-think-6f609d0f?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Target’s price cuts are a sign of strength, some analysts say. Investors disagree.",
-          "link": "https://www.marketwatch.com/story/targets-price-cuts-are-a-sign-of-strength-some-analysts-say-investors-disagree-6a6f0717?mod=mw_rss_topstories"
-        },
-        {
-          "title": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
-          "link": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-29T22:54:34.089Z"
+      "updatedAt": "2026-09-30T01:56:25.689Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Michael Monsoor had an escape route — the Medal of Honor recipient chose to save his teammates instead",
-          "link": "https://www.foxnews.com/media/michael-monsoor-had-escape-route-medal-honor-recipient-chose-save-his-teammates-instead"
+          "title": "BBC removes article claiming bare nails trend perpetuates 'White supremacist' beauty standards",
+          "link": "https://www.foxnews.com/media/bbc-removes-article-claiming-bare-nails-trend-perpetuates-white-supremacist-beauty-standards"
         },
         {
-          "title": "Paul Finebaum roasts Lincoln Riley, says he's a 'complete fraud' as hot seat rumors swirl",
-          "link": "https://www.foxnews.com/outkick-sports/paul-finebaum-roasts-lincoln-riley-complete-fraud-hot-seat-rumors-swirl"
+          "title": "Transgender athletes have taken 2,293 championship spots from biological women, new research finds",
+          "link": "https://www.foxnews.com/outkick-sports/transgender-athletes-taken-2293-championship-spots-biological-women-new-research-finds"
         },
         {
-          "title": "MLB putting playoff games exclusively on a streaming service is officially too far",
-          "link": "https://www.foxnews.com/outkick-sports/mlb-putting-playoff-games-exclusively-streaming-service-officially-too-far"
+          "title": "Reparations activists call out blue states for using slavery history to fund broader agenda",
+          "link": "https://www.foxnews.com/media/reparations-activists-call-out-blue-states-using-slavery-history-fund-broader-agenda"
         },
         {
-          "title": "Charlie Kirk's mother has emotional response to Erika Kirk speculation in rare interview",
-          "link": "https://www.foxnews.com/us/charlie-kirks-mother-has-emotional-response-erika-kirk-speculation-rare-interview"
+          "title": "Caitlin Clark's technical foul sparks furious rally as Fever avoid elimination against Aces",
+          "link": "https://www.foxnews.com/outkick-sports/caitlin-clark-makes-wnba-history-half-turns-tech-foul-furious-run-do-or-die-game-2-aces"
         },
         {
-          "title": "Ukrainian influencers filmed themselves sitting on top of sea turtle while it tries to lay eggs",
-          "link": "https://www.foxnews.com/outkick-sports/ukrainian-influencers-filmed-sitting-sea-turtle-while-tries-lay-eggs"
+          "title": "Boeing lands $20B-plus Navy deal for sixth-generation fighter to deliver ‘absolute air superiority’",
+          "link": "https://www.foxnews.com/politics/boeing-lands-20b-plus-navy-deal-sixth-generation-fighter-deliver-absolute-air-superiority"
         },
         {
-          "title": "NYC judge orders Mamdani to redo second-home tax rollout",
-          "link": "https://www.foxnews.com/politics/nyc-judge-orders-mamdani-redo-second-home-tax-rollout"
+          "title": "John Goodman and wife Anna Beth Goodman enjoy rare date night at 'Digger' premiere",
+          "link": "https://www.foxnews.com/entertainment/john-goodman-wife-anna-beth-goodman-enjoy-rare-date-night-digger-premiere"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-29T22:54:34.197Z"
+      "updatedAt": "2026-09-30T01:56:25.760Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -89,36 +89,44 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-29T22:54:34.375Z"
+      "updatedAt": "2026-09-30T01:56:25.983Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Staten Island judge rules against Mamdani, NYC on taxing second homes",
-          "link": "https://thehill.com/regulation/court-battles/6119135-judge-blocks-nyc-pied-a-terre-tax/"
+          "title": "What products are part of US-China $60 billion tariff cuts deal",
+          "link": "https://thehill.com/business/6119380-us-china-tariff-cuts/"
         },
         {
-          "title": "Was Iran behind a ‘terror plot’ targeting US forces in Britain?",
-          "link": "https://thehill.com/policy/international/6119157-iran-plot-raf-fairford/"
+          "title": "Eric Cantor named new president of pharma trade group",
+          "link": "https://thehill.com/homenews/6119349-eric-cantor-phrma-president-newsletter/"
         },
         {
-          "title": "Trump, GOP leaders look to reclaim control over AI narrative",
-          "link": "https://thehill.com/homenews/administration/6119096-trump-republicans-ai-data-centers/"
+          "title": "Senate blocks Democratic effort to force report on West Bank violence",
+          "link": "https://thehill.com/homenews/senate/6119354-senate-blocks-west-bank-resolution/"
         },
         {
-          "title": "5 things to know about Trump's new AI website",
-          "link": "https://thehill.com/homenews/administration/6119087-trump-launches-ai-america-gov/"
+          "title": "4 takeaways from the MAHA Summit",
+          "link": "https://thehill.com/policy/healthcare/6119302-maha-summit-corporate-takeaways/"
         },
         {
-          "title": "AI firms agree to 'morally binding' self-policing at White House",
-          "link": "https://thehill.com/newsletters/technology/6119104-ai-firms-agree-to-morally-binding-self-policing-at-white-house/"
+          "title": "EPA to ‘reconsider’ air quality rules as Texas faces diesel price 'disaster'",
+          "link": "https://thehill.com/policy/energy-environment/6119251-epa-reconsiders-texas-air-regulations/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-29T22:54:34.928Z"
+      "updatedAt": "2026-09-30T01:56:26.529Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "Most powerful obesity drug yet: People lost up to 25% of weight in trial",
+          "link": "https://arstechnica.com/health/2026/09/most-powerful-obesity-drug-yet-people-lost-up-to-25-of-weight-in-trial/"
+        },
+        {
+          "title": "Protests against OpenAI get increasingly creative",
+          "link": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/"
+        },
         {
           "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
           "link": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/"
@@ -130,21 +138,17 @@
         {
           "title": "NASA has a Dragon dilemma, and there appear to be no good answers",
           "link": "https://arstechnica.com/space/2026/09/nasa-has-a-dragon-dilemma-and-there-appear-to-be-no-good-answers/"
-        },
-        {
-          "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
-          "link": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/"
-        },
-        {
-          "title": "Apple pressured to explain Trump role in ICE-tracking app removals",
-          "link": "https://arstechnica.com/tech-policy/2026/09/apple-worked-with-trump-admin-to-remove-ice-tracking-apps-lawmaker-says/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-29T22:54:34.970Z"
+      "updatedAt": "2026-09-30T01:56:26.577Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety"
+        },
         {
           "title": "Trump orders US government to call AI ‘Super Intelligence’",
           "link": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai"
@@ -160,20 +164,20 @@
         {
           "title": "Elon Musk&#8217;s AI-powered Grokipedia is updating again",
           "link": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again"
-        },
-        {
-          "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-29T22:54:35.005Z"
+      "updatedAt": "2026-09-30T01:56:26.633Z"
     },
     "BBC World": {
       "items": [
         {
           "title": "Spain announces ban on evictions after protests over 87-year-old woman's removal from flat",
           "link": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Chinese AI tool told researchers how to make bioweapons",
+          "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "South Africa to clean up high-risk areas after 12 women killed",
@@ -194,17 +198,25 @@
         {
           "title": "More than 400 detained as France student protests escalate",
           "link": "https://www.bbc.co.uk/news/articles/c862epne7glyo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "First female prime minister named in Morocco after winning elections",
-          "link": "https://www.bbc.co.uk/news/articles/c674kkjllw17o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-29T22:54:35.046Z"
+      "updatedAt": "2026-09-30T01:56:26.672Z"
     },
     "BBC News": {
       "items": [
+        {
+          "title": "One of the five men arrested near RAF Fairford called 999 himself",
+          "link": "https://www.bbc.co.uk/news/articles/cqn8m342rgk9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "How did the RAF Fairford incident go from 'suspected bomb plot' to police bail?",
+          "link": "https://www.bbc.co.uk/news/articles/c6p3kelx4epwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Household energy bills forecast to see biggest rise in four years",
+          "link": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "Burnham vows to end existing pension triple lock in 2030 to help fund care",
           "link": "https://www.bbc.co.uk/news/articles/cve8x724e9ezo?at_medium=RSS&at_campaign=rss"
@@ -214,50 +226,38 @@
           "link": "https://www.bbc.co.uk/news/articles/cmeq847qxde5o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Man City guilty of 'sham' contracts and misleading accounts",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c63reg93xwzro?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "'Quantity of petrol' but no explosives found in three vehicles near RAF Fairford",
-          "link": "https://www.bbc.co.uk/news/articles/cqn8m342rgk9o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "How did the RAF Fairford incident go from 'suspected bomb plot' to police bail?",
-          "link": "https://www.bbc.co.uk/news/articles/c6p3kelx4epwo?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "Three teenagers die after car enters River Wear",
           "link": "https://www.bbc.co.uk/news/articles/c8y5zxeq5dl3o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-29T22:54:35.070Z"
+      "updatedAt": "2026-09-30T01:56:26.708Z"
     },
     "NY Times": {
       "items": [
+        {
+          "title": "Jack Smith Defends Trump Charges as Senator’s Perjury Claim Falls Apart",
+          "link": "https://www.nytimes.com/2026/09/29/us/politics/jack-smith-congress-testimony.html"
+        },
+        {
+          "title": "Democrats in Congress Embrace a More Punitive Posture Toward Israel",
+          "link": "https://www.nytimes.com/2026/09/29/us/politics/democrats-congress-israel.html"
+        },
+        {
+          "title": "Trump Hosts A.I. Executives at the White House",
+          "link": "https://www.nytimes.com/2026/09/29/briefing/trump-ai-ice-hiring-surge.html"
+        },
         {
           "title": "Judge Orders New York to Scrap Rollout of Second-Home Tax and Start Over",
           "link": "https://www.nytimes.com/2026/09/29/nyregion/nyc-second-home-tax-lawsuit.html"
         },
         {
-          "title": "Supreme Court Allows Trump Administration’s Third-Country Deportations, for Now",
-          "link": "https://www.nytimes.com/2026/09/29/us/politics/supreme-court-deportations-third-country.html"
-        },
-        {
-          "title": "ICE Plans 5,000 New Hires to Help With Deportation Drive",
-          "link": "https://www.nytimes.com/2026/09/29/us/ice-hiring-immigration-enforcement-vetting.html"
-        },
-        {
-          "title": "Man Shot by ICE Agent in Austin Is Charged With Assault",
-          "link": "https://www.nytimes.com/2026/09/29/us/ice-shooting-driver-austin-charges-body-camera.html"
-        },
-        {
-          "title": "Trump Administration Prepares to Ask Tax Filers if They Are U.S. Citizens",
-          "link": "https://www.nytimes.com/2026/09/29/business/irs-tax-returns-citizenship.html"
+          "title": "Cornell University Rape Investigation: What We Know",
+          "link": "https://www.nytimes.com/2026/09/29/nyregion/cornell-university-rape-investigation-chi-phi-fraternity.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-29T22:54:35.110Z"
+      "updatedAt": "2026-09-30T01:56:26.739Z"
     }
   },
   "indices": {
@@ -279,13 +279,13 @@
       },
       {
         "name": "Gold",
-        "price": 4210.3,
-        "pct": -2.040483946021401
+        "price": 4201.3,
+        "pct": -2.2498836668217734
       },
       {
         "name": "Bitcoin",
-        "price": 83611.28,
-        "pct": -0.5041237618837495
+        "price": 83405.82,
+        "pct": -1.1854899714417442
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-09-29T22:54:35.197Z"
+    "updatedAt": "2026-09-30T01:56:26.833Z"
   }
 }
