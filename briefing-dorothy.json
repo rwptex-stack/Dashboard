@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-10-01T01:39:22.853Z",
+  "fetchedAt": "2026-10-01T07:56:31.152Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Actress Monet Mazur's $1.5M Hollywood Hills home targeted by masked suspects in break-in attempt",
-          "link": "https://www.foxnews.com/entertainment/actress-monet-mazurs-1-5m-hollywood-hills-home-targeted-masked-suspects-break-in-attempt"
+          "title": "Ringo, at 86, rocks DC, but why are we still fixated on the Beatles, six decades after their breakup?",
+          "link": "https://www.foxnews.com/opinion/ringo-86-rocks-dc-why-we-still-fixated-beatles-six-decades-after-breakup"
         },
         {
-          "title": "Patrick McEnroe on U.S. Open weed smell, trans athletes, foreign recruits reshaping college tennis",
-          "link": "https://www.foxnews.com/outkick-sports/patrick-mcenroe-us-open-weed-smell-trans-athletes-foreign-recruits-reshaping-college-tennis"
+          "title": "1 missing, 4 rushed to hospital after helicopter crashes off Southern California island",
+          "link": "https://www.foxnews.com/us/1-missing-4-rushed-hospital-helicopter-crashes-southern-california-island"
         },
         {
-          "title": "Hasan Piker speaks to UT Austin students after backlash from Texas lawmakers",
-          "link": "https://www.foxnews.com/media/hasan-piker-speaks-ut-austin-students-backlash-texas-lawmakers"
+          "title": "Arizona sheriff's helicopter crew rescues man stranded atop overturned truck in rapidly rising floodwaters",
+          "link": "https://www.foxnews.com/us/arizona-sheriffs-helicopter-crew-rescues-man-stranded-atop-overturned-truck-rapidly-rising-floodwaters"
         },
         {
-          "title": "Suspect arrested after alleged plot to attack Texas Capitol: officials",
-          "link": "https://www.foxnews.com/us/suspect-arrested-alleged-plot-attack-texas-capitol-officials"
+          "title": "White Sox, Yankees advance to next round with sweeps as Munetaka Murakami provides quote of the year",
+          "link": "https://www.foxnews.com/outkick-sports/white-sox-yankees-advance-next-round-sweeps-munetaka-murakami-provides-quote-year"
         },
         {
-          "title": "Reparations advocates slam cash compensation ‘handout’ label, point to past government remedies",
-          "link": "https://www.foxnews.com/media/reparations-activists-insist-true-americans-must-pay-direct-cash-compensation-descendants-slaves"
+          "title": "Atlanta Dream advance to WNBA playoffs semifinals for first time since 2018 with Game 2 win",
+          "link": "https://www.foxnews.com/outkick-sports/atlanta-dream-advance-wnba-playoffs-semifinals-first-time-since-2018-game-2-win"
         },
         {
-          "title": "AEW airs gripping Jon Moxley promo to start Pac tribute show after wrestler's death",
-          "link": "https://www.foxnews.com/outkick-sports/aew-airs-gripping-jon-moxley-promo-start-pac-tribute-show-after-wrestler-death"
+          "title": "Pete Davidson calls out NYC mayor Zohran Mamdani over highway mess",
+          "link": "https://www.foxnews.com/entertainment/pete-davidson-calls-out-nyc-mayor-zohran-mamdani-highway-mess"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T01:39:18.968Z"
+      "updatedAt": "2026-10-01T07:56:29.691Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,33 +59,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T01:39:19.224Z"
+      "updatedAt": "2026-10-01T07:56:29.823Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Trump says 'only a Hispanic could survive' fall from White House ballroom",
-          "link": "https://thehill.com/homenews/administration/6121943-trump-white-house-ballroom-hispanic-heritage-month/"
+          "title": "Indiana governor extends gas tax suspension",
+          "link": "https://thehill.com/policy/energy-environment/6122117-braun-indiana-gas-tax-iran-war/"
         },
         {
-          "title": "The 6 new initiatives in Hegseth's Pentagon",
-          "link": "https://thehill.com/newsletters/defense-national-security/6121880-the-6-new-initiatives-in-hegseths-pentagon/"
+          "title": "Becerra, Hilton tangle over ‘Trump, Trump, Trump’ in California governor debate",
+          "link": "https://thehill.com/homenews/6122170-becerra-hilton-california-governor-debate/"
         },
         {
-          "title": "Supreme Court allows execution of Christa Pike to go forward",
-          "link": "https://thehill.com/regulation/court-battles/6121917-supreme-court-crista-pike-execution-tennessee/"
+          "title": "Senate confirms insider Keith Sonderling to lead Department of Labor",
+          "link": "https://thehill.com/homenews/6122151-senate-confirms-keith-sonderling-labor-secretary/"
         },
         {
-          "title": "Democratic Women’s Caucus blasts Trump over Title IX rollback after Cornell rape allegations",
-          "link": "https://thehill.com/homenews/house/6121915-dwc-criticizes-trump-titleix/"
+          "title": "Tennessee inmate Christa Pike still alive after lethal injection dose, lawyers say",
+          "link": "https://thehill.com/regulation/court-battles/6122135-tennessee-christa-pike-execution-botched/"
         },
         {
-          "title": "Permitting text has landed",
-          "link": "https://thehill.com/newsletters/energy-environment/6121885-permitting-text-has-landed/"
+          "title": "Man arrested after making 'credible threat' toward Texas Capitol",
+          "link": "https://thehill.com/homenews/state-watch/6122088-man-arrested-texas-capitol-threat/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T01:39:20.038Z"
+      "updatedAt": "2026-10-01T07:56:30.340Z"
     },
     "Ars Technica": {
       "items": [
@@ -111,10 +111,14 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T01:39:20.243Z"
+      "updatedAt": "2026-10-01T07:56:30.457Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "Vivo’s X Fold 6 accidentally feels like a throwback",
+          "link": "https://www.theverge.com/tech/1002680/vivo-x-fold-6-global-release-specs-cameras"
+        },
         {
           "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
           "link": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai"
@@ -130,19 +134,19 @@
         {
           "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
           "link": "https://www.theverge.com/tech/1002980/google-gemini-4-argon"
-        },
-        {
-          "title": "The AI Tamagotchis are coming",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T01:39:20.415Z"
+      "updatedAt": "2026-10-01T07:56:30.517Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "'Hero' pilot stabbed by other pilot on Israel-bound plane, Israeli PM says",
+          "title": "US death row inmate survives execution attempt after two lethal injections",
+          "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
           "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss"
         },
         {
@@ -150,12 +154,8 @@
           "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
+          "title": "Rosenberg: Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
           "link": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "US Supreme Court allows execution of Christa Pike to go ahead",
-          "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
@@ -171,66 +171,70 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T01:39:20.601Z"
+      "updatedAt": "2026-10-01T07:56:30.546Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Veteran broadcaster Dame Esther Rantzen dies aged 86",
-          "link": "https://www.bbc.co.uk/news/articles/c4g4z255y30o?at_medium=RSS&at_campaign=rss"
+          "title": "We fear for our lives after being told our abusive exes will be freed from jail early",
+          "link": "https://www.bbc.co.uk/news/articles/crz6zq5pew89o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "How That's Life! gave Esther Rantzen a career-defining moment",
-          "link": "https://www.bbc.co.uk/news/articles/c3gr5ynd5p1o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "'Hero' pilot stabbed by other pilot on Israel-bound plane, Israeli PM says",
-          "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "US Supreme Court allows execution of Christa Pike to go ahead",
+          "title": "US death row inmate survives execution attempt after two lethal injections",
           "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Employers should teach primary-age children about work, says Milburn",
-          "link": "https://www.bbc.co.uk/news/articles/cr2kwlw0p3v9o?at_medium=RSS&at_campaign=rss"
+          "title": "Watch: The many questions raised by the failed execution of Christa Pike",
+          "link": "https://www.bbc.co.uk/news/videos/cq5ymyl1y29ko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "China has cracked down on AI relationships. Is it ahead of the game?",
-          "link": "https://www.bbc.co.uk/news/articles/cm4gjy9lr551o?at_medium=RSS&at_campaign=rss"
+          "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
+          "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "AI boom could trigger market shocks, Bank of England boss warns",
+          "link": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Tiny image sparks big backlash in Nikon photo contest",
+          "link": "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T01:39:20.688Z"
+      "updatedAt": "2026-10-01T07:56:30.554Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "Trump’s Voluntary A.I. Policing Echoes What Biden Did. But Is It Enough Today?",
-          "link": "https://www.nytimes.com/2026/09/30/us/politics/trump-biden-ai.html"
+          "title": "How a Cornell Student Went From Shame to Seeking Justice",
+          "link": "https://www.nytimes.com/2026/10/01/nyregion/cornell-rape-accusation-reporting.html"
         },
         {
-          "title": "Congress Set to Leave Washington for the Midterms With No A.I. Progress",
-          "link": "https://www.nytimes.com/2026/09/30/us/politics/congress-ai-safety.html"
+          "title": "The Cornell Rape Investigation: Five Takeaways",
+          "link": "https://www.nytimes.com/2026/10/01/nyregion/cornell-jane-doe-rape-investigation-documents.html"
         },
         {
-          "title": "OpenAI’s Greg Brockman Backs Out of Second $25 Million Donation to A.I. Super PAC",
-          "link": "https://www.nytimes.com/2026/09/30/technology/openai-brockman-super-pac-leading-the-future.html"
+          "title": "Tennessee Death Row Inmate Christa Pike Still Alive After Attempts to Execute Her, Lawyers Say",
+          "link": "https://www.nytimes.com/2026/09/30/us/christa-pike-stay-execution-tennessee.html"
         },
         {
-          "title": "Who Attended Trump’s AI Luncheon, and Who Sat Where",
-          "link": "https://www.nytimes.com/2026/09/29/us/politics/trump-ai-luncheon-guests-ceos.html"
+          "title": "What to Know About the Execution Attempt of Christa Pike",
+          "link": "https://www.nytimes.com/2026/10/01/us/christa-pike-alive-tennessee-execution-halted.html"
         },
         {
-          "title": "Plane to Israel Narrowly Averts Disaster",
-          "link": "https://www.nytimes.com/2026/09/30/briefing/plane-stabbing-israel-jd-vance-texas.html"
+          "title": "A Bloody Attack on a FlyDubai Plane Headed to Israel, and a Terrifying Plunge",
+          "link": "https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-attack-israel-uae.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T01:39:20.936Z"
+      "updatedAt": "2026-10-01T07:56:30.582Z"
     },
     "ARTNews": {
       "items": [
+        {
+          "title": "Lisson Gallery and Gomide & Co. Now Represent Mira Schendel Estate, DMA Board Elects New Chair, and More: Industry Moves for October 1, 2026.",
+          "link": "https://www.artnews.com/art-news/market/mira-schendel-lisson-gomide-industry-moves-october-1-2026-1234800193/"
+        },
         {
           "title": "Strong Hong Kong Evening Sales, Totaling a Combined $184.6 M., Mask Key Hurdles in Asia’s Art Market",
           "link": "https://www.artnews.com/art-news/market/hong-kong-september-2026-acutions-sothebys-christies-phillips-1234800173/"
@@ -250,14 +254,10 @@
         {
           "title": "Louis Vuitton Collaborates with Keith Haring Foundation for its Latest Artycapucines Handbag Collection",
           "link": "https://www.artnews.com/art-news/news/louis-vuitton-keith-haring-artycapucines-handbag-collaboration-1234800096/"
-        },
-        {
-          "title": "Artists Rights Society Launches Partnership with Samsung to License Artworks on Digital Displays",
-          "link": "https://www.artnews.com/art-news/news/artists-rights-society-samsung-partnership-1234800137/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T01:39:21.382Z"
+      "updatedAt": "2026-10-01T07:56:30.820Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T01:39:21.729Z"
+      "updatedAt": "2026-10-01T07:56:30.884Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T01:39:22.673Z"
+      "updatedAt": "2026-10-01T07:56:31.036Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T01:39:22.853Z"
+      "updatedAt": "2026-10-01T07:56:31.152Z"
     }
   }
 }
