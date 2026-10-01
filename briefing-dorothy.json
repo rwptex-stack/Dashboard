@@ -1,94 +1,102 @@
 {
-  "fetchedAt": "2026-10-01T07:56:31.152Z",
+  "fetchedAt": "2026-10-01T14:58:09.034Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Ringo, at 86, rocks DC, but why are we still fixated on the Beatles, six decades after their breakup?",
-          "link": "https://www.foxnews.com/opinion/ringo-86-rocks-dc-why-we-still-fixated-beatles-six-decades-after-breakup"
+          "title": "The Castellows share recording studio photo and tease what appears to be new music on the way",
+          "link": "https://www.foxnews.com/outkick-culture/castellows-share-recording-studio-photo-tease-new-music-way"
         },
         {
-          "title": "1 missing, 4 rushed to hospital after helicopter crashes off Southern California island",
-          "link": "https://www.foxnews.com/us/1-missing-4-rushed-hospital-helicopter-crashes-southern-california-island"
+          "title": "Evan Gershkovich details Russian arrest, reveals moment that nearly broke him during wrongful detention",
+          "link": "https://www.foxnews.com/media/evan-gershkovich-details-russian-arrest-reveals-moment-nearly-broke-him-wrongful-detention"
         },
         {
-          "title": "Arizona sheriff's helicopter crew rescues man stranded atop overturned truck in rapidly rising floodwaters",
-          "link": "https://www.foxnews.com/us/arizona-sheriffs-helicopter-crew-rescues-man-stranded-atop-overturned-truck-rapidly-rising-floodwaters"
+          "title": "Dem Senate nominee apologizes to Jewish voters after 'genocide' remark sparked backlash",
+          "link": "https://www.foxnews.com/politics/dem-senate-nominee-apologizes-jewish-voters-after-genocide-remark-sparked-backlash"
         },
         {
-          "title": "White Sox, Yankees advance to next round with sweeps as Munetaka Murakami provides quote of the year",
-          "link": "https://www.foxnews.com/outkick-sports/white-sox-yankees-advance-next-round-sweeps-munetaka-murakami-provides-quote-year"
+          "title": "Loyal dog fetches police to help owner who fell at Kansas home",
+          "link": "https://www.foxnews.com/us/loyal-dog-fetches-police-help-owner-who-fell-kansas-home"
         },
         {
-          "title": "Atlanta Dream advance to WNBA playoffs semifinals for first time since 2018 with Game 2 win",
-          "link": "https://www.foxnews.com/outkick-sports/atlanta-dream-advance-wnba-playoffs-semifinals-first-time-since-2018-game-2-win"
+          "title": "Supreme Court to scrutinize key pillar of Trump deportation machine in blockbuster case",
+          "link": "https://www.foxnews.com/politics/supreme-court-hear-challenge-trumps-mass-detention-policy"
         },
         {
-          "title": "Pete Davidson calls out NYC mayor Zohran Mamdani over highway mess",
-          "link": "https://www.foxnews.com/entertainment/pete-davidson-calls-out-nyc-mayor-zohran-mamdani-highway-mess"
+          "title": "‘Double Lives of Suburban Wives’ star's staggering $550K month after leaving teaching for adult content",
+          "link": "https://www.foxnews.com/entertainment/double-lives-suburban-wives-stars-staggering-550k-month-after-leaving-teaching-adult-content"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T07:56:29.691Z"
+      "updatedAt": "2026-10-01T14:58:05.799Z"
     },
     "Real Clear Politics": {
       "items": [
         {
+          "title": "The Hero Who Stopped Israel's 9/11",
+          "link": "https://www.realclearpolitics.com/2026/10/01/the_hero_who_stopped_israels_911_712707.html"
+        },
+        {
+          "title": "Cornell Failed Jane Doe. Greek Life Must Change",
+          "link": "https://www.realclearpolitics.com/2026/10/01/cornell_failed_jane_doe_greek_life_must_change_712697.html"
+        },
+        {
+          "title": "Lynch Mob Out for 'Cornell 7' - Proving We've Learned Nothing",
+          "link": "https://www.realclearpolitics.com/2026/10/01/lynch_mob_out_for_cornell_7_-_proving_weve_learned_nothing_712699.html"
+        },
+        {
+          "title": "The Great Data-Center Rebellion",
+          "link": "https://www.realclearpolitics.com/2026/10/01/the_great_data-center_rebellion_712710.html"
+        },
+        {
+          "title": "A Super Intelligence 'Constitution?'",
+          "link": "https://www.realclearpolitics.com/2026/10/01/a_super_intelligence_constitution_712690.html"
+        },
+        {
           "title": "2026 Midterms: What the Generic Ballot Polls Tell Us",
-          "link": "https://www.realclearpolitics.com/2026/09/30/2026_midterms_what_the_generic_ballot_polls_tell_us_712674.html"
-        },
-        {
-          "title": "Old Guard Couldn't Beat Trump--and Won't Beat Vance",
-          "link": "https://www.realclearpolitics.com/2026/09/30/old_guard_couldnt_beat_trump--and_wont_beat_vance_712593.html"
-        },
-        {
-          "title": "House Races Where Dems Are Still Fighting Each Other",
-          "link": "https://www.realclearpolitics.com/2026/09/30/house_races_where_dems_are_still_fighting_each_other_712435.html"
-        },
-        {
-          "title": "The Left Discovers the Great Dumbing-Down of Schools",
-          "link": "https://www.realclearpolitics.com/2026/09/30/the_left_discovers_the_great_dumbing-down_of_schools_712680.html"
-        },
-        {
-          "title": "Leave Politics Behind: Greenland Is a Historic U.S Victory",
-          "link": "https://www.realclearpolitics.com/2026/09/30/leave_politics_behind_greenland_is_a_historic_us_victory_712679.html"
-        },
-        {
-          "title": "Trump Is Using Taxpayer Money for Illegal Propaganda",
-          "link": "https://www.realclearpolitics.com/2026/09/30/trump_is_using_taxpayer_money_for_illegal_propaganda_712581.html"
+          "link": "https://www.realclearpolitics.com/2026/10/01/2026_midterms_what_the_generic_ballot_polls_tell_us_712674.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T07:56:29.823Z"
+      "updatedAt": "2026-10-01T14:58:06.047Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Indiana governor extends gas tax suspension",
-          "link": "https://thehill.com/policy/energy-environment/6122117-braun-indiana-gas-tax-iran-war/"
+          "title": "Trump not ruling out invoking Insurrection Act around midterms",
+          "link": "https://thehill.com/homenews/administration/6122559-trump-midterm-election-insurrection-act/"
         },
         {
-          "title": "Becerra, Hilton tangle over ‘Trump, Trump, Trump’ in California governor debate",
-          "link": "https://thehill.com/homenews/6122170-becerra-hilton-california-governor-debate/"
+          "title": "House Democrats call for GAO to investigate government-funded Trump ads",
+          "link": "https://thehill.com/homenews/house/6123030-house-democrats-gao-trump-ads/"
         },
         {
-          "title": "Senate confirms insider Keith Sonderling to lead Department of Labor",
-          "link": "https://thehill.com/homenews/6122151-senate-confirms-keith-sonderling-labor-secretary/"
+          "title": "Democrats call for Pulte resignation over FHFA watchdog budget cuts",
+          "link": "https://thehill.com/homenews/senate/6122945-democrats-call-pulte-resign/"
         },
         {
-          "title": "Tennessee inmate Christa Pike still alive after lethal injection dose, lawyers say",
-          "link": "https://thehill.com/regulation/court-battles/6122135-tennessee-christa-pike-execution-botched/"
+          "title": "Congressional staffers planned bipartisan trip with luxury stops in Europe ahead of election",
+          "link": "https://thehill.com/homenews/house/6122742-mike-johnson-congressional-staffers-luxury-trip-europe-midterms/"
         },
         {
-          "title": "Man arrested after making 'credible threat' toward Texas Capitol",
-          "link": "https://thehill.com/homenews/state-watch/6122088-man-arrested-texas-capitol-threat/"
+          "title": "This year's El Niño looks a lot like 1997. What happened then?",
+          "link": "https://thehill.com/policy/energy-environment/6109860-this-years-el-nino-looks-a-lot-like-1997-what-happened-then/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T07:56:30.340Z"
+      "updatedAt": "2026-10-01T14:58:06.576Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "PS5 emulation is suddenly making big strides on PC",
+          "link": "https://arstechnica.com/gaming/2026/10/ps5-emulation-is-suddenly-making-big-strides-on-pc/"
+        },
+        {
+          "title": "NASA squeezed Treasury, vibe coded, and broke the mold in bid to save Swift",
+          "link": "https://arstechnica.com/space/2026/10/heres-why-nasa-is-celebrating-the-failed-mission-to-save-the-swift-observatory/"
+        },
         {
           "title": "Dinosaur-killing impact crater might have been teeming with life",
           "link": "https://arstechnica.com/science/2026/09/dinosaur-killing-impact-crater-might-have-been-teeming-with-life/"
@@ -100,44 +108,36 @@
         {
           "title": "Returning from vacation? The government can search your phone without a warrant.",
           "link": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/"
-        },
-        {
-          "title": "A local network of implants uses your body as the wiring",
-          "link": "https://arstechnica.com/science/2026/09/scientists-built-implants-that-talk-to-each-other-through-body-tissue/"
-        },
-        {
-          "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
-          "link": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T07:56:30.457Z"
+      "updatedAt": "2026-10-01T14:58:06.616Z"
     },
     "The Verge": {
       "items": [
         {
-          "title": "Vivo’s X Fold 6 accidentally feels like a throwback",
-          "link": "https://www.theverge.com/tech/1002680/vivo-x-fold-6-global-release-specs-cameras"
+          "title": "NYC is now the first city in America that bans sketchy subscriptions",
+          "link": "https://www.theverge.com/policy/1003426/nyc-click-to-cancel-subscriptions-rule"
         },
         {
-          "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
-          "link": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai"
+          "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle"
         },
         {
-          "title": "The new and huger Paramount has a new co-CEO",
-          "link": "https://www.theverge.com/news/1003037/paramount-david-ellison-co-ceo-ynon-kriez"
+          "title": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
+          "link": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash"
         },
         {
-          "title": "Neon sticks it to A24 by announcing a Creative Commons SCP Foundation movie",
-          "link": "https://www.theverge.com/entertainment/1002958/neon-a24-creative-commons-scp-foundation-movie"
+          "title": "The best early October Prime Day deals happening now",
+          "link": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october"
         },
         {
-          "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
-          "link": "https://www.theverge.com/tech/1002980/google-gemini-4-argon"
+          "title": "What even is a ‘microdrama’?",
+          "link": "https://www.theverge.com/entertainment/1003297/microdramas-neighbours-epis-roseberry-reelshort-dramabox-vertical-video"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T07:56:30.517Z"
+      "updatedAt": "2026-10-01T14:58:06.657Z"
     },
     "BBC World": {
       "items": [
@@ -146,67 +146,67 @@
           "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
+          "title": "What happened in failed execution of Christa Pike - and what next?",
+          "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
           "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "What we know about stabbing on Flydubai flight to Israel",
-          "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss"
+          "title": "Russian dissident Garry Kasparov says US warned him of danger to his life",
+          "link": "https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Rosenberg: Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
-          "link": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss"
+          "title": "Japan raises permanent residency fee by 20 times",
+          "link": "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
-          "link": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss"
+          "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+          "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Six smugglers jailed for manslaughter over worst Channel small boats disaster",
-          "link": "https://www.bbc.co.uk/news/articles/c6n8m33pn9djo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Tiny image sparks big backlash in Nikon photo contest",
-          "link": "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&at_campaign=rss"
+          "title": "Michael Jordan's 1998 NBA finals jersey sells for more than £9m",
+          "link": "https://www.bbc.co.uk/sport/basketball/articles/cx5yly6p2nyvo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T07:56:30.546Z"
+      "updatedAt": "2026-10-01T14:58:06.696Z"
     },
     "BBC News": {
       "items": [
-        {
-          "title": "We fear for our lives after being told our abusive exes will be freed from jail early",
-          "link": "https://www.bbc.co.uk/news/articles/crz6zq5pew89o?at_medium=RSS&at_campaign=rss"
-        },
         {
           "title": "US death row inmate survives execution attempt after two lethal injections",
           "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Watch: The many questions raised by the failed execution of Christa Pike",
-          "link": "https://www.bbc.co.uk/news/videos/cq5ymyl1y29ko?at_medium=RSS&at_campaign=rss"
+          "title": "What happened in failed execution of Christa Pike - and what next?",
+          "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
+          "title": "Travelodge failed sex assault victim 'at every stage', review finds",
+          "link": "https://www.bbc.co.uk/news/articles/c93429dg425o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
           "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "AI boom could trigger market shocks, Bank of England boss warns",
-          "link": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss"
+          "title": "Flydubai passenger describes hugging his children as plane nosedived during attack",
+          "link": "https://www.bbc.co.uk/news/articles/c6d949ydnw3po?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Tiny image sparks big backlash in Nikon photo contest",
-          "link": "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&at_campaign=rss"
+          "title": "Body of baby girl found in Wales may have been in the water for weeks, police say",
+          "link": "https://www.bbc.co.uk/news/articles/cxq636mpn19yo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T07:56:30.554Z"
+      "updatedAt": "2026-10-01T14:58:06.890Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "How a Cornell Student Went From Shame to Seeking Justice",
+          "title": "How a Cornell Student Went From Shame to Anger",
           "link": "https://www.nytimes.com/2026/10/01/nyregion/cornell-rape-accusation-reporting.html"
         },
         {
@@ -214,23 +214,35 @@
           "link": "https://www.nytimes.com/2026/10/01/nyregion/cornell-jane-doe-rape-investigation-documents.html"
         },
         {
-          "title": "Tennessee Death Row Inmate Christa Pike Still Alive After Attempts to Execute Her, Lawyers Say",
-          "link": "https://www.nytimes.com/2026/09/30/us/christa-pike-stay-execution-tennessee.html"
+          "title": "Statement Written by Police in Cornell Assault Case Omitted Her Claim She Was Raped",
+          "link": "https://www.nytimes.com/2026/10/01/nyregion/url-cornell-university-jane-doe-rape-case-statement.html"
         },
         {
-          "title": "What to Know About the Execution Attempt of Christa Pike",
+          "title": "What Newly Obtained Documents Show About the Cornell Case, and Inside the Bloody Midair Cockpit Attack",
+          "link": "https://www.nytimes.com/2026/10/01/the-headlines/what-newly-obtained-documents-show-about-the-cornell-case-and-inside-the-bloody-midair-cockpit-attack.html"
+        },
+        {
+          "title": "What to Know About the Attempted Execution of Christa Pike",
           "link": "https://www.nytimes.com/2026/10/01/us/christa-pike-alive-tennessee-execution-halted.html"
-        },
-        {
-          "title": "A Bloody Attack on a FlyDubai Plane Headed to Israel, and a Terrifying Plunge",
-          "link": "https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-attack-israel-uae.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T07:56:30.582Z"
+      "updatedAt": "2026-10-01T14:58:06.924Z"
     },
     "ARTNews": {
       "items": [
+        {
+          "title": "Artists for Climate Action Returns for Frieze Week With Christie’s Evening Auction",
+          "link": "https://www.artnews.com/art-news/market/christies-artists-for-climate-action-frieze-week-london-1234800216/"
+        },
+        {
+          "title": "Iraqi Archaeologists Arrested Amid Growing Concerns Over State Corruption",
+          "link": "https://www.artnews.com/art-news/news/iraqi-archaeologists-arrested-state-corruption-1234800175/"
+        },
+        {
+          "title": "Louvre President Discusses New ‘Culture of Security,’ Spain’s Royal Paintings Museum at El Escorial Reopens After Decade, and More: Morning Links for October 1, 2026",
+          "link": "https://www.artnews.com/art-news/news/morning-links-october-1-2026-1234800210/"
+        },
         {
           "title": "Lisson Gallery and Gomide & Co. Now Represent Mira Schendel Estate, DMA Board Elects New Chair, and More: Industry Moves for October 1, 2026.",
           "link": "https://www.artnews.com/art-news/market/mira-schendel-lisson-gomide-industry-moves-october-1-2026-1234800193/"
@@ -242,25 +254,17 @@
         {
           "title": "Brazil’s Inhotim Marks 20 Years and Looks to a Future Beyond Its Founder",
           "link": "https://www.artnews.com/art-news/news/inhotim-brazil-20th-anniversary-exhibitions-1234800127/"
-        },
-        {
-          "title": "UK’s Ashmolean Museum Joins Forces with Samdani Art Foundation to Build Bangladeshi Art Collection",
-          "link": "https://www.artnews.com/art-news/news/ashmolean-museum-oxford-samdani-art-foundation-partnership-bangladeshi-art-1234800178/"
-        },
-        {
-          "title": "Art Collector Ken Griffin Gives $3 B., the Largest Donation in the History of Higher Education, to Carnegie Mellon For a Miami Campus",
-          "link": "https://www.artnews.com/art-news/news/art-collector-ken-griffin-3-billion-carnegie-mellon-miami-1234800145/"
-        },
-        {
-          "title": "Louis Vuitton Collaborates with Keith Haring Foundation for its Latest Artycapucines Handbag Collection",
-          "link": "https://www.artnews.com/art-news/news/louis-vuitton-keith-haring-artycapucines-handbag-collaboration-1234800096/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T07:56:30.820Z"
+      "updatedAt": "2026-10-01T14:58:08.168Z"
     },
     "Hyperallergic": {
       "items": [
+        {
+          "title": "The Art Tarot Predicts a Fateful Fall",
+          "link": "https://hyperallergic.com/the-art-tarot-predicts-a-fateful-fall/"
+        },
         {
           "title": "Milwaukee Art Museum Returns Two Jars to David Drake’s Descendants",
           "link": "https://hyperallergic.com/milwaukee-art-museum-returns-two-jars-to-david-drakes-descendants/"
@@ -280,17 +284,21 @@
         {
           "title": "Remembering Rafael Ferrer, Aracy Amaral, and Liang Shaoji",
           "link": "https://hyperallergic.com/obits-2/"
-        },
-        {
-          "title": "Manuel Álvarez Bravo's Solitary Gaze",
-          "link": "https://hyperallergic.com/manuel-alvarez-bravo-2/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T07:56:30.884Z"
+      "updatedAt": "2026-10-01T14:58:08.369Z"
     },
     "Contemporary Art Daily": {
       "items": [
+        {
+          "title": "Rachel Seidu at Between Bridges",
+          "link": "https://www.contemporaryartdaily.com/project/rachel-seidu-at-between-bridges-berlin-103120?source=rss"
+        },
+        {
+          "title": "Cecilia De Nisco, Lydia Silvestri at VIN VIN",
+          "link": "https://www.contemporaryartdaily.com/project/cecilia-de-nisco-lydia-silvestri-at-vin-vin-vienna-103119?source=rss"
+        },
         {
           "title": "David Medalla at Exile",
           "link": "https://www.contemporaryartdaily.com/project/david-medalla-at-exile-vienna-104075?source=rss"
@@ -306,18 +314,10 @@
         {
           "title": "Guan Xiao at Antenna Space",
           "link": "https://www.contemporaryartdaily.com/project/guan-xiao-at-antenna-space-shanghai-102491?source=rss"
-        },
-        {
-          "title": "Jean-Luc Mylayne at Sprüth Magers",
-          "link": "https://www.contemporaryartdaily.com/project/jean-luc-mylayne-at-spruth-magers-berlin-84869?source=rss"
-        },
-        {
-          "title": "Patricia Leite at Mendes Wood DM",
-          "link": "https://www.contemporaryartdaily.com/project/patricia-leite-at-mendes-wood-dm-paris-101897?source=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T07:56:31.036Z"
+      "updatedAt": "2026-10-01T14:58:08.916Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T07:56:31.152Z"
+      "updatedAt": "2026-10-01T14:58:09.034Z"
     }
   }
 }
