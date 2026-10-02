@@ -1,75 +1,79 @@
 {
-  "fetchedAt": "2026-10-02T06:53:00.449Z",
+  "fetchedAt": "2026-10-02T13:44:35.200Z",
   "feeds": {
     "MarketWatch": {
       "items": [
         {
+          "title": "Three reasons this Wall Street market-making powerhouse says investors should reload on stocks right now",
+          "link": "https://www.marketwatch.com/story/three-reasons-why-this-wall-street-market-making-powerhouse-says-investors-should-reload-on-stocks-now-8e19ecce?mod=mw_rss_topstories"
+        },
+        {
           "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
           "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Tesla’s EV sales beat Wall Street’s expectations again, and the stock jumps",
+          "link": "https://www.marketwatch.com/story/tesla-ev-sales-beat-wall-streets-expectations-again-and-the-stock-jumps-294a4f53?mod=mw_rss_topstories"
         },
         {
           "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
           "link": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories"
         },
         {
-          "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-          "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories"
+          "title": "Why Western Digital and Seagate are seeing big stock drops today",
+          "link": "https://www.marketwatch.com/story/why-western-digital-and-seagate-are-seeing-big-stock-drops-today-6b16d95e?mod=mw_rss_topstories"
         },
         {
-          "title": "Here’s who’s joining the S&P 500 in the index’s latest shakeup",
-          "link": "https://www.marketwatch.com/story/heres-whos-joining-the-s-p-500-in-the-indexs-latest-shakeup-07280a15?mod=mw_rss_topstories"
-        },
-        {
-          "title": "This could be the worst year ever for Nike’s stock, with sales set to fall further",
+          "title": "Nike’s stock heads for its worst year ever as the company’s troubles mount",
           "link": "https://www.marketwatch.com/story/nikes-troubles-are-mounting-and-sales-could-fall-further-2c19699d?mod=mw_rss_topstories"
-        },
-        {
-          "title": "The hidden silver lining of high interest rates: safer, cheaper retirement income",
-          "link": "https://www.marketwatch.com/story/the-hidden-silver-lining-of-high-interest-rates-safer-cheaper-retirement-income-36e2e077?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T06:52:59.434Z"
+      "updatedAt": "2026-10-02T13:44:32.403Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Trump admin wants to require tax filers to disclose citizenship status to IRS",
-          "link": "https://www.foxnews.com/politics/trump-admin-wants-require-tax-filers-disclose-citizenship-status-irs"
+          "title": "Fever player violently thrown to the ground, and what the horrible WNBA refs did next will shock you",
+          "link": "https://www.foxnews.com/outkick-sports/fever-player-violently-thrown-ground-horrible-wnba-refs-did-next-shock-you"
         },
         {
-          "title": "Browns’ late field goal spoils Aaron Rodgers’ Thursday night finale, seals Cleveland's third straight win",
-          "link": "https://www.foxnews.com/outkick-sports/browns-late-field-goal-spoils-aaron-rodgers-thursday-night-finale-seals-cleveland-third-straight-win"
+          "title": "REP RO KHANNA: US and China can't afford an AI arms race with humanity at stake",
+          "link": "https://www.foxnews.com/opinion/rep-ro-khanna-us-china-cant-afford-ai-arms-race-humanity-stake"
         },
         {
-          "title": "Season's over: Caitlin Clark leaves it all on court with bloody mouth as Fever fall in Game 3",
-          "link": "https://www.foxnews.com/outkick-sports/seasons-over-caitlin-clark-leaves-all-court-bloody-mouth-fever-fall-game-3"
+          "title": "'Snakeskin Boots' pairs Miranda Lambert with Ella Langley in a Western-inspired country music duet",
+          "link": "https://www.foxnews.com/outkick-culture/snakeskin-boots-pairs-miranda-lambert-ella-langley-western-inspired-country-music-duet"
         },
         {
-          "title": "Braves dominate Phillies with big home runs to set up huge NLDS against Los Angeles Dodgers",
-          "link": "https://www.foxnews.com/outkick-sports/braves-dominate-phillies-big-home-runs-set-huge-nlds-los-angeles-dodgers"
+          "title": "California mayor accused of drunken behavior, racial slur, harassment in chief of staff's claim",
+          "link": "https://www.foxnews.com/politics/california-mayor-accused-drunken-behavior-racial-slur-harassment-chief-staffs-claim"
         },
         {
-          "title": "Lawyers, experts urge Tennessee governor to commute Christa Pike’s sentence after botched execution",
-          "link": "https://www.foxnews.com/us/lawyers-experts-urge-tennessee-governor-commute-christa-pikes-sentence-botched-execution"
+          "title": "Noah's Ark mystery enters new phase as researchers probe deep beneath site",
+          "link": "https://www.foxnews.com/travel/noahs-ark-mystery-enters-new-phase-researchers-probe-deep-beneath-site"
         },
         {
-          "title": "AOC's dramatic retelling of Cornell rape allegations collides with complaint details",
-          "link": "https://www.foxnews.com/politics/aocs-dramatic-retelling-cornell-rape-allegations-collides-complaint-details"
+          "title": "Sylvester Stallone showered in his clothes to survive before ‘Rocky’ fame",
+          "link": "https://www.foxnews.com/entertainment/sylvester-stallone-showered-clothes-survive-before-rocky-fame"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T06:52:59.511Z"
+      "updatedAt": "2026-10-02T13:44:32.471Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "The Supreme Court Will Be Drawing Lots of Lines",
-          "link": "https://www.realclearpolitics.com/2026/10/01/the_supreme_court_will_be_drawing_lots_of_lines_712857.html"
+          "title": "With a Steel Mill and Cash, GOP Launches Iowa Rescue",
+          "link": "https://www.realclearpolitics.com/2026/10/02/with_a_steel_mill_and_cash_gop_launches_iowa_rescue_712927.html"
+        },
+        {
+          "title": "The Sen. Collins Firewall",
+          "link": "https://www.realclearpolitics.com/2026/10/02/the_sen_collins_firewall_712932.html"
         },
         {
           "title": "Hobbs Holds the Line in AZ. Now, She's Under Attack",
-          "link": "https://www.realclearpolitics.com/2026/09/30/hobbs_holds_the_line_in_az_now_shes_under_attack_712597.html"
+          "link": "https://www.realclearpolitics.com/2026/10/02/hobbs_holds_the_line_in_az_now_shes_under_attack_712597.html"
         },
         {
           "title": "It's All Stolen. The Level of Theft Is Insane",
@@ -77,48 +81,48 @@
         },
         {
           "title": "Trump's Way: The White House Interview",
-          "link": "https://www.realclearpolitics.com/2026/10/01/trumps_way_the_white_house_interview_712826.html"
+          "link": "https://www.realclearpolitics.com/2026/10/02/trumps_way_the_white_house_interview_712826.html"
         },
         {
           "title": "Signs Point to an Economic Surge",
-          "link": "https://www.realclearpolitics.com/2026/10/01/signs_point_to_an_economic_surge_712841.html"
-        },
-        {
-          "title": "How To Make AI Work for Everyone's Benefit",
-          "link": "https://www.realclearpolitics.com/2026/10/01/how_to_make_ai_work_for_everyones_benefit_712840.html"
+          "link": "https://www.realclearpolitics.com/2026/10/02/signs_point_to_an_economic_surge_712841.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T06:52:59.587Z"
+      "updatedAt": "2026-10-02T13:44:32.533Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Trump quips Paxton is ‘pain in the ass,’ ‘a little controversial’",
-          "link": "https://thehill.com/homenews/administration/6124986-trump-paxton-talarico-texas-senate-race/"
+          "title": "Trump's taxpayer-funded propaganda is blatantly illegal",
+          "link": "https://thehill.com/opinion/campaign/6123726-trump-taxpayer-campaign-ads/"
         },
         {
-          "title": "DOJ says UCLA law school illegally used race in their admissions",
-          "link": "https://thehill.com/regulation/court-battles/6124974-doj-accuses-ucla-law-discrimination/"
+          "title": "Live updates: Trump brings red state campaign blitz to Alabama; jobs report comes in low",
+          "link": "https://thehill.com/homenews/administration/6124876-live-updates-trump-alabama-rally-jobs-report-cornell-case/"
         },
         {
-          "title": "Hochul appoints Letitia James as special prosecutor in Cornell sexual assault case",
-          "link": "https://thehill.com/homenews/state-watch/6124932-hochul-appoints-james-special-prosecutor/"
+          "title": "Man charged with cyberstalking Katie Miller",
+          "link": "https://thehill.com/homenews/administration/6125279-doj-arrest-massachusetts-man-katie-miller-cyberstalking/"
         },
         {
-          "title": "Pelosi cancels Cornell University event amid frat house rape investigation",
-          "link": "https://thehill.com/homenews/house/6124898-pelosi-cancels-cornell-event/"
+          "title": "FlyDubai pilot on cockpit attack: 'I was fighting for my life'",
+          "link": "https://thehill.com/policy/international/6125316-flydubai-pilot-smit-machchhar-emergency-landing/"
         },
         {
-          "title": "Medicare de-fangs new drug pricing model",
-          "link": "https://thehill.com/newsletters/healthcare/6124862-medicare-globe-drug-pricing-scaled-back/"
+          "title": "US economy added 29,000 jobs in September: BLS",
+          "link": "https://thehill.com/business/6123510-us-economy-jobs-report-september-bls/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T06:53:00.121Z"
+      "updatedAt": "2026-10-02T13:44:34.789Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "TCL is right to question Samsung’s use of the term “Mini LED”",
+          "link": "https://arstechnica.com/gadgets/2026/10/tcl-is-right-to-question-samsungs-use-of-the-term-mini-led/"
+        },
         {
           "title": "Venus' mysterious haze is actually cosmic dust",
           "link": "https://arstechnica.com/science/2026/10/venus-mysterious-haze-is-actually-cosmic-dust/"
@@ -134,166 +138,162 @@
         {
           "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
           "link": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/"
-        },
-        {
-          "title": "Can good design stop content creators from having sex in robotaxis?",
-          "link": "https://arstechnica.com/cars/2026/10/can-good-design-stop-content-creators-from-having-sex-in-robotaxis/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T06:53:00.184Z"
+      "updatedAt": "2026-10-02T13:44:34.895Z"
     },
     "The Verge": {
       "items": [
         {
-          "title": "Apple’s reportedly developing a smart home camera that doesn’t record video",
-          "link": "https://www.theverge.com/tech/1003877/apple-security-camera-no-video"
+          "title": "Paramount’s Warner Bros. megamerger will just be called Skydance",
+          "link": "https://www.theverge.com/entertainment/1004016/paramount-warner-bros-skydance-megamerger-name"
         },
         {
-          "title": "Google’s new Guided Vision feature can help you read the fine print",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision"
+          "title": "Tesla’s recovery hits a speed bump",
+          "link": "https://www.theverge.com/transportation/1003601/teslas-recovery-hits-a-speed-bump"
         },
         {
-          "title": "Android Central &#8216;will continue&#8217; despite laying off its staff",
-          "link": "https://www.theverge.com/tech/1003735/android-central-layoffs"
+          "title": "Home Assistant says ‘Big tech ruined the cloud, so we&#8217;re out’",
+          "link": "https://www.theverge.com/tech/1003936/home-assistant-says-big-tech-ruined-the-cloud-so-were-out"
         },
         {
-          "title": "Steam Deck 2: Is AMD Gainsborough the chip Valve’s been waiting for?",
-          "link": "https://www.theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for"
+          "title": "The Pocket Advance nearly perfects my favorite Nintendo handheld",
+          "link": "https://www.theverge.com/tech/993521/ayaneo-konkr-pocket-advance-nintendo-game-boy-advance-handheld"
         },
         {
-          "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
-          "link": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed"
+          "title": "Star Wars: Galactic Racer is my childhood podracing dream come true",
+          "link": "https://www.theverge.com/entertainment/1002887/star-wars-galactic-racer-review"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T06:53:00.237Z"
+      "updatedAt": "2026-10-02T13:44:34.952Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
-          "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss"
+          "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+          "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "School protests send shivers down French government's spine",
+          "link": "https://www.bbc.co.uk/news/articles/c69wzjjxex8po?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
           "link": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "NY's governor appoints special prosecutor in Cornell frat rape investigation",
-          "link": "https://www.bbc.co.uk/news/articles/cr1585y0y90go?at_medium=RSS&at_campaign=rss"
+          "title": "'Ashamed': Cornell students gather to voice anger over alleged gang rape",
+          "link": "https://www.bbc.co.uk/news/articles/cm0e3ed1er1yo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
           "link": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
-          "link": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss"
+          "title": "Japan's first mayor to take maternity leave lands on TIME100 Next list",
+          "link": "https://www.bbc.co.uk/news/articles/cqj3d3d37nxgo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "OpenAI fires workers for mishandling 'sensitive information'",
+          "title": "OpenAI fires workers for 'mishandling sensitive information'",
           "link": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
-          "link": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T06:53:00.333Z"
+      "updatedAt": "2026-10-02T13:44:35.035Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
-          "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss"
+          "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+          "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
-          "link": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss"
+          "title": "Watch: Emotional pilot recounts moment of Flydubai attack",
+          "link": "https://www.bbc.co.uk/news/videos/c914d43y7xn4o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Chris Mason: Why Andy Burnham's about-turn on Manchester City matters",
-          "link": "https://www.bbc.co.uk/news/articles/c5kg0gwwpyx8o?at_medium=RSS&at_campaign=rss"
+          "title": "School protests send shivers down French government's spine",
+          "link": "https://www.bbc.co.uk/news/articles/c69wzjjxex8po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Woman who killed abusive partner has murder conviction overturned",
+          "link": "https://www.bbc.co.uk/news/articles/cmz98wwklwz7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "What does Man City guilty verdict mean for their squad?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c68jdjdz32n3o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
           "link": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "UK-Iranian dual national arrested over RAF Fairford incident, police say",
-          "link": "https://www.bbc.co.uk/news/articles/cmdx5xw36492o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Chaos, coffins and 'Claudiapatra' steal the show in Celebrity Traitors",
-          "link": "https://www.bbc.co.uk/news/articles/cm89j9024k7po?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T06:53:00.341Z"
+      "updatedAt": "2026-10-02T13:44:35.043Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "Hochul Names Letitia James as Special Prosecutor in Cornell Case",
-          "link": "https://www.nytimes.com/2026/10/01/nyregion/letitia-james-cornell-rape-prosecutor.html"
+          "title": "The Powerful Yet Fragile Force Propping Up Stocks and the Economy",
+          "link": "https://www.nytimes.com/2026/10/02/business/ai-stocks-bonds-economy.html"
         },
         {
-          "title": "Cornell Students Call for Change at Fiery Public Meeting",
-          "link": "https://www.nytimes.com/2026/10/01/nyregion/cornell-public-hearing.html"
+          "title": "Where Voters Are Abandoning Trump, and Barriers to New Cancer Treatments",
+          "link": "https://www.nytimes.com/2026/10/02/podcasts/voters-abandoning-trump-new-cancer-treatments.html"
         },
         {
-          "title": "How a Cornell Student Went From Shame to Action",
-          "link": "https://www.nytimes.com/2026/10/01/nyregion/cornell-rape-accusation-reporting.html"
+          "title": "Why Prosecutors May Face Legal Hurdles in the Cornell Investigation",
+          "link": "https://www.nytimes.com/2026/10/02/nyregion/cornell-investigation-prosecution-challenges.html"
         },
         {
-          "title": "Chi Phi Members Accused in Cornell Sex Assault Lawsuit Give Varying Accounts of Night",
-          "link": "https://www.nytimes.com/2026/10/01/nyregion/cornell-rape-fraternity-chi-phi-men.html"
+          "title": "How The New York Times Is Reporting on the Cornell Rape Investigation",
+          "link": "https://www.nytimes.com/2026/10/01/insider/cornell-rape-investigation-news-reporting.html"
         },
         {
-          "title": "Congress Leaves With a Whimper, as the G.O.P. Braces for Midterm Pain",
-          "link": "https://www.nytimes.com/2026/10/01/us/politics/republicans-congress-midterm-elections-trump-affordability.html"
+          "title": "AIPAC Is Spending Millions to Elect Friends. It’s Also Making Enemies.",
+          "link": "https://www.nytimes.com/2026/10/02/us/politics/aipac-midterm-elections-spending-israel.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T06:53:00.360Z"
+      "updatedAt": "2026-10-02T13:44:35.064Z"
     }
   },
   "indices": {
     "data": [
       {
         "name": "S&P 500",
-        "price": 7666.45,
-        "pct": -0.4890883201607487
+        "price": 7742.97,
+        "pct": -0.005682251101253838
       },
       {
         "name": "Dow Jones",
-        "price": 50926.56,
-        "pct": -0.8245767573814157
+        "price": 51297.95,
+        "pct": -1.023893748280401
       },
       {
         "name": "Nasdaq",
-        "price": 26871.596,
-        "pct": -0.25157975112260467
+        "price": 27252.195,
+        "pct": 0.6778118802809979
       },
       {
         "name": "Gold",
-        "price": 4210.4,
-        "pct": 1.007580846367911
+        "price": 4224.8,
+        "pct": 1.3530371365512077
       },
       {
         "name": "Bitcoin",
-        "price": 85977.05,
-        "pct": 2.9633085720314636
+        "price": 86930.43,
+        "pct": 4.105045339301362
       },
       {
         "name": "SpaceX",
-        "price": 148.07,
-        "pct": 0.02702154968586911
+        "price": 153.28,
+        "pct": 3.0938929244013953
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-02T06:53:00.449Z"
+    "updatedAt": "2026-10-02T13:44:35.200Z"
   }
 }
