@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-10-01T20:05:14.806Z",
+  "fetchedAt": "2026-10-02T00:17:46.920Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Christa Pike's attorneys say she's in critical condition after botched lethal injections",
-          "link": "https://www.foxnews.com/us/christa-pike-attorneys-say-shes-critical-condition-botched-lethal-injections"
+          "title": "Gavin Newsom signs Eid al-Fitr and Eid al-Adha into law as new California state holidays",
+          "link": "https://www.foxnews.com/media/gavin-newsom-signs-eid-al-fitr-eid-al-adha-law-new-california-state-holidays"
         },
         {
-          "title": "NASCAR driver's alleged affair with a spotter cost her a king's ransom & is college football in trouble?",
-          "link": "https://www.foxnews.com/outkick-sports/nascar-drivers-alleged-affair-spotter-cost-king-ransom-college-football-trouble"
+          "title": "Michigan decision forces removal of disgraced sports doctor Larry Nassar from sex offender registry",
+          "link": "https://www.foxnews.com/outkick-sports/michigan-decision-forces-removal-disgraced-sports-doctor-larry-nassar-sex-offender-registry"
         },
         {
-          "title": "World Cup darling Freddy is back stateside, almost makes fatal mistake touring notorious southern city",
-          "link": "https://www.foxnews.com/outkick-sports/world-cup-darling-freddy-back-stateside-almost-makes-fatal-mistake-touring-notorious-southern-city"
+          "title": "Angel Reese's Defensive Player of the Year win looks like WNBA media rewarding its own hype",
+          "link": "https://www.foxnews.com/outkick-sports/angel-reese-defensive-player-year-win-looks-like-wnba-media-rewarding-its-own-hype"
         },
         {
-          "title": "'Yellowstone' star Neal McDonough refuses to watch hit series for ‘painful’ reason",
-          "link": "https://www.foxnews.com/entertainment/yellowstone-star-neal-mcdonough-refuses-watch-hit-series-painful-reason"
+          "title": "Kratom industry warns synthetic opioids should not be called 'kratom'",
+          "link": "https://www.foxnews.com/health/kratom-industry-warns-synthetic-opioids-should-not-be-called-kratom"
         },
         {
-          "title": "Marine turned homeschool mom sues Oregon district over denied reimbursement for Christian curriculum",
-          "link": "https://www.foxnews.com/media/marine-turned-homeschool-mom-sues-oregon-district-denied-reimbursement-christian-curriculum"
+          "title": "Mamdani pledges millions to combat antisemitism while leaving key question unresolved",
+          "link": "https://www.foxnews.com/politics/mamdani-pledges-millions-combat-antisemitism-leaving-key-question-unresolved"
         },
         {
-          "title": "Reporter's Notebook: Congress dodged a fall shutdown, but the real fight looms",
-          "link": "https://www.foxnews.com/politics/reporters-notebook-congress-dodged-fall-shutdown-real-fight-looms"
+          "title": "Virginia State University accused of suppressing Christian student ministries while Muslim groups are exempt",
+          "link": "https://www.foxnews.com/media/virginia-state-university-accused-suppressing-christian-student-ministries-while-muslim-groups-exempt"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T20:05:10.543Z"
+      "updatedAt": "2026-10-02T00:17:43.821Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,62 +59,66 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T20:05:10.822Z"
+      "updatedAt": "2026-10-02T00:17:44.146Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Fed's Jefferson says central bank 'may take more time' before hiking rates again",
-          "link": "https://thehill.com/business/6124140-federal-reserves-future-inflation-hikes-jefferson/"
+          "title": "Medicare de-fangs new drug pricing model",
+          "link": "https://thehill.com/newsletters/healthcare/6124862-medicare-globe-drug-pricing-scaled-back/"
         },
         {
-          "title": "California attorney general subpoenas OpenAI over cyber incidents",
-          "link": "https://thehill.com/policy/technology/6124245-openai-subpoena-rob-bonta-california/"
+          "title": "Few Americans associate their elected leaders with the term 'courage': Gallup",
+          "link": "https://thehill.com/blogs/blog-briefing-room/news/6124774-gallup-courage-poll-results-american-politicians/"
         },
         {
-          "title": "FTC launches probe into OpenAI, Anthropic over model consumer risks",
-          "link": "https://thehill.com/policy/technology/6124265-ftc-investigates-openai-anthropic/"
+          "title": "What's in the permitting reform bill?",
+          "link": "https://thehill.com/newsletters/energy-environment/6124844-whats-in-the-permitting-reform-bill/"
         },
         {
-          "title": "GOP senators call for DOJ to investigate Chinese role in hemp, cannabis markets",
-          "link": "https://thehill.com/policy/healthcare/6124215-gop-senators-probe-chinese-cannabis-markets/"
+          "title": "What would the new bipartisan permitting reform bill actually do?",
+          "link": "https://thehill.com/policy/energy-environment/6124792-bipartisan-permitting-reform-data-centers-energy-projects/"
         },
         {
-          "title": "Blackburn calls on TN to 'bring back' electric chair after botched Christa Pike execution",
-          "link": "https://thehill.com/homenews/state-watch/6124214-marsha-blackburn-christa-pike-botched-execution-tennesseee/"
+          "title": "Judge rejects Trump administration arguments for withholding boat strike justification memo",
+          "link": "https://thehill.com/regulation/court-battles/6124784-judge-orders-doj-memo-release/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T20:05:11.597Z"
+      "updatedAt": "2026-10-02T00:17:44.895Z"
     },
     "Ars Technica": {
       "items": [
         {
-          "title": "Marvel releases one last VisionQuest trailer",
-          "link": "https://arstechnica.com/culture/2026/10/marvel-releases-one-last-visionquest-trailer/"
+          "title": "Venus' mysterious haze is actually cosmic dust",
+          "link": "https://arstechnica.com/science/2026/10/venus-mysterious-haze-is-actually-cosmic-dust/"
         },
         {
-          "title": "Memory executives expect RAM shortage to continue through 2028",
-          "link": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/"
+          "title": "SpaceX describes surgical intervention before launch of latest crew mission",
+          "link": "https://arstechnica.com/space/2026/10/spacex-describes-surgical-intervention-before-launch-of-latest-crew-mission/"
         },
         {
-          "title": "Florida cops say they don't know who owns 11 unpermitted Flock cameras",
-          "link": "https://arstechnica.com/tech-policy/2026/10/florida-cops-say-they-dont-know-who-owns-11-unpermitted-flock-cameras/"
+          "title": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
+          "link": "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/"
         },
         {
-          "title": "With most information hidden, the game Stratego had stumped AI—until now",
-          "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/"
+          "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
+          "link": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/"
         },
         {
-          "title": "As US relations fray, Canada gets serious about its own launch industry",
-          "link": "https://arstechnica.com/space/2026/10/as-us-relations-fray-canada-gets-serious-about-its-own-launch-industry/"
+          "title": "Can good design stop content creators from having sex in robotaxis?",
+          "link": "https://arstechnica.com/cars/2026/10/can-good-design-stop-content-creators-from-having-sex-in-robotaxis/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T20:05:11.777Z"
+      "updatedAt": "2026-10-02T00:17:45.059Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "Apple’s reportedly developing a smart home camera that doesn’t record video",
+          "link": "https://www.theverge.com/tech/1003877/apple-security-camera-no-video"
+        },
         {
           "title": "Google’s new Guided Vision feature can help you read the fine print",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision"
@@ -130,14 +134,10 @@
         {
           "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
           "link": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed"
-        },
-        {
-          "title": "Sony brings AI graphics upscaling to the regular PS5",
-          "link": "https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T20:05:11.904Z"
+      "updatedAt": "2026-10-02T00:17:45.217Z"
     },
     "BBC World": {
       "items": [
@@ -158,20 +158,20 @@
           "link": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
-          "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss"
+          "title": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
+          "link": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Russian dissident Garry Kasparov says US warned him of danger to his life",
           "link": "https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
-          "link": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss"
+          "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+          "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T20:05:12.063Z"
+      "updatedAt": "2026-10-02T00:17:45.329Z"
     },
     "BBC News": {
       "items": [
@@ -180,28 +180,28 @@
           "link": "https://www.bbc.co.uk/news/articles/cmdx5xw36492o?at_medium=RSS&at_campaign=rss"
         },
         {
+          "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
+          "link": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "US says Europe should ready fuel supplies as Trump threatens diesel ban",
+          "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
           "link": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Netanyahu says Flydubai flight attacker 'underwent Islamist radical indoctrination'",
-          "link": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss"
+          "title": "Chris Mason: Why Andy Burnham's about-turn on Manchester City matters",
+          "link": "https://www.bbc.co.uk/news/articles/c5kg0gwwpyx8o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "HMRC urged to scrutinise tax implications of Man City case",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cjkg7g93y5yno?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Man City not 'above the rules', says No 10 after backlash to Burnham remarks",
-          "link": "https://www.bbc.co.uk/news/articles/cj3v4vn3ydw1o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
-          "link": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss"
+          "title": "Spain and China are cosying up - to the anger of many in the EU",
+          "link": "https://www.bbc.co.uk/news/articles/c6vgyg824m02o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T20:05:12.107Z"
+      "updatedAt": "2026-10-02T00:17:45.378Z"
     },
     "NY Times": {
       "items": [
@@ -214,20 +214,20 @@
           "link": "https://www.nytimes.com/2026/10/01/science/pike-execution-pentobarbital.html"
         },
         {
+          "title": "Tennessee Pauses Executions After a Botched Lethal Injection",
+          "link": "https://www.nytimes.com/2026/10/01/briefing/tennessee-botched-execution-cornell-documents.html"
+        },
+        {
           "title": "Statement Written by Police in Cornell Assault Case Omitted Her Claim She Was Raped",
           "link": "https://www.nytimes.com/2026/10/01/nyregion/url-cornell-university-jane-doe-rape-case-statement.html"
         },
         {
           "title": "Chi Phi Members Accused in Cornell Sex Assault Lawsuit Give Varying Accounts of Night",
           "link": "https://www.nytimes.com/2026/10/01/nyregion/cornell-rape-fraternity-chi-phi-men.html"
-        },
-        {
-          "title": "How a Cornell Student Went From Shame to Action",
-          "link": "https://www.nytimes.com/2026/10/01/nyregion/cornell-rape-accusation-reporting.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T20:05:12.244Z"
+      "updatedAt": "2026-10-02T00:17:45.537Z"
     },
     "ARTNews": {
       "items": [
@@ -257,10 +257,18 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T20:05:13.546Z"
+      "updatedAt": "2026-10-02T00:17:45.701Z"
     },
     "Hyperallergic": {
       "items": [
+        {
+          "title": "Cyra Levenson to Lead Yaddo Artist Residency",
+          "link": "https://hyperallergic.com/cyra-levenson-to-lead-yaddo-artist-residency/"
+        },
+        {
+          "title": "Artists Honor Immigrants in Monuments Across New Jersey",
+          "link": "https://hyperallergic.com/artists-honor-immigrants-in-monuments-across-new-jersey/"
+        },
         {
           "title": "Fall of Freedom Returns With Hundreds of Anti-Trump Art Actions",
           "link": "https://hyperallergic.com/fall-of-freedom-returns-with-hundreds-of-anti-trump-art-actions/"
@@ -276,18 +284,10 @@
         {
           "title": "Opportunities in October 2026",
           "link": "https://hyperallergic.com/opportunities-in-october-2026/"
-        },
-        {
-          "title": "Alice Neel’s McCarthy-Era Trial Drawings Go to Auction",
-          "link": "https://hyperallergic.com/alice-neels-mccarthy-era-trial-drawings-go-to-auction/"
-        },
-        {
-          "title": "New Book Chronicles Studio Museum in Harlem's 58-Year History",
-          "link": "https://hyperallergic.com/new-book-chronicles-studio-museum-in-harlems-58-year-history/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T20:05:13.879Z"
+      "updatedAt": "2026-10-02T00:17:45.919Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T20:05:14.665Z"
+      "updatedAt": "2026-10-02T00:17:46.764Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T20:05:14.806Z"
+      "updatedAt": "2026-10-02T00:17:46.920Z"
     }
   }
 }
