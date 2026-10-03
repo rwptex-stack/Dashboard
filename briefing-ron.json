@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-03T04:54:46.016Z",
+  "fetchedAt": "2026-10-03T10:18:48.844Z",
   "feeds": {
     "MarketWatch": {
       "items": [
@@ -29,37 +29,37 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T04:54:44.196Z"
+      "updatedAt": "2026-10-03T10:18:47.179Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Northwestern Wildcats christen new Ryan Field with impressive win over Penn State Nittany Lions",
-          "link": "https://www.foxnews.com/outkick-sports/northwestern-wildcats-christen-new-ryan-field-impressive-win-penn-state-nittany-lions"
+          "title": "Former Knoxville police chief says investigators are still haunted by Colleen Slemmer's murder 31 years later",
+          "link": "https://www.foxnews.com/us/former-knoxville-police-chief-says-investigators-still-haunted-colleen-slemmer-murder-31-years-later"
         },
         {
-          "title": "Three college students face federal charges over alleged threats against Trump ahead of campus rally",
-          "link": "https://www.foxnews.com/politics/three-college-students-face-federal-charges-alleged-threats-trump-campus-rally"
+          "title": "From Democratic insider to party exile: Lindy Li isn’t ruling out another run for Congress",
+          "link": "https://www.foxnews.com/politics/democratic-insider-party-exile-lindy-li-isnt-ruling-out-own-run-office"
         },
         {
-          "title": "Rams lose Aaron Donald to back soreness for Eagles game, Sean McVay says he’s protecting star 'from himself'",
-          "link": "https://www.foxnews.com/outkick-sports/rams-lose-aaron-donald-back-soreness-eagles-game-sean-mcvay-says-hes-protecting-star-from-himself"
+          "title": "How foreign hackers could 'crumble' America by targeting one essential utility",
+          "link": "https://www.foxnews.com/politics/how-foreign-hackers-could-crumble-america-targeting-essential-utility"
         },
         {
-          "title": "Airport X-ray exposes dangerous weapon illegally concealed in passenger's carry-on",
-          "link": "https://www.foxnews.com/travel/airport-x-ray-exposes-dangerous-weapon-illegally-concealed-passengers-carry-on"
+          "title": "An AI-generated influencer entered Alabama 'RushTok' — Some fans didn't care that she was fake",
+          "link": "https://www.foxnews.com/tech/ai-generated-influencer-entered-alabama-rushtok-fans-didnt-care-fake"
         },
         {
-          "title": "Fox News Campus Radicals Newsletter: Christianity rejected, socialist streamer speaks, violence glorified",
-          "link": "https://www.foxnews.com/us/fox-news-campus-radicals-newsletter-christianity-rejected-far-left-phenom-visits-campus-violence-glorified"
+          "title": "White House urges sitcom producer Chuck Lorre to seek 'psychiatric help' after targeting Trump, first lady",
+          "link": "https://www.foxnews.com/media/white-house-urges-sitcom-producer-chuck-lorre-seek-psychiatric-help-after-targeting-trump-first-lady"
         },
         {
-          "title": "FBI's first cyber fugitive on Ten Most Wanted list returns to US after capture in Venezuela",
-          "link": "https://www.foxnews.com/us/fbi-first-cyber-fugitive-ten-most-wanted-list-returns-us-capture-venezuela"
+          "title": "Expert tears apart Talarico's viral claim his agenda is based on Jesus's teachings: 'Butchering the Bible'",
+          "link": "https://www.foxnews.com/politics/expert-tears-apart-talaricos-viral-claim-agenda-based-jesus-teachings-butchering-bible"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T04:54:44.352Z"
+      "updatedAt": "2026-10-03T10:18:47.310Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -89,10 +89,22 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T04:54:44.559Z"
+      "updatedAt": "2026-10-03T10:18:47.564Z"
     },
     "The Hill": {
       "items": [
+        {
+          "title": "GOP walks tightrope on immigration ahead of midterms",
+          "link": "https://thehill.com/homenews/campaign/6126619-gop-trump-immigration-enforcement-midterms/"
+        },
+        {
+          "title": "What to know about Trump's MAHA-backed push for psychedelic research",
+          "link": "https://thehill.com/policy/healthcare/6125285-trump-administration-psychedelic-medicine-maha/"
+        },
+        {
+          "title": "Cornell rape accusation renews reputation trouble for frats",
+          "link": "https://thehill.com/homenews/education/6126503-cornell-rape-chi-phi-frat-greek-life/"
+        },
         {
           "title": "Rove says if Paxton doesn't debate Talarico, 'he loses'",
           "link": "https://thehill.com/homenews/campaign/6127360-karl-rove-paxton-talarico-debate-warning/"
@@ -100,22 +112,10 @@
         {
           "title": "Blue Dog Democrat drops 'Zyn' from campaign nicotine pouch can",
           "link": "https://thehill.com/homenews/house/6127336-marie-gluesenkamp-perez-zyn-merch-removal/"
-        },
-        {
-          "title": "Trump says he will attend Georgia-Alabama football game in Tuscaloosa",
-          "link": "https://thehill.com/homenews/administration/6127311-trump-alabama-georgia-college-football/"
-        },
-        {
-          "title": "Alito: 'I thought about' retiring at end of last term",
-          "link": "https://thehill.com/regulation/court-battles/6127267-alito-considered-supreme-court-retirement/"
-        },
-        {
-          "title": "How did the beltway take Trump's AI accord?",
-          "link": "https://thehill.com/newsletters/technology/6127204-washington-skeptical-trump-ai-pact-newsletter/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T04:54:45.237Z"
+      "updatedAt": "2026-10-03T10:18:48.183Z"
     },
     "Ars Technica": {
       "items": [
@@ -141,7 +141,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T04:54:45.309Z"
+      "updatedAt": "2026-10-03T10:18:48.269Z"
     },
     "The Verge": {
       "items": [
@@ -167,10 +167,18 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T04:54:45.427Z"
+      "updatedAt": "2026-10-03T10:18:48.312Z"
     },
     "BBC World": {
       "items": [
+        {
+          "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+          "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Russia strikes second major bridge in Kyiv, mayor says",
+          "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
           "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss"
@@ -180,50 +188,42 @@
           "link": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
-          "link": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "Riot police clash with students as education protests rage in France",
           "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
-          "link": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "US road rage killer's sentence quashed because AI video of victim was shown in court",
-          "link": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "Women given shorts at Oktoberfest to prevent upskirting",
           "link": "https://www.bbc.co.uk/news/articles/cjwyzyqvx1zxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Kim wins Asian Games gold to secure military exemption",
+          "link": "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T04:54:45.678Z"
+      "updatedAt": "2026-10-03T10:18:48.396Z"
     },
     "BBC News": {
       "items": [
         {
+          "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+          "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Widdecombe suspect charged with planning terror act against Farage",
           "link": "https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Russia strikes second major bridge in Kyiv, mayor says",
+          "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
           "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Men charged over alleged plot to target Manchester Jewish community",
-          "link": "https://www.bbc.co.uk/news/articles/cqx29nke55kno?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "Woman deceived ex-partner that she had given birth to his babies, judge rules",
           "link": "https://www.bbc.co.uk/news/articles/cq073egz324zo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Riot police clash with students as education protests rage in France",
-          "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Suppliers pile pressure on government over energy bills",
@@ -231,33 +231,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T04:54:45.695Z"
+      "updatedAt": "2026-10-03T10:18:48.581Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "Trump Directed Use of Taxpayer Money for Ads Praising His Presidency",
-          "link": "https://www.nytimes.com/2026/10/02/us/politics/trump-ads.html"
+          "title": "U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies",
+          "link": "https://www.nytimes.com/2026/10/03/us/politics/kushner-witkoff-russia-oil-deal.html"
         },
         {
-          "title": "National Science Foundation Diverted $1.4 Billion in Science Funds Mandated by Congress",
-          "link": "https://www.nytimes.com/2026/10/02/us/politics/national-science-foundation-research-funds.html"
+          "title": "Trump, Putin, Ukraine and an Oil Deal: 5 Takeaways",
+          "link": "https://www.nytimes.com/2026/10/03/us/politics/trump-putin-ukraine-oil-deal-5-takeaways.html"
         },
         {
-          "title": "Judge Blocks Border Wall Construction in Big Bend in Texas",
-          "link": "https://www.nytimes.com/2026/10/02/us/border-wall-big-bend-texas.html"
+          "title": "Senate Races in Republican States Tilt Toward Democrats, Polls Find",
+          "link": "https://www.nytimes.com/2026/10/03/us/senate-polls-texas-kansas-ohio-alaska-iowa.html"
         },
         {
-          "title": "D.A. in Cornell Rape Inquiry Declined to Review Additional Evidence",
-          "link": "https://www.nytimes.com/2026/10/02/nyregion/cornell-rape-lawsuit-da-evidence.html"
+          "title": "Democrats May Have Found the Recipe for Flipping Red-State Senate Seats",
+          "link": "https://www.nytimes.com/2026/10/03/upshot/polls-midterms-senate-times-siena.html"
         },
         {
-          "title": "Hochul Denounces D.A. and Cornell Police in Handling of Sex Assault Case",
-          "link": "https://www.nytimes.com/2026/10/02/nyregion/cornell-rape-jane-doe-hochul.html"
+          "title": "In Texas, Talarico Inspires a Recurring Blue-Tinted Dream",
+          "link": "https://www.nytimes.com/2026/10/03/us/politics/texas-talarico.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T04:54:45.820Z"
+      "updatedAt": "2026-10-03T10:18:48.692Z"
     }
   },
   "indices": {
@@ -284,8 +284,8 @@
       },
       {
         "name": "Bitcoin",
-        "price": 84570,
-        "pct": 1.1331529112464287
+        "price": 84565,
+        "pct": 1.1271736542456456
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-03T04:54:46.016Z"
+    "updatedAt": "2026-10-03T10:18:48.844Z"
   }
 }
