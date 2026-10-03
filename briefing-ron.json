@@ -1,8 +1,16 @@
 {
-  "fetchedAt": "2026-10-03T19:08:03.408Z",
+  "fetchedAt": "2026-10-03T22:47:43.399Z",
   "feeds": {
     "MarketWatch": {
       "items": [
+        {
+          "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+          "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories"
+        },
+        {
+          "title": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
+          "link": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories"
+        },
         {
           "title": "These bond strategies can help you get a safe 5% return on your cash",
           "link": "https://www.marketwatch.com/story/these-bond-strategies-can-help-you-get-a-safe-5-return-on-your-cash-5fa45ccd?mod=mw_rss_topstories"
@@ -18,48 +26,40 @@
         {
           "title": "Switching jobs to get higher pay works best in these industries",
           "link": "https://www.marketwatch.com/story/the-best-industry-to-change-jobs-to-get-paid-more-money-and-the-worst-ae33a3a7?mod=mw_rss_topstories"
-        },
-        {
-          "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-          "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories"
-        },
-        {
-          "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
-          "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T19:08:01.396Z"
+      "updatedAt": "2026-10-03T22:47:42.265Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Tennessee's state corrections chief resigns following failed execution of Christa Pike",
-          "link": "https://www.foxnews.com/politics/tennessee-state-corrections-chief-resigns-failed-execution-christa-pike"
+          "title": "Cult-favorite movie's iconic Route 66 cafe faces uncertain future as highway turns 100",
+          "link": "https://www.foxnews.com/food-drink/cult-favorite-movie-iconic-route-66-cafe-faces-uncertain-future-highway-turns-100"
         },
         {
-          "title": "Firebrand GOP rep: Democrats side with Iran 'simply because they hate' Trump",
-          "link": "https://www.foxnews.com/politics/firebrand-gop-rep-democrats-side-iran-simply-because-hate-trump"
+          "title": "Underdog UFC Promo Code FOXNEWS: Play $5, Get $100 on Your UFC 332 Picks",
+          "link": "https://www.foxnews.com/outkick-betting/underdog-ufc-promo-code-foxnews-play-5-get-100-your-ufc-332-picks"
         },
         {
-          "title": "How to check your home title for fraud",
-          "link": "https://www.foxnews.com/tech/how-check-home-title-fraud"
+          "title": "Caesars Sportsbook Promo Code FOXNEWSDYW: Get 10x 100% Profit Boosts for UFC 332",
+          "link": "https://www.foxnews.com/outkick-betting/caesars-sportsbook-promo-code-foxnewsdyw-get-10x-100-profit-boosts-ufc-332"
         },
         {
-          "title": "Nolan Wells' friends open up about Christian faith journey after Horn Island death",
-          "link": "https://www.foxnews.com/media/nolan-wells-friends-open-up-about-christian-faith-journey-after-horn-island-death"
+          "title": "FanDuel Promo Code: Get a $250 Bonus for UFC 332",
+          "link": "https://www.foxnews.com/outkick-betting/fanduel-promo-code-get-250-bonus-ufc-332"
         },
         {
-          "title": "Hall of Famer praises Dan Lanning's 'perfect' response after Dante Moore was carted off following vicious hit",
-          "link": "https://www.foxnews.com/outkick-sports/hall-famer-praises-dan-lanning-perfect-response-dante-moore-carted-off-vicious-hit"
+          "title": "Fanatics Sportsbook Promo Code FOXNEWS350 Unlocks Bet $20, Get $350 Promo for UFC 332",
+          "link": "https://www.foxnews.com/outkick-betting/fanatics-sportsbook-promo-code-foxnews350-unlocks-bet-20-get-350-promo-ufc-332"
         },
         {
-          "title": "Springsteen, other stars share stage with hardcore leftist groups at music fest",
-          "link": "https://www.foxnews.com/politics/springsteen-headlines-music-festival-rallying-pro-democrat-activists-election-day"
+          "title": "How to Bet on UFC 332 With Caesars, Bet365 and Fanatics",
+          "link": "https://www.foxnews.com/outkick-betting/how-bet-ufc-332-caesars-bet365-fanatics"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T19:08:01.770Z"
+      "updatedAt": "2026-10-03T22:47:42.359Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -89,36 +89,40 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T19:08:02.143Z"
+      "updatedAt": "2026-10-03T22:47:42.543Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Breaking the tyranny of extremists",
-          "link": "https://thehill.com/opinion/campaign/6124141-urgent-gop-reform-prevents-populism/"
+          "title": "Hegseth indicates some US troops could be redeployed from Europe to Western Hemisphere",
+          "link": "https://thehill.com/policy/defense/6127801-hegseth-redeploys-troops-western-hemisphere/"
         },
         {
-          "title": "Tennessee corrections commissioner to resign after botched Christa Pike execution",
-          "link": "https://thehill.com/homenews/state-watch/6127622-tennessee-corrections-commissioner-to-resign-after-botched-christa-pike-execution/"
+          "title": "Federal judge rules warrantless Flock camera searches may violate 4th Amendment",
+          "link": "https://thehill.com/regulation/court-battles/6127775-fourth-amendment-flock-camera-ruling/"
         },
         {
-          "title": "Ted Cruz slams Tucker Carlson for World War II comments",
-          "link": "https://thehill.com/homenews/senate/6127608-ted-cruz-criticizes-tucker-carlson-wwii/"
+          "title": "Head Start fight reaches tipping point as advocates push back against proposed Trump changes",
+          "link": "https://thehill.com/homenews/education/6126823-head-start-programs-trump-reforms-hhs/"
         },
         {
-          "title": "Nepal's catastrophic flooding is a red alert for the world's mountain towns",
-          "link": "https://thehill.com/opinion/energy-environment/6124065-glacial-lake-flood-risks/"
+          "title": "Sunday shows preview: Trump boosts midterm candidates in final stretch; Supreme Court opens new term",
+          "link": "https://thehill.com/homenews/sunday-talk-shows/6127755-trump-midterm-campaign-iran-war/"
         },
         {
-          "title": "Trump posts GOP senator's cell phone number over daylight savings act stall",
-          "link": "https://thehill.com/homenews/administration/6127587-trump-posts-tom-cotton-phone-number/"
+          "title": "Trump, Cotton tussle over daylight savings after cell phone number leak",
+          "link": "https://thehill.com/homenews/administration/6127691-trump-cotton-fued-daylight-savings-posts/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T19:08:02.788Z"
+      "updatedAt": "2026-10-03T22:47:42.961Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "Milt Windler, NASA flight director who helped save Apollo 13, dies at 94",
+          "link": "https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/"
+        },
         {
           "title": "The dawn of the age of the exoskeleton",
           "link": "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/"
@@ -134,14 +138,10 @@
         {
           "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
           "link": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/"
-        },
-        {
-          "title": "Patient-zero drill put health facilities to the test—40% of them failed",
-          "link": "https://arstechnica.com/health/2026/10/patient-zero-drill-put-health-facilities-to-the-test-40-of-them-failed/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T19:08:02.864Z"
+      "updatedAt": "2026-10-03T22:47:43.145Z"
     },
     "The Verge": {
       "items": [
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T19:08:02.935Z"
+      "updatedAt": "2026-10-03T22:47:43.234Z"
     },
     "BBC World": {
       "items": [
@@ -201,7 +201,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T19:08:03.083Z"
+      "updatedAt": "2026-10-03T22:47:43.268Z"
     },
     "BBC News": {
       "items": [
@@ -210,16 +210,16 @@
           "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss"
         },
         {
+          "title": "Tories pledge to scrap £100,000 childcare 'cliff edge'",
+          "link": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "UK-Iranian dual national arrested over RAF Fairford released on bail",
           "link": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
           "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Kemi Badenoch has cemented her image. Now she wants to put her party back on the big stage",
-          "link": "https://www.bbc.co.uk/news/articles/cmn8e887716vo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
@@ -231,7 +231,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T19:08:03.109Z"
+      "updatedAt": "2026-10-03T22:47:43.273Z"
     },
     "NY Times": {
       "items": [
@@ -240,12 +240,8 @@
           "link": "https://www.nytimes.com/2026/10/03/us/politics/kushner-witkoff-russia-oil-deal.html"
         },
         {
-          "title": "Trump, Putin, Ukraine and an Oil Deal: 5 Takeaways",
-          "link": "https://www.nytimes.com/2026/10/03/us/politics/trump-putin-ukraine-oil-deal-5-takeaways.html"
-        },
-        {
-          "title": "Russia Turns to Striking Kyiv’s Bridges, Threatening a Vital Lifeline",
-          "link": "https://www.nytimes.com/2026/10/03/world/europe/russia-ukraine-bridges-kyiv.html"
+          "title": "With Elon Musk’s Return to Washington, Possible Conflicts of Interest Resurface",
+          "link": "https://www.nytimes.com/2026/10/03/us/politics/elon-musk-pentagon-returns-to-washington.html"
         },
         {
           "title": "Senate Races in Republican States Tilt Toward Democrats, Polls Find",
@@ -254,10 +250,14 @@
         {
           "title": "Democrats May Have Found the Recipe for Flipping Red-State Senate Seats",
           "link": "https://www.nytimes.com/2026/10/03/upshot/polls-midterms-senate-times-siena.html"
+        },
+        {
+          "title": "Tennessee Commissioner Resigns After Failed Execution of Christa Pike",
+          "link": "https://www.nytimes.com/2026/10/03/us/tennessee-prison-commissioner-resigns-christa-pike.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T19:08:03.245Z"
+      "updatedAt": "2026-10-03T22:47:43.305Z"
     }
   },
   "indices": {
@@ -284,8 +284,8 @@
       },
       {
         "name": "Bitcoin",
-        "price": 84861.7,
-        "pct": 1.481982764672115
+        "price": 84793.43,
+        "pct": 1.4003419895834168
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-03T19:08:03.408Z"
+    "updatedAt": "2026-10-03T22:47:43.399Z"
   }
 }
