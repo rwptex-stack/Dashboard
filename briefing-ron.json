@@ -1,8 +1,12 @@
 {
-  "fetchedAt": "2026-10-02T23:39:58.305Z",
+  "fetchedAt": "2026-10-03T04:54:46.016Z",
   "feeds": {
     "MarketWatch": {
       "items": [
+        {
+          "title": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
+          "link": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories"
+        },
         {
           "title": "Why Western Digital and Seagate are seeing big stock drops today",
           "link": "https://www.marketwatch.com/story/why-western-digital-and-seagate-are-seeing-big-stock-drops-today-6b16d95e?mod=mw_rss_topstories"
@@ -22,44 +26,40 @@
         {
           "title": "Why mixing politics with your stock portfolio might be costing you money",
           "link": "https://www.marketwatch.com/story/why-mixing-politics-with-your-stock-portfolio-might-be-costing-you-money-5b4aabfb?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Does AI have a soul? Pope Leo and Anthropic clash.",
-          "link": "https://www.marketwatch.com/story/does-ai-have-a-soul-pope-leo-and-anthropic-clash-0c1669fb?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T23:39:56.274Z"
+      "updatedAt": "2026-10-03T04:54:44.196Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "EXCLUSIVE: Michael McDonald’s long-lost son reveals stunning moment he discovered famous father after 58 years",
-          "link": "https://www.foxnews.com/entertainment/michael-mcdonalds-long-lost-son-reveals-stunning-moment-discovered-famous-father-58-years"
+          "title": "Northwestern Wildcats christen new Ryan Field with impressive win over Penn State Nittany Lions",
+          "link": "https://www.foxnews.com/outkick-sports/northwestern-wildcats-christen-new-ryan-field-impressive-win-penn-state-nittany-lions"
         },
         {
-          "title": "WNBA playoffs preview: Golden State Valkyries look to close out Dallas Wings in Game 3",
-          "link": "https://www.foxnews.com/outkick-betting/wnba-playoffs-preview-golden-state-valkyries-close-dallas-wings-game-3"
+          "title": "Three college students face federal charges over alleged threats against Trump ahead of campus rally",
+          "link": "https://www.foxnews.com/politics/three-college-students-face-federal-charges-alleged-threats-trump-campus-rally"
         },
         {
-          "title": "Inside explosive Cornell rape allegations: 7 men accused, conflicting accounts and a political firestorm",
-          "link": "https://www.foxnews.com/us/inside-explosive-cornell-rape-allegations-7-men-accused-conflicting-accounts-political-firestorm"
+          "title": "Rams lose Aaron Donald to back soreness for Eagles game, Sean McVay says he’s protecting star 'from himself'",
+          "link": "https://www.foxnews.com/outkick-sports/rams-lose-aaron-donald-back-soreness-eagles-game-sean-mcvay-says-hes-protecting-star-from-himself"
         },
         {
-          "title": "Jared Kushner scolds CNN over 'deeply misleading’ report, says key info buried behind paywall",
-          "link": "https://www.foxnews.com/media/jared-kushner-scolds-cnn-deeply-misleading-report-says-key-info-buried-paywall"
+          "title": "Airport X-ray exposes dangerous weapon illegally concealed in passenger's carry-on",
+          "link": "https://www.foxnews.com/travel/airport-x-ray-exposes-dangerous-weapon-illegally-concealed-passengers-carry-on"
         },
         {
-          "title": "Miami Heat tease release of new 'Vice City' jerseys on the night before 'Grand Theft Auto VI' release",
-          "link": "https://www.foxnews.com/outkick-sports/miami-heat-tease-release-new-vice-city-jerseys-night-before-grand-theft-auto-vi-release"
+          "title": "Fox News Campus Radicals Newsletter: Christianity rejected, socialist streamer speaks, violence glorified",
+          "link": "https://www.foxnews.com/us/fox-news-campus-radicals-newsletter-christianity-rejected-far-left-phenom-visits-campus-violence-glorified"
         },
         {
-          "title": "'Piano Man' Billy Joel's prized motorcycle collection hits the auction block",
-          "link": "https://www.foxnews.com/entertainment/piano-man-billy-joels-prized-motorcycle-collection-hits-auction-block"
+          "title": "FBI's first cyber fugitive on Ten Most Wanted list returns to US after capture in Venezuela",
+          "link": "https://www.foxnews.com/us/fbi-first-cyber-fugitive-ten-most-wanted-list-returns-us-capture-venezuela"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T23:39:56.642Z"
+      "updatedAt": "2026-10-03T04:54:44.352Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -89,36 +89,40 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T23:39:56.757Z"
+      "updatedAt": "2026-10-03T04:54:44.559Z"
     },
     "The Hill": {
       "items": [
         {
+          "title": "Rove says if Paxton doesn't debate Talarico, 'he loses'",
+          "link": "https://thehill.com/homenews/campaign/6127360-karl-rove-paxton-talarico-debate-warning/"
+        },
+        {
+          "title": "Blue Dog Democrat drops 'Zyn' from campaign nicotine pouch can",
+          "link": "https://thehill.com/homenews/house/6127336-marie-gluesenkamp-perez-zyn-merch-removal/"
+        },
+        {
+          "title": "Trump says he will attend Georgia-Alabama football game in Tuscaloosa",
+          "link": "https://thehill.com/homenews/administration/6127311-trump-alabama-georgia-college-football/"
+        },
+        {
+          "title": "Alito: 'I thought about' retiring at end of last term",
+          "link": "https://thehill.com/regulation/court-battles/6127267-alito-considered-supreme-court-retirement/"
+        },
+        {
           "title": "How did the beltway take Trump's AI accord?",
           "link": "https://thehill.com/newsletters/technology/6127204-washington-skeptical-trump-ai-pact-newsletter/"
-        },
-        {
-          "title": "Alito: Overturning Roe v. Wade took 'courage' from Supreme Court justices",
-          "link": "https://thehill.com/regulation/court-battles/6127182-alito-roe-wade-overturn-abortion/"
-        },
-        {
-          "title": "Big economies to release 100M barrels of fuel",
-          "link": "https://thehill.com/newsletters/energy-environment/6127198-big-economies-to-release-100m-barrels-of-fuel/"
-        },
-        {
-          "title": "Kushner pushes back on CNN report about Israeli investments tied to military",
-          "link": "https://thehill.com/homenews/administration/6127113-kushner-denies-cnn-israel-investment-report/"
-        },
-        {
-          "title": "Marines exceed 2026 recruiting goals",
-          "link": "https://thehill.com/newsletters/defense-national-security/6127172-marines-exceed-2026-recruiting-goals/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T23:39:57.409Z"
+      "updatedAt": "2026-10-03T04:54:45.237Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+          "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/"
+        },
         {
           "title": "Someone got Doom in an SQL database",
           "link": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/"
@@ -134,14 +138,10 @@
         {
           "title": "Lyft settles landmark driver misclassification lawsuit for $272.5M",
           "link": "https://arstechnica.com/tech-policy/2026/10/lyft-settles-landmark-driver-misclassification-lawsuit-for-272-5m/"
-        },
-        {
-          "title": "The 2008 economic crisis changed the US's relationship with energy",
-          "link": "https://arstechnica.com/science/2026/10/the-2008-economic-crisis-changed-the-uss-relationship-to-energy/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T23:39:57.586Z"
+      "updatedAt": "2026-10-03T04:54:45.309Z"
     },
     "The Verge": {
       "items": [
@@ -167,41 +167,41 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T23:39:57.763Z"
+      "updatedAt": "2026-10-03T04:54:45.427Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
+          "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
           "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Riot police clash with students as education protests rage in France",
-          "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
           "link": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
-          "link": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss"
+          "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
+          "link": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
-          "link": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-          "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss"
+          "title": "Riot police clash with students as education protests rage in France",
+          "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
           "link": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "US road rage killer's sentence quashed because AI video of victim was shown in court",
+          "link": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Women given shorts at Oktoberfest to prevent upskirting",
+          "link": "https://www.bbc.co.uk/news/articles/cjwyzyqvx1zxo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T23:39:57.953Z"
+      "updatedAt": "2026-10-03T04:54:45.678Z"
     },
     "BBC News": {
       "items": [
@@ -210,28 +210,28 @@
           "link": "https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
+          "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
           "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Watch: Why has UK diesel price hit an all time high?",
-          "link": "https://www.bbc.co.uk/news/videos/c6m2d3mpm7r8o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Men charged over alleged plot to target Manchester Jewish community",
           "link": "https://www.bbc.co.uk/news/articles/cqx29nke55kno?at_medium=RSS&at_campaign=rss"
         },
         {
+          "title": "Woman deceived ex-partner that she had given birth to his babies, judge rules",
+          "link": "https://www.bbc.co.uk/news/articles/cq073egz324zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Riot police clash with students as education protests rage in France",
           "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
-          "link": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss"
+          "title": "Suppliers pile pressure on government over energy bills",
+          "link": "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T23:39:57.997Z"
+      "updatedAt": "2026-10-03T04:54:45.695Z"
     },
     "NY Times": {
       "items": [
@@ -248,8 +248,8 @@
           "link": "https://www.nytimes.com/2026/10/02/us/border-wall-big-bend-texas.html"
         },
         {
-          "title": "New York Governor Criticizes Handling of Cornell Case",
-          "link": "https://www.nytimes.com/2026/10/02/briefing/new-york-governor-cornell-jobs-report.html"
+          "title": "D.A. in Cornell Rape Inquiry Declined to Review Additional Evidence",
+          "link": "https://www.nytimes.com/2026/10/02/nyregion/cornell-rape-lawsuit-da-evidence.html"
         },
         {
           "title": "Hochul Denounces D.A. and Cornell Police in Handling of Sex Assault Case",
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T23:39:58.098Z"
+      "updatedAt": "2026-10-03T04:54:45.820Z"
     }
   },
   "indices": {
@@ -279,13 +279,13 @@
       },
       {
         "name": "Gold",
-        "price": 4172.1,
-        "pct": 0.08876307456100009
+        "price": 4162.3,
+        "pct": -0.14633912292485018
       },
       {
         "name": "Bitcoin",
-        "price": 84511.68,
-        "pct": 1.208429293407706
+        "price": 84570,
+        "pct": 1.1331529112464287
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-02T23:39:58.305Z"
+    "updatedAt": "2026-10-03T04:54:46.016Z"
   }
 }
