@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-10-03T12:48:45.422Z",
+  "fetchedAt": "2026-10-03T16:50:13.636Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Panthers great Jonathan Stewart explains why youth sports matter far beyond the field",
-          "link": "https://www.foxnews.com/outkick-sports/panthers-great-jonathan-stewart-explains-why-youth-sports-matter-far-beyond-field"
+          "title": "Selma Blair says 'no one returned my calls' after anti-Islam comment led to Hollywood fallout",
+          "link": "https://www.foxnews.com/media/selma-blair-says-no-one-returned-my-calls-after-anti-islam-comment-led-hollywood-fallout"
         },
         {
-          "title": "‘Activist judge’ rules Congress cannot bar noncitizens from voting in federal elections",
-          "link": "https://www.foxnews.com/politics/activist-judge-rules-congress-cannot-bar-noncitizens-voting-federal-elections"
+          "title": "Zach Bryan sparks debate after wearing 'Free Palestine' shirt at venue that barred Macklemore",
+          "link": "https://www.foxnews.com/entertainment/zach-bryan-sparks-debate-wearing-free-palestine-shirt-venue-barred-macklemore"
         },
         {
-          "title": "Dining with someone you love may help the body in surprising ways, new research suggests",
-          "link": "https://www.foxnews.com/food-drink/dining-someone-you-love-may-help-body-surprising-ways-research-suggests"
+          "title": "Florida high school football game erupts into violent brawl involving players, coaches after final whistle",
+          "link": "https://www.foxnews.com/outkick-sports/florida-high-school-football-game-erupts-violent-brawl-involving-players-coaches-final-whistle"
         },
         {
-          "title": "BROADCAST BIAS: From FlyDubai to Benghazi, the media struggle to keep politics out of terrorism",
-          "link": "https://www.foxnews.com/opinion/broadcast-bias-flydubai-benghazi-media-struggle-keep-politics-out-terrorism"
+          "title": "Sharon Stone exclaims if men got pregnant you could get 'an abortion from a vending machine'",
+          "link": "https://www.foxnews.com/media/sharon-stone-exclaims-men-got-pregnant-could-get-abortion-vending-machine"
         },
         {
-          "title": "Boston-bound plane vanishes with 6 on board; Coast Guard launches search off Nantucket coast",
-          "link": "https://www.foxnews.com/us/boston-bound-plane-vanishes-6-board-coast-guard-launches-search-nantucket-coast"
+          "title": "Test your pop culture: From Hollywood to the Heartland",
+          "link": "https://www.foxnews.com/entertainment/test-your-pop-culture-from-hollywood-heartland-26"
         },
         {
-          "title": "Media sinks to new low by digging up tweets that got announcer fired by cowardly Blazers",
-          "link": "https://www.foxnews.com/outkick-sports/media-sinks-new-low-digging-tweets-got-announcer-fired-cowardly-blazers"
+          "title": "Newsom slaps 25% tax on private detention centers in sweeping pushback against key Trump policy",
+          "link": "https://www.foxnews.com/politics/newsom-slaps-25-percent-tax-private-detention-centers-sweeping-pushback-against-trump-immigration-agenda"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T12:48:43.020Z"
+      "updatedAt": "2026-10-03T16:50:11.604Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,36 +59,40 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T12:48:43.266Z"
+      "updatedAt": "2026-10-03T16:50:11.802Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "US, Russia talks on Ukraine involve oil deal tied to Kushner, Witkoff: Report",
-          "link": "https://thehill.com/homenews/administration/6127449-trump-russia-ukraine-oil-deal-lukoil/"
+          "title": "Trump posts GOP senator's cell phone number over daylight savings act stall",
+          "link": "https://thehill.com/homenews/administration/6127587-trump-posts-tom-cotton-phone-number/"
         },
         {
-          "title": "GOP walks tightrope on immigration ahead of midterms",
-          "link": "https://thehill.com/homenews/campaign/6126619-gop-trump-immigration-enforcement-midterms/"
+          "title": "Pennsylvania nears 1,000 measles cases, state health department reports",
+          "link": "https://thehill.com/policy/healthcare/6127566-pennsylvania-measles-cases-approach-1000/"
         },
         {
-          "title": "What to know about Trump's MAHA-backed push for psychedelic research",
-          "link": "https://thehill.com/policy/healthcare/6125285-trump-administration-psychedelic-medicine-maha/"
+          "title": "Pike's botched execution renews death penalty scrutiny",
+          "link": "https://thehill.com/regulation/court-battles/6127156-death-penalty-christa-pike-eighth-amendment/"
         },
         {
-          "title": "Cornell rape accusation renews reputation trouble for frats",
-          "link": "https://thehill.com/homenews/education/6126503-cornell-rape-chi-phi-frat-greek-life/"
+          "title": "Check your email: Notices sent regarding $309M Amazon returns settlement",
+          "link": "https://thehill.com/homenews/6123841-check-your-email-notices-sent-regarding-309m-amazon-returns-settlement/"
         },
         {
-          "title": "Rove says if Paxton doesn't debate Talarico, 'he loses'",
-          "link": "https://thehill.com/homenews/campaign/6127360-karl-rove-paxton-talarico-debate-warning/"
+          "title": "The Trump administration needs a crash course in ‘Working Class’ from JD Vance",
+          "link": "https://thehill.com/opinion/campaign/6124490-vance-must-champion-working-class/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T12:48:43.777Z"
+      "updatedAt": "2026-10-03T16:50:12.006Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "The dawn of the age of the exoskeleton",
+          "link": "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/"
+        },
         {
           "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
           "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/"
@@ -104,43 +108,43 @@
         {
           "title": "Patient-zero drill put health facilities to the test—40% of them failed",
           "link": "https://arstechnica.com/health/2026/10/patient-zero-drill-put-health-facilities-to-the-test-40-of-them-failed/"
-        },
-        {
-          "title": "Lyft settles landmark driver misclassification lawsuit for $272.5M",
-          "link": "https://arstechnica.com/tech-policy/2026/10/lyft-settles-landmark-driver-misclassification-lawsuit-for-272-5m/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T12:48:43.839Z"
+      "updatedAt": "2026-10-03T16:50:12.082Z"
     },
     "The Verge": {
       "items": [
         {
+          "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+          "link": "https://www.theverge.com/games/1004418/capcom-ai-game-development"
+        },
+        {
+          "title": "The best early October Prime Day deals happening now",
+          "link": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october"
+        },
+        {
+          "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+          "link": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview"
+        },
+        {
+          "title": "An OpenAI safety employee has quit and is sounding the alarm",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm"
+        },
+        {
           "title": "3D movies are finally worth watching",
           "link": "https://www.theverge.com/tech/1004131/3d-movies-are-finally-worth-watching-xreal-meta-glasses-vision-pro"
-        },
-        {
-          "title": "Meta open sources code to let you make Muse AI gadgets",
-          "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link"
-        },
-        {
-          "title": "Netflix is pivoting away from prestige",
-          "link": "https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig"
-        },
-        {
-          "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
-          "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents"
-        },
-        {
-          "title": "Sling TV drops its one-day cable passes",
-          "link": "https://www.theverge.com/streaming/1004300/sling-tv-pass-cable-drops"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T12:48:43.871Z"
+      "updatedAt": "2026-10-03T16:50:12.532Z"
     },
     "BBC World": {
       "items": [
+        {
+          "title": "Tennessee prison chief to resign after Christa Pike's failed execution, governor says",
+          "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
           "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss"
@@ -158,20 +162,16 @@
           "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
-          "link": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss"
+          "title": "Medical plane with 6 on board missing off Massachusetts coast",
+          "link": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Women given shorts at Oktoberfest to prevent upskirting",
           "link": "https://www.bbc.co.uk/news/articles/cjwyzyqvx1zxo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Kim wins Asian Games gold to secure military exemption",
-          "link": "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T12:48:43.965Z"
+      "updatedAt": "2026-10-03T16:50:12.863Z"
     },
     "BBC News": {
       "items": [
@@ -188,20 +188,20 @@
           "link": "https://www.bbc.co.uk/news/articles/cmn8e887716vo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
-          "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "Protesters across Spain demand action over housing crisis",
           "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Homemade bombs part of alleged plot on Manchester's Jewish community, court told",
+          "title": "Homemade bomb part of alleged plot on Manchester's Jewish community, court told",
           "link": "https://www.bbc.co.uk/news/articles/cr62y3enq62zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Tennessee prison chief to resign after Christa Pike's failed execution, governor says",
+          "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T12:48:44.201Z"
+      "updatedAt": "2026-10-03T16:50:12.889Z"
     },
     "NY Times": {
       "items": [
@@ -227,7 +227,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T12:48:44.239Z"
+      "updatedAt": "2026-10-03T16:50:12.926Z"
     },
     "ARTNews": {
       "items": [
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T12:48:44.395Z"
+      "updatedAt": "2026-10-03T16:50:13.051Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,10 +287,14 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T12:48:44.601Z"
+      "updatedAt": "2026-10-03T16:50:13.119Z"
     },
     "Contemporary Art Daily": {
       "items": [
+        {
+          "title": "<i>Walter or You jerk you didn’t call me up</i> at Layr",
+          "link": "https://www.contemporaryartdaily.com/project/walter-or-you-jerk-you-didn-t-call-me-up-at-layr-vienna-103910?source=rss"
+        },
         {
           "title": "<i>Fugitive Love</i> at Sophie Tappeiner",
           "link": "https://www.contemporaryartdaily.com/project/fugitive-love-at-sophie-tappeiner-vienna-102921?source=rss"
@@ -310,14 +314,10 @@
         {
           "title": "Cecilia De Nisco, Lydia Silvestri at VIN VIN",
           "link": "https://www.contemporaryartdaily.com/project/cecilia-de-nisco-lydia-silvestri-at-vin-vin-vienna-103119?source=rss"
-        },
-        {
-          "title": "David Medalla at Exile",
-          "link": "https://www.contemporaryartdaily.com/project/david-medalla-at-exile-vienna-104075?source=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T12:48:45.374Z"
+      "updatedAt": "2026-10-03T16:50:13.528Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T12:48:45.422Z"
+      "updatedAt": "2026-10-03T16:50:13.636Z"
     }
   }
 }
