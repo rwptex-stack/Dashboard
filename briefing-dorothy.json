@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-10-03T22:30:37.665Z",
+  "fetchedAt": "2026-10-04T02:12:29.547Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Cult-favorite movie's iconic Route 66 cafe faces uncertain future as highway turns 100",
-          "link": "https://www.foxnews.com/food-drink/cult-favorite-movie-iconic-route-66-cafe-faces-uncertain-future-highway-turns-100"
+          "title": "France’s violent student protests raise warning for America: ‘A cautionary tale’",
+          "link": "https://www.foxnews.com/world/frances-violent-student-protests-raise-warning-for-america-a-cautionary-tale"
         },
         {
-          "title": "Underdog UFC Promo Code FOXNEWS: Play $5, Get $100 on Your UFC 332 Picks",
-          "link": "https://www.foxnews.com/outkick-betting/underdog-ufc-promo-code-foxnews-play-5-get-100-your-ufc-332-picks"
+          "title": "South Carolina football in free fall as Shane Beamer may be out of time with buyout decision looming",
+          "link": "https://www.foxnews.com/outkick-sports/south-carolina-football-free-fall-shane-beamer-may-out-time-buyout-decision-looming"
         },
         {
-          "title": "Caesars Sportsbook Promo Code FOXNEWSDYW: Get 10x 100% Profit Boosts for UFC 332",
-          "link": "https://www.foxnews.com/outkick-betting/caesars-sportsbook-promo-code-foxnewsdyw-get-10x-100-profit-boosts-ufc-332"
+          "title": "Phil Collins gets frank on marriage failures and life regrets: 'I regret my marriages falling apart'",
+          "link": "https://www.foxnews.com/entertainment/phil-collins-frank-marriage-failures-life-regrets-regret-marriages-falling-apart"
         },
         {
-          "title": "FanDuel Promo Code: Get a $250 Bonus for UFC 332",
-          "link": "https://www.foxnews.com/outkick-betting/fanduel-promo-code-get-250-bonus-ufc-332"
+          "title": "Minnesota quarterback gets kicked in the crotch by teammate en route to upset win over Michigan",
+          "link": "https://www.foxnews.com/outkick-sports/minnesota-quarterback-kicked-crotch-teammate-upset-win-michigan"
         },
         {
-          "title": "Fanatics Sportsbook Promo Code FOXNEWS350 Unlocks Bet $20, Get $350 Promo for UFC 332",
-          "link": "https://www.foxnews.com/outkick-betting/fanatics-sportsbook-promo-code-foxnews350-unlocks-bet-20-get-350-promo-ufc-332"
+          "title": "Cornell president says university 'must do better' on handling of sexual assault allegations",
+          "link": "https://www.foxnews.com/us/cornell-president-says-university-must-do-better-handling-sexual-assault-allegations"
         },
         {
-          "title": "How to Bet on UFC 332 With Caesars, Bet365 and Fanatics",
-          "link": "https://www.foxnews.com/outkick-betting/how-bet-ufc-332-caesars-bet365-fanatics"
+          "title": "Pete Hegseth handles Air Force-Navy coin toss after showing off basketball skills at Academy",
+          "link": "https://www.foxnews.com/outkick-sports/pete-hegseth-handles-air-force-navy-coin-toss-showing-off-basketball-skills-academy"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T22:30:34.954Z"
+      "updatedAt": "2026-10-04T02:12:27.749Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,7 +59,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T22:30:35.118Z"
+      "updatedAt": "2026-10-04T02:12:27.926Z"
     },
     "The Hill": {
       "items": [
@@ -85,7 +85,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T22:30:36.105Z"
+      "updatedAt": "2026-10-04T02:12:28.229Z"
     },
     "Ars Technica": {
       "items": [
@@ -111,7 +111,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T22:30:36.210Z"
+      "updatedAt": "2026-10-04T02:12:28.386Z"
     },
     "The Verge": {
       "items": [
@@ -137,13 +137,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T22:30:36.330Z"
+      "updatedAt": "2026-10-04T02:12:28.486Z"
     },
     "BBC World": {
       "items": [
         {
           "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
           "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Cornell president says university 'must do better' after frat house rape allegations",
+          "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
@@ -164,14 +168,10 @@
         {
           "title": "Medical plane with 6 on board missing off Massachusetts coast",
           "link": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Women given shorts at Oktoberfest to prevent upskirting",
-          "link": "https://www.bbc.co.uk/news/articles/cjwyzyqvx1zxo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T22:30:36.434Z"
+      "updatedAt": "2026-10-04T02:12:28.641Z"
     },
     "BBC News": {
       "items": [
@@ -184,12 +184,12 @@
           "link": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "UK-Iranian dual national arrested over RAF Fairford released on bail",
-          "link": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
           "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Cornell president says university 'must do better' after frat house rape allegations",
+          "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
@@ -201,7 +201,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T22:30:36.462Z"
+      "updatedAt": "2026-10-04T02:12:28.654Z"
     },
     "NY Times": {
       "items": [
@@ -214,20 +214,20 @@
           "link": "https://www.nytimes.com/2026/10/03/us/politics/elon-musk-pentagon-returns-to-washington.html"
         },
         {
-          "title": "Senate Races in Republican States Tilt Toward Democrats, Polls Find",
-          "link": "https://www.nytimes.com/2026/10/03/us/senate-polls-texas-kansas-ohio-alaska-iowa.html"
+          "title": "Here’s Senator Cotton’s Cell Number, Trump Says, in Dispute Over Daylight Saving Bill",
+          "link": "https://www.nytimes.com/2026/10/03/us/trump-tom-cotton-cellphone-number.html"
         },
         {
-          "title": "Democrats May Have Found the Recipe for Flipping Red-State Senate Seats",
-          "link": "https://www.nytimes.com/2026/10/03/upshot/polls-midterms-senate-times-siena.html"
+          "title": "Cornell President Calls Rape Inquiry ‘Defining Moment’ for Campus",
+          "link": "https://www.nytimes.com/2026/10/03/nyregion/cornell-president-calls-rape-inquiry-defining-moment-for-campus.html"
         },
         {
-          "title": "Tennessee Commissioner Resigns After Failed Execution of Christa Pike",
-          "link": "https://www.nytimes.com/2026/10/03/us/tennessee-prison-commissioner-resigns-christa-pike.html"
+          "title": "Cornell Case Revives Anger About Handling of Campus Sexual Assault Cases",
+          "link": "https://www.nytimes.com/2026/10/03/us/cornell-rape-campus-sexual-assault.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T22:30:36.642Z"
+      "updatedAt": "2026-10-04T02:12:28.786Z"
     },
     "ARTNews": {
       "items": [
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T22:30:36.850Z"
+      "updatedAt": "2026-10-04T02:12:28.889Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T22:30:37.028Z"
+      "updatedAt": "2026-10-04T02:12:28.994Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T22:30:37.500Z"
+      "updatedAt": "2026-10-04T02:12:29.410Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T22:30:37.665Z"
+      "updatedAt": "2026-10-04T02:12:29.547Z"
     }
   }
 }
