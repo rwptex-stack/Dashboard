@@ -1,8 +1,20 @@
 {
-  "fetchedAt": "2026-10-04T09:33:42.833Z",
+  "fetchedAt": "2026-10-04T15:13:19.567Z",
   "feeds": {
     "MarketWatch": {
       "items": [
+        {
+          "title": "Corporate America has never been this upbeat about future profits",
+          "link": "https://www.marketwatch.com/story/corporate-america-has-never-been-this-upbeat-about-future-profits-fbaf8cd9?mod=mw_rss_topstories"
+        },
+        {
+          "title": "October can be a scary month for stocks. Here’s what investors need to watch this year.",
+          "link": "https://www.marketwatch.com/story/october-can-be-a-scary-month-for-stocks-heres-what-investors-need-to-watch-this-year-ac1da700?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Fed minutes coming this week could give markets important clues about future rate hikes",
+          "link": "https://www.marketwatch.com/story/fed-minutes-coming-this-week-could-give-markets-important-clues-about-future-rate-hikes-31bfba5b?mod=mw_rss_topstories"
+        },
         {
           "title": "The government can take 15% of Social Security benefits to repay student loans. These proposals seek to stop it.",
           "link": "https://www.marketwatch.com/story/the-government-can-take-15-of-social-security-benefits-to-repay-student-loans-these-proposals-seek-to-stop-it-102622fa?mod=mw_rss_topstories"
@@ -14,111 +26,103 @@
         {
           "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
           "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories"
-        },
-        {
-          "title": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
-          "link": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories"
-        },
-        {
-          "title": "These bond strategies can help you get a safe 5% return on your cash",
-          "link": "https://www.marketwatch.com/story/these-bond-strategies-can-help-you-get-a-safe-5-return-on-your-cash-5fa45ccd?mod=mw_rss_topstories"
-        },
-        {
-          "title": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
-          "link": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T09:33:41.827Z"
+      "updatedAt": "2026-10-04T15:13:17.918Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "How an Uzbek truck driver’s fatal crash exposed troubling fraud trend in Middle America: ‘Chameleon carriers’",
-          "link": "https://www.foxnews.com/politics/uzbek-truck-driver-fatal-crash-exposed-troubling-fraud-trend-middle-america-chameleon-carriers"
+          "title": "America’s Arctic war machine roars to life as commander reveals chilling new reality on Russia’s doorstep",
+          "link": "https://www.foxnews.com/world/americas-arctic-war-machine-roars-life-commander-reveals-chilling-new-reality-russias-doorstep"
         },
         {
-          "title": "California K-9 Otis helps police seize 440 pounds of cocaine during Alhambra traffic stop",
-          "link": "https://www.foxnews.com/us/california-k-9-otis-helps-police-seize-440-pounds-cocaine-alhambra-traffic-stop"
+          "title": "Irish soccer official clashes with Israeli journalist before Ireland meets Israel in Nations League match",
+          "link": "https://www.foxnews.com/outkick-sports/irish-soccer-official-clashes-israeli-journalist-ireland-meets-israel-nations-league-match"
         },
         {
-          "title": "Brewers take Game 1 of NLDS after a controversial call on sure-fire home run ball that hit the stadium roof",
-          "link": "https://www.foxnews.com/outkick-sports/brewers-take-game-1-nlds-controversial-call-sure-fire-home-run-ball-hit-stadium-roof"
+          "title": "Woman's routine Uber ride takes alarming turn after her driver misses the exit",
+          "link": "https://www.foxnews.com/travel/womans-routine-uber-ride-takes-alarming-turn-driver-misses-exit"
         },
         {
-          "title": "Shooting near Baltimore youth football event leaves 12-year-old girl dead, 3 adults wounded",
-          "link": "https://www.foxnews.com/us/shooting-near-baltimore-youth-football-event-leaves-12-year-old-girl-dead-3-adults-wounded"
+          "title": "Matthew McConaughey says Woody Harrelson’s wild antics include 2 a.m. visits, inviting strangers on vacations",
+          "link": "https://www.foxnews.com/entertainment/matthew-mcconaughey-says-woody-harrelsons-wild-antics-include-2-a-m-visits-inviting-strangers-vacations"
         },
         {
-          "title": "Texas mother facing capital murder charges after allegedly shooting her two sons to death",
-          "link": "https://www.foxnews.com/us/texas-mother-facing-capital-murder-charges-after-allegedly-shooting-her-two-sons-death"
+          "title": "WATCH: Dem senators dodge backing Kamala Harris in potential 2028 run: ‘Very messy’",
+          "link": "https://www.foxnews.com/politics/dem-senators-dodge-backing-kamala-harris-potential-2028-run-very-messy"
         },
         {
-          "title": "Yankees lose ALDS Game 1 to Rays as Austin Wells is thrown out at third after breaking up no-hitter",
-          "link": "https://www.foxnews.com/outkick-sports/yankees-lose-alds-game-1-rays-austin-wells-thrown-third-breaking-no-hitter"
+          "title": "Colorado State defensive coordinator fired after disappearing from sideline in the middle of blowout loss",
+          "link": "https://www.foxnews.com/outkick-sports/colorado-state-defensive-coordinator-fired-disappearing-sideline-middle-blowout-loss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T09:33:41.938Z"
+      "updatedAt": "2026-10-04T15:13:18.126Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "How Musk's DOGE Team Took Wrecking Ball to D.C.",
-          "link": "https://www.realclearpolitics.com/2026/10/03/how_musks_doge_team_took_wrecking_ball_to_dc_713020.html"
+          "title": "It Would Be Absurd To Trust Democrats on Affordability",
+          "link": "https://www.realclearpolitics.com/2026/10/04/it_would_be_absurd_to_trust_democrats_on_affordability_713034.html"
         },
         {
-          "title": "The Good News on Federal Workers You Haven't Heard",
-          "link": "https://www.realclearpolitics.com/2026/10/03/the_good_news_on_federal_workers_you_havent_heard_713003.html"
+          "title": "Trump Vowed To Lower Gas Prices. Alaska Isn't Buying It",
+          "link": "https://www.realclearpolitics.com/2026/10/04/trump_vowed_to_lower_gas_prices_alaska_isnt_buying_it_712930.html"
         },
         {
-          "title": "Trump's Superpower Is Fading",
-          "link": "https://www.realclearpolitics.com/2026/10/03/trumps_superpower_is_fading_712980.html"
+          "title": "SCOTUS Will Be Drawing Lots of Lines in the Term Ahead",
+          "link": "https://www.realclearpolitics.com/2026/10/04/scotus_will_be_drawing_lots_of_lines_in_the_term_ahead_712857.html"
         },
         {
-          "title": "Predictions of GOP Midterm Doom May Prove Premature",
-          "link": "https://www.realclearpolitics.com/2026/10/03/predictions_of_gop_midterm_doom_may_prove_premature_713023.html"
+          "title": "Nikole Hannah-Jones on Struggling Schools, Regrets",
+          "link": "https://www.realclearpolitics.com/2026/10/04/nikole_hannah-jones_on_struggling_schools_regrets_713031.html"
         },
         {
-          "title": "Looking at Generic Ballot Polls and the House Map",
-          "link": "https://www.realclearpolitics.com/2026/10/03/looking_at_generic_ballot_polls_and_the_house_map_712993.html"
+          "title": "The Left's Model for Schools Has Failed",
+          "link": "https://www.realclearpolitics.com/2026/10/04/the_lefts_model_for_schools_has_failed_713.html"
         },
         {
-          "title": "Inside Pennsylvania's Toughest Races",
-          "link": "https://www.realclearpolitics.com/2026/10/03/inside_pennsylvanias_toughest_races_713017.html"
+          "title": "Iowa Steel Investment Is a Tariff Win for America",
+          "link": "https://www.realclearpolitics.com/2026/10/04/iowa_steel_investment_is_a_tariff_win_for_america_713046.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T09:33:42.039Z"
+      "updatedAt": "2026-10-04T15:13:18.361Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Trump backs data centers in Ohio amid tight Senate race",
-          "link": "https://thehill.com/homenews/campaign/6127929-trump-defends-ohio-data-centers/"
+          "title": "The door to asylum is closing in rural America — AI can help keep it open",
+          "link": "https://thehill.com/opinion/immigration/6121649-ai-asylum-representation/"
         },
         {
-          "title": "Hegseth indicates some US troops could be redeployed from Europe to Western Hemisphere",
-          "link": "https://thehill.com/policy/defense/6127801-hegseth-redeploys-troops-western-hemisphere/"
+          "title": "Hassett says on negative polling on economy: ‘I just don't buy it’",
+          "link": "https://thehill.com/business/6128205-hassett-dismisses-negative-economic-polls/"
         },
         {
-          "title": "Federal judge rules warrantless Flock camera searches may violate 4th Amendment",
-          "link": "https://thehill.com/regulation/court-battles/6127775-fourth-amendment-flock-camera-ruling/"
+          "title": "Trump announces 'Super Intelligence Force' led by DNI Jay Clayton",
+          "link": "https://thehill.com/homenews/administration/6128176-trump-creates-super-intelligence-force/"
         },
         {
-          "title": "Head Start fight reaches tipping point as advocates push back against proposed Trump changes",
-          "link": "https://thehill.com/homenews/education/6126823-head-start-programs-trump-reforms-hhs/"
+          "title": "More Canadians to observe permanent daylight saving time. Why can’t the US?",
+          "link": "https://thehill.com/homenews/state-watch/6116007-more-canadians-to-observe-permanent-daylight-saving-time-why-cant-the-us/"
         },
         {
-          "title": "Sunday shows preview: Trump boosts midterm candidates in final stretch; Supreme Court opens new term",
-          "link": "https://thehill.com/homenews/sunday-talk-shows/6127755-trump-midterm-campaign-iran-war/"
+          "title": "Starship’s successful launch to low Earth orbit is a big deal",
+          "link": "https://thehill.com/opinion/congress-blog/technology/6124343-starship-achieves-low-earth-orbit/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T09:33:42.496Z"
+      "updatedAt": "2026-10-04T15:13:18.801Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "All hail electrification. But let’s talk about the hard part.",
+          "link": "https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/"
+        },
         {
           "title": "Milt Windler, NASA flight director who helped save Apollo 13, dies at 94",
           "link": "https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/"
@@ -134,40 +138,36 @@
         {
           "title": "Someone got Doom in an SQL database",
           "link": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/"
-        },
-        {
-          "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
-          "link": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T09:33:42.538Z"
+      "updatedAt": "2026-10-04T15:13:18.891Z"
     },
     "The Verge": {
       "items": [
         {
-          "title": "Capcom is preparing for a ‘future where we create games together with AI’",
-          "link": "https://www.theverge.com/games/1004418/capcom-ai-game-development"
+          "title": "This toolless modular lever-action wallet is the coolest I’ve stuck to my phone",
+          "link": "https://www.theverge.com/gadgets/1004360/this-toolless-modular-lever-action-wallet-is-the-coolest-ive-stuck-to-my-phone"
         },
         {
-          "title": "The best early October Prime Day deals happening now",
-          "link": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october"
+          "title": "The AirPods Pro 3 are a fantastic deal at $179",
+          "link": "https://www.theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale"
         },
         {
-          "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
-          "link": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview"
+          "title": "The MacBook Air M5 is $200 off for the first time in months",
+          "link": "https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale"
         },
         {
-          "title": "An OpenAI safety employee has quit and is sounding the alarm",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm"
+          "title": "The iPad Mini is slightly cheaper again during Prime Day",
+          "link": "https://www.theverge.com/gadgets/1000323/apple-ipad-mini-amazon-prime-big-deal-days-sale"
         },
         {
-          "title": "3D movies are finally worth watching",
-          "link": "https://www.theverge.com/tech/1004131/3d-movies-are-finally-worth-watching-xreal-meta-glasses-vision-pro"
+          "title": "The forgotten Chromebook that started it all",
+          "link": "https://www.theverge.com/podcast/1001215/the-forgotten-chromebook-that-started-it-all"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T09:33:42.596Z"
+      "updatedAt": "2026-10-04T15:13:18.933Z"
     },
     "BBC World": {
       "items": [
@@ -176,88 +176,88 @@
           "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss"
         },
         {
+          "title": "Watch: What we know about Russian strikes on Kyiv bridges",
+          "link": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Yemen announces military campaign to reclaim land from Iran-backed Houthis",
+          "link": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
+          "link": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Australia investigating Flydubai co-pilot's links to country",
           "link": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
-          "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Cornell president says university 'must do better' after frat house rape allegations",
-          "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
-          "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss"
+          "title": "US Marine arrested over murder of woman in Okinawa, Japan",
+          "link": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
           "link": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Debris found from plane that went missing off US coast",
-          "link": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T09:33:42.704Z"
+      "updatedAt": "2026-10-04T15:13:19.044Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Burnham scraps controversial plans to curb jury trials",
+          "title": "Courts backlog will fall despite scrapping of jury trial plan, minister says",
           "link": "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Australia investigating Flydubai co-pilot's links to country",
-          "link": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss"
+          "title": "I'm a classic old school Conservative, says Kemi Badenoch",
+          "link": "https://www.bbc.co.uk/news/articles/cx7vp6d5pgn1o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-          "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss"
+          "title": "Watch: What we know about Russian strikes on Kyiv bridges",
+          "link": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Cornell president says university 'must do better' after frat house rape allegations",
-          "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss"
+          "title": "British Museum announces changes to ease Bayeux Tapestry queues",
+          "link": "https://www.bbc.co.uk/news/articles/cwvgrle6dx2lo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Bellingham unlocks new level and potential to be 'one of the greatest'",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cv5yn8znyx2ro?at_medium=RSS&at_campaign=rss"
+          "title": "Green Party members back 'Zionism is racism' motion",
+          "link": "https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "The Celebrity Traitors connections that might surprise you",
-          "link": "https://www.bbc.co.uk/news/articles/cqkgx895g9vzo?at_medium=RSS&at_campaign=rss"
+          "title": "Daughter of MP murdered five years ago tells BBC politicians still at risk",
+          "link": "https://www.bbc.co.uk/news/articles/cq5yn0my1656o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T09:33:42.713Z"
+      "updatedAt": "2026-10-04T15:13:19.265Z"
     },
     "NY Times": {
       "items": [
+        {
+          "title": "Superpowers Race to Put Nuclear Reactors on the Moon",
+          "link": "https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html"
+        },
+        {
+          "title": "Who Owns the Moon?",
+          "link": "https://www.nytimes.com/2026/10/04/world/asia/who-owns-moon.html"
+        },
         {
           "title": "How Cornell Punished Each of the 7 Men Accused of Sexual Assault",
           "link": "https://www.nytimes.com/2026/10/03/nyregion/cornell-men-university-discipline.html"
         },
         {
-          "title": "Cornell President Calls Rape Inquiry ‘Defining Moment’ for Campus",
-          "link": "https://www.nytimes.com/2026/10/03/nyregion/cornell-president-calls-rape-inquiry-defining-moment-for-campus.html"
+          "title": "A Campus Reckoning: ‘Cornell Is Now Known for This’",
+          "link": "https://www.nytimes.com/2026/10/04/nyregion/cornell-spotlight-rape-accusation.html"
         },
         {
-          "title": "Cornell Case Revives Anger About Handling of Campus Sexual Assault Cases",
-          "link": "https://www.nytimes.com/2026/10/03/us/cornell-rape-campus-sexual-assault.html"
-        },
-        {
-          "title": "U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies",
-          "link": "https://www.nytimes.com/2026/10/03/us/politics/kushner-witkoff-russia-oil-deal.html"
-        },
-        {
-          "title": "With Elon Musk’s Return to Washington, Possible Conflicts of Interest Resurface",
-          "link": "https://www.nytimes.com/2026/10/03/us/politics/elon-musk-pentagon-returns-to-washington.html"
+          "title": "Cornell Case Carries Far-Reaching Implications for Hochul and James",
+          "link": "https://www.nytimes.com/2026/10/04/nyregion/hochul-james-cornell.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T09:33:42.747Z"
+      "updatedAt": "2026-10-04T15:13:19.406Z"
     }
   },
   "indices": {
@@ -284,8 +284,8 @@
       },
       {
         "name": "Bitcoin",
-        "price": 85241.99,
-        "pct": 2.020421560466692
+        "price": 85295.23,
+        "pct": 2.084140946228079
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-04T09:33:42.833Z"
+    "updatedAt": "2026-10-04T15:13:19.567Z"
   }
 }
