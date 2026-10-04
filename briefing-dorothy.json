@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-10-04T14:30:15.933Z",
+  "fetchedAt": "2026-10-04T18:26:23.352Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Matthew McConaughey says Woody Harrelson’s wild antics include 2 a.m. visits, inviting strangers on vacations",
-          "link": "https://www.foxnews.com/entertainment/matthew-mcconaughey-says-woody-harrelsons-wild-antics-include-2-a-m-visits-inviting-strangers-vacations"
+          "title": "Dakota Johnson, Anya Taylor-Joy and Zoë Kravitz turn heads in sheer looks",
+          "link": "https://www.foxnews.com/entertainment/dakota-johnson-anya-taylor-joy-zoe-kravitz-turn-heads-sheer-looks"
         },
         {
-          "title": "WATCH: Dem senators dodge backing Kamala Harris in potential 2028 run: ‘Very messy’",
-          "link": "https://www.foxnews.com/politics/dem-senators-dodge-backing-kamala-harris-potential-2028-run-very-messy"
+          "title": "Eagles' Saquon Barkley suffers hamstring injury against Rams, and field could have played a significant role",
+          "link": "https://www.foxnews.com/outkick-sports/eagles-saquon-barkley-suffers-hamstring-injury-against-rams-field-could-have-played-significant-role"
         },
         {
-          "title": "Colorado State defensive coordinator fired after disappearing from sideline in the middle of blowout loss",
-          "link": "https://www.foxnews.com/outkick-sports/colorado-state-defensive-coordinator-fired-disappearing-sideline-middle-blowout-loss"
+          "title": "Kelsey Mitchell’s Caitlin Clark comments deserve context, including the benefits of all that attention",
+          "link": "https://www.foxnews.com/outkick-sports/kelsey-mitchell-caitlin-clark-comments-deserve-context-benefits-attention"
         },
         {
-          "title": "NFL legend warns more rulebook tweaks won't save signal-callers from getting hurt",
-          "link": "https://www.foxnews.com/outkick-sports/nfl-legend-warns-more-rulebook-tweaks-wont-save-signal-callers-getting-hurt"
+          "title": "Elite CEOs pay $20K to endure a psychedelic 'hell ride' that rewires the human brain",
+          "link": "https://www.foxnews.com/travel/elite-ceos-pay-20k-endure-psychedelic-hell-ride-rewires-human-brain"
         },
         {
-          "title": "Former streaker-turned-influencer Kinsey Wolanski takes the mound, Front Row Amy throws heat & Michigan lost",
-          "link": "https://www.foxnews.com/outkick-sports/former-streaker-turned-influencer-kinsey-wolanski-takes-mound-front-row-amy-throws-heat-michigan-lost"
+          "title": "Jason Kelce calls the Commanders the 'Redskins' during game, immediately apologizes so as to not get canceled",
+          "link": "https://www.foxnews.com/outkick-sports/jason-kelce-calls-commanders-redskins-during-game-immediately-apologizes-not-get-canceled"
         },
         {
-          "title": "Cowboys legend Randy White endorses Ken Paxton, warns James Talarico ‘can’t be trusted’",
-          "link": "https://www.foxnews.com/outkick-sports/cowboys-legend-randy-white-endorses-ken-paxton-warns-james-talarico-cant-be-trusted"
+          "title": "Neighborhood backlash collides with America's tech arms race — but is this the plan to fix it?",
+          "link": "https://www.foxnews.com/politics/neighborhood-backlash-collides-americas-tech-arms-race-plan-fix-it"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T14:30:13.418Z"
+      "updatedAt": "2026-10-04T18:26:21.034Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,36 +59,40 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T14:30:13.696Z"
+      "updatedAt": "2026-10-04T18:26:21.351Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Cornell president promises reforms after alleged gang rape",
-          "link": "https://thehill.com/homenews/education/6128142-cornell-president-promises-reforms/"
+          "title": "3 classes after Supreme Court's admissions ruling: What the data show",
+          "link": "https://thehill.com/opinion/education/6127046-higher-education-post-ruling-trends/"
         },
         {
-          "title": "Live updates: Trump set for Nebraska trip after Ohio rally; Alito, Cornell victim's attorney to appear on Sunday shows",
+          "title": "Borg use at US colleges can be 'particularly harmful' to drinkers, study suggests",
+          "link": "https://thehill.com/homenews/education/6128231-college-borgs-fuel-harmful-drinking/"
+        },
+        {
+          "title": "Iran did not collapse after Khamenei — it just became harder to read",
+          "link": "https://thehill.com/opinion/international/6126677-iran-opaque-security-led-rule/"
+        },
+        {
+          "title": "Live updates: Trump taps Clayton to lead AI force; Cornell victim's attorney alleges more involved in gang rape",
           "link": "https://thehill.com/homenews/administration/6127907-trump-nebraska-gop-midterms-cornell-case-alito/"
         },
         {
-          "title": "Trump vows GOP midterm victory: 'We're going to shove it up their a--'",
-          "link": "https://thehill.com/homenews/campaign/6128086-trump-vows-gop-win-midterms/"
-        },
-        {
-          "title": "Congressional hearings are no longer a check on power — they're now a circus",
-          "link": "https://thehill.com/opinion/congress-blog/6126730-congressional-oversight-deteriorates-partisan/"
-        },
-        {
-          "title": "Real voters reveal what could decide the 2026 midterms",
-          "link": "https://thehill.com/homenews/campaign/6127863-voters-weigh-midterm-issues/"
+          "title": "Alito on Trump's praise of him, criticism of fellow justices: 'I put all of that out of my mind'",
+          "link": "https://thehill.com/regulation/court-battles/6128234-alito-fox-news-interview-trump/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T14:30:14.096Z"
+      "updatedAt": "2026-10-04T18:26:21.903Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "Lions and cheetahs and chimps, oh my: a spotlight on Africa's diverse wildlife",
+          "link": "https://arstechnica.com/science/2026/10/lions-and-cheetahs-and-chimps-oh-my-a-spotlight-on-africas-diverse-wildlife/"
+        },
         {
           "title": "All hail electrification. But let’s talk about the hard part.",
           "link": "https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/"
@@ -104,40 +108,36 @@
         {
           "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
           "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/"
-        },
-        {
-          "title": "Someone got Doom in an SQL database",
-          "link": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T14:30:14.277Z"
+      "updatedAt": "2026-10-04T18:26:21.992Z"
     },
     "The Verge": {
       "items": [
         {
+          "title": "The best early October Prime Day deals happening now",
+          "link": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october"
+        },
+        {
+          "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true"
+        },
+        {
+          "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft"
+        },
+        {
+          "title": "This toolless modular lever-action wallet is the coolest I’ve stuck to my phone",
+          "link": "https://www.theverge.com/gadgets/1004360/this-toolless-modular-lever-action-wallet-is-the-coolest-ive-stuck-to-my-phone"
+        },
+        {
           "title": "The AirPods Pro 3 are a fantastic deal at $179",
           "link": "https://www.theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale"
-        },
-        {
-          "title": "The MacBook Air M5 is $200 off for the first time in months",
-          "link": "https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale"
-        },
-        {
-          "title": "The iPad Mini is slightly cheaper again during Prime Day",
-          "link": "https://www.theverge.com/gadgets/1000323/apple-ipad-mini-amazon-prime-big-deal-days-sale"
-        },
-        {
-          "title": "The forgotten Chromebook that started it all",
-          "link": "https://www.theverge.com/podcast/1001215/the-forgotten-chromebook-that-started-it-all"
-        },
-        {
-          "title": "The rise, fall, and rise of portable MP3 players",
-          "link": "https://www.theverge.com/column/1003566/history-apple-ipod-mp3-music-player"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T14:30:14.415Z"
+      "updatedAt": "2026-10-04T18:26:22.035Z"
     },
     "BBC World": {
       "items": [
@@ -146,62 +146,62 @@
           "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss"
         },
         {
+          "title": "Watch: What we know about Russian strikes on Kyiv bridges",
+          "link": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Yemen's government announces all-out war to reclaim land from Houthis",
+          "link": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
           "link": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Australia investigating Flydubai co-pilot's links to country",
-          "link": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss"
+          "title": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
+          "link": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
-          "link": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss"
+          "title": "US Marine arrested over murder of woman in Okinawa, Japan",
+          "link": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Cornell president says university 'must do better' after frat house rape allegations",
-          "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
-          "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
-          "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss"
+          "title": "Indian police accused of sexual harassment against journalists at protest",
+          "link": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T14:30:14.691Z"
+      "updatedAt": "2026-10-04T18:26:22.107Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Courts backlog will fall despite scrapping of jury trial plan, minister says",
-          "link": "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss"
+          "title": "Green Party members back 'Zionism is racism' motion",
+          "link": "https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "I'm a classic old school Conservative, says Kemi Badenoch",
           "link": "https://www.bbc.co.uk/news/articles/cx7vp6d5pgn1o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-          "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss"
+          "title": "Watch: What we know about Russian strikes on Kyiv bridges",
+          "link": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "British Museum announces changes to ease Bayeux Tapestry queues",
           "link": "https://www.bbc.co.uk/news/articles/cwvgrle6dx2lo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Australia investigating Flydubai co-pilot's links to country",
-          "link": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss"
+          "title": "Yemen's government announces all-out war to reclaim land from Houthis",
+          "link": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Daughter of MP murdered five years ago tells BBC politicians still at risk",
-          "link": "https://www.bbc.co.uk/news/articles/cq5yn0my1656o?at_medium=RSS&at_campaign=rss"
+          "title": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
+          "link": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T14:30:14.714Z"
+      "updatedAt": "2026-10-04T18:26:22.125Z"
     },
     "NY Times": {
       "items": [
@@ -214,20 +214,20 @@
           "link": "https://www.nytimes.com/2026/10/04/world/asia/who-owns-moon.html"
         },
         {
+          "title": "Houthis Claim Attack on Aramco as Yemen Conflict Escalates",
+          "link": "https://www.nytimes.com/2026/10/04/world/middleeast/houthis-oil-attack-saudi-arabia-yemen.html"
+        },
+        {
+          "title": "Iran’s Top Security Official Warns of Dire Economic Crisis",
+          "link": "https://www.nytimes.com/2026/10/04/world/middleeast/iran-economy-rial.html"
+        },
+        {
           "title": "How Cornell Punished Each of the 7 Men Accused of Sexual Assault",
           "link": "https://www.nytimes.com/2026/10/03/nyregion/cornell-men-university-discipline.html"
-        },
-        {
-          "title": "A Campus Reckoning: ‘Cornell Is Now Known for This’",
-          "link": "https://www.nytimes.com/2026/10/04/nyregion/cornell-spotlight-rape-accusation.html"
-        },
-        {
-          "title": "Cornell Case Carries Far-Reaching Implications for Hochul and James",
-          "link": "https://www.nytimes.com/2026/10/04/nyregion/hochul-james-cornell.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T14:30:14.997Z"
+      "updatedAt": "2026-10-04T18:26:22.269Z"
     },
     "ARTNews": {
       "items": [
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T14:30:15.179Z"
+      "updatedAt": "2026-10-04T18:26:22.499Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T14:30:15.336Z"
+      "updatedAt": "2026-10-04T18:26:22.556Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T14:30:15.816Z"
+      "updatedAt": "2026-10-04T18:26:23.237Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T14:30:15.933Z"
+      "updatedAt": "2026-10-04T18:26:23.352Z"
     }
   }
 }
