@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-04T02:29:11.481Z",
+  "fetchedAt": "2026-10-04T09:33:42.833Z",
   "feeds": {
     "MarketWatch": {
       "items": [
@@ -29,37 +29,37 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T02:29:09.505Z"
+      "updatedAt": "2026-10-04T09:33:41.827Z"
     },
     "Fox News": {
       "items": [
         {
+          "title": "How an Uzbek truck driver’s fatal crash exposed troubling fraud trend in Middle America: ‘Chameleon carriers’",
+          "link": "https://www.foxnews.com/politics/uzbek-truck-driver-fatal-crash-exposed-troubling-fraud-trend-middle-america-chameleon-carriers"
+        },
+        {
+          "title": "California K-9 Otis helps police seize 440 pounds of cocaine during Alhambra traffic stop",
+          "link": "https://www.foxnews.com/us/california-k-9-otis-helps-police-seize-440-pounds-cocaine-alhambra-traffic-stop"
+        },
+        {
+          "title": "Brewers take Game 1 of NLDS after a controversial call on sure-fire home run ball that hit the stadium roof",
+          "link": "https://www.foxnews.com/outkick-sports/brewers-take-game-1-nlds-controversial-call-sure-fire-home-run-ball-hit-stadium-roof"
+        },
+        {
+          "title": "Shooting near Baltimore youth football event leaves 12-year-old girl dead, 3 adults wounded",
+          "link": "https://www.foxnews.com/us/shooting-near-baltimore-youth-football-event-leaves-12-year-old-girl-dead-3-adults-wounded"
+        },
+        {
+          "title": "Texas mother facing capital murder charges after allegedly shooting her two sons to death",
+          "link": "https://www.foxnews.com/us/texas-mother-facing-capital-murder-charges-after-allegedly-shooting-her-two-sons-death"
+        },
+        {
           "title": "Yankees lose ALDS Game 1 to Rays as Austin Wells is thrown out at third after breaking up no-hitter",
           "link": "https://www.foxnews.com/outkick-sports/yankees-lose-alds-game-1-rays-austin-wells-thrown-third-breaking-no-hitter"
-        },
-        {
-          "title": "Trump touts ‘golden age’ at Ohio rally, urges voters to deliver GOP midterm wins",
-          "link": "https://www.foxnews.com/politics/trump-touts-golden-age-ohio-rally-urges-voters-deliver-gop-midterm-wins"
-        },
-        {
-          "title": "France’s violent student protests raise warning for America: ‘A cautionary tale’",
-          "link": "https://www.foxnews.com/world/frances-violent-student-protests-raise-warning-for-america-a-cautionary-tale"
-        },
-        {
-          "title": "South Carolina football in free fall as Shane Beamer may be out of time with buyout decision looming",
-          "link": "https://www.foxnews.com/outkick-sports/south-carolina-football-free-fall-shane-beamer-may-out-time-buyout-decision-looming"
-        },
-        {
-          "title": "Phil Collins gets frank on marriage failures and life regrets: 'I regret my marriages falling apart'",
-          "link": "https://www.foxnews.com/entertainment/phil-collins-frank-marriage-failures-life-regrets-regret-marriages-falling-apart"
-        },
-        {
-          "title": "Minnesota quarterback gets kicked in the crotch by teammate en route to upset win over Michigan",
-          "link": "https://www.foxnews.com/outkick-sports/minnesota-quarterback-kicked-crotch-teammate-upset-win-michigan"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T02:29:09.723Z"
+      "updatedAt": "2026-10-04T09:33:41.938Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -89,10 +89,14 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T02:29:10.025Z"
+      "updatedAt": "2026-10-04T09:33:42.039Z"
     },
     "The Hill": {
       "items": [
+        {
+          "title": "Trump backs data centers in Ohio amid tight Senate race",
+          "link": "https://thehill.com/homenews/campaign/6127929-trump-defends-ohio-data-centers/"
+        },
         {
           "title": "Hegseth indicates some US troops could be redeployed from Europe to Western Hemisphere",
           "link": "https://thehill.com/policy/defense/6127801-hegseth-redeploys-troops-western-hemisphere/"
@@ -108,14 +112,10 @@
         {
           "title": "Sunday shows preview: Trump boosts midterm candidates in final stretch; Supreme Court opens new term",
           "link": "https://thehill.com/homenews/sunday-talk-shows/6127755-trump-midterm-campaign-iran-war/"
-        },
-        {
-          "title": "Trump, Cotton tussle over daylight savings after cell phone number leak",
-          "link": "https://thehill.com/homenews/administration/6127691-trump-cotton-fued-daylight-savings-posts/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T02:29:10.655Z"
+      "updatedAt": "2026-10-04T09:33:42.496Z"
     },
     "Ars Technica": {
       "items": [
@@ -141,7 +141,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T02:29:10.771Z"
+      "updatedAt": "2026-10-04T09:33:42.538Z"
     },
     "The Verge": {
       "items": [
@@ -167,11 +167,19 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T02:29:10.965Z"
+      "updatedAt": "2026-10-04T09:33:42.596Z"
     },
     "BBC World": {
       "items": [
         {
+          "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+          "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Australia investigating Flydubai co-pilot's links to country",
+          "link": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
           "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss"
         },
@@ -180,58 +188,50 @@
           "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-          "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
-          "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
           "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
-          "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss"
+          "title": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
+          "link": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Medical plane with 6 on board missing off Massachusetts coast",
+          "title": "Debris found from plane that went missing off US coast",
           "link": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T02:29:11.096Z"
+      "updatedAt": "2026-10-04T09:33:42.704Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-          "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss"
+          "title": "Burnham scraps controversial plans to curb jury trials",
+          "link": "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Tories pledge to scrap £100,000 childcare 'cliff edge'",
-          "link": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss"
+          "title": "Australia investigating Flydubai co-pilot's links to country",
+          "link": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
-          "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss"
+          "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+          "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Cornell president says university 'must do better' after frat house rape allegations",
           "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
-          "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss"
+          "title": "Bellingham unlocks new level and potential to be 'one of the greatest'",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cv5yn8znyx2ro?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Man shot dead as families gather for memorial in London",
-          "link": "https://www.bbc.co.uk/news/articles/c3zxjl2pp49zo?at_medium=RSS&at_campaign=rss"
+          "title": "The Celebrity Traitors connections that might surprise you",
+          "link": "https://www.bbc.co.uk/news/articles/cqkgx895g9vzo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T02:29:11.119Z"
+      "updatedAt": "2026-10-04T09:33:42.713Z"
     },
     "NY Times": {
       "items": [
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T02:29:11.253Z"
+      "updatedAt": "2026-10-04T09:33:42.747Z"
     }
   },
   "indices": {
@@ -280,12 +280,12 @@
       {
         "name": "Gold",
         "price": 4162.3,
-        "pct": -0.14633912292485018
+        "pct": -0.4162978204177247
       },
       {
         "name": "Bitcoin",
-        "price": 84821.65,
-        "pct": 1.5173448021844453
+        "price": 85241.99,
+        "pct": 2.020421560466692
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-04T02:29:11.481Z"
+    "updatedAt": "2026-10-04T09:33:42.833Z"
   }
 }
