@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-10-04T02:12:29.547Z",
+  "fetchedAt": "2026-10-04T08:55:47.207Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "France’s violent student protests raise warning for America: ‘A cautionary tale’",
-          "link": "https://www.foxnews.com/world/frances-violent-student-protests-raise-warning-for-america-a-cautionary-tale"
+          "title": "California K-9 Otis helps police seize 440 pounds of cocaine during Alhambra traffic stop",
+          "link": "https://www.foxnews.com/us/california-k-9-otis-helps-police-seize-440-pounds-cocaine-alhambra-traffic-stop"
         },
         {
-          "title": "South Carolina football in free fall as Shane Beamer may be out of time with buyout decision looming",
-          "link": "https://www.foxnews.com/outkick-sports/south-carolina-football-free-fall-shane-beamer-may-out-time-buyout-decision-looming"
+          "title": "Brewers take Game 1 of NLDS after a controversial call on sure-fire home run ball that hit the stadium roof",
+          "link": "https://www.foxnews.com/outkick-sports/brewers-take-game-1-nlds-controversial-call-sure-fire-home-run-ball-hit-stadium-roof"
         },
         {
-          "title": "Phil Collins gets frank on marriage failures and life regrets: 'I regret my marriages falling apart'",
-          "link": "https://www.foxnews.com/entertainment/phil-collins-frank-marriage-failures-life-regrets-regret-marriages-falling-apart"
+          "title": "Shooting near Baltimore youth football event leaves 12-year-old girl dead, 3 adults wounded",
+          "link": "https://www.foxnews.com/us/shooting-near-baltimore-youth-football-event-leaves-12-year-old-girl-dead-3-adults-wounded"
         },
         {
-          "title": "Minnesota quarterback gets kicked in the crotch by teammate en route to upset win over Michigan",
-          "link": "https://www.foxnews.com/outkick-sports/minnesota-quarterback-kicked-crotch-teammate-upset-win-michigan"
+          "title": "Texas mother facing capital murder charges after allegedly shooting her two sons to death",
+          "link": "https://www.foxnews.com/us/texas-mother-facing-capital-murder-charges-after-allegedly-shooting-her-two-sons-death"
         },
         {
-          "title": "Cornell president says university 'must do better' on handling of sexual assault allegations",
-          "link": "https://www.foxnews.com/us/cornell-president-says-university-must-do-better-handling-sexual-assault-allegations"
+          "title": "Yankees lose ALDS Game 1 to Rays as Austin Wells is thrown out at third after breaking up no-hitter",
+          "link": "https://www.foxnews.com/outkick-sports/yankees-lose-alds-game-1-rays-austin-wells-thrown-third-breaking-no-hitter"
         },
         {
-          "title": "Pete Hegseth handles Air Force-Navy coin toss after showing off basketball skills at Academy",
-          "link": "https://www.foxnews.com/outkick-sports/pete-hegseth-handles-air-force-navy-coin-toss-showing-off-basketball-skills-academy"
+          "title": "Trump touts ‘golden age’ at Ohio rally, urges voters to deliver GOP midterm wins",
+          "link": "https://www.foxnews.com/politics/trump-touts-golden-age-ohio-rally-urges-voters-deliver-gop-midterm-wins"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T02:12:27.749Z"
+      "updatedAt": "2026-10-04T08:55:45.001Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,10 +59,14 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T02:12:27.926Z"
+      "updatedAt": "2026-10-04T08:55:45.080Z"
     },
     "The Hill": {
       "items": [
+        {
+          "title": "Trump backs data centers in Ohio amid tight Senate race",
+          "link": "https://thehill.com/homenews/campaign/6127929-trump-defends-ohio-data-centers/"
+        },
         {
           "title": "Hegseth indicates some US troops could be redeployed from Europe to Western Hemisphere",
           "link": "https://thehill.com/policy/defense/6127801-hegseth-redeploys-troops-western-hemisphere/"
@@ -78,14 +82,10 @@
         {
           "title": "Sunday shows preview: Trump boosts midterm candidates in final stretch; Supreme Court opens new term",
           "link": "https://thehill.com/homenews/sunday-talk-shows/6127755-trump-midterm-campaign-iran-war/"
-        },
-        {
-          "title": "Trump, Cotton tussle over daylight savings after cell phone number leak",
-          "link": "https://thehill.com/homenews/administration/6127691-trump-cotton-fued-daylight-savings-posts/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T02:12:28.229Z"
+      "updatedAt": "2026-10-04T08:55:45.570Z"
     },
     "Ars Technica": {
       "items": [
@@ -111,7 +111,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T02:12:28.386Z"
+      "updatedAt": "2026-10-04T08:55:45.632Z"
     },
     "The Verge": {
       "items": [
@@ -137,10 +137,14 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T02:12:28.486Z"
+      "updatedAt": "2026-10-04T08:55:45.691Z"
     },
     "BBC World": {
       "items": [
+        {
+          "title": "Australia investigating Flydubai co-pilot's links to country",
+          "link": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
           "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss"
@@ -148,10 +152,6 @@
         {
           "title": "Cornell president says university 'must do better' after frat house rape allegations",
           "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-          "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
@@ -162,60 +162,52 @@
           "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
-          "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss"
+          "title": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
+          "link": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Medical plane with 6 on board missing off Massachusetts coast",
+          "title": "Debris found from plane that went missing off US coast",
           "link": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T02:12:28.641Z"
+      "updatedAt": "2026-10-04T08:55:46.023Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-          "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss"
+          "title": "Burnham scraps controversial plans to curb jury trials",
+          "link": "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Tories pledge to scrap £100,000 childcare 'cliff edge'",
-          "link": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
-          "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss"
+          "title": "Australia investigating Flydubai co-pilot's links to country",
+          "link": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Cornell president says university 'must do better' after frat house rape allegations",
           "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
-          "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss"
+          "title": "When parenting advice becomes too much",
+          "link": "https://www.bbc.co.uk/news/articles/cv4g5267jk8yo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Man shot dead as families gather for memorial in London",
-          "link": "https://www.bbc.co.uk/news/articles/c3zxjl2pp49zo?at_medium=RSS&at_campaign=rss"
+          "title": "Bellingham unlocks new level and potential to be 'one of the greatest'",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cv5yn8znyx2ro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "The Celebrity Traitors connections that might surprise you",
+          "link": "https://www.bbc.co.uk/news/articles/cqkgx895g9vzo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T02:12:28.654Z"
+      "updatedAt": "2026-10-04T08:55:46.031Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies",
-          "link": "https://www.nytimes.com/2026/10/03/us/politics/kushner-witkoff-russia-oil-deal.html"
-        },
-        {
-          "title": "With Elon Musk’s Return to Washington, Possible Conflicts of Interest Resurface",
-          "link": "https://www.nytimes.com/2026/10/03/us/politics/elon-musk-pentagon-returns-to-washington.html"
-        },
-        {
-          "title": "Here’s Senator Cotton’s Cell Number, Trump Says, in Dispute Over Daylight Saving Bill",
-          "link": "https://www.nytimes.com/2026/10/03/us/trump-tom-cotton-cellphone-number.html"
+          "title": "How Cornell Punished Each of the 7 Men Accused of Sexual Assault",
+          "link": "https://www.nytimes.com/2026/10/03/nyregion/cornell-men-university-discipline.html"
         },
         {
           "title": "Cornell President Calls Rape Inquiry ‘Defining Moment’ for Campus",
@@ -224,10 +216,18 @@
         {
           "title": "Cornell Case Revives Anger About Handling of Campus Sexual Assault Cases",
           "link": "https://www.nytimes.com/2026/10/03/us/cornell-rape-campus-sexual-assault.html"
+        },
+        {
+          "title": "U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies",
+          "link": "https://www.nytimes.com/2026/10/03/us/politics/kushner-witkoff-russia-oil-deal.html"
+        },
+        {
+          "title": "With Elon Musk’s Return to Washington, Possible Conflicts of Interest Resurface",
+          "link": "https://www.nytimes.com/2026/10/03/us/politics/elon-musk-pentagon-returns-to-washington.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T02:12:28.786Z"
+      "updatedAt": "2026-10-04T08:55:46.087Z"
     },
     "ARTNews": {
       "items": [
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T02:12:28.889Z"
+      "updatedAt": "2026-10-04T08:55:46.191Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T02:12:28.994Z"
+      "updatedAt": "2026-10-04T08:55:46.429Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T02:12:29.410Z"
+      "updatedAt": "2026-10-04T08:55:47.151Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T02:12:29.547Z"
+      "updatedAt": "2026-10-04T08:55:47.207Z"
     }
   }
 }
