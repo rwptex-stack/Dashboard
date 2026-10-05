@@ -1,8 +1,12 @@
 {
-  "fetchedAt": "2026-10-05T01:48:50.864Z",
+  "fetchedAt": "2026-10-05T08:46:41.307Z",
   "feeds": {
     "MarketWatch": {
       "items": [
+        {
+          "title": "This $23 billion software deal was struck at a decade-low valuation, as AI winner takes out loser",
+          "link": "https://www.marketwatch.com/story/this-23-billion-software-deal-was-struck-at-a-decade-low-valuation-as-ai-winner-takes-out-loser-aa18f477?mod=mw_rss_topstories"
+        },
         {
           "title": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?",
           "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories"
@@ -22,77 +26,81 @@
         {
           "title": "Corporate America has never been this upbeat about future profits",
           "link": "https://www.marketwatch.com/story/corporate-america-has-never-been-this-upbeat-about-future-profits-fbaf8cd9?mod=mw_rss_topstories"
-        },
-        {
-          "title": "October can be a scary month for stocks. Here’s what investors need to watch this year.",
-          "link": "https://www.marketwatch.com/story/october-can-be-a-scary-month-for-stocks-heres-what-investors-need-to-watch-this-year-ac1da700?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-05T01:48:49.569Z"
+      "updatedAt": "2026-10-05T08:46:40.058Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Tyreek Hill fuels Chiefs reunion speculation with cryptic post as old team loses two receivers to injury",
-          "link": "https://www.foxnews.com/outkick-sports/tyreek-hill-fuels-chiefs-reunion-speculation-cryptic-post-old-team-loses-two-receivers-injury"
+          "title": "AI is supercharging political ad wars. But viral doesn’t mean victorious",
+          "link": "https://www.foxnews.com/politics/ai-supercharging-political-ad-wars-viral-doesnt-mean-victorious"
         },
         {
-          "title": "California realtor nabbed at LAX in alleged China spy case targeting Taiwan president’s relative",
-          "link": "https://www.foxnews.com/us/california-realtor-nabbed-lax-alleged-china-spy-case-targeting-taiwan-presidents-relative"
+          "title": "The politics of hypocrisy: How scandal is treated with selective outrage",
+          "link": "https://www.foxnews.com/opinion/politics-hypocrisy-how-scandal-treated-selective-outrage"
         },
         {
-          "title": "WWE star Charlotte Flair struts into Panthers' stadium, bangs the drum before game vs Lions",
-          "link": "https://www.foxnews.com/outkick-sports/wwe-star-charlotte-flair-struts-panthers-stadium-bangs-drum-game-vs-lions"
+          "title": "Coast Guard personnel exchange gunfire with shooters across US-Mexico border",
+          "link": "https://www.foxnews.com/world/coast-guard-personnel-exchange-gunfire-shooters-us-mexico-border"
         },
         {
-          "title": "Engelbert Humperdinck says he ‘went through hell’ rejecting 'casting couch' advances early in career",
-          "link": "https://www.foxnews.com/entertainment/engelbert-humperdinck-went-through-hell-rejecting-casting-couch-advances-early-career"
+          "title": "Dramatic footage shows alleged narco boat erupt in fireball during US military strike",
+          "link": "https://www.foxnews.com/world/dramatic-footage-shows-alleged-narco-boat-erupt-fireball-during-us-military-strike"
         },
         {
-          "title": "Klint Kubiak predicted a Raiders win over Kansas City at halftime, then the Chiefs let the scoreboard speak",
-          "link": "https://www.foxnews.com/outkick-sports/klint-kubiak-predicted-raiders-win-over-kansas-city-halftime-chiefs-let-scoreboard-speak"
+          "title": "Tetairoa McMillan career day spoils Jared Goff's huge game as soft Lions defense flops on SNF",
+          "link": "https://www.foxnews.com/outkick-sports/tetairoa-mcmillan-career-day-spoils-jared-goff-huge-game-soft-lions-defense-flops-snf"
         },
         {
-          "title": "Singer Phil Collins blasts Trump as 'nasty,' teases song about America called 'Fat People with Guns'",
-          "link": "https://www.foxnews.com/media/singer-phil-collins-blasts-trump-nasty-teases-song-america-fat-people-guns"
+          "title": "San Diego Padres blow late lead as star closer Mason Miller crumbles in brutal walk-off to Brewers",
+          "link": "https://www.foxnews.com/outkick-sports/san-diego-padres-blow-late-lead-star-closer-mason-miller-crumbles-brutal-walk-off-brewers"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-05T01:48:49.656Z"
+      "updatedAt": "2026-10-05T08:46:40.195Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "The Most Self-Aware Question Trump Has Ever Asked",
-          "link": "https://www.realclearpolitics.com/2026/10/02/the_most_self-aware_question_trump_has_ever_asked_712931.html"
+          "title": "Flavio Bolsonaro's Surprising Surge",
+          "link": "https://www.realclearpolitics.com/2026/10/04/flavio_bolsonaros_surprising_surge_713115.html"
         },
         {
-          "title": "6 in 10 Oppose Democrat Plan To Pack SCOTUS",
-          "link": "https://www.realclearpolitics.com/2026/10/04/6_in_10_oppose_democrat_plan_to_pack_scotus_713048.html"
+          "title": "Why I Must Return to Venezuela",
+          "link": "https://www.realclearpolitics.com/2026/10/04/why_i_must_return_to_venezuela_713114.html"
         },
         {
-          "title": "Mamdani's 2K Is a Mathematical Mess",
-          "link": "https://www.realclearpolitics.com/2026/10/04/mamdanis_2k_is_a_mathematical_mess_713030.html"
+          "title": "COVID Was a Stress Test For Constitutional Rights",
+          "link": "https://www.realclearpolitics.com/video/2026/10/04/justice_alito_covid_was_a_stress_test_of_our_commitment_to_constitutional_rights--a_lot_of_people_failed.html"
         },
         {
-          "title": "Letitia James Is a Bad Choice for Cornell Case",
-          "link": "https://www.realclearpolitics.com/2026/10/04/letitia_james_is_a_bad_choice_for_cornell_case_713042.html"
+          "title": "Independent 'Democrats' or Democratic 'Independents'?",
+          "link": "https://www.realclearpolitics.com/articles/2026/10/05/independent_democrats_or_democratic_independents_154556.html"
         },
         {
-          "title": "Trump Demands Sen. Cotton Release the Sun",
-          "link": "https://www.realclearpolitics.com/2026/10/04/trump_demands_sen_cotton_release_the_sun_713082.html"
+          "title": "Change Is Gonna Come...Soon",
+          "link": "https://www.realclearworld.com/articles/2026/10/05/change_is_gonna_come__soon_1209775.html"
         },
         {
-          "title": "All Senate Dems Vote To Keep Trading Stocks",
-          "link": "https://www.realclearpolitics.com/2026/10/04/all_senate_dems_vote_to_keep_trading_stocks_713038.html"
+          "title": "How Woke Traumatized the West",
+          "link": "https://www.realclearpolitics.com/2026/10/03/how_woke_traumatized_the_west_713002.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-05T01:48:49.894Z"
+      "updatedAt": "2026-10-05T08:46:40.374Z"
     },
     "The Hill": {
       "items": [
+        {
+          "title": "Sanders backs Pope Leo’s call to protect human art from AI",
+          "link": "https://thehill.com/homenews/senate/6128821-sanders-backs-pope-ai-art/"
+        },
+        {
+          "title": "Mark Ruffalo says he’ll ‘Hulk out’ over voting rights",
+          "link": "https://thehill.com/blogs/in-the-know/6128799-mark-ruffalo-hulk-out-trump/"
+        },
         {
           "title": "Andrew Mountbatten-Windsor sues police over Epstein-related arrest",
           "link": "https://thehill.com/policy/international/6128756-andrew-mountbatten-windsor-sues-tvp/"
@@ -104,21 +112,17 @@
         {
           "title": "Pentagon pulls B-1 bombers from UK base following alleged terror threat",
           "link": "https://thehill.com/policy/international/6128663-us-bombers-withdraw-uk-base/"
-        },
-        {
-          "title": "Large oil exporters agree to continue consistent production in November",
-          "link": "https://thehill.com/policy/energy-environment/6128591-opec-maintains-oil-production-levels/"
-        },
-        {
-          "title": "Russia threatens more strikes after Zelensky vows to hit oil refineries",
-          "link": "https://thehill.com/policy/international/6128552-russia-threatens-ukraine-military-strikes/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-05T01:48:50.127Z"
+      "updatedAt": "2026-10-05T08:46:40.753Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "New forensic evidence supports Egyptian \"retainer sacrifice\"",
+          "link": "https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/"
+        },
         {
           "title": "Lions and cheetahs and chimps, oh my: a spotlight on Africa's diverse wildlife",
           "link": "https://arstechnica.com/science/2026/10/lions-and-cheetahs-and-chimps-oh-my-a-spotlight-on-africas-diverse-wildlife/"
@@ -134,14 +138,10 @@
         {
           "title": "The dawn of the age of the exoskeleton",
           "link": "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/"
-        },
-        {
-          "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
-          "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-05T01:48:50.340Z"
+      "updatedAt": "2026-10-05T08:46:40.878Z"
     },
     "The Verge": {
       "items": [
@@ -167,41 +167,41 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-05T01:48:50.442Z"
+      "updatedAt": "2026-10-05T08:46:40.987Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-          "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Watch: What we know about Russian strikes on Kyiv bridges",
-          "link": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Yemen's government announces all-out war to reclaim land from Houthis",
-          "link": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
+          "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
           "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
-          "link": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss"
+          "title": "Watch: How Brazil's dramatic election unfolded",
+          "link": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
-          "link": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss"
+          "title": "US air force removes all bombers from British military base RAF Fairford",
+          "link": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Indian police accused of sexually harassing journalists at protest",
-          "link": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss"
+          "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+          "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "France closes up to 500 schools Monday over student protests",
+          "link": "https://www.bbc.co.uk/news/articles/cwkg5n7lm3y5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "All six passengers presumed dead after plane went missing off US coast",
+          "link": "https://www.bbc.co.uk/news/articles/cmze4g8r6nr9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Supporters of jailed ex-PM Imran Khan march to Pakistan capital",
+          "link": "https://www.bbc.co.uk/news/articles/cmkg79z04w4zo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-05T01:48:50.569Z"
+      "updatedAt": "2026-10-05T08:46:41.085Z"
     },
     "BBC News": {
       "items": [
@@ -210,28 +210,28 @@
           "link": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
-          "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss"
+          "title": "Andrew takes legal action over search warrants relating to arrest",
+          "link": "https://www.bbc.co.uk/news/articles/c689zl5eljdzo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Polanski banned from Israel after party's motion declaring 'Zionism is racism'",
           "link": "https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "I'm a classic old school Conservative, says Kemi Badenoch",
-          "link": "https://www.bbc.co.uk/news/articles/cx7vp6d5pgn1o?at_medium=RSS&at_campaign=rss"
+          "title": "Protesters scuffle with police as migrants brought ashore on south coast",
+          "link": "https://www.bbc.co.uk/news/articles/cmrly809n8p6o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Yemen's government announces all-out war to reclaim land from Houthis",
-          "link": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss"
+          "title": "BT agrees rescue deal to buy broadband operator TalkTalk",
+          "link": "https://www.bbc.co.uk/news/articles/cvze4g06526ro?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
-          "link": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss"
+          "title": "Potty training scheme to roll out to 20 more areas",
+          "link": "https://www.bbc.co.uk/news/articles/ck4glnl2v9p5o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-05T01:48:50.606Z"
+      "updatedAt": "2026-10-05T08:46:41.104Z"
     },
     "NY Times": {
       "items": [
@@ -244,12 +244,12 @@
           "link": "https://www.nytimes.com/2026/10/03/world/europe/raf-fairford-air-base-incident-iran.html"
         },
         {
-          "title": "Houthis Claim Attack on Aramco as Yemen Conflict Escalates",
-          "link": "https://www.nytimes.com/2026/10/04/world/middleeast/houthis-oil-attack-saudi-arabia-yemen.html"
-        },
-        {
           "title": "Iran’s Top Security Official Warns of Dire Economic Crisis",
           "link": "https://www.nytimes.com/2026/10/04/world/middleeast/iran-economy-rial.html"
+        },
+        {
+          "title": "U.S. Sanctions Aim to ‘Shut Down’ Iran’s Airlines, but This Boeing Plane Is Still Flying",
+          "link": "https://www.nytimes.com/2026/10/05/world/asia/boeing-777-plane-iran-us-sanctions-flights.html"
         },
         {
           "title": "Democrats Lead Governor Races Deep in Republican Territory, Polls Show",
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-05T01:48:50.714Z"
+      "updatedAt": "2026-10-05T08:46:41.206Z"
     }
   },
   "indices": {
@@ -279,13 +279,13 @@
       },
       {
         "name": "Gold",
-        "price": 4181.8,
-        "pct": 0.05024284039525238
+        "price": 4191.3,
+        "pct": 0.10987173669000319
       },
       {
         "name": "Bitcoin",
-        "price": 86739.13,
-        "pct": 2.22270017241562
+        "price": 86107.57,
+        "pct": 1.4784020854865658
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-05T01:48:50.864Z"
+    "updatedAt": "2026-10-05T08:46:41.307Z"
   }
 }
