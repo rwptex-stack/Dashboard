@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-10-06T02:40:36.068Z",
+  "fetchedAt": "2026-10-06T09:32:45.682Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Nobu chef killed after teen driver crashes into parked car in California",
-          "link": "https://www.foxnews.com/us/nobu-chef-killed-teen-driver-crashes-parked-car-california"
+          "title": "Democrats think a blue wave is building. Here are 3 forces that could stop it",
+          "link": "https://www.foxnews.com/politics/democrats-think-blue-wave-building-3-forces-could-stop-it"
         },
         {
-          "title": "White Sox ride another dramatic comeback win to beat Guardians and take commanding 2-0 ALDS lead",
-          "link": "https://www.foxnews.com/outkick-sports/white-sox-ride-dramatic-comeback-win-beat-guardians-take-commanding-2-0-alds-lead"
+          "title": "HUGH HEWITT: Legacy media left half of America out. Fox News let them in",
+          "link": "https://www.foxnews.com/opinion/hugh-hewitt-legacy-media-left-half-america-fox-news-let-them"
         },
         {
-          "title": "Dennis Hastert, longest-serving Republican House Speaker and convicted child molester, dies at 84",
-          "link": "https://www.foxnews.com/politics/dennis-hastert-longest-serving-republican-house-speaker-convicted-child-molester-dies-84"
+          "title": "LIZ PEEK: A blue wave? The liberal media wants one, but voters might disagree",
+          "link": "https://www.foxnews.com/opinion/liz-peek-blue-wave-liberal-media-wants-voters-might-disagree"
         },
         {
-          "title": "Is the Dodgers dynasty already in jeopardy after brutal game two NLDS loss to Atlanta Braves?",
-          "link": "https://www.foxnews.com/outkick-sports/dodgers-dynasty-jeopardy-brutal-game-two-nlds-loss-atlanta-braves"
+          "title": "ELI STEELE: The terror of being called racist is crushing free speech in America",
+          "link": "https://www.foxnews.com/opinion/eli-steele-terror-called-racist-crushing-free-speech-america"
         },
         {
-          "title": "Russian bio-leak secrecy follows Chernobyl playbook, ex-CIA officer warns",
-          "link": "https://www.foxnews.com/world/russian-bio-leak-secrecy-follows-chernobyl-playbook-ex-cia-officer-warns"
+          "title": "NYPD detective released from hospital after being stabbed multiple times in Bronx",
+          "link": "https://www.foxnews.com/us/nypd-detective-released-hospital-stabbed-multiple-times-bronx"
         },
         {
-          "title": "Trump clears way for Fort Hood terrorist to face Army firing squad nearly 17 years after massacre",
-          "link": "https://www.foxnews.com/politics/trump-clears-way-fort-hood-terrorist-face-army-firing-squad-nearly-17-years-after-massacre"
+          "title": "Massachusetts felon pleads guilty after DOJ says he sold Russian plutonium to 67 customers",
+          "link": "https://www.foxnews.com/us/massachusetts-felon-pleads-guilty-after-doj-says-he-sold-russian-plutonium-67-customers"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T02:40:34.714Z"
+      "updatedAt": "2026-10-06T09:32:42.604Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,10 +59,18 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T02:40:34.878Z"
+      "updatedAt": "2026-10-06T09:32:42.774Z"
     },
     "The Hill": {
       "items": [
+        {
+          "title": "Poll: Democrats hold major advantage on health care costs",
+          "link": "https://thehill.com/policy/healthcare/6130630-voters-trust-democrats-health-costs/"
+        },
+        {
+          "title": "Tillis says Trump impeachment over Jan 6 was 'weighty,' a 'vote of no confidence'",
+          "link": "https://thehill.com/homenews/senate/6130895-tillis-trump-impeachment-snap-trial/"
+        },
         {
           "title": "Trump says he will pay for 'Patriotic Ads' himself after facing backlash from Democrats",
           "link": "https://thehill.com/homenews/administration/6130848-trump-to-pay-patriotic-ads-backlash/"
@@ -74,18 +82,10 @@
         {
           "title": "Trump announces steps to lower high cost of diesel",
           "link": "https://thehill.com/policy/energy-environment/6130448-trump-order-high-diesel-prices/"
-        },
-        {
-          "title": "Tillis calls Hegseth vote his 'biggest regret'",
-          "link": "https://thehill.com/homenews/senate/6130753-tillis-regrets-hegseth-vote/"
-        },
-        {
-          "title": "Appeals court to hear lawsuit against RFK Jr. vaccine moves",
-          "link": "https://thehill.com/newsletters/healthcare/6130746-appeals-court-lawsuit-rfk-jr-vaccine-moves/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T02:40:35.088Z"
+      "updatedAt": "2026-10-06T09:32:43.272Z"
     },
     "Ars Technica": {
       "items": [
@@ -111,10 +111,14 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T02:40:35.269Z"
+      "updatedAt": "2026-10-06T09:32:43.390Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "This remote-controlled wagon is silly but so very useful",
+          "link": "https://www.theverge.com/tech/1004820/this-remote-controlled-wagon-is-silly-but-useful"
+        },
         {
           "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors"
@@ -130,14 +134,10 @@
         {
           "title": "This startup is issuing AI-generated acne prescriptions",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions"
-        },
-        {
-          "title": "All the drama around AI&#8217;s takeover of mathematics",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T02:40:35.395Z"
+      "updatedAt": "2026-10-06T09:32:43.574Z"
     },
     "BBC World": {
       "items": [
@@ -146,32 +146,32 @@
           "link": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "France braces for national day of school protests after injuries and mass arrests",
-          "link": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss"
+          "title": "Saudi Arabia urged to spare man sentenced to death over Facebook post",
+          "link": "https://www.bbc.co.uk/news/articles/cq14d438vx24o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
-          "link": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&at_campaign=rss"
+          "title": "Yemeni military says it has 'secured' Red Sea waterway",
+          "link": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea",
-          "link": "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o?at_medium=RSS&at_campaign=rss"
+          "title": "Kenya confirms its first Ebola death as outbreak spreads",
+          "link": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Spain PM pins hopes on housing crisis to help win snap election",
-          "link": "https://www.bbc.co.uk/news/articles/ck5yn81qqde0o?at_medium=RSS&at_campaign=rss"
+          "title": "Nigeria mourns 32 killed as military plane crashes into swamp",
+          "link": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "US 'watching closely' after plague researcher dies in Russia",
-          "link": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o?at_medium=RSS&at_campaign=rss"
+          "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
+          "link": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
-          "link": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss"
+          "title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
+          "link": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T02:40:35.425Z"
+      "updatedAt": "2026-10-06T09:32:43.882Z"
     },
     "BBC News": {
       "items": [
@@ -180,54 +180,54 @@
           "link": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "What prompted the US bombers to leave RAF Fairford?",
-          "link": "https://www.bbc.co.uk/news/articles/ck87z09xe82qo?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "Author and former politician Jeffrey Archer dies aged 86",
           "link": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Tories pledge £10bn 'Britannia Shield' air defence system",
-          "link": "https://www.bbc.co.uk/news/articles/cxvgdl5npl86o?at_medium=RSS&at_campaign=rss"
+          "title": "Rise in babies in care proceedings raises fears of unnecessary adoptions, experts tell BBC",
+          "link": "https://www.bbc.co.uk/news/articles/c52e9k3998e7o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "France braces for national day of school protests after injuries and mass arrests",
-          "link": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss"
+          "title": "MPs call for investigation after Lutnick-Epstein whistleblower dies",
+          "link": "https://www.bbc.co.uk/news/articles/cwm2686gl6kno?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Temperatures set to fall as rain and cloud sweep across UK",
-          "link": "https://www.bbc.co.uk/weather/articles/cr20w62w7q3jo?at_medium=RSS&at_campaign=rss"
+          "title": "Europe is pouring billions into space. Can Glasgow's satellite industry keep up?",
+          "link": "https://www.bbc.co.uk/news/articles/cm2kedyp348lo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Man charged over Gosport migrant protest",
+          "link": "https://www.bbc.co.uk/news/articles/cglg04dd4nko?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T02:40:35.437Z"
+      "updatedAt": "2026-10-06T09:32:43.920Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "Potential Iranian Drone Attack Led to Exit of U.S. Aircraft from British Air Base",
+          "title": "Potential Iranian Drone Attack Led to Exit of U.S. Aircraft From British Air Base",
           "link": "https://www.nytimes.com/2026/10/05/us/politics/iran-drone-attack-threat.html"
+        },
+        {
+          "title": "Strikes, Barricades and Fiscal Turmoil: An Autumn of Discontent Grips France",
+          "link": "https://www.nytimes.com/2026/10/06/world/europe/france-crisis-autumn-discontent.html"
+        },
+        {
+          "title": "France Set for Nationwide Strikes, as School Protests Escalate",
+          "link": "https://www.nytimes.com/2026/10/06/world/europe/france-student-strikes-protests.html"
+        },
+        {
+          "title": "Jim Bakker, Television Preacher Felled by Sex and Financial Scandals, Dies at 86",
+          "link": "https://www.nytimes.com/2026/10/05/us/jim-bakker-dead.html"
         },
         {
           "title": "The Campaign for Ohio’s Next Governor May Be the Ugliest in the Country",
           "link": "https://www.nytimes.com/2026/10/05/us/elections/ohio-governor-election.html"
-        },
-        {
-          "title": "Facing Backlash, Trump Says His Super PAC Will Pay for Taxpayer-Funded Ads",
-          "link": "https://www.nytimes.com/2026/10/05/us/politics/trump-taxpayer-funded-ads-pac.html"
-        },
-        {
-          "title": "White House Blocked Politico From Air Force One for Trump’s Trip to Nebraska",
-          "link": "https://www.nytimes.com/2026/10/05/us/politico-blocked-trump-nebraska.html"
-        },
-        {
-          "title": "Supreme Court Begins Term With Major Climate Case",
-          "link": "https://www.nytimes.com/2026/10/05/briefing/supreme-court-climate-middle-east-oil.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T02:40:35.467Z"
+      "updatedAt": "2026-10-06T09:32:44.142Z"
     },
     "ARTNews": {
       "items": [
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T02:40:35.580Z"
+      "updatedAt": "2026-10-06T09:32:44.270Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T02:40:35.642Z"
+      "updatedAt": "2026-10-06T09:32:44.570Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T02:40:36.030Z"
+      "updatedAt": "2026-10-06T09:32:45.544Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T02:40:36.068Z"
+      "updatedAt": "2026-10-06T09:32:45.682Z"
     }
   }
 }
