@@ -1,124 +1,136 @@
 {
-  "fetchedAt": "2026-10-06T07:24:59.077Z",
+  "fetchedAt": "2026-10-06T14:58:00.738Z",
   "feeds": {
     "MarketWatch": {
       "items": [
         {
-          "title": "‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected wealthy couples due to overspending. We’re all heading for trouble.",
+          "title": "As a mortgage loan officer, I rejected wealthy couples. Here’s what can get your application declined.",
           "link": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories"
         },
         {
-          "title": "‘The pain was excruciating’: A friend in her 80s fell down her basement stairs. Could it have been avoided?",
-          "link": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories"
+          "title": "Worse than taking away your parents’ car keys? Taking away their cell phone. How to protect your aging parents.",
+          "link": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories"
         },
         {
-          "title": "The case for Nvidia’s stock to march even higher after clinching its first record high in months",
-          "link": "https://www.marketwatch.com/story/the-case-for-nvidias-stock-to-march-even-higher-after-clinching-its-first-record-high-in-months-2bb5a937?mod=mw_rss_topstories"
+          "title": "Should I put my nest egg in a 30-year Treasury bond?",
+          "link": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories"
         },
         {
-          "title": "This new AI model could help America close a technological gap with China",
-          "link": "https://www.marketwatch.com/story/this-new-ai-model-could-help-america-close-a-technological-gap-with-china-c1d74492?mod=mw_rss_topstories"
+          "title": "My brother-in-law convinced his parents to sign over their home and savings to buy a $3 million compound. Do I intervene?",
+          "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories"
         },
         {
-          "title": "Microsoft’s blazing stock comeback isn’t even close to being over, analyst says",
-          "link": "https://www.marketwatch.com/story/microsofts-blazing-stock-comeback-isnt-even-close-to-being-over-analyst-says-265f7b6d?mod=mw_rss_topstories"
+          "title": "Prediction markets are coming for pop culture",
+          "link": "https://www.marketwatch.com/story/prediction-markets-are-coming-for-pop-culture-f54e883e?mod=mw_rss_topstories"
         },
         {
-          "title": "Western Digital and Seagate shares bounce back as analysts downplay the Toshiba threat",
-          "link": "https://www.marketwatch.com/story/western-digital-and-seagate-shares-bounce-back-as-analysts-downplay-the-toshiba-threat-4979dbff?mod=mw_rss_topstories"
+          "title": "Wall Street is hyping AI. This fund manager is betting instead on fires, HVAC and Berkshire Hathaway.",
+          "link": "https://www.marketwatch.com/story/wall-street-is-hyping-ai-this-fund-manager-is-betting-instead-on-fires-hvac-and-berkshire-hathaway-1b70fbea?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T07:24:57.639Z"
+      "updatedAt": "2026-10-06T14:57:59.652Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "NYPD detective released from hospital after being stabbed multiple times in Bronx",
-          "link": "https://www.foxnews.com/us/nypd-detective-released-hospital-stabbed-multiple-times-bronx"
+          "title": "DNA testing confirms body of flight attendant who was killed and thrown from bridge",
+          "link": "https://www.foxnews.com/us/dna-testing-confirms-body-flight-attendant-killed-thrown-bridge"
         },
         {
-          "title": "Massachusetts felon pleads guilty after DOJ says he sold Russian plutonium to 67 customers",
-          "link": "https://www.foxnews.com/us/massachusetts-felon-pleads-guilty-after-doj-says-he-sold-russian-plutonium-67-customers"
+          "title": "How to search anything on iPhone, Galaxy and Pixel",
+          "link": "https://www.foxnews.com/tech/how-search-anything-iphone-galaxy-pixel"
         },
         {
-          "title": "Falcons turn primetime doubters into believers behind Bijan Robinson's back-to-back masterpieces",
-          "link": "https://www.foxnews.com/outkick-sports/falcons-turn-primetime-doubters-believers-bijan-robinson-back-to-back-masterpieces"
+          "title": "White executive fired after wearing cornrows, triggering legal fight over Maryland's CROWN Act",
+          "link": "https://www.foxnews.com/media/white-executive-fired-wearing-cornrows-triggering-legal-fight-maryland-crown-act"
         },
         {
-          "title": "Rays capitalize on four Yankees errors to take commanding 2-0 ALDS lead",
-          "link": "https://www.foxnews.com/outkick-sports/rays-capitalize-four-yankees-errors-take-commanding-2-0-alds-lead"
+          "title": "Lethal injection survivor Christa Pike's former satanist boyfriend could be released in 5 years",
+          "link": "https://www.foxnews.com/us/lethal-injection-survivor-christa-pike-former-satanist-boyfriend-could-be-released-5-years"
         },
         {
-          "title": "Nobu chef killed after teen driver crashes into parked car in California",
-          "link": "https://www.foxnews.com/us/nobu-chef-killed-teen-driver-crashes-parked-car-california"
+          "title": "Travel nightmare unfolds as major airline scraps flight after harrowing 12-hour delay",
+          "link": "https://www.foxnews.com/travel/travel-nightmare-unfolds-major-airline-scraps-flight-harrowing-12-hour-delay"
         },
         {
-          "title": "White Sox ride another dramatic comeback win to beat Guardians and take commanding 2-0 ALDS lead",
-          "link": "https://www.foxnews.com/outkick-sports/white-sox-ride-dramatic-comeback-win-beat-guardians-take-commanding-2-0-alds-lead"
+          "title": "This $200 cordless Shark vacuum is now 50% off on Amazon for October Prime Day",
+          "link": "https://www.foxnews.com/deals/shark-vacuum-amazon-deal"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T07:24:57.783Z"
+      "updatedAt": "2026-10-06T14:57:59.771Z"
     },
     "Real Clear Politics": {
       "items": [
         {
           "title": "A Misguided Lawsuit vs. Vital Immigration Officials",
-          "link": "https://www.realclearpolitics.com/2026/10/05/a_misguided_lawsuit_vs_vital_immigration_officials_713220.html"
+          "link": "https://www.realclearpolitics.com/2026/10/06/a_misguided_lawsuit_vs_vital_immigration_officials_713220.html"
         },
         {
-          "title": "Trump Has a Reality Problem, Not a Public Relations Problem",
-          "link": "https://www.realclearpolitics.com/2026/10/05/trump_has_a_reality_problem_not_a_public_relations_problem_713218.html"
+          "title": "Trump May Be in Trouble. Trump-Style Global Populism Isn't",
+          "link": "https://www.realclearpolitics.com/2026/10/06/trump_may_be_in_trouble_trump-style_global_populism_isnt_713253.html"
+        },
+        {
+          "title": "Brazil Was a Full on 'Truman Show' Propped Up by USAID",
+          "link": "https://www.realclearpolitics.com/video/2026/10/05/mike_benz_how_usaid_set_up_a_censorship_state_in_brazil.html"
+        },
+        {
+          "title": "If Democrats Win, Would They Be Able To Govern?",
+          "link": "https://www.realclearpolitics.com/2026/10/06/if_democrats_win_would_they_be_able_to_govern_713219.html"
         },
         {
           "title": "Correctly Understanding the 'Stupidity' of the Left",
           "link": "https://www.realclearpolitics.com/articles/2026/10/06/correctly_understanding_the_stupidity_of_the_left_154566.html"
         },
         {
-          "title": "Jeffries Would Do Outstanding Job as House Speaker",
-          "link": "https://www.realclearpolitics.com/2026/10/05/jeffries_would_do_outstanding_job_as_house_speaker_713214.html"
-        },
-        {
-          "title": "Letitia James and the New York Ethics Code",
-          "link": "https://www.realclearpolitics.com/2026/10/05/letitia_james_and_the_new_york_ethics_code_713224.html"
-        },
-        {
-          "title": "France, Spain Must Prove They Can Give Protesters Hope",
-          "link": "https://www.realclearpolitics.com/2026/10/05/france_spain_must_prove_they_can_give_protesters_hope_713226.html"
+          "title": "Sen. Schmitt's Assault on Jack Smith Is Not a Joke",
+          "link": "https://www.realclearpolitics.com/2026/10/06/sen_schmitts_assault_on_jack_smith_is_not_a_joke_713228.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T07:24:57.952Z"
+      "updatedAt": "2026-10-06T14:57:59.981Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Tillis says Trump impeachment over Jan 6 was 'weighty,' a 'vote of no confidence'",
-          "link": "https://thehill.com/homenews/senate/6130895-tillis-trump-impeachment-snap-trial/"
+          "title": "Canada has a plan to rebuild its army — Washington should hope it works",
+          "link": "https://thehill.com/opinion/international/6124449-canadian-army-inflection-point/"
         },
         {
-          "title": "Trump says he will pay for 'Patriotic Ads' himself after facing backlash from Democrats",
-          "link": "https://thehill.com/homenews/administration/6130848-trump-to-pay-patriotic-ads-backlash/"
+          "title": "Trump creates California controversy; Vance, Cruz get personal: Live discussion",
+          "link": "https://thehill.com/homenews/campaign/fight-for-2028/6131335-trump-creates-california-controversy-vance-cruz-get-personal-live-discussion/"
         },
         {
-          "title": "Trump approves death by firing squad for convicted terrorist",
-          "link": "https://thehill.com/homenews/administration/6130802-nidal-hasan-death-firing-squad/"
+          "title": "86 percent think taxpayer-funded, campaign-style Trump ads inappropriate: Survey",
+          "link": "https://thehill.com/homenews/administration/6131379-donald-trump-taxpayer-tv-ads-disapproval-survey/"
         },
         {
-          "title": "Trump announces steps to lower high cost of diesel",
-          "link": "https://thehill.com/policy/energy-environment/6130448-trump-order-high-diesel-prices/"
+          "title": "DOJ files record number of cases to strip Americans of citizenship",
+          "link": "https://thehill.com/homenews/administration/6131387-doj-strips-citizenship-record/"
         },
         {
-          "title": "Tillis calls Hegseth vote his 'biggest regret'",
-          "link": "https://thehill.com/homenews/senate/6130753-tillis-regrets-hegseth-vote/"
+          "title": "Tillis: 'Almost statistically impossible' for Republicans to win House in midterms",
+          "link": "https://thehill.com/homenews/senate/6131351-thom-tillis-republicans-house-midterm-elections/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T07:24:58.368Z"
+      "updatedAt": "2026-10-06T14:58:00.157Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "Big Oil asks Supreme Court to kill climate lawsuits before trial",
+          "link": "https://arstechnica.com/tech-policy/2026/10/big-oil-asks-supreme-court-to-kill-climate-lawsuits-before-trial/"
+        },
+        {
+          "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+          "link": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/"
+        },
+        {
+          "title": "Licensing costs driving 90 percent of VMware users to explore options: Survey",
+          "link": "https://arstechnica.com/information-technology/2026/10/operational-complexity-a-top-barrier-for-vmware-migrations-survey/"
+        },
         {
           "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
           "link": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/"
@@ -126,174 +138,162 @@
         {
           "title": "Cable lobby to sue Trump FCC over repeal of national TV ownership cap",
           "link": "https://arstechnica.com/tech-policy/2026/10/cable-lobby-to-sue-trump-fcc-over-repeal-of-national-tv-ownership-cap/"
-        },
-        {
-          "title": "Texas city demands $2M for public records on Flock usage",
-          "link": "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/"
-        },
-        {
-          "title": "Command-line tool quickly removes Apple Intelligence from macOS 27",
-          "link": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/"
-        },
-        {
-          "title": "Controlling the brain with light earns a physiology Nobel",
-          "link": "https://arstechnica.com/science/2026/10/controlling-the-brain-with-light-earns-a-physiology-nobel/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T07:24:58.567Z"
+      "updatedAt": "2026-10-06T14:58:00.290Z"
     },
     "The Verge": {
       "items": [
         {
-          "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors"
+          "title": "The Pixel Watch 5 is a better value at $65 off",
+          "link": "https://www.theverge.com/gadgets/1003583/pixel-watch-5-prime-day-deal-sale"
         },
         {
-          "title": "Reverse-engineered games: All the news on video game decomps, recomps, VR and web and 3D ports",
-          "link": "https://www.theverge.com/games/1004869/reverse-engineered-games-all-the-news-on-video-game-decomps-recomps-vr-and-web-and-3d-ports"
+          "title": "Paramount and Warner Bros. Discovery complete $110 billion media megamerger",
+          "link": "https://www.theverge.com/entertainment/1005480/paramount-warner-bros-discovey-merger-closed"
         },
         {
-          "title": "The Matic is the first robovac to get an FCC ban waiver, not that it needs it",
-          "link": "https://www.theverge.com/policy/1004926/matic-fcc-ban-waiver-conditional-approval"
+          "title": "The best October Prime Day tech deals we found",
+          "link": "https://www.theverge.com/gadgets/996983/best-october-prime-day-deal-sale-tech"
         },
         {
-          "title": "This startup is issuing AI-generated acne prescriptions",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions"
+          "title": "Amazon reportedly pays $120 million to stream the Emmys for free",
+          "link": "https://www.theverge.com/entertainment/1005436/amazon-prime-video-emmys-deal"
         },
         {
-          "title": "All the drama around AI&#8217;s takeover of mathematics",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution"
+          "title": "Google is about to remove free access to Gemini Flash and Pro",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T07:24:58.663Z"
+      "updatedAt": "2026-10-06T14:58:00.421Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
-          "link": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss"
+          "title": "Former German spy chief arrested for espionage and treason",
+          "link": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "France braces for national day of school protests after injuries and mass arrests",
-          "link": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss"
+          "title": "Ship sinks and crew missing after Black Sea drone attack",
+          "link": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Saudi Arabia urged to spare man sentenced to death over Facebook post",
-          "link": "https://www.bbc.co.uk/news/articles/cq14d438vx24o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
-          "link": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Europe is pouring billions into space. Can Glasgow's satellite industry keep up?",
-          "link": "https://www.bbc.co.uk/news/articles/cm2kedyp348lo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Yemeni military says it has 'secured' Red Sea waterway",
-          "link": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss"
+          "title": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
+          "link": "https://www.bbc.co.uk/news/articles/c9p8gxygvpg6o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
           "link": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "'Ghost particles' from space telescope wins physics Nobel",
+          "link": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Kenya confirms its first Ebola death as outbreak spreads",
+          "link": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Saudi Arabia urged to spare man sentenced to death over Facebook post",
+          "link": "https://www.bbc.co.uk/news/articles/cq14d438vx24o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T07:24:58.818Z"
+      "updatedAt": "2026-10-06T14:58:00.550Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
-          "link": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss"
+          "title": "Watch: At the scene of student protests on the streets of Lille",
+          "link": "https://www.bbc.co.uk/news/videos/c6reyz98gz2no?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "France braces for national day of school protests after injuries and mass arrests",
-          "link": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss"
+          "title": "British national arrested in connection with RAF Fairford incident",
+          "link": "https://www.bbc.co.uk/news/articles/cqlye0xd72wdo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Author and former politician Jeffrey Archer dies aged 86",
-          "link": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss"
+          "title": "Watch: How Russia responded to US after plague researcher death",
+          "link": "https://www.bbc.co.uk/news/videos/c8e36y796enno?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Rise in babies in care proceedings raises fears of unnecessary adoptions, experts tell BBC",
-          "link": "https://www.bbc.co.uk/news/articles/c52e9k3998e7o?at_medium=RSS&at_campaign=rss"
+          "title": "PCs who used Taser and baton on amputee, 92, sacked",
+          "link": "https://www.bbc.co.uk/news/articles/cwe8ry2dn6z7o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "MPs call for investigation after Lutnick-Epstein whistleblower dies",
-          "link": "https://www.bbc.co.uk/news/articles/cwm2686gl6kno?at_medium=RSS&at_campaign=rss"
+          "title": "Former German spy chief arrested for espionage and treason",
+          "link": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Europe is pouring billions into space. Can Glasgow's satellite industry keep up?",
-          "link": "https://www.bbc.co.uk/news/articles/cm2kedyp348lo?at_medium=RSS&at_campaign=rss"
+          "title": "Childminder who left 27 children alone in her home pleads guilty to neglect",
+          "link": "https://www.bbc.co.uk/news/articles/cr9dzljq56ejo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T07:24:58.831Z"
+      "updatedAt": "2026-10-06T14:58:00.558Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "Potential Iranian Drone Attack Led to Exit of U.S. Aircraft From British Air Base",
-          "link": "https://www.nytimes.com/2026/10/05/us/politics/iran-drone-attack-threat.html"
+          "title": "Live Updates: Protests Spread Across France as Unions Join Student Demonstrations",
+          "link": "https://www.nytimes.com/live/2026/10/06/world/france-protests-students-schools"
         },
         {
           "title": "Strikes, Barricades and Fiscal Turmoil: An Autumn of Discontent Grips France",
           "link": "https://www.nytimes.com/2026/10/06/world/europe/france-crisis-autumn-discontent.html"
         },
         {
-          "title": "France Set for Nationwide Strikes, as School Protests Escalate",
-          "link": "https://www.nytimes.com/2026/10/06/world/europe/france-student-strikes-protests.html"
+          "title": "Huge Protests Put France on Edge, and How Meta Exploited a Tax Credit to Save Billions",
+          "link": "https://www.nytimes.com/2026/10/06/podcasts/the-headlines/protests-france-meta-tax.html"
         },
         {
-          "title": "Jim Bakker, Television Preacher Felled by Sex and Financial Scandals, Dies at 86",
-          "link": "https://www.nytimes.com/2026/10/05/us/jim-bakker-dead.html"
+          "title": "Potential Iranian Drone Attack Led to Exit of U.S. Bombers From U.K. Air Base RAF Fairford",
+          "link": "https://www.nytimes.com/2026/10/05/us/politics/iran-drone-attack-us-uk-base-fairford.html"
         },
         {
-          "title": "The Campaign for Ohio’s Next Governor May Be the Ugliest in the Country",
-          "link": "https://www.nytimes.com/2026/10/05/us/elections/ohio-governor-election.html"
+          "title": "Man Arrested in Connection With Incident at UK Air Base RAF Fairford",
+          "link": "https://www.nytimes.com/2026/10/06/world/europe/arrest-raf-fairford-air-base-incident-uk.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T07:24:58.964Z"
+      "updatedAt": "2026-10-06T14:58:00.614Z"
     }
   },
   "indices": {
     "data": [
       {
         "name": "S&P 500",
-        "price": 7773.95,
-        "pct": 1.1746960119421817
+        "price": 7831.38,
+        "pct": 2.0928607557972785
       },
       {
         "name": "Dow Jones",
-        "price": 51267.9,
-        "pct": -0.41492566942966624
+        "price": 51537.6,
+        "pct": 0.3654922928799116
       },
       {
         "name": "Nasdaq",
-        "price": 27477.31,
-        "pct": 2.4493687263193147
+        "price": 27697.953,
+        "pct": 3.360058423273183
       },
       {
         "name": "Gold",
-        "price": 4165.2,
-        "pct": -0.8828498679294758
+        "price": 4178.7,
+        "pct": -0.5615972205696966
       },
       {
         "name": "Bitcoin",
-        "price": 85310.83,
-        "pct": 0.9628956979762946
+        "price": 86577.9,
+        "pct": 2.4624363336966835
       },
       {
         "name": "SpaceX",
-        "price": 171.09,
-        "pct": 17.611878737884105
+        "price": 175.11,
+        "pct": 17.334494773519165
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-06T07:24:59.077Z"
+    "updatedAt": "2026-10-06T14:58:00.738Z"
   }
 }
