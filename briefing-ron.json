@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-06T00:42:33.988Z",
+  "fetchedAt": "2026-10-06T07:24:59.077Z",
   "feeds": {
     "MarketWatch": {
       "items": [
@@ -29,73 +29,81 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T00:42:32.066Z"
+      "updatedAt": "2026-10-06T07:24:57.639Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Russian bio-leak secrecy follows Chernobyl playbook, ex-CIA officer warns",
-          "link": "https://www.foxnews.com/world/russian-bio-leak-secrecy-follows-chernobyl-playbook-ex-cia-officer-warns"
+          "title": "NYPD detective released from hospital after being stabbed multiple times in Bronx",
+          "link": "https://www.foxnews.com/us/nypd-detective-released-hospital-stabbed-multiple-times-bronx"
         },
         {
-          "title": "Trump clears way for Fort Hood terrorist to face Army firing squad nearly 17 years after massacre",
-          "link": "https://www.foxnews.com/politics/trump-clears-way-fort-hood-terrorist-face-army-firing-squad-nearly-17-years-after-massacre"
+          "title": "Massachusetts felon pleads guilty after DOJ says he sold Russian plutonium to 67 customers",
+          "link": "https://www.foxnews.com/us/massachusetts-felon-pleads-guilty-after-doj-says-he-sold-russian-plutonium-67-customers"
         },
         {
-          "title": "Privacy fears push vacation spot to consider ban on favorite accessory for travelers",
-          "link": "https://www.foxnews.com/travel/privacy-fears-push-vacation-spot-consider-ban-favorite-accessory-travelers"
+          "title": "Falcons turn primetime doubters into believers behind Bijan Robinson's back-to-back masterpieces",
+          "link": "https://www.foxnews.com/outkick-sports/falcons-turn-primetime-doubters-believers-bijan-robinson-back-to-back-masterpieces"
         },
         {
-          "title": "Seattle Seahawks throw Joe Mixon another chance in the NFL following backfield disaster",
-          "link": "https://www.foxnews.com/outkick-sports/seattle-seahawks-throw-joe-mixon-another-chance-nfl-following-backfield-disaster"
+          "title": "Rays capitalize on four Yankees errors to take commanding 2-0 ALDS lead",
+          "link": "https://www.foxnews.com/outkick-sports/rays-capitalize-four-yankees-errors-take-commanding-2-0-alds-lead"
         },
         {
-          "title": "Jalen Hurts curses at receiver in viral hot-mic moment during Eagles' collapse against Rams",
-          "link": "https://www.foxnews.com/outkick-sports/jalen-hurts-curses-receiver-viral-hot-mic-moment-eagles-collapse-rams"
+          "title": "Nobu chef killed after teen driver crashes into parked car in California",
+          "link": "https://www.foxnews.com/us/nobu-chef-killed-teen-driver-crashes-parked-car-california"
         },
         {
-          "title": "Luxury fashion designers found shot dead in California as family reportedly reveals troubling lead-up",
-          "link": "https://www.foxnews.com/us/luxury-fashion-designers-found-shot-dead-california-family-reportedly-reveals-troubling-lead-up"
+          "title": "White Sox ride another dramatic comeback win to beat Guardians and take commanding 2-0 ALDS lead",
+          "link": "https://www.foxnews.com/outkick-sports/white-sox-ride-dramatic-comeback-win-beat-guardians-take-commanding-2-0-alds-lead"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T00:42:32.211Z"
+      "updatedAt": "2026-10-06T07:24:57.783Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "Why France Is Burning",
-          "link": "https://www.realclearpolitics.com/2026/10/05/why_france_is_burning_713215.html"
+          "title": "A Misguided Lawsuit vs. Vital Immigration Officials",
+          "link": "https://www.realclearpolitics.com/2026/10/05/a_misguided_lawsuit_vs_vital_immigration_officials_713220.html"
         },
         {
-          "title": "Brazil Set To Be Next Domino in Latin America's MAGA Turn",
-          "link": "https://www.realclearpolitics.com/2026/10/05/brazil_set_to_be_next_domino_in_latin_americas_maga_turn_713192.html"
+          "title": "Trump Has a Reality Problem, Not a Public Relations Problem",
+          "link": "https://www.realclearpolitics.com/2026/10/05/trump_has_a_reality_problem_not_a_public_relations_problem_713218.html"
         },
         {
-          "title": "Michigan's Senate Race Is a Testing Ground",
-          "link": "https://www.realclearpolitics.com/2026/10/05/michigans_senate_race_is_a_testing_ground_713234.html"
+          "title": "Correctly Understanding the 'Stupidity' of the Left",
+          "link": "https://www.realclearpolitics.com/articles/2026/10/06/correctly_understanding_the_stupidity_of_the_left_154566.html"
         },
         {
-          "title": "GOP Will Hold Senate, Dems Have Very Weak Candidates",
-          "link": "https://www.realclearpolitics.com/video/2026/10/03/penn_gop_holds_the_senate_democrats_have_incredibly_weak_candidates_in_maine_and_in_michigan.html"
+          "title": "Jeffries Would Do Outstanding Job as House Speaker",
+          "link": "https://www.realclearpolitics.com/2026/10/05/jeffries_would_do_outstanding_job_as_house_speaker_713214.html"
         },
         {
-          "title": "The Surprising, Cut-Throat Race for Los Angeles Mayor",
-          "link": "https://www.realclearpolitics.com/2026/10/05/the_surprising_cut-throat_race_for_los_angeles_mayor_713225.html"
+          "title": "Letitia James and the New York Ethics Code",
+          "link": "https://www.realclearpolitics.com/2026/10/05/letitia_james_and_the_new_york_ethics_code_713224.html"
         },
         {
-          "title": "D.C. Arch Completes Longstanding National Aspiration",
-          "link": "https://www.realclearpolitics.com/2026/10/05/dc_arch_completes_longstanding_national_aspiration_713209.html"
+          "title": "France, Spain Must Prove They Can Give Protesters Hope",
+          "link": "https://www.realclearpolitics.com/2026/10/05/france_spain_must_prove_they_can_give_protesters_hope_713226.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T00:42:32.537Z"
+      "updatedAt": "2026-10-06T07:24:57.952Z"
     },
     "The Hill": {
       "items": [
         {
+          "title": "Tillis says Trump impeachment over Jan 6 was 'weighty,' a 'vote of no confidence'",
+          "link": "https://thehill.com/homenews/senate/6130895-tillis-trump-impeachment-snap-trial/"
+        },
+        {
+          "title": "Trump says he will pay for 'Patriotic Ads' himself after facing backlash from Democrats",
+          "link": "https://thehill.com/homenews/administration/6130848-trump-to-pay-patriotic-ads-backlash/"
+        },
+        {
           "title": "Trump approves death by firing squad for convicted terrorist",
-          "link": "https://thehill.com/homenews/6130802-nidal-hasan-death-firing-squad/"
+          "link": "https://thehill.com/homenews/administration/6130802-nidal-hasan-death-firing-squad/"
         },
         {
           "title": "Trump announces steps to lower high cost of diesel",
@@ -104,18 +112,10 @@
         {
           "title": "Tillis calls Hegseth vote his 'biggest regret'",
           "link": "https://thehill.com/homenews/senate/6130753-tillis-regrets-hegseth-vote/"
-        },
-        {
-          "title": "Appeals court to hear lawsuit against RFK Jr. vaccine moves",
-          "link": "https://thehill.com/newsletters/healthcare/6130746-appeals-court-lawsuit-rfk-jr-vaccine-moves/"
-        },
-        {
-          "title": "Trump hurls anti-trans slurs at Graham's opponent as South Carolina race tightens",
-          "link": "https://thehill.com/homenews/administration/6130651-trump-slur-graham-senate-race/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T00:42:33.030Z"
+      "updatedAt": "2026-10-06T07:24:58.368Z"
     },
     "Ars Technica": {
       "items": [
@@ -141,7 +141,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T00:42:33.188Z"
+      "updatedAt": "2026-10-06T07:24:58.567Z"
     },
     "The Verge": {
       "items": [
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T00:42:33.284Z"
+      "updatedAt": "2026-10-06T07:24:58.663Z"
     },
     "BBC World": {
       "items": [
@@ -180,28 +180,28 @@
           "link": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
-          "link": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&at_campaign=rss"
+          "title": "Saudi Arabia urged to spare man sentenced to death over Facebook post",
+          "link": "https://www.bbc.co.uk/news/articles/cq14d438vx24o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea",
-          "link": "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o?at_medium=RSS&at_campaign=rss"
+          "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
+          "link": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Spain PM pins hopes on housing crisis to help win snap election",
-          "link": "https://www.bbc.co.uk/news/articles/ck5yn81qqde0o?at_medium=RSS&at_campaign=rss"
+          "title": "Europe is pouring billions into space. Can Glasgow's satellite industry keep up?",
+          "link": "https://www.bbc.co.uk/news/articles/cm2kedyp348lo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "US 'watching closely' after plague researcher dies in Russia",
-          "link": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o?at_medium=RSS&at_campaign=rss"
+          "title": "Yemeni military says it has 'secured' Red Sea waterway",
+          "link": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
-          "link": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss"
+          "title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
+          "link": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T00:42:33.680Z"
+      "updatedAt": "2026-10-06T07:24:58.818Z"
     },
     "BBC News": {
       "items": [
@@ -210,54 +210,54 @@
           "link": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "What prompted the US bombers to leave RAF Fairford?",
-          "link": "https://www.bbc.co.uk/news/articles/ck87z09xe82qo?at_medium=RSS&at_campaign=rss"
+          "title": "France braces for national day of school protests after injuries and mass arrests",
+          "link": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Author and former politician Jeffrey Archer dies aged 86",
           "link": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "King's funding for Andrew not to be used for legal action against police",
-          "link": "https://www.bbc.co.uk/news/articles/c9ly0l028d1go?at_medium=RSS&at_campaign=rss"
+          "title": "Rise in babies in care proceedings raises fears of unnecessary adoptions, experts tell BBC",
+          "link": "https://www.bbc.co.uk/news/articles/c52e9k3998e7o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "France braces for national day of school protests after injuries and mass arrests",
-          "link": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss"
+          "title": "MPs call for investigation after Lutnick-Epstein whistleblower dies",
+          "link": "https://www.bbc.co.uk/news/articles/cwm2686gl6kno?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Tories pledge £10bn 'Britannia Shield' air defence system",
-          "link": "https://www.bbc.co.uk/news/articles/cxvgdl5npl86o?at_medium=RSS&at_campaign=rss"
+          "title": "Europe is pouring billions into space. Can Glasgow's satellite industry keep up?",
+          "link": "https://www.bbc.co.uk/news/articles/cm2kedyp348lo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T00:42:33.786Z"
+      "updatedAt": "2026-10-06T07:24:58.831Z"
     },
     "NY Times": {
       "items": [
         {
+          "title": "Potential Iranian Drone Attack Led to Exit of U.S. Aircraft From British Air Base",
+          "link": "https://www.nytimes.com/2026/10/05/us/politics/iran-drone-attack-threat.html"
+        },
+        {
+          "title": "Strikes, Barricades and Fiscal Turmoil: An Autumn of Discontent Grips France",
+          "link": "https://www.nytimes.com/2026/10/06/world/europe/france-crisis-autumn-discontent.html"
+        },
+        {
+          "title": "France Set for Nationwide Strikes, as School Protests Escalate",
+          "link": "https://www.nytimes.com/2026/10/06/world/europe/france-student-strikes-protests.html"
+        },
+        {
+          "title": "Jim Bakker, Television Preacher Felled by Sex and Financial Scandals, Dies at 86",
+          "link": "https://www.nytimes.com/2026/10/05/us/jim-bakker-dead.html"
+        },
+        {
           "title": "The Campaign for Ohio’s Next Governor May Be the Ugliest in the Country",
           "link": "https://www.nytimes.com/2026/10/05/us/elections/ohio-governor-election.html"
-        },
-        {
-          "title": "Facing Backlash, Trump Says His Super PAC Will Pay for Taxpayer-Funded Ads",
-          "link": "https://www.nytimes.com/2026/10/05/us/politics/trump-taxpayer-funded-ads-pac.html"
-        },
-        {
-          "title": "Supreme Court Begins Term With Major Climate Case",
-          "link": "https://www.nytimes.com/2026/10/05/briefing/supreme-court-climate-middle-east-oil.html"
-        },
-        {
-          "title": "How Ketamine Emerged as a Key Factor in an Alleged Cornell Sex Assault",
-          "link": "https://www.nytimes.com/2026/10/05/nyregion/cornell-university-jane-doe-ketamine.html"
-        },
-        {
-          "title": "As Students Protest Handling of Cornell Sexual Assault Case, a Building Is Vandalized",
-          "link": "https://www.nytimes.com/2026/10/05/nyregion/cornell-rape-case-protests-vandalism.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T00:42:33.897Z"
+      "updatedAt": "2026-10-06T07:24:58.964Z"
     }
   },
   "indices": {
@@ -279,13 +279,13 @@
       },
       {
         "name": "Gold",
-        "price": 4169.2,
-        "pct": -0.4179903026249791
+        "price": 4165.2,
+        "pct": -0.8828498679294758
       },
       {
         "name": "Bitcoin",
-        "price": 85777.41,
-        "pct": 1.515079610320858
+        "price": 85310.83,
+        "pct": 0.9628956979762946
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-06T00:42:33.988Z"
+    "updatedAt": "2026-10-06T07:24:59.077Z"
   }
 }
