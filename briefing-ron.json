@@ -1,8 +1,12 @@
 {
-  "fetchedAt": "2026-10-07T21:09:48.892Z",
+  "fetchedAt": "2026-10-08T01:42:54.800Z",
   "feeds": {
     "MarketWatch": {
       "items": [
+        {
+          "title": "Rising yields are quietly crashing the stock market’s earlier winners of 2026",
+          "link": "https://www.marketwatch.com/story/rising-yields-are-quietly-crashing-the-stock-markets-earlier-winners-of-2026-a29f2863?mod=mw_rss_topstories"
+        },
         {
           "title": "Higher yields are taking their toll on all areas of the stock market, except the one that matters",
           "link": "https://www.marketwatch.com/story/higher-yields-are-taking-their-toll-on-all-areas-of-the-stock-market-except-the-one-that-matters-69a90322?mod=mw_rss_topstories"
@@ -22,44 +26,40 @@
         {
           "title": "Stocks are increasingly their own best hedge. This chart shows why.",
           "link": "https://www.marketwatch.com/story/stocks-are-increasingly-their-own-best-hedge-this-chart-shows-why-19a79b68?mod=mw_rss_topstories"
-        },
-        {
-          "title": "SpaceX may chase ‘stunning’ AI returns by taking on a lot of debt to buy Nvidia chips",
-          "link": "https://www.marketwatch.com/story/spacex-reportedly-is-looking-to-raise-as-much-money-as-the-company-generates-in-revenue-to-buy-nvidia-chips-01ca6d82?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T21:09:46.863Z"
+      "updatedAt": "2026-10-08T01:42:53.780Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Trail Blazers have 'set themselves up to fail' by firing Braiden Bell over teenage tweets, attorney says",
-          "link": "https://www.foxnews.com/outkick-sports/trail-blazers-set-themselves-fail-firing-braiden-bell-teenage-tweets-attorney-says"
+          "title": "Ken Paxton calls out James Talarico's 11-day absence at Trump rally, prompting response from campaign",
+          "link": "https://www.foxnews.com/politics/ken-paxton-calls-james-talarico-11-day-absence-trump-rally-prompting-response-campaign"
         },
         {
-          "title": "Christa Pike's first words revealed after she unexpectedly woke up while lawyers thought she was 'brain dead'",
-          "link": "https://www.foxnews.com/us/christa-pike-first-words-revealed-unexpectedly-woke-up-lawyers-thought-brain-dead"
+          "title": "Los Angeles Dodgers are back in the NLCS for third straight season after win over Atlanta Braves",
+          "link": "https://www.foxnews.com/outkick-sports/los-angeles-dodgers-back-nlcs-third-straight-season-4-1-win-atlanta-braves"
         },
         {
-          "title": "Parents of slain pregnant mom Christa Gilley demand Lee Gilley's return from Italy for murder case",
-          "link": "https://www.foxnews.com/us/parents-slain-pregnant-mom-christa-gilley-demand-lee-gilley-return-italy-murder-case"
+          "title": "FIRST ON FOX: US Coast Guard recruits largest class in nearly 40 years, beats goals for third straight year",
+          "link": "https://www.foxnews.com/us/us-coast-guard-recruits-largest-class-nearly-40-years-beats-goals-third-straight-year"
         },
         {
-          "title": "Olivia Dean song accused of ripping melody from Bill Withers’ ‘Just the Two of Us’",
-          "link": "https://www.foxnews.com/entertainment/olivia-dean-song-accused-ripping-melody-bill-withers-just-two-us"
+          "title": "ESPN star Stephen A. Smith's Lane Johnson, Eagles rant triggers immediate video apology",
+          "link": "https://www.foxnews.com/outkick-sports/espn-star-stephen-a-smith-lane-johnson-eagles-rant-triggers-immediate-video-apology"
         },
         {
-          "title": "Nebraska Cornhuskers fans are dropping serious money on old stadium urinal troughs",
-          "link": "https://www.foxnews.com/outkick-sports/nebraska-cornhuskers-fans-dropping-serious-money-old-stadium-urinal-troughs"
+          "title": "GOP Senate hopeful sounds alarm after alleged Mall of America terror plot thwarted",
+          "link": "https://www.foxnews.com/politics/gop-senate-hopeful-sounds-alarm-alleged-mall-america-terror-plot-thwarted"
         },
         {
-          "title": "Alabama's Josh Ford ‘determined’ to play Georgia after broken arm surgery, while officials plan for hurricane",
-          "link": "https://www.foxnews.com/outkick-sports/alabamas-josh-ford-determined-play-georgia-after-broken-arm-surgery-officials-plan-hurricane"
+          "title": "'Glad to see it': Super Bowl champion Bruce Arians rips out-of-control NFL refs after two suspensions",
+          "link": "https://www.foxnews.com/outkick-sports/glad-see-super-bowl-champion-bruce-arians-rips-out-of-control-nfl-refs-after-two-suspensions"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T21:09:47.000Z"
+      "updatedAt": "2026-10-08T01:42:53.871Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -89,36 +89,48 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T21:09:47.310Z"
+      "updatedAt": "2026-10-08T01:42:53.939Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "DNC sues to block Trump administration from using government funds for political ad",
-          "link": "https://thehill.com/homenews/6135004-dnc-sues-trump-political-ads-government-funds/"
+          "title": "Trump doubles down on California comments: 'Let them hit San Diego, let them hit Los Angeles'",
+          "link": "https://thehill.com/homenews/administration/6135448-trump-threatened-la-san-diego/"
         },
         {
-          "title": "Watch live: Trump rallies Texas Republicans amid midterm warning signs",
-          "link": "https://thehill.com/video-clips/6134525-watch-live-donald-trump-san-antonio-texas-rally-paxton-de-la-cruz-gop-midterms/"
+          "title": "Trump to award National Medal of Science to Elon Musk",
+          "link": "https://thehill.com/homenews/administration/6135421-trump-awards-national-medal-science/"
         },
         {
-          "title": "Live updates: Trump heads to San Antonio rally; Iowa, Pennsylvania in debate spotlight",
+          "title": "Live updates: Trump rallies in San Antonio; Iowa, Pennsylvania in debate spotlight",
           "link": "https://thehill.com/homenews/administration/6133060-live-updates-candidates-trump-texas-midterm-debates/"
         },
         {
-          "title": "Senate Democrat pitches a game plan on AI",
-          "link": "https://thehill.com/newsletters/technology/6135001-senate-democrat-pitches-a-game-plan-on-ai/"
+          "title": "USS Abraham Lincoln's controversial deployment comes to an end",
+          "link": "https://thehill.com/newsletters/defense-national-security/6135344-uss-abraham-lincoln-controversial-deployment-ends/"
         },
         {
-          "title": "Trump turns to cash as healthcare concerns mount",
-          "link": "https://thehill.com/newsletters/business-economy/6134988-trump-turns-to-cash-as-healthcare-concerns-mount/"
+          "title": "Drugmakers challenge Trump admin pilot program",
+          "link": "https://thehill.com/newsletters/healthcare/6135281-drugmakers-challenge-trump-admin-pilot-program/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T21:09:47.887Z"
+      "updatedAt": "2026-10-08T01:42:54.439Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
+          "link": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/"
+        },
+        {
+          "title": "PA measles outbreak tops 1,000 cases, largest since disease was eliminated",
+          "link": "https://arstechnica.com/health/2026/10/pa-measles-outbreak-tops-1000-cases-largest-since-disease-was-eliminated/"
+        },
+        {
+          "title": "TP-Link problems in US grow amid FCC router ban and four state lawsuits",
+          "link": "https://arstechnica.com/tech-policy/2026/10/florida-sues-tp-link-claiming-it-hides-router-security-risks-and-links-to-china/"
+        },
         {
           "title": "Chemistry Nobel goes to reactions like those that gave life a hand",
           "link": "https://arstechnica.com/science/2026/10/chemistry-nobel-goes-to-reactions-like-those-that-gave-life-a-hand/"
@@ -126,25 +138,21 @@
         {
           "title": "Pediatricians renew call to ban raw milk as anti-science rhetoric reigns",
           "link": "https://arstechnica.com/health/2026/10/pediatricians-renew-call-to-ban-raw-milk-as-anti-science-rhetoric-reigns/"
-        },
-        {
-          "title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
-          "link": "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/"
-        },
-        {
-          "title": "Jaguar Type 01 debuts; now, no one remembers the electric Ferrari",
-          "link": "https://arstechnica.com/cars/2026/10/jaguar-makes-its-controversial-all-ev-return-with-the-type-01/"
-        },
-        {
-          "title": "Trade group crunches numbers on Trump’s impossible push for 100% US-made tech",
-          "link": "https://arstechnica.com/tech-policy/2026/10/trade-group-crunches-numbers-on-trumps-impossible-push-for-100-us-made-tech/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T21:09:47.983Z"
+      "updatedAt": "2026-10-08T01:42:54.496Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "BMW’s iX4 SUV is a 428-mile defensive weapon against China’s EV takeover",
+          "link": "https://www.theverge.com/transportation/1006837/bmw-ix4-ev-range-price-specs-tesla-china"
+        },
+        {
+          "title": "Teenage Engineering’s CEO says it’ll stop making synths",
+          "link": "https://www.theverge.com/gadgets/1007489/teengage-engineering-stop-making-synths"
+        },
         {
           "title": "Android&#8217;s physical navigation buttons are back on Googlebooks, but not the way you think",
           "link": "https://www.theverge.com/tech/1007409/androids-physical-navigation-buttons-are-back-on-googlebooks-but-not-the-way-you-think"
@@ -156,18 +164,10 @@
         {
           "title": "Roku’s OLED TVs are up to $400 off during Prime Day, starting at $700",
           "link": "https://www.theverge.com/gadgets/1007149/roku-oled-tv-pro-prime-day-deal-sale"
-        },
-        {
-          "title": "ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6"
-        },
-        {
-          "title": "The first Nvidia RTX Spark laptops cost up to $7,000",
-          "link": "https://www.theverge.com/gadgets/1007040/nvidias-powerful-rtx-spark-laptops-can-cost-up-to-7000"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T21:09:48.193Z"
+      "updatedAt": "2026-10-08T01:42:54.533Z"
     },
     "BBC World": {
       "items": [
@@ -201,37 +201,37 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T21:09:48.462Z"
+      "updatedAt": "2026-10-08T01:42:54.565Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Badenoch says Tories would scrap inheritance tax on family homes",
-          "link": "https://www.bbc.co.uk/news/articles/cmn5vw05l0q3o?at_medium=RSS&at_campaign=rss"
+          "title": "Christa Pike 'angry and confused' after failed execution, lawyers say",
+          "link": "https://www.bbc.co.uk/news/articles/c617kdle01k9o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Chris Mason: Tories united behind Badenoch - but party still needs to win over voters",
-          "link": "https://www.bbc.co.uk/news/articles/cm1j3rj2r72xo?at_medium=RSS&at_campaign=rss"
+          "title": "Watch: What we know about Christa Pike's ‘shock’ recovery in hospital",
+          "link": "https://www.bbc.co.uk/news/videos/cw99zxxx891yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Burnham to hold security talks with German chancellor in Berlin",
+          "link": "https://www.bbc.co.uk/news/articles/cmwyq34qexdzo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
           "link": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Boots sold in £7bn deal to Canadian billionaire family",
-          "link": "https://www.bbc.co.uk/news/articles/cwly0jyk2vl5o?at_medium=RSS&at_campaign=rss"
+          "title": "We spent thousands on a Tui river cruise but ended up on coach trips",
+          "link": "https://www.bbc.co.uk/news/articles/cq62j2lzlnm8o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
-          "link": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Man charged with 13 attempted murders including British child after Alps attack",
-          "link": "https://www.bbc.co.uk/news/articles/c8g47zll517zo?at_medium=RSS&at_campaign=rss"
+          "title": "Israelis demand accountability over 7 October failures three years after attacks",
+          "link": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T21:09:48.497Z"
+      "updatedAt": "2026-10-08T01:42:54.604Z"
     },
     "NY Times": {
       "items": [
@@ -244,20 +244,20 @@
           "link": "https://www.nytimes.com/2026/10/07/world/europe/rubio-greece-defense-immigration.html"
         },
         {
+          "title": "Ukraine Claws Back Land",
+          "link": "https://www.nytimes.com/2026/10/07/briefing/ukraine-claws-back-land.html"
+        },
+        {
+          "title": "Christa Pike, Confused After Failed Tennessee Execution, Is at Center of Legal Storm",
+          "link": "https://www.nytimes.com/2026/10/07/us/christa-pike-tennessee-legal.html"
+        },
+        {
           "title": "Texas Plans Execution After Botched Lethal Injection in Tennessee",
           "link": "https://www.nytimes.com/2026/10/07/us/texas-execution-lethal-injection.html"
-        },
-        {
-          "title": "Mamdani Draws Anger With Oct. 7 Statement Denouncing Israel’s Gaza Attacks",
-          "link": "https://www.nytimes.com/2026/10/07/nyregion/oct-7-anniversary-israel-nyc-mamdani.html"
-        },
-        {
-          "title": "If the Kennedy Center Is ‘Dangerous,’ Why Is the Symphony Rehearsing There?",
-          "link": "https://www.nytimes.com/2026/10/07/us/politics/kennedy-center-trump.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T21:09:48.618Z"
+      "updatedAt": "2026-10-08T01:42:54.636Z"
     }
   },
   "indices": {
@@ -279,13 +279,13 @@
       },
       {
         "name": "Gold",
-        "price": 4136.7,
-        "pct": -0.6150445667059165
+        "price": 4152.2,
+        "pct": -0.24265430170819893
       },
       {
         "name": "Bitcoin",
-        "price": 83324.81,
-        "pct": -1.6973917335723714
+        "price": 83228.8,
+        "pct": -3.7598213836086614
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-07T21:09:48.892Z"
+    "updatedAt": "2026-10-08T01:42:54.800Z"
   }
 }
