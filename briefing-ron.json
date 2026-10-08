@@ -1,173 +1,173 @@
 {
-  "fetchedAt": "2026-10-08T16:18:54.730Z",
+  "fetchedAt": "2026-10-08T21:56:41.943Z",
   "feeds": {
     "MarketWatch": {
       "items": [
-        {
-          "title": "America’s renters are emerging as a political movement",
-          "link": "https://www.marketwatch.com/story/locked-out-of-home-ownership-renters-are-rallying-voters-for-affordable-housing-policies-bf946d70?mod=mw_rss_topstories"
-        },
         {
           "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
           "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories"
         },
         {
-          "title": "The good, the bad and the ugly of rising interest rates",
-          "link": "https://www.marketwatch.com/story/the-good-the-bad-and-the-ugly-of-rising-interest-rates-ee465a81?mod=mw_rss_topstories"
+          "title": "PepsiCo CEO’s message to employees: If you’re not producing growth, you’re out",
+          "link": "https://www.marketwatch.com/story/pepsico-ceos-message-to-employees-if-youre-not-producing-growth-youre-out-13af0335?mod=mw_rss_topstories"
         },
         {
-          "title": "This chart shows the No. 1 reason why the cost of raising kids jumped 60% in eight years",
-          "link": "https://www.marketwatch.com/story/this-chart-shows-the-no-1-reason-why-the-cost-of-raising-kids-jumped-60-in-eight-years-175a2309?mod=mw_rss_topstories"
+          "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
+          "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories"
         },
         {
-          "title": "The Treasury market is facing a crucial vote of investor confidence",
-          "link": "https://www.marketwatch.com/story/the-treasury-market-is-facing-a-crucial-vote-of-investor-confidence-31fa8d41?mod=mw_rss_topstories"
+          "title": "Feel like a pumpkin-spice burrito? Analysts try to wrap their heads around a possible Starbucks-Chipotle tie-up.",
+          "link": "https://www.marketwatch.com/story/feel-like-a-pumpkin-spice-burrito-analysts-try-to-wrap-their-heads-around-a-possible-starbucks-chipotle-tie-up-5b8519fd?mod=mw_rss_topstories"
         },
         {
-          "title": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who’s right?",
-          "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories"
+          "title": "Worse than taking away your parents’ car keys? Taking away their cell phone. How to protect your aging parents.",
+          "link": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories"
+        },
+        {
+          "title": "A big AI super PAC tried to follow crypto’s playbook to influence the midterms. Critics say it’s not working out.",
+          "link": "https://www.marketwatch.com/story/a-big-ai-super-pac-tried-to-follow-cryptos-playbook-to-influence-the-midterms-critics-say-its-not-working-out-d27911e6?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T16:18:52.349Z"
+      "updatedAt": "2026-10-08T21:56:40.834Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "White Sox pitching depth faces real test as Guardians try to push playoff series to five games",
-          "link": "https://www.foxnews.com/outkick-betting/white-sox-pitching-depth-faces-real-test-guardians-try-push-playoff-series-five-games"
+          "title": "Actress Dakota Johnson was convinced no one could possibly have the name 'OG Anunoby'",
+          "link": "https://www.foxnews.com/outkick-sports/actress-dakota-johnson-convinced-no-one-could-possibly-have-name-og-anunoby"
         },
         {
-          "title": "Michigan police probe possible serial killer after 5 men suffer fatal injuries along popular trail",
-          "link": "https://www.foxnews.com/us/michigan-police-probe-possible-serial-killer-5-men-fatal-injuries-popular-trail"
+          "title": "Obama Foundation workers move to unionize over benefits, working conditions months after center opens",
+          "link": "https://www.foxnews.com/politics/obama-foundation-workers-move-unionize-benefits-working-conditions-months-center-opens"
         },
         {
-          "title": "Missing 72-year-old hiker found alive days after frightening 100-foot fall left her badly injured",
-          "link": "https://www.foxnews.com/travel/missing-72-year-old-hiker-found-alive-days-after-100-foot-fall-left-her-badly-injured"
+          "title": "Huge bull moose stuck in Montana skate park had to be tranquilized in order to be rescued",
+          "link": "https://www.foxnews.com/outkick-sports/huge-bull-moose-stuck-montana-skate-park-tranquilized-rescued"
         },
         {
-          "title": "Armed man shot dead after attempted attack inside Nashville federal courthouse, police say",
-          "link": "https://www.foxnews.com/us/armed-man-shot-dead-attempted-attack-inside-nashville-federal-courthouse-police-say"
+          "title": "Mamdani dined at NYC restaurant linked to anti-Israel menu after being booed at Oct 7 vigil: report",
+          "link": "https://www.foxnews.com/politics/mamdani-dined-nyc-restaurant-linked-anti-israel-menu-booed-oct-7-vigil-report"
         },
         {
-          "title": "Yankees legends Derek Jeter, Alex Rodriguez deliver blunt post-mortem on team: 'Something has to change'",
-          "link": "https://www.foxnews.com/outkick-sports/yankees-legends-derek-jeter-alex-rodriguez-deliver-blunt-post-mortem-team-something-has-to-change"
+          "title": "Haverford professor charged over alleged ‘heinous’ antisemitic online attacks, barred from campus",
+          "link": "https://www.foxnews.com/media/haverford-professor-charged-alleged-heinous-antisemitic-online-attacks-barred-campus"
         },
         {
-          "title": "Where top Democrat Senate candidates and their GOP opponents stand on trans athletes in women's sports",
-          "link": "https://www.foxnews.com/outkick-sports/top-democrat-senate-candidates-gop-opponents-stand-trans-athletes-womens-sports"
+          "title": "If you've ever wondered why Alex Ovechkin has crushed soda on the bench his whole career, here's your answer",
+          "link": "https://www.foxnews.com/outkick-sports/alex-ovechkin-crushed-soda-bench-career-answer"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T16:18:52.614Z"
+      "updatedAt": "2026-10-08T21:56:40.915Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "We Choose the Unapologetic Pursuit of National Power",
-          "link": "https://www.realclearpolitics.com/video/2026/10/07/rubio_urges_defense_of_western_civilization_at_acropolis_we_choose_the_unapologetic_pursuit_of_national_power.html"
+          "title": "Rubio Digs Into Past To Tout 'America First' Approach",
+          "link": "https://www.realclearpolitics.com/2026/10/08/rubio_digs_into_past_to_tout_america_first_approach_713600.html"
         },
         {
-          "title": "Trump Is Making Biden-Like Mistakes",
-          "link": "https://www.realclearpolitics.com/2026/10/08/trump_is_making_biden-like_mistakes_713517.html"
+          "title": "Our Political Labels Are Out of Date",
+          "link": "https://www.realclearpolitics.com/2026/10/07/our_political_labels_are_out_of_date_713477.html"
         },
         {
-          "title": "Much Less Crime Since U.S. Border Mess Fixed",
-          "link": "https://www.realclearpolitics.com/2026/10/08/much_less_crime_since_us_border_mess_fixed_713502.html"
+          "title": "Mamdani's Surprisingly Persuasive Solution for U.S.",
+          "link": "https://www.realclearpolitics.com/2026/10/08/mamdanis_surprisingly_persuasive_solution_for_us_713508.html"
         },
         {
-          "title": "The Political Economy of Diesel",
-          "link": "https://www.realclearpolitics.com/2026/10/08/the_political_economy_of_diesel_713510.html"
+          "title": "Alleged Somali Gang Activity Ruins Homecoming in MN",
+          "link": "https://www.realclearpolitics.com/2026/10/08/alleged_somali_gang_activity_ruins_homecoming_in_mn_713503.html"
         },
         {
-          "title": "The Chilling Implications of Jack Smith's Goons",
-          "link": "https://www.realclearpolitics.com/2026/10/08/the_chilling_implications_of_jack_smiths_goons_713472.html"
+          "title": "Justice Alito Doth Protest Too Much",
+          "link": "https://www.realclearpolitics.com/2026/10/08/justice_alito_doth_protest_too_much_713599.html"
         },
         {
-          "title": "Washington Needs the Tax-Reform Spirit of '86",
-          "link": "https://www.realclearpolitics.com/2026/10/08/washington_needs_the_tax-reform_spirit_of_86_713381.html"
+          "title": "Lying Media Ahead of the Midterms? Check",
+          "link": "https://www.realclearpolitics.com/2026/10/07/lying_media_ahead_of_the_midterms_check_713468.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T16:18:52.923Z"
+      "updatedAt": "2026-10-08T21:56:41.045Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Trump administration accuses Maduro of torture in latest indictment",
-          "link": "https://thehill.com/regulation/court-battles/6136564-maduro-wife-accused-repression/"
-        },
-        {
-          "title": "Vance says 9 universities will be investigated over foreign visas",
-          "link": "https://thehill.com/homenews/education/6136433-vance-foreign-student-visas-j-1/"
-        },
-        {
-          "title": "A check is not a plan for improving the FAA",
-          "link": "https://thehill.com/opinion/technology/6135669-faa-modernization-funding-critique/"
-        },
-        {
-          "title": "Live updates: Vance lays out work visa penalties for Microsoft, Adobe; Trump media ban returns to court",
+          "title": "Live updates: El-Sayed, Rogers to showdown in Michigan Senate debate",
           "link": "https://thehill.com/homenews/administration/6135113-live-updates-trump-midterm-elections-debates-tech-iran/"
         },
         {
-          "title": "NFL urges Supreme Court to take up prediction market dispute",
-          "link": "https://thehill.com/policy/technology/6136384-nfl-urges-supreme-court-prediction-markets/"
+          "title": "Trump explains LA, San Diego comments: 'All I was doing was making a comparison'",
+          "link": "https://thehill.com/homenews/administration/6137592-trump-lashes-media-la-san-diego/"
+        },
+        {
+          "title": "Mortgage rates hit 7.4 percent for first time since November 2023",
+          "link": "https://thehill.com/business/6137377-mortgage-rates-rise-multi-week-high/"
+        },
+        {
+          "title": "Vance takes aim at Microsoft over foreign workers",
+          "link": "https://thehill.com/newsletters/technology/6137501-vance-takes-aim-at-microsoft-over-foreign-workers/"
+        },
+        {
+          "title": "Watch live: El-Sayed, Rogers to square off in Nexstar's Michigan Senate debate",
+          "link": "https://thehill.com/video-clips/6136870-watch-live-nexstar-wood-tv-live-coverage-michigan-senate-debate-el-sayed-rogers/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T16:18:53.454Z"
+      "updatedAt": "2026-10-08T21:56:41.222Z"
     },
     "Ars Technica": {
       "items": [
         {
-          "title": "Internal files add to evidence of an ExxonMobil climate deception campaign",
-          "link": "https://arstechnica.com/tech-policy/2026/10/exxonmobils-own-scientists-doubted-climate-fixes-the-company-hyped/"
+          "title": "R.I.P. Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
+          "link": "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/"
         },
         {
-          "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
-          "link": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/"
+          "title": "Let's Encrypt cuts certificate lifetimes to 64 days starting February 2027",
+          "link": "https://arstechnica.com/gadgets/2026/10/lets-encrypt-cuts-certificate-lifetimes-to-64-days-starting-february-2027/"
         },
         {
-          "title": "A senator tried to ban gambling on prediction markets—now she's a Kalshi lobbyist",
-          "link": "https://arstechnica.com/tech-policy/2026/10/a-senator-tried-to-ban-gambling-on-prediction-markets-now-shes-a-kalshi-lobbyist/"
+          "title": "Driver wins $76 after ALPR led to bogus traffic stop, drug searches",
+          "link": "https://arstechnica.com/tech-policy/2026/10/driver-wins-76-after-alpr-led-to-bogus-traffic-stop-drug-searches/"
         },
         {
-          "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
-          "link": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/"
+          "title": "RFK Jr. unveils sweeping federal initiative to find evidence of vaccine injuries",
+          "link": "https://arstechnica.com/health/2026/10/rfk-jr-unveils-sweeping-federal-initiative-to-find-evidence-of-vaccine-injuries/"
         },
         {
-          "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
-          "link": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/"
+          "title": "An experimental tour-de-force: Entanglement between glass bead and light",
+          "link": "https://arstechnica.com/science/2026/10/suspended-glass-bead-entangled-with-light-maybe-a-quantum-memory/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T16:18:53.562Z"
+      "updatedAt": "2026-10-08T21:56:41.357Z"
     },
     "The Verge": {
       "items": [
         {
-          "title": "Google’s AI note-taking app transcribes your meetings completely offline",
-          "link": "https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline"
+          "title": "Anthropic launches free AI security scans for open-source projects",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner"
         },
         {
-          "title": "GTA VI will have in-game podcasts and at least six radio stations",
-          "link": "https://www.theverge.com/games/1007965/gta-6-music-radio-stations-podcasts"
+          "title": "SpaceX announces plan to become a ‘major mobile carrier’",
+          "link": "https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier"
         },
         {
-          "title": "The Retro Song Bird plays just the music from your favorite Game Boy cartridges",
-          "link": "https://www.theverge.com/tech/1007926/retro-song-bird-nintendo-game-boy-cartridge-music-player"
+          "title": "AMD will bring FSR 4 to handhelds by the end of 2026",
+          "link": "https://www.theverge.com/games/1008353/amd-will-bring-fsr-4-to-handhelds-by-the-end-of-2026"
         },
         {
-          "title": "75 great October Prime Day deals are still happening",
-          "link": "https://www.theverge.com/gadgets/1007804/october-prime-day-leftover-deals"
+          "title": "Apple will reportedly debut its first touchscreen MacBook in three weeks",
+          "link": "https://www.theverge.com/tech/1008422/apple-macbook-pro-touchscreen-ipad-mini-rumor"
         },
         {
-          "title": "Google is launching a one-stop Gemini agent for your work tasks",
-          "link": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise"
+          "title": "California is trying to shut down robot vs. human cage matches",
+          "link": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T16:18:53.686Z"
+      "updatedAt": "2026-10-08T21:56:41.543Z"
     },
     "BBC World": {
       "items": [
@@ -184,8 +184,8 @@
           "link": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Residents airlifted to safety after flooding in central Chile",
-          "link": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss"
+          "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
+          "link": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
@@ -201,7 +201,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T16:18:53.755Z"
+      "updatedAt": "2026-10-08T21:56:41.691Z"
     },
     "BBC News": {
       "items": [
@@ -210,8 +210,16 @@
           "link": "https://www.bbc.co.uk/news/articles/cr1exlvpzylvo?at_medium=RSS&at_campaign=rss"
         },
         {
+          "title": "Watch: What does the ruling mean for the investigation into the former prince?",
+          "link": "https://www.bbc.co.uk/news/videos/c6qxn8dd0zllo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Two Latvian men arrested on suspicion of trespass at RAF base in Cambridgeshire",
           "link": "https://www.bbc.co.uk/news/articles/c6ly0vzew9e8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Burnham calls on Polanski to reverse Green Party's Zionism motion",
+          "link": "https://www.bbc.co.uk/news/articles/cm2d6x11l6pko?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Three sisters who drowned in sea off Brighton took own lives, inquest finds",
@@ -220,80 +228,72 @@
         {
           "title": "Royal Navy sailor in court accused of preparing to spy for Russia",
           "link": "https://www.bbc.co.uk/news/articles/cw203n6emde8o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Asos hackers took more personal details than first revealed, BBC finds",
-          "link": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Death of 12-year-old girl prompts call for allergy management ratings",
-          "link": "https://www.bbc.co.uk/news/articles/c674p508lk78o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T16:18:54.315Z"
+      "updatedAt": "2026-10-08T21:56:41.705Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "How Trump Has Alienated Republican Voters Ahead of the Midterms",
-          "link": "https://www.nytimes.com/2026/10/08/us/elections/trump-voter-enthusiasm-midterms.html"
+          "title": "Trump Says U.S. Will Not Strike Iran Again Before Midterms as Military Draws Up New Plans",
+          "link": "https://www.nytimes.com/2026/10/08/us/politics/trump-iran-war-options.html"
         },
         {
-          "title": "At Texas Rally, Trump and Paxton Make for an Awkward Pair",
-          "link": "https://www.nytimes.com/2026/10/07/us/elections/in-texas-trump-and-paxton-make-for-an-awkward-pair.html"
+          "title": "U.S.S. Abraham Lincoln Returns Home After Long and Grueling Deployment",
+          "link": "https://www.nytimes.com/2026/10/08/us/politics/uss-abraham-lincoln-san-diego.html"
+        },
+        {
+          "title": "How Trump Has Alienated Republican Voters Ahead of the Midterms",
+          "link": "https://www.nytimes.com/2026/10/08/us/elections/trump-voter-enthusiasm-midterms.html"
         },
         {
           "title": "In Maine Senate Race, Spiking Heating Oil Costs Put Susan Collins on Defensive",
           "link": "https://www.nytimes.com/2026/10/08/us/maine-senate-collins-jackson-oil.html"
         },
         {
-          "title": "Escalating Assaults on Ukrainian Cities Are Producing an Enormous Toll",
-          "link": "https://www.nytimes.com/2026/10/08/world/europe/russia-ukraine-war-attack-bus.html"
-        },
-        {
-          "title": "‘Absolute Nightmare’: Inside the Russian Warehouses Bombarded by Ukraine",
-          "link": "https://www.nytimes.com/2026/10/08/world/europe/russia-wildberries-ozon-warehouse-ukraine-attacks.html"
+          "title": "In Trump’s Russian Oil Deal, Middle East Funds Are the Biggest Owners",
+          "link": "https://www.nytimes.com/2026/10/08/world/europe/trump-russia-oil-deal-lukoil-middle-east-investors.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T16:18:54.454Z"
+      "updatedAt": "2026-10-08T21:56:41.825Z"
     }
   },
   "indices": {
     "data": [
       {
         "name": "S&P 500",
-        "price": 7787.15,
-        "pct": 1.5743923197829481
+        "price": 7765.36,
+        "pct": 1.2901668960209727
       },
       {
         "name": "Dow Jones",
-        "price": 51104.75,
-        "pct": 0.3498960071129924
+        "price": 51231.64,
+        "pct": 0.5990587229924852
       },
       {
         "name": "Nasdaq",
-        "price": 27424.094,
-        "pct": 2.0560517423599727
+        "price": 27193.34,
+        "pct": 1.1973235683770285
       },
       {
         "name": "Gold",
-        "price": 4133.1,
-        "pct": -0.5701501154734367
+        "price": 4158.3,
+        "pct": 0.03608545034642032
       },
       {
         "name": "Bitcoin",
-        "price": 81369.34,
-        "pct": -5.9099756875279255
+        "price": 81664.05,
+        "pct": -5.56919289311016
       },
       {
         "name": "SpaceX",
-        "price": 163.205,
-        "pct": 10.22151685013846
+        "price": 160.57,
+        "pct": 8.441953130276222
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-08T16:18:54.730Z"
+    "updatedAt": "2026-10-08T21:56:41.943Z"
   }
 }
