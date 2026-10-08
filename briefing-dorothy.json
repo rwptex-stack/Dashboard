@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-10-07T20:16:51.385Z",
+  "fetchedAt": "2026-10-08T00:31:51.039Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Chiefs owner's wife Tavia Hunt has heard enough about how they get all the calls and she's sick of it",
-          "link": "https://www.foxnews.com/outkick-sports/chiefs-owners-wife-tavia-hunt-heard-enough-how-they-get-all-calls-sick-it"
+          "title": "'Glad to see it': Super Bowl champion Bruce Arians rips out-of-control NFL refs after two suspensions",
+          "link": "https://www.foxnews.com/outkick-sports/glad-see-super-bowl-champion-bruce-arians-rips-out-of-control-nfl-refs-after-two-suspensions"
         },
         {
-          "title": "Mike Waltz fights back tears revealing what Hamas hostage refused to do before release",
-          "link": "https://www.foxnews.com/world/mike-waltz-fights-back-tears-revealing-what-hamas-hostage-refused-do-before-release"
+          "title": "Iowa city council meeting erupts after former member opens meeting with satanic prayer and 'Hail Satan'",
+          "link": "https://www.foxnews.com/media/iowa-city-council-meeting-erupts-after-former-member-opens-meeting-satanic-prayer-hail-satan"
         },
         {
-          "title": "The best defense against high-tech AI scams is low-tech skepticism, expert warns",
-          "link": "https://www.foxnews.com/tech/best-defense-against-high-tech-ai-scams-low-tech-skepticism-expert-warns"
+          "title": "Cleveland Guardians stay alive in ALDS, deny White Sox clinch at home",
+          "link": "https://www.foxnews.com/outkick-sports/cleveland-guardians-stay-alive-alds-deny-white-sox-clinch-home"
         },
         {
-          "title": "Amy Klobuchar calls for major anti-terrorism investments after alleged Mall of America plot",
-          "link": "https://www.foxnews.com/politics/amy-klobuchar-calls-major-anti-terrorism-investments-alleged-mall-america-plot"
+          "title": "Critical House race that could decide control of Congress hits home stretch as GOP rep warns what's at stake",
+          "link": "https://www.foxnews.com/politics/critical-house-race-decide-control-congress-hits-home-stretch-gop-rep-warns-whats-stake"
         },
         {
-          "title": "California education candidate tells college professors to teach students basic math, rejects SAT requirement",
-          "link": "https://www.foxnews.com/media/california-education-candidate-tells-professors-teach-college-students-basic-math-thats-your-job"
+          "title": "Don't wait — this Barefoot Dreams blanket is still 53% off for Amazon Prime Big Deal Days",
+          "link": "https://www.foxnews.com/deals/barefoot-dreams-throw-blanket-amazon-deal"
         },
         {
-          "title": "Comedy stars lash out at Sebastian Maniscalco over SiriusXM shake-up",
-          "link": "https://www.foxnews.com/entertainment/comedy-stars-lash-sebastian-maniscalco-siriusxm-shake-up"
+          "title": "Driver opens fire on strangers along major US interstate, tells cops he ‘had to kill people today’",
+          "link": "https://www.foxnews.com/us/driver-opens-fire-strangers-major-us-interstate-tells-cops-had-kill-people-today"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T20:16:49.231Z"
+      "updatedAt": "2026-10-08T00:31:48.387Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,36 +59,48 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T20:16:49.449Z"
+      "updatedAt": "2026-10-08T00:31:48.620Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Trump to propose relaxing methane rules for oil and gas industry",
-          "link": "https://thehill.com/policy/energy-environment/6134812-trump-epa-methane-oil-and-gas-industry/"
+          "title": "Live updates: Trump rallies in San Antonio; Iowa, Pennsylvania in debate spotlight",
+          "link": "https://thehill.com/homenews/administration/6133060-live-updates-candidates-trump-texas-midterm-debates/"
         },
         {
-          "title": "Attorneys describe Christa Pike's emotional reaction after waking up",
-          "link": "https://thehill.com/homenews/state-watch/6134658-christa-pike-tennessee-botched-execution-pneumonia-attorney-update/"
+          "title": "USS Abraham Lincoln's controversial deployment comes to an end",
+          "link": "https://thehill.com/newsletters/defense-national-security/6135344-uss-abraham-lincoln-controversial-deployment-ends/"
         },
         {
-          "title": "Trump brushes question off about handing out cash before election",
-          "link": "https://thehill.com/homenews/administration/6134758-trump-midterm-dividend-tariffs/"
+          "title": "Drugmakers challenge Trump admin pilot program",
+          "link": "https://thehill.com/newsletters/healthcare/6135281-drugmakers-challenge-trump-admin-pilot-program/"
         },
         {
-          "title": "HBCU students sue Missouri for $549M, citing underfunding",
-          "link": "https://thehill.com/homenews/education/6134754-hbcu-lincoln-university-of-missouri/"
+          "title": "Don Lemon says there's ‘65, 70' percent chance he runs for president",
+          "link": "https://thehill.com/homenews/media/6135244-don-lemon-considers-presidency/"
         },
         {
-          "title": "FBI foils alleged terrorist attack at Minneapolis's Mall of America",
-          "link": "https://thehill.com/homenews/administration/6134330-fbi-thwarts-terrorist-attack-minneapolis-mall-of-america/"
+          "title": "Tillis criticizes Trump advisers for work with Russia-aligned Bosnia group",
+          "link": "https://thehill.com/homenews/senate/6135213-tillis-condemns-trump-consultants/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T20:16:49.961Z"
+      "updatedAt": "2026-10-08T00:31:49.409Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
+          "link": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/"
+        },
+        {
+          "title": "PA measles outbreak tops 1,000 cases, largest since disease was eliminated",
+          "link": "https://arstechnica.com/health/2026/10/pa-measles-outbreak-tops-1000-cases-largest-since-disease-was-eliminated/"
+        },
+        {
+          "title": "TP-Link problems in US grow amid FCC router ban and four state lawsuits",
+          "link": "https://arstechnica.com/tech-policy/2026/10/florida-sues-tp-link-claiming-it-hides-router-security-risks-and-links-to-china/"
+        },
         {
           "title": "Chemistry Nobel goes to reactions like those that gave life a hand",
           "link": "https://arstechnica.com/science/2026/10/chemistry-nobel-goes-to-reactions-like-those-that-gave-life-a-hand/"
@@ -96,58 +108,54 @@
         {
           "title": "Pediatricians renew call to ban raw milk as anti-science rhetoric reigns",
           "link": "https://arstechnica.com/health/2026/10/pediatricians-renew-call-to-ban-raw-milk-as-anti-science-rhetoric-reigns/"
-        },
-        {
-          "title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
-          "link": "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/"
-        },
-        {
-          "title": "Jaguar Type 01 debuts; now, no one remembers the electric Ferrari",
-          "link": "https://arstechnica.com/cars/2026/10/jaguar-makes-its-controversial-all-ev-return-with-the-type-01/"
-        },
-        {
-          "title": "Trade group crunches numbers on Trump’s impossible push for 100% US-made tech",
-          "link": "https://arstechnica.com/tech-policy/2026/10/trade-group-crunches-numbers-on-trumps-impossible-push-for-100-us-made-tech/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T20:16:50.103Z"
+      "updatedAt": "2026-10-08T00:31:49.490Z"
     },
     "The Verge": {
       "items": [
         {
+          "title": "BMW’s iX4 SUV is a 428-mile defensive weapon against China’s EV takeover",
+          "link": "https://www.theverge.com/transportation/1006837/bmw-ix4-ev-range-price-specs-tesla-china"
+        },
+        {
+          "title": "Teenage Engineering’s CEO says it’ll stop making synths",
+          "link": "https://www.theverge.com/gadgets/1007489/teengage-engineering-stop-making-synths"
+        },
+        {
+          "title": "Android&#8217;s physical navigation buttons are back on Googlebooks, but not the way you think",
+          "link": "https://www.theverge.com/tech/1007409/androids-physical-navigation-buttons-are-back-on-googlebooks-but-not-the-way-you-think"
+        },
+        {
+          "title": "We found some great October Prime Day deals under $50",
+          "link": "https://www.theverge.com/gadgets/1007110/october-prime-day-budget-deals-under-50"
+        },
+        {
           "title": "Roku’s OLED TVs are up to $400 off during Prime Day, starting at $700",
           "link": "https://www.theverge.com/gadgets/1007149/roku-oled-tv-pro-prime-day-deal-sale"
-        },
-        {
-          "title": "ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6"
-        },
-        {
-          "title": "The first Nvidia RTX Spark laptops cost up to $7,000",
-          "link": "https://www.theverge.com/gadgets/1007040/nvidias-powerful-rtx-spark-laptops-can-cost-up-to-7000"
-        },
-        {
-          "title": "It appears .agent and .agi are about to be the hot new domains",
-          "link": "https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi"
-        },
-        {
-          "title": "Everything announced at Microsoft&#8217;s Surface Laptop Ultra event",
-          "link": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T20:16:50.149Z"
+      "updatedAt": "2026-10-08T00:31:49.657Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "France halts use of stun grenades after boy's hand blown off in student protests",
-          "link": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss"
+          "title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
+          "link": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
+          "link": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Israelis demand accountability over 7 October failures three years after attacks",
           "link": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "France halts use of stun grenades after boy's hand blown off in student protests",
+          "link": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Canada suspends plans to expand assisted dying to people with mental illness",
@@ -160,48 +168,40 @@
         {
           "title": "Children killed while they slept as Russian missile kills 19 in block of flats",
           "link": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Sri Lanka's ex-first lady arrested over alleged misuse of children's hospital donations",
-          "link": "https://www.bbc.co.uk/news/articles/ck0e0n3xzvp4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
-          "link": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T20:16:50.281Z"
+      "updatedAt": "2026-10-08T00:31:49.817Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Badenoch says Tories would scrap inheritance tax on family homes",
-          "link": "https://www.bbc.co.uk/news/articles/cmn5vw05l0q3o?at_medium=RSS&at_campaign=rss"
+          "title": "Christa Pike 'angry and confused' after failed execution, lawyers say",
+          "link": "https://www.bbc.co.uk/news/articles/c617kdle01k9o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Chris Mason: Tories united behind Badenoch - but party still needs to win over voters",
-          "link": "https://www.bbc.co.uk/news/articles/cm1j3rj2r72xo?at_medium=RSS&at_campaign=rss"
+          "title": "Watch: What we know about Christa Pike's ‘shock’ recovery in hospital",
+          "link": "https://www.bbc.co.uk/news/videos/cw99zxxx891yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Badenoch says Tories would scrap inheritance tax on family homes",
+          "link": "https://www.bbc.co.uk/news/articles/cmn5vw05l0q3o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
           "link": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Boots sold in £7bn deal to Canadian billionaire family",
-          "link": "https://www.bbc.co.uk/news/articles/cwly0jyk2vl5o?at_medium=RSS&at_campaign=rss"
+          "title": "Burnham to hold security talks with German chancellor in Berlin",
+          "link": "https://www.bbc.co.uk/news/articles/cmwyq34qexdzo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Man charged with 13 attempted murders including British child after Alps attack",
-          "link": "https://www.bbc.co.uk/news/articles/c8g47zll517zo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Children killed while they slept as Russian missile kills 19 in block of flats",
-          "link": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss"
+          "title": "We spent thousands on a Tui river cruise but ended up on coach trips",
+          "link": "https://www.bbc.co.uk/news/articles/cq62j2lzlnm8o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T20:16:50.504Z"
+      "updatedAt": "2026-10-08T00:31:49.859Z"
     },
     "NY Times": {
       "items": [
@@ -214,23 +214,27 @@
           "link": "https://www.nytimes.com/2026/10/07/world/europe/rubio-greece-defense-immigration.html"
         },
         {
-          "title": "Texas Plans Execution After Botched Lethal Injection in Tennessee",
-          "link": "https://www.nytimes.com/2026/10/07/us/texas-execution-lethal-injection.html"
+          "title": "Mamdani Draws Anger With Oct. 7 Statement Denouncing Israel’s Gaza Attacks",
+          "link": "https://www.nytimes.com/2026/10/07/nyregion/oct-7-anniversary-israel-nyc-mamdani.html"
         },
         {
-          "title": "Jonathan the Giant Tortoise Is 194 Years Old. He Just Had His Genome Sequenced.",
-          "link": "https://www.nytimes.com/2026/10/07/science/jonathan-giant-tortoise-genome-aging.html"
+          "title": "Ukraine Claws Back Land",
+          "link": "https://www.nytimes.com/2026/10/07/briefing/ukraine-claws-back-land.html"
         },
         {
-          "title": "Russia Says It Found No ‘Emergency’ in Plague Lab",
-          "link": "https://www.nytimes.com/2026/10/07/world/europe/russia-plague-us-trump-state-department.html"
+          "title": "Christa Pike, Confused After Failed Tennessee Execution, Is at Center of Legal Storm",
+          "link": "https://www.nytimes.com/2026/10/07/us/christa-pike-tennessee-legal.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T20:16:50.530Z"
+      "updatedAt": "2026-10-08T00:31:50.004Z"
     },
     "ARTNews": {
       "items": [
+        {
+          "title": "As Europe Enters Art Fair Season, London is Looking Fresh and Paris Continues to Shine",
+          "link": "https://www.artnews.com/art-news/market/frieze-london-art-basel-paris-preview-market-temperature-1234801579/"
+        },
         {
           "title": "Greek Prime Minister to “Ramp Up” Efforts Related to Parthenon Marbles Return",
           "link": "https://www.artnews.com/art-news/news/greek-prime-minister-ramps-up-parthenon-marbles-return-1234801397/"
@@ -250,17 +254,17 @@
         {
           "title": "Whitney Museum and Gap Unveil New Roy Lichtenstein Clothing Collaboration",
           "link": "https://www.artnews.com/art-news/news/roy-lichtenstein-clothing-collaboration-gap-whitney-museum-1234801411/"
-        },
-        {
-          "title": "The Most Expensive Works by Roy Lichtenstein to Sell at Auction",
-          "link": "https://www.artnews.com/list/art-news/artists/the-most-expensive-works-by-roy-lichtenstein-to-sell-at-auction-1234600540/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T20:16:50.852Z"
+      "updatedAt": "2026-10-08T00:31:50.187Z"
     },
     "Hyperallergic": {
       "items": [
+        {
+          "title": "Las Vegas Teen Killed in Arts District Shooting",
+          "link": "https://hyperallergic.com/las-vegas-teen-killed-in-arts-district-shooting/"
+        },
         {
           "title": "European Parliament Installs Gilded Nude Statue Mocking Trump",
           "link": "https://hyperallergic.com/european-parliament-installs-gilded-nude-statue-mocking-trump/"
@@ -280,14 +284,10 @@
         {
           "title": "The Hellhounds of Genocide",
           "link": "https://hyperallergic.com/the-hellhounds-of-genocide/"
-        },
-        {
-          "title": "The Museum Director as Gardener",
-          "link": "https://hyperallergic.com/the-museum-director-as-gardener/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T20:16:50.967Z"
+      "updatedAt": "2026-10-08T00:31:50.383Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,10 +317,14 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T20:16:51.310Z"
+      "updatedAt": "2026-10-08T00:31:50.855Z"
     },
     "Booooooom": {
       "items": [
+        {
+          "title": "Artist Spotlight: Hannah Motzel Brown",
+          "link": "https://www.booooooom.com/2026/10/07/artist-spotlight-hannah-motzel-brown/"
+        },
         {
           "title": "“Bang-Up Job” by Photographer Jason Travis",
           "link": "https://www.booooooom.com/2026/10/05/bang-up-job-by-photographer-jason-travis/"
@@ -340,14 +344,10 @@
         {
           "title": "“Photopsia” by Photographer Owen Mar",
           "link": "https://www.booooooom.com/2026/09/29/photopsia-by-photographer-owen-mar/"
-        },
-        {
-          "title": "“Big Cherry” by Photographer Ksenia Mikhailova",
-          "link": "https://www.booooooom.com/2026/09/28/big-cherry-by-photographer-ksenia-mikhailova/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T20:16:51.385Z"
+      "updatedAt": "2026-10-08T00:31:51.039Z"
     }
   }
 }
