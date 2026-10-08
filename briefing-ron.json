@@ -1,124 +1,136 @@
 {
-  "fetchedAt": "2026-10-08T08:43:59.674Z",
+  "fetchedAt": "2026-10-08T16:18:54.730Z",
   "feeds": {
     "MarketWatch": {
       "items": [
+        {
+          "title": "America’s renters are emerging as a political movement",
+          "link": "https://www.marketwatch.com/story/locked-out-of-home-ownership-renters-are-rallying-voters-for-affordable-housing-policies-bf946d70?mod=mw_rss_topstories"
+        },
         {
           "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
           "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories"
         },
         {
-          "title": "‘He grew up wealthy’: My husband inherited $3 million. He wants a vacation home. I want to save for retirement. Who’s right?",
+          "title": "The good, the bad and the ugly of rising interest rates",
+          "link": "https://www.marketwatch.com/story/the-good-the-bad-and-the-ugly-of-rising-interest-rates-ee465a81?mod=mw_rss_topstories"
+        },
+        {
+          "title": "This chart shows the No. 1 reason why the cost of raising kids jumped 60% in eight years",
+          "link": "https://www.marketwatch.com/story/this-chart-shows-the-no-1-reason-why-the-cost-of-raising-kids-jumped-60-in-eight-years-175a2309?mod=mw_rss_topstories"
+        },
+        {
+          "title": "The Treasury market is facing a crucial vote of investor confidence",
+          "link": "https://www.marketwatch.com/story/the-treasury-market-is-facing-a-crucial-vote-of-investor-confidence-31fa8d41?mod=mw_rss_topstories"
+        },
+        {
+          "title": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who’s right?",
           "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Rising yields are quietly crashing the stock market’s earlier winners of 2026",
-          "link": "https://www.marketwatch.com/story/rising-yields-are-quietly-crashing-the-stock-markets-earlier-winners-of-2026-a29f2863?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Higher yields are taking their toll on all areas of the stock market, except the one that matters",
-          "link": "https://www.marketwatch.com/story/higher-yields-are-taking-their-toll-on-all-areas-of-the-stock-market-except-the-one-that-matters-69a90322?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Options traders are betting on a dramatic drop in interest rates",
-          "link": "https://www.marketwatch.com/story/options-traders-are-betting-on-a-dramatic-drop-in-interest-rates-141066fb?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Fed’s minutes show no appetite for a series of interest-rate hikes",
-          "link": "https://www.marketwatch.com/story/fed-minutes-show-no-appetite-for-a-series-of-interest-rate-hikes-8b1c6436?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T08:43:58.470Z"
+      "updatedAt": "2026-10-08T16:18:52.349Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Former corrections officer accused of killing wife, forcing kids to help",
-          "link": "https://www.foxnews.com/us/former-corrections-officer-accused-killing-wife-forcing-kids-help"
+          "title": "White Sox pitching depth faces real test as Guardians try to push playoff series to five games",
+          "link": "https://www.foxnews.com/outkick-betting/white-sox-pitching-depth-faces-real-test-guardians-try-push-playoff-series-five-games"
         },
         {
-          "title": "San Diego Padres season ends in disaster after offense completely collapses against Milwaukee Brewers",
-          "link": "https://www.foxnews.com/outkick-sports/san-diego-padres-season-ends-disaster-offense-completely-collapses-milwaukee-brewers"
+          "title": "Michigan police probe possible serial killer after 5 men suffer fatal injuries along popular trail",
+          "link": "https://www.foxnews.com/us/michigan-police-probe-possible-serial-killer-5-men-fatal-injuries-popular-trail"
         },
         {
-          "title": "Anti-Israel protesters label Mamdani a 'traitor,' accuse him of 'genocide' outside Oct 7 vigil",
-          "link": "https://www.foxnews.com/politics/anti-israel-protesters-label-mamdani-traitor-accuse-genocide-outside-oct-7-vigil"
+          "title": "Missing 72-year-old hiker found alive days after frightening 100-foot fall left her badly injured",
+          "link": "https://www.foxnews.com/travel/missing-72-year-old-hiker-found-alive-days-after-100-foot-fall-left-her-badly-injured"
         },
         {
-          "title": "Texas executes Jamaal Howard despite concerns over lethal injection drug used in failed Tennessee execution",
-          "link": "https://www.foxnews.com/us/texas-executes-jamaal-howard-despite-concerns-over-lethal-injection-drug-used-failed-tennessee-execution"
+          "title": "Armed man shot dead after attempted attack inside Nashville federal courthouse, police say",
+          "link": "https://www.foxnews.com/us/armed-man-shot-dead-attempted-attack-inside-nashville-federal-courthouse-police-say"
         },
         {
-          "title": "Rays sweep Yankees in ALDS after controversial spectator interference denies Anthony Volpe's homer",
-          "link": "https://www.foxnews.com/outkick-sports/rays-sweep-yankees-alds-controversial-spectator-interference-denies-anthony-volpe-homer"
+          "title": "Yankees legends Derek Jeter, Alex Rodriguez deliver blunt post-mortem on team: 'Something has to change'",
+          "link": "https://www.foxnews.com/outkick-sports/yankees-legends-derek-jeter-alex-rodriguez-deliver-blunt-post-mortem-team-something-has-to-change"
         },
         {
-          "title": "Dream move within one win of first WNBA Finals appearance since 2013 after overtime victory",
-          "link": "https://www.foxnews.com/outkick-sports/dream-move-within-one-win-first-wnba-finals-appearance-since-2013-after-overtime-victory"
+          "title": "Where top Democrat Senate candidates and their GOP opponents stand on trans athletes in women's sports",
+          "link": "https://www.foxnews.com/outkick-sports/top-democrat-senate-candidates-gop-opponents-stand-trans-athletes-womens-sports"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T08:43:58.608Z"
+      "updatedAt": "2026-10-08T16:18:52.614Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "GOP Money Advantage Has Yet To Move Polls",
-          "link": "https://www.realclearpolitics.com/2026/10/07/gop_money_advantage_has_yet_to_move_polls_713492.html"
+          "title": "We Choose the Unapologetic Pursuit of National Power",
+          "link": "https://www.realclearpolitics.com/video/2026/10/07/rubio_urges_defense_of_western_civilization_at_acropolis_we_choose_the_unapologetic_pursuit_of_national_power.html"
         },
         {
-          "title": "How Big a Midterm Win for the Democrats?",
-          "link": "https://www.realclearpolitics.com/2026/10/07/how_big_a_midterm_win_for_the_democrats_713383.html"
+          "title": "Trump Is Making Biden-Like Mistakes",
+          "link": "https://www.realclearpolitics.com/2026/10/08/trump_is_making_biden-like_mistakes_713517.html"
         },
         {
-          "title": "El-Sayed Is Certain He'll Win. Some Dems Aren't So Sure",
-          "link": "https://www.realclearpolitics.com/2026/10/07/el-sayed_is_certain_hersquoll_win_some_dems_arent_so_sure_713394.html"
+          "title": "Much Less Crime Since U.S. Border Mess Fixed",
+          "link": "https://www.realclearpolitics.com/2026/10/08/much_less_crime_since_us_border_mess_fixed_713502.html"
         },
         {
-          "title": "Mr. President, Don't Wait for Election Day",
-          "link": "https://www.realclearpolitics.com/2026/10/07/mr_president_dont_wait_for_election_day_713475.html"
+          "title": "The Political Economy of Diesel",
+          "link": "https://www.realclearpolitics.com/2026/10/08/the_political_economy_of_diesel_713510.html"
         },
         {
-          "title": "How Mexico Is Proving Mainstream Economics Wrong",
-          "link": "https://www.realclearpolitics.com/2026/10/07/how_mexico_is_proving_mainstream_economics_wrong_713281.html"
+          "title": "The Chilling Implications of Jack Smith's Goons",
+          "link": "https://www.realclearpolitics.com/2026/10/08/the_chilling_implications_of_jack_smiths_goons_713472.html"
         },
         {
-          "title": "October 7 Sadly Taught Jews That We Stand Alone",
-          "link": "https://www.realclearpolitics.com/2026/10/07/october_7_sadly_taught_jews_that_we_stand_alone_713387.html"
+          "title": "Washington Needs the Tax-Reform Spirit of '86",
+          "link": "https://www.realclearpolitics.com/2026/10/08/washington_needs_the_tax-reform_spirit_of_86_713381.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T08:43:58.740Z"
+      "updatedAt": "2026-10-08T16:18:52.923Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Former MLB pitcher Roger Clemens to receive Medal of Freedom, Trump says",
-          "link": "https://thehill.com/homenews/6135542-roger-clemens-medal-of-freedom-trump/"
+          "title": "Trump administration accuses Maduro of torture in latest indictment",
+          "link": "https://thehill.com/regulation/court-battles/6136564-maduro-wife-accused-repression/"
         },
         {
-          "title": "Trump reups beef with 'ungrateful' Cuellar for staying Democrat after pardon",
-          "link": "https://thehill.com/homenews/administration/6135540-trump-cuellar-pardon-tijerina-texas-midterms/"
+          "title": "Vance says 9 universities will be investigated over foreign visas",
+          "link": "https://thehill.com/homenews/education/6136433-vance-foreign-student-visas-j-1/"
         },
         {
-          "title": "Shapiro, Garrity clash on data centers, measles response in Pennsylvania governor debate: 4 takeaways",
-          "link": "https://thehill.com/homenews/campaign/6135511-shapiro-garrity-debate-takeaways/"
+          "title": "A check is not a plan for improving the FAA",
+          "link": "https://thehill.com/opinion/technology/6135669-faa-modernization-funding-critique/"
         },
         {
-          "title": "FDA: Mifepristone review won't be done until March",
-          "link": "https://thehill.com/policy/healthcare/6135515-fda-mifepristone-abortion-pill-review-delay/"
+          "title": "Live updates: Vance lays out work visa penalties for Microsoft, Adobe; Trump media ban returns to court",
+          "link": "https://thehill.com/homenews/administration/6135113-live-updates-trump-midterm-elections-debates-tech-iran/"
         },
         {
-          "title": "Turek, Hinson spar in first Iowa Senate debate: 3 takeaways",
-          "link": "https://thehill.com/homenews/campaign/6135522-turek-hinson-spar-in-first-iowa-senate-debate-3-takeaways/"
+          "title": "NFL urges Supreme Court to take up prediction market dispute",
+          "link": "https://thehill.com/policy/technology/6136384-nfl-urges-supreme-court-prediction-markets/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T08:43:59.006Z"
+      "updatedAt": "2026-10-08T16:18:53.454Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "Internal files add to evidence of an ExxonMobil climate deception campaign",
+          "link": "https://arstechnica.com/tech-policy/2026/10/exxonmobils-own-scientists-doubted-climate-fixes-the-company-hyped/"
+        },
+        {
+          "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
+          "link": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/"
+        },
+        {
+          "title": "A senator tried to ban gambling on prediction markets—now she's a Kalshi lobbyist",
+          "link": "https://arstechnica.com/tech-policy/2026/10/a-senator-tried-to-ban-gambling-on-prediction-markets-now-shes-a-kalshi-lobbyist/"
+        },
         {
           "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
           "link": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/"
@@ -126,174 +138,162 @@
         {
           "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
           "link": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/"
-        },
-        {
-          "title": "PA measles outbreak tops 1,000 cases, largest since disease was eliminated",
-          "link": "https://arstechnica.com/health/2026/10/pa-measles-outbreak-tops-1000-cases-largest-since-disease-was-eliminated/"
-        },
-        {
-          "title": "TP-Link problems in US grow amid FCC router ban and four state lawsuits",
-          "link": "https://arstechnica.com/tech-policy/2026/10/florida-sues-tp-link-claiming-it-hides-router-security-risks-and-links-to-china/"
-        },
-        {
-          "title": "Chemistry Nobel goes to reactions like those that gave life a hand",
-          "link": "https://arstechnica.com/science/2026/10/chemistry-nobel-goes-to-reactions-like-those-that-gave-life-a-hand/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T08:43:59.085Z"
+      "updatedAt": "2026-10-08T16:18:53.562Z"
     },
     "The Verge": {
       "items": [
         {
-          "title": "BMW’s iX4 SUV is a 428-mile defensive weapon against China’s EV takeover",
-          "link": "https://www.theverge.com/transportation/1006837/bmw-ix4-ev-range-price-specs-tesla-china"
+          "title": "Google’s AI note-taking app transcribes your meetings completely offline",
+          "link": "https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline"
         },
         {
-          "title": "Teenage Engineering’s CEO says it’ll stop making synths",
-          "link": "https://www.theverge.com/gadgets/1007489/teengage-engineering-stop-making-synths"
+          "title": "GTA VI will have in-game podcasts and at least six radio stations",
+          "link": "https://www.theverge.com/games/1007965/gta-6-music-radio-stations-podcasts"
         },
         {
-          "title": "Android&#8217;s physical navigation buttons are back on Googlebooks, but not the way you think",
-          "link": "https://www.theverge.com/tech/1007409/androids-physical-navigation-buttons-are-back-on-googlebooks-but-not-the-way-you-think"
+          "title": "The Retro Song Bird plays just the music from your favorite Game Boy cartridges",
+          "link": "https://www.theverge.com/tech/1007926/retro-song-bird-nintendo-game-boy-cartridge-music-player"
         },
         {
-          "title": "We found some great October Prime Day deals under $50",
-          "link": "https://www.theverge.com/gadgets/1007110/october-prime-day-budget-deals-under-50"
+          "title": "75 great October Prime Day deals are still happening",
+          "link": "https://www.theverge.com/gadgets/1007804/october-prime-day-leftover-deals"
         },
         {
-          "title": "Roku’s OLED TVs are up to $400 off during Prime Day, starting at $700",
-          "link": "https://www.theverge.com/gadgets/1007149/roku-oled-tv-pro-prime-day-deal-sale"
+          "title": "Google is launching a one-stop Gemini agent for your work tasks",
+          "link": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T08:43:59.163Z"
+      "updatedAt": "2026-10-08T16:18:53.686Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
-          "link": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss"
+          "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+          "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
-          "link": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Christa Pike now walking after US execution went wrong, lawyer tells BBC",
+          "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
           "link": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Spanish pensioner whose eviction sparked nationwide protests dies",
-          "link": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss"
+          "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
+          "link": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Texas carries out first US execution since Christa Pike's botched lethal injections",
-          "link": "https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&at_campaign=rss"
+          "title": "Residents airlifted to safety after flooding in central Chile",
+          "link": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90",
-          "link": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss"
+          "title": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
+          "link": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "New York court hears arguments in ongoing 9/11 families' lawsuit against Saudi Arabia",
-          "link": "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&at_campaign=rss"
+          "title": "US deportations to African countries unlawful and exploit suffering, rights group says",
+          "link": "https://www.bbc.co.uk/news/articles/c9p8gn55433jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Teacher who sexually abused pupil back in Indonesia jail after BBC investigation",
+          "link": "https://www.bbc.co.uk/news/articles/ckgel9r341gdo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T08:43:59.392Z"
+      "updatedAt": "2026-10-08T16:18:53.755Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Royal Navy service member charged with spying for a foreign power",
+          "title": "Warrants used to search Andrew Mountbatten-Windsor's homes were unlawful, court says",
+          "link": "https://www.bbc.co.uk/news/articles/cr1exlvpzylvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Two Latvian men arrested on suspicion of trespass at RAF base in Cambridgeshire",
+          "link": "https://www.bbc.co.uk/news/articles/c6ly0vzew9e8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Three sisters who drowned in sea off Brighton took own lives, inquest finds",
+          "link": "https://www.bbc.co.uk/news/articles/c689zxd8w87lo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Royal Navy sailor in court accused of preparing to spy for Russia",
           "link": "https://www.bbc.co.uk/news/articles/cw203n6emde8o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
-          "link": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss"
+          "title": "Asos hackers took more personal details than first revealed, BBC finds",
+          "link": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "'Come all the way' back to EU, French finance minister tells UK",
-          "link": "https://www.bbc.co.uk/news/articles/cqdjvg3xww2go?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Christa Pike now walking after US execution went wrong, lawyer tells BBC",
-          "link": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Burnham to meet German chancellor in Berlin to discuss security and EU ties",
-          "link": "https://www.bbc.co.uk/news/articles/cmwyq34qexdzo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Premier League football shirts made by workers on £1 an hour",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cx2lggyz2wgo?at_medium=RSS&at_campaign=rss"
+          "title": "Death of 12-year-old girl prompts call for allergy management ratings",
+          "link": "https://www.bbc.co.uk/news/articles/c674p508lk78o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T08:43:59.405Z"
+      "updatedAt": "2026-10-08T16:18:54.315Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "From Iran to the U.K., Trump Is Being Forced Into Retreat",
-          "link": "https://www.nytimes.com/2026/10/07/us/politics/trump-iran-retreat.html"
+          "title": "How Trump Has Alienated Republican Voters Ahead of the Midterms",
+          "link": "https://www.nytimes.com/2026/10/08/us/elections/trump-voter-enthusiasm-midterms.html"
         },
         {
-          "title": "Rubio Urges Europe to Awaken From ‘Slumber’ and Uphold Western Dominance",
-          "link": "https://www.nytimes.com/2026/10/07/world/europe/rubio-greece-defense-immigration.html"
+          "title": "At Texas Rally, Trump and Paxton Make for an Awkward Pair",
+          "link": "https://www.nytimes.com/2026/10/07/us/elections/in-texas-trump-and-paxton-make-for-an-awkward-pair.html"
         },
         {
-          "title": "For Mamdani, Oct. 7 Anniversary Sets Off Anger and Bitterness",
-          "link": "https://www.nytimes.com/2026/10/08/nyregion/mamdani-oct-7-anniversary-nyc-israel.html"
+          "title": "In Maine Senate Race, Spiking Heating Oil Costs Put Susan Collins on Defensive",
+          "link": "https://www.nytimes.com/2026/10/08/us/maine-senate-collins-jackson-oil.html"
         },
         {
-          "title": "For France’s Resurgent Far Left, Student Protests Are an Opening and a Threat",
-          "link": "https://www.nytimes.com/2026/10/08/world/europe/france-protests-far-left-melenchon.html"
+          "title": "Escalating Assaults on Ukrainian Cities Are Producing an Enormous Toll",
+          "link": "https://www.nytimes.com/2026/10/08/world/europe/russia-ukraine-war-attack-bus.html"
         },
         {
-          "title": "France Braces for a Second Day of Mass Protests in a Week",
-          "link": "https://www.nytimes.com/2026/10/08/world/europe/france-protests-unrest-students.html"
+          "title": "‘Absolute Nightmare’: Inside the Russian Warehouses Bombarded by Ukraine",
+          "link": "https://www.nytimes.com/2026/10/08/world/europe/russia-wildberries-ozon-warehouse-ukraine-attacks.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T08:43:59.560Z"
+      "updatedAt": "2026-10-08T16:18:54.454Z"
     }
   },
   "indices": {
     "data": [
       {
         "name": "S&P 500",
-        "price": 7801.77,
-        "pct": 1.9633956040222031
+        "price": 7787.15,
+        "pct": 1.5743923197829481
       },
       {
         "name": "Dow Jones",
-        "price": 51179.87,
-        "pct": 0.5378928437779
+        "price": 51104.75,
+        "pct": 0.3498960071129924
       },
       {
         "name": "Nasdaq",
-        "price": 27538.691,
-        "pct": 2.522726206635172
+        "price": 27424.094,
+        "pct": 2.0560517423599727
       },
       {
         "name": "Gold",
-        "price": 4150.5,
-        "pct": -0.15155889145496973
+        "price": 4133.1,
+        "pct": -0.5701501154734367
       },
       {
         "name": "Bitcoin",
-        "price": 82816.31,
-        "pct": -4.236797037198233
+        "price": 81369.34,
+        "pct": -5.9099756875279255
       },
       {
         "name": "SpaceX",
-        "price": 167.6,
-        "pct": 11.096380750364562
+        "price": 163.205,
+        "pct": 10.22151685013846
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-08T08:43:59.674Z"
+    "updatedAt": "2026-10-08T16:18:54.730Z"
   }
 }
