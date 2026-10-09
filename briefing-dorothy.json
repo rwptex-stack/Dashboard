@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-10-09T19:12:54.196Z",
+  "fetchedAt": "2026-10-09T23:39:13.085Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Fugitive Ryan Hanafin, wanted after mother found dead in kitchen, waives extradition",
-          "link": "https://www.foxnews.com/us/fugitive-ryan-hanafin-wanted-mother-found-dead-kitchen-waives-extradition"
+          "title": "Hollywood feeling more hopeful amid a push for film tax credits and Paramount staying put, filmmaker says",
+          "link": "https://www.foxnews.com/media/hollywood-feeling-more-hopeful-amid-push-film-tax-credits-paramount-staying-put-filmmaker-says"
         },
         {
-          "title": "Women's college basketball player released from ICE custody, details conditions: 'Just me and myself'",
-          "link": "https://www.foxnews.com/outkick-sports/womens-college-basketball-player-released-ice-custody-details-conditions-just-me-myself"
+          "title": "Texas legend has sky-high hopes for Longhorns ahead of Red River Rivalry game vs Oklahoma",
+          "link": "https://www.foxnews.com/outkick-sports/texas-legend-sky-high-hopes-longhorns-red-river-rivalry-game-oklahoma"
         },
         {
-          "title": "Massive 7.6 magnitude earthquake strikes Panama as officials investigate potential tsunami threat",
-          "link": "https://www.foxnews.com/world/massive-7-6-magnitude-earthquake-strikes-panama-officials-investigate-potential-tsunami-threat"
+          "title": "At least one person isn't concerned about Cam Skattebo getting injured, and his name is Cam Skattebo",
+          "link": "https://www.foxnews.com/outkick-sports/least-one-person-isnt-concerned-cam-skattebo-getting-injured-his-name-cam-skattebo"
         },
         {
-          "title": "Katie Zacharia offered role as White House Press Secretary",
-          "link": "https://www.foxnews.com/politics/katie-zacharia-offered-role-white-house-press-secretary"
+          "title": "Daniel Lurie argues progressivism led San Francisco astray on public safety, drug crisis",
+          "link": "https://www.foxnews.com/media/daniel-lurie-argues-progressivism-led-san-francisco-astray-public-safety-drug-crisis"
         },
         {
-          "title": "OutKick's Craig Carton calls WNBA MVP A'ja Wilson's acceptance speech comments a \"bold-faced lie\"",
-          "link": "https://www.foxnews.com/outkick-sports/outkick-craig-carton-calls-wnba-mvp-aja-wilson-acceptance-speech-comments-bold-faced-lie"
+          "title": "Country singer Ella Langley cancels concert over 'serious security threat' to fans, crew",
+          "link": "https://www.foxnews.com/entertainment/country-singer-ella-langley-cancels-concert-serious-security-threat-fans-crew"
         },
         {
-          "title": "Furious suburban millionaires say luxury helicopters are ruining their peace",
-          "link": "https://www.foxnews.com/travel/furious-suburban-millionaires-say-luxury-helicopters-ruining-peace"
+          "title": "Tyreek Hill changes divorce battery trial testimony, claiming he didn't push wife but was verbally abusive",
+          "link": "https://www.foxnews.com/outkick-sports/tyreek-hill-changes-divorce-battery-trial-testimony-claiming-didnt-push-wife-verbally-abusive"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T19:12:51.241Z"
+      "updatedAt": "2026-10-09T23:39:11.639Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,62 +59,74 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T19:12:51.620Z"
+      "updatedAt": "2026-10-09T23:39:11.817Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Who is Katie Zacharia, potential new White House press secretary?",
-          "link": "https://thehill.com/homenews/administration/5743349-who-is-katie-zacharia-new-dhs-spokesperson/"
+          "title": "UAE says Flydubai suspect intended to crash plane into Tel Aviv airport",
+          "link": "https://thehill.com/policy/international/6140027-flydubai-co-pilot-ben-gurion-airport/"
         },
         {
-          "title": "Vance on Hegseth plan for livestreamed execution: 'I'm not going to be watching it'",
-          "link": "https://thehill.com/homenews/administration/6139442-vance-rejects-hasan-execution-livestream/"
+          "title": "Watch live: Trump takes midterm campaign push to deep-blue New York",
+          "link": "https://thehill.com/video-clips/6139465-watch-live-donald-trump-syracuse-new-york-rally-2026-midterms/"
         },
         {
-          "title": "Katie Zacharia offered White House press secretary post",
-          "link": "https://thehill.com/homenews/media/6139415-trump-katie-zacharia-white-house-press-secretary/"
+          "title": "Trump says Russia will export diesel, lifts sanctions",
+          "link": "https://thehill.com/newsletters/energy-environment/6140010-trump-says-russia-will-export-diesel-lifts-sanctions/"
         },
         {
-          "title": "Cities ask Supreme Court to block Texas-DOJ deal invalidating immigration rule",
-          "link": "https://thehill.com/regulation/court-battles/6139406-supreme-court-immigration-policy-texas-doj/"
+          "title": "Trump sends mixed signals on livestreaming Hasan execution",
+          "link": "https://thehill.com/homenews/administration/6139979-trump-mixed-hasan-execution-livestream/"
         },
         {
-          "title": "Vance on Guilfoyle texts: If 'something bad' happened, 'people have to suffer consequences'",
-          "link": "https://thehill.com/homenews/administration/6139328-jd-vance-kimberly-guilfoyle-text-messages-response/"
+          "title": "Trump offers first remarks on Guilfoyle controversy",
+          "link": "https://thehill.com/homenews/administration/6139973-trump-guilfoyle-debt-controversy/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T19:12:52.046Z"
+      "updatedAt": "2026-10-09T23:39:12.076Z"
     },
     "Ars Technica": {
       "items": [
         {
-          "title": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
-          "link": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/"
+          "title": "Neanderthal wooden tools from Spain found preserved in stone",
+          "link": "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/"
         },
         {
-          "title": "AI disqualification yields new Nikon Small World in Motion winner",
-          "link": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/"
+          "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+          "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/"
         },
         {
-          "title": "Your artwork could be featured in the next Debian release",
-          "link": "https://arstechnica.com/gadgets/2026/10/your-artwork-could-be-featured-in-the-next-debian-release/"
+          "title": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
+          "link": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/"
         },
         {
-          "title": "Starlink spectrum deal boosts Musk plan to beat AT&T, T-Mobile, and Verizon",
-          "link": "https://arstechnica.com/tech-policy/2026/10/starlink-spectrum-deal-boosts-musk-plan-to-beat-att-t-mobile-and-verizon/"
+          "title": "NASA issues long-awaited call to industry for private space stations",
+          "link": "https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations/"
         },
         {
-          "title": "Microsoft barred from sponsoring foreign workers for US residency",
-          "link": "https://arstechnica.com/tech-policy/2026/10/trump-administration-targets-microsoft-in-new-immigration-crackdown/"
+          "title": "What's been driving Hawaii's lava fountains?",
+          "link": "https://arstechnica.com/science/2026/10/whats-been-driving-hawaiis-lava-fountains/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T19:12:52.177Z"
+      "updatedAt": "2026-10-09T23:39:12.137Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "Decade-old RAM is making a comeback",
+          "link": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback"
+        },
+        {
+          "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip"
+        },
+        {
+          "title": "Ohio blogger found guilty of harassment for sending Shrek nude to senator",
+          "link": "https://www.theverge.com/policy/1008991/ohio-blogger-harassment-shrek-nude"
+        },
         {
           "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos"
@@ -122,115 +134,111 @@
         {
           "title": "Brendan Carr says he&#8217;ll let Pete Hegseth decide whether TV networks can air the public execution",
           "link": "https://www.theverge.com/policy/1008950/fcc-brendan-carr-pete-hegseth-execution-tv-networks-air"
-        },
-        {
-          "title": "Nikon microscopic video competition winner disqualified for using generative AI",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai"
-        },
-        {
-          "title": "Google teases Fitbit Edge launch next week",
-          "link": "https://www.theverge.com/tech/1008918/google-fitbit-edge-launch-next-week"
-        },
-        {
-          "title": "The Samsung Galaxy S26 Ultra is down to $950 after Prime Day",
-          "link": "https://www.theverge.com/gadgets/1008857/samsung-galaxy-s26-ultra-deal-sale"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T19:12:52.318Z"
+      "updatedAt": "2026-10-09T23:39:12.288Z"
     },
     "BBC World": {
       "items": [
+        {
+          "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+          "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
           "link": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
-          "link": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
           "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
+          "link": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
           "link": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Thieves steal 30,000 bottles of wine worth €5m in Italy, reports say",
-          "link": "https://www.bbc.co.uk/news/articles/cme3xl8ln2vko?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "Man named Hitler Mussolini elected mayor in Peru",
           "link": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Ethiopia warns Eritrea it will defend itself after troops cross border",
-          "link": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss"
+          "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
+          "link": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T19:12:52.433Z"
+      "updatedAt": "2026-10-09T23:39:12.510Z"
     },
     "BBC News": {
       "items": [
+        {
+          "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+          "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+          "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "NI secretary to ban the Drumcree parade",
+          "link": "https://www.bbc.co.uk/news/articles/cw23dn0xven7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Screams, haunting scenes and deadly hide-and-seek, as Celebrity Traitors heats up",
+          "link": "https://www.bbc.co.uk/news/articles/cwr5y3m59027o?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
           "link": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Polanski vows to stay on as Green leader as he faces criticism after by-election defeat",
-          "link": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "King pays Andrew's £1.5m repair bill on Royal Lodge",
-          "link": "https://www.bbc.co.uk/news/articles/c8040nl9q24do?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
           "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Widdecombe suspect had 'particular hostility to Reform', court told",
-          "link": "https://www.bbc.co.uk/news/articles/cmkgknz19z7po?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Lib Dem MP quits frontbench job over Ed Davey's leadership",
-          "link": "https://www.bbc.co.uk/news/articles/cw4g13j4mdxjo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T19:12:52.628Z"
+      "updatedAt": "2026-10-09T23:39:12.597Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "How Trump’s Revenge Campaign Descended Into Turmoil",
-          "link": "https://www.nytimes.com/2026/10/09/us/politics/trump-grand-conspiracy.html"
+          "title": "Private Medicare Plans Are Raising Costs And Forcing Millions To Find New Insurance",
+          "link": "https://www.nytimes.com/2026/10/09/business/medicare-private-health-care-costs.html"
         },
         {
-          "title": "Trump Announces White House Inquiry Into Fed Governor Lisa Cook",
-          "link": "https://www.nytimes.com/2026/10/09/business/trump-lisa-cook-fed.html"
+          "title": "Paxton Said in Deposition That Donor Gave Him Stocks to Please God",
+          "link": "https://www.nytimes.com/2026/10/09/us/ken-paxton-deposition-investments.html"
         },
         {
-          "title": "Trump Administration Hits International Criminal Court With Severe Sanctions",
-          "link": "https://www.nytimes.com/2026/10/09/us/politics/trump-international-criminal-court-sanctions.html"
+          "title": "Hurricane Isaias Nears Landfall",
+          "link": "https://www.nytimes.com/2026/10/09/briefing/isaias-nobel-ice.html"
         },
         {
-          "title": "Kansas Senate Race Is a Surprising New Midterm Fight",
-          "link": "https://www.nytimes.com/2026/10/09/us/politics/kansas-senate-race-adam-hamilton-roger-marshall.html"
+          "title": "For Trump, a Firing Squad on Livestream Becomes the Latest Spectacle",
+          "link": "https://www.nytimes.com/2026/10/09/us/politics/trump-firing-squad-spectacle.html"
         },
         {
-          "title": "Navi Pillay, South African Jurist, Is Awarded the Nobel Peace Prize",
-          "link": "https://www.nytimes.com/2026/10/09/world/europe/nobel-peace-prize-navi-pillay.html"
+          "title": "Some G.O.P. Lawmakers Pan Hegseth’s Plan to Stream Execution of Fort Hood Shooter",
+          "link": "https://www.nytimes.com/2026/10/09/us/politics/democrats-republicans-hegseth-execution.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T19:12:52.730Z"
+      "updatedAt": "2026-10-09T23:39:12.632Z"
     },
     "ARTNews": {
       "items": [
+        {
+          "title": "Arlington County Board Files Lawsuit to Stop Construction of Trump’s Triumphal Arch",
+          "link": "https://www.artnews.com/art-news/news/arlington-county-board-files-lawsuit-trump-triumphal-arch-1234801896/"
+        },
+        {
+          "title": "Two Renoir Paintings Worth $10.5 M. Recovered After Theft",
+          "link": "https://www.artnews.com/art-news/news/two-renoir-paintings-worth-millions-recovered-after-theft-1234801903/"
+        },
         {
           "title": "A Winston Churchill Painting Gifted to His Daughter Lands at Christie’s",
           "link": "https://www.artnews.com/art-news/news/winston-churchill-painting-auction-at-christies-1234801856/"
@@ -246,21 +254,25 @@
         {
           "title": "With an $18 M. Price Tag, 24-Karat ‘Fancy Intense Pink’ Diamond Ring Heads to Auction at Christie’s Geneva",
           "link": "https://www.artnews.com/art-news/market/christies-pink-diamond-geneva-1234801852/"
-        },
-        {
-          "title": "Julianne Moore’s West Village Home Features Work by Louise Bourgeois, Nan Goldin, and David Armstrong",
-          "link": "https://www.artnews.com/art-news/news/julianne-moore-art-collector-louise-bourgeois-nan-goldin-1234801838/"
-        },
-        {
-          "title": "Belinda Tate Departs Indianapolis Museum of Art, Glasgow’s Arts Community Fights to Save CCA and Others, and More: Morning Links for October 9, 2026",
-          "link": "https://www.artnews.com/art-news/news/morning-links-october-9-2026-1234801847/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T19:12:52.922Z"
+      "updatedAt": "2026-10-09T23:39:12.737Z"
     },
     "Hyperallergic": {
       "items": [
+        {
+          "title": "Raven Chacon Sounds the History of the Land",
+          "link": "https://hyperallergic.com/raven-chacon-sounds-the-history-of-the-land/"
+        },
+        {
+          "title": "Truman Lowe Listens to the Water",
+          "link": "https://hyperallergic.com/truman-lowe-listens-to-the-water/"
+        },
+        {
+          "title": "7 New York Exhibitions That Embody Indigenous Survivance",
+          "link": "https://hyperallergic.com/7-new-york-exhibitions-that-embody-indigenous-survivance/"
+        },
         {
           "title": "Gochman Collection of Indigenous Art to Open Katonah Space in November",
           "link": "https://hyperallergic.com/gochman-collection-of-indigenous-art-to-open-katonah-space-in-november/"
@@ -272,22 +284,10 @@
         {
           "title": "A Felix Gonzalez-Torres Exhibition Forgets What He Was Fighting For",
           "link": "https://hyperallergic.com/a-felix-gonzalez-torres-exhibition-forgets-what-he-was-fighting-for/"
-        },
-        {
-          "title": "Over $100,000 in Prizes and New Public Art Opportunities at 2027 ArtFields Festival",
-          "link": "https://hyperallergic.com/over-100-000-in-prizes-and-new-public-art-opportunities-at-2027-artfields-festival/"
-        },
-        {
-          "title": "France’s Student Protests in Photos",
-          "link": "https://hyperallergic.com/frances-student-protests-in-photos/"
-        },
-        {
-          "title": "Mary Deleary Named Director of IAIA Museum of Contemporary Native Arts",
-          "link": "https://hyperallergic.com/mary-deleary-named-director-of-iaia-museum-of-contemporary-native-arts/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T19:12:53.283Z"
+      "updatedAt": "2026-10-09T23:39:12.872Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,10 +317,14 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T19:12:54.083Z"
+      "updatedAt": "2026-10-09T23:39:13.019Z"
     },
     "Booooooom": {
       "items": [
+        {
+          "title": "“Everything Is Beautiful Today” by Photographer David Blakeman",
+          "link": "https://www.booooooom.com/2026/10/09/everything-is-beautiful-today-by-photographer-david-blakeman/"
+        },
         {
           "title": "“Borrowed History” by Artist Tang Shuo",
           "link": "https://www.booooooom.com/2026/10/08/borrowed-history-by-artist-tang-shuo/"
@@ -340,14 +344,10 @@
         {
           "title": "2026 Booooooom Illustration Awards: Call to Submit",
           "link": "https://www.booooooom.com/2026/10/01/2026-booooooom-illustration-awards-call-to-submit/"
-        },
-        {
-          "title": "Artist Spotlight: Ella Webber",
-          "link": "https://www.booooooom.com/2026/09/30/artist-spotlight-ella-webber/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T19:12:54.196Z"
+      "updatedAt": "2026-10-09T23:39:13.085Z"
     }
   }
 }
