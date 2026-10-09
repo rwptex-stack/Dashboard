@@ -1,8 +1,12 @@
 {
-  "fetchedAt": "2026-10-09T01:58:30.553Z",
+  "fetchedAt": "2026-10-09T08:53:22.608Z",
   "feeds": {
     "MarketWatch": {
       "items": [
+        {
+          "title": "Why one Wall Street firm sees parallels to the late 1970s and recommends shorting U.S. stocks",
+          "link": "https://www.marketwatch.com/story/why-one-wall-street-firm-sees-parallels-to-the-late-1970s-and-recommends-shorting-u-s-stocks-bbd0ebd2?mod=mw_rss_topstories"
+        },
         {
           "title": "SpaceX’s Starlink Mobile plans are pressuring AT&T and Verizon shares",
           "link": "https://www.marketwatch.com/story/spacexs-starlink-mobile-plans-are-pressuring-at-t-and-verizon-shares-7cb56764?mod=mw_rss_topstories"
@@ -22,100 +26,96 @@
         {
           "title": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who’s right?",
           "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Why a longtime skeptic of Palantir’s stock is finally saying it’s time to buy",
-          "link": "https://www.marketwatch.com/story/why-a-longtime-skeptic-of-palantirs-stock-is-finally-saying-its-time-to-buy-60cdeede?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T01:58:29.204Z"
+      "updatedAt": "2026-10-09T08:53:21.542Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "2 foreign nationals breach UK base housing key US, NATO intel hub amid $556M expansion",
-          "link": "https://www.foxnews.com/world/foreign-nationals-breach-us-nato-intel-hub-uk-military-base-556m-expansion"
+          "title": "Mamdani demands Trump release illegal immigrant shot by ICE agent as protests erupt in the Bronx",
+          "link": "https://www.foxnews.com/us/mamdani-demands-trump-release-illegal-immigrant-shot-ice-agent-protests-erupt-bronx"
         },
         {
-          "title": "Federal grand jury hears evidence in probe of former Trump aide Cassidy Hutchinson's Jan 6 testimony: source",
-          "link": "https://www.foxnews.com/politics/federal-grand-jury-hears-evidence-probe-former-trump-aide-cassidy-hutchinson-jan-6-testimony"
+          "title": "Guardians force decisive ALDS Game 5 as White Sox miss chance to reach first ALCS since 2005",
+          "link": "https://www.foxnews.com/outkick-sports/guardians-force-decisive-alds-game-5-white-sox-miss-chance-reach-first-alcs-since-2005"
         },
         {
-          "title": "Luka Dončić says he 'definitely' regrets playing through hamstring injury that ended his season",
-          "link": "https://www.foxnews.com/outkick-sports/luka-doncic-definitely-regrets-playing-through-hamstring-injury-ended-season"
+          "title": "Brian Schottenheimer now sits on hottest seat in NFL after Cowboys collapse against Buccaneers",
+          "link": "https://www.foxnews.com/outkick-sports/brian-schottenheimer-hottest-seat-nfl-cowboys-collapse-buccaneers"
         },
         {
-          "title": "Michigan Senate debate erupts into personal attacks as Rogers, El-Sayed clash over Israel, Iran and more",
-          "link": "https://www.foxnews.com/politics/michigan-senate-debate-erupts-personal-attacks-rogers-el-sayed-clash-over-israel-iran-more"
+          "title": "A'ja Wilson wins record fifth MVP as first three-peat in WNBA history strengthens all-time greatness case",
+          "link": "https://www.foxnews.com/outkick-sports/aja-wilson-wins-record-fifth-wnba-mvp-first-three-peat-wnba-history-strengthens-all-time-greatness-case"
         },
         {
-          "title": "Missouri football's Johnnie 'DJ' Jones recovering after successful heart transplant, coach says",
-          "link": "https://www.foxnews.com/outkick-sports/missouri-football-johnnie-dj-jones-recovering-successful-heart-transplant-coach-says"
+          "title": "Tony Romo got disqualified from his Korn Ferry qualifier the same day he 'parted ways' with CBS Sports",
+          "link": "https://www.foxnews.com/outkick-sports/tony-romo-disqualified-korn-ferry-qualifier-parted-ways-cbs-sports"
         },
         {
-          "title": "Arizona man arrested after allegedly emailing White House bomb threat to Tucson news station",
-          "link": "https://www.foxnews.com/us/arizona-man-arrested-allegedly-emailing-white-house-bomb-threat-tucson-news-station"
+          "title": "Rumbling volcano forces immediate trail closures at popular vacation hot spot",
+          "link": "https://www.foxnews.com/travel/rumbling-volcano-forces-immediate-trail-closures-popular-vacation-hot-spot"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T01:58:29.264Z"
+      "updatedAt": "2026-10-09T08:53:21.620Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "Rubio Digs Into Past To Tout 'America First' Approach",
-          "link": "https://www.realclearpolitics.com/2026/10/08/rubio_digs_into_past_to_tout_america_first_approach_713600.html"
+          "title": "No More Free Defense for Ungrateful Allies",
+          "link": "https://www.realclearpolitics.com/2026/10/08/no_more_free_defense_for_ungrateful_allies_713602.html"
         },
         {
-          "title": "Our Political Labels Are Out of Date",
-          "link": "https://www.realclearpolitics.com/2026/10/07/our_political_labels_are_out_of_date_713477.html"
+          "title": "Trump's Vote-Buying Checks Are in the Mail",
+          "link": "https://www.realclearpolitics.com/2026/10/08/trumps_vote-buying_checks_are_in_the_mail_713598.html"
         },
         {
-          "title": "Mamdani's Surprisingly Persuasive Solution for U.S.",
-          "link": "https://www.realclearpolitics.com/2026/10/08/mamdanis_surprisingly_persuasive_solution_for_us_713508.html"
+          "title": "Vance Heralds New Fraud Crackdowns",
+          "link": "https://www.realclearpolitics.com/articles/2026/10/09/vance_heralds_new_fraud_crackdowns_154576.html"
         },
         {
-          "title": "Alleged Somali Gang Activity Ruins Homecoming in MN",
-          "link": "https://www.realclearpolitics.com/2026/10/08/alleged_somali_gang_activity_ruins_homecoming_in_mn_713503.html"
+          "title": "The Belated Execution of Major Hasan",
+          "link": "https://www.realclearpolitics.com/2026/10/08/the_belated_execution_of_major_hasan_713583.html"
         },
         {
-          "title": "Justice Alito Doth Protest Too Much",
-          "link": "https://www.realclearpolitics.com/2026/10/08/justice_alito_doth_protest_too_much_713599.html"
+          "title": "How Democrats Could Rein In Energy Costs",
+          "link": "https://www.realclearpolitics.com/2026/10/08/how_democrats_could_rein_in_energy_costs_713293.html"
         },
         {
-          "title": "Lying Media Ahead of the Midterms? Check",
-          "link": "https://www.realclearpolitics.com/2026/10/07/lying_media_ahead_of_the_midterms_check_713468.html"
+          "title": "Bob Cordaro on Prison Life, the Midterms and More",
+          "link": "https://www.realclearpolitics.com/2026/10/06/bob_cordaro_on_prison_life_the_midterms_and_more_713362.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T01:58:29.553Z"
+      "updatedAt": "2026-10-09T08:53:21.870Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Man shot by ICE in New York City",
-          "link": "https://thehill.com/homenews/administration/6137882-ice-agent-shoots-nyc-man/"
+          "title": "Arlington County sues to block Trump arch after project gets key approval",
+          "link": "https://thehill.com/regulation/court-battles/6138098-arlington-county-trump-arch-lawsuit/"
         },
         {
-          "title": "Live updates: El-Sayed, Rogers clash at Michigan Senate debate",
-          "link": "https://thehill.com/homenews/administration/6135113-live-updates-trump-midterm-elections-debates-tech-iran/"
+          "title": "Second Maine Senate debate takes testy turn: 3 takeaways",
+          "link": "https://thehill.com/homenews/campaign/6138012-second-maine-senate-debate-collins-jackson-takeaways/"
         },
         {
-          "title": "Huckabee aide suppressed US Embassy reports critical of Israeli government: Report",
-          "link": "https://thehill.com/homenews/administration/6137880-huckabee-aide-blocked-israel-memo-report/"
+          "title": "Michigan Senate debate goes off the rails: 4 takeaways",
+          "link": "https://thehill.com/homenews/campaign/6137958-michigan-senate-debate-el-sayed-rogers-takeaways/"
         },
         {
-          "title": "OpenAI users in Russia, Iran used models to push political agenda online, in media",
-          "link": "https://thehill.com/policy/technology/6137774-openai-bans-iran-russia-influence-operations/"
+          "title": "Trump says Minnesotans should 'fight back' against Somali immigrants",
+          "link": "https://thehill.com/homenews/administration/6138039-trump-somali-immigrants-minnesota/"
         },
         {
-          "title": "Trump exempts NPRA oil exploration from NEPA",
-          "link": "https://thehill.com/newsletters/energy-environment/6137775-trump-exempts-npra-oil-exploration-from-nepa/"
+          "title": "Fiery Georgia Senate debate gets personal: 4 takeaways",
+          "link": "https://thehill.com/homenews/campaign/6138009-georgia-senate-debate-ossoff-collins-takeaways/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T01:58:30.191Z"
+      "updatedAt": "2026-10-09T08:53:22.096Z"
     },
     "Ars Technica": {
       "items": [
@@ -141,10 +141,14 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T01:58:30.260Z"
+      "updatedAt": "2026-10-09T08:53:22.236Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "Microsoft 365 Family subscribers will finally be able to share AI benefits",
+          "link": "https://www.theverge.com/news/1008581/microsoft-365-family-premium-shared-ai-features-storage-changes"
+        },
         {
           "title": "US plans livestream of execution by firing squad",
           "link": "https://www.theverge.com/tech/1008530/us-government-livestream-execution-firing-squad-fort-hood"
@@ -160,92 +164,80 @@
         {
           "title": "AMD will bring FSR 4 to handhelds by the end of 2026",
           "link": "https://www.theverge.com/games/1008353/amd-will-bring-fsr-4-to-handhelds-by-the-end-of-2026"
-        },
-        {
-          "title": "Apple will reportedly debut its first touchscreen MacBook in three weeks",
-          "link": "https://www.theverge.com/tech/1008422/apple-macbook-pro-touchscreen-ipad-mini-rumor"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T01:58:30.311Z"
+      "updatedAt": "2026-10-09T08:53:22.264Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Suspect linked to Monaco bomb attack on millionaire breaks silence to BBC",
+          "title": "Firing squad execution to be livestreamed, Pentagon says",
+          "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC",
           "link": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
-          "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss"
+          "title": "ICE agent shoots man in New York City",
+          "link": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
           "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
-          "link": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Adidas sues Australian label White Fox over four stripes design",
-          "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
           "link": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
-          "link": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss"
+          "title": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
+          "link": "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Russian strikes and approaching winter force many in Kyiv to pack bags and flee",
+          "link": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T01:58:30.354Z"
+      "updatedAt": "2026-10-09T08:53:22.300Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Polanski failed to show leadership over Zionism motion, ex-Green leader says",
+          "title": "I would not have voted for Zionism motion, Polanski says",
           "link": "https://www.bbc.co.uk/news/articles/cm2d6x11l6pko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "ADHD and autism at risk of over-diagnosis, says government review",
-          "link": "https://www.bbc.co.uk/news/articles/crkg7n1ypj24o?at_medium=RSS&at_campaign=rss"
+          "title": "Chris Mason: Questions remain for Green Party leader Zack Polanski",
+          "link": "https://www.bbc.co.uk/news/videos/cxly4jy042eno?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Warrants used to search Andrew Mountbatten-Windsor's homes were unlawful, court says",
-          "link": "https://www.bbc.co.uk/news/articles/cr1exlvpzylvo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Suspect linked to Monaco bomb attack on millionaire breaks silence to BBC",
-          "link": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+          "title": "Firing squad execution to be livestreamed, Pentagon says",
           "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Emotions run high at the round table as Celebrity Traitors banish two players",
           "link": "https://www.bbc.co.uk/news/articles/cm9dzl7wx2qyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "£15m spent cleaning illegal waste supersite in ancient woodland",
+          "link": "https://www.bbc.co.uk/news/articles/cq98zdp612pko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Russian strikes and approaching winter force many in Kyiv to pack bags and flee",
+          "link": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T01:58:30.378Z"
+      "updatedAt": "2026-10-09T08:53:22.305Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "ICE Agent Shoot and Wound Man in New York City",
-          "link": "https://www.nytimes.com/2026/10/08/nyregion/ice-shooting-nyc-bronx.html"
-        },
-        {
-          "title": "Trump Administration Considers Using Ships to Deport Immigrants",
-          "link": "https://www.nytimes.com/2026/10/08/us/trump-deportations-boats-ships.html"
-        },
-        {
-          "title": "Trump Administration Suspends Microsoft From Green Card Program, Alleging Visa Fraud",
-          "link": "https://www.nytimes.com/2026/10/08/us/politics/microsoft-visas-green-cards.html"
+          "title": "Fiery Senate Debates in Maine, Michigan and Georgia: Five Takeaways",
+          "link": "https://www.nytimes.com/2026/10/09/us/fiery-senate-debates-in-maine-michigan-and-georgia-five-takeaways.html"
         },
         {
           "title": "Trump Says U.S. Will Not Strike Iran Again Before Midterms as Military Draws Up New Plans",
@@ -254,10 +246,18 @@
         {
           "title": "U.S.S. Abraham Lincoln Returns Home After Long and Grueling Deployment",
           "link": "https://www.nytimes.com/2026/10/08/us/politics/uss-abraham-lincoln-san-diego.html"
+        },
+        {
+          "title": "ICE Agent Shoots Man During Arrest Attempt in New York Neighborhood",
+          "link": "https://www.nytimes.com/2026/10/08/nyregion/ice-shooting-nyc-bronx.html"
+        },
+        {
+          "title": "Fort Hood Shooter’s Execution Will Be Public and Streamed Live, Pentagon Says",
+          "link": "https://www.nytimes.com/2026/10/08/us/politics/fort-hood-execution-streamed-public.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T01:58:30.419Z"
+      "updatedAt": "2026-10-09T08:53:22.466Z"
     }
   },
   "indices": {
@@ -279,8 +279,13 @@
       },
       {
         "name": "Gold",
-        "price": 4198.3,
-        "pct": 0.9983641262509623
+        "price": 4215.3,
+        "pct": 1.4073325635103926
+      },
+      {
+        "name": "Bitcoin",
+        "price": 82558.2,
+        "pct": -3.7632804847470913
       },
       {
         "name": "SpaceX",
@@ -289,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-09T01:58:30.553Z"
+    "updatedAt": "2026-10-09T08:53:22.608Z"
   }
 }
