@@ -1,210 +1,222 @@
 {
-  "fetchedAt": "2026-10-09T16:02:47.177Z",
+  "fetchedAt": "2026-10-09T21:32:40.791Z",
   "feeds": {
     "MarketWatch": {
       "items": [
+        {
+          "title": "Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders.",
+          "link": "https://www.marketwatch.com/story/is-iphone-18-demand-cooling-off-heres-how-deep-apple-reportedly-is-cutting-component-orders-a44244ee?mod=mw_rss_topstories"
+        },
+        {
+          "title": "AI chip stocks wobble even as investors get clarity on a key OpenAI issue",
+          "link": "https://www.marketwatch.com/story/nvidia-and-micron-shares-bounce-as-investors-get-clarity-on-a-key-openai-matter-ba76ed20?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Microsoft is nearing a big milestone that solidifies its revival",
+          "link": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories"
+        },
         {
           "title": "‘I feel like a loser’: I check my ETFs every day. They’re up one minute, down the next. Should I be worried?",
           "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories"
         },
         {
+          "title": "As AT&T, Verizon and T-Mobile shares fall, Wall Street assesses the growing SpaceX threat",
+          "link": "https://www.marketwatch.com/story/as-at-t-verizon-and-t-mobile-shares-fall-wall-street-assesses-the-growing-spacex-threat-e869ef9e?mod=mw_rss_topstories"
+        },
+        {
           "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
           "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Here’s how much stocks could fall if the Democrats sweep Congress, according to BofA",
-          "link": "https://www.marketwatch.com/story/heres-how-much-stocks-could-fall-if-the-democrats-sweep-congress-as-expected-according-to-bofa-d1ed23f8?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Mortgage rates are soaring. In America, the smart money rents.",
-          "link": "https://www.marketwatch.com/story/with-mortgage-rates-soaring-above-7-5-the-smart-money-rents-in-america-ef0eb5aa?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Millions of Americans will have fewer options during Medicare open enrollment this year",
-          "link": "https://www.marketwatch.com/story/millions-of-americans-will-have-fewer-options-during-medicare-open-enrollment-this-year-6b56698b?mod=mw_rss_topstories"
-        },
-        {
-          "title": "GLP-1 drugs could ease back and knee pain, but doctors say there are risks for older adults",
-          "link": "https://www.marketwatch.com/story/glp-1s-could-offer-unexpected-relief-from-back-and-knee-pain-but-doctors-urge-caution-b0de1609?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T16:02:45.290Z"
+      "updatedAt": "2026-10-09T21:32:39.705Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Radical anti-Trump language riddles California voter guide on high-stakes ballot measure",
-          "link": "https://www.foxnews.com/politics/radical-anti-trump-language-riddles-california-voter-guide-high-stakes-ballot-measure"
+          "title": "Buccaneers coach Todd Bowles suffers health scare after taking helmet to the stomach during celebration",
+          "link": "https://www.foxnews.com/outkick-sports/buccaneers-coach-todd-bowles-suffers-health-scare-helmet-stomach-celebration"
         },
         {
-          "title": "‘Pretty Little Liars’ actor pistol-whipped in Southern California robbery, shares bloody aftermath video",
-          "link": "https://www.foxnews.com/entertainment/pretty-little-liars-actor-pistol-whipped-southern-california-robbery-shares-bloody-aftermath-video"
+          "title": "Texas think tank accuses Houston parent coalition of using 'socialist' tactics to push radical agenda",
+          "link": "https://www.foxnews.com/us/texas-think-tank-accuses-houston-parent-coalition-using-socialist-tactics-push-radical-agenda"
         },
         {
-          "title": "The internet outrage over Josh Pate's power rating system proves people haven't been paying attention",
-          "link": "https://www.foxnews.com/outkick-sports/internet-outrage-josh-pate-power-rating-system-proves-people-havent-paying-attention"
+          "title": "Attorney for alleged victim of trans athlete sexual assault says SCOTUS fight can help set Title IX precedent",
+          "link": "https://www.foxnews.com/outkick-sports/attorney-alleged-victim-trans-athlete-sexual-assault-scotus-fight-help-set-title-ix-precedent"
         },
         {
-          "title": "Attorney for former Cornell fraternity member wants AG James off case over post supporting accuser",
-          "link": "https://www.foxnews.com/us/attorney-former-cornell-fraternity-member-wants-ag-james-off-case-post-supporting-accuser"
+          "title": "Michael Douglas says Kirk Douglas gave him $10,000 at 21 and told him he was on his own",
+          "link": "https://www.foxnews.com/entertainment/michael-douglas-kirk-douglas-gave-10000-21-told-own"
         },
         {
-          "title": "Actor Sebastian Stan asks when did 'conservative' become 'wrong' while defending film against critics",
-          "link": "https://www.foxnews.com/media/actor-sebastian-stan-asks-when-did-conservative-become-wrong-while-defending-film-against-critics"
+          "title": "'SNL' writer's missing sister case leads homicide detectives to Joshua Tree months after family's murder claim",
+          "link": "https://www.foxnews.com/us/snl-writers-missing-sister-case-leads-homicide-detectives-joshua-tree-months-after-familys-murder-claim"
         },
         {
-          "title": "'Thrill killer' and desert executioner — meet the dozens of criminals Dem AG backed for parole: 'No brainer'",
-          "link": "https://www.foxnews.com/politics/thrill-killer-desert-executioner-dozens-criminals-dem-ag-backed-parole-no-brainer"
+          "title": "Costco slashes price of popular holiday treat after shoppers balked at last year's hike",
+          "link": "https://www.foxnews.com/food-drink/costco-slashes-price-popular-holiday-treat-after-shoppers-balked-last-years-hike"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T16:02:45.510Z"
+      "updatedAt": "2026-10-09T21:32:39.784Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "Rogers, El-Sayed Swing Hard and Fast in First MI Debate",
-          "link": "https://www.realclearpolitics.com/2026/10/09/rogers_el-sayed_swing_hard_and_fast_in_first_mi_debate_713615.html"
+          "title": "Undoing the Architecture of 'Woke' in U.S. and Europe",
+          "link": "https://www.realclearpolitics.com/2026/10/09/undoing_the_architecture_of_woke_in_us_and_europe_713705.html"
         },
         {
-          "title": "In GOP Midterm Calculation, Avoiding the Unthinkable",
-          "link": "https://www.realclearpolitics.com/2026/10/09/in_gop_midterm_calculation_avoiding_the_unthinkable_713621.html"
+          "title": "Trump Tries To Rewrite History on Obama, Biden, Clinton",
+          "link": "https://www.realclearpolitics.com/2026/10/09/trump_tries_to_rewrite_history_on_obama_biden_clinton_713628.html"
         },
         {
-          "title": "Democrats Have a 'Once in a Generation' Opportunity",
-          "link": "https://www.realclearpolitics.com/2026/10/09/democrats_have_a_once_in_a_generation_opportunity_713670.html"
+          "title": "We Should Never Go Back to Dems' Lawfare Escapades",
+          "link": "https://www.realclearpolitics.com/2026/10/09/we_should_never_go_back_to_dems_lawfare_escapades_713708.html"
         },
         {
-          "title": "Are Democrats Really Interested in Lowering Our Bills?",
-          "link": "https://www.realclearpolitics.com/2026/10/09/are_democrats_really_interested_in_lowering_our_bills_713625.html"
+          "title": "Dems Might Have a Shot in This Unlikely District",
+          "link": "https://www.realclearpolitics.com/2026/10/09/dems_might_have_a_shot_in_this_unlikely_district_713618.html"
         },
         {
-          "title": "Trump's Vote-Buying Checks Are in the Mail",
-          "link": "https://www.realclearpolitics.com/2026/10/09/trumps_vote-buying_checks_are_in_the_mail_713598.html"
+          "title": "What Are Polls Telling Us Less Than a Month Out?",
+          "link": "https://www.realclearpolitics.com/articles/2026/10/09/what_are_polls_telling_us_less_than_a_month_out_154574.html"
         },
         {
-          "title": "Vance Heralds New Fraud Crackdowns",
-          "link": "https://www.realclearpolitics.com/articles/2026/10/09/vance_heralds_new_fraud_crackdowns_154576.html"
+          "title": "Britain Would Be Richer If We Were More Innovative",
+          "link": "https://www.realclearpolitics.com/2026/10/09/britain_would_be_richer_if_we_were_more_innovative_713658.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T16:02:45.795Z"
+      "updatedAt": "2026-10-09T21:32:40.017Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Leading Catholic bishop urges Pentagon against livestreaming execution",
-          "link": "https://thehill.com/policy/defense/6138951-leading-catholic-bishop-urges-pentagon-against-livestreaming-execution/"
+          "title": "French NBA star Wembanyama expresses support for student protests",
+          "link": "https://thehill.com/homenews/education/6139777-victor-wembanyama-french-student-protests/"
         },
         {
-          "title": "We must bring back Ukrainian children, detained civilians and prisoners of war",
-          "link": "https://thehill.com/opinion/international/6136984-return-deported-children-detainees/"
+          "title": "Mike Tyson predicts 'Trump will win' midterms",
+          "link": "https://thehill.com/policy/sports-gaming/6139732-mike-tyson-white-house-trump/"
         },
         {
-          "title": "Nobel winner Navi Pillay gives sarcastic nod to Trump in initial remarks",
-          "link": "https://thehill.com/policy/international/6138816-nobel-winner-navi-pillay-donald-trump-comments/"
+          "title": "International Criminal Court 'firmly rejects' new US sanctions",
+          "link": "https://thehill.com/policy/international/6139686-trump-administration-icc-sanctions-akane-rejects/"
         },
         {
-          "title": "Student loan forgiveness could hike tax bill for borrowers, study finds",
-          "link": "https://thehill.com/homenews/education/6138842-student-loan-forgiveness-idr-debt-relief-tax-bill/"
+          "title": "Jackson holds slight lead over Collins in Maine Senate race survey",
+          "link": "https://thehill.com/homenews/campaign/6139683-jackson-leads-collins-poll/"
         },
         {
-          "title": "Trump establishes 'committee of inquiry' for Federal Reserve member Lisa Cook",
-          "link": "https://thehill.com/homenews/administration/6138879-trump-cook-mortgage-investigation/"
+          "title": "Trump confirms he will no longer attend Alabama-Georgia game amid Hurricane Isaias",
+          "link": "https://thehill.com/homenews/administration/6139679-trump-cancels-tuscaloosa-trip/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T16:02:46.565Z"
+      "updatedAt": "2026-10-09T21:32:40.473Z"
     },
     "Ars Technica": {
       "items": [
         {
-          "title": "Microsoft barred from sponsoring foreign workers for US residency",
-          "link": "https://arstechnica.com/tech-policy/2026/10/trump-administration-targets-microsoft-in-new-immigration-crackdown/"
+          "title": "AI coding agents generate more code, but not more software",
+          "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/"
         },
         {
-          "title": "Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?",
-          "link": "https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine/"
+          "title": "Outrage grows as CDC reportedly poised to fund \"unethical\" vaccine trial",
+          "link": "https://arstechnica.com/health/2026/10/rfk-jr-still-eager-to-fund-vaccine-trial-that-would-expose-babies-to-deadly-virus/"
         },
         {
-          "title": "Volkswagen's replacement for the ID.4 crossover is here",
-          "link": "https://arstechnica.com/cars/2026/10/volkswagens-replacement-for-the-id-4-crossover-is-here/"
+          "title": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
+          "link": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/"
         },
         {
-          "title": "SpaceX calls for better coordination in orbit after near-misses with Starlink",
-          "link": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/"
+          "title": "AI disqualification yields new Nikon Small World in Motion winner",
+          "link": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/"
         },
         {
-          "title": "Judge weighs if Trump can charge $100K for early access to Truth Social posts",
-          "link": "https://arstechnica.com/tech-policy/2026/10/judge-weighs-if-trump-can-charge-100k-for-early-access-to-truth-social-posts/"
+          "title": "Your artwork could be featured in the next Debian release",
+          "link": "https://arstechnica.com/gadgets/2026/10/your-artwork-could-be-featured-in-the-next-debian-release/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T16:02:46.679Z"
+      "updatedAt": "2026-10-09T21:32:40.536Z"
     },
     "The Verge": {
       "items": [
         {
-          "title": "YouTube, Meta, and Twitch won&#8217;t say if they&#8217;ll allow the US government to livestream an execution",
-          "link": "https://www.theverge.com/streaming/1008722/youtube-meta-twitch-government-execution-livestream"
+          "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip"
         },
         {
-          "title": "The AI is in the computer",
-          "link": "https://www.theverge.com/podcast/1008707/amazon-alexa-tablet-googlebooks-apple-vergecast"
+          "title": "Ohio blogger found guilty of harassment for sending Shrek nude to senator",
+          "link": "https://www.theverge.com/policy/1008991/ohio-blogger-harassment-shrek-nude"
         },
         {
-          "title": "Trump’s attempt to rename AI is looking awfully artificial",
-          "link": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding"
+          "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos"
         },
         {
-          "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
-          "link": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots"
+          "title": "Brendan Carr says he&#8217;ll let Pete Hegseth decide whether TV networks can air the public execution",
+          "link": "https://www.theverge.com/policy/1008950/fcc-brendan-carr-pete-hegseth-execution-tv-networks-air"
         },
         {
-          "title": "A week with Googlebooks: four notes from our testing so far",
-          "link": "https://www.theverge.com/tech/1008563/googlebook-software-impressions-thoughts-roundtable"
+          "title": "Nikon microscopic video competition winner disqualified for using generative AI",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T16:02:46.768Z"
+      "updatedAt": "2026-10-09T21:32:40.570Z"
     },
     "BBC World": {
       "items": [
         {
+          "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+          "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+          "link": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+          "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
+          "link": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
+          "link": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Man named Hitler Mussolini elected mayor in Peru",
+          "link": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
           "link": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Firing squad execution to be livestreamed, Pentagon says",
-          "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Fort Hood survivor supports gunman's execution by firing squad but questions livestream",
-          "link": "https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "France promises 3,000 extra teachers in first step to calm student protests",
-          "link": "https://www.bbc.co.uk/news/articles/c6vg98lw017po?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Ethiopia and Eritrea accuse each other of starting conflict after troops cross border",
-          "link": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC",
-          "link": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Thieves steal 30,000 bottles of wine worth €5m in Italy, reports say",
-          "link": "https://www.bbc.co.uk/news/articles/cme3xl8ln2vko?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T16:02:46.879Z"
+      "updatedAt": "2026-10-09T21:32:40.601Z"
     },
     "BBC News": {
       "items": [
+        {
+          "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+          "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "NI secretary to ban the Drumcree parade",
+          "link": "https://www.bbc.co.uk/news/articles/cw23dn0xven7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+          "link": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "Polanski vows to stay on as Green leader as he faces criticism after by-election defeat",
           "link": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss"
@@ -214,30 +226,26 @@
           "link": "https://www.bbc.co.uk/news/articles/c8040nl9q24do?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Widdecombe suspect had 'particular hostility to Reform', court told",
-          "link": "https://www.bbc.co.uk/news/articles/cmkgknz19z7po?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Lib Dem MP quits frontbench job over Ed Davey's leadership",
-          "link": "https://www.bbc.co.uk/news/articles/cw4g13j4mdxjo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Anthropic bans users from being 'cruel' to its AI systems",
-          "link": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Alison Hammond: 'I thought I was having heart attack on air'",
-          "link": "https://www.bbc.co.uk/news/articles/cq5yn75pgyjjo?at_medium=RSS&at_campaign=rss"
+          "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+          "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T16:02:46.896Z"
+      "updatedAt": "2026-10-09T21:32:40.638Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "How Trump’s Revenge Campaign Descended Into Turmoil",
-          "link": "https://www.nytimes.com/2026/10/09/us/politics/trump-grand-conspiracy.html"
+          "title": "Private Medicare Plans Are Raising Costs And Forcing Millions To Find New Insurance",
+          "link": "https://www.nytimes.com/2026/10/09/business/medicare-private-health-care-costs.html"
+        },
+        {
+          "title": "Kansas Senate Race Is a Surprising New Midterm Fight",
+          "link": "https://www.nytimes.com/2026/10/09/us/politics/kansas-senate-race-adam-hamilton-roger-marshall.html"
+        },
+        {
+          "title": "Trump Says He Will Import Russian Diesel Fuel Amid High Prices",
+          "link": "https://www.nytimes.com/2026/10/09/us/politics/trump-russia-diesel-putin.html"
         },
         {
           "title": "Trump Announces White House Inquiry Into Fed Governor Lisa Cook",
@@ -246,54 +254,46 @@
         {
           "title": "Trump Administration Hits International Criminal Court With Severe Sanctions",
           "link": "https://www.nytimes.com/2026/10/09/us/politics/trump-international-criminal-court-sanctions.html"
-        },
-        {
-          "title": "The 2026 Nobel Peace Prize Winner, and the Pentagon’s Plan to Livestream an Execution",
-          "link": "https://www.nytimes.com/2026/10/09/podcasts/the-headlines/nobel-peace-prize-livestream-execution.html"
-        },
-        {
-          "title": "Fiery Senate Debates in Maine, Michigan and Georgia: Five Takeaways",
-          "link": "https://www.nytimes.com/2026/10/09/us/senate-debate-maine-michigan-georgia.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T16:02:46.992Z"
+      "updatedAt": "2026-10-09T21:32:40.656Z"
     }
   },
   "indices": {
     "data": [
       {
         "name": "S&P 500",
-        "price": 7796.83,
-        "pct": 0.9596359831769075
+        "price": 7811.54,
+        "pct": 1.1501129135848471
       },
       {
         "name": "Dow Jones",
-        "price": 51526.54,
-        "pct": 0.6830808238707453
+        "price": 51654.95,
+        "pct": 0.9339945162823231
       },
       {
         "name": "Nasdaq",
-        "price": 27318.87,
-        "pct": 0.470783197000751
+        "price": 27366.17,
+        "pct": 0.6447387099929817
       },
       {
         "name": "Gold",
-        "price": 4215.6,
-        "pct": 1.414549653579681
+        "price": 4220.3,
+        "pct": 1.5276173979984602
       },
       {
         "name": "Bitcoin",
-        "price": 82724.6,
-        "pct": -3.5693107745627737
+        "price": 82493.9,
+        "pct": -3.8382339244397086
       },
       {
         "name": "SpaceX",
-        "price": 163.065,
-        "pct": 2.5824106693507733
+        "price": 162.57,
+        "pct": 2.2710115752390445
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-09T16:02:47.177Z"
+    "updatedAt": "2026-10-09T21:32:40.791Z"
   }
 }
