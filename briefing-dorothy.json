@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-10-09T23:39:13.085Z",
+  "fetchedAt": "2026-10-10T03:08:40.876Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Hollywood feeling more hopeful amid a push for film tax credits and Paramount staying put, filmmaker says",
-          "link": "https://www.foxnews.com/media/hollywood-feeling-more-hopeful-amid-push-film-tax-credits-paramount-staying-put-filmmaker-says"
+          "title": "Trump rallies New York crowd for Republican Bruce Blakeman's bid to replace Gov. Kathy Hochul",
+          "link": "https://www.foxnews.com/politics/trump-rallies-new-york-crowd-republican-bruce-blakemans-bid-replace-gov-kathy-hochul"
         },
         {
-          "title": "Texas legend has sky-high hopes for Longhorns ahead of Red River Rivalry game vs Oklahoma",
-          "link": "https://www.foxnews.com/outkick-sports/texas-legend-sky-high-hopes-longhorns-red-river-rivalry-game-oklahoma"
+          "title": "An NYC Curse: Rangers top goalie dragged off ice as New York sports nightmare deepens",
+          "link": "https://www.foxnews.com/outkick-sports/nyc-curse-rangers-top-goalie-dragged-off-ice-new-york-sports-nightmare-deepens"
         },
         {
-          "title": "At least one person isn't concerned about Cam Skattebo getting injured, and his name is Cam Skattebo",
-          "link": "https://www.foxnews.com/outkick-sports/least-one-person-isnt-concerned-cam-skattebo-getting-injured-his-name-cam-skattebo"
+          "title": "Trump brings Mike Tyson on stage at Syracuse rally, jokes that he is Bruce Blakeman's personal security",
+          "link": "https://www.foxnews.com/outkick-sports/trump-brings-mike-tyson-stage-syracuse-rally-jokes-bruce-blakeman-personal-security"
         },
         {
-          "title": "Daniel Lurie argues progressivism led San Francisco astray on public safety, drug crisis",
-          "link": "https://www.foxnews.com/media/daniel-lurie-argues-progressivism-led-san-francisco-astray-public-safety-drug-crisis"
+          "title": "Gov Kathy Hochul signs New York onto Trump's school choice program despite teachers union opposition",
+          "link": "https://www.foxnews.com/media/gov-kathy-hochul-signs-new-york-trump-school-choice-program-despite-teachers-union-opposition"
         },
         {
-          "title": "Country singer Ella Langley cancels concert over 'serious security threat' to fans, crew",
-          "link": "https://www.foxnews.com/entertainment/country-singer-ella-langley-cancels-concert-serious-security-threat-fans-crew"
+          "title": "Lions head coach pays tribute to Mike Ditka after learning of his death from a press conference question",
+          "link": "https://www.foxnews.com/outkick-sports/lions-head-coach-pays-tribute-mike-ditka-after-learning-his-death-press-conference-question"
         },
         {
-          "title": "Tyreek Hill changes divorce battery trial testimony, claiming he didn't push wife but was verbally abusive",
-          "link": "https://www.foxnews.com/outkick-sports/tyreek-hill-changes-divorce-battery-trial-testimony-claiming-didnt-push-wife-verbally-abusive"
+          "title": "James Talarico resurfaces after extended absence as his campaign pushes back",
+          "link": "https://www.foxnews.com/politics/james-talarico-resurfaces-after-12-day-absence-sparked-campaign-trail-attacks"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T23:39:11.639Z"
+      "updatedAt": "2026-10-10T03:08:38.220Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,10 +59,22 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T23:39:11.817Z"
+      "updatedAt": "2026-10-10T03:08:38.449Z"
     },
     "The Hill": {
       "items": [
+        {
+          "title": "Live updates: Trump rallies voters in upstate New York after Putin diesel deal announcement",
+          "link": "https://thehill.com/homenews/administration/6138003-live-update-trump-vance-midterm-elections/"
+        },
+        {
+          "title": "GOP priorities alienate MAHA supporters",
+          "link": "https://thehill.com/newsletters/healthcare/6140164-gop-priorities-alienate-maha-supporters/"
+        },
+        {
+          "title": "Zelensky decries US-Russia diesel deal: 'Gifts to Putin will not bring peace'",
+          "link": "https://thehill.com/policy/energy-environment/6140146-zelensky-blasts-trump-russia-diesel-deal/"
+        },
         {
           "title": "UAE says Flydubai suspect intended to crash plane into Tel Aviv airport",
           "link": "https://thehill.com/policy/international/6140027-flydubai-co-pilot-ben-gurion-airport/"
@@ -70,22 +82,10 @@
         {
           "title": "Watch live: Trump takes midterm campaign push to deep-blue New York",
           "link": "https://thehill.com/video-clips/6139465-watch-live-donald-trump-syracuse-new-york-rally-2026-midterms/"
-        },
-        {
-          "title": "Trump says Russia will export diesel, lifts sanctions",
-          "link": "https://thehill.com/newsletters/energy-environment/6140010-trump-says-russia-will-export-diesel-lifts-sanctions/"
-        },
-        {
-          "title": "Trump sends mixed signals on livestreaming Hasan execution",
-          "link": "https://thehill.com/homenews/administration/6139979-trump-mixed-hasan-execution-livestream/"
-        },
-        {
-          "title": "Trump offers first remarks on Guilfoyle controversy",
-          "link": "https://thehill.com/homenews/administration/6139973-trump-guilfoyle-debt-controversy/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T23:39:12.076Z"
+      "updatedAt": "2026-10-10T03:08:39.135Z"
     },
     "Ars Technica": {
       "items": [
@@ -111,7 +111,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T23:39:12.137Z"
+      "updatedAt": "2026-10-10T03:08:39.453Z"
     },
     "The Verge": {
       "items": [
@@ -137,17 +137,29 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T23:39:12.288Z"
+      "updatedAt": "2026-10-10T03:08:39.513Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+          "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
           "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+          "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
           "link": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
+          "link": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Life-threatening Hurricane Isaias makes landfall in Florida",
+          "link": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
@@ -156,27 +168,15 @@
         {
           "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
           "link": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
-          "link": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Man named Hitler Mussolini elected mayor in Peru",
-          "link": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
-          "link": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T23:39:12.510Z"
+      "updatedAt": "2026-10-10T03:08:39.629Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+          "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
           "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss"
         },
         {
@@ -188,20 +188,20 @@
           "link": "https://www.bbc.co.uk/news/articles/cw23dn0xven7o?at_medium=RSS&at_campaign=rss"
         },
         {
+          "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+          "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Screams, haunting scenes and deadly hide-and-seek, as Celebrity Traitors heats up",
           "link": "https://www.bbc.co.uk/news/articles/cwr5y3m59027o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
-          "link": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
-          "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss"
+          "title": "Polanski vows to stay on as Green leader as he faces criticism after by-election defeat",
+          "link": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T23:39:12.597Z"
+      "updatedAt": "2026-10-10T03:08:39.647Z"
     },
     "NY Times": {
       "items": [
@@ -210,12 +210,12 @@
           "link": "https://www.nytimes.com/2026/10/09/business/medicare-private-health-care-costs.html"
         },
         {
-          "title": "Paxton Said in Deposition That Donor Gave Him Stocks to Please God",
-          "link": "https://www.nytimes.com/2026/10/09/us/ken-paxton-deposition-investments.html"
+          "title": "James Talarico Returns to Senate Campaign Trail in Texas After 10-Day Absence",
+          "link": "https://www.nytimes.com/2026/10/09/us/james-talarico-absence-texas-senate.html"
         },
         {
-          "title": "Hurricane Isaias Nears Landfall",
-          "link": "https://www.nytimes.com/2026/10/09/briefing/isaias-nobel-ice.html"
+          "title": "Paxton Said in Deposition That Donor Gave Him Stocks to Please God",
+          "link": "https://www.nytimes.com/2026/10/09/us/ken-paxton-deposition-investments.html"
         },
         {
           "title": "For Trump, a Firing Squad on Livestream Becomes the Latest Spectacle",
@@ -227,7 +227,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T23:39:12.632Z"
+      "updatedAt": "2026-10-10T03:08:39.765Z"
     },
     "ARTNews": {
       "items": [
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T23:39:12.737Z"
+      "updatedAt": "2026-10-10T03:08:39.866Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T23:39:12.872Z"
+      "updatedAt": "2026-10-10T03:08:40.000Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T23:39:13.019Z"
+      "updatedAt": "2026-10-10T03:08:40.769Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T23:39:13.085Z"
+      "updatedAt": "2026-10-10T03:08:40.876Z"
     }
   }
 }
