@@ -1,124 +1,128 @@
 {
-  "fetchedAt": "2026-10-10T08:20:07.862Z",
+  "fetchedAt": "2026-10-10T15:11:15.677Z",
   "feeds": {
     "MarketWatch": {
       "items": [
         {
-          "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Should I be worried?",
+          "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?",
           "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories"
         },
         {
-          "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
-          "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories"
+          "title": "Flu season is already here. Here’s what to know about this year’s flu shots.",
+          "link": "https://www.marketwatch.com/story/flu-season-is-already-here-heres-what-to-know-about-this-years-flu-shots-58aeb705?mod=mw_rss_topstories"
         },
         {
-          "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
-          "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories"
+          "title": "‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected applications from wealthy couples. Here’s why.",
+          "link": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories"
         },
         {
-          "title": "How to provide guaranteed retirement income while paying no commissions",
-          "link": "https://www.marketwatch.com/story/how-to-provide-guaranteed-retirement-income-while-paying-no-commissions-b2085511?mod=mw_rss_topstories"
+          "title": "‘The pain was excruciating’: A friend in her 80s fell down her basement stairs. What could we have done to prevent it?",
+          "link": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories"
         },
         {
-          "title": "Trump taps Russia to boost global diesel supplies ahead of midterms. It may be ‘too little, too late,’ says strategist.",
-          "link": "https://www.marketwatch.com/story/trump-taps-russia-to-boost-global-diesel-supplies-ahead-of-midterms-it-may-be-too-little-too-late-says-strategist-8c789030?mod=mw_rss_topstories"
+          "title": "Winter is coming and energy bills are climbing. ‘Everything just keeps going up.’",
+          "link": "https://www.marketwatch.com/story/winter-is-coming-and-energy-bills-are-climbing-everything-just-keeps-going-up-983cfd2d?mod=mw_rss_topstories"
         },
         {
-          "title": "Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders.",
-          "link": "https://www.marketwatch.com/story/is-iphone-18-demand-cooling-off-heres-how-deep-apple-reportedly-is-cutting-component-orders-a44244ee?mod=mw_rss_topstories"
+          "title": "Why Nvidia’s stock is dodging the AI credit scare that is crushing Broadcom and Oracle",
+          "link": "https://www.marketwatch.com/story/why-nvidias-stock-is-dodging-the-ai-credit-scare-that-is-crushing-broadcom-and-oracle-abc8f598?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T08:20:06.248Z"
+      "updatedAt": "2026-10-10T15:11:14.714Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Liberal hot spot residents can’t agree on what socialism means as far-left movements gains steam",
-          "link": "https://www.foxnews.com/politics/liberal-hot-spot-residents-cant-agree-what-socialism-means-far-left-movements-gains-steam"
+          "title": "Underdog Code FOXNEWS: Play $5, Get $100 on Alabama-Georgia, Texas-Oklahoma",
+          "link": "https://www.foxnews.com/outkick-betting/underdog-code-foxnews-play-5-get-100-alabama-georgia-texas-oklahoma"
         },
         {
-          "title": "Trump rallies New York crowd for Republican Bruce Blakeman's bid to replace Gov. Kathy Hochul",
-          "link": "https://www.foxnews.com/politics/trump-rallies-new-york-crowd-republican-bruce-blakemans-bid-replace-gov-kathy-hochul"
+          "title": "LA Knight's 'do or die' moment comes at Money in the Bank against Roman Reigns with world title on the line",
+          "link": "https://www.foxnews.com/outkick-sports/la-knight-do-or-die-moment-money-in-the-bank-roman-reigns-world-title-line"
         },
         {
-          "title": "An NYC Curse: Rangers top goalie dragged off ice as New York sports nightmare deepens",
-          "link": "https://www.foxnews.com/outkick-sports/nyc-curse-rangers-top-goalie-dragged-off-ice-new-york-sports-nightmare-deepens"
+          "title": "Fanatics Sportsbook Promo Code FOXNEWS350: Bet $20, Get $350 on Texas vs Oklahoma",
+          "link": "https://www.foxnews.com/outkick-betting/fanatics-sportsbook-promo-code-foxnews350-bet-20-get-350-texas-vs-oklahoma"
         },
         {
-          "title": "Trump brings Mike Tyson on stage at Syracuse rally, jokes that he is Bruce Blakeman's personal security",
-          "link": "https://www.foxnews.com/outkick-sports/trump-brings-mike-tyson-stage-syracuse-rally-jokes-bruce-blakeman-personal-security"
+          "title": "WWE SmackDown newcomer Tatum Paxley captures tag team gold with Alexa Bliss in win over Fatal Influence",
+          "link": "https://www.foxnews.com/outkick-sports/wwe-smackdown-newcomer-tatum-paxley-captures-tag-team-gold-alexa-bliss-win-fatal-influence"
         },
         {
-          "title": "Gov Kathy Hochul signs New York onto Trump's school choice program despite teachers union opposition",
-          "link": "https://www.foxnews.com/media/gov-kathy-hochul-signs-new-york-trump-school-choice-program-despite-teachers-union-opposition"
+          "title": "Fanatics Sportsbook Promo Code FOXNEWS350: Bet $20, Get $350 on Alabama vs. Georgia",
+          "link": "https://www.foxnews.com/outkick-betting/fanatics-sportsbook-promo-code-foxnews350-bet-20-get-350-alabama-vs-georgia"
         },
         {
-          "title": "Lions head coach pays tribute to Mike Ditka after learning of his death from a press conference question",
-          "link": "https://www.foxnews.com/outkick-sports/lions-head-coach-pays-tribute-mike-ditka-after-learning-his-death-press-conference-question"
+          "title": "What WWE's Money in the Bank card says about the company's development of future superstars",
+          "link": "https://www.foxnews.com/outkick-sports/wwe-money-in-the-bank-card-says-about-company-development-future-superstars"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T08:20:06.336Z"
+      "updatedAt": "2026-10-10T15:11:14.813Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "Undoing the Architecture of 'Woke' in U.S. and Europe",
-          "link": "https://www.realclearpolitics.com/2026/10/09/undoing_the_architecture_of_woke_in_us_and_europe_713705.html"
+          "title": "Mamdani Cares About Illegals, Not Victims of Their Crimes",
+          "link": "https://www.realclearpolitics.com/2026/10/10/mamdani_cares_about_illegals_not_victims_of_their_crimes_713722.html"
         },
         {
-          "title": "Trump Tries To Rewrite History on Obama, Biden, Clinton",
-          "link": "https://www.realclearpolitics.com/2026/10/09/trump_tries_to_rewrite_history_on_obama_biden_clinton_713628.html"
+          "title": "What Darializa Avila Chevalier Saw at the NYC ICE Shooting",
+          "link": "https://www.realclearpolitics.com/2026/10/10/what_darializa_avila_chevalier_saw_at_the_nyc_ice_shooting_713730.html"
         },
         {
-          "title": "We Should Never Go Back to Dems' Lawfare Escapades",
-          "link": "https://www.realclearpolitics.com/2026/10/09/we_should_never_go_back_to_dems_lawfare_escapades_713708.html"
+          "title": "Zohran Mamdani's Moral Obscenity",
+          "link": "https://www.realclearpolitics.com/2026/10/10/zohran_mamdanirsquos_moral_obscenity_713732.html"
         },
         {
-          "title": "Dems Might Have a Shot in This Unlikely District",
-          "link": "https://www.realclearpolitics.com/2026/10/09/dems_might_have_a_shot_in_this_unlikely_district_713618.html"
+          "title": "This Is What Trump Panic Looks Like",
+          "link": "https://www.realclearpolitics.com/2026/10/10/this_is_what_trump_panic_looks_like_713737.html"
         },
         {
-          "title": "What Are Polls Telling Us Less Than a Month Out?",
-          "link": "https://www.realclearpolitics.com/articles/2026/10/09/what_are_polls_telling_us_less_than_a_month_out_154574.html"
+          "title": "Ignore the Haters, Look at Facts of Trump's Record",
+          "link": "https://www.realclearpolitics.com/2026/10/10/ignore_the_haters_look_at_facts_of_trumps_record_713727.html"
         },
         {
-          "title": "Britain Would Be Richer If We Were More Innovative",
-          "link": "https://www.realclearpolitics.com/2026/10/09/britain_would_be_richer_if_we_were_more_innovative_713658.html"
+          "title": "Why Won't El-Sayed Answer a No-Brainer?",
+          "link": "https://www.realclearpolitics.com/2026/10/10/why_wont_el-sayed_answer_a_no-brainer_713712.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T08:20:06.557Z"
+      "updatedAt": "2026-10-10T15:11:14.963Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Federal judge: DOJ cannot request states' voter lists for eligibility database",
-          "link": "https://thehill.com/regulation/court-battles/6140273-judge-blocks-doj-voter-rolls-program/"
+          "title": "Kalshi investigating suspicious bets tied to White house press secretary pick: Report",
+          "link": "https://thehill.com/policy/technology/6140504-kalshi-investigates-press-secretary-bets/"
         },
         {
-          "title": "Trump asks Supreme Court to look at 2016 election lawsuit against Clinton: Report",
-          "link": "https://thehill.com/homenews/administration/6140233-trump-supreme-court-clinton-lawsuit-appeal/"
+          "title": "Special counsel gone wild: Jack Smith makes a splash at a 'No Kings' concert",
+          "link": "https://thehill.com/opinion/criminal-justice/6138825-smith-no-kings-shirt/"
         },
         {
-          "title": "Live updates: Trump rallies voters in upstate New York after Putin diesel deal announcement",
-          "link": "https://thehill.com/homenews/administration/6138003-live-update-trump-vance-midterm-elections/"
+          "title": "Democrats explode over Trump's Russia diesel deal",
+          "link": "https://thehill.com/homenews/administration/6140462-democrats-slam-trump-putin-diesel-deal/"
         },
         {
-          "title": "GOP priorities alienate MAHA supporters",
-          "link": "https://thehill.com/newsletters/healthcare/6140164-gop-priorities-alienate-maha-supporters/"
+          "title": "America's adversaries are attacking sideways",
+          "link": "https://thehill.com/opinion/national-security/6139049-combating-horizontal-escalation-adversaries/"
         },
         {
-          "title": "Zelensky decries US-Russia diesel deal: 'Gifts to Putin will not bring peace'",
-          "link": "https://thehill.com/policy/energy-environment/6140146-zelensky-blasts-trump-russia-diesel-deal/"
+          "title": "Live updates: Trump headlines rally in Tennessee; Debate continues over Hasan's execution livestream",
+          "link": "https://thehill.com/homenews/administration/6140148-live-updates-trump-tennessee-rally-execution-livestream/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T08:20:07.260Z"
+      "updatedAt": "2026-10-10T15:11:15.144Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "One with the world? A new look at brains transformed by psychedelics.",
+          "link": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/"
+        },
         {
           "title": "Neanderthal wooden tools from Spain found preserved in stone",
           "link": "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/"
@@ -134,43 +138,47 @@
         {
           "title": "NASA issues long-awaited call to industry for private space stations",
           "link": "https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations/"
-        },
-        {
-          "title": "What's been driving Hawaii's lava fountains?",
-          "link": "https://arstechnica.com/science/2026/10/whats-been-driving-hawaiis-lava-fountains/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T08:20:07.322Z"
+      "updatedAt": "2026-10-10T15:11:15.180Z"
     },
     "The Verge": {
       "items": [
         {
-          "title": "My brief romance with an AI bird feeder",
-          "link": "https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too"
+          "title": "Anthropic is cutting off its internal evaluations from the internet",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet"
         },
         {
-          "title": "Decade-old RAM is making a comeback",
-          "link": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback"
+          "title": "Will Warner Bros. kill Skydance — or will David Ellison kill Warner Bros?",
+          "link": "https://www.theverge.com/podcast/1008733/warner-skydance-paramount-ellison-debt-failure"
         },
         {
-          "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip"
+          "title": "LG’s RGB LED TV is good for certain situations, but an OLED is better",
+          "link": "https://www.theverge.com/tech/1008957/lg-mrgb95b-rgb-led-tv-review"
         },
         {
-          "title": "Ohio blogger found guilty of harassment for sending Shrek nude to senator",
-          "link": "https://www.theverge.com/policy/1008991/ohio-blogger-harassment-shrek-nude"
+          "title": "AI agent makers are promising privacy — will they deliver?",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots"
         },
         {
-          "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos"
+          "title": "The techlash has gone Hollywood",
+          "link": "https://www.theverge.com/tech/1008836/social-reckoning-cupertino-techlash-installer"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T08:20:07.500Z"
+      "updatedAt": "2026-10-10T15:11:15.309Z"
     },
     "BBC World": {
       "items": [
+        {
+          "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
+          "link": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
+          "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
           "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss"
@@ -180,28 +188,20 @@
           "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
-          "link": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss"
+          "title": "Woman injures three people in third Poland school knife attack in a week",
+          "link": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
-          "link": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss"
+          "title": "Saudi capital airport hit again, sparking evacuations, reports say",
+          "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Hurricane Isaias downgraded after making landfall in Florida",
-          "link": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "US country music star Ella Langley cancels show due to 'security threat'",
-          "link": "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
-          "link": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss"
+          "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+          "link": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T08:20:07.695Z"
+      "updatedAt": "2026-10-10T15:11:15.343Z"
     },
     "BBC News": {
       "items": [
@@ -210,54 +210,54 @@
           "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-          "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss"
+          "title": "Watch: 'Cockroach' group leaders among hundreds detained in Delhi protest",
+          "link": "https://www.bbc.co.uk/news/videos/cqwy7p2y20gxo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
-          "link": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss"
+          "title": "Head of Met's volunteer force fired after AI tool found deleted intimate images on work phone",
+          "link": "https://www.bbc.co.uk/news/articles/cjx23yxwe73qo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Early release scheme prisoner jailed days after leaving",
-          "link": "https://www.bbc.co.uk/news/articles/c699zyyyn4y0o?at_medium=RSS&at_campaign=rss"
+          "title": "'Serious incident' at tiger enclosure closes Yorkshire Wildlife Park",
+          "link": "https://www.bbc.co.uk/news/articles/c6jrw8g1123vo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Nord Stream trial: How German police followed the evidence - to Ukraine",
-          "link": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss"
+          "title": "Sara Sharif's grandfather granted guardianship of her siblings in Pakistan",
+          "link": "https://www.bbc.co.uk/news/articles/cqdjvdpxmvn3o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Screams, haunting scenes and deadly hide-and-seek, as Celebrity Traitors heats up",
-          "link": "https://www.bbc.co.uk/news/articles/cwr5y3m59027o?at_medium=RSS&at_campaign=rss"
+          "title": "Ashe was too scared to cancel her wedding, then her story became a hit song",
+          "link": "https://www.bbc.co.uk/news/articles/cx30en32gd39o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T08:20:07.701Z"
+      "updatedAt": "2026-10-10T15:11:15.518Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "What to Know About the Delhi Protests",
-          "link": "https://www.nytimes.com/2026/10/09/world/asia/what-to-know-about-the-delhi-protests.html"
+          "title": "A.I. Hurricane Models Were Front and Center as Isaias Headed Toward Land",
+          "link": "https://www.nytimes.com/2026/10/09/weather/ai-models-hurricane-isaias.html"
         },
         {
-          "title": "Private Medicare Plans Are Raising Costs And Forcing Millions To Find New Insurance",
-          "link": "https://www.nytimes.com/2026/10/09/business/medicare-private-health-care-costs.html"
+          "title": "Economic Pain and an Unpopular Trump Put G.O.P. on its Heels With Three Weeks to Go",
+          "link": "https://www.nytimes.com/2026/10/10/us/politics/trump-inflation-midterms-republicans.html"
+        },
+        {
+          "title": "Could the Oregon Governor’s Race Be a Republican Hope?",
+          "link": "https://www.nytimes.com/2026/10/10/us/elections/oregon-governor-republican-election.html"
         },
         {
           "title": "James Talarico Returns to Senate Campaign Trail in Texas After 10-Day Absence",
           "link": "https://www.nytimes.com/2026/10/09/us/james-talarico-absence-texas-senate.html"
         },
         {
-          "title": "Paxton Said in Deposition That Donor Gave Him Stocks to Please God",
-          "link": "https://www.nytimes.com/2026/10/09/us/ken-paxton-deposition-investments.html"
-        },
-        {
-          "title": "Ashley St. Clair Was Offered Millions for Her Silence on Elon Musk. She Spoke Out Instead.",
-          "link": "https://www.nytimes.com/2026/10/09/movies/ashley-st-clair-interview-elon-musk.html"
+          "title": "Mamdani’s Ability to Persuade Trump Hits Limit in Wake of ICE Shooting",
+          "link": "https://www.nytimes.com/2026/10/09/nyregion/mamdani-trump-ice-shooting-nyc.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T08:20:07.738Z"
+      "updatedAt": "2026-10-10T15:11:15.560Z"
     }
   },
   "indices": {
@@ -284,8 +284,8 @@
       },
       {
         "name": "Bitcoin",
-        "price": 82772.24,
-        "pct": -3.2554925596288538
+        "price": 82917.66,
+        "pct": -3.0855251131518875
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-10T08:20:07.862Z"
+    "updatedAt": "2026-10-10T15:11:15.677Z"
   }
 }
