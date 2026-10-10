@@ -1,15 +1,15 @@
 {
-  "fetchedAt": "2026-10-10T01:37:27.662Z",
+  "fetchedAt": "2026-10-10T08:20:07.862Z",
   "feeds": {
     "MarketWatch": {
       "items": [
         {
-          "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
-          "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories"
+          "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Should I be worried?",
+          "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories"
         },
         {
-          "title": "‘I feel like a loser’: I check my ETFs every day. They’re up one minute, down the next. Should I be worried?",
-          "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories"
+          "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
+          "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories"
         },
         {
           "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
@@ -29,10 +29,26 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T01:37:25.729Z"
+      "updatedAt": "2026-10-10T08:20:06.248Z"
     },
     "Fox News": {
       "items": [
+        {
+          "title": "Liberal hot spot residents can’t agree on what socialism means as far-left movements gains steam",
+          "link": "https://www.foxnews.com/politics/liberal-hot-spot-residents-cant-agree-what-socialism-means-far-left-movements-gains-steam"
+        },
+        {
+          "title": "Trump rallies New York crowd for Republican Bruce Blakeman's bid to replace Gov. Kathy Hochul",
+          "link": "https://www.foxnews.com/politics/trump-rallies-new-york-crowd-republican-bruce-blakemans-bid-replace-gov-kathy-hochul"
+        },
+        {
+          "title": "An NYC Curse: Rangers top goalie dragged off ice as New York sports nightmare deepens",
+          "link": "https://www.foxnews.com/outkick-sports/nyc-curse-rangers-top-goalie-dragged-off-ice-new-york-sports-nightmare-deepens"
+        },
+        {
+          "title": "Trump brings Mike Tyson on stage at Syracuse rally, jokes that he is Bruce Blakeman's personal security",
+          "link": "https://www.foxnews.com/outkick-sports/trump-brings-mike-tyson-stage-syracuse-rally-jokes-bruce-blakeman-personal-security"
+        },
         {
           "title": "Gov Kathy Hochul signs New York onto Trump's school choice program despite teachers union opposition",
           "link": "https://www.foxnews.com/media/gov-kathy-hochul-signs-new-york-trump-school-choice-program-despite-teachers-union-opposition"
@@ -40,26 +56,10 @@
         {
           "title": "Lions head coach pays tribute to Mike Ditka after learning of his death from a press conference question",
           "link": "https://www.foxnews.com/outkick-sports/lions-head-coach-pays-tribute-mike-ditka-after-learning-his-death-press-conference-question"
-        },
-        {
-          "title": "James Talarico resurfaces after extended absence as his campaign pushes back",
-          "link": "https://www.foxnews.com/politics/james-talarico-resurfaces-after-12-day-absence-sparked-campaign-trail-attacks"
-        },
-        {
-          "title": "Super Bowl LXI gets Pat McAfee treatment as ESPN adds alternate broadcast",
-          "link": "https://www.foxnews.com/outkick-sports/super-bowl-lxi-gets-pat-mcafee-treatment-espn-adds-alternate-broadcast"
-        },
-        {
-          "title": "Former Obama advisor tells divided Maine Democrats to 'get over your s---' and win the race",
-          "link": "https://www.foxnews.com/media/former-obama-advisor-tells-divided-maine-democrats-get-over-your-s-win-race"
-        },
-        {
-          "title": "Trump gives raw reaction after finding out about Mike Ditka's death: 'A tough cookie'",
-          "link": "https://www.foxnews.com/outkick-sports/trump-raw-reaction-mike-ditka-death-tough-cookie"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T01:37:25.899Z"
+      "updatedAt": "2026-10-10T08:20:06.336Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -89,10 +89,18 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T01:37:26.092Z"
+      "updatedAt": "2026-10-10T08:20:06.557Z"
     },
     "The Hill": {
       "items": [
+        {
+          "title": "Federal judge: DOJ cannot request states' voter lists for eligibility database",
+          "link": "https://thehill.com/regulation/court-battles/6140273-judge-blocks-doj-voter-rolls-program/"
+        },
+        {
+          "title": "Trump asks Supreme Court to look at 2016 election lawsuit against Clinton: Report",
+          "link": "https://thehill.com/homenews/administration/6140233-trump-supreme-court-clinton-lawsuit-appeal/"
+        },
         {
           "title": "Live updates: Trump rallies voters in upstate New York after Putin diesel deal announcement",
           "link": "https://thehill.com/homenews/administration/6138003-live-update-trump-vance-midterm-elections/"
@@ -104,18 +112,10 @@
         {
           "title": "Zelensky decries US-Russia diesel deal: 'Gifts to Putin will not bring peace'",
           "link": "https://thehill.com/policy/energy-environment/6140146-zelensky-blasts-trump-russia-diesel-deal/"
-        },
-        {
-          "title": "UAE says Flydubai suspect intended to crash plane into Tel Aviv airport",
-          "link": "https://thehill.com/policy/international/6140027-flydubai-co-pilot-ben-gurion-airport/"
-        },
-        {
-          "title": "Watch live: Trump takes midterm campaign push to deep-blue New York",
-          "link": "https://thehill.com/video-clips/6139465-watch-live-donald-trump-syracuse-new-york-rally-2026-midterms/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T01:37:27.050Z"
+      "updatedAt": "2026-10-10T08:20:07.260Z"
     },
     "Ars Technica": {
       "items": [
@@ -141,10 +141,14 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T01:37:27.118Z"
+      "updatedAt": "2026-10-10T08:20:07.322Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "My brief romance with an AI bird feeder",
+          "link": "https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too"
+        },
         {
           "title": "Decade-old RAM is making a comeback",
           "link": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback"
@@ -160,14 +164,10 @@
         {
           "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos"
-        },
-        {
-          "title": "Brendan Carr says he&#8217;ll let Pete Hegseth decide whether TV networks can air the public execution",
-          "link": "https://www.theverge.com/policy/1008950/fcc-brendan-carr-pete-hegseth-execution-tv-networks-air"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T01:37:27.208Z"
+      "updatedAt": "2026-10-10T08:20:07.500Z"
     },
     "BBC World": {
       "items": [
@@ -180,28 +180,28 @@
           "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
-          "link": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss"
+          "title": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
+          "link": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
-          "link": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss"
+          "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
+          "link": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
-          "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss"
+          "title": "Hurricane Isaias downgraded after making landfall in Florida",
+          "link": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "US country music star Ella Langley cancels show due to 'security threat'",
+          "link": "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
           "link": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
-          "link": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T01:37:27.263Z"
+      "updatedAt": "2026-10-10T08:20:07.695Z"
     },
     "BBC News": {
       "items": [
@@ -214,50 +214,50 @@
           "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "NI secretary to ban the Drumcree parade",
-          "link": "https://www.bbc.co.uk/news/articles/cw23dn0xven7o?at_medium=RSS&at_campaign=rss"
+          "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
+          "link": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Early release scheme prisoner jailed days after leaving",
+          "link": "https://www.bbc.co.uk/news/articles/c699zyyyn4y0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Nord Stream trial: How German police followed the evidence - to Ukraine",
+          "link": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Screams, haunting scenes and deadly hide-and-seek, as Celebrity Traitors heats up",
           "link": "https://www.bbc.co.uk/news/articles/cwr5y3m59027o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
-          "link": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
-          "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T01:37:27.300Z"
+      "updatedAt": "2026-10-10T08:20:07.701Z"
     },
     "NY Times": {
       "items": [
         {
+          "title": "What to Know About the Delhi Protests",
+          "link": "https://www.nytimes.com/2026/10/09/world/asia/what-to-know-about-the-delhi-protests.html"
+        },
+        {
           "title": "Private Medicare Plans Are Raising Costs And Forcing Millions To Find New Insurance",
           "link": "https://www.nytimes.com/2026/10/09/business/medicare-private-health-care-costs.html"
+        },
+        {
+          "title": "James Talarico Returns to Senate Campaign Trail in Texas After 10-Day Absence",
+          "link": "https://www.nytimes.com/2026/10/09/us/james-talarico-absence-texas-senate.html"
         },
         {
           "title": "Paxton Said in Deposition That Donor Gave Him Stocks to Please God",
           "link": "https://www.nytimes.com/2026/10/09/us/ken-paxton-deposition-investments.html"
         },
         {
-          "title": "Hurricane Isaias Nears Landfall",
-          "link": "https://www.nytimes.com/2026/10/09/briefing/isaias-nobel-ice.html"
-        },
-        {
-          "title": "For Trump, a Firing Squad on Livestream Becomes the Latest Spectacle",
-          "link": "https://www.nytimes.com/2026/10/09/us/politics/trump-firing-squad-spectacle.html"
-        },
-        {
-          "title": "Some G.O.P. Lawmakers Pan Hegseth’s Plan to Stream Execution of Fort Hood Shooter",
-          "link": "https://www.nytimes.com/2026/10/09/us/politics/democrats-republicans-hegseth-execution.html"
+          "title": "Ashley St. Clair Was Offered Millions for Her Silence on Elon Musk. She Spoke Out Instead.",
+          "link": "https://www.nytimes.com/2026/10/09/movies/ashley-st-clair-interview-elon-musk.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T01:37:27.420Z"
+      "updatedAt": "2026-10-10T08:20:07.738Z"
     }
   },
   "indices": {
@@ -279,13 +279,13 @@
       },
       {
         "name": "Gold",
-        "price": 4220.3,
-        "pct": 1.5276173979984602
+        "price": 4216.3,
+        "pct": 1.4313895304080062
       },
       {
         "name": "Bitcoin",
-        "price": 82542.3,
-        "pct": -3.524247302050216
+        "price": 82772.24,
+        "pct": -3.2554925596288538
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-10T01:37:27.662Z"
+    "updatedAt": "2026-10-10T08:20:07.862Z"
   }
 }
