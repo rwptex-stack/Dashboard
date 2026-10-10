@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-10-10T03:08:40.876Z",
+  "fetchedAt": "2026-10-10T10:11:52.350Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Trump rallies New York crowd for Republican Bruce Blakeman's bid to replace Gov. Kathy Hochul",
-          "link": "https://www.foxnews.com/politics/trump-rallies-new-york-crowd-republican-bruce-blakemans-bid-replace-gov-kathy-hochul"
+          "title": "Plague mystery revives concerns over not-to-secret Russian bioweapons program",
+          "link": "https://www.foxnews.com/politics/plague-mystery-revives-concerns-russian-bioweapons-program"
         },
         {
-          "title": "An NYC Curse: Rangers top goalie dragged off ice as New York sports nightmare deepens",
-          "link": "https://www.foxnews.com/outkick-sports/nyc-curse-rangers-top-goalie-dragged-off-ice-new-york-sports-nightmare-deepens"
+          "title": "France is devouring itself as school riots reveal a crisis far bigger than broken classrooms",
+          "link": "https://www.foxnews.com/world/france-devouring-itself-school-riots-reveal-crisis-far-bigger-than-broken-classrooms"
         },
         {
-          "title": "Trump brings Mike Tyson on stage at Syracuse rally, jokes that he is Bruce Blakeman's personal security",
-          "link": "https://www.foxnews.com/outkick-sports/trump-brings-mike-tyson-stage-syracuse-rally-jokes-bruce-blakeman-personal-security"
+          "title": "Ohio dog park shooting over Trump argument could end with two self-defense claims, or none: legal expert",
+          "link": "https://www.foxnews.com/us/ohio-dog-park-shooting-trump-argument-self-defense-claims-legal-expert"
         },
         {
-          "title": "Gov Kathy Hochul signs New York onto Trump's school choice program despite teachers union opposition",
-          "link": "https://www.foxnews.com/media/gov-kathy-hochul-signs-new-york-trump-school-choice-program-despite-teachers-union-opposition"
+          "title": "Comedians revolt against SiriusXM as 'middle class of comedy' fights corporate royalty cuts",
+          "link": "https://www.foxnews.com/media/comedians-revolt-against-siriusxm-middle-class-comedy-fights-corporate-royalty-cuts"
         },
         {
-          "title": "Lions head coach pays tribute to Mike Ditka after learning of his death from a press conference question",
-          "link": "https://www.foxnews.com/outkick-sports/lions-head-coach-pays-tribute-mike-ditka-after-learning-his-death-press-conference-question"
+          "title": "You’d never guess the crazy things cash welfare paid for. Nebraska is shutting that down",
+          "link": "https://www.foxnews.com/opinion/youd-never-guess-crazy-things-cash-welfare-paid-nebraska-shutting-down"
         },
         {
-          "title": "James Talarico resurfaces after extended absence as his campaign pushes back",
-          "link": "https://www.foxnews.com/politics/james-talarico-resurfaces-after-12-day-absence-sparked-campaign-trail-attacks"
+          "title": "Workers erupt over DC plan to bring robotaxis to city streets: ‘This is bulls---’",
+          "link": "https://www.foxnews.com/politics/workers-erupt-over-dc-plan-bring-robotaxis-city-streets-this-bulls"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T03:08:38.220Z"
+      "updatedAt": "2026-10-10T10:11:49.169Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,10 +59,18 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T03:08:38.449Z"
+      "updatedAt": "2026-10-10T10:11:49.493Z"
     },
     "The Hill": {
       "items": [
+        {
+          "title": "Federal judge: DOJ cannot request states' voter lists for eligibility database",
+          "link": "https://thehill.com/regulation/court-battles/6140273-judge-blocks-doj-voter-rolls-program/"
+        },
+        {
+          "title": "Trump asks Supreme Court to look at 2016 election lawsuit against Clinton: Report",
+          "link": "https://thehill.com/homenews/administration/6140233-trump-supreme-court-clinton-lawsuit-appeal/"
+        },
         {
           "title": "Live updates: Trump rallies voters in upstate New York after Putin diesel deal announcement",
           "link": "https://thehill.com/homenews/administration/6138003-live-update-trump-vance-midterm-elections/"
@@ -74,18 +82,10 @@
         {
           "title": "Zelensky decries US-Russia diesel deal: 'Gifts to Putin will not bring peace'",
           "link": "https://thehill.com/policy/energy-environment/6140146-zelensky-blasts-trump-russia-diesel-deal/"
-        },
-        {
-          "title": "UAE says Flydubai suspect intended to crash plane into Tel Aviv airport",
-          "link": "https://thehill.com/policy/international/6140027-flydubai-co-pilot-ben-gurion-airport/"
-        },
-        {
-          "title": "Watch live: Trump takes midterm campaign push to deep-blue New York",
-          "link": "https://thehill.com/video-clips/6139465-watch-live-donald-trump-syracuse-new-york-rally-2026-midterms/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T03:08:39.135Z"
+      "updatedAt": "2026-10-10T10:11:50.389Z"
     },
     "Ars Technica": {
       "items": [
@@ -111,10 +111,14 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T03:08:39.453Z"
+      "updatedAt": "2026-10-10T10:11:50.586Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "My brief romance with an AI bird feeder",
+          "link": "https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too"
+        },
         {
           "title": "Decade-old RAM is making a comeback",
           "link": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback"
@@ -130,14 +134,10 @@
         {
           "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos"
-        },
-        {
-          "title": "Brendan Carr says he&#8217;ll let Pete Hegseth decide whether TV networks can air the public execution",
-          "link": "https://www.theverge.com/policy/1008950/fcc-brendan-carr-pete-hegseth-execution-tv-networks-air"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T03:08:39.513Z"
+      "updatedAt": "2026-10-10T10:11:50.697Z"
     },
     "BBC World": {
       "items": [
@@ -150,20 +150,20 @@
           "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
-          "link": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss"
+          "title": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
+          "link": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
-          "link": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss"
+          "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
+          "link": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Life-threatening Hurricane Isaias makes landfall in Florida",
+          "title": "Hurricane Isaias downgraded after making landfall in Florida",
           "link": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
-          "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss"
+          "title": "US country music star Ella Langley cancels show due to 'security threat'",
+          "link": "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
@@ -171,7 +171,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T03:08:39.629Z"
+      "updatedAt": "2026-10-10T10:11:50.860Z"
     },
     "BBC News": {
       "items": [
@@ -184,53 +184,57 @@
           "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "NI secretary to ban the Drumcree parade",
-          "link": "https://www.bbc.co.uk/news/articles/cw23dn0xven7o?at_medium=RSS&at_campaign=rss"
+          "title": "Green Party wants to make sure it is 'not vulnerable to extremists'",
+          "link": "https://www.bbc.co.uk/news/articles/c54g19pgy48yo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
-          "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss"
+          "title": "Met's Special Constabulary head fired after AI tool found deleted intimate images on work phone",
+          "link": "https://www.bbc.co.uk/news/articles/cjx23yxwe73qo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Screams, haunting scenes and deadly hide-and-seek, as Celebrity Traitors heats up",
-          "link": "https://www.bbc.co.uk/news/articles/cwr5y3m59027o?at_medium=RSS&at_campaign=rss"
+          "title": "Nord Stream trial: How German police followed the evidence - to Ukraine",
+          "link": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Polanski vows to stay on as Green leader as he faces criticism after by-election defeat",
-          "link": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss"
+          "title": "Queen reflects on reading 'forbidden' Lady Chatterley's Lover under the pillow",
+          "link": "https://www.bbc.co.uk/news/articles/cm70pee7l57do?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T03:08:39.647Z"
+      "updatedAt": "2026-10-10T10:11:50.922Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "Private Medicare Plans Are Raising Costs And Forcing Millions To Find New Insurance",
-          "link": "https://www.nytimes.com/2026/10/09/business/medicare-private-health-care-costs.html"
+          "title": "A.I. Hurricane Models Were Front and Center as Isaias Headed Toward Land",
+          "link": "https://www.nytimes.com/2026/10/09/weather/ai-models-hurricane-isaias.html"
+        },
+        {
+          "title": "Economic Pain and an Unpopular Trump Put G.O.P. on its Heels With Three Weeks to Go",
+          "link": "https://www.nytimes.com/2026/10/10/us/politics/trump-inflation-midterms-republicans.html"
+        },
+        {
+          "title": "Could the Oregon Governor’s Race Be a Republican Hope?",
+          "link": "https://www.nytimes.com/2026/10/10/us/elections/oregon-governor-republican-election.html"
         },
         {
           "title": "James Talarico Returns to Senate Campaign Trail in Texas After 10-Day Absence",
           "link": "https://www.nytimes.com/2026/10/09/us/james-talarico-absence-texas-senate.html"
         },
         {
-          "title": "Paxton Said in Deposition That Donor Gave Him Stocks to Please God",
-          "link": "https://www.nytimes.com/2026/10/09/us/ken-paxton-deposition-investments.html"
-        },
-        {
-          "title": "For Trump, a Firing Squad on Livestream Becomes the Latest Spectacle",
-          "link": "https://www.nytimes.com/2026/10/09/us/politics/trump-firing-squad-spectacle.html"
-        },
-        {
-          "title": "Some G.O.P. Lawmakers Pan Hegseth’s Plan to Stream Execution of Fort Hood Shooter",
-          "link": "https://www.nytimes.com/2026/10/09/us/politics/democrats-republicans-hegseth-execution.html"
+          "title": "Mamdani’s Ability to Persuade Trump Hits Limit in Wake of ICE Shooting",
+          "link": "https://www.nytimes.com/2026/10/09/nyregion/mamdani-trump-ice-shooting-nyc.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T03:08:39.765Z"
+      "updatedAt": "2026-10-10T10:11:51.161Z"
     },
     "ARTNews": {
       "items": [
+        {
+          "title": "Alex Margo Arden Gets Up Close and Personal With Amy Winehouse’s Items for an Exhibition in London",
+          "link": "https://www.artnews.com/art-news/artists/alex-margo-arden-gets-personal-with-amy-winehouse-1234801766/"
+        },
         {
           "title": "Arlington County Board Files Lawsuit to Stop Construction of Trump’s Triumphal Arch",
           "link": "https://www.artnews.com/art-news/news/arlington-county-board-files-lawsuit-trump-triumphal-arch-1234801896/"
@@ -250,17 +254,17 @@
         {
           "title": "Brussels Gallery Super Dakota to Close After 15 Years",
           "link": "https://www.artnews.com/art-news/market/super-dakota-brussels-gallery-closure-1234801862/"
-        },
-        {
-          "title": "With an $18 M. Price Tag, 24-Karat ‘Fancy Intense Pink’ Diamond Ring Heads to Auction at Christie’s Geneva",
-          "link": "https://www.artnews.com/art-news/market/christies-pink-diamond-geneva-1234801852/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T03:08:39.866Z"
+      "updatedAt": "2026-10-10T10:11:51.369Z"
     },
     "Hyperallergic": {
       "items": [
+        {
+          "title": "Long Live Generation 6-7",
+          "link": "https://hyperallergic.com/long-live-generation-6-7/"
+        },
         {
           "title": "Raven Chacon Sounds the History of the Land",
           "link": "https://hyperallergic.com/raven-chacon-sounds-the-history-of-the-land/"
@@ -280,14 +284,10 @@
         {
           "title": "New Art Books from the Quarto Group",
           "link": "https://hyperallergic.com/new-art-books-from-the-quarto-group/"
-        },
-        {
-          "title": "A Felix Gonzalez-Torres Exhibition Forgets What He Was Fighting For",
-          "link": "https://hyperallergic.com/a-felix-gonzalez-torres-exhibition-forgets-what-he-was-fighting-for/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T03:08:40.000Z"
+      "updatedAt": "2026-10-10T10:11:51.594Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T03:08:40.769Z"
+      "updatedAt": "2026-10-10T10:11:52.147Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T03:08:40.876Z"
+      "updatedAt": "2026-10-10T10:11:52.350Z"
     }
   }
 }
