@@ -1,8 +1,16 @@
 {
-  "fetchedAt": "2026-10-11T05:20:01.808Z",
+  "fetchedAt": "2026-10-11T12:32:28.628Z",
   "feeds": {
     "MarketWatch": {
       "items": [
+        {
+          "title": "Bank earnings to shed the first light on how higher yields are affecting the economy",
+          "link": "https://www.marketwatch.com/story/bank-earnings-to-shed-the-first-light-on-how-higher-yields-are-affecting-the-economy-cf3763ef?mod=mw_rss_topstories"
+        },
+        {
+          "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
+          "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories"
+        },
         {
           "title": "Should I put my nest egg in a 30-year Treasury bond?",
           "link": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories"
@@ -18,48 +26,40 @@
         {
           "title": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’",
           "link": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Rising interest rates: The good, the bad and the ugly for retirees",
-          "link": "https://www.marketwatch.com/story/the-good-the-bad-and-the-ugly-of-rising-interest-rates-ee465a81?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Taxing stocks, estates and employee benefits could keep Social Security from running out of money. Here’s who could pay the most.",
-          "link": "https://www.marketwatch.com/story/taxing-stocks-estates-and-employee-benefits-could-keep-social-security-from-running-out-of-money-heres-who-could-pay-the-most-616be82c?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T05:20:00.149Z"
+      "updatedAt": "2026-10-11T12:32:26.530Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Kirby Smart has entered his most dangerous era after Georgia’s aggressive win over Alabama",
-          "link": "https://www.foxnews.com/outkick-sports/kirby-smart-entered-dangerous-era-georgia-aggressive-win-alabama"
+          "title": "Abbas delays Palestinian elections again, making more than two decades without vote",
+          "link": "https://www.foxnews.com/world/abbas-delays-palestinian-elections-again-making-more-than-two-decades-without-vote"
         },
         {
-          "title": "Trump says he'd 'love' to have Sen. John Fetterman as a Republican amid growing speculation",
-          "link": "https://www.foxnews.com/politics/trump-says-hed-love-have-sen-john-fetterman-republican-amid-growing-speculation"
+          "title": "Packers get revenge chance as Bears lean on run game without Caleb Williams",
+          "link": "https://www.foxnews.com/outkick-betting/packers-get-revenge-chance-bears-lean-run-game-without-caleb-williams"
         },
         {
-          "title": "Alabama's Kalen Deboer incensed at player who 'just cost us the damn game' vs Georgia with boneheaded penalty",
-          "link": "https://www.foxnews.com/outkick-sports/alabamas-kalen-deboer-incensed-player-cost-us-damn-game-vs-georgia-boneheaded-penalty"
+          "title": "NFL Week 5 picks: Bengals, Texans and Ravens games offer the best betting value for full football day",
+          "link": "https://www.foxnews.com/outkick-betting/nfl-week-5-picks-bengals-texans-ravens-games-offer-best-betting-value-full-football-day"
         },
         {
-          "title": "Trump says he will 'make a decision' on Pentagon's plans to livestream Nidal Hasan's firing squad execution",
-          "link": "https://www.foxnews.com/politics/trump-says-he-make-decision-pentagons-plans-livestream-nidal-hasans-firing-squad-execution"
+          "title": "Abdul El-Sayed feuds with Dave Portnoy over response to Michigan cheating allegation comments",
+          "link": "https://www.foxnews.com/outkick-sports/abdul-el-sayed-feuds-dave-portnoy-response-michigan-cheating-allegation-comments"
         },
         {
-          "title": "Kentucky shocks LSU with second-straight walk-off two-point conversion win in overtime",
-          "link": "https://www.foxnews.com/outkick-sports/kentucky-shocks-lsu-second-straight-walk-off-two-point-conversion-win-overtime"
+          "title": "WNBA Finals: Angel Reese headlines championship showdown as league seeks to draw viewers without Caitlin Clark",
+          "link": "https://www.foxnews.com/outkick-sports/wnba-finals-angel-reese-headlines-championship-showdown-league-seeks-draw-viewers-without-caitlin-clark"
         },
         {
-          "title": "Guardians complete ALDS comeback over White Sox, strike out record 21 batters to set up date with Rays",
-          "link": "https://www.foxnews.com/outkick-sports/guardians-complete-alds-comeback-white-sox-strike-out-record-21-batters-set-up-date-rays"
+          "title": "Hunters say harvesting their own food deepens important connection to God",
+          "link": "https://www.foxnews.com/food-drink/hunters-say-harvesting-own-food-deepens-important-connection-god"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T05:20:00.267Z"
+      "updatedAt": "2026-10-11T12:32:26.779Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -84,38 +84,38 @@
           "link": "https://www.realclearpolitics.com/2026/10/10/garland_wray_and_the_arrogant_mr_smith_713798.html"
         },
         {
-          "title": "To Reform Higher Education, Fund Competitors",
-          "link": "https://www.realclearpolitics.com/2026/10/09/to_reform_higher_education_fund_competitors_713622.html"
+          "title": "America's Experiment: Blending Liberty, Virtue From the First",
+          "link": "https://www.realclearpolitics.com/articles/2026/10/11/the_american_experiment_blending_liberty_and_virtue_from_the_first_154577.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T05:20:00.398Z"
+      "updatedAt": "2026-10-11T12:32:27.153Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Trump continues red state campaign swing with Montana, Arizona rallies next week",
-          "link": "https://thehill.com/homenews/campaign/6140976-trump-rallies-montana-arizona/"
+          "title": "Trump is waging all-out war against journalists",
+          "link": "https://thehill.com/opinion/white-house/6139752-trump-media-lawfare-threat/"
         },
         {
-          "title": "Trump says he will ‘ultimately make decision’ on Fort Hood shooter execution livestream",
-          "link": "https://thehill.com/homenews/administration/6140915-trump-reviews-hasan-execution-plan/"
+          "title": "DOJ investigating 5 major TV networks over response to White House press ban",
+          "link": "https://thehill.com/homenews/administration/6141115-doj-investigates-tv-networks-boycott/"
         },
         {
-          "title": "GOP lawmakers reject U.S.-Russia diesel deal, Trump's Zelensky comments",
-          "link": "https://thehill.com/homenews/senate/6140871-republicans-oppose-trump-russian-diesel-deal/"
+          "title": "Hurricane victim's husband recalls watching wife die when tree crashed through home",
+          "link": "https://thehill.com/homenews/state-watch/6141021-hurricane-isaias-florida-fatality/"
         },
         {
-          "title": "Bipartisan bill barring U.S. purchase of Russian oil on the horizon: Fitzpatrick",
-          "link": "https://thehill.com/homenews/house/6140830-fitzpatrick-bill-block-russian-oil/"
+          "title": "GOP sees House prospects grow bleaker as districts shift to blue",
+          "link": "https://thehill.com/homenews/house/6140021-gop-house-majority-threatened/"
         },
         {
-          "title": "Pentagon updates death toll of troops during Iran war to 21",
-          "link": "https://thehill.com/policy/defense/6140821-pentagon-updates-iran-death-tally/"
+          "title": "The Memo: As Trump lavishes cash on voters, ethics experts raise alarm",
+          "link": "https://thehill.com/homenews/analysis/6139169-gop-midterm-check-proposal/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T05:20:01.042Z"
+      "updatedAt": "2026-10-11T12:32:27.781Z"
     },
     "Ars Technica": {
       "items": [
@@ -141,10 +141,22 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T05:20:01.161Z"
+      "updatedAt": "2026-10-11T12:32:27.940Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "Horror is big business",
+          "link": "https://www.theverge.com/column/1008432/horror-popular-widows-bay-resident-evil"
+        },
+        {
+          "title": "Why the LeapPad couldn&#8217;t survive the iPad",
+          "link": "https://www.theverge.com/podcast/1008578/leapfrog-leappad-technology-version-history"
+        },
+        {
+          "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress"
+        },
         {
           "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised"
@@ -152,22 +164,10 @@
         {
           "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
           "link": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit"
-        },
-        {
-          "title": "Ledger wallet tampering suspected after reports of crypto thefts",
-          "link": "https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts"
-        },
-        {
-          "title": "K-pop star Sunmi loves Notion and ear cleaning videos",
-          "link": "https://www.theverge.com/entertainment/1008654/k-pop-sunmi-wonder-girls-interview"
-        },
-        {
-          "title": "Anthropic is cutting off its internal evaluations from the internet",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T05:20:01.251Z"
+      "updatedAt": "2026-10-11T12:32:28.124Z"
     },
     "BBC World": {
       "items": [
@@ -176,24 +176,24 @@
           "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
-          "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss"
+          "title": "Pope Leo to have surgery after lump found on lung",
+          "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
-          "link": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss"
+          "title": "Homes and bridges swept away as fresh floods hit Nepal",
+          "link": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
-          "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss"
+          "title": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
+          "link": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
-          "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss"
+          "title": "US justice department investigates TV networks over Trump pool coverage",
+          "link": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
-          "link": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss"
+          "title": "Children among 109 dead after boat capsizes off Djibouti, UN says",
+          "link": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
@@ -201,63 +201,63 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T05:20:01.327Z"
+      "updatedAt": "2026-10-11T12:32:28.268Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
-          "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss"
+          "title": "Riyadh airport attack another dangerous moment in already tense conflict",
+          "link": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-          "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss"
+          "title": "Buildings swept away as flash floods hit central Nepal",
+          "link": "https://www.bbc.co.uk/news/videos/cwzrdnljedx0o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Man dies after tiger attack at wildlife park",
-          "link": "https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss"
+          "title": "Wildlife park remains closed after fatal tiger attack",
+          "link": "https://www.bbc.co.uk/news/articles/cmgr8221v4x1o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "US justice department investigates TV networks over Trump pool coverage",
-          "link": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss"
+          "title": "UK does not support Trump's Russia diesel deal, says Streeting",
+          "link": "https://www.bbc.co.uk/news/articles/c65yn92nj423o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Bid to overturn ruling which stops police being sued for failings",
-          "link": "https://www.bbc.co.uk/news/articles/c6y43mmke7ygo?at_medium=RSS&at_campaign=rss"
+          "title": "Pope Leo to have surgery after lump found on lung",
+          "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "UK launch flood taskforce to prepare for extreme winter weather",
-          "link": "https://www.bbc.co.uk/news/articles/c8040n4v7126o?at_medium=RSS&at_campaign=rss"
+          "title": "Northern Lights dazzles skies across the UK",
+          "link": "https://www.bbc.co.uk/news/articles/c9rkyey458xdo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T05:20:01.380Z"
+      "updatedAt": "2026-10-11T12:32:28.291Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes",
-          "link": "https://www.nytimes.com/2026/10/10/world/middleeast/riyadh-airport-attack-energy-congress.html"
+          "title": "Threats of Political Violence Have America’s Elected Officials Living in Fear",
+          "link": "https://www.nytimes.com/2026/10/11/us/politics/elections-political-violence-harassment.html"
         },
         {
-          "title": "Rebuking Ukraine Over Oil Strikes, Trump Says It Should ‘Get a New President’",
-          "link": "https://www.nytimes.com/2026/10/10/world/europe/ukraine-russia-trump-diesel-talks.html"
+          "title": "After Many Threats, an Arizona Lawmaker Asks: ‘Is It Really Worth It?’",
+          "link": "https://www.nytimes.com/2026/10/11/us/arizona-alma-hernandez-threats-violence.html"
         },
         {
-          "title": "Some Republicans Reject Trump’s Move to Import Diesel Fuel From Russia",
-          "link": "https://www.nytimes.com/2026/10/10/us/politics/republicans-midterms-trump-diesel-russia.html"
+          "title": "Saudi Arabia Has Few Options as Houthis Aim at Heart of Its Ambitions",
+          "link": "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-arabia-options-houthis.html"
         },
         {
-          "title": "How Cornell University Chi Phi Fraternity Members Responded After Rape Accusation",
-          "link": "https://www.nytimes.com/2026/10/10/nyregion/cornell-rape-lawsuit-fraternity-brothers.html"
+          "title": "A Reporter Returns to China to Find it Richer, but Also Highly Paranoid.",
+          "link": "https://www.nytimes.com/2026/10/11/world/asia/china-essay-higgins-surveillance.html"
         },
         {
-          "title": "At Cornell, a Sorority Finds Itself Sued by One of Its Own",
-          "link": "https://www.nytimes.com/2026/10/10/nyregion/at-cornell-a-sorority-finds-itself-sued-by-one-of-its-own.html"
+          "title": "How the White House Manufactured a Narrative About a Trump Aide’s Call Logs",
+          "link": "https://www.nytimes.com/2026/10/11/us/politics/white-house-manufactured-narrative-solomon.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T05:20:01.658Z"
+      "updatedAt": "2026-10-11T12:32:28.397Z"
     }
   },
   "indices": {
@@ -284,8 +284,8 @@
       },
       {
         "name": "Bitcoin",
-        "price": 82980.19,
-        "pct": -0.3551326295605353
+        "price": 83057.4,
+        "pct": -0.26241676316313595
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-11T05:20:01.808Z"
+    "updatedAt": "2026-10-11T12:32:28.628Z"
   }
 }
