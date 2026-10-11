@@ -1,8 +1,24 @@
 {
-  "fetchedAt": "2026-10-11T17:58:06.943Z",
+  "fetchedAt": "2026-10-11T21:48:30.253Z",
   "feeds": {
     "MarketWatch": {
       "items": [
+        {
+          "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
+          "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories"
+        },
+        {
+          "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?",
+          "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories"
+        },
+        {
+          "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+          "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories"
+        },
+        {
+          "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
+          "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories"
+        },
         {
           "title": "Millions of Americans will have fewer options during Medicare open enrollment this year",
           "link": "https://www.marketwatch.com/story/millions-of-americans-will-have-fewer-options-during-medicare-open-enrollment-this-year-6b56698b?mod=mw_rss_topstories"
@@ -10,112 +26,96 @@
         {
           "title": "We’re about to get a huge read on whether earnings can keep propping up the stock market",
           "link": "https://www.marketwatch.com/story/were-about-to-get-a-huge-read-on-whether-earnings-can-keep-propping-up-the-stock-market-459b565b?mod=mw_rss_topstories"
-        },
-        {
-          "title": "The bull market is turning 4 years old — but yields could crash the party",
-          "link": "https://www.marketwatch.com/story/the-bull-market-is-turning-4-years-old-but-yields-could-crash-the-party-1305fe6c?mod=mw_rss_topstories"
-        },
-        {
-          "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?",
-          "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Bank earnings to shed the first light on how higher yields are affecting the economy",
-          "link": "https://www.marketwatch.com/story/bank-earnings-to-shed-the-first-light-on-how-higher-yields-are-affecting-the-economy-cf3763ef?mod=mw_rss_topstories"
-        },
-        {
-          "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
-          "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T17:58:02.653Z"
+      "updatedAt": "2026-10-11T21:48:28.644Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Jets defender delivers brutal hit to Browns rookie wide receiver, knocks him out of the game",
-          "link": "https://www.foxnews.com/outkick-sports/jets-defender-delivers-brutal-hit-browns-rookie-wide-receiver-knocks-him-out-game"
+          "title": "Quiet part out loud: Anti-Israel mobs want one state called 'Palestine,' erasing Israel",
+          "link": "https://www.foxnews.com/politics/quiet-part-out-loud-anti-israel-mobs-want-one-state-called-palestine-erasing-israel"
         },
         {
-          "title": "Kevin Costner's bachelor era: Actor sparks romance rumors with Jewel, Sharon Stone, Brooks Nader and more",
-          "link": "https://www.foxnews.com/entertainment/kevin-costners-bachelor-era-actor-sparks-romance-rumors-jewel-sharon-stone-brooks-nader-more"
+          "title": "Mystery team in Marvin Harrison trade steps forward, as Texans DeMeco Ryans confirms reunion with CJ Stroud",
+          "link": "https://www.foxnews.com/outkick-sports/mystery-team-marvin-harrison-trade-steps-forward-texans-demeco-ryans-confirms-reunion-cj-stroud"
         },
         {
-          "title": "Rescue expert warns FlyDubai hijacking attempt shows US, allies are ‘playing checkers’ against terror threat",
-          "link": "https://www.foxnews.com/politics/rescue-expert-warns-flydubai-hijacking-attempt-shows-us-allies-playing-checkers-against-terror-threat"
+          "title": "Hidden clues could help predict a woman’s breast cancer risk years in advance",
+          "link": "https://www.foxnews.com/health/hidden-clues-could-help-predict-womans-breast-cancer-risk-years-advance"
         },
         {
-          "title": "Jason Kelce’s Eagles-Jaguars broadcast shows why NFL booths could use more offensive linemen",
-          "link": "https://www.foxnews.com/outkick-sports/jason-kelce-eagles-jaguars-broadcast-shows-why-nfl-booths-could-use-more-offensive-linemen"
+          "title": "Lane Kiffin is staring down disastrous year one as offseason pleas for patience fall on deaf ears",
+          "link": "https://www.foxnews.com/outkick-sports/lane-kiffin-staring-down-disastrous-year-one-offseason-pleas-patience-fall-deaf-ears"
         },
         {
-          "title": "Kid Rock details unlikely Eminem collaboration on new Christian album",
-          "link": "https://www.foxnews.com/media/kid-rock-details-unlikely-eminem-collaboration-new-christian-album"
+          "title": "GOP senator calls for FCC probe of ABC News over Trump sons-Anduril 'political hit job'",
+          "link": "https://www.foxnews.com/media/gop-senator-calls-fcc-probe-abc-news-trump-sons-anduril-political-hit-job"
         },
         {
-          "title": "'Catfish Girl' Hannah Barron plays the hits with bowfishing influencer content in her bikini",
-          "link": "https://www.foxnews.com/outkick-sports/catfish-girl-hannah-barron-plays-hits-bowfishing-influencer-content-bikini"
+          "title": "Toddler stabbed in face, suspect previously deemed unfit for trial in attacks on 2 children: report",
+          "link": "https://www.foxnews.com/us/toddler-stabbed-face-stranger-previously-deemed-unfit-trial-attacks-two-children-report"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T17:58:03.644Z"
+      "updatedAt": "2026-10-11T21:48:28.801Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "The Death of the Nobel Peace Prize",
-          "link": "https://www.realclearpolitics.com/2026/10/11/the_death_of_the_nobel_peace_prize_713791.html"
+          "title": "Keep Democrats Away From U.S. Energy Policy",
+          "link": "https://www.realclearpolitics.com/2026/10/09/keep_democrats_away_from_us_energy_policy_713607.html"
         },
         {
-          "title": "Why You Should Believe the Polls This Time",
-          "link": "https://www.realclearpolitics.com/2026/10/11/why_you_should_believe_the_polls_this_time_713795.html"
+          "title": "The Dem Taking On One of GOP's Toughest Incumbents",
+          "link": "https://www.realclearpolitics.com/2026/10/10/the_dem_taking_on_one_of_gops_toughest_incumbents_713787.html"
         },
         {
-          "title": "Insulated Democrats Are Struggling in Debates",
-          "link": "https://www.realclearpolitics.com/2026/10/11/insulated_democrats_are_struggling_in_debates_713786.html"
+          "title": "Elon Musk's Enemies Make His Best Case",
+          "link": "https://www.realclearpolitics.com/2026/10/10/elon_musks_enemies_make_his_best_case_713792.html"
         },
         {
-          "title": "Jackson and Collins Take the Floor in Maine",
-          "link": "https://www.realclearpolitics.com/2026/10/10/jackson_and_collins_take_the_floor_in_maine_713793.html"
+          "title": "A Crossroads: Excellence or Mediocrity?",
+          "link": "https://www.realclearpolitics.com/2026/10/11/a_crossroads_excellence_or_mediocrity_713809.html"
         },
         {
-          "title": "Garland, Wray and the Arrogant Mr. Smith",
-          "link": "https://www.realclearpolitics.com/2026/10/11/garland_wray_and_the_arrogant_mr_smith_713798.html"
+          "title": "Time To Teach 3 Years of High School Civics",
+          "link": "https://www.realclearpolitics.com/2026/10/10/time_to_teach_3_years_of_high_school_civics_713796.html"
         },
         {
-          "title": "America's Experiment: Blending Liberty, Virtue From the First",
-          "link": "https://www.realclearpolitics.com/articles/2026/10/11/the_american_experiment_blending_liberty_and_virtue_from_the_first_154577.html"
+          "title": "Christa Pike Deserves the Death Penalty",
+          "link": "https://www.realclearpolitics.com/2026/10/07/christa_pike_deserves_the_death_penalty_713482.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T17:58:04.061Z"
+      "updatedAt": "2026-10-11T21:48:29.093Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Hamilton says Vance's attacks on his religion are 'really sad,' 'pathetic'",
-          "link": "https://thehill.com/homenews/campaign/6141240-hamilton-slams-vance-faith-attacks/"
+          "title": "This week on the Hill: Midterm debates, Trump Alaska trip take center stage",
+          "link": "https://thehill.com/newsletters/this-week-on-the-hill/6139807-midterm-elections-debates-trump-alaska/"
         },
         {
-          "title": "Russia's Kaliningrad threat is aimed at the ally Washington left outside the room",
-          "link": "https://thehill.com/opinion/international/6140160-russias-kaliningrad-threat-is-aimed-at-the-ally-washington-left-outside-the-room/"
+          "title": "Why North Carolina is shifting Democratic",
+          "link": "https://thehill.com/homenews/campaign/6139667-north-carolina-roy-cooper-democrats-midterm-elections/"
         },
         {
-          "title": "Mullin says livestreaming Hasan execution is part of 'restoring American values'",
-          "link": "https://thehill.com/homenews/administration/6141440-mullin-backs-hasan-execution-livestream/"
+          "title": "Tillis: Trump's Russia deal 'is tarnishing Lindsey Graham's efforts' at sanctions",
+          "link": "https://thehill.com/homenews/senate/6141694-tillis-slams-trump-russia-diesel/"
         },
         {
-          "title": "Emmer says he's 'so happy' Trump will decide whether to stream public execution",
-          "link": "https://thehill.com/homenews/house/6141241-emmer-supports-trump-execution-streaming-decision/"
+          "title": "El-Sayed addresses past Obama criticism, says Democrats now 'stand on the shoulders of giants'",
+          "link": "https://thehill.com/homenews/campaign/6141365-el-sayed-obama-michigan-senate/"
         },
         {
-          "title": "Zelensky says critics blaming him for Russia-Ukraine war 'can't find a key how to stop Putin'",
-          "link": "https://thehill.com/policy/international/6141238-zelensky-critics-russia-ukraine-war-stop-putin/"
+          "title": "Backlash grows against Russia diesel deal as Trump claims Ukraine energy ceasefire",
+          "link": "https://thehill.com/policy/energy-environment/6141263-bipartisan-backlash-russian-fuel/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T17:58:04.975Z"
+      "updatedAt": "2026-10-11T21:48:29.552Z"
     },
     "Ars Technica": {
       "items": [
@@ -141,10 +141,18 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T17:58:05.230Z"
+      "updatedAt": "2026-10-11T21:48:29.681Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "A college in Illinois tried to cancel its Flock contact and it refused",
+          "link": "https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras"
+        },
+        {
+          "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai"
+        },
         {
           "title": "The new Apple TV could have a built-in mic and a remote with a speaker",
           "link": "https://www.theverge.com/tech/1009397/apple-tv-refresh-built-in-mic-remote-speaker"
@@ -156,52 +164,44 @@
         {
           "title": "George A. Romero’s Season of the Witch is a slow-burn feminist occult drama",
           "link": "https://www.theverge.com/entertainment/1009346/george-a-romero-season-of-the-witch-feminist-horror-review"
-        },
-        {
-          "title": "Vurt wants you to look at vertical videos as a genre of their own",
-          "link": "https://www.theverge.com/entertainment/1008720/vurt-microdramas-verticals-interview-hilmon-sorey"
-        },
-        {
-          "title": "What to expect from Apple’s ‘Welcome Home’ event",
-          "link": "https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T17:58:05.349Z"
+      "updatedAt": "2026-10-11T21:48:29.807Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Saudi capital airport hit by second Houthi strike in two days",
-          "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss"
+          "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+          "link": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
-          "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss"
+          "title": "Saudi capital airport hit by second Houthi strike in two days",
+          "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Poland detains man suspected of planning assassination of PM Tusk",
           "link": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss"
         },
         {
+          "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
+          "link": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Homes and bridges swept away as fresh floods hit Nepal",
           "link": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Poland stabbings driven by online glorification of violence, Tusk says",
-          "link": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss"
+          "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+          "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
-          "link": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Pope Leo to have surgery after lump found on lung",
-          "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss"
+          "title": "Orangutans released back into Borneo forest after devastating fires",
+          "link": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T17:58:05.776Z"
+      "updatedAt": "2026-10-11T21:48:29.954Z"
     },
     "BBC News": {
       "items": [
@@ -210,28 +210,28 @@
           "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Riyadh airport attacks another dangerous moment in already tense conflict",
-          "link": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Buildings swept away as flash floods hit central Nepal",
-          "link": "https://www.bbc.co.uk/news/videos/cwzrdnljedx0o?at_medium=RSS&at_campaign=rss"
+          "title": "PM says it is 'clear' Russia interfered with Brexit vote",
+          "link": "https://www.bbc.co.uk/news/articles/c6jdm3zggl0ko?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Wildlife park remains closed after fatal tiger attack",
           "link": "https://www.bbc.co.uk/news/articles/cmgr8221v4x1o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Poland stabbings driven by online glorification of violence, Tusk says",
-          "link": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss"
+          "title": "Poland detains man suspected of planning assassination of PM Tusk",
+          "link": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
-          "link": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss"
+          "title": "DUP MP says her party could help remove O'Neill as first minister over Drumcree row",
+          "link": "https://www.bbc.co.uk/news/articles/cm79pd2zzl59o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Orangutans released back into Borneo forest after devastating fires",
+          "link": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T17:58:05.820Z"
+      "updatedAt": "2026-10-11T21:48:29.990Z"
     },
     "NY Times": {
       "items": [
@@ -244,20 +244,20 @@
           "link": "https://www.nytimes.com/2026/10/11/us/arizona-alma-hernandez-threats-violence.html"
         },
         {
+          "title": "Saudi and Yemeni Airports Hit in New Round of Strikes",
+          "link": "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-yemen-airports-houthis.html"
+        },
+        {
           "title": "Saudi Arabia Has Few Options as Houthis Aim at Heart of Its Ambitions",
           "link": "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-arabia-options-houthis.html"
         },
         {
-          "title": "A Reporter Returns to China to Find it Richer, but Also Highly Paranoid.",
-          "link": "https://www.nytimes.com/2026/10/11/world/asia/china-essay-higgins-surveillance.html"
-        },
-        {
-          "title": "How the White House Manufactured a Narrative About a Trump Aide’s Call Logs",
-          "link": "https://www.nytimes.com/2026/10/11/us/politics/white-house-manufactured-narrative-solomon.html"
+          "title": "Ukraine Shrugs Off Trump Call to Ditch Zelensky for Energy Strikes",
+          "link": "https://www.nytimes.com/2026/10/11/world/europe/trump-zelensky-diesel-energy-russia-.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T17:58:06.604Z"
+      "updatedAt": "2026-10-11T21:48:30.102Z"
     }
   },
   "indices": {
@@ -284,8 +284,8 @@
       },
       {
         "name": "Bitcoin",
-        "price": 83832.31,
-        "pct": 0.668116225180559
+        "price": 83375.86,
+        "pct": 0.11999865987687869
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-11T17:58:06.943Z"
+    "updatedAt": "2026-10-11T21:48:30.253Z"
   }
 }
