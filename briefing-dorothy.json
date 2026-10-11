@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-10-10T23:02:46.438Z",
+  "fetchedAt": "2026-10-11T02:40:49.074Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "'Happy Days' star Anson Williams says he had to create a second career because sitcom pay wasn't enough",
-          "link": "https://www.foxnews.com/entertainment/happy-days-star-anson-williams-says-he-had-create-second-career-because-sitcom-pay-wasnt-enough"
+          "title": "Browns players hit with fines for pretending to smoke after scoring a touchdown",
+          "link": "https://www.foxnews.com/outkick-sports/browns-players-hit-fines-pretending-smoke-scoring-touchdown"
         },
         {
-          "title": "Hot mic catches ESPN announcer comparing North Carolina QB to a lousy hotel breakfast",
-          "link": "https://www.foxnews.com/outkick-sports/hot-mic-catches-espn-announcer-comparing-north-carolina-qb-lousy-hotel-breakfast"
+          "title": "Roman Reigns slams the door on LA Knight’s world title hopes after incredible match at Money in the Bank",
+          "link": "https://www.foxnews.com/outkick-sports/roman-reigns-slams-door-la-knights-world-title-hopes-incredible-match-money-bank"
         },
         {
-          "title": "Tulsa's David Wells Jr. tips ball to himself for improbable touchdown in wild play against Navy",
-          "link": "https://www.foxnews.com/outkick-sports/tulsas-david-wells-jr-tips-ball-himself-improbable-touchdown-wild-play-navy"
+          "title": "Heidi Klum's fans say she's only making LA 'hotter' after she posts a topless Instagram photo",
+          "link": "https://www.foxnews.com/entertainment/heidi-klum-fans-say-shes-only-making-la-hotter-after-she-posts-topless-instagram-photo"
         },
         {
-          "title": "ESPN College Gameday 'no religious signs' rule draws backlash during Alabama vs Georgia broadcast",
-          "link": "https://www.foxnews.com/outkick-sports/espn-college-gameday-no-religious-signs-rule-draws-backlash-alabama-vs-georgia-broadcast"
+          "title": "Toxicology reports reveal same controlled substances in 2 Ole Miss students found dead: court docs",
+          "link": "https://www.foxnews.com/us/toxicology-reports-reveal-controlled-substances-ole-miss-students-found-dead-court-docs"
         },
         {
-          "title": "Veteran walked across four continents and just swam the English Channel to return home",
-          "link": "https://www.foxnews.com/travel/veteran-walked-across-four-continents-swam-english-channel-return-home"
+          "title": "UCLA Bruins upset Oregon Ducks to stay unbeaten and change the Big Ten championship picture",
+          "link": "https://www.foxnews.com/outkick-sports/ucla-bruins-upset-oregon-ducks-stay-unbeaten-change-big-ten-championship-picture"
         },
         {
-          "title": "Bill Belichick earns first win against ranked opponent as UNC upsets No 25 Pitt on road",
-          "link": "https://www.foxnews.com/outkick/bill-belichick-earns-first-win-against-ranked-opponent-unc-upsets-no-25-pitt-road"
+          "title": "Keri Russell gets X-rated about early days with Matthew Rhys in candid sex confession",
+          "link": "https://www.foxnews.com/entertainment/keri-russell-x-rated-early-days-matthew-rhys-candid-sex-confession"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T23:02:44.599Z"
+      "updatedAt": "2026-10-11T02:40:47.676Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,10 +59,18 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T23:02:44.873Z"
+      "updatedAt": "2026-10-11T02:40:47.908Z"
     },
     "The Hill": {
       "items": [
+        {
+          "title": "Trump says he will ‘ultimately make decision’ on Fort Hood shooter execution livestream",
+          "link": "https://thehill.com/homenews/administration/6140915-trump-reviews-hasan-execution-plan/"
+        },
+        {
+          "title": "GOP lawmakers reject U.S.-Russia diesel deal, Trump's Zelensky comments",
+          "link": "https://thehill.com/homenews/senate/6140871-republicans-oppose-trump-russian-diesel-deal/"
+        },
         {
           "title": "Bipartisan bill barring U.S. purchase of Russian oil on the horizon: Fitzpatrick",
           "link": "https://thehill.com/homenews/house/6140830-fitzpatrick-bill-block-russian-oil/"
@@ -74,18 +82,10 @@
         {
           "title": "U.S. measles cases surpass 4,000, with over 25 percent coming from Pennsylvania",
           "link": "https://thehill.com/policy/healthcare/6140802-us-measles-cases-surpass-4000-pennsylvania/"
-        },
-        {
-          "title": "Midterms could decide Johnson’s fate as GOP fights to hold House",
-          "link": "https://thehill.com/homenews/house/6140039-mike-johnson-political-future-midterms/"
-        },
-        {
-          "title": "Sunday shows preview: Trump admin's Russia deal, public execution plan spark pre-midterm backlash",
-          "link": "https://thehill.com/homenews/sunday-talk-shows/6140761-trump-russian-deal-executions-sunday-shows/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T23:02:45.624Z"
+      "updatedAt": "2026-10-11T02:40:48.193Z"
     },
     "Ars Technica": {
       "items": [
@@ -111,7 +111,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T23:02:45.681Z"
+      "updatedAt": "2026-10-11T02:40:48.369Z"
     },
     "The Verge": {
       "items": [
@@ -137,7 +137,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T23:02:45.779Z"
+      "updatedAt": "2026-10-11T02:40:48.493Z"
     },
     "BBC World": {
       "items": [
@@ -146,12 +146,16 @@
           "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
-          "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
           "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+          "link": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+          "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
@@ -164,14 +168,10 @@
         {
           "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
           "link": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Woman injures three people in third Poland school knife attack in a week",
-          "link": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T23:02:45.896Z"
+      "updatedAt": "2026-10-11T02:40:48.618Z"
     },
     "BBC News": {
       "items": [
@@ -188,30 +188,26 @@
           "link": "https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
-          "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss"
+          "title": "US justice department investigates TV networks over Trump pool coverage",
+          "link": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Sara Sharif's grandfather granted guardianship of her siblings in Pakistan",
-          "link": "https://www.bbc.co.uk/news/articles/cqdjvdpxmvn3o?at_medium=RSS&at_campaign=rss"
+          "title": "UK launch flood taskforce to prepare for extreme winter weather",
+          "link": "https://www.bbc.co.uk/news/articles/c8040n4v7126o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "King warns malicious online actors are evolving tactics",
-          "link": "https://www.bbc.co.uk/news/articles/cme3xl7d18z2o?at_medium=RSS&at_campaign=rss"
+          "title": "Bid to overturn ruling which stops police being sued for failings",
+          "link": "https://www.bbc.co.uk/news/articles/c6y43mmke7ygo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T23:02:45.901Z"
+      "updatedAt": "2026-10-11T02:40:48.625Z"
     },
     "NY Times": {
       "items": [
         {
           "title": "Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes",
           "link": "https://www.nytimes.com/2026/10/10/world/middleeast/riyadh-airport-attack-energy-congress.html"
-        },
-        {
-          "title": "Pentagon Again Increases Number of U.S. Casualties in Iran War",
-          "link": "https://www.nytimes.com/2026/10/10/us/politics/pentagon-casualties-iran-war.html"
         },
         {
           "title": "Rebuking Ukraine Over Oil Strikes, Trump Says It Should ‘Get a New President’",
@@ -224,10 +220,14 @@
         {
           "title": "How Cornell University Chi Phi Fraternity Members Responded After Rape Accusation",
           "link": "https://www.nytimes.com/2026/10/10/nyregion/cornell-rape-lawsuit-fraternity-brothers.html"
+        },
+        {
+          "title": "At Cornell, a Sorority Finds Itself Sued by One of Its Own",
+          "link": "https://www.nytimes.com/2026/10/10/nyregion/at-cornell-a-sorority-finds-itself-sued-by-one-of-its-own.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T23:02:45.953Z"
+      "updatedAt": "2026-10-11T02:40:48.649Z"
     },
     "ARTNews": {
       "items": [
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T23:02:46.010Z"
+      "updatedAt": "2026-10-11T02:40:48.770Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T23:02:46.127Z"
+      "updatedAt": "2026-10-11T02:40:48.821Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T23:02:46.309Z"
+      "updatedAt": "2026-10-11T02:40:48.956Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T23:02:46.438Z"
+      "updatedAt": "2026-10-11T02:40:49.074Z"
     }
   }
 }
