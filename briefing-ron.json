@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-11T21:48:30.253Z",
+  "fetchedAt": "2026-10-12T01:08:26.025Z",
   "feeds": {
     "MarketWatch": {
       "items": [
@@ -29,37 +29,37 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T21:48:28.644Z"
+      "updatedAt": "2026-10-12T01:08:24.146Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Quiet part out loud: Anti-Israel mobs want one state called 'Palestine,' erasing Israel",
-          "link": "https://www.foxnews.com/politics/quiet-part-out-loud-anti-israel-mobs-want-one-state-called-palestine-erasing-israel"
+          "title": "Houthis kill 14 at Saudi airport as expert warns of 'rapid targets' amid Middle East war",
+          "link": "https://www.foxnews.com/world/houthis-kill-14-saudi-airport-expert-warns-rapid-targets-amid-middle-east-war"
         },
         {
-          "title": "Mystery team in Marvin Harrison trade steps forward, as Texans DeMeco Ryans confirms reunion with CJ Stroud",
-          "link": "https://www.foxnews.com/outkick-sports/mystery-team-marvin-harrison-trade-steps-forward-texans-demeco-ryans-confirms-reunion-cj-stroud"
+          "title": "Ella Langley says canceled concert was ‘not worth a human life’ after bomb threat",
+          "link": "https://www.foxnews.com/entertainment/ella-langley-canceled-concert-not-worth-human-life-bomb-threat"
         },
         {
-          "title": "Hidden clues could help predict a woman’s breast cancer risk years in advance",
-          "link": "https://www.foxnews.com/health/hidden-clues-could-help-predict-womans-breast-cancer-risk-years-advance"
+          "title": "Tom Emmer tells Jon Karl there are 'communists' on the midterm ballot in heated ABC exchange",
+          "link": "https://www.foxnews.com/media/tom-emmer-tells-jon-karl-communists-midterm-ballot-heated-abc-exchange"
         },
         {
-          "title": "Lane Kiffin is staring down disastrous year one as offseason pleas for patience fall on deaf ears",
-          "link": "https://www.foxnews.com/outkick-sports/lane-kiffin-staring-down-disastrous-year-one-offseason-pleas-patience-fall-deaf-ears"
+          "title": "Should Penn State already regret James Franklin firing after loss to USC in 'White Out' game?",
+          "link": "https://www.foxnews.com/outkick-sports/penn-state-regret-james-franklin-firing-loss-usc-white-out-game"
         },
         {
-          "title": "GOP senator calls for FCC probe of ABC News over Trump sons-Anduril 'political hit job'",
-          "link": "https://www.foxnews.com/media/gop-senator-calls-fcc-probe-abc-news-trump-sons-anduril-political-hit-job"
+          "title": "Pregnant mom just 4 days from giving birth among 8 killed in Pennsylvania massacre: reports",
+          "link": "https://www.foxnews.com/us/pregnant-mom-just-4-days-giving-birth-among-8-killed-pennsylvania-massacre-reports"
         },
         {
-          "title": "Toddler stabbed in face, suspect previously deemed unfit for trial in attacks on 2 children: report",
-          "link": "https://www.foxnews.com/us/toddler-stabbed-face-stranger-previously-deemed-unfit-trial-attacks-two-children-report"
+          "title": "Minnesota homecoming shooting suspect out on bond after gunfire sends football fans fleeing",
+          "link": "https://www.foxnews.com/us/minnesota-homecoming-shooting-suspect-bond-gunfire-sends-football-fans-fleeing"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T21:48:28.801Z"
+      "updatedAt": "2026-10-12T01:08:24.408Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -89,36 +89,40 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T21:48:29.093Z"
+      "updatedAt": "2026-10-12T01:08:24.776Z"
     },
     "The Hill": {
       "items": [
         {
+          "title": "Judge orders cancellation of Trump’s government-funded ads",
+          "link": "https://thehill.com/regulation/court-battles/6141904-judge-blocks-trump-ads/"
+        },
+        {
+          "title": "Lawmakers in bipartisan statement push back on Trump over Russian oil",
+          "link": "https://thehill.com/homenews/senate/6141837-senate-lawmakers-condemn-russian-oil-deal/"
+        },
+        {
+          "title": "Check your email: $15.8 million being sent to users of cash advance app, FTC says",
+          "link": "https://thehill.com/business/6141712-check-your-email-15-8-million-being-sent-to-users-of-cash-advance-app-ftc-says/"
+        },
+        {
+          "title": "Chair of Texas Democratic Party says 'we're full steam ahead' after Talarico's flu recovery",
+          "link": "https://thehill.com/homenews/campaign/6141753-talarico-campaign-full-steam-ahead/"
+        },
+        {
           "title": "This week on the Hill: Midterm debates, Trump Alaska trip take center stage",
           "link": "https://thehill.com/newsletters/this-week-on-the-hill/6139807-midterm-elections-debates-trump-alaska/"
-        },
-        {
-          "title": "Why North Carolina is shifting Democratic",
-          "link": "https://thehill.com/homenews/campaign/6139667-north-carolina-roy-cooper-democrats-midterm-elections/"
-        },
-        {
-          "title": "Tillis: Trump's Russia deal 'is tarnishing Lindsey Graham's efforts' at sanctions",
-          "link": "https://thehill.com/homenews/senate/6141694-tillis-slams-trump-russia-diesel/"
-        },
-        {
-          "title": "El-Sayed addresses past Obama criticism, says Democrats now 'stand on the shoulders of giants'",
-          "link": "https://thehill.com/homenews/campaign/6141365-el-sayed-obama-michigan-senate/"
-        },
-        {
-          "title": "Backlash grows against Russia diesel deal as Trump claims Ukraine energy ceasefire",
-          "link": "https://thehill.com/policy/energy-environment/6141263-bipartisan-backlash-russian-fuel/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T21:48:29.552Z"
+      "updatedAt": "2026-10-12T01:08:25.135Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "Review: 4-hour Musk documentary feels like two different films",
+          "link": "https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films/"
+        },
         {
           "title": "Prime Video unveils Blade Runner 2099 full trailer at NYCC",
           "link": "https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc/"
@@ -134,14 +138,10 @@
         {
           "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
           "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/"
-        },
-        {
-          "title": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
-          "link": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T21:48:29.681Z"
+      "updatedAt": "2026-10-12T01:08:25.454Z"
     },
     "The Verge": {
       "items": [
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T21:48:29.807Z"
+      "updatedAt": "2026-10-12T01:08:25.524Z"
     },
     "BBC World": {
       "items": [
@@ -176,7 +176,7 @@
           "link": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Saudi capital airport hit by second Houthi strike in two days",
+          "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
           "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss"
         },
         {
@@ -201,12 +201,16 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T21:48:29.954Z"
+      "updatedAt": "2026-10-12T01:08:25.595Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Saudi capital airport hit by second Houthi strike in two days",
+          "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+          "link": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
           "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss"
         },
         {
@@ -224,25 +228,13 @@
         {
           "title": "DUP MP says her party could help remove O'Neill as first minister over Drumcree row",
           "link": "https://www.bbc.co.uk/news/articles/cm79pd2zzl59o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Orangutans released back into Borneo forest after devastating fires",
-          "link": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T21:48:29.990Z"
+      "updatedAt": "2026-10-12T01:08:25.615Z"
     },
     "NY Times": {
       "items": [
-        {
-          "title": "Threats of Political Violence Have America’s Elected Officials Living in Fear",
-          "link": "https://www.nytimes.com/2026/10/11/us/politics/elections-political-violence-harassment.html"
-        },
-        {
-          "title": "After Many Threats, an Arizona Lawmaker Asks: ‘Is It Really Worth It?’",
-          "link": "https://www.nytimes.com/2026/10/11/us/arizona-alma-hernandez-threats-violence.html"
-        },
         {
           "title": "Saudi and Yemeni Airports Hit in New Round of Strikes",
           "link": "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-yemen-airports-houthis.html"
@@ -252,12 +244,20 @@
           "link": "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-arabia-options-houthis.html"
         },
         {
+          "title": "Threats of Political Violence Have America’s Elected Officials Living in Fear",
+          "link": "https://www.nytimes.com/2026/10/11/us/politics/elections-political-violence-harassment.html"
+        },
+        {
+          "title": "After Many Threats, an Arizona Lawmaker Asks: ‘Is It Really Worth It?’",
+          "link": "https://www.nytimes.com/2026/10/11/us/arizona-alma-hernandez-threats-violence.html"
+        },
+        {
           "title": "Ukraine Shrugs Off Trump Call to Ditch Zelensky for Energy Strikes",
           "link": "https://www.nytimes.com/2026/10/11/world/europe/trump-zelensky-diesel-energy-russia-.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T21:48:30.102Z"
+      "updatedAt": "2026-10-12T01:08:25.723Z"
     }
   },
   "indices": {
@@ -279,13 +279,13 @@
       },
       {
         "name": "Gold",
-        "price": 4216.3,
-        "pct": 0.6973800482434099
+        "price": 4232.8,
+        "pct": 1.0914475412576679
       },
       {
         "name": "Bitcoin",
-        "price": 83375.86,
-        "pct": 0.11999865987687869
+        "price": 83831.12,
+        "pct": 2.638198657687093
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-11T21:48:30.253Z"
+    "updatedAt": "2026-10-12T01:08:26.025Z"
   }
 }
