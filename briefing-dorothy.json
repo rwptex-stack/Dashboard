@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-10-11T20:40:34.757Z",
+  "fetchedAt": "2026-10-12T00:04:09.192Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Will Stein's dad storms the field after Kentucky's upset win over LSU in beautiful college football scene",
-          "link": "https://www.foxnews.com/outkick-sports/will-stein-dad-storms-field-kentucky-upset-win-lsu-beautiful-college-football-scene"
+          "title": "Should Penn State already regret James Franklin firing after loss to USC in 'White Out' game?",
+          "link": "https://www.foxnews.com/outkick-sports/penn-state-regret-james-franklin-firing-loss-usc-white-out-game"
         },
         {
-          "title": "Sydney Sweeney doubles down with topless sports betting ad weeks after backlash:  ‘I’m flattered’",
-          "link": "https://www.foxnews.com/entertainment/sydney-sweeney-doubles-down-topless-sports-betting-ad-weeks-after-backlash-flattered"
+          "title": "Pregnant mom just 4 days from giving birth among 8 killed in Pennsylvania massacre: reports",
+          "link": "https://www.foxnews.com/us/pregnant-mom-just-4-days-giving-birth-among-8-killed-pennsylvania-massacre-reports"
         },
         {
-          "title": "In Springfield, Ohio, Trump must settle the MAGA vs Chamber of Commerce war",
-          "link": "https://www.foxnews.com/opinion/springfield-ohio-trump-settle-maga-vs-chamber-commerce-war"
+          "title": "Minnesota homecoming shooting suspect out on bond after gunfire sends football fans fleeing",
+          "link": "https://www.foxnews.com/us/minnesota-homecoming-shooting-suspect-bond-gunfire-sends-football-fans-fleeing"
         },
         {
-          "title": "Kourtney Kardashian's expletive-filled reaction to Oscar-winning actress calling her 'annoying'",
-          "link": "https://www.foxnews.com/entertainment/kourtney-kardashians-expletive-filled-reaction-oscar-winning-actress-calling-her-annoying"
+          "title": "Trump and Rubio weigh firing Kimberly Guilfoyle as misconduct and donor bailout allegations mount",
+          "link": "https://www.foxnews.com/politics/trump-rubio-weigh-firing-kimberly-guilfoyle-misconduct-donor-bailout-allegations-mount"
         },
         {
-          "title": "Oregon head coach Dan Lanning's words immediately came back to bite him in awful loss to UCLA",
-          "link": "https://www.foxnews.com/outkick-sports/oregon-head-coach-dan-lanning-words-immediately-came-back-bite-him-awful-loss-ucla"
+          "title": "Dre Greenlaw hits Sam Darnold along Seahawks bench, then chaos and ejection follow with more to come from NFL",
+          "link": "https://www.foxnews.com/outkick-sports/dre-greenlaw-hits-sam-darnold-seahawks-bench-chaos-ejection-follow-nfl"
         },
         {
-          "title": "Gas stations may be hiding some of America's most overlooked affordable fast-food options",
-          "link": "https://www.foxnews.com/food-drink/gas-stations-hiding-americas-overlooked-affordable-fast-food-options"
+          "title": "Commanders run out the clock on themselves, settle for tie with Giants in overtime meltdown",
+          "link": "https://www.foxnews.com/outkick-sports/commanders-run-out-clock-themselves-settle-tie-giants-overtime-meltdown"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T20:40:31.999Z"
+      "updatedAt": "2026-10-12T00:04:07.576Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,33 +59,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T20:40:32.167Z"
+      "updatedAt": "2026-10-12T00:04:07.839Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "El-Sayed addresses past Obama criticism, says Democrats now 'stand on the shoulders of giants'",
-          "link": "https://thehill.com/homenews/campaign/6141365-el-sayed-obama-michigan-senate/"
+          "title": "Lawmakers in bipartisan statement push back on Trump over Russian oil",
+          "link": "https://thehill.com/homenews/senate/6141837-senate-lawmakers-condemn-russian-oil-deal/"
         },
         {
-          "title": "Backlash grows against Russia diesel deal as Trump claims Ukraine energy ceasefire",
-          "link": "https://thehill.com/policy/energy-environment/6141263-bipartisan-backlash-russian-fuel/"
+          "title": "Check your email: $15.8 million being sent to users of cash advance app, FTC says",
+          "link": "https://thehill.com/business/6141712-check-your-email-15-8-million-being-sent-to-users-of-cash-advance-app-ftc-says/"
         },
         {
-          "title": "Russia strikes Ukrainian power plant after Trump claims energy ceasefire",
-          "link": "https://thehill.com/policy/international/6141601-russia-strikes-ukraine-power-plant/"
+          "title": "Chair of Texas Democratic Party says 'we're full steam ahead' after Talarico's flu recovery",
+          "link": "https://thehill.com/homenews/campaign/6141753-talarico-campaign-full-steam-ahead/"
         },
         {
-          "title": "Massie backs Trump's diesel deal with Russia in rare move",
-          "link": "https://thehill.com/homenews/house/6141586-massie-backs-trump-russia-diesel/"
+          "title": "This week on the Hill: Midterm debates, Trump Alaska trip take center stage",
+          "link": "https://thehill.com/newsletters/this-week-on-the-hill/6139807-midterm-elections-debates-trump-alaska/"
         },
         {
-          "title": "AI should empower Americans. Their data shouldn't empower China.",
-          "link": "https://thehill.com/opinion/technology/6140381-protecting-ai-data-china/"
+          "title": "Why North Carolina is shifting Democratic",
+          "link": "https://thehill.com/homenews/campaign/6139667-north-carolina-roy-cooper-democrats-midterm-elections/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T20:40:32.489Z"
+      "updatedAt": "2026-10-12T00:04:08.295Z"
     },
     "Ars Technica": {
       "items": [
@@ -111,7 +111,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T20:40:32.804Z"
+      "updatedAt": "2026-10-12T00:04:08.339Z"
     },
     "The Verge": {
       "items": [
@@ -137,46 +137,50 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T20:40:32.946Z"
+      "updatedAt": "2026-10-12T00:04:08.509Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Saudi capital airport hit by second Houthi strike in two days",
-          "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss"
+          "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+          "link": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
-          "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss"
+          "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+          "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Poland detains man suspected of planning assassination of PM Tusk",
           "link": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss"
         },
         {
+          "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
+          "link": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Homes and bridges swept away as fresh floods hit Nepal",
           "link": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Poland stabbings driven by online glorification of violence, Tusk says",
-          "link": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss"
+          "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+          "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Orangutans released back into Borneo forest after devastating fires",
           "link": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
-          "link": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T20:40:33.093Z"
+      "updatedAt": "2026-10-12T00:04:08.642Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Saudi capital airport hit by second Houthi strike in two days",
+          "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+          "link": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
           "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss"
         },
         {
@@ -194,25 +198,13 @@
         {
           "title": "DUP MP says her party could help remove O'Neill as first minister over Drumcree row",
           "link": "https://www.bbc.co.uk/news/articles/cm79pd2zzl59o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Orangutans released back into Borneo forest after devastating fires",
-          "link": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T20:40:33.192Z"
+      "updatedAt": "2026-10-12T00:04:08.650Z"
     },
     "NY Times": {
       "items": [
-        {
-          "title": "Threats of Political Violence Have America’s Elected Officials Living in Fear",
-          "link": "https://www.nytimes.com/2026/10/11/us/politics/elections-political-violence-harassment.html"
-        },
-        {
-          "title": "After Many Threats, an Arizona Lawmaker Asks: ‘Is It Really Worth It?’",
-          "link": "https://www.nytimes.com/2026/10/11/us/arizona-alma-hernandez-threats-violence.html"
-        },
         {
           "title": "Saudi and Yemeni Airports Hit in New Round of Strikes",
           "link": "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-yemen-airports-houthis.html"
@@ -222,12 +214,20 @@
           "link": "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-arabia-options-houthis.html"
         },
         {
+          "title": "Threats of Political Violence Have America’s Elected Officials Living in Fear",
+          "link": "https://www.nytimes.com/2026/10/11/us/politics/elections-political-violence-harassment.html"
+        },
+        {
+          "title": "After Many Threats, an Arizona Lawmaker Asks: ‘Is It Really Worth It?’",
+          "link": "https://www.nytimes.com/2026/10/11/us/arizona-alma-hernandez-threats-violence.html"
+        },
+        {
           "title": "Ukraine Shrugs Off Trump Call to Ditch Zelensky for Energy Strikes",
           "link": "https://www.nytimes.com/2026/10/11/world/europe/trump-zelensky-diesel-energy-russia-.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T20:40:33.251Z"
+      "updatedAt": "2026-10-12T00:04:08.679Z"
     },
     "ARTNews": {
       "items": [
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T20:40:33.474Z"
+      "updatedAt": "2026-10-12T00:04:08.761Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T20:40:33.583Z"
+      "updatedAt": "2026-10-12T00:04:08.884Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T20:40:34.635Z"
+      "updatedAt": "2026-10-12T00:04:09.122Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T20:40:34.757Z"
+      "updatedAt": "2026-10-12T00:04:09.192Z"
     }
   }
 }
