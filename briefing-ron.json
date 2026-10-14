@@ -1,15 +1,19 @@
 {
-  "fetchedAt": "2026-10-13T22:32:20.388Z",
+  "fetchedAt": "2026-10-14T01:44:58.353Z",
   "feeds": {
     "MarketWatch": {
       "items": [
         {
-          "title": "Chip stocks suffer worst stretch in 16 months as AI fatigue grips the market",
-          "link": "https://www.marketwatch.com/story/ai-fatigue-is-gripping-the-market-and-driving-chip-stocks-toward-their-worst-stretch-in-16-months-6dc78ece?mod=mw_rss_topstories"
-        },
-        {
           "title": "‘I am a pretty cautious person’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
           "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories"
+        },
+        {
+          "title": "My wife says we can’t afford to retire, yet she wants to take an $8,000 trip to Italy. We have $4 million. Do I keep working?",
+          "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Chip stocks suffer worst stretch in 16 months as AI fatigue grips the market",
+          "link": "https://www.marketwatch.com/story/ai-fatigue-is-gripping-the-market-and-driving-chip-stocks-toward-their-worst-stretch-in-16-months-6dc78ece?mod=mw_rss_topstories"
         },
         {
           "title": "The SpaceX threat could loom over AT&T’s stock for a prolonged stretch, analyst cautions",
@@ -22,44 +26,40 @@
         {
           "title": "AST SpaceMobile’s stock is feeling the heat from SpaceX’s wireless plans",
           "link": "https://www.marketwatch.com/story/ast-spacemobiles-stock-is-feeling-the-heat-from-spacexs-wireless-plans-7e2fafb4?mod=mw_rss_topstories"
-        },
-        {
-          "title": "My wife says we can’t afford to retire, yet she wants to take an $8,000 trip to Italy. We have $4 million. Do I keep working?",
-          "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T22:32:18.884Z"
+      "updatedAt": "2026-10-14T01:44:55.856Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Missouri Tigers head coach Eli Drinkwitz calls fan message boards a 'cesspool' during Ahmad Hardy update",
-          "link": "https://www.foxnews.com/outkick-sports/missouri-tigers-head-coach-eli-drinkwitz-calls-fan-message-boards-cesspool-ahmad-hardy-update"
+          "title": "Great Wolf Lodge horror as mom accused of killing husband and toddler inside hotel room",
+          "link": "https://www.foxnews.com/us/great-wolf-lodge-horror-mom-accused-killing-husband-toddler-hotel-room"
         },
         {
-          "title": "Judi Dench blasts 'trigger warnings' ruining stories: 'Drives me wild'",
-          "link": "https://www.foxnews.com/media/judi-dench-blasts-trigger-warnings-ruining-stories-drives-me-wild"
+          "title": "French AI CEO warns Americans against voting Democrat saying 'you don't want to be France'",
+          "link": "https://www.foxnews.com/media/french-ai-ceo-warns-americans-voting-democrat-saying-dont-want-be-france"
         },
         {
-          "title": "Woman accused of deadly revenge crash faces jury as boyfriend’s hospital account stays out of trial",
-          "link": "https://www.foxnews.com/us/woman-accused-deadly-revenge-crash-faces-jury-boyfriend-hospital-account-stays-out-trial"
+          "title": "Tyreek Hill found liable on two battery counts in divorce battery case, must pay Lakeeta Vaccaro $500,000",
+          "link": "https://www.foxnews.com/outkick-sports/tyreek-hill-found-liable-two-battery-counts-divorce-battery-case-must-pay-lakeeta-vaccaro-500000"
         },
         {
-          "title": "Hochul's office mocks Katie Zacharia with Aaron Rodgers injury post despite governor's press secretary scandal",
-          "link": "https://www.foxnews.com/outkick-sports/hochul-office-mocks-katie-zacharia-aaron-rodgers-injury-post-despite-governor-press-secretary-scandal"
+          "title": "Venture capital firm tied to Donald Trump Jr weighs legal action against ABC News over botched report",
+          "link": "https://www.foxnews.com/media/venture-capital-firm-tied-donald-trump-jr-weighs-legal-action-abc-news-botched-report"
         },
         {
-          "title": "Brian Flores' lawyer says memo to Raiders before team's coaching search portrayed client as 'angry Black man'",
-          "link": "https://www.foxnews.com/outkick-sports/brian-flores-lawyer-says-memo-raiders-coaching-search-portrayed-client-angry-black-man"
+          "title": "Kelly Clarkson 'has put us in danger,' Brooklyn store owner claims as bird's price tag soars to $15M",
+          "link": "https://www.foxnews.com/entertainment/kelly-clarkson-put-us-danger-brooklyn-store-owner-claims-bird-price-tag-soars-15m"
         },
         {
-          "title": "Embattled Soros-backed DA blames ‘criminal’ police misconduct in accused Philly cop killer’s prior murder case",
-          "link": "https://www.foxnews.com/us/embattled-soros-backed-da-blames-criminal-police-misconduct-accused-philly-cop-killer-prior-murder-case"
+          "title": "Rep Ilhan Omar's immigration history faces new scrutiny as federal investigators subpoena relatives",
+          "link": "https://www.foxnews.com/politics/rep-ilhan-omars-immigration-history-faces-new-scrutiny-federal-investigators-subpoena-relatives"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T22:32:18.972Z"
+      "updatedAt": "2026-10-14T01:44:56.107Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -89,36 +89,40 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T22:32:19.085Z"
+      "updatedAt": "2026-10-14T01:44:56.471Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Trump still seeks to block wind project",
-          "link": "https://thehill.com/newsletters/energy-environment/6146768-trump-still-seeks-to-block-wind-project/"
+          "title": "Ossoff commits to 6-year Senate term amid 2028 speculation",
+          "link": "https://thehill.com/homenews/campaign/6146926-ossoff-senate-2028-president-bid-speculation/"
         },
         {
-          "title": "Cleveland to be home of next submarine repair center",
-          "link": "https://thehill.com/newsletters/defense-national-security/6146728-cleveland-to-be-home-of-next-submarine-repair-center/"
+          "title": "Live updates: Trump takes the stage for Alaska rally; Key races hold midterm debates",
+          "link": "https://thehill.com/homenews/administration/6144742-live-updates-trump-alaska-zacharia-briefing-midterm-election-debates/"
         },
         {
-          "title": "Carney 1812 post references British-Canadian forces routing US",
-          "link": "https://thehill.com/policy/international/6146681-carney-references-war-1812-victory/"
+          "title": "Legal group files Hatch Act complaint over Omar search",
+          "link": "https://thehill.com/regulation/court-battles/6146880-hatch-act-complaint-omar-raid/"
         },
         {
-          "title": "Global law enforcement agencies, tech firms disrupt West African scam network",
-          "link": "https://thehill.com/policy/technology/6146435-global-agencies-tech-firms-scam-network/"
+          "title": "Pennsylvania at the center of US measles outbreaks",
+          "link": "https://thehill.com/newsletters/healthcare/6146827-pennsylvania-measles-outbreak-deaths/"
         },
         {
-          "title": "Guilfoyle scandal proves too much for Trump with midterms looming",
-          "link": "https://thehill.com/homenews/administration/6146652-donald-trump-kimberly-guilfoyle-resignation-midterm-elections/"
+          "title": "Musk jumps back into Trump's orbit ahead of midterms",
+          "link": "https://thehill.com/newsletters/technology/6146820-musk-jumps-back-into-trumps-orbit-ahead-of-midterms/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T22:32:19.519Z"
+      "updatedAt": "2026-10-14T01:44:57.341Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says",
+          "link": "https://arstechnica.com/health/2026/10/martin-shkreli-livestreamed-himself-violating-lifetime-pharma-ban-ftc-says/"
+        },
         {
           "title": "ESA targets Anbernic emulation handhelds as \"superfake\" piracy enablers",
           "link": "https://arstechnica.com/gaming/2026/10/esa-targets-anbernic-emulation-handhelds-as-superfake-piracy-enablers/"
@@ -134,14 +138,10 @@
         {
           "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
           "link": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/"
-        },
-        {
-          "title": "Skydance’s Discovery+ prices increase by up to 20 percent",
-          "link": "https://arstechnica.com/gadgets/2026/10/skydances-discovery-prices-increase-by-up-to-20-percent/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T22:32:19.705Z"
+      "updatedAt": "2026-10-14T01:44:57.508Z"
     },
     "The Verge": {
       "items": [
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T22:32:19.754Z"
+      "updatedAt": "2026-10-14T01:44:57.610Z"
     },
     "BBC World": {
       "items": [
@@ -178,6 +178,10 @@
         {
           "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
           "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+          "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
@@ -192,16 +196,12 @@
           "link": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Cornell bans all fraternity parties over gang sex assault allegations",
-          "link": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
           "link": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T22:32:20.018Z"
+      "updatedAt": "2026-10-14T01:44:57.903Z"
     },
     "BBC News": {
       "items": [
@@ -222,26 +222,30 @@
           "link": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Cornell bans all fraternity parties over gang sex assault allegations",
-          "link": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss"
+          "title": "Zelensky and Burnham to meet in Downing Street",
+          "link": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
-          "link": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss"
+          "title": "Royal Mail losing 400 postal workers a week, says union",
+          "link": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T22:32:20.023Z"
+      "updatedAt": "2026-10-14T01:44:58.007Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "The Rise and Fall of Ambassador Kimberly Guilfoyle",
+          "title": "‘Honey Please’: The Steep Rise and Sudden Fall of Kimberly Guilfoyle.",
           "link": "https://www.nytimes.com/2026/10/13/us/politics/guilfoyle-fall.html"
         },
         {
           "title": "Kimberly Guilfoyle Resigns as Ambassador to Greece",
           "link": "https://www.nytimes.com/2026/10/13/us/politics/kimberly-guilfoyle-resign.html"
+        },
+        {
+          "title": "Trump Aids Putin, Feuds With Ukraine",
+          "link": "https://www.nytimes.com/2026/10/13/briefing/putin-guilfoyle-gop.html"
         },
         {
           "title": "Pope Leo Has Lung Cancer, Vatican Says",
@@ -250,14 +254,10 @@
         {
           "title": "What to Know About Pope Leo’s Lung Cancer Diagnosis",
           "link": "https://www.nytimes.com/2026/10/13/well/pope-leo-lung-cancer-adenocarcinoma.html"
-        },
-        {
-          "title": "Trump Hands Victories to Putin, Who Offers More War in Return",
-          "link": "https://www.nytimes.com/2026/10/13/world/europe/russia-putin-trump-diesel-ukraine.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T22:32:20.157Z"
+      "updatedAt": "2026-10-14T01:44:58.157Z"
     }
   },
   "indices": {
@@ -279,13 +279,13 @@
       },
       {
         "name": "Gold",
-        "price": 4183.7,
-        "pct": 0.6422901130623002
+        "price": 4180,
+        "pct": 0.5532836179937455
       },
       {
         "name": "Bitcoin",
-        "price": 83411.59,
-        "pct": 1.0482235913121136
+        "price": 83256.85,
+        "pct": 0.4156443506585336
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-13T22:32:20.388Z"
+    "updatedAt": "2026-10-14T01:44:58.353Z"
   }
 }
