@@ -1,65 +1,65 @@
 {
-  "fetchedAt": "2026-10-14T13:33:19.095Z",
+  "fetchedAt": "2026-10-14T18:27:22.976Z",
   "feeds": {
     "MarketWatch": {
       "items": [
         {
-          "title": "Fake shopping sprees and ‘happiness insurance’: The latest fintech apps reveal our financial anxieties",
-          "link": "https://www.marketwatch.com/story/fake-shopping-sprees-and-happiness-insurance-the-latest-fintech-apps-reveal-our-financial-anxieties-77770a46?mod=mw_rss_topstories"
+          "title": "These unpopular solutions could rescue Social Security’s finances. Here’s who could pay the most.",
+          "link": "https://www.marketwatch.com/story/taxing-stocks-estates-and-employee-benefits-could-keep-social-security-from-running-out-of-money-heres-who-could-pay-the-most-616be82c?mod=mw_rss_topstories"
         },
         {
-          "title": "Gen Z renters are the only group more likely to feel successful by investing than buying a house",
+          "title": "Will mortgage rates stay above 7% in 2027?",
+          "link": "https://www.marketwatch.com/story/will-mortgage-rates-stay-above-7-in-2027-437873bd?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Investing, not homeownership, is the No. 1 milestone that makes Gen Z renters feel successful",
           "link": "https://www.marketwatch.com/story/gen-z-renters-are-the-only-group-more-likely-to-feel-successful-by-investing-than-buying-a-house-30ac5344?mod=mw_rss_topstories"
         },
         {
-          "title": "Social Security’s COLA will be 3.6% in 2027 as inflation persists",
+          "title": "3 things that are driving inflation higher",
+          "link": "https://www.marketwatch.com/story/3-things-that-are-driving-inflation-higher-26bda9a9?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Rising bond yields and higher inflation leave the Fed trapped in a rate-hike dilemma",
+          "link": "https://www.marketwatch.com/story/rising-bond-yields-and-higher-inflation-leave-the-fed-trapped-in-a-rate-hike-dilemma-d34ba326?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Your Social Security check will rise an average of $75 a month — will it be able to keep up with inflation?",
           "link": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Midterm voters haven’t seen this many housing proposals on the ballot in 20 years",
-          "link": "https://www.marketwatch.com/story/midterm-voters-havent-seen-this-many-housing-proposals-on-the-ballot-in-20-years-8cdf1405?mod=mw_rss_topstories"
-        },
-        {
-          "title": "This one move will save $20,000 on our wedding",
-          "link": "https://www.marketwatch.com/story/this-one-move-will-save-20-000-on-our-wedding-d22e4d24?mod=mw_rss_topstories"
-        },
-        {
-          "title": "I lost my home in the Great Recession. I still rent in my 50s. Why is that judged as failure?",
-          "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T13:33:18.070Z"
+      "updatedAt": "2026-10-14T18:27:22.079Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Retired NFL star takes one look at Madison Beer & gets why Herbert's struggling, ALCS empty seats & NFL memes",
-          "link": "https://www.foxnews.com/outkick-sports/retired-nfl-star-takes-one-look-madison-beer-gets-why-herberts-struggling-alcs-empty-seats-nfl-memes"
+          "title": "Kamala Harris calls to expand Supreme Court, add states if Dems take Congress",
+          "link": "https://www.foxnews.com/media/kamala-harris-calls-expand-supreme-court-add-states-dems-take-congress"
         },
         {
-          "title": "LPGA commissioner shares sensible opinion on controversial Good Good Golf ad: 'Good people make mistakes'",
-          "link": "https://www.foxnews.com/outkick-sports/lpga-commissioner-shares-sensible-opinion-controversial-good-good-golf-ad-good-people-make-mistakes"
+          "title": "Lindsay Clancy mistrial holdout juror speaks out, says he had 'a lot of evidence' for conviction",
+          "link": "https://www.foxnews.com/us/lindsay-clancy-mistrial-holdout-juror-speaks-says-lot-evidence-conviction"
         },
         {
-          "title": "Bryan Kohberger's court hearings abruptly canceled as lawyer warns of lengthy legal battle",
-          "link": "https://www.foxnews.com/us/bryan-kohberger-court-hearings-abruptly-canceled-lawyer-warns-lengthy-legal-battle"
+          "title": "Paige Spiranac goes viral on the golf course in a revealing Willy Wonka Halloween costume",
+          "link": "https://www.foxnews.com/outkick-sports/paige-spiranac-goes-viral-golf-course-revealing-willy-wonka-halloween-costume"
         },
         {
-          "title": "SEC accuses LSU of defying its rules as Will Wade’s basketball roster adds fuel to a burning fire",
-          "link": "https://www.foxnews.com/outkick-sports/sec-accuses-lsu-defying-rules-will-wade-basketball-roster-adds-fuel-burning-fire"
+          "title": "Hollywood star sounds alarm over disappearing jobs as productions flee California",
+          "link": "https://www.foxnews.com/media/hollywood-star-sounds-alarm-over-disappearing-jobs-productions-flee-california"
         },
         {
-          "title": "Sherrod Brown's 1971 letter argued against releasing Vietnam War POWs, podcast hosts reveal",
-          "link": "https://www.foxnews.com/media/sherrod-browns-1971-letter-argued-against-releasing-vietnam-war-pows-podcast-hosts-reveal"
+          "title": "Selma Blair's on-off boyfriend asks fans to 'pray' for actress after Delta flight incident, assault charges",
+          "link": "https://www.foxnews.com/entertainment/selma-blairs-on-off-boyfriend-asks-fans-pray-actress-after-delta-flight-incident-assault-charges"
         },
         {
-          "title": "AMB GORDON SONDLAND: Threading the needle on Ukraine, Russia and China",
-          "link": "https://www.foxnews.com/opinion/amb-gordon-sondland-threading-needle-ukraine-russia-china"
+          "title": "Cowboys owner Jerry Jones shares his retirement plans with a former president",
+          "link": "https://www.foxnews.com/outkick-sports/cowboys-owner-jerry-jones-shares-retirement-plans-former-president"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T13:33:18.169Z"
+      "updatedAt": "2026-10-14T18:27:22.148Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -73,7 +73,7 @@
         },
         {
           "title": "Talarico Has Democrats Dreaming Big in Texas",
-          "link": "https://www.realclearpolitics.com/2026/10/13/talarico_has_democrats_dreaming_big_in_texas_714075.html"
+          "link": "https://www.realclearpolitics.com/2026/10/14/talarico_has_democrats_dreaming_big_in_texas_714075.html"
         },
         {
           "title": "Minnesota Fed Up w/Fraud, May Derail Dems' Midterm Dreams",
@@ -89,36 +89,40 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T13:33:18.281Z"
+      "updatedAt": "2026-10-14T18:27:22.194Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Judge orders Trump administration to halt work at DC golf course until later this month",
-          "link": "https://thehill.com/policy/sports-gaming/6147430-court-ruling-donald-trump-east-potomac-golf-links-project/"
+          "title": "Hegseth heckled by anti-war protesters at Army conference",
+          "link": "https://thehill.com/policy/defense/6148576-pete-hegseth-protests-army-convention/"
         },
         {
-          "title": "Watch live: Hegseth talks future of autonomous warfare amid leadership shake-ups",
-          "link": "https://thehill.com/video-clips/6147339-watch-live-pete-hegseth-ausa-remarks-autonomous-warfare/"
+          "title": "Appeals court rules California can't require ICE to show visible ID",
+          "link": "https://thehill.com/regulation/court-battles/6148426-california-immigration-enforcement-id-law-appeals-court-ruling/"
         },
         {
-          "title": "Trump's authoritarian raid on Ilhan Omar is an attack on the rule of law",
-          "link": "https://thehill.com/opinion/campaign/6146203-trump-raids-ilhan-omar-home/"
+          "title": "Trump adviser sees 'a whole bunch of good news' in inflation report",
+          "link": "https://thehill.com/homenews/administration/6148546-hassett-september-cpi-energy-prices/"
         },
         {
-          "title": "Live updates: Inflation rises in September; Trump jets to Arizona, Montana",
-          "link": "https://thehill.com/homenews/administration/6146945-live-updates-trump-midterm-elections-debates/"
+          "title": "In Texas, 3 new polls show Talarico with slight lead",
+          "link": "https://thehill.com/homenews/campaign/6148528-talarico-paxton-texas-senate/"
         },
         {
-          "title": "Inflation rose to 3.7 percent in September: BLS",
-          "link": "https://thehill.com/business/6146675-bls-september-cpi-data-inflation/"
+          "title": "Harris to hit campaign trail for Democrats in Mississippi, New Hampshire, more",
+          "link": "https://thehill.com/homenews/campaign/6148466-harris-to-hit-campaign-trail-for-democrats-in-mississippi-new-hampshire-more/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T13:33:18.441Z"
+      "updatedAt": "2026-10-14T18:27:22.643Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "Ukraine blindsided by Starlink throttling restrictions and intelligence gaps",
+          "link": "https://arstechnica.com/gadgets/2026/10/ukraine-blindsided-by-starlink-throttling-restrictions-and-intelligence-gaps/"
+        },
         {
           "title": "Anthropic warns small AI models could self-replicate through IoT devices",
           "link": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/"
@@ -134,166 +138,162 @@
         {
           "title": "Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says",
           "link": "https://arstechnica.com/health/2026/10/martin-shkreli-livestreamed-himself-violating-lifetime-pharma-ban-ftc-says/"
-        },
-        {
-          "title": "ESA targets Anbernic emulation handhelds as \"superfake\" piracy enablers",
-          "link": "https://arstechnica.com/gaming/2026/10/esa-targets-anbernic-emulation-handhelds-as-superfake-piracy-enablers/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T13:33:18.590Z"
+      "updatedAt": "2026-10-14T18:27:22.698Z"
     },
     "The Verge": {
       "items": [
         {
-          "title": "The Ocarina of Time remake feels remarkably modern — and surprisingly terrifying",
-          "link": "https://www.theverge.com/games/1010101/zelda-ocarina-of-time-remake-switch-2-preview-hands-on"
+          "title": "YouTube sticks new labels on AI-generated songs",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label"
         },
         {
-          "title": "The Alexa Tablet 12 Pro is almost the Android tablet we needed",
-          "link": "https://www.theverge.com/tech/1010780/alexa-tablet-12-pro-review"
+          "title": "Save up to 20 percent on gift cards for REI, Barnes &#038; Noble, and more",
+          "link": "https://www.theverge.com/gadgets/1010749/google-play-gift-card-deal-sale"
         },
         {
-          "title": "The Tesla Roadster could have stayed vaporware",
-          "link": "https://www.theverge.com/transportation/1010694/tesla-roadster-reveal-vaporware-spacex-elon-musk"
+          "title": "Apple&#8217;s new HomeView smart display is $10 cheaper at Amazon",
+          "link": "https://www.theverge.com/gadgets/1011227/apple-homeview-smart-display-deal-sale"
         },
         {
-          "title": "Fairphone’s latest repairable earbuds are smaller, lighter, and longer-lasting",
-          "link": "https://www.theverge.com/tech/1010906/fairphone-fairbuds-2-price-release-audio-repairability"
+          "title": "Sprout Pi adds Bluetooth, streaming, and USB-C to your aging iPod",
+          "link": "https://www.theverge.com/gadgets/1011266/sprout-pi-adds-bluetooth-streaming-and-usb-c-to-your-aging-ipod"
         },
         {
-          "title": "Apple’s HomeView ad is confusing to everyone except parents",
-          "link": "https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction"
+          "title": "Anbernic’s next dual-screen handheld could replace your aging Nintendo 3DS",
+          "link": "https://www.theverge.com/tech/1011200/anbernic-rg-dds-dual-screen-handheld-emulator-nintendo-3ds"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T13:33:18.766Z"
+      "updatedAt": "2026-10-14T18:27:22.731Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
+          "title": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
           "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "US inflation rises more than expected ahead of midterm elections",
-          "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss"
+          "title": "Pope walking and recovering 'as expected' after surgery, doctors say",
+          "link": "https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-          "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss"
+          "title": "US inflation rises more than expected - here's what is happening with prices",
+          "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
           "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Saudi employee charged with planting recording device in OpenAI office",
-          "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss"
+          "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
+          "link": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Turkish police raid opposition TV station, halting live broadcasts",
-          "link": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss"
+          "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
+          "link": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "World's oldest shipwreck found off coast of Turkey",
-          "link": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss"
+          "title": "Kenya confirms second Ebola case - a relative of the first victim",
+          "link": "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T13:33:18.873Z"
+      "updatedAt": "2026-10-14T18:27:22.766Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Starlink network restrictions in Ukraine related to political situation, Zelensky aide says",
+          "title": "Russell Brand was a 'sexual predator', prosecution alleges as rape trial begins",
+          "link": "https://www.bbc.co.uk/news/articles/c3qjn45pepx1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
           "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Watch: Block of flats in ruins after Russian strikes on Ukraine",
-          "link": "https://www.bbc.co.uk/news/videos/cmx280x092x7o?at_medium=RSS&at_campaign=rss"
+          "title": "Burnham treads carefully with Zelensky visit, balancing Trump and Ukraine",
+          "link": "https://www.bbc.co.uk/news/articles/cmx23q4dwvneo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Sally Rooney books withdrawn in UK over Palestine Action support",
+          "link": "https://www.bbc.co.uk/news/articles/cmx23q4g307vo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
           "link": "https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Burnham had two hospitality dinners with Man City chairman, deleted records show",
-          "link": "https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "One stolen every four minutes - inside the police battle against vehicle thieves",
-          "link": "https://www.bbc.co.uk/news/articles/cqpvgyz30zepo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Watch: BBC joins police on front line against car theft",
-          "link": "https://www.bbc.co.uk/news/videos/cw4g195p3g23o?at_medium=RSS&at_campaign=rss"
+          "title": "Airport drop-off charges to be reviewed after sharp increase",
+          "link": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T13:33:18.881Z"
+      "updatedAt": "2026-10-14T18:27:22.783Z"
     },
     "NY Times": {
       "items": [
-        {
-          "title": "The Downfall of Trump’s Ambassador to Greece, and the Pope’s Cancer Diagnosis",
-          "link": "https://www.nytimes.com/2026/10/14/podcasts/the-headlines/kimberly-guilfoyle-pope-cancer.html"
-        },
         {
           "title": "Ukraine’s Vulnerability Grows as Starlink Is Restricted and Russia Escalates",
           "link": "https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html"
         },
         {
-          "title": "Zelensky to Visit U.K. as Ukraine Presses Allies on Intelligence Sharing",
+          "title": "What Is Starshield, SpaceX’s Military-Grade Satellite Internet Service Ukraine Relies On?",
+          "link": "https://www.nytimes.com/2026/10/14/business/starshield-spacex-ukraine-starlink-satellites-musk.html"
+        },
+        {
+          "title": "As Ukraine Raises Alarm Over U.S. Backing, Europeans Pledge Support",
           "link": "https://www.nytimes.com/2026/10/14/world/europe/ukraine-intelligence-sharing-zelensky-uk.html"
         },
         {
-          "title": "A Trump Backlash Endangers Susan Collins in the Maine Senate Race",
-          "link": "https://www.nytimes.com/2026/10/14/us/politics/susan-collins-trump-maine-senate.html"
+          "title": "Higher Energy Prices Pushed U.S. Inflation Up to 3.7% Ahead of Midterm Elections",
+          "link": "https://www.nytimes.com/2026/10/14/business/economy/inflation-cpi.html"
         },
         {
-          "title": "Becerra Is a Quiet Trailblazer for Latinos in California",
-          "link": "https://www.nytimes.com/2026/10/14/us/xavier-becerra-latino-california-governor.html"
+          "title": "Social Security COLA for 2027 Will Be 3.6%",
+          "link": "https://www.nytimes.com/2026/10/14/business/social-security-cola-retirees.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T13:33:18.970Z"
+      "updatedAt": "2026-10-14T18:27:22.829Z"
     }
   },
   "indices": {
     "data": [
       {
         "name": "S&P 500",
-        "price": 7776.38,
-        "pct": -0.32543897090019736
+        "price": 7703.95,
+        "pct": -1.253818043854159
       },
       {
         "name": "Dow Jones",
-        "price": 51751.68,
-        "pct": 1.1172556710284682
+        "price": 51442.44,
+        "pct": 0.5130337376785046
       },
       {
         "name": "Nasdaq",
-        "price": 27047.371,
-        "pct": -1.784104472652837
+        "price": 26656.967,
+        "pct": -3.2017608680732392
       },
       {
         "name": "Gold",
-        "price": 4108.1,
-        "pct": -2.566231055664915
+        "price": 4113.4,
+        "pct": -2.4405284253966877
       },
       {
         "name": "Bitcoin",
-        "price": 82800,
-        "pct": -0.13536000659974523
+        "price": 81514.49,
+        "pct": -1.6858067862847141
       },
       {
         "name": "SpaceX",
-        "price": 153.17,
-        "pct": -8.609785202863966
+        "price": 151.8,
+        "pct": -9.427207637231493
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-14T13:33:19.095Z"
+    "updatedAt": "2026-10-14T18:27:22.976Z"
   }
 }
