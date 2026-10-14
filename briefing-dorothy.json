@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-10-14T02:31:22.481Z",
+  "fetchedAt": "2026-10-14T08:07:47.243Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Saints’ 1-4 start under Kellen Moore prompts warning from owner Gayle Benson: ‘Not our standard’",
-          "link": "https://www.foxnews.com/outkick-sports/saints-1-4-start-under-kellen-moore-prompts-warning-owner-gayle-benson-not-our-standard"
+          "title": "Federal appeals court rules some nonviolent felons can legally own guns",
+          "link": "https://www.foxnews.com/politics/third-circuit-felon-gun-ban-dui-ruling"
         },
         {
-          "title": "Trump signs pardons for Alaska diesel mechanics onstage during rally touting major energy deals",
-          "link": "https://www.foxnews.com/politics/president-trump-signs-pardons-alaska-diesel-mechanics-onstage-rally-touting-major-energy-deals"
+          "title": "Trump announces massive oil, gas and mineral exploration plans in Greenland, touts national security benefits",
+          "link": "https://www.foxnews.com/politics/trump-announces-massive-oil-gas-mineral-exploration-plans-greenland-touts-national-security-benefits"
         },
         {
-          "title": "Trump Energy Department issues emergency order to prevent blackouts across 13 states amid unusual October heat",
-          "link": "https://www.foxnews.com/us/trump-energy-department-issues-emergency-order-prevent-blackouts-13-states-unusual-october-heat"
+          "title": "Trump administration slashes time refugees have to challenge loss of legal status",
+          "link": "https://www.foxnews.com/politics/trump-administration-slashes-time-refugees-challenge-loss-legal-status"
         },
         {
-          "title": "Florida executes inmate who killed cellmate because he wanted death penalty",
-          "link": "https://www.foxnews.com/us/florida-executes-inmate-killed-cellmate-wanted-death-penalty"
+          "title": "Tampa Bay Rays win game two over Guardians thanks to terrible error from José Ramírez, even ALCS at 1-1",
+          "link": "https://www.foxnews.com/outkick-sports/tampa-bay-rays-win-game-two-guardians-terrible-error-jose-ramirez-alcs-1-1"
         },
         {
-          "title": "Great Wolf Lodge horror as mom accused of killing husband and toddler inside hotel room",
-          "link": "https://www.foxnews.com/us/great-wolf-lodge-horror-mom-accused-killing-husband-toddler-hotel-room"
+          "title": "NYC Mayor Zohran Mamdani says he won't fire NYPD Commissioner Jessica Tisch despite socialist pressure",
+          "link": "https://www.foxnews.com/politics/nyc-mayor-zohran-mamdani-wont-fire-nypd-commissioner-jessica-tisch-despite-socialist-pressure"
         },
         {
-          "title": "French AI CEO warns Americans against voting Democrat saying 'you don't want to be France'",
-          "link": "https://www.foxnews.com/media/french-ai-ceo-warns-americans-voting-democrat-saying-dont-want-be-france"
+          "title": "Dave Roberts keeps Shohei Ohtani in Dodgers' NLCS Game 3 lineup despite postseason struggles",
+          "link": "https://www.foxnews.com/outkick-sports/dave-roberts-keeps-shohei-ohtani-dodgers-nlcs-game-3-lineup-despite-postseason-struggles"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T02:31:18.969Z"
+      "updatedAt": "2026-10-14T08:07:44.645Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,33 +59,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T02:31:19.493Z"
+      "updatedAt": "2026-10-14T08:07:44.867Z"
     },
     "The Hill": {
       "items": [
         {
+          "title": "Hinson, Turek tangle in fierce final Iowa Senate debate",
+          "link": "https://thehill.com/homenews/campaign/6147065-hinson-turek-iowa-senate-debate/"
+        },
+        {
+          "title": "Judge extends order allowing CNN, Politico, MS NOW White House press access",
+          "link": "https://thehill.com/regulation/court-battles/6147113-judge-extends-block-trump-media-ban/"
+        },
+        {
+          "title": "Hinson breaks with Trump on Russia diesel deal",
+          "link": "https://thehill.com/homenews/campaign/6147090-hinson-opposes-russia-diesel-deal/"
+        },
+        {
+          "title": "Chris Cuomo and Bannon clash over validity of upcoming midterms if Democrats win",
+          "link": "https://thehill.com/homenews/campaign/6147062-bannon-questions-election-legitimacy/"
+        },
+        {
           "title": "Ossoff, Collins clash in second Georgia Senate debate: 4 takeaways",
           "link": "https://thehill.com/homenews/campaign/6146910-ossoff-collins-second-georgia-senate-debate-takeaways/"
-        },
-        {
-          "title": "Trump pardons diesel mechanics for Clean Air Act violations at Alaska rally",
-          "link": "https://thehill.com/homenews/campaign/6147032-trump-pardons-alaska-diesel-mechanics/"
-        },
-        {
-          "title": "Collins, Jackson duke it out in third Maine Senate debate: 3 takeaways",
-          "link": "https://thehill.com/homenews/campaign/6146875-collins-jackson-third-maine-senate-debate-takeaways/"
-        },
-        {
-          "title": "Trump says Taiwan agreed to buy 30 percent of gas from Alaska pipeline",
-          "link": "https://thehill.com/homenews/6146987-taiwan-alaska-gas-pipeline-deal-trump/"
-        },
-        {
-          "title": "Ossoff commits to 6-year Senate term amid 2028 speculation",
-          "link": "https://thehill.com/homenews/campaign/6146926-ossoff-senate-2028-president-bid-speculation/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T02:31:20.119Z"
+      "updatedAt": "2026-10-14T08:07:45.342Z"
     },
     "Ars Technica": {
       "items": [
@@ -111,7 +111,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T02:31:20.286Z"
+      "updatedAt": "2026-10-14T08:07:45.514Z"
     },
     "The Verge": {
       "items": [
@@ -137,13 +137,21 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T02:31:20.428Z"
+      "updatedAt": "2026-10-14T08:07:45.615Z"
     },
     "BBC World": {
       "items": [
         {
           "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
           "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+          "link": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Turkey police raid opposition TV station, halting live broadcasts",
+          "link": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
@@ -160,18 +168,10 @@
         {
           "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
           "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
-          "link": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
-          "link": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T02:31:20.608Z"
+      "updatedAt": "2026-10-14T08:07:45.681Z"
     },
     "BBC News": {
       "items": [
@@ -180,46 +180,46 @@
           "link": "https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss"
         },
         {
+          "title": "One stolen every four minutes - inside the police battle against vehicle thieves",
+          "link": "https://www.bbc.co.uk/news/articles/cqpvgyz30zepo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Watch: BBC joins police on front line against car theft",
+          "link": "https://www.bbc.co.uk/news/videos/cw4g195p3g23o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Russian strikes leave 600,000 without power in Ukraine, Zelensky says",
+          "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
           "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
           "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
-          "link": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Zelensky and Burnham to meet in Downing Street",
-          "link": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Royal Mail losing 400 postal workers a week, says union",
-          "link": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T02:31:20.735Z"
+      "updatedAt": "2026-10-14T08:07:45.692Z"
     },
     "NY Times": {
       "items": [
         {
           "title": "‘Honey Please’: The Steep Rise and Sudden Fall of Kimberly Guilfoyle.",
-          "link": "https://www.nytimes.com/2026/10/13/us/politics/guilfoyle-fall.html"
+          "link": "https://www.nytimes.com/2026/10/13/us/politics/kimberly-guilfoyle-resigns-trump-ambassador-greece.html"
         },
         {
           "title": "Kimberly Guilfoyle Resigns as Ambassador to Greece",
           "link": "https://www.nytimes.com/2026/10/13/us/politics/kimberly-guilfoyle-resign.html"
         },
         {
-          "title": "Trump Aids Putin, Feuds With Ukraine",
-          "link": "https://www.nytimes.com/2026/10/13/briefing/putin-guilfoyle-gop.html"
-        },
-        {
           "title": "Pope Leo Has Lung Cancer, Vatican Says",
           "link": "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-lung-surgery.html"
+        },
+        {
+          "title": "Leo XIV’s Lung Cancer Diagnosis Tests a Papacy Still Taking Shape",
+          "link": "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-health-cancer.html"
         },
         {
           "title": "What to Know About Pope Leo’s Lung Cancer Diagnosis",
@@ -227,10 +227,18 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T02:31:20.867Z"
+      "updatedAt": "2026-10-14T08:07:46.028Z"
     },
     "ARTNews": {
       "items": [
+        {
+          "title": "A Long-Awaited Art Museum in a Former Renault Factory Finally Arrives on Paris’s Idyllic Île Seguin",
+          "link": "https://www.artnews.com/art-news/news/le-large-ile-seguin-museum-opening-cecilia-alemani-1234802305/"
+        },
+        {
+          "title": "Dealer Adam Shopkorn’s Alternative Route to Frieze London With Haitian Artist Myrlande Constant",
+          "link": "https://www.artnews.com/art-news/market/adam-shopkorns-alternative-route-to-frieze-london-1234802200/"
+        },
         {
           "title": "Blackpink Superstar Rosé Tapped for LACMA’s Art+Film Gala",
           "link": "https://www.artnews.com/art-news/news/blackpink-superstar-rose-tapped-for-lacmas-artfilm-gala-1234802293/"
@@ -246,18 +254,10 @@
         {
           "title": "A $25 M. Tribeca Apartment Is Being Sold with a Keith Haring Mural",
           "link": "https://www.artnews.com/art-news/news/keith-haring-mural-tribeca-apartment-25-million-1234802239/"
-        },
-        {
-          "title": "Peter Nagy, Adventurous Artist Turned Sharp-Sighted Dealer, Dies at 67",
-          "link": "https://www.artnews.com/art-news/news/peter-nagy-dead-artist-nature-morte-gallery-1234802252/"
-        },
-        {
-          "title": "Getty Images Files for Chapter 11 Bankruptcy Following Failed Merger with Shutterstock",
-          "link": "https://www.artnews.com/art-news/news/getty-images-fbankruptcy-failed-merger-shutterstock-1234802261/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T02:31:21.185Z"
+      "updatedAt": "2026-10-14T08:07:46.207Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T02:31:21.420Z"
+      "updatedAt": "2026-10-14T08:07:46.314Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T02:31:22.296Z"
+      "updatedAt": "2026-10-14T08:07:47.137Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T02:31:22.481Z"
+      "updatedAt": "2026-10-14T08:07:47.243Z"
     }
   }
 }
