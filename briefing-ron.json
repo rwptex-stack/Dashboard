@@ -1,124 +1,136 @@
 {
-  "fetchedAt": "2026-10-14T07:24:15.892Z",
+  "fetchedAt": "2026-10-14T13:33:19.095Z",
   "feeds": {
     "MarketWatch": {
       "items": [
         {
-          "title": "‘I am a pretty cautious person’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
-          "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories"
+          "title": "Fake shopping sprees and ‘happiness insurance’: The latest fintech apps reveal our financial anxieties",
+          "link": "https://www.marketwatch.com/story/fake-shopping-sprees-and-happiness-insurance-the-latest-fintech-apps-reveal-our-financial-anxieties-77770a46?mod=mw_rss_topstories"
         },
         {
-          "title": "My wife says we can’t afford to retire, yet she wants to take an $8,000 trip to Italy. We have $4 million. Do I keep working?",
-          "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories"
+          "title": "Gen Z renters are the only group more likely to feel successful by investing than buying a house",
+          "link": "https://www.marketwatch.com/story/gen-z-renters-are-the-only-group-more-likely-to-feel-successful-by-investing-than-buying-a-house-30ac5344?mod=mw_rss_topstories"
         },
         {
-          "title": "Chip stocks suffer worst stretch in 16 months as AI fatigue grips the market",
-          "link": "https://www.marketwatch.com/story/ai-fatigue-is-gripping-the-market-and-driving-chip-stocks-toward-their-worst-stretch-in-16-months-6dc78ece?mod=mw_rss_topstories"
+          "title": "Social Security’s COLA will be 3.6% in 2027 as inflation persists",
+          "link": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories"
         },
         {
-          "title": "The SpaceX threat could loom over AT&T’s stock for a prolonged stretch, analyst cautions",
-          "link": "https://www.marketwatch.com/story/the-spacex-threat-could-loom-over-at-ts-stock-for-a-prolonged-stretch-analyst-cautions-71436853?mod=mw_rss_topstories"
+          "title": "Midterm voters haven’t seen this many housing proposals on the ballot in 20 years",
+          "link": "https://www.marketwatch.com/story/midterm-voters-havent-seen-this-many-housing-proposals-on-the-ballot-in-20-years-8cdf1405?mod=mw_rss_topstories"
         },
         {
-          "title": "Six Flags’ stock slumps near 17-year low after fatal incident",
-          "link": "https://www.marketwatch.com/story/six-flags-stock-slumps-near-52-week-lows-after-fatal-accident-3f938112?mod=mw_rss_topstories"
+          "title": "This one move will save $20,000 on our wedding",
+          "link": "https://www.marketwatch.com/story/this-one-move-will-save-20-000-on-our-wedding-d22e4d24?mod=mw_rss_topstories"
         },
         {
-          "title": "AST SpaceMobile’s stock is feeling the heat from SpaceX’s wireless plans",
-          "link": "https://www.marketwatch.com/story/ast-spacemobiles-stock-is-feeling-the-heat-from-spacexs-wireless-plans-7e2fafb4?mod=mw_rss_topstories"
+          "title": "I lost my home in the Great Recession. I still rent in my 50s. Why is that judged as failure?",
+          "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T07:24:13.158Z"
+      "updatedAt": "2026-10-14T13:33:18.070Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Trump announces massive oil, gas and mineral exploration plans in Greenland, touts national security benefits",
-          "link": "https://www.foxnews.com/politics/trump-announces-massive-oil-gas-mineral-exploration-plans-greenland-touts-national-security-benefits"
+          "title": "Retired NFL star takes one look at Madison Beer & gets why Herbert's struggling, ALCS empty seats & NFL memes",
+          "link": "https://www.foxnews.com/outkick-sports/retired-nfl-star-takes-one-look-madison-beer-gets-why-herberts-struggling-alcs-empty-seats-nfl-memes"
         },
         {
-          "title": "Trump administration slashes time refugees have to challenge loss of legal status",
-          "link": "https://www.foxnews.com/politics/trump-administration-slashes-time-refugees-challenge-loss-legal-status"
+          "title": "LPGA commissioner shares sensible opinion on controversial Good Good Golf ad: 'Good people make mistakes'",
+          "link": "https://www.foxnews.com/outkick-sports/lpga-commissioner-shares-sensible-opinion-controversial-good-good-golf-ad-good-people-make-mistakes"
         },
         {
-          "title": "Tampa Bay Rays win game two over Guardians thanks to terrible error from José Ramírez, even ALCS at 1-1",
-          "link": "https://www.foxnews.com/outkick-sports/tampa-bay-rays-win-game-two-guardians-terrible-error-jose-ramirez-alcs-1-1"
+          "title": "Bryan Kohberger's court hearings abruptly canceled as lawyer warns of lengthy legal battle",
+          "link": "https://www.foxnews.com/us/bryan-kohberger-court-hearings-abruptly-canceled-lawyer-warns-lengthy-legal-battle"
         },
         {
-          "title": "NYC Mayor Zohran Mamdani says he won't fire NYPD Commissioner Jessica Tisch despite socialist pressure",
-          "link": "https://www.foxnews.com/politics/nyc-mayor-zohran-mamdani-wont-fire-nypd-commissioner-jessica-tisch-despite-socialist-pressure"
+          "title": "SEC accuses LSU of defying its rules as Will Wade’s basketball roster adds fuel to a burning fire",
+          "link": "https://www.foxnews.com/outkick-sports/sec-accuses-lsu-defying-rules-will-wade-basketball-roster-adds-fuel-burning-fire"
         },
         {
-          "title": "Dave Roberts keeps Shohei Ohtani in Dodgers' NLCS Game 3 lineup despite postseason struggles",
-          "link": "https://www.foxnews.com/outkick-sports/dave-roberts-keeps-shohei-ohtani-dodgers-nlcs-game-3-lineup-despite-postseason-struggles"
+          "title": "Sherrod Brown's 1971 letter argued against releasing Vietnam War POWs, podcast hosts reveal",
+          "link": "https://www.foxnews.com/media/sherrod-browns-1971-letter-argued-against-releasing-vietnam-war-pows-podcast-hosts-reveal"
         },
         {
-          "title": "Saints’ 1-4 start under Kellen Moore prompts warning from owner Gayle Benson: ‘Not our standard’",
-          "link": "https://www.foxnews.com/outkick-sports/saints-1-4-start-under-kellen-moore-prompts-warning-owner-gayle-benson-not-our-standard"
+          "title": "AMB GORDON SONDLAND: Threading the needle on Ukraine, Russia and China",
+          "link": "https://www.foxnews.com/opinion/amb-gordon-sondland-threading-needle-ukraine-russia-china"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T07:24:13.496Z"
+      "updatedAt": "2026-10-14T13:33:18.169Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "Polls Come Under Scrutiny as Dems Hold Midterm Lead",
-          "link": "https://www.realclearpolitics.com/2026/10/12/polls_come_under_scrutiny_as_dems_hold_midterm_lead_713959.html"
+          "title": "GOP Has Seen This Midterm Before - 20 Years Ago",
+          "link": "https://www.realclearpolitics.com/2026/10/14/gop_has_seen_this_midterm_before_-_20_years_ago_714135.html"
+        },
+        {
+          "title": "3 Weeks Out, GOP Plays Defense",
+          "link": "https://www.realclearpolitics.com/2026/10/14/3_weeks_out_gop_plays_defense_714083.html"
         },
         {
           "title": "Talarico Has Democrats Dreaming Big in Texas",
           "link": "https://www.realclearpolitics.com/2026/10/13/talarico_has_democrats_dreaming_big_in_texas_714075.html"
         },
         {
-          "title": "GOP Plays Defense in 2026",
-          "link": "https://www.realclearpolitics.com/2026/10/13/gop_plays_defense_in_2026_714083.html"
+          "title": "Minnesota Fed Up w/Fraud, May Derail Dems' Midterm Dreams",
+          "link": "https://www.realclearpolitics.com/2026/10/14/minnesota_fed_up_wfraud_may_derail_dems_midterm_dreams_714142.html"
         },
         {
-          "title": "Can Nevada Democrats Roll a Trifecta?",
-          "link": "https://www.realclearpolitics.com/2026/10/13/can_nevada_democrats_roll_a_trifecta_714066.html"
+          "title": "Why Trump's Midterm Rally Blitz Probably Won't Work",
+          "link": "https://www.realclearpolitics.com/2026/10/14/why_trumps_midterm_rally_blitz_probably_wont_work_714165.html"
         },
         {
-          "title": "Stats Prove Good Guys With Guns Save Lives",
-          "link": "https://www.realclearpolitics.com/2026/10/09/stats_prove_good_guys_with_guns_save_lives_713692.html"
-        },
-        {
-          "title": "From the Ruins of Gaza, Palestinians Carry On",
-          "link": "https://www.realclearpolitics.com/2026/10/12/from_the_ruins_of_gaza_palestinians_carry_on_713968.html"
+          "title": "Dems' Not-So-Secret Midterm Campaigns for White House",
+          "link": "https://www.realclearpolitics.com/2026/10/14/dems_not-so-secret_midterm_campaigns_for_white_house_714139.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T07:24:13.762Z"
+      "updatedAt": "2026-10-14T13:33:18.281Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Hinson, Turek tangle in fierce final Iowa Senate debate",
-          "link": "https://thehill.com/homenews/campaign/6147065-hinson-turek-iowa-senate-debate/"
+          "title": "Judge orders Trump administration to halt work at DC golf course until later this month",
+          "link": "https://thehill.com/policy/sports-gaming/6147430-court-ruling-donald-trump-east-potomac-golf-links-project/"
         },
         {
-          "title": "Judge extends order allowing CNN, Politico, MS NOW White House press access",
-          "link": "https://thehill.com/regulation/court-battles/6147113-judge-extends-block-trump-media-ban/"
+          "title": "Watch live: Hegseth talks future of autonomous warfare amid leadership shake-ups",
+          "link": "https://thehill.com/video-clips/6147339-watch-live-pete-hegseth-ausa-remarks-autonomous-warfare/"
         },
         {
-          "title": "Hinson breaks with Trump on Russia diesel deal",
-          "link": "https://thehill.com/homenews/campaign/6147090-hinson-opposes-russia-diesel-deal/"
+          "title": "Trump's authoritarian raid on Ilhan Omar is an attack on the rule of law",
+          "link": "https://thehill.com/opinion/campaign/6146203-trump-raids-ilhan-omar-home/"
         },
         {
-          "title": "Chris Cuomo and Bannon clash over validity of upcoming midterms if Democrats win",
-          "link": "https://thehill.com/homenews/campaign/6147062-bannon-questions-election-legitimacy/"
+          "title": "Live updates: Inflation rises in September; Trump jets to Arizona, Montana",
+          "link": "https://thehill.com/homenews/administration/6146945-live-updates-trump-midterm-elections-debates/"
         },
         {
-          "title": "Ossoff, Collins clash in second Georgia Senate debate: 4 takeaways",
-          "link": "https://thehill.com/homenews/campaign/6146910-ossoff-collins-second-georgia-senate-debate-takeaways/"
+          "title": "Inflation rose to 3.7 percent in September: BLS",
+          "link": "https://thehill.com/business/6146675-bls-september-cpi-data-inflation/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T07:24:14.617Z"
+      "updatedAt": "2026-10-14T13:33:18.441Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+          "link": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/"
+        },
+        {
+          "title": "The Internet’s undersea backbone is slipping into the danger zone",
+          "link": "https://arstechnica.com/gadgets/2026/10/the-internets-undersea-backbone-is-slipping-into-to-the-danger-zone/"
+        },
+        {
+          "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
+          "link": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/"
+        },
         {
           "title": "Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says",
           "link": "https://arstechnica.com/health/2026/10/martin-shkreli-livestreamed-himself-violating-lifetime-pharma-ban-ftc-says/"
@@ -126,88 +138,88 @@
         {
           "title": "ESA targets Anbernic emulation handhelds as \"superfake\" piracy enablers",
           "link": "https://arstechnica.com/gaming/2026/10/esa-targets-anbernic-emulation-handhelds-as-superfake-piracy-enablers/"
-        },
-        {
-          "title": "Topgolf saved over $11.3 million after leaving VMware",
-          "link": "https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/"
-        },
-        {
-          "title": "Trump commercial railing against his enemies kept airing after court blocked it",
-          "link": "https://arstechnica.com/tech-policy/2026/10/trumps-taxpayer-funded-ads-kept-airing-on-tv-the-day-after-judge-blocked-them/"
-        },
-        {
-          "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
-          "link": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T07:24:14.762Z"
+      "updatedAt": "2026-10-14T13:33:18.590Z"
     },
     "The Verge": {
       "items": [
         {
+          "title": "The Ocarina of Time remake feels remarkably modern — and surprisingly terrifying",
+          "link": "https://www.theverge.com/games/1010101/zelda-ocarina-of-time-remake-switch-2-preview-hands-on"
+        },
+        {
+          "title": "The Alexa Tablet 12 Pro is almost the Android tablet we needed",
+          "link": "https://www.theverge.com/tech/1010780/alexa-tablet-12-pro-review"
+        },
+        {
+          "title": "The Tesla Roadster could have stayed vaporware",
+          "link": "https://www.theverge.com/transportation/1010694/tesla-roadster-reveal-vaporware-spacex-elon-musk"
+        },
+        {
+          "title": "Fairphone’s latest repairable earbuds are smaller, lighter, and longer-lasting",
+          "link": "https://www.theverge.com/tech/1010906/fairphone-fairbuds-2-price-release-audio-repairability"
+        },
+        {
           "title": "Apple’s HomeView ad is confusing to everyone except parents",
           "link": "https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction"
-        },
-        {
-          "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device"
-        },
-        {
-          "title": "It looks like Apple Music is getting a new icon",
-          "link": "https://www.theverge.com/tech/1010619/apple-music-new-icon-ios-27-beta"
-        },
-        {
-          "title": "Shopify opens its catalog up to more AI agents",
-          "link": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents"
-        },
-        {
-          "title": "Xbox is officially embracing the chaos of AI-powered game ports",
-          "link": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T07:24:14.923Z"
+      "updatedAt": "2026-10-14T13:33:18.766Z"
     },
     "BBC World": {
       "items": [
         {
+          "title": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
+          "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "US inflation rises more than expected ahead of midterm elections",
+          "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
           "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-          "link": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Turkey police raid opposition TV station, halting live broadcasts",
-          "link": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
-          "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
           "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
-          "link": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss"
+          "title": "Saudi employee charged with planting recording device in OpenAI office",
+          "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-          "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss"
+          "title": "Turkish police raid opposition TV station, halting live broadcasts",
+          "link": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "World's oldest shipwreck found off coast of Turkey",
+          "link": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T07:24:15.034Z"
+      "updatedAt": "2026-10-14T13:33:18.873Z"
     },
     "BBC News": {
       "items": [
         {
+          "title": "Starlink network restrictions in Ukraine related to political situation, Zelensky aide says",
+          "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Watch: Block of flats in ruins after Russian strikes on Ukraine",
+          "link": "https://www.bbc.co.uk/news/videos/cmx280x092x7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
           "link": "https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Burnham had two hospitality dinners with Man City chairman, deleted records show",
+          "link": "https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "One stolen every four minutes - inside the police battle against vehicle thieves",
@@ -216,84 +228,72 @@
         {
           "title": "Watch: BBC joins police on front line against car theft",
           "link": "https://www.bbc.co.uk/news/videos/cw4g195p3g23o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-          "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-          "link": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
-          "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T07:24:15.264Z"
+      "updatedAt": "2026-10-14T13:33:18.881Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "‘Honey Please’: The Steep Rise and Sudden Fall of Kimberly Guilfoyle.",
-          "link": "https://www.nytimes.com/2026/10/13/us/politics/guilfoyle-fall.html"
+          "title": "The Downfall of Trump’s Ambassador to Greece, and the Pope’s Cancer Diagnosis",
+          "link": "https://www.nytimes.com/2026/10/14/podcasts/the-headlines/kimberly-guilfoyle-pope-cancer.html"
         },
         {
-          "title": "Kimberly Guilfoyle Resigns as Ambassador to Greece",
-          "link": "https://www.nytimes.com/2026/10/13/us/politics/kimberly-guilfoyle-resign.html"
+          "title": "Ukraine’s Vulnerability Grows as Starlink Is Restricted and Russia Escalates",
+          "link": "https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html"
         },
         {
-          "title": "Pope Leo Has Lung Cancer, Vatican Says",
-          "link": "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-lung-surgery.html"
+          "title": "Zelensky to Visit U.K. as Ukraine Presses Allies on Intelligence Sharing",
+          "link": "https://www.nytimes.com/2026/10/14/world/europe/ukraine-intelligence-sharing-zelensky-uk.html"
         },
         {
-          "title": "Leo XIV’s Lung Cancer Diagnosis Tests a Papacy Still Taking Shape",
-          "link": "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-health-cancer.html"
+          "title": "A Trump Backlash Endangers Susan Collins in the Maine Senate Race",
+          "link": "https://www.nytimes.com/2026/10/14/us/politics/susan-collins-trump-maine-senate.html"
         },
         {
-          "title": "What to Know About Pope Leo’s Lung Cancer Diagnosis",
-          "link": "https://www.nytimes.com/2026/10/13/well/pope-leo-lung-cancer-adenocarcinoma.html"
+          "title": "Becerra Is a Quiet Trailblazer for Latinos in California",
+          "link": "https://www.nytimes.com/2026/10/14/us/xavier-becerra-latino-california-governor.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T07:24:15.488Z"
+      "updatedAt": "2026-10-14T13:33:18.970Z"
     }
   },
   "indices": {
     "data": [
       {
         "name": "S&P 500",
-        "price": 7805.45,
-        "pct": -0.17240210617054344
+        "price": 7776.38,
+        "pct": -0.32543897090019736
       },
       {
         "name": "Dow Jones",
-        "price": 51670.1,
-        "pct": 0.2888515192169133
+        "price": 51751.68,
+        "pct": 1.1172556710284682
       },
       {
         "name": "Nasdaq",
-        "price": 27204.38,
-        "pct": -1.4326558281784023
+        "price": 27047.371,
+        "pct": -1.784104472652837
       },
       {
         "name": "Gold",
-        "price": 4171.5,
-        "pct": -1.0625429879278083
+        "price": 4108.1,
+        "pct": -2.566231055664915
       },
       {
         "name": "Bitcoin",
-        "price": 83397.68,
-        "pct": 0.5854986652753124
+        "price": 82800,
+        "pct": -0.13536000659974523
       },
       {
         "name": "SpaceX",
-        "price": 156.54,
-        "pct": -8.94602140530479
+        "price": 153.17,
+        "pct": -8.609785202863966
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-14T07:24:15.892Z"
+    "updatedAt": "2026-10-14T13:33:19.095Z"
   }
 }
