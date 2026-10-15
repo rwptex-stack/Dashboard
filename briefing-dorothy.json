@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-10-14T22:47:39.059Z",
+  "fetchedAt": "2026-10-15T01:03:24.910Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "DOJ threatens emergency legal action against California over suspected noncitizen voters",
-          "link": "https://www.foxnews.com/politics/doj-threatens-emergency-legal-action-california-suspected-noncitizen-voters"
+          "title": "Mike Tomlin offers blunt take on NFL players-only meetings: ‘I think you’re dead’",
+          "link": "https://www.foxnews.com/outkick-sports/mike-tomlin-offers-blunt-take-nfl-players-only-meetings-think-youre-dead"
         },
         {
-          "title": "Fox News Poll: Cost-of-living concerns weigh on GOP in midterms",
-          "link": "https://www.foxnews.com/politics/fox-news-poll-cost-living-concerns-weigh-gop-midterms"
+          "title": "Rams tackle Alaric Jackson wins appeal, will miss just one game for punching Bills' Bradley Chubb",
+          "link": "https://www.foxnews.com/outkick-sports/rams-tackle-alaric-jackson-wins-appeal-miss-one-game-punching-bills-bradley-chubb"
         },
         {
-          "title": "Expert calls California 'Wild West' for surrogacy after couple charged with abusing surrogate-born children",
-          "link": "https://www.foxnews.com/politics/expert-calls-california-wild-west-surrogacy-couple-charged-abusing-surrogate-born-children"
+          "title": "Copper theft suspect's daring escape caught on bodycam video before deputies discover what he left behind",
+          "link": "https://www.foxnews.com/us/copper-theft-suspects-daring-escape-caught-bodycam-video-deputies-discover-left-behind"
         },
         {
-          "title": "Wildlife influencer comes close to losing a wrestling match to a 19-foot reticulated python",
-          "link": "https://www.foxnews.com/outkick-sports/wildlife-influencer-comes-close-losing-wrestling-match-19-foot-reticulated-python"
+          "title": "Elizabeth Hurley sizzles in bathrobe as diamond ring sparks Billy Ray Cyrus romance speculation",
+          "link": "https://www.foxnews.com/entertainment/elizabeth-hurley-sizzles-bathrobe-diamond-ring-sparks-billy-ray-cyrus-romance-speculation"
         },
         {
-          "title": "Bear breaks into Alaska hospital at 2 am, helps itself to an early Halloween candy buffet",
-          "link": "https://www.foxnews.com/outkick-sports/bear-breaks-alaska-hospital-2am-early-halloween-candy-buffet"
+          "title": "Trump torches Democrats at Arizona rally, warns they will ‘destroy our country’ ahead of midterms",
+          "link": "https://www.foxnews.com/politics/trump-torches-democrats-arizona-rally-warns-destroy-country-ahead-midterms"
         },
         {
-          "title": "Michael Penix Jr likely starting for Falcons against Bears despite rib injury, Kevin Stefanski says",
-          "link": "https://www.foxnews.com/outkick-sports/michael-penix-jr-likely-starting-falcons-bears-despite-rib-injury-kevin-stefanski-says"
+          "title": "Dodgers star Will Smith's wife delivers third 'October baby' just before Dodgers Game 3 bout vs Brewers",
+          "link": "https://www.foxnews.com/outkick-sports/dodgers-star-will-smith-wife-delivers-third-october-baby-before-dodgers-game-3-brewers"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T22:47:35.623Z"
+      "updatedAt": "2026-10-15T01:03:21.922Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,33 +59,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T22:47:35.785Z"
+      "updatedAt": "2026-10-15T01:03:22.252Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Sally Rooney says support for Palestine Action means her books sales are blocked in UK",
-          "link": "https://thehill.com/blogs/in-the-know/6149404-rooney-palestine-action-uk-ban/"
+          "title": "Trump announces Taiwan's plans to buy US gas",
+          "link": "https://thehill.com/newsletters/energy-environment/6149640-taiwan-buys-alaska-gas/"
         },
         {
-          "title": "Watch live: Trump rallies Montana Republicans with key House seat on the line",
-          "link": "https://thehill.com/video-clips/6149034-watch-live-donald-trump-montana-rally-aaron-flint-house-race/"
+          "title": "Lisa Cook's lawyers call Trump's investigation committee 'demonstrably biased'",
+          "link": "https://thehill.com/business/6149573-cook-challenges-trump-inquiry-bias/"
         },
         {
-          "title": "Harris tells Keke Palmer she's undecided on 2028 run",
-          "link": "https://thehill.com/homenews/campaign/6149362-harris-undecided-2028-campaign-keke-palmer/"
+          "title": "Amid leadership shake-up, Hegseth addresses Army convention",
+          "link": "https://thehill.com/newsletters/defense-national-security/6149566-hegseth-army-convention-protest/"
         },
         {
-          "title": "Coalition of states sue OpenAI, alleging it misled users on safety",
-          "link": "https://thehill.com/policy/technology/6149365-states-sue-openai-safety/"
+          "title": "The Memo: Crisis and chaos hit Ukraine as questions multiply over Trump’s role",
+          "link": "https://thehill.com/homenews/6149569-starshield-access-restriction-turmoil/"
         },
         {
-          "title": "Trump says leakers should be shot: 'They're the scum of the earth'",
-          "link": "https://thehill.com/homenews/6149366-trump-rally-leakers-shot/"
+          "title": "FDA abortion pill review angers GOP lawmakers",
+          "link": "https://thehill.com/newsletters/healthcare/6149557-fda-abortion-pill-review-angers-gop-lawmakers/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T22:47:36.428Z"
+      "updatedAt": "2026-10-15T01:03:22.887Z"
     },
     "Ars Technica": {
       "items": [
@@ -111,10 +111,14 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T22:47:36.543Z"
+      "updatedAt": "2026-10-15T01:03:22.990Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "McKinsey is making job applicants spar with a fake AI client",
+          "link": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview"
+        },
         {
           "title": "The best feature of Apple’s HomeView might be its simplicity",
           "link": "https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature"
@@ -130,23 +134,19 @@
         {
           "title": "The AI race is back on",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on"
-        },
-        {
-          "title": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
-          "link": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T22:47:36.590Z"
+      "updatedAt": "2026-10-15T01:03:23.041Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+          "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
           "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Student protesters attack government buildings in Tirana",
+          "title": "Student protesters attack government buildings in Albania",
           "link": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss"
         },
         {
@@ -171,12 +171,12 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T22:47:37.435Z"
+      "updatedAt": "2026-10-15T01:03:23.143Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+          "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
           "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss"
         },
         {
@@ -201,10 +201,18 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T22:47:37.490Z"
+      "updatedAt": "2026-10-15T01:03:23.173Z"
     },
     "NY Times": {
       "items": [
+        {
+          "title": "The Trump Administration and the Shrinking Number of Women in Top Roles",
+          "link": "https://www.nytimes.com/2026/10/14/us/politics/trump-administration-kimberly-guilfoyle-women.html"
+        },
+        {
+          "title": "Kimberly Guilfoyle’s Rise and Fall as Trump’s Ambassador to Greece",
+          "link": "https://www.nytimes.com/2026/10/13/us/politics/kimberly-guilfoyle-resigns-trump-ambassador-greece.html"
+        },
         {
           "title": "Ukraine’s Exposure Grows as Satellite Use Is Restricted and Russia Escalates",
           "link": "https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html"
@@ -214,20 +222,12 @@
           "link": "https://www.nytimes.com/2026/10/14/business/starshield-spacex-ukraine-starlink-satellites-musk.html"
         },
         {
-          "title": "Burnham Pledges to Back Zelensky as Trump’s Ukraine Support Wavers",
-          "link": "https://www.nytimes.com/2026/10/14/world/europe/ukraine-intelligence-sharing-zelensky-uk.html"
-        },
-        {
           "title": "Why Trump’s Russian Diesel Deal Is Unlikely to Lower Fuel Costs",
           "link": "https://www.nytimes.com/2026/10/14/business/energy-environment/trump-russia-diesel-prices.html"
-        },
-        {
-          "title": "Higher Energy Prices Pushed U.S. Inflation Up to 3.7% Ahead of Midterm Elections",
-          "link": "https://www.nytimes.com/2026/10/14/business/economy/inflation-cpi.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T22:47:37.617Z"
+      "updatedAt": "2026-10-15T01:03:23.262Z"
     },
     "ARTNews": {
       "items": [
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T22:47:37.759Z"
+      "updatedAt": "2026-10-15T01:03:24.014Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T22:47:37.896Z"
+      "updatedAt": "2026-10-15T01:03:24.212Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T22:47:38.933Z"
+      "updatedAt": "2026-10-15T01:03:24.807Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T22:47:39.059Z"
+      "updatedAt": "2026-10-15T01:03:24.910Z"
     }
   }
 }
