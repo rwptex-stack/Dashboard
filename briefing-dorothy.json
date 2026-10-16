@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-15T23:23:15.254Z",
+  "fetchedAt": "2026-10-16T02:02:54.341Z",
   "feeds": {
     "Fox News": {
       "items": [
@@ -8,28 +8,28 @@
           "link": "https://www.foxnews.com/media/jerry-seinfeld-turns-tables-radical-anti-israel-agitators-chaotic-chicago-stunt-backfires"
         },
         {
-          "title": "Want to know how to win in October? The 2026 Milwaukee Brewers are providing the blueprint",
-          "link": "https://www.foxnews.com/outkick-sports/want-know-win-october-2026-milwaukee-brewers-providing-blueprint"
+          "title": "21-year-old football player dead after head injury sustained during Division II college game",
+          "link": "https://www.foxnews.com/outkick-sports/21-year-old-football-player-dead-after-head-injury-sustained-during-division-ii-college-game"
         },
         {
-          "title": "Autistic teen lured to fake Snapchat meetup, brutally beaten by group of teens: report",
-          "link": "https://www.foxnews.com/world/autistic-teen-lured-fake-snapchat-meetup-brutally-beaten-group-teens-report"
+          "title": "'Oh, shut up!': Democrat snaps at Collins after heckler drives Maine Senate debate off the rails",
+          "link": "https://www.foxnews.com/politics/shut-democrat-snaps-collins-heckler-drives-maine-senate-debate-rails"
         },
         {
-          "title": "TSA warns travelers about seasonal mistake that could trigger airport security delays",
-          "link": "https://www.foxnews.com/travel/tsa-warns-travelers-about-seasonal-mistake-could-trigger-airport-security-delays"
+          "title": "Hasan Piker defends using incendiary terms like 'inbred' or 'Zionist pig' against opponents",
+          "link": "https://www.foxnews.com/media/hasan-piker-defends-using-incendiary-terms-like-inbred-zionist-pig-against-opponents"
         },
         {
-          "title": "CBS News faces $20M defamation lawsuit after misidentifying Maryland teenager in Reflecting Pool report",
-          "link": "https://www.foxnews.com/media/cbs-news-faces-20m-defamation-lawsuit-misidentifying-maryland-teenager-reflecting-pool-report"
+          "title": "Bears QB Caleb Williams shuts down reporters asking about his hamstring injury: 'It's not deserving'",
+          "link": "https://www.foxnews.com/sports/bears-qb-caleb-williams-shuts-down-reporters-asking-about-hamstring-injury-not-deserving"
         },
         {
-          "title": "Giants' JJ McCarthy could have bigger role in offense, John Harbaugh indicates",
-          "link": "https://www.foxnews.com/outkick-sports/giants-jj-mccarthy-could-have-bigger-role-offense-john-harbaugh-indicates"
+          "title": "Experimental skin cream linked to 2-year drop in biological age in early study",
+          "link": "https://www.foxnews.com/health/experimental-skin-cream-linked-2-year-drop-biological-age-early-study"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T23:23:12.954Z"
+      "updatedAt": "2026-10-16T02:02:48.395Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,36 +59,40 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T23:23:13.116Z"
+      "updatedAt": "2026-10-16T02:02:48.624Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Anthropic PAC splits Q3 donations down the middle",
-          "link": "https://thehill.com/homenews/6152693-anthropic-pac-splits-q3-donations-down-the-middle/"
+          "title": "Collins, Jackson trade jabs in final Maine Senate debate: 3 takeaways",
+          "link": "https://thehill.com/homenews/campaign/6152820-susan-collins-troy-jackson-debate-takeaways/"
         },
         {
-          "title": "Questions flare over US role in Ukraine's Starlink shut-off: What to know",
-          "link": "https://thehill.com/policy/technology/6152345-elon-musk-starlink-ukraine-starshield/"
-        },
-        {
-          "title": "4 GOP senators join letter demanding Pentagon IG investigation of Ukraine’s Starlink outage",
-          "link": "https://thehill.com/homenews/senate/6152642-defense-inspector-general-ukraine-starlink-senators/"
-        },
-        {
-          "title": "Musk bankrolls PAC spending big on Paxton in Texas",
-          "link": "https://thehill.com/homenews/campaign/6152571-musk-texas-pac-paxton-senate/"
-        },
-        {
-          "title": "Police investigating shooting at Oregon elementary school",
+          "title": "Five dead, including suspect, after Oregon elementary school shooting",
           "link": "https://thehill.com/homenews/state-watch/6152592-bend-oregon-elementary-school-shooting/"
+        },
+        {
+          "title": "Noem out of Shield of America’s role, State Department confirms",
+          "link": "https://thehill.com/homenews/administration/6152805-kristi-noem-shield-americas-envoy-departure/"
+        },
+        {
+          "title": "Pentagon's school system director stepping down",
+          "link": "https://thehill.com/newsletters/defense-national-security/6152767-pentagon-school-director-paul-craft-resigns/"
+        },
+        {
+          "title": "FDA advances peptide push to White House",
+          "link": "https://thehill.com/newsletters/healthcare/6152770-rfk-jr-fda-peptides-white-house/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T23:23:13.506Z"
+      "updatedAt": "2026-10-16T02:02:49.115Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell",
+          "link": "https://arstechnica.com/gadgets/2026/10/kde-turns-30-with-plasma-6-8-remote-upgrades-and-an-x11-farewell/"
+        },
         {
           "title": "Plex now helps sell movie theater tickets",
           "link": "https://arstechnica.com/gadgets/2026/10/plex-now-helps-sell-movie-theater-tickets/"
@@ -104,17 +108,17 @@
         {
           "title": "Above the 911? Porsche previews a new mid-engined supercar.",
           "link": "https://arstechnica.com/cars/2026/10/porsche-previews-its-future-with-mission-s-supercar-concept/"
-        },
-        {
-          "title": "What did the Liberty Bell sound like? Science is on the case.",
-          "link": "https://arstechnica.com/science/2026/10/what-did-the-liberty-bell-sound-like-science-is-on-the-case/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T23:23:13.624Z"
+      "updatedAt": "2026-10-16T02:02:49.242Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second",
+          "link": "https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk"
+        },
         {
           "title": "Steam can now show game achievements in separate ‘sets’",
           "link": "https://www.theverge.com/games/1012541/valve-steam-achievement-sets"
@@ -130,20 +134,20 @@
         {
           "title": "The tech backlash is now in theaters",
           "link": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial"
-        },
-        {
-          "title": "Trump posts AI-edited photo to brag about White House restoration work",
-          "link": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T23:23:13.777Z"
+      "updatedAt": "2026-10-16T02:02:49.368Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
-          "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss"
+          "title": "Three children and a teacher killed by 16-year-old at Oregon primary school",
+          "link": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
+          "link": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
@@ -154,24 +158,20 @@
           "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss"
         },
         {
+          "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+          "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Maduro pleads not guilty to new torture-related charges in New York",
           "link": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
           "link": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Houthi missile attack on Yemeni presidential palace kills two, minister says",
-          "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Was Neanderthal life violent? This wound suggests lethal fighting was more common",
-          "link": "https://www.bbc.co.uk/news/articles/c6jrwn3y3xe9o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T23:23:13.885Z"
+      "updatedAt": "2026-10-16T02:02:49.567Z"
     },
     "BBC News": {
       "items": [
@@ -180,20 +180,20 @@
           "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss"
         },
         {
+          "title": "Same-day test helps doctors detect hidden infections in critically ill children",
+          "link": "https://www.bbc.co.uk/news/articles/cw5yn83m8gypo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
           "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Trans people should use hospital spaces according to biological sex, NHS England says",
-          "link": "https://www.bbc.co.uk/news/articles/cry83dyddv6no?at_medium=RSS&at_campaign=rss"
+          "title": "Sparks fly at the Celebrity Traitors round table and a 'terrifying' death march",
+          "link": "https://www.bbc.co.uk/news/articles/cq4g17j1ej95o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Russell Brand accuser says he turned 'monster-like' before alleged rape",
-          "link": "https://www.bbc.co.uk/news/articles/cwy7ldzl7j4po?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Why Harry and Meghan's UK relaunch felt so much like a royal engagement",
-          "link": "https://www.bbc.co.uk/news/articles/cwvgdnjqpyvmo?at_medium=RSS&at_campaign=rss"
+          "title": "Porn showing choking or incest to be banned from early November, government says",
+          "link": "https://www.bbc.co.uk/news/articles/cmpqgepejr2ro?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Banks say Healey is planning Budget tax raid on their profits",
@@ -201,13 +201,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T23:23:13.901Z"
+      "updatedAt": "2026-10-16T02:02:49.594Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "Justice Department Sues California Over Voter Rolls",
-          "link": "https://www.nytimes.com/2026/10/15/briefing/california-voter-rolls-ukraine-trump.html"
+          "title": "School Shooting in Oregon Adds Silver Rail Elementary to Grim List",
+          "link": "https://www.nytimes.com/2026/10/15/us/school-shootings-usa-oregon-silver-rail.html"
+        },
+        {
+          "title": "Paxton Partied in Dubai With Fugitives Charged With Fraud, Lawsuit Says",
+          "link": "https://www.nytimes.com/2026/10/15/us/paxton-dubai-fugitive-fraud-allegations-texas.html"
         },
         {
           "title": "Trump’s Attacks on Voting Raise Fears He Will Try to Challenge Midterm Results",
@@ -218,16 +222,12 @@
           "link": "https://www.nytimes.com/2026/10/15/us/politics/trump-administration-california-voter-rolls.html"
         },
         {
-          "title": "Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump",
-          "link": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html"
-        },
-        {
-          "title": "Senators Demand Investigation Into Ukraine Satellite Disruption",
-          "link": "https://www.nytimes.com/2026/10/15/us/politics/ukraine-satellite-intelligence-investigation-senate.html"
+          "title": "Trump’s Deal With Russia Inflames Ukraine War He Vowed to End",
+          "link": "https://www.nytimes.com/2026/10/15/us/politics/trump-russia-ukraine.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T23:23:14.068Z"
+      "updatedAt": "2026-10-16T02:02:49.769Z"
     },
     "ARTNews": {
       "items": [
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T23:23:14.259Z"
+      "updatedAt": "2026-10-16T02:02:49.999Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T23:23:14.404Z"
+      "updatedAt": "2026-10-16T02:02:50.132Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T23:23:14.866Z"
+      "updatedAt": "2026-10-16T02:02:54.204Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T23:23:15.254Z"
+      "updatedAt": "2026-10-16T02:02:54.341Z"
     }
   }
 }
