@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-16T07:37:05.146Z",
+  "fetchedAt": "2026-10-16T12:48:00.199Z",
   "feeds": {
     "Fox News": {
       "items": [
@@ -8,87 +8,99 @@
           "link": "https://www.foxnews.com/media/jerry-seinfeld-turns-tables-radical-anti-israel-agitators-chaotic-chicago-stunt-backfires"
         },
         {
-          "title": "Trump admin sued over alleged illegal collection of sensitive voter data from 47 states",
-          "link": "https://www.foxnews.com/politics/trump-admin-sued-alleged-illegal-collection-sensitive-voter-data-47-states"
+          "title": "Trump's Capitol Hill whisperer reveals secrets to president's dealmaking as he heads for exit",
+          "link": "https://www.foxnews.com/politics/trumps-capitol-hill-whisperer-reveals-secrets-presidents-deal-making-he-heads-exit"
         },
         {
-          "title": "Democrat's debate 'cue cards' steal spotlight in high-stakes Senate clash",
-          "link": "https://www.foxnews.com/politics/democrats-debate-cue-cards-steal-spotlight-high-stakes-senate-clash"
+          "title": "Archaeologists uncover unexpected twist in shipwreck mystery after clues don't add up",
+          "link": "https://www.foxnews.com/travel/archaeologists-uncover-unexpected-twist-shipwreck-mystery-clues-dont-add-up"
         },
         {
-          "title": "Denver Broncos survive ugly offensive night to beat Seattle Seahawks 17-14 in overtime",
-          "link": "https://www.foxnews.com/outkick-sports/denver-broncos-survive-ugly-offensive-night-beat-seattle-seahawks-17-14-overtime"
+          "title": "Suspected Florida Publix slasher walked free from court months earlier despite victim warnings",
+          "link": "https://www.foxnews.com/us/suspected-florida-publix-slasher-walked-free-court-months-earlier-despite-victim-warnings"
         },
         {
-          "title": "Brewers officially end Dodgers dynasty with ridiculous 6-4 comeback in game four to complete NLCS sweep",
-          "link": "https://www.foxnews.com/outkick-sports/brewers-officially-end-dodgers-dynasty-ridiculous-6-4-comeback-game-four-complete-nlcs-sweep"
+          "title": "Bystander fatally shoots suspected teen gunman in deadly elementary school shooting and more top headlines",
+          "link": "https://www.foxnews.com/us/bystander-fatally-shoots-suspected-teen-gunman-deadly-elementary-school-shooting-more-top-headlines"
         },
         {
-          "title": "FBI returns 'Most Wanted' fraudster to US after India arrest in alleged $600K SNAP food stamp scheme",
-          "link": "https://www.foxnews.com/us/fbi-returns-most-wanted-fraudster-us-after-india-arrest-alleged-600k-snap-food-stamp-fraud-scheme"
+          "title": "You're probably cooking rice wrong, and chefs reveal the simple mistake to avoid",
+          "link": "https://www.foxnews.com/food-drink/youre-probably-cooking-rice-wrong-chefs-reveal-simple-mistake-avoid"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T07:37:02.577Z"
+      "updatedAt": "2026-10-16T12:47:58.255Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "'Now We Have the Goods' on Political Debanking",
-          "link": "https://www.realclearpolitics.com/2026/10/15/now_we_have_the_goods_on_political_debanking_714282.html"
+          "title": "Why Trump Is Going In When the Money Is Coming Out",
+          "link": "https://www.realclearpolitics.com/2026/10/16/why_trump_is_going_in_when_the_money_is_coming_out_714346.html"
         },
         {
           "title": "Midterms Look Good for Dems, But That's Not a Guarantee",
           "link": "https://www.realclearpolitics.com/2026/10/15/midterms_look_good_for_dems_but_thats_not_a_guarantee_714299.html"
         },
         {
+          "title": "Talarico Strikes Out on Easy Mode at CNN Town Hall",
+          "link": "https://www.realclearpolitics.com/2026/10/16/talarico_strikes_out_on_easy_mode_at_cnn_town_hall_714318.html"
+        },
+        {
+          "title": "A Minnesota Sleeper? Tafoya, Flanagan in 'Close' Senate Race",
+          "link": "https://www.realclearpolitics.com/2026/10/16/a_minnesota_sleeper_tafoya_flanagan_in_close_senate_race_714338.html"
+        },
+        {
+          "title": "Poll: Majority Wants Less Red Tape To Cut Energy Costs",
+          "link": "https://www.realclearpolitics.com/articles/2026/10/16/rcenergy_poll_majority_wants_less_red_tape_to_cut_energy_costs_154584.html"
+        },
+        {
           "title": "Alaska Considers Economic Suicide",
           "link": "https://www.realclearpolitics.com/2026/10/15/alaska_considers_economic_suicide_714306.html"
-        },
-        {
-          "title": "Trump's Diesel Deal Is Shameful",
-          "link": "https://www.realclearpolitics.com/2026/10/15/trumps_diesel_deal_is_shameful_714307.html"
-        },
-        {
-          "title": "The Green Ideology That Nearly Conquered U.S.",
-          "link": "https://www.realclearpolitics.com/2026/10/15/the_green_ideology_that_nearly_conquered_us_714296.html"
-        },
-        {
-          "title": "The Importance of Pillay's Nobel Peace Prize",
-          "link": "https://www.realclearpolitics.com/2026/10/14/the_importancenbspofnbsppillaysnbspnobel_peace_prize_714175.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T07:37:02.830Z"
+      "updatedAt": "2026-10-16T12:47:58.420Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Zacharia confirms she did not pass bar exam",
-          "link": "https://thehill.com/homenews/administration/6152937-zacharia-bar-exam-white-house/"
+          "title": "Trump: No regrets endorsing Paxton because 'Cornyn would have lost'",
+          "link": "https://thehill.com/homenews/campaign/6153199-donald-trump-defends-ken-paxton-endorsement-texas-senate-race/"
         },
         {
-          "title": "Massie: Trump should fire Hegseth before he is impeached",
-          "link": "https://thehill.com/homenews/house/6152919-massie-calls-trump-fire-hegseth/"
+          "title": "Can Katie Zacharia save her job after rocky debut as press secretary?",
+          "link": "https://thehill.com/newsletters/whole-hog-politics/whole-hog-politics-live-briefing/6153206-katie-zacharia-rocky-debut-white-house-press-secretary-live-discussion/"
         },
         {
-          "title": "Collins, Jackson trade jabs in final Maine Senate debate: 3 takeaways",
-          "link": "https://thehill.com/homenews/campaign/6152820-susan-collins-troy-jackson-debate-takeaways/"
+          "title": "Trump wins elections but fails at governing",
+          "link": "https://thehill.com/opinion/white-house/6150148-trump-policies-backfire-voters/"
         },
         {
-          "title": "5 dead, including suspect, after Oregon elementary school shooting",
-          "link": "https://thehill.com/homenews/state-watch/6152592-bend-oregon-elementary-school-shooting/"
+          "title": "Why are consumers so negative on a good economy? It’s the inflation, stupid.",
+          "link": "https://thehill.com/opinion/finance/6152679-inflation-clouds-economic-growth/"
         },
         {
-          "title": "Noem out of Shield of America’s role, State Department confirms",
-          "link": "https://thehill.com/homenews/administration/6152805-kristi-noem-shield-americas-envoy-departure/"
+          "title": "Troy Jackson tells Susan Collins to 'shut up' during Maine Senate debate",
+          "link": "https://thehill.com/homenews/campaign/6153163-troy-jackson-susan-collins-heated-debate-maine-senate-race/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T07:37:03.603Z"
+      "updatedAt": "2026-10-16T12:47:59.055Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "Rocket Report: FAA eyes more Starbase traffic; India's Skyroot snares US customer",
+          "link": "https://arstechnica.com/space/2026/10/rocket-report-faa-eyes-more-starbase-traffic-indias-skyroot-snares-us-customer/"
+        },
+        {
+          "title": "Blue Origin is going all in on the New Glenn rocket",
+          "link": "https://arstechnica.com/space/2026/10/blue-origin-is-going-all-in-on-the-new-glenn-rocket/"
+        },
+        {
+          "title": "Googlebook review: Android on a laptop is still Android",
+          "link": "https://arstechnica.com/reviews/2026/10/googlebook-review-android-on-a-laptop-is-still-android/"
+        },
         {
           "title": "KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell",
           "link": "https://arstechnica.com/gadgets/2026/10/kde-turns-30-with-plasma-6-8-remote-upgrades-and-an-x11-farewell/"
@@ -96,53 +108,41 @@
         {
           "title": "Plex now helps sell movie theater tickets",
           "link": "https://arstechnica.com/gadgets/2026/10/plex-now-helps-sell-movie-theater-tickets/"
-        },
-        {
-          "title": "Hegseth’s dubious low-T screening may flag up to 25 percent of the Army",
-          "link": "https://arstechnica.com/health/2026/10/hegseths-dubious-low-t-screening-may-flag-up-to-25-percent-of-the-army/"
-        },
-        {
-          "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
-          "link": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/"
-        },
-        {
-          "title": "Above the 911? Porsche previews a new mid-engined supercar.",
-          "link": "https://arstechnica.com/cars/2026/10/porsche-previews-its-future-with-mission-s-supercar-concept/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T07:37:03.730Z"
+      "updatedAt": "2026-10-16T12:47:59.120Z"
     },
     "The Verge": {
       "items": [
         {
-          "title": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second",
-          "link": "https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk"
+          "title": "The Sony Xperia 10 VI won’t be getting a promised update to Android 17",
+          "link": "https://www.theverge.com/tech/1012789/sony-xperia-10-vi-smartphone-android-17-update-security"
         },
         {
-          "title": "Steam can now show game achievements in separate ‘sets’",
-          "link": "https://www.theverge.com/games/1012541/valve-steam-achievement-sets"
+          "title": "The first vibe-coded gun is here",
+          "link": "https://www.theverge.com/tech/1011950/vibe-coded-3d-printed-gun-ai-generated-cody-wilson"
         },
         {
-          "title": "ChatGPT can peek at your Chrome tabs now",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs"
+          "title": "The iPhone Duo is now available to preorder at $1,999",
+          "link": "https://www.theverge.com/gadgets/988582/apple-iphone-duo-preorder-buy-foldable"
         },
         {
-          "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
-          "link": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled"
+          "title": "Surface Laptop Ultra review: a different kind of MacBook Pro",
+          "link": "https://www.theverge.com/tech/1012628/microsoft-surface-laptop-ultra-review"
         },
         {
-          "title": "The tech backlash is now in theaters",
-          "link": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial"
+          "title": "Time is a-changin’: say goodbye to the leap second",
+          "link": "https://www.theverge.com/tech/1012689/leap-second-discontinue-timekeeping-change"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T07:37:03.847Z"
+      "updatedAt": "2026-10-16T12:47:59.145Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Three children and teacher killed in US primary school shooting",
+          "title": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
           "link": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss"
         },
         {
@@ -154,80 +154,80 @@
           "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
-          "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss"
+          "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
+          "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
-          "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss"
+          "title": "China tells Israel to stop 'forced establishment' of West Bank settlements",
+          "link": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
-          "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss"
+          "title": "Dad fined after son, 2, died in Cyprus hotel fall",
+          "link": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Maduro pleads not guilty to new torture-related charges in New York",
-          "link": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&at_campaign=rss"
+          "title": "US senators call for investigation into Ukraine's Starlink restrictions",
+          "link": "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T07:37:03.963Z"
+      "updatedAt": "2026-10-16T12:47:59.273Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Three children and teacher killed in US primary school shooting",
+          "title": "British father fined for causing his two-year-old son's death in Cyprus hotel fall",
+          "link": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Israeli settlers attack Palestinians in West Bank during olive harvest",
+          "link": "https://www.bbc.co.uk/news/videos/cqn06zx2r15jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Norwegian teen 'hitman' detained for UK murder plot",
+          "link": "https://www.bbc.co.uk/news/articles/cw8rzpl1ldkdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
           "link": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Banks say Healey planning to increase tax on their profits in Budget",
-          "link": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss"
+          "title": "Burnham invites Swinney to work together on 'deeper Scottish devolution'",
+          "link": "https://www.bbc.co.uk/news/articles/cmlykv9pey7go?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Same-day test helps doctors detect hidden infections in critically ill children",
-          "link": "https://www.bbc.co.uk/news/articles/cw5yn83m8gypo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Porn showing choking or incest to be banned from early November, government says",
-          "link": "https://www.bbc.co.uk/news/articles/cmpqgepejr2ro?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
-          "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Sparks fly at the Celebrity Traitors round table and a 'terrifying' death march",
-          "link": "https://www.bbc.co.uk/news/articles/cq4g17j1ej95o?at_medium=RSS&at_campaign=rss"
+          "title": "Watch: Did Tesla really just unveil a flying car?",
+          "link": "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T07:37:04.003Z"
+      "updatedAt": "2026-10-16T12:47:59.280Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "School Shooting in Oregon Adds Silver Rail Elementary to Grim List",
-          "link": "https://www.nytimes.com/2026/10/15/us/school-shootings-usa-oregon-silver-rail.html"
+          "title": "Avalanche of G.O.P. Cash Keeps the Party Competitive Despite Its Problems",
+          "link": "https://www.nytimes.com/2026/10/16/us/avalanche-of-gop-cash-keeps-the-party-competitive-despite-its-problems.html"
         },
         {
           "title": "Elon Musk Spends Heavily to Back Ken Paxton’s Senate Bid in Texas",
           "link": "https://www.nytimes.com/2026/10/16/us/politics/elon-musk-ken-paxton-texas-senate-race.html"
         },
         {
-          "title": "Paxton Partied in Dubai With Fugitives Charged With Fraud, Lawsuit Says",
-          "link": "https://www.nytimes.com/2026/10/15/us/paxton-dubai-fugitive-fraud-allegations-texas.html"
+          "title": "A.I.-Generated Ads Flood the Midterms, and Teenager Kills 4 at Oregon Elementary School",
+          "link": "https://www.nytimes.com/2026/10/16/podcasts/the-headlines/ai-ads-midterms-oregon-elementary-school-shooting.html"
         },
         {
-          "title": "Trump’s Deal With Russia Inflames Ukraine War He Vowed to End",
-          "link": "https://www.nytimes.com/2026/10/15/us/politics/trump-russia-ukraine.html"
+          "title": "What We Know About the School Shooting in Bend, Oregon",
+          "link": "https://www.nytimes.com/2026/10/16/us/bend-oregon-shooting-victims-suspect.html"
         },
         {
-          "title": "How U.S. Support to Ukraine Has Evolved Under Trump",
-          "link": "https://www.nytimes.com/2026/10/15/us/politics/ukraine-us-aid-trump.html"
+          "title": "School Shooting in Oregon Adds Silver Rail Elementary to Grim List",
+          "link": "https://www.nytimes.com/2026/10/15/us/school-shootings-usa-oregon-silver-rail.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T07:37:04.240Z"
+      "updatedAt": "2026-10-16T12:47:59.346Z"
     },
     "ARTNews": {
       "items": [
@@ -257,10 +257,18 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T07:37:04.393Z"
+      "updatedAt": "2026-10-16T12:47:59.460Z"
     },
     "Hyperallergic": {
       "items": [
+        {
+          "title": "The “Renegade Housewife” of Pop Art",
+          "link": "https://hyperallergic.com/the-renegade-housewife-of-pop-art/"
+        },
+        {
+          "title": "The School of Art at the University of Arkansas Offers Tuition-Free Graduate Programs",
+          "link": "https://hyperallergic.com/the-school-of-art-at-the-university-of-arkansas-offers-tuition-free-graduate-programs/"
+        },
         {
           "title": "Danh Vo and Sandra Mujinga Selected for Met Museum Commissions",
           "link": "https://hyperallergic.com/danh-vo-and-sandra-mujinga-selected-for-met-museum-commissions/"
@@ -276,21 +284,17 @@
         {
           "title": "The 98-Year-Old Pop Art Queen Behind an Iconic Lichtenstein Billboard",
           "link": "https://hyperallergic.com/the-98-year-old-pop-art-queen-behind-an-iconic-lichtenstein-billboard/"
-        },
-        {
-          "title": "Ah, the Many Smells of Frieze London",
-          "link": "https://hyperallergic.com/ah-the-many-smells-of-frieze-london/"
-        },
-        {
-          "title": "Valerio Adami’s Hot and Cold Art",
-          "link": "https://hyperallergic.com/valerio-adamis-hot-and-cold-art/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T07:37:04.555Z"
+      "updatedAt": "2026-10-16T12:47:59.618Z"
     },
     "Contemporary Art Daily": {
       "items": [
+        {
+          "title": "Hanna Hur at Greene Naftali",
+          "link": "https://www.contemporaryartdaily.com/project/hanna-hur-at-greene-naftali-new-york-108036?source=rss"
+        },
         {
           "title": "Gili Tal at Kunsthalle Basel",
           "link": "https://www.contemporaryartdaily.com/project/gili-tal-at-kunsthalle-basel-98300?source=rss"
@@ -310,14 +314,10 @@
         {
           "title": "Monica Majoli at June L. Mazer Lesbian Archives, Los Angeles",
           "link": "https://www.contemporaryartdaily.com/project/monica-majoli-104570?source=rss"
-        },
-        {
-          "title": "Sergei Tcherepnin at Twinkler",
-          "link": "https://www.contemporaryartdaily.com/project/sergei-tcherepnin-at-twinkler-vienna-111302?source=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T07:37:05.013Z"
+      "updatedAt": "2026-10-16T12:48:00.099Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T07:37:05.146Z"
+      "updatedAt": "2026-10-16T12:48:00.199Z"
     }
   }
 }
