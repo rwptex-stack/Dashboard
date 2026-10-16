@@ -1,8 +1,20 @@
 {
-  "fetchedAt": "2026-10-15T22:04:35.064Z",
+  "fetchedAt": "2026-10-16T01:07:03.225Z",
   "feeds": {
     "MarketWatch": {
       "items": [
+        {
+          "title": "Pepsi loses more ground in the soda wars, as KFC switches to Coke",
+          "link": "https://www.marketwatch.com/story/pepsi-loses-more-ground-in-the-soda-wars-as-kfc-switches-to-coke-49b1ef53?mod=mw_rss_topstories"
+        },
+        {
+          "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+          "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories"
+        },
+        {
+          "title": "I’m 64 years old, with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
+          "link": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories"
+        },
         {
           "title": "How a midterm sweep by Democrats could turn this tech selloff into a tech crash",
           "link": "https://www.marketwatch.com/story/how-a-midterm-sweep-by-democrats-could-turn-this-tech-selloff-into-a-tech-crash-a1d1a82f?mod=mw_rss_topstories"
@@ -14,22 +26,10 @@
         {
           "title": "Don’t ditch tech stocks just yet. Make these moves to take advantage of the latest AI reset.",
           "link": "https://www.marketwatch.com/story/dont-ditch-tech-stocks-just-yet-make-these-moves-to-take-advantage-of-the-latest-ai-reset-cb70c7b2?mod=mw_rss_topstories"
-        },
-        {
-          "title": "CoreWeave’s polarizing stock rebounds as Wall Street squares off about AI spending",
-          "link": "https://www.marketwatch.com/story/coreweave-investors-are-feeling-spooked-as-the-companys-stock-and-bonds-see-fresh-pressure-ba39a931?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Investors are dumping AI stocks as ‘tech wreck’ worsens. Here’s where they’re turning now.",
-          "link": "https://www.marketwatch.com/story/traders-pile-into-bonds-and-defensive-stocks-as-the-tech-wreck-picks-up-steam-48c04374?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Big pharma stocks close near all-time highs as tech selloff pushes investors toward safer bets",
-          "link": "https://www.marketwatch.com/story/big-pharma-stocks-near-all-time-highs-as-tech-selloff-pushes-investors-toward-safer-bets-0a5d5d07?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T22:04:33.812Z"
+      "updatedAt": "2026-10-16T01:07:00.986Z"
     },
     "Fox News": {
       "items": [
@@ -38,28 +38,28 @@
           "link": "https://www.foxnews.com/media/jerry-seinfeld-turns-tables-radical-anti-israel-agitators-chaotic-chicago-stunt-backfires"
         },
         {
-          "title": "Hasan Piker rips New York Jewish voters' shift away from Democrats, blames Israel",
-          "link": "https://www.foxnews.com/media/hasan-piker-rips-new-york-jewish-voters-shift-away-from-democrats-blames-israel"
+          "title": "Hasan Piker defends using incendiary terms like 'inbred' or 'Zionist pig' against opponents",
+          "link": "https://www.foxnews.com/media/hasan-piker-defends-using-incendiary-terms-like-inbred-zionist-pig-against-opponents"
         },
         {
-          "title": "Soccer coach with unreal eye discipline goes viral for locked in interview with busty reporter",
-          "link": "https://www.foxnews.com/outkick-sports/soccer-coach-unreal-eye-discipline-goes-viral-locked-interview-busty-reporter"
+          "title": "Bears QB Caleb Williams shuts down reporters asking about his hamstring injury: 'It's not deserving'",
+          "link": "https://www.foxnews.com/sports/bears-qb-caleb-williams-shuts-down-reporters-asking-about-hamstring-injury-not-deserving"
         },
         {
-          "title": "'SNL' cast member Michael Che shrugs off Shane Gillis' monologue joke saying, 'that's comedy'",
-          "link": "https://www.foxnews.com/media/snl-cast-member-michael-che-shrugs-off-shane-gillis-monologue-joke-saying-thats-comedy"
+          "title": "Experimental skin cream linked to 2-year drop in biological age in early study",
+          "link": "https://www.foxnews.com/health/experimental-skin-cream-linked-2-year-drop-biological-age-early-study"
         },
         {
-          "title": "Country music's dominant hunting season continues as Koe Wetzel bags a monster bull elk",
-          "link": "https://www.foxnews.com/outkick-sports/country-music-dominant-hunting-season-continues-koe-wetzel-bags-monster-bull-elk"
+          "title": "Kash Patel demands MS NOW apologize after network's false report claiming FBI director visited Russia",
+          "link": "https://www.foxnews.com/media/kash-patel-demands-ms-now-apologize-after-networks-false-report-claiming-fbi-director-visited-russia"
         },
         {
-          "title": "Grammy winner praises Ella Langley for canceling concert over safety concerns: 'She did the right thing'",
-          "link": "https://www.foxnews.com/outkick-culture/grammy-winner-praises-ella-langley-canceling-concert-safety-concerns-did-right-thing"
+          "title": "Can cooking for terrorists bar asylum? Supreme Court takes up unusual case with broader immigration stakes",
+          "link": "https://www.foxnews.com/politics/cooking-terrorists-bar-asylum-supreme-court-unusual-case-broader-immigration-stakes"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T22:04:33.954Z"
+      "updatedAt": "2026-10-16T01:07:01.256Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -89,36 +89,40 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T22:04:34.115Z"
+      "updatedAt": "2026-10-16T01:07:01.500Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Mortgage rates hit the brakes",
-          "link": "https://thehill.com/newsletters/business-economy/6152531-mortgage-rates-hit-brakes/"
+          "title": "Noem out of Shield of America’s role, State Department confirms",
+          "link": "https://thehill.com/homenews/administration/6152805-kristi-noem-shield-americas-envoy-departure/"
         },
         {
-          "title": "What does Trump's Russia deal actually mean?",
-          "link": "https://thehill.com/newsletters/energy-environment/6152484-what-does-trumps-russia-deal-actually-mean/"
+          "title": "Pentagon's school system director stepping down",
+          "link": "https://thehill.com/newsletters/defense-national-security/6152767-pentagon-school-director-paul-craft-resigns/"
         },
         {
-          "title": "Trump berates Cornyn, Rove for not backing Paxton: 'They are hurting Texas'",
-          "link": "https://thehill.com/homenews/campaign/6152457-trump-attacks-cornyn-paxton-elections/"
+          "title": "FDA advances peptide push to White House",
+          "link": "https://thehill.com/newsletters/healthcare/6152770-rfk-jr-fda-peptides-white-house/"
         },
         {
-          "title": "Federal lawsuit accuses Matt Gaetz, 2 others of sex trafficking",
-          "link": "https://thehill.com/regulation/court-battles/6152403-matt-gaetz-federal-lawsuit-sex-trafficking/"
+          "title": "Anthropic PAC splits Q3 donations down the middle",
+          "link": "https://thehill.com/homenews/6152693-anthropic-pac-splits-q3-donations-down-the-middle/"
         },
         {
-          "title": "DOJ sues California after pushing state to match voter list with USB drive",
-          "link": "https://thehill.com/homenews/6152422-doj-sues-california-election-officials/"
+          "title": "Questions flare over US role in Ukraine's Starlink shut-off: What to know",
+          "link": "https://thehill.com/policy/technology/6152345-elon-musk-starlink-ukraine-starshield/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T22:04:34.468Z"
+      "updatedAt": "2026-10-16T01:07:02.302Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell",
+          "link": "https://arstechnica.com/gadgets/2026/10/kde-turns-30-with-plasma-6-8-remote-upgrades-and-an-x11-farewell/"
+        },
         {
           "title": "Plex now helps sell movie theater tickets",
           "link": "https://arstechnica.com/gadgets/2026/10/plex-now-helps-sell-movie-theater-tickets/"
@@ -134,17 +138,25 @@
         {
           "title": "Above the 911? Porsche previews a new mid-engined supercar.",
           "link": "https://arstechnica.com/cars/2026/10/porsche-previews-its-future-with-mission-s-supercar-concept/"
-        },
-        {
-          "title": "What did the Liberty Bell sound like? Science is on the case.",
-          "link": "https://arstechnica.com/science/2026/10/what-did-the-liberty-bell-sound-like-science-is-on-the-case/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T22:04:34.608Z"
+      "updatedAt": "2026-10-16T01:07:02.523Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "Steam can now show game achievements in separate ‘sets’",
+          "link": "https://www.theverge.com/games/1012541/valve-steam-achievement-sets"
+        },
+        {
+          "title": "ChatGPT can peek at your Chrome tabs now",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs"
+        },
+        {
+          "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+          "link": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled"
+        },
         {
           "title": "The tech backlash is now in theaters",
           "link": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial"
@@ -152,29 +164,13 @@
         {
           "title": "Trump posts AI-edited photo to brag about White House restoration work",
           "link": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column"
-        },
-        {
-          "title": "Bluesky&#8217;s AI tool now lets you make games and apps to share on social",
-          "link": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps"
-        },
-        {
-          "title": "Withings now charges $100 per year to sync your data to other apps",
-          "link": "https://www.theverge.com/tech/1012350/withings-plus-subscription-new-users-october-13-2026"
-        },
-        {
-          "title": "Meta and Apple team up to make Muse AI models run better on Macs",
-          "link": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T22:04:34.672Z"
+      "updatedAt": "2026-10-16T01:07:02.596Z"
     },
     "BBC World": {
       "items": [
-        {
-          "title": "Bus hits train stopped on French side of  Channel Tunnel, with 19 injured",
-          "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss"
-        },
         {
           "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
           "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss"
@@ -182,6 +178,10 @@
         {
           "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
           "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+          "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Maduro pleads not guilty to new torture-related charges in New York",
@@ -192,21 +192,21 @@
           "link": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Houthi missile attack on Yemeni presidential palace kills two, minister says",
-          "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "Was Neanderthal life violent? This wound suggests lethal fighting was more common",
           "link": "https://www.bbc.co.uk/news/articles/c6jrwn3y3xe9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Tip-off foiled US teen suspect's plot to attack Hindu temple, police say",
+          "link": "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T22:04:34.840Z"
+      "updatedAt": "2026-10-16T01:07:02.725Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Bus hits train stopped on French side of  Channel Tunnel, with 19 injured",
+          "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
           "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss"
         },
         {
@@ -214,16 +214,16 @@
           "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Trans people should use hospital spaces according to biological sex, NHS England says",
-          "link": "https://www.bbc.co.uk/news/articles/cry83dyddv6no?at_medium=RSS&at_campaign=rss"
+          "title": "Same-day test helps doctors detect hidden infections in critically ill children",
+          "link": "https://www.bbc.co.uk/news/articles/cw5yn83m8gypo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Russell Brand accuser says he turned 'monster-like' before alleged rape",
-          "link": "https://www.bbc.co.uk/news/articles/cwy7ldzl7j4po?at_medium=RSS&at_campaign=rss"
+          "title": "Sparks fly at the Celebrity Traitors round table and a 'terrifying' death march",
+          "link": "https://www.bbc.co.uk/news/articles/cq4g17j1ej95o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Why Harry and Meghan's UK relaunch felt so much like a royal engagement",
-          "link": "https://www.bbc.co.uk/news/articles/cwvgdnjqpyvmo?at_medium=RSS&at_campaign=rss"
+          "title": "Porn showing choking or incest to be banned from early November, government says",
+          "link": "https://www.bbc.co.uk/news/articles/cmpqgepejr2ro?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Banks say Healey is planning Budget tax raid on their profits",
@@ -231,10 +231,14 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T22:04:34.859Z"
+      "updatedAt": "2026-10-16T01:07:02.914Z"
     },
     "NY Times": {
       "items": [
+        {
+          "title": "Paxton Partied in Dubai With Fugitives Charged With Fraud, Lawsuit Says",
+          "link": "https://www.nytimes.com/2026/10/15/us/paxton-dubai-fugitive-fraud-allegations-texas.html"
+        },
         {
           "title": "Trump’s Attacks on Voting Raise Fears He Will Try to Challenge Midterm Results",
           "link": "https://www.nytimes.com/2026/10/15/us/politics/trumps-attacks-voting-midterms.html"
@@ -244,20 +248,16 @@
           "link": "https://www.nytimes.com/2026/10/15/us/politics/trump-administration-california-voter-rolls.html"
         },
         {
-          "title": "Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump",
-          "link": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html"
+          "title": "Trump’s Deal With Russia Inflames Ukraine War He Vowed to End",
+          "link": "https://www.nytimes.com/2026/10/15/us/politics/trump-russia-ukraine.html"
         },
         {
-          "title": "Senators Demand Investigation Into Ukraine Satellite Disruption",
-          "link": "https://www.nytimes.com/2026/10/15/us/politics/ukraine-satellite-intelligence-investigation-senate.html"
-        },
-        {
-          "title": "More Trump Allies Aided Pro-Russian Balkan Government",
-          "link": "https://www.nytimes.com/2026/10/15/us/politics/trump-russia-srpska-elections-wiles.html"
+          "title": "How U.S. Support to Ukraine Has Evolved Under Trump",
+          "link": "https://www.nytimes.com/2026/10/15/us/politics/ukraine-us-aid-trump.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T22:04:34.911Z"
+      "updatedAt": "2026-10-16T01:07:03.038Z"
     }
   },
   "indices": {
@@ -279,13 +279,13 @@
       },
       {
         "name": "Gold",
-        "price": 4192.5,
-        "pct": 0.04533956951271026
+        "price": 4177.4,
+        "pct": -0.31499069345680153
       },
       {
         "name": "Bitcoin",
-        "price": 82470,
-        "pct": -1.445360492842511
+        "price": 82213.93,
+        "pct": 0.5520497401255481
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-15T22:04:35.064Z"
+    "updatedAt": "2026-10-16T01:07:03.225Z"
   }
 }
