@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-16T23:24:06.883Z",
+  "fetchedAt": "2026-10-17T03:58:29.341Z",
   "feeds": {
     "MarketWatch": {
       "items": [
@@ -29,7 +29,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T23:24:04.817Z"
+      "updatedAt": "2026-10-17T03:58:28.105Z"
     },
     "Fox News": {
       "items": [
@@ -38,28 +38,28 @@
           "link": "https://www.foxnews.com/media/jerry-seinfeld-turns-tables-radical-anti-israel-agitators-chaotic-chicago-stunt-backfires"
         },
         {
-          "title": "Recovering from lung surgery, Pope Leo urges Putin to agree to ceasefire in Russian-held Ukraine city",
-          "link": "https://www.foxnews.com/world/recovering-lung-surgery-pope-leo-urges-putin-agree-ceasefire-russian-held-ukraine-city"
+          "title": "NCAA moves to block Ohio Governor Mike DeWine's executive order expanding college athletes' eligibility",
+          "link": "https://www.foxnews.com/outkick-sports/ncaa-moves-block-ohio-governor-mike-dewine-executive-order-expanding-college-athletes-eligibility"
         },
         {
-          "title": "Fox News Entertainment newsletter: Prince Edward wanted 'two wives'; Harry, Meghan accused of 'royal theatre'",
-          "link": "https://www.foxnews.com/entertainment/fox-news-entertainment-newsletter-prince-edward-wanted-two-wives-harry-meghan-accused-royal-theatre"
+          "title": "Rain forces MLB to postpone Guardians-Rays ALCS Game 4 in Cleveland",
+          "link": "https://www.foxnews.com/outkick-sports/rain-forces-mlb-postpone-guardians-rays-alcs-game-4-cleveland"
         },
         {
-          "title": "Seth Meyers admits shock over second Trump victory prompted sit-down with late-night team to adjust tone",
-          "link": "https://www.foxnews.com/media/seth-meyers-admits-shock-second-trump-victory-prompted-sit-down-late-night-team-adjust-tone"
+          "title": "Jalen Brunson is afraid to open the bag containing his NBA championship hat because of horrors inside",
+          "link": "https://www.foxnews.com/outkick-sports/jalen-brunson-afraid-open-bag-containing-nba-championship-hat-horrors-inside"
         },
         {
-          "title": "Dodgers' elimination ends remarkable streak of players named Will Smith winning the World Series",
-          "link": "https://www.foxnews.com/outkick-sports/dodgers-elimination-ends-remarkable-streak-players-named-will-smith-winning-world-series"
+          "title": "Fox News Campus Radicals Newsletter: Judeo-Christian values under assault in American schools",
+          "link": "https://www.foxnews.com/us/fox-news-campus-radicals-newsletter-judeo-christian-values-under-assault-american-schools"
         },
         {
-          "title": "International Olympic Committee scraps gender equality, diversity and inclusion panel in major reshuffle",
-          "link": "https://www.foxnews.com/outkick-sports/international-olympic-committee-scraps-gender-equality-diversity-inclusion-panel-major-reshuffle"
+          "title": "Falcons' Michael Penix cleared to face Bears following rib injury as Caleb Williams' status remains unclear",
+          "link": "https://www.foxnews.com/outkick-sports/falcons-michael-penix-cleared-face-bears-following-rib-injury-caleb-williams-status-remains-unclear"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T23:24:05.131Z"
+      "updatedAt": "2026-10-17T03:58:28.198Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -89,36 +89,40 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T23:24:05.338Z"
+      "updatedAt": "2026-10-17T03:58:28.348Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Centcom commander says naval blockade cost Iran $25B in oil revenue",
-          "link": "https://thehill.com/newsletters/defense-national-security/6155474-centcom-commander-says-naval-blockade-cost-iran-25b-in-oil-revenue/"
+          "title": "Trump waives Russian sanctions outlined in Graham Act before they take effect",
+          "link": "https://thehill.com/homenews/administration/6155621-trump-waives-russian-sanctions-act-tariffs/"
         },
         {
-          "title": "FERC moves to ease gas approvals",
-          "link": "https://thehill.com/newsletters/energy-environment/6155469-ferc-proposes-lng-approval-speedup/"
+          "title": "Zacharia speaks out after White House press secretary exit: 'It was an honor'",
+          "link": "https://thehill.com/homenews/administration/6155603-katie-zacharia-press-secretary-exit-statement/"
         },
         {
-          "title": "5 days of Katie Zacharia: The rapid fall of Trump's 'lawyer' press secretary",
-          "link": "https://thehill.com/homenews/administration/6155287-katie-zacharia-white-house-exit-five-days/"
+          "title": "Secret Service deputy chief stepping down",
+          "link": "https://thehill.com/homenews/administration/6155544-secret-service-deputy-director-quinn-resigns/"
         },
         {
-          "title": "Energy regulators speed up approvals for gas export facility expansions",
-          "link": "https://thehill.com/blogs/blog-briefing-room/news/energy-a-environment/6155398-ferc-seeks-shorten-gas-export-approvals/"
+          "title": "Federal agents searched Omar's trash for DNA before raid: Sources",
+          "link": "https://thehill.com/homenews/6155559-federal-raid-ilhan-omar-dna-trash/"
         },
         {
-          "title": "Bipartisan senators ask Pentagon to answer for Ukraine Starlink restrictions",
-          "link": "https://thehill.com/newsletters/technology/6155378-gop-senators-press-pentagon-starlink-newsletter/"
+          "title": "More lawmakers report suspicious packages at offices",
+          "link": "https://thehill.com/homenews/house/6155515-lawmakers-report-suspicious-mailings/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T23:24:05.717Z"
+      "updatedAt": "2026-10-17T03:58:28.842Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "OpenAI models hacked a crypto wallet and breached more websites",
+          "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/"
+        },
         {
           "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
           "link": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/"
@@ -134,17 +138,17 @@
         {
           "title": "RFK Jr. proposes FDA look the other way on unproven peptides, report says",
           "link": "https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says/"
-        },
-        {
-          "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
-          "link": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T23:24:05.910Z"
+      "updatedAt": "2026-10-17T03:58:28.883Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "All the news about the iPhone Duo",
+          "link": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements"
+        },
         {
           "title": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
           "link": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment"
@@ -160,104 +164,100 @@
         {
           "title": "Why Apple is finally making its own smart home devices",
           "link": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home"
-        },
-        {
-          "title": "The new Apple TV 4K just got its first (very small) discount",
-          "link": "https://www.theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T23:24:06.034Z"
+      "updatedAt": "2026-10-17T03:58:28.979Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
-          "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss"
+          "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+          "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
           "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
-          "link": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss"
+          "title": "Trump waives several Russia sanctions as new US law takes effect",
+          "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Trial of German steakhouse heiress that sparked a huge spy scandal",
-          "link": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Trump denies limiting Ukraine access to Starlink network",
-          "link": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Pope pictured for first time since surgery and cancer diagnosis",
-          "link": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "India's 'cockroach' party founder detained ahead of protest",
-          "link": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "ok": true,
-      "updatedAt": "2026-10-16T23:24:06.351Z"
-    },
-    "BBC News": {
-      "items": [
-        {
-          "title": "Watch: Will Ukraine get the support needed as tensions with US rise?",
-          "link": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss"
+          "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
+          "link": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
           "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Nurse stole £750k from 99-year-old woman for cosmetic surgery and home improvements",
-          "link": "https://www.bbc.co.uk/news/articles/cm9qzx43rlzjo?at_medium=RSS&at_campaign=rss"
+          "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
+          "link": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Man killed by tiger may have had medical records breached by NHS staff",
-          "link": "https://www.bbc.co.uk/news/articles/c875prd12vkqo?at_medium=RSS&at_campaign=rss"
+          "title": "Katie Zacharia leaving her White House role less than five days on the job",
+          "link": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "ok": true,
+      "updatedAt": "2026-10-17T03:58:29.125Z"
+    },
+    "BBC News": {
+      "items": [
+        {
+          "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+          "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Trump waives several Russia sanctions as new US law takes effect",
+          "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Analysis: Zacharia was thrown into a whirlwind - and failed at a critical time for Trump",
+          "link": "https://www.bbc.co.uk/news/articles/c6e3xnjlz12do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Five days, one briefing: How Katie Zacharia’s short tenure unfolded",
+          "link": "https://www.bbc.co.uk/news/videos/c6j47ewnn0vyo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Chris Mason: Burnham and Swinney tussle over where power lies in Scotland",
           "link": "https://www.bbc.co.uk/news/articles/cmlyl889jqzjo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Watch: Did Tesla really just unveil a flying car?",
-          "link": "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&at_campaign=rss"
+          "title": "Miranda's tears, joy and dance moves steal show as deadly boredom sets in on The Celebrity Traitors",
+          "link": "https://www.bbc.co.uk/news/articles/cq70pre80gwko?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T23:24:06.443Z"
+      "updatedAt": "2026-10-17T03:58:29.147Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "Katie Zacharia, Trump’s New Press Secretary, Is Ousted After 5 Days",
-          "link": "https://www.nytimes.com/2026/10/16/us/politics/katie-zacharia-fired-press-secretary.html"
+          "title": "School Shooting in Bend, Ore., Has Heroes and Pain, But Few Answers",
+          "link": "https://www.nytimes.com/2026/10/16/us/bend-shooting-hero-teacher-dad.html"
         },
         {
           "title": "Teacher Killed in Oregon School Shooting Was Working Her ‘Dream Job,’ Family Says",
           "link": "https://www.nytimes.com/2026/10/16/us/bend-school-shooting-victims-megan-lambert-rhoam-summer.html"
         },
         {
-          "title": "What Measures Keep Students Safe? Prevention, Not Defenses, Experts Say",
-          "link": "https://www.nytimes.com/2026/10/16/us/bend-oregon-school-shooting-safety-measures-prevention-defenses.html"
+          "title": "Katie Zacharia, Trump’s New Press Secretary, Is Ousted After 5 Days",
+          "link": "https://www.nytimes.com/2026/10/16/us/politics/katie-zacharia-fired-press-secretary.html"
         },
         {
-          "title": "U.S. Budget Deficit Nears $2 Trillion, a Reality Check for Trump’s Cost Cutting",
-          "link": "https://www.nytimes.com/2026/10/16/business/us-budget-deficit.html"
+          "title": "Trump Signs Order Exempting Russia From Sanctions Law",
+          "link": "https://www.nytimes.com/2026/10/16/us/politics/trump-order-russia-sanctions.html"
         },
         {
-          "title": "Bystander Who Killed School Shooter Is Father of 2 Students",
-          "link": "https://www.nytimes.com/2026/10/16/briefing/oregon-shooting-white-house-press-secretary.html"
+          "title": "The Rupturing Trump-Zelensky Relationship Stands to Hurt Ukraine and Its European Allies",
+          "link": "https://www.nytimes.com/2026/10/16/world/europe/trump-zelensky-ukraine-war.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T23:24:06.587Z"
+      "updatedAt": "2026-10-17T03:58:29.215Z"
     }
   },
   "indices": {
@@ -269,8 +269,8 @@
       },
       {
         "name": "Dow Jones",
-        "price": 52002.41,
-        "pct": 0.6726557667755102
+        "price": 52002.4,
+        "pct": 0.6726364075466231
       },
       {
         "name": "Nasdaq",
@@ -284,8 +284,8 @@
       },
       {
         "name": "Bitcoin",
-        "price": 81636.8,
-        "pct": -0.15381123095949387
+        "price": 81453.05,
+        "pct": -1.976138792739041
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-16T23:24:06.883Z"
+    "updatedAt": "2026-10-17T03:58:29.341Z"
   }
 }
