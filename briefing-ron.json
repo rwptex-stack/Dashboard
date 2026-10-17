@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-17T03:58:29.341Z",
+  "fetchedAt": "2026-10-17T08:29:22.582Z",
   "feeds": {
     "MarketWatch": {
       "items": [
@@ -29,13 +29,21 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T03:58:28.105Z"
+      "updatedAt": "2026-10-17T08:29:21.375Z"
     },
     "Fox News": {
       "items": [
         {
           "title": "Jerry Seinfeld turns tables on radical anti-Israel agitators after chaotic Chicago stunt backfires",
           "link": "https://www.foxnews.com/media/jerry-seinfeld-turns-tables-radical-anti-israel-agitators-chaotic-chicago-stunt-backfires"
+        },
+        {
+          "title": "Ilhan Omar raid sparks ominous prediction from watchdog: 'They probably got the goods'",
+          "link": "https://www.foxnews.com/politics/they-probably-got-goods-ilhan-omar-raid-sparks-ominous-prediction-watchdog"
+        },
+        {
+          "title": "Army expo attendees skeptical of Trump's Iran peace deal hopes: 'Beat 'em into submission'",
+          "link": "https://www.foxnews.com/politics/army-expo-attendees-skeptical-trumps-iran-peace-deal-hopes-beat-em-submission"
         },
         {
           "title": "NCAA moves to block Ohio Governor Mike DeWine's executive order expanding college athletes' eligibility",
@@ -48,18 +56,10 @@
         {
           "title": "Jalen Brunson is afraid to open the bag containing his NBA championship hat because of horrors inside",
           "link": "https://www.foxnews.com/outkick-sports/jalen-brunson-afraid-open-bag-containing-nba-championship-hat-horrors-inside"
-        },
-        {
-          "title": "Fox News Campus Radicals Newsletter: Judeo-Christian values under assault in American schools",
-          "link": "https://www.foxnews.com/us/fox-news-campus-radicals-newsletter-judeo-christian-values-under-assault-american-schools"
-        },
-        {
-          "title": "Falcons' Michael Penix cleared to face Bears following rib injury as Caleb Williams' status remains unclear",
-          "link": "https://www.foxnews.com/outkick-sports/falcons-michael-penix-cleared-face-bears-following-rib-injury-caleb-williams-status-remains-unclear"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T03:58:28.198Z"
+      "updatedAt": "2026-10-17T08:29:21.553Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -89,7 +89,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T03:58:28.348Z"
+      "updatedAt": "2026-10-17T08:29:21.675Z"
     },
     "The Hill": {
       "items": [
@@ -115,7 +115,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T03:58:28.842Z"
+      "updatedAt": "2026-10-17T08:29:21.963Z"
     },
     "Ars Technica": {
       "items": [
@@ -141,7 +141,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T03:58:28.883Z"
+      "updatedAt": "2026-10-17T08:29:22.050Z"
     },
     "The Verge": {
       "items": [
@@ -167,21 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T03:58:28.979Z"
+      "updatedAt": "2026-10-17T08:29:22.116Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Brazil sees record fall in Amazon deforestation as key election looms",
-          "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss"
+          "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+          "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
           "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Trump waives several Russia sanctions as new US law takes effect",
-          "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
@@ -192,46 +188,50 @@
           "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss"
         },
         {
+          "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+          "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
           "link": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Katie Zacharia leaving her White House role less than five days on the job",
+          "title": "Katie Zacharia leaving White House role less than five days into job",
           "link": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T03:58:29.125Z"
+      "updatedAt": "2026-10-17T08:29:22.360Z"
     },
     "BBC News": {
       "items": [
+        {
+          "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+          "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
           "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Trump waives several Russia sanctions as new US law takes effect",
-          "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
+          "title": "Third runway at Heathrow Airport would drive growth, Healey says",
+          "link": "https://www.bbc.co.uk/news/articles/cw0k07d2nj43o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Analysis: Zacharia was thrown into a whirlwind - and failed at a critical time for Trump",
           "link": "https://www.bbc.co.uk/news/articles/c6e3xnjlz12do?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Five days, one briefing: How Katie Zacharia’s short tenure unfolded",
-          "link": "https://www.bbc.co.uk/news/videos/c6j47ewnn0vyo?at_medium=RSS&at_campaign=rss"
+          "title": "Faisal Islam: What I learned from a week with the world's top finance leaders",
+          "link": "https://www.bbc.co.uk/news/articles/cm4g189jvnxjo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Chris Mason: Burnham and Swinney tussle over where power lies in Scotland",
-          "link": "https://www.bbc.co.uk/news/articles/cmlyl889jqzjo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Miranda's tears, joy and dance moves steal show as deadly boredom sets in on The Celebrity Traitors",
-          "link": "https://www.bbc.co.uk/news/articles/cq70pre80gwko?at_medium=RSS&at_campaign=rss"
+          "title": "Man jailed for Starmer-linked arson attacks is deported",
+          "link": "https://www.bbc.co.uk/news/articles/c6x2vk44dv1xo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T03:58:29.147Z"
+      "updatedAt": "2026-10-17T08:29:22.372Z"
     },
     "NY Times": {
       "items": [
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T03:58:29.215Z"
+      "updatedAt": "2026-10-17T08:29:22.438Z"
     }
   },
   "indices": {
@@ -269,8 +269,8 @@
       },
       {
         "name": "Dow Jones",
-        "price": 52002.4,
-        "pct": 0.6726364075466231
+        "price": 52002.41,
+        "pct": 0.6726557667755102
       },
       {
         "name": "Nasdaq",
@@ -279,13 +279,13 @@
       },
       {
         "name": "Gold",
-        "price": 4186.7,
-        "pct": -0.09306543215769926
+        "price": 4181.1,
+        "pct": -0.2266978475635947
       },
       {
         "name": "Bitcoin",
-        "price": 81453.05,
-        "pct": -1.976138792739041
+        "price": 81609.52,
+        "pct": -1.7878365307230673
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-17T03:58:29.341Z"
+    "updatedAt": "2026-10-17T08:29:22.582Z"
   }
 }
