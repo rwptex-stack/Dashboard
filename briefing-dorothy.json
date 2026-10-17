@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-10-17T21:50:07.190Z",
+  "fetchedAt": "2026-10-17T23:36:09.439Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Ex-wrestler Pac's sudden death cause revealed by Cook County Medical Examiner's Office",
-          "link": "https://www.foxnews.com/outkick-sports/ex-wrestler-pacs-sudden-death-cause-revealed-cook-county-medical-examiners-office"
+          "title": "Limoges Town Hall 'largely lost' after far-left rioters set historic building on fire amid French unrest",
+          "link": "https://www.foxnews.com/world/limoges-town-hall-largely-lost-after-far-left-rioters-set-historic-building-fire-amid-french-unrest"
         },
         {
-          "title": "Bears to start Caleb Williams vs Falcons after missing three games with hamstring injury",
-          "link": "https://www.foxnews.com/outkick-sports/bears-start-caleb-williams-vs-falcons-missing-three-games-hamstring-injury"
+          "title": "Conor Kennedy, RFK Jr's son, celebrates wedding with Brazilian pop star in gorgeous setting",
+          "link": "https://www.foxnews.com/travel/conor-kennedy-rfk-jrs-son-celebrates-wedding-brazilian-pop-star-gorgeous-setting"
         },
         {
-          "title": "Megan Fox unveils provocative new photos as she launches new venture with OnlyFans co-founder",
-          "link": "https://www.foxnews.com/entertainment/megan-fox-unveils-provocative-new-photos-launches-venture-onlyfans-co-founder"
+          "title": "Child among 2 killed after vehicle drives onto soccer field at Kansas sports complex",
+          "link": "https://www.foxnews.com/us/child-among-2-killed-after-vehicle-drives-onto-soccer-field-kansas-sports-complex"
         },
         {
-          "title": "Eagles' Jalen Hurts placed on injured reserve after superficial blood clot found in his calf area",
-          "link": "https://www.foxnews.com/outkick-sports/eagles-jalen-hurts-placed-injured-reserve-superficial-blood-clot-calf-area"
+          "title": "Sylvester Stallone scoffs at nepotism critics over daughter's 'Tulsa King' role: 'You idiot'",
+          "link": "https://www.foxnews.com/entertainment/sylvester-stallone-scoffs-nepotism-critics-daughter-tulsa-king-role-you-idiot"
         },
         {
-          "title": "Texas blows 14-point lead, Arch Manning experiences first home loss as questions mount in Austin",
-          "link": "https://www.foxnews.com/outkick-sports/texas-blows-14-point-lead-arch-manning-experiences-first-home-loss-questions-mount-austin"
+          "title": "Hollywood veteran Kevin Pollak spills wild secrets about 'craziest' actor he's ever worked with",
+          "link": "https://www.foxnews.com/entertainment/hollywood-veteran-kevin-pollak-spills-wild-secrets-craziest-actor-hes-worked"
         },
         {
-          "title": "Dream and Valkyries leave court for national anthem, return seconds later at WNBA Finals",
-          "link": "https://www.foxnews.com/outkick-sports/dream-valkyries-leave-court-national-anthem-return-seconds-later-wnba-finals"
+          "title": "Ohio State shatters Indiana’s 22-game winning streak, but questions linger about Julian Sayin's health",
+          "link": "https://www.foxnews.com/outkick-sports/ohio-state-shatters-indianas-22-game-winning-streak-questions-linger-julian-sayins-health"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T21:50:04.089Z"
+      "updatedAt": "2026-10-17T23:36:07.083Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,10 +59,22 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T21:50:04.278Z"
+      "updatedAt": "2026-10-17T23:36:07.246Z"
     },
     "The Hill": {
       "items": [
+        {
+          "title": "Huckabee condemns Israeli settlers' attack on Washington Post photojournalist",
+          "link": "https://thehill.com/homenews/administration/6156177-huckabee-condemns-israel-photographer-attack/"
+        },
+        {
+          "title": "Sunday shows preview: Trump-Zelensky feud escalates; Controversies hit White House before midterms",
+          "link": "https://thehill.com/homenews/sunday-talk-shows/6156133-trump-russia-sanctions-backlash/"
+        },
+        {
+          "title": "GOP Rep. Scott Perry narrowly behind in Pennsylvania reelection bid: Poll",
+          "link": "https://thehill.com/homenews/campaign/6156134-stelson-leads-perry-poll-pennsylvania-house/"
+        },
         {
           "title": "Concerning economic data pose issues for GOP down midterm stretch",
           "link": "https://thehill.com/business/6155023-inflation-midterm-elections-republicans/"
@@ -70,22 +82,10 @@
         {
           "title": "Blackburn on AI Kendrick Lamar clip backlash: It wasn't 'intended to offend'",
           "link": "https://thehill.com/homenews/campaign/6156109-marsha-blackburn-kendrick-lamar-backlash-response/"
-        },
-        {
-          "title": "Stephen A. Smith calls dinner with Trump, Bill Maher, Kid Rock 'shocking'",
-          "link": "https://thehill.com/blogs/in-the-know/6156054-stephen-a-smith-kid-rock-maher-trump/"
-        },
-        {
-          "title": "MapQuest's new 'surveillance layer' feature flags Flock cameras on users' routes",
-          "link": "https://thehill.com/business/6156038-mapquest-adds-surveillance-layer/"
-        },
-        {
-          "title": "Live updates: Trump rallies in Kentucky as Russia sanctions waiver backlash mounts",
-          "link": "https://thehill.com/homenews/administration/6155519-live-updates-trump-and-zelensky-relationship-rocky-over-russia-sanctions-starlink-obama-campaigns-in-michigan-ohio/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T21:50:04.837Z"
+      "updatedAt": "2026-10-17T23:36:07.809Z"
     },
     "Ars Technica": {
       "items": [
@@ -111,7 +111,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T21:50:05.004Z"
+      "updatedAt": "2026-10-17T23:36:07.958Z"
     },
     "The Verge": {
       "items": [
@@ -137,12 +137,12 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T21:50:05.187Z"
+      "updatedAt": "2026-10-17T23:36:08.087Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Violent clashes, looting and buildings ablaze as hundreds arrested after France protests",
+          "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
           "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss"
         },
         {
@@ -162,46 +162,46 @@
           "link": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
-          "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss"
+          "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+          "link": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
-          "link": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss"
+          "title": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
+          "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T21:50:05.404Z"
+      "updatedAt": "2026-10-17T23:36:08.326Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "More NHS staff sacked over attacks victims' records",
-          "link": "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss"
+          "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+          "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "European diplomats attacked by Israeli settlers in West Bank",
-          "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss"
+          "title": "How day of protests unfolded as disorder breaks out across France",
+          "link": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "More NHS staff sacked over attacks victims' records",
+          "link": "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Anti-government protesters battle with police in Albania",
           "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss"
         },
         {
+          "title": "European diplomats attacked by Israeli settlers in West Bank",
+          "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Swinney's emotional explanation for his commitment to independence",
           "link": "https://www.bbc.co.uk/news/articles/cx5yn9n7v5zeo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Pope discharged from hospital days after lung cancer surgery",
-          "link": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Chelsea's Martinez taken to hospital for 'precautionary tests'",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c6rryqq00yp4o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T21:50:05.444Z"
+      "updatedAt": "2026-10-17T23:36:08.425Z"
     },
     "NY Times": {
       "items": [
@@ -218,16 +218,16 @@
           "link": "https://www.nytimes.com/2026/10/17/us/politics/graham-trump-russia-sanctions-law.html"
         },
         {
-          "title": "How Pennsylvania Explains the Forces Shaping the Midterms",
-          "link": "https://www.nytimes.com/2026/10/17/us/politics/pennsylvania-midterm-elections-house-races.html"
+          "title": "In Midterm Campaign’s Final Stretch, Trump Can’t Stop Praising Men’s Bodies",
+          "link": "https://www.nytimes.com/2026/10/17/us/politics/trump-men-physical-appearance-comments.html"
         },
         {
-          "title": "New Round of ‘No Kings’ Rallies Focuses on Getting Out the Vote",
-          "link": "https://www.nytimes.com/2026/10/17/us/no-kings-early-voting-midterms.html"
+          "title": "Bernie Sanders Visits Florida to Campaign With Angie Nixon",
+          "link": "https://www.nytimes.com/2026/10/17/us/politics/bernie-sanders-angie-nixon-florida-senate.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T21:50:05.594Z"
+      "updatedAt": "2026-10-17T23:36:08.516Z"
     },
     "ARTNews": {
       "items": [
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T21:50:05.766Z"
+      "updatedAt": "2026-10-17T23:36:08.707Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T21:50:05.927Z"
+      "updatedAt": "2026-10-17T23:36:08.882Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T21:50:07.039Z"
+      "updatedAt": "2026-10-17T23:36:09.315Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T21:50:07.190Z"
+      "updatedAt": "2026-10-17T23:36:09.439Z"
     }
   }
 }
