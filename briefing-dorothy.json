@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-10-17T06:27:04.735Z",
+  "fetchedAt": "2026-10-17T11:14:56.450Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Jerry Seinfeld turns tables on radical anti-Israel agitators after chaotic Chicago stunt backfires",
-          "link": "https://www.foxnews.com/media/jerry-seinfeld-turns-tables-radical-anti-israel-agitators-chaotic-chicago-stunt-backfires"
+          "title": "MIKE DAVIS: Iowans can't afford a soft-on-crime attorney general",
+          "link": "https://www.foxnews.com/opinion/mike-davis-iowans-cant-afford-soft-crime-attorney-general"
         },
         {
-          "title": "NCAA moves to block Ohio Governor Mike DeWine's executive order expanding college athletes' eligibility",
-          "link": "https://www.foxnews.com/outkick-sports/ncaa-moves-block-ohio-governor-mike-dewine-executive-order-expanding-college-athletes-eligibility"
+          "title": "Hasan Piker's influence tests breaking point of Democratic Party",
+          "link": "https://www.foxnews.com/media/outsider-y-hasan-piker-tests-whether-twitch-influence-translate-political-power"
         },
         {
-          "title": "Rain forces MLB to postpone Guardians-Rays ALCS Game 4 in Cleveland",
-          "link": "https://www.foxnews.com/outkick-sports/rain-forces-mlb-postpone-guardians-rays-alcs-game-4-cleveland"
+          "title": "Serial killer's ex-wife slept beside murderer for 8 years, never suspected his deadly double life",
+          "link": "https://www.foxnews.com/us/serial-killer-ex-wife-slept-beside-murderer-8-years-never-suspected-deadly-double-life"
         },
         {
-          "title": "Jalen Brunson is afraid to open the bag containing his NBA championship hat because of horrors inside",
-          "link": "https://www.foxnews.com/outkick-sports/jalen-brunson-afraid-open-bag-containing-nba-championship-hat-horrors-inside"
+          "title": "Ilhan Omar's turbulent week explained: The dueling probes that threw the Somali-born progressive into chaos",
+          "link": "https://www.foxnews.com/politics/ilhan-omars-turbulent-week-explained-dueling-probes-threw-somali-born-progressive-chaos"
         },
         {
-          "title": "Fox News Campus Radicals Newsletter: Judeo-Christian values under assault in American schools",
-          "link": "https://www.foxnews.com/us/fox-news-campus-radicals-newsletter-judeo-christian-values-under-assault-american-schools"
+          "title": "Income inequality at Obama Foundation, as brass thrives and rank and file seeks union",
+          "link": "https://www.foxnews.com/politics/income-inequality-obama-foundation-brass-thrives-rank-file-seeks-union"
         },
         {
-          "title": "Falcons' Michael Penix cleared to face Bears following rib injury as Caleb Williams' status remains unclear",
-          "link": "https://www.foxnews.com/outkick-sports/falcons-michael-penix-cleared-face-bears-following-rib-injury-caleb-williams-status-remains-unclear"
+          "title": "'No Kings' foot soldiers ignore organizers' warning, go all in for Democrats",
+          "link": "https://www.foxnews.com/politics/no-kings-says-dont-partisan-politics-300-groups-protest-network-organizers-say-vote-blue"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T06:27:02.066Z"
+      "updatedAt": "2026-10-17T11:14:55.081Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,10 +59,22 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T06:27:02.456Z"
+      "updatedAt": "2026-10-17T11:14:55.138Z"
     },
     "The Hill": {
       "items": [
+        {
+          "title": "The Memo: Ukraine's slide into crisis sharpens questions for Trump",
+          "link": "https://thehill.com/homenews/analysis/6155440-trump-zelensky-ukraine-russia-diesel-starlink/"
+        },
+        {
+          "title": "Ukraine faces grim question of whether it can take on Russia without US backing",
+          "link": "https://thehill.com/policy/defense/6154982-trump-starlink-ukraine-russia-fight/"
+        },
+        {
+          "title": "Health insurance is the sleeper midterms issue: Why premiums are spiking",
+          "link": "https://thehill.com/policy/healthcare/6155375-aca-costs-to-spike-next-month/"
+        },
         {
           "title": "Trump waives Russian sanctions outlined in Graham Act before they take effect",
           "link": "https://thehill.com/homenews/administration/6155621-trump-waives-russian-sanctions-act-tariffs/"
@@ -70,22 +82,10 @@
         {
           "title": "Zacharia speaks out after White House press secretary exit: 'It was an honor'",
           "link": "https://thehill.com/homenews/administration/6155603-katie-zacharia-press-secretary-exit-statement/"
-        },
-        {
-          "title": "Secret Service deputy chief stepping down",
-          "link": "https://thehill.com/homenews/administration/6155544-secret-service-deputy-director-quinn-resigns/"
-        },
-        {
-          "title": "Federal agents searched Omar's trash for DNA before raid: Sources",
-          "link": "https://thehill.com/homenews/6155559-federal-raid-ilhan-omar-dna-trash/"
-        },
-        {
-          "title": "More lawmakers report suspicious packages at offices",
-          "link": "https://thehill.com/homenews/house/6155515-lawmakers-report-suspicious-mailings/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T06:27:02.949Z"
+      "updatedAt": "2026-10-17T11:14:55.308Z"
     },
     "Ars Technica": {
       "items": [
@@ -111,7 +111,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T06:27:03.066Z"
+      "updatedAt": "2026-10-17T11:14:55.357Z"
     },
     "The Verge": {
       "items": [
@@ -137,16 +137,12 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T06:27:03.188Z"
+      "updatedAt": "2026-10-17T11:14:55.875Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Brazil sees record fall in Amazon deforestation as key election looms",
-          "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Trump waives several Russia sanctions as new US law takes effect",
+          "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
           "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
         },
         {
@@ -158,25 +154,29 @@
           "link": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
-          "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
-          "link": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss"
+          "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+          "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Katie Zacharia leaving White House role less than five days into job",
           "link": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Rare pink diamond goes on display in France 100 years after amateur heist",
+          "link": "https://www.bbc.co.uk/news/articles/c61m4zkx47vlo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Actress Selma Blair says she 'did not intend to harm anyone' in plane altercation",
+          "link": "https://www.bbc.co.uk/news/articles/cwly3zd1r45ro?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T06:27:03.519Z"
+      "updatedAt": "2026-10-17T11:14:55.939Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Trump waives several Russia sanctions as new US law takes effect",
+          "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
           "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
         },
         {
@@ -184,53 +184,65 @@
           "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Third runway at Heathrow Airport would drive growth, Healey says",
-          "link": "https://www.bbc.co.uk/news/articles/cw0k07d2nj43o?at_medium=RSS&at_campaign=rss"
+          "title": "Boy, 16, and 80-year-old man die in light aircraft crash near Loch Lomond",
+          "link": "https://www.bbc.co.uk/news/articles/cky83g11q46lo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Analysis: Zacharia was thrown into a whirlwind - and failed at a critical time for Trump",
           "link": "https://www.bbc.co.uk/news/articles/c6e3xnjlz12do?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Five days, one briefing: How Katie Zacharia’s short tenure unfolded",
-          "link": "https://www.bbc.co.uk/news/videos/c6j47ewnn0vyo?at_medium=RSS&at_campaign=rss"
+          "title": "Swinney insists 'stars are aligning' for Scottish independence",
+          "link": "https://www.bbc.co.uk/news/articles/cmx2844n7nepo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Chris Mason: Burnham and Swinney tussle over where power lies in Scotland",
-          "link": "https://www.bbc.co.uk/news/articles/cmlyl889jqzjo?at_medium=RSS&at_campaign=rss"
+          "title": "Miranda's tears, joy and dance moves steal show as deadly boredom sets in on The Celebrity Traitors",
+          "link": "https://www.bbc.co.uk/news/articles/cq70pre80gwko?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T06:27:03.542Z"
+      "updatedAt": "2026-10-17T11:14:55.957Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "School Shooting in Bend, Ore., Has Heroes and Pain, But Few Answers",
-          "link": "https://www.nytimes.com/2026/10/16/us/bend-shooting-hero-teacher-dad.html"
+          "title": "How Pennsylvania Explains the Forces Shaping the Midterms",
+          "link": "https://www.nytimes.com/2026/10/17/us/politics/how-pennsylvania-explains-the-forces-shaping-the-midterms.html"
         },
         {
-          "title": "Teacher Killed in Oregon School Shooting Was Working Her ‘Dream Job,’ Family Says",
-          "link": "https://www.nytimes.com/2026/10/16/us/bend-school-shooting-victims-megan-lambert-rhoam-summer.html"
+          "title": "Hegseth Singled Out in Democrats’ Campaign Attacks for War and High Prices",
+          "link": "https://www.nytimes.com/2026/10/17/us/elections/hegseth-singled-out-in-democrats-campaign-attacks-for-war-and-high-prices.html"
         },
         {
-          "title": "Katie Zacharia, Trump’s New Press Secretary, Is Ousted After 5 Days",
-          "link": "https://www.nytimes.com/2026/10/16/us/politics/katie-zacharia-fired-press-secretary.html"
+          "title": "Trump Revives 2020 Election Conspiracies, With Help From the Federal Government",
+          "link": "https://www.nytimes.com/2026/10/17/us/politics/election-fraud-conspiracies-trump.html"
         },
         {
-          "title": "Trump Signs Order Exempting Russia From Sanctions Law",
-          "link": "https://www.nytimes.com/2026/10/16/us/politics/trump-order-russia-sanctions.html"
+          "title": "‘No Kings’ Events This Weekend: What We Know",
+          "link": "https://www.nytimes.com/2026/10/16/us/what-we-know-no-kings-vote-early.html"
         },
         {
-          "title": "The Rupturing Trump-Zelensky Relationship Stands to Hurt Ukraine and Its European Allies",
-          "link": "https://www.nytimes.com/2026/10/16/world/europe/trump-zelensky-ukraine-war.html"
+          "title": "Uncertainty Over Pope’s Health Fuels Familiar Debate Over Vatican’s Candor",
+          "link": "https://www.nytimes.com/2026/10/17/world/europe/pope-leo-vatican-transparency-cancer.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T06:27:03.721Z"
+      "updatedAt": "2026-10-17T11:14:56.019Z"
     },
     "ARTNews": {
       "items": [
+        {
+          "title": "Ibrahim Mahama’s Most Ambitious Show Yet Is Headed to Paris—But Its Core Is in Ghana",
+          "link": "https://www.artnews.com/art-news/artists/ibrahim-mahama-fondation-cartier-paris-show-1234802619/"
+        },
+        {
+          "title": "How Cringe Took Over Culture",
+          "link": "https://www.artnews.com/art-in-america/features/cringe-took-over-culture-nathan-fielder-jordan-staffer-marianne-simnett-1234802717/"
+        },
+        {
+          "title": "Eight Galleries in India You Should Know",
+          "link": "https://www.artnews.com/list/art-news/market/india-art-galleries-to-know-1234802821/"
+        },
         {
           "title": "Norton Simon Museum Countersues Jewish Federation Over Cranach Diptych, Met Names Danh Võ for Genesis Façade Commission, and More: Morning Links for October 16, 2026",
           "link": "https://www.artnews.com/art-news/news/morning-links-october-16-norton-simon-museum-1234802810/"
@@ -242,25 +254,17 @@
         {
           "title": "ARTnews Celebrates 2026 Edition of Annual Top 200 Collectors Issue",
           "link": "https://www.artnews.com/art-news/news/artnews-top-200-collectors-2026-issue-launch-party-1234802617/"
-        },
-        {
-          "title": "Norton Simon Museum Countersues Jewish Dealer’s Heirs Over Looted Cranach Painting, Extending a Decades-Long Fight",
-          "link": "https://www.artnews.com/art-news/news/norton-simon-museum-countersues-jewish-heirs-looted-cranach-1234802779/"
-        },
-        {
-          "title": "ARTnews Celebrates 2026 Top 200 Collectors Issue",
-          "link": "https://www.artnews.com/gallery/art-news/photos/artnews-2026-top-200-collectors-slideshow-1234802680/"
-        },
-        {
-          "title": "George Osborne Personally Helped Secure Controversial $6.6 M. British Museum Sponsorship, Emails Show",
-          "link": "https://www.artnews.com/art-news/news/eorge-osborne-british-museum-igor-tulchinsky-sponsorship-1234802772/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T06:27:03.840Z"
+      "updatedAt": "2026-10-17T11:14:56.177Z"
     },
     "Hyperallergic": {
       "items": [
+        {
+          "title": "Diaries of a Primitive Man",
+          "link": "https://hyperallergic.com/diaries-of-a-primitive-man/"
+        },
         {
           "title": "Cannupa Hanska Luger’s Truth About America",
           "link": "https://hyperallergic.com/cannupa-hanska-lugers-truth-about-america/"
@@ -280,17 +284,17 @@
         {
           "title": "Faith and Its Contradictions in “9 Temples to Heaven”",
           "link": "https://hyperallergic.com/faith-and-its-contradictions-in-9-temples-to-heaven/"
-        },
-        {
-          "title": "Massive King Ramses II Statues Unearthed in Egypt",
-          "link": "https://hyperallergic.com/massive-king-ramses-ii-statues-unearthed-in-egypt/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T06:27:04.005Z"
+      "updatedAt": "2026-10-17T11:14:56.259Z"
     },
     "Contemporary Art Daily": {
       "items": [
+        {
+          "title": "Teak Ramos at Can",
+          "link": "https://www.contemporaryartdaily.com/project/teak-ramos-at-can-vienna-107278?source=rss"
+        },
         {
           "title": "Zak Prekop at Hagiwara Projects",
           "link": "https://www.contemporaryartdaily.com/project/zak-prekop-at-hagiwara-projects-tokyo-108926?source=rss"
@@ -310,14 +314,10 @@
         {
           "title": "Sophie Esslinger at Jacky Strenz",
           "link": "https://www.contemporaryartdaily.com/project/sophie-esslinger-at-jacky-strenz-frankfurt-107909?source=rss"
-        },
-        {
-          "title": "David Rappeneau at CASTLE",
-          "link": "https://www.contemporaryartdaily.com/project/david-rappeneau-at-castle-los-angeles-105725?source=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T06:27:04.609Z"
+      "updatedAt": "2026-10-17T11:14:56.380Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T06:27:04.735Z"
+      "updatedAt": "2026-10-17T11:14:56.450Z"
     }
   }
 }
