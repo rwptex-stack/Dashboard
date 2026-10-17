@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-16T23:05:54.512Z",
+  "fetchedAt": "2026-10-17T01:56:55.916Z",
   "feeds": {
     "Fox News": {
       "items": [
@@ -8,28 +8,28 @@
           "link": "https://www.foxnews.com/media/jerry-seinfeld-turns-tables-radical-anti-israel-agitators-chaotic-chicago-stunt-backfires"
         },
         {
-          "title": "Fox News Entertainment newsletter: Prince Edward wanted 'two wives'; Harry, Meghan accused of 'royal theatre'",
-          "link": "https://www.foxnews.com/entertainment/fox-news-entertainment-newsletter-prince-edward-wanted-two-wives-harry-meghan-accused-royal-theatre"
+          "title": "Fox News Campus Radicals Newsletter: Judeo-Christian values under assault in American schools",
+          "link": "https://www.foxnews.com/us/fox-news-campus-radicals-newsletter-judeo-christian-values-under-assault-american-schools"
         },
         {
-          "title": "Seth Meyers admits shock over second Trump victory prompted sit-down with late-night team to adjust tone",
-          "link": "https://www.foxnews.com/media/seth-meyers-admits-shock-second-trump-victory-prompted-sit-down-late-night-team-adjust-tone"
+          "title": "Falcons' Michael Penix cleared to face Bears following rib injury as Caleb Williams' status remains unclear",
+          "link": "https://www.foxnews.com/outkick-sports/falcons-michael-penix-cleared-face-bears-following-rib-injury-caleb-williams-status-remains-unclear"
         },
         {
-          "title": "Dodgers' elimination ends remarkable streak of players named Will Smith winning the World Series",
-          "link": "https://www.foxnews.com/outkick-sports/dodgers-elimination-ends-remarkable-streak-players-named-will-smith-winning-world-series"
+          "title": "Kid Rock details sit-down with Trump, Stephen A Smith and Bill Maher",
+          "link": "https://www.foxnews.com/media/kid-rock-details-sit-down-trump-stephen-smith-bill-maher"
         },
         {
-          "title": "International Olympic Committee scraps gender equality, diversity and inclusion panel in major reshuffle",
-          "link": "https://www.foxnews.com/outkick-sports/international-olympic-committee-scraps-gender-equality-diversity-inclusion-panel-major-reshuffle"
+          "title": "College Football Playoff expanding again, but the money behind it is not what some would call a 'win'",
+          "link": "https://www.foxnews.com/outkick-sports/college-football-playoff-expanding-money-behind-not-what-some-would-call-win"
         },
         {
-          "title": "Brain-infecting fungus that can kill 7 in 10 patients is on the rise across America",
-          "link": "https://www.foxnews.com/health/brain-infecting-fungus-kill-7-10-patients-rise-across-america"
+          "title": "Pennsylvania socialist Democrat says he opposes imprisonment except for 'lawless MAGA thugs'",
+          "link": "https://www.foxnews.com/media/pennsylvania-socialist-democrat-says-he-opposes-imprisonment-except-lawless-maga-thugs"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T23:05:52.137Z"
+      "updatedAt": "2026-10-17T01:56:53.237Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,36 +59,40 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T23:05:52.319Z"
+      "updatedAt": "2026-10-17T01:56:53.441Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "5 days of Katie Zacharia: The rapid fall of Trump's 'lawyer' press secretary",
-          "link": "https://thehill.com/homenews/administration/6155287-katie-zacharia-white-house-exit-five-days/"
+          "title": "Secret Service deputy chief stepping down",
+          "link": "https://thehill.com/homenews/administration/6155544-secret-service-deputy-director-quinn-resigns/"
         },
         {
-          "title": "Energy regulators speed up approvals for gas export facility expansions",
-          "link": "https://thehill.com/blogs/blog-briefing-room/news/energy-a-environment/6155398-ferc-seeks-shorten-gas-export-approvals/"
+          "title": "Federal agents searched Omar's trash for DNA before raid: Sources",
+          "link": "https://thehill.com/homenews/6155559-federal-raid-ilhan-omar-dna-trash/"
         },
         {
-          "title": "Bipartisan senators ask Pentagon to answer for Ukraine Starlink restrictions",
-          "link": "https://thehill.com/newsletters/technology/6155378-gop-senators-press-pentagon-starlink-newsletter/"
+          "title": "More lawmakers report suspicious packages at offices",
+          "link": "https://thehill.com/homenews/house/6155515-lawmakers-report-suspicious-mailings/"
         },
         {
-          "title": "AOC transfers $1M to El-Sayed in final push for Michigan senate race",
-          "link": "https://thehill.com/homenews/6154613-aoc-transfers-1m-to-el-sayed-in-final-push-for-michigan-senate-race-yt/"
+          "title": "Centcom commander says naval blockade cost Iran $25B in oil revenue",
+          "link": "https://thehill.com/newsletters/defense-national-security/6155474-centcom-commander-says-naval-blockade-cost-iran-25b-in-oil-revenue/"
         },
         {
-          "title": "Senate Democrats unveil new plans for strengthening Medicare",
-          "link": "https://thehill.com/newsletters/healthcare/6155303-senate-democrats-unveil-new-plans-for-strengthening-medicare/"
+          "title": "FERC moves to ease gas approvals",
+          "link": "https://thehill.com/newsletters/energy-environment/6155469-ferc-proposes-lng-approval-speedup/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T23:05:52.730Z"
+      "updatedAt": "2026-10-17T01:56:53.970Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "OpenAI models hacked a crypto wallet and breached more websites",
+          "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/"
+        },
         {
           "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
           "link": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/"
@@ -104,17 +108,21 @@
         {
           "title": "RFK Jr. proposes FDA look the other way on unproven peptides, report says",
           "link": "https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says/"
-        },
-        {
-          "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
-          "link": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T23:05:52.899Z"
+      "updatedAt": "2026-10-17T01:56:54.109Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "All the news about the iPhone Duo",
+          "link": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements"
+        },
+        {
+          "title": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
+          "link": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment"
+        },
         {
           "title": "We can finally hear some of Wu-Tang Clan&#8217;s Once Upon A Time in Shaolin album",
           "link": "https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli"
@@ -126,18 +134,10 @@
         {
           "title": "Why Apple is finally making its own smart home devices",
           "link": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home"
-        },
-        {
-          "title": "The new Apple TV 4K just got its first (very small) discount",
-          "link": "https://www.theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale"
-        },
-        {
-          "title": "Apple&#8217;s HomeView has an app problem",
-          "link": "https://www.theverge.com/podcast/1012911/apple-homeview-apps-carplay-vergecast"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T23:05:53.030Z"
+      "updatedAt": "2026-10-17T01:56:54.259Z"
     },
     "BBC World": {
       "items": [
@@ -146,35 +146,43 @@
           "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss"
         },
         {
+          "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+          "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
           "link": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Trump denies limiting Ukraine access to Starlink network",
-          "link": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss"
+          "title": "Katie Zacharia leaving her White House role less than five days on the job",
+          "link": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
+          "link": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Trial of German steakhouse heiress that sparked a huge spy scandal",
+          "link": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Pope pictured for first time since surgery and cancer diagnosis",
           "link": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "India's 'cockroach' party founder detained ahead of protest",
-          "link": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Dad fined after son, 2, died in Cyprus hotel fall",
-          "link": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
-          "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T23:05:53.397Z"
+      "updatedAt": "2026-10-17T01:56:54.578Z"
     },
     "BBC News": {
       "items": [
+        {
+          "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+          "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Analysis: Zacharia was thrown into a whirlwind - and failed at a critical time for Trump",
+          "link": "https://www.bbc.co.uk/news/articles/c6e3xnjlz12do?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "Watch: Will Ukraine get the support needed as tensions with US rise?",
           "link": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss"
@@ -184,53 +192,49 @@
           "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Nurse stole £750k from 99-year-old woman for cosmetic surgery and home improvements",
-          "link": "https://www.bbc.co.uk/news/articles/cm9qzx43rlzjo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Man killed by tiger may have had medical records breached by NHS staff",
-          "link": "https://www.bbc.co.uk/news/articles/c875prd12vkqo?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "Chris Mason: Burnham and Swinney tussle over where power lies in Scotland",
           "link": "https://www.bbc.co.uk/news/articles/cmlyl889jqzjo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Watch: Did Tesla really just unveil a flying car?",
-          "link": "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&at_campaign=rss"
+          "title": "Nurse stole £750k from 99-year-old woman for cosmetic surgery and home improvements",
+          "link": "https://www.bbc.co.uk/news/articles/cm9qzx43rlzjo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T23:05:53.465Z"
+      "updatedAt": "2026-10-17T01:56:54.639Z"
     },
     "NY Times": {
       "items": [
+        {
+          "title": "Teacher Killed in Oregon School Shooting Was Working Her ‘Dream Job,’ Family Says",
+          "link": "https://www.nytimes.com/2026/10/16/us/bend-school-shooting-victims-megan-lambert-rhoam-summer.html"
+        },
         {
           "title": "Katie Zacharia, Trump’s New Press Secretary, Is Ousted After 5 Days",
           "link": "https://www.nytimes.com/2026/10/16/us/politics/katie-zacharia-fired-press-secretary.html"
         },
         {
+          "title": "When a Social Media Mob Came for Cornell’s Jane Doe",
+          "link": "https://www.nytimes.com/2026/10/16/nyregion/cornell-jane-doe-internet-doxing.html"
+        },
+        {
+          "title": "How We Reported on the Cornell Case",
+          "link": "https://www.nytimes.com/2026/10/15/insider/backstory-newsletter-trump-cornell.html"
+        },
+        {
           "title": "Bystander Who Killed School Shooter Is Father of 2 Students",
           "link": "https://www.nytimes.com/2026/10/16/briefing/oregon-shooting-white-house-press-secretary.html"
-        },
-        {
-          "title": "U.S. Budget Deficit Nears $2 Trillion, a Reality Check for Trump’s Cost Cutting",
-          "link": "https://www.nytimes.com/2026/10/16/business/us-budget-deficit.html"
-        },
-        {
-          "title": "What Measures Keep Students Safe? Prevention, Not Defenses, Experts Say",
-          "link": "https://www.nytimes.com/2026/10/16/us/bend-oregon-school-shooting-safety-measures-prevention-defenses.html"
-        },
-        {
-          "title": "Russia Appears to Step Up Efforts to Influence U.S. Voters",
-          "link": "https://www.nytimes.com/2026/10/16/us/politics/russian-influence-campaigns-midterms.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T23:05:53.582Z"
+      "updatedAt": "2026-10-17T01:56:54.873Z"
     },
     "ARTNews": {
       "items": [
+        {
+          "title": "Norton Simon Museum Countersues Jewish Federation Over Cranach Diptych, Met Names Danh Võ for Genesis Façade Commission, and More: Morning Links for October 16, 2026",
+          "link": "https://www.artnews.com/art-news/news/morning-links-october-16-norton-simon-museum-1234802810/"
+        },
         {
           "title": "Rubaiya Qatar Quadrennial Names More Than 120 Artists for Inaugural Edition",
           "link": "https://www.artnews.com/art-news/news/rubaiya-qatar-2026-inaugural-edition-artist-list-1234802793/"
@@ -250,14 +254,10 @@
         {
           "title": "George Osborne Personally Helped Secure Controversial $6.6 M. British Museum Sponsorship, Emails Show",
           "link": "https://www.artnews.com/art-news/news/eorge-osborne-british-museum-igor-tulchinsky-sponsorship-1234802772/"
-        },
-        {
-          "title": "Eight Group Shows to See in New York, From Incendiary Art History to a Lesson in Telenovelas",
-          "link": "https://www.artnews.com/list/art-news/news/group-shows-new-york-art-week-nyc-1234802029/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T23:05:53.713Z"
+      "updatedAt": "2026-10-17T01:56:55.029Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T23:05:53.879Z"
+      "updatedAt": "2026-10-17T01:56:55.181Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T23:05:54.342Z"
+      "updatedAt": "2026-10-17T01:56:55.681Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T23:05:54.512Z"
+      "updatedAt": "2026-10-17T01:56:55.916Z"
     }
   }
 }
