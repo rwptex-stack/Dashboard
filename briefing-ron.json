@@ -1,8 +1,20 @@
 {
-  "fetchedAt": "2026-10-17T16:16:48.304Z",
+  "fetchedAt": "2026-10-17T19:10:18.951Z",
   "feeds": {
     "MarketWatch": {
       "items": [
+        {
+          "title": "Fake shopping sprees and ‘happiness insurance’: The latest fintech apps reveal our financial anxieties",
+          "link": "https://www.marketwatch.com/story/fake-shopping-sprees-and-happiness-insurance-the-latest-fintech-apps-reveal-our-financial-anxieties-77770a46?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Investing, not homeownership, is the No. 1 milestone that makes Gen Z renters feel successful",
+          "link": "https://www.marketwatch.com/story/gen-z-renters-are-the-only-group-more-likely-to-feel-successful-by-investing-than-buying-a-house-30ac5344?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Is Apple’s foldable iPhone Duo worth $2,000? See how it stacks up against other foldable phones.",
+          "link": "https://www.marketwatch.com/story/is-apples-foldable-iphone-duo-worth-2-000-see-how-it-stacks-up-against-other-foldable-phones-c9066b13?mod=mw_rss_topstories"
+        },
         {
           "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
           "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories"
@@ -14,52 +26,40 @@
         {
           "title": "Influencers and biohackers swear by fasting. Here’s what the science says.",
           "link": "https://www.marketwatch.com/story/influencers-and-biohackers-swear-by-fasting-heres-what-the-science-says-3318191f?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Silver’s recent 50% drop from a record high hints that an economic slowdown looms",
-          "link": "https://www.marketwatch.com/story/silvers-recent-50-drop-from-a-record-high-hints-that-an-economic-slowdown-looms-e9fdfaf1?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Microsoft, Shopify and 3 more AI stocks that are favorite Wall Street earnings plays",
-          "link": "https://www.marketwatch.com/story/microsoft-shopify-and-3-more-ai-stocks-that-are-favorite-wall-street-earnings-plays-0bb61e81?mod=mw_rss_topstories"
-        },
-        {
-          "title": "I’m 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
-          "link": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T16:16:46.141Z"
+      "updatedAt": "2026-10-17T19:10:17.875Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Violence erupts at France protests as Macron warns unrest is being exploited",
-          "link": "https://www.foxnews.com/world/violence-erupts-france-protests-macron-warns-unrest-being-exploited"
+          "title": "Titans CEO apologizes to beleaguered fanbase after dreadful start to the season: 'We're sorry'",
+          "link": "https://www.foxnews.com/outkick-sports/titans-ceo-apologizes-beleaguered-fanbase-dreadful-start-season-sorry"
         },
         {
-          "title": "Michigan teen volleyball player files lawsuit after she unknowingly shared locker room with trans athlete",
-          "link": "https://www.foxnews.com/media/michigan-teen-volleyball-player-files-lawsuit-unknowingly-shared-locker-room-trans-athlete"
+          "title": "'Days of Our Lives' star Robert Kelker-Kelly ignored alarming symptoms before sudden death: police report",
+          "link": "https://www.foxnews.com/entertainment/days-our-lives-star-robert-kelker-kelly-ignored-alarming-symptoms-sudden-death-police-report"
         },
         {
-          "title": "NBA Commissioner Adam Silver blindsides Sonics faithful by floating surprise expansion alternative",
-          "link": "https://www.foxnews.com/outkick-sports/nba-commissioner-adam-silver-blindsides-sonics-faithful-floating-surprise-expansion-alternative"
+          "title": "Former California mayor pushes guaranteed income as fix for affordability crisis",
+          "link": "https://www.foxnews.com/media/mayors-pushing-guaranteed-income-programs-say-unrestricted-cash-fastest-way-address-affordability"
         },
         {
-          "title": "'Vast majority' of Iran's attempted attacks on Strait of Hormuz are unsuccessful, CENTCOM spokesman says",
-          "link": "https://www.foxnews.com/world/vast-majority-irans-attempted-attacks-strait-hormuz-unsuccessful-centcom-spokesman-says"
+          "title": "America's softest generation isn't the kids — it's their parents",
+          "link": "https://www.foxnews.com/outkick-sports/americas-softest-generation-isnt-kids-their-parents"
         },
         {
-          "title": "Lane Kiffin's son faces Arch Manning-style scrutiny after eye-opening high school blowout",
-          "link": "https://www.foxnews.com/outkick-sports/lane-kiffin-son-faces-arch-manning-style-scrutiny-eye-opening-high-school-blowout"
+          "title": "Three men get 158 years each for murdering American and Australian surfers, dumping bodies in Mexican well",
+          "link": "https://www.foxnews.com/world/three-men-158-years-murdering-american-australian-surfers-dumping-bodies-mexican-well"
         },
         {
-          "title": "Why eating oysters raw may mean missing out on their best flavor, celebrity chef says",
-          "link": "https://www.foxnews.com/food-drink/why-eating-oysters-raw-may-mean-missing-out-best-flavor-celebrity-chef-says"
+          "title": "Netanyahu praises Trump's 'wicked sense of humor,' defends ironclad alliance ahead of historic Israel vote",
+          "link": "https://www.foxnews.com/media/netanyahu-praises-trumps-wicked-sense-humor-defends-ironclad-alliance-ahead-historic-israel-vote"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T16:16:46.320Z"
+      "updatedAt": "2026-10-17T19:10:17.996Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -89,33 +89,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T16:16:46.706Z"
+      "updatedAt": "2026-10-17T19:10:18.177Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "George Santos: 'I’d jump to serve' as White House press secretary",
-          "link": "https://thehill.com/homenews/house/6155846-george-santos-press-secretary/"
+          "title": "Democrats are threatening US AI supremacy. Republicans should pounce.",
+          "link": "https://thehill.com/opinion/technology/6154943-ai-data-centers-red-states/"
         },
         {
-          "title": "Standing with farmers: Why US fertilizer independence matters",
-          "link": "https://thehill.com/opinion/finance/6154116-us-farmers-face-economic-headwinds/"
+          "title": "Zelensky says Ukraine is 'ready to negotiate'",
+          "link": "https://thehill.com/policy/international/6156034-zelensky-open-us-negotiations/"
         },
         {
-          "title": "Final Trump arch plans submitted to city omit proposed military complex",
-          "link": "https://thehill.com/homenews/administration/6155776-trump-arch-plans-omit-military-complex/"
+          "title": "Terror groups are handing Venezuela’s critical minerals over to China",
+          "link": "https://thehill.com/opinion/international/6154927-illicit-mining-funds-violence/"
         },
         {
-          "title": "Zelensky on Trump waiving Russia sanctions: 'This Act could have helped enormously'",
-          "link": "https://thehill.com/policy/international/6155800-zelensky-condemns-trump-russia-sanctions-waiver/"
+          "title": "Thousands of No Kings protests held for nationwide early voting 'day of action'",
+          "link": "https://thehill.com/homenews/state-watch/6155983-no-kings-coalition-action-protests/"
         },
         {
-          "title": "If the Supreme Court wants to protect freedom of the press, here is its chance",
-          "link": "https://thehill.com/opinion/judiciary/6155337-journalist-face-privacy-act-showdown/"
+          "title": "Immigrant ICE searched for in Texas when agent hit man with car has been dead for years: Report",
+          "link": "https://thehill.com/homenews/administration/6155919-ice-houston-immigrant-investigation/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T16:16:47.075Z"
+      "updatedAt": "2026-10-17T19:10:18.404Z"
     },
     "Ars Technica": {
       "items": [
@@ -141,33 +141,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T16:16:47.358Z"
+      "updatedAt": "2026-10-17T19:10:18.493Z"
     },
     "The Verge": {
       "items": [
         {
+          "title": "Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast",
+          "link": "https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance"
+        },
+        {
+          "title": "Elon Musk settles lawsuits over $1 million voter giveaway",
+          "link": "https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway"
+        },
+        {
+          "title": "Meta removes language that may have allowed it to scrape news sites",
+          "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites"
+        },
+        {
+          "title": "Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update",
+          "link": "https://www.theverge.com/gadgets/1013105/pikmin-4-nintendo-switch-deal-sale"
+        },
+        {
           "title": "Jad Abumrad loves a butterfly knife and a good springy pillow",
           "link": "https://www.theverge.com/entertainment/1013381/jad-abumrad-radiolab-dolly-parton-fela-kuti-podcast-interview"
-        },
-        {
-          "title": "SpaceX’s ambitious, expensive gamble to replace AT&#038;T, T-Mobile, and Verizon",
-          "link": "https://www.theverge.com/podcast/1012416/spacex-starlink-elon-musk-cell-carrier-wireless-mobile-att-verizon-t-mobile"
-        },
-        {
-          "title": "Websites are closing their doors to AI agents",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
-        },
-        {
-          "title": "Bose’s new wired earbuds are simple in the best way",
-          "link": "https://www.theverge.com/tech/1013320/bose-noise-cancelling-wired-earbuds-review"
-        },
-        {
-          "title": "Apple’s HomeView is just the latest threat to online recipe writers",
-          "link": "https://www.theverge.com/tech/1012820/apple-homeview-recipe-formatting"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T16:16:47.470Z"
+      "updatedAt": "2026-10-17T19:10:18.599Z"
     },
     "BBC World": {
       "items": [
@@ -201,37 +201,37 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T16:16:47.748Z"
+      "updatedAt": "2026-10-17T19:10:18.719Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Watch: 'Mood has really shifted' as Paris protesters clash with police",
-          "link": "https://www.bbc.co.uk/news/videos/c6vg08xlr8g3o?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "More NHS staff sacked over attacks victims' records",
           "link": "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "European diplomats attacked by Israeli settlers in West Bank",
+          "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "UK must protect against Russian 'hybrid attacks', ex-national security adviser says",
           "link": "https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Scotland 'not like Manchester', Swinney says in dig at PM Burnham",
-          "link": "https://www.bbc.co.uk/news/articles/cmx2844n7nepo?at_medium=RSS&at_campaign=rss"
+          "title": "Swinney's emotional explanation for his commitment to independence",
+          "link": "https://www.bbc.co.uk/news/articles/cx5yn9n7v5zeo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Pope discharged from hospital days after lung cancer surgery",
           "link": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
-          "link": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss"
+          "title": "Not sure what to wear for Halloween? These outfits are set to be the most popular this year",
+          "link": "https://www.bbc.co.uk/news/articles/crn4ej7vdwdno?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T16:16:48.017Z"
+      "updatedAt": "2026-10-17T19:10:18.724Z"
     },
     "NY Times": {
       "items": [
@@ -248,16 +248,16 @@
           "link": "https://www.nytimes.com/2026/10/17/us/politics/election-fraud-conspiracies-trump.html"
         },
         {
-          "title": "‘No Kings’ Events This Weekend to Focus on Voter Turnout: What We Know",
-          "link": "https://www.nytimes.com/2026/10/16/us/what-we-know-no-kings-vote-early.html"
+          "title": "Susan Collins Says Rival’s ‘Oh, Shut Up’ Comment Reflects How He Treats Women",
+          "link": "https://www.nytimes.com/2026/10/17/us/politics/susan-collins-troy-jackson-shut-up-debate.html"
         },
         {
-          "title": "Pope Leo Leaves Hospital, Days After Lung Cancer Surgery",
-          "link": "https://www.nytimes.com/2026/10/17/world/europe/pope-leo-discharged-hospital.html"
+          "title": "U.S. Floats Lifeline to Russia: Allowing More Gas Sales to Europe",
+          "link": "https://www.nytimes.com/2026/10/17/us/politics/russia-gas-trump.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T16:16:48.087Z"
+      "updatedAt": "2026-10-17T19:10:18.815Z"
     }
   },
   "indices": {
@@ -284,8 +284,8 @@
       },
       {
         "name": "Bitcoin",
-        "price": 81255.92,
-        "pct": -2.213372926510432
+        "price": 81394.43,
+        "pct": -2.0466844474931674
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-17T16:16:48.304Z"
+    "updatedAt": "2026-10-17T19:10:18.951Z"
   }
 }
