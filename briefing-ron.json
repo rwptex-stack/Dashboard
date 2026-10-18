@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-18T20:31:42.519Z",
+  "fetchedAt": "2026-10-18T22:56:36.371Z",
   "feeds": {
     "MarketWatch": {
       "items": [
@@ -29,37 +29,37 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T20:31:40.687Z"
+      "updatedAt": "2026-10-18T22:56:35.117Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Falcons rookie Kendal Daniels stretchered off field after helmet-to-knee collision in scary scene",
-          "link": "https://www.foxnews.com/outkick-sports/falcons-rookie-kendal-daniels-stretchered-off-field-helmet-to-knee-collision-scary-scene"
+          "title": "Costco shoppers spot new food court dessert with classic American twist just in time for fall",
+          "link": "https://www.foxnews.com/food-drink/costco-shoppers-spot-new-food-court-dessert-classic-american-twist-fall"
         },
         {
-          "title": "Major League Baseball's best team can't stop pretending to be the underdogs heading into World Series",
-          "link": "https://www.foxnews.com/outkick-sports/major-league-baseballs-best-team-cant-stop-pretending-underdogs-heading-world-series"
+          "title": "Hackers could already be inside American utilities, cyber experts warn of 'Trojan Horse' threat",
+          "link": "https://www.foxnews.com/tech/hackers-already-inside-american-utilities-cyber-experts-warn-trojan-horse-threat"
         },
         {
-          "title": "Chick-fil-A CEO addresses whether fast-food chain would ever consider opening on Sundays",
-          "link": "https://www.foxnews.com/food-drink/chick-fil-a-ceo-addresses-whether-fast-food-chain-would-ever-consider-opening-sundays"
+          "title": "Macklemore's 'Free Palestine' tour funding anti-Israel org who cheered Oct 7 Hamas attack",
+          "link": "https://www.foxnews.com/media/macklemores-free-palestine-tour-funding-anti-israel-org-who-cheered-oct-7-hamas-attack"
         },
         {
-          "title": "Investigation launched after Air Force airman fatally falls before UTSA football game",
-          "link": "https://www.foxnews.com/outkick-sports/investigation-launched-air-force-airman-fatally-falls-utsa-football-game"
+          "title": "Rams kicker Blake Grupe knocks himself out of his debut with a disastrous tackle attempt",
+          "link": "https://www.foxnews.com/outkick-sports/rams-kicker-blake-grupe-knocks-himself-out-debut-disastrous-tackle-attempt"
         },
         {
-          "title": "Abdul El-Sayed invokes JFK to dismiss 'crazy' questions over family's alleged ties to Muslim Brotherhood",
-          "link": "https://www.foxnews.com/media/abdul-el-sayed-invokes-jfk-dismiss-crazy-questions-over-familys-alleged-ties-muslim-brotherhood"
+          "title": "Driver released without charges after pickup kills boy, 6, and man on Kansas soccer field",
+          "link": "https://www.foxnews.com/us/driver-released-without-charges-pickup-kills-boy-6-man-kansas-soccer-field"
         },
         {
-          "title": "Cindy Crawford mourns son Presley Gerber in heartbreaking tribute",
-          "link": "https://www.foxnews.com/entertainment/cindy-crawford-mourns-son-presley-gerber-heartbreaking-tribute"
+          "title": "Priest killed by falling crucifix during livestreamed Mass as worshippers rush to help",
+          "link": "https://www.foxnews.com/world/priest-killed-falling-crucifix-livestreamed-mass-worshippers-rush-help"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T20:31:40.936Z"
+      "updatedAt": "2026-10-18T22:56:35.191Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -89,33 +89,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T20:31:41.323Z"
+      "updatedAt": "2026-10-18T22:56:35.468Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Newsom campaigns with New Hampshire Democrats ahead of midterms",
-          "link": "https://thehill.com/homenews/campaign/6156885-newsom-nh-campaign-stops/"
+          "title": "Israeli filmmakers bring counter ‘NAZA’ programming to Capitol Hill",
+          "link": "https://thehill.com/policy/international/6155089-naza-documentary-capitol-hill-screening/"
         },
         {
-          "title": "Nixon defends call to put opponent Moody in jail",
-          "link": "https://thehill.com/homenews/campaign/6156794-nixon-defends-moody-jail-call/"
+          "title": "Elizabeth Holmes documentary draws 2,000 sold-out shows in limited release",
+          "link": "https://thehill.com/blogs/in-the-know/6156985-nathan-fielder-elizabeth-holmes-documentary/"
         },
         {
-          "title": "Mulvaney predicts Wiles is in a 'powerful place' in the White House but will leave after midterms",
-          "link": "https://thehill.com/homenews/administration/6156830-mulvaney-expects-wiles-departure/"
+          "title": "El-Sayed criticizes implications of 'Muslim Brotherhood' question",
+          "link": "https://thehill.com/homenews/campaign/6156871-abdul-el-sayed-muslim-brotherhood-response/"
         },
         {
-          "title": "Bessent says dropping oil prices before 2026 ends 'will depend' on Iran conflict",
-          "link": "https://thehill.com/policy/energy-environment/6156572-bessent-oil-prices-iran-conflict/"
+          "title": "US Chamber of Commerce endorses Paxton over Talarico",
+          "link": "https://thehill.com/homenews/campaign/6156921-chamber-endorses-paxton-texas-senate/"
         },
         {
-          "title": "I worked for 3 White House press secretaries — here's some advice for the next one",
-          "link": "https://thehill.com/opinion/white-house/6155486-lessons-jim-brady-reagan-white-house/"
+          "title": "Bessent says there was no sanctions relief for Russia after U.S. diesel deal",
+          "link": "https://thehill.com/homenews/administration/6156573-bessent-refutes-sanctions-relief/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T20:31:41.682Z"
+      "updatedAt": "2026-10-18T22:56:35.976Z"
     },
     "Ars Technica": {
       "items": [
@@ -141,10 +141,14 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T20:31:41.721Z"
+      "updatedAt": "2026-10-18T22:56:36.045Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "A Savannah police officer gave her Flock login to her ICE agent husband",
+          "link": "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband"
+        },
         {
           "title": "Mister Organ is one of the most unsettling documentaries I’ve ever seen",
           "link": "https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review"
@@ -160,23 +164,15 @@
         {
           "title": "Lenovo’s fast, comfy SteamOS handheld is hundreds off",
           "link": "https://www.theverge.com/gadgets/1013436/lenovo-legion-go-s-steamos-handheld-deal-sale"
-        },
-        {
-          "title": "J Mascis has nothing better to do",
-          "link": "https://www.theverge.com/entertainment/1012442/j-mascis-dinosaur-jr-fender-interview"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T20:31:41.798Z"
+      "updatedAt": "2026-10-18T22:56:36.121Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-          "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Macron calls for calm in France and warns rioting must not escalate",
+          "title": "Macron calls for 'calm and order' after riots across France",
           "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss"
         },
         {
@@ -184,29 +180,33 @@
           "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss"
         },
         {
+          "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+          "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+          "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
           "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
-          "link": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss"
+          "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
+          "link": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "European diplomats attacked by Israeli settlers in West Bank",
           "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-          "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T20:31:41.906Z"
+      "updatedAt": "2026-10-18T22:56:36.160Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Macron calls for calm in France and warns rioting must not escalate",
+          "title": "Macron calls for 'calm and order' after riots across France",
           "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss"
         },
         {
@@ -222,8 +222,8 @@
           "link": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Watch: Police hunt for synthetic drugs in Chicago jail",
-          "link": "https://www.bbc.co.uk/news/videos/cq8ez4jz1z04o?at_medium=RSS&at_campaign=rss"
+          "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+          "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
@@ -231,21 +231,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T20:31:41.927Z"
+      "updatedAt": "2026-10-18T22:56:36.176Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "France in Shock After Protests Turn Into Riots, Damaging Buildings and Shops",
-          "link": "https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html"
+          "title": "Trump Hits Campaign Trail as White House Turmoil Weighs on GOP Midterm Prospects",
+          "link": "https://www.nytimes.com/2026/10/18/us/trump-midterm-elections-republicans-approval-ratings.html"
         },
         {
-          "title": "The French City of Limoges Wasn’t Known for Unrest. Then Rioters Set Fire to Its City Hall.",
-          "link": "https://www.nytimes.com/2026/10/18/world/france-limoges-fire-arson-protests.html"
-        },
-        {
-          "title": "Why Are There Protests in France?",
-          "link": "https://www.nytimes.com/article/france-student-protests-why.html"
+          "title": "Trump Outlines Rapid Plan to Close and Overhaul D.C. Golf Course",
+          "link": "https://www.nytimes.com/2026/10/18/us/politics/trump-golf-course-east-potomac-washington.html"
         },
         {
           "title": "O.J. Simpson, a Secret Informant and a Decades-Old Mystery",
@@ -254,10 +250,14 @@
         {
           "title": "5 Takeaways From The Times’s Re-Examination of the O.J. Simpson Case",
           "link": "https://www.nytimes.com/2026/10/18/us/oj-simpson-case-takeaways.html"
+        },
+        {
+          "title": "Key Players in the O.J. Simpson Trial",
+          "link": "https://www.nytimes.com/2026/10/18/us/oj-simpson-death-trial-key-players.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T20:31:42.294Z"
+      "updatedAt": "2026-10-18T22:56:36.204Z"
     }
   },
   "indices": {
@@ -279,13 +279,13 @@
       },
       {
         "name": "Gold",
-        "price": 4181.1,
-        "pct": 0.09096785004668523
+        "price": 4197.8,
+        "pct": 0.49074761209393625
       },
       {
         "name": "Bitcoin",
-        "price": 80881.01,
-        "pct": -0.8355311369233706
+        "price": 81710.41,
+        "pct": 0.1813578766415766
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-18T20:31:42.519Z"
+    "updatedAt": "2026-10-18T22:56:36.371Z"
   }
 }
