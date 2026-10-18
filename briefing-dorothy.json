@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-10-17T23:36:09.439Z",
+  "fetchedAt": "2026-10-18T01:56:04.173Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Limoges Town Hall 'largely lost' after far-left rioters set historic building on fire amid French unrest",
-          "link": "https://www.foxnews.com/world/limoges-town-hall-largely-lost-after-far-left-rioters-set-historic-building-fire-amid-french-unrest"
+          "title": "‘No Kings’ protesters spurn organizers' rules: ‘This is as partisan as you can get’",
+          "link": "https://www.foxnews.com/politics/no-kings-protesters-spurn-organizers-rules-this-partisan-you-can-get"
         },
         {
-          "title": "Conor Kennedy, RFK Jr's son, celebrates wedding with Brazilian pop star in gorgeous setting",
-          "link": "https://www.foxnews.com/travel/conor-kennedy-rfk-jrs-son-celebrates-wedding-brazilian-pop-star-gorgeous-setting"
+          "title": "Tennessee dominates as Alabama suffers first back-to-back regular-season losses in nearly two decades",
+          "link": "https://www.foxnews.com/outkick-sports/tennessee-dominates-alabama-suffers-first-back-to-back-regular-season-losses-nearly-two-decades"
         },
         {
-          "title": "Child among 2 killed after vehicle drives onto soccer field at Kansas sports complex",
-          "link": "https://www.foxnews.com/us/child-among-2-killed-after-vehicle-drives-onto-soccer-field-kansas-sports-complex"
+          "title": "Freshman Tommy Carr's second-half magic leads Michigan to must-have win over Penn State",
+          "link": "https://www.foxnews.com/outkick-sports/freshman-tommy-carr-second-half-magic-leads-michigan-must-have-win-penn-state"
         },
         {
-          "title": "Sylvester Stallone scoffs at nepotism critics over daughter's 'Tulsa King' role: 'You idiot'",
-          "link": "https://www.foxnews.com/entertainment/sylvester-stallone-scoffs-nepotism-critics-daughter-tulsa-king-role-you-idiot"
+          "title": "Minnesota Senate race takes bizarre turn after dark family history uncovered",
+          "link": "https://www.foxnews.com/politics/minnesota-senate-race-takes-bizarre-turn-dark-family-history-uncovered"
         },
         {
-          "title": "Hollywood veteran Kevin Pollak spills wild secrets about 'craziest' actor he's ever worked with",
-          "link": "https://www.foxnews.com/entertainment/hollywood-veteran-kevin-pollak-spills-wild-secrets-craziest-actor-hes-worked"
+          "title": "Bend school district honors slain teacher, praises staff member's courage during attack: ‘Forever grateful’",
+          "link": "https://www.foxnews.com/us/bend-school-district-honors-slain-teacher-praises-staff-member-courage-during-attack-forever-grateful"
         },
         {
-          "title": "Ohio State shatters Indiana’s 22-game winning streak, but questions linger about Julian Sayin's health",
-          "link": "https://www.foxnews.com/outkick-sports/ohio-state-shatters-indianas-22-game-winning-streak-questions-linger-julian-sayins-health"
+          "title": "New protein ranking names unexpected winner over beef, salmon and eggs",
+          "link": "https://www.foxnews.com/food-drink/new-protein-ranking-names-unexpected-winner-beef-salmon-eggs"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T23:36:07.083Z"
+      "updatedAt": "2026-10-18T01:56:01.228Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,10 +59,18 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T23:36:07.246Z"
+      "updatedAt": "2026-10-18T01:56:01.560Z"
     },
     "The Hill": {
       "items": [
+        {
+          "title": "CDC sends a 'disease detective' to Pennsylvania amid measles outbreak",
+          "link": "https://thehill.com/policy/healthcare/6156261-cdc-assists-pennsylvania-measles-outbreak/"
+        },
+        {
+          "title": "Sen. Graham on Trump waiving Russia sanctions: ‘I look forward to talking to him’",
+          "link": "https://thehill.com/homenews/senate/6156233-darline-graham-opposes-trump-russia-waiver/"
+        },
         {
           "title": "Huckabee condemns Israeli settlers' attack on Washington Post photojournalist",
           "link": "https://thehill.com/homenews/administration/6156177-huckabee-condemns-israel-photographer-attack/"
@@ -74,18 +82,10 @@
         {
           "title": "GOP Rep. Scott Perry narrowly behind in Pennsylvania reelection bid: Poll",
           "link": "https://thehill.com/homenews/campaign/6156134-stelson-leads-perry-poll-pennsylvania-house/"
-        },
-        {
-          "title": "Concerning economic data pose issues for GOP down midterm stretch",
-          "link": "https://thehill.com/business/6155023-inflation-midterm-elections-republicans/"
-        },
-        {
-          "title": "Blackburn on AI Kendrick Lamar clip backlash: It wasn't 'intended to offend'",
-          "link": "https://thehill.com/homenews/campaign/6156109-marsha-blackburn-kendrick-lamar-backlash-response/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T23:36:07.809Z"
+      "updatedAt": "2026-10-18T01:56:02.216Z"
     },
     "Ars Technica": {
       "items": [
@@ -111,7 +111,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T23:36:07.958Z"
+      "updatedAt": "2026-10-18T01:56:02.445Z"
     },
     "The Verge": {
       "items": [
@@ -137,7 +137,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T23:36:08.087Z"
+      "updatedAt": "2026-10-18T01:56:02.587Z"
     },
     "BBC World": {
       "items": [
@@ -171,7 +171,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T23:36:08.326Z"
+      "updatedAt": "2026-10-18T01:56:02.669Z"
     },
     "BBC News": {
       "items": [
@@ -180,8 +180,8 @@
           "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "How day of protests unfolded as disorder breaks out across France",
-          "link": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss"
+          "title": "Watch: Moment historic French town hall spire collapses in flames amid protests",
+          "link": "https://www.bbc.co.uk/news/videos/c6e3xjw37wn7o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "More NHS staff sacked over attacks victims' records",
@@ -201,7 +201,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T23:36:08.425Z"
+      "updatedAt": "2026-10-18T01:56:02.686Z"
     },
     "NY Times": {
       "items": [
@@ -227,7 +227,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T23:36:08.516Z"
+      "updatedAt": "2026-10-18T01:56:02.831Z"
     },
     "ARTNews": {
       "items": [
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T23:36:08.707Z"
+      "updatedAt": "2026-10-18T01:56:03.082Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T23:36:08.882Z"
+      "updatedAt": "2026-10-18T01:56:03.251Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T23:36:09.315Z"
+      "updatedAt": "2026-10-18T01:56:04.036Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T23:36:09.439Z"
+      "updatedAt": "2026-10-18T01:56:04.173Z"
     }
   }
 }
