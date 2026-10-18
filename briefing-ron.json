@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-17T22:07:45.846Z",
+  "fetchedAt": "2026-10-18T00:47:39.969Z",
   "feeds": {
     "MarketWatch": {
       "items": [
@@ -29,37 +29,37 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T22:07:43.993Z"
+      "updatedAt": "2026-10-18T00:47:37.563Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Ex-wrestler Pac's sudden death cause revealed by Cook County Medical Examiner's Office",
-          "link": "https://www.foxnews.com/outkick-sports/ex-wrestler-pacs-sudden-death-cause-revealed-cook-county-medical-examiners-office"
+          "title": "Freshman Tommy Carr's second-half magic leads Michigan to must-have win over Penn State",
+          "link": "https://www.foxnews.com/outkick-sports/freshman-tommy-carr-second-half-magic-leads-michigan-must-have-win-penn-state"
         },
         {
-          "title": "Bears to start Caleb Williams vs Falcons after missing three games with hamstring injury",
-          "link": "https://www.foxnews.com/outkick-sports/bears-start-caleb-williams-vs-falcons-missing-three-games-hamstring-injury"
+          "title": "Minnesota Senate race takes bizarre turn after dark family history uncovered",
+          "link": "https://www.foxnews.com/politics/minnesota-senate-race-takes-bizarre-turn-dark-family-history-uncovered"
         },
         {
-          "title": "Megan Fox unveils provocative new photos as she launches new venture with OnlyFans co-founder",
-          "link": "https://www.foxnews.com/entertainment/megan-fox-unveils-provocative-new-photos-launches-venture-onlyfans-co-founder"
+          "title": "Bend school district honors slain teacher, praises staff member's courage during attack: ‘Forever grateful’",
+          "link": "https://www.foxnews.com/us/bend-school-district-honors-slain-teacher-praises-staff-member-courage-during-attack-forever-grateful"
         },
         {
-          "title": "Eagles' Jalen Hurts placed on injured reserve after superficial blood clot found in his calf area",
-          "link": "https://www.foxnews.com/outkick-sports/eagles-jalen-hurts-placed-injured-reserve-superficial-blood-clot-calf-area"
+          "title": "New protein ranking names unexpected winner over beef, salmon and eggs",
+          "link": "https://www.foxnews.com/food-drink/new-protein-ranking-names-unexpected-winner-beef-salmon-eggs"
         },
         {
-          "title": "Texas blows 14-point lead, Arch Manning experiences first home loss as questions mount in Austin",
-          "link": "https://www.foxnews.com/outkick-sports/texas-blows-14-point-lead-arch-manning-experiences-first-home-loss-questions-mount-austin"
+          "title": "Gabby Williams delivers late as Valkyries shut down Angel Reese, Dream to win WNBA Finals opener",
+          "link": "https://www.foxnews.com/outkick-sports/gabby-williams-delivers-late-valkyries-shut-down-angel-reese-dream-win-wnba-finals-opener"
         },
         {
-          "title": "Dream and Valkyries leave court for national anthem, return seconds later at WNBA Finals",
-          "link": "https://www.foxnews.com/outkick-sports/dream-valkyries-leave-court-national-anthem-return-seconds-later-wnba-finals"
+          "title": "Ole Miss defense takes charge, shuts down Missouri's high-powered rushing attack in 31-3 win",
+          "link": "https://www.foxnews.com/outkick-sports/ole-miss-defense-takes-charge-shuts-down-missouri-high-powered-rushing-attack-31-3-win"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T22:07:44.166Z"
+      "updatedAt": "2026-10-18T00:47:38.049Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -89,10 +89,22 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T22:07:44.318Z"
+      "updatedAt": "2026-10-18T00:47:38.326Z"
     },
     "The Hill": {
       "items": [
+        {
+          "title": "Sen. Graham on Trump waiving Russia sanctions: ‘I look forward to talking to him’",
+          "link": "https://thehill.com/homenews/senate/6156233-darline-graham-opposes-trump-russia-waiver/"
+        },
+        {
+          "title": "Huckabee condemns Israeli settlers' attack on Washington Post photojournalist",
+          "link": "https://thehill.com/homenews/administration/6156177-huckabee-condemns-israel-photographer-attack/"
+        },
+        {
+          "title": "Sunday shows preview: Trump-Zelensky feud escalates; Controversies hit White House before midterms",
+          "link": "https://thehill.com/homenews/sunday-talk-shows/6156133-trump-russia-sanctions-backlash/"
+        },
         {
           "title": "GOP Rep. Scott Perry narrowly behind in Pennsylvania reelection bid: Poll",
           "link": "https://thehill.com/homenews/campaign/6156134-stelson-leads-perry-poll-pennsylvania-house/"
@@ -100,22 +112,10 @@
         {
           "title": "Concerning economic data pose issues for GOP down midterm stretch",
           "link": "https://thehill.com/business/6155023-inflation-midterm-elections-republicans/"
-        },
-        {
-          "title": "Blackburn on AI Kendrick Lamar clip backlash: It wasn't 'intended to offend'",
-          "link": "https://thehill.com/homenews/campaign/6156109-marsha-blackburn-kendrick-lamar-backlash-response/"
-        },
-        {
-          "title": "Stephen A. Smith calls dinner with Trump, Bill Maher, Kid Rock 'shocking'",
-          "link": "https://thehill.com/blogs/in-the-know/6156054-stephen-a-smith-kid-rock-maher-trump/"
-        },
-        {
-          "title": "MapQuest's new 'surveillance layer' feature flags Flock cameras on users' routes",
-          "link": "https://thehill.com/business/6156038-mapquest-adds-surveillance-layer/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T22:07:44.761Z"
+      "updatedAt": "2026-10-18T00:47:38.856Z"
     },
     "Ars Technica": {
       "items": [
@@ -141,7 +141,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T22:07:44.839Z"
+      "updatedAt": "2026-10-18T00:47:39.010Z"
     },
     "The Verge": {
       "items": [
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T22:07:44.957Z"
+      "updatedAt": "2026-10-18T00:47:39.194Z"
     },
     "BBC World": {
       "items": [
@@ -192,16 +192,16 @@
           "link": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
-          "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss"
+          "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+          "link": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
-          "link": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss"
+          "title": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
+          "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T22:07:45.252Z"
+      "updatedAt": "2026-10-18T00:47:39.407Z"
     },
     "BBC News": {
       "items": [
@@ -231,7 +231,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T22:07:45.458Z"
+      "updatedAt": "2026-10-18T00:47:39.488Z"
     },
     "NY Times": {
       "items": [
@@ -248,16 +248,16 @@
           "link": "https://www.nytimes.com/2026/10/17/us/politics/graham-trump-russia-sanctions-law.html"
         },
         {
-          "title": "How Pennsylvania Explains the Forces Shaping the Midterms",
-          "link": "https://www.nytimes.com/2026/10/17/us/politics/pennsylvania-midterm-elections-house-races.html"
+          "title": "In Midterm Campaign’s Final Stretch, Trump Can’t Stop Praising Men’s Bodies",
+          "link": "https://www.nytimes.com/2026/10/17/us/politics/trump-men-physical-appearance-comments.html"
         },
         {
-          "title": "New Round of ‘No Kings’ Rallies Focuses on Getting Out the Vote",
-          "link": "https://www.nytimes.com/2026/10/17/us/no-kings-early-voting-midterms.html"
+          "title": "Bernie Sanders Visits Florida to Campaign With Angie Nixon",
+          "link": "https://www.nytimes.com/2026/10/17/us/politics/bernie-sanders-angie-nixon-florida-senate.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T22:07:45.575Z"
+      "updatedAt": "2026-10-18T00:47:39.743Z"
     }
   },
   "indices": {
@@ -284,8 +284,8 @@
       },
       {
         "name": "Bitcoin",
-        "price": 81123.54,
-        "pct": -2.3726843181233632
+        "price": 81421.86,
+        "pct": -0.17241994451126325
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-17T22:07:45.846Z"
+    "updatedAt": "2026-10-18T00:47:39.969Z"
   }
 }
