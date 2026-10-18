@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-10-18T21:09:18.771Z",
+  "fetchedAt": "2026-10-18T23:46:30.963Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "French newspaper rips Macron after riots erupt across France: ‘Indelible stain’",
-          "link": "https://www.foxnews.com/world/french-newspaper-rips-macron-riots-erupt-across-france-indelible-stain"
+          "title": "Eagles will bring back Jalen Hurts this season under one condition amid blood clot issue: report",
+          "link": "https://www.foxnews.com/outkick-sports/eagles-bring-back-jalen-hurts-season-one-condition-amid-blood-clot-issue-report"
         },
         {
-          "title": "Falcons rookie Kendal Daniels stretchered off field after helmet-to-knee collision in scary scene",
-          "link": "https://www.foxnews.com/outkick-sports/falcons-rookie-kendal-daniels-stretchered-off-field-helmet-to-knee-collision-scary-scene"
+          "title": "Trump unveils plan to transform historic DC golf course as judge tees off",
+          "link": "https://www.foxnews.com/politics/trump-unveils-plan-transform-historic-dc-golf-course-judge-tees-off"
         },
         {
-          "title": "Major League Baseball's best team can't stop pretending to be the underdogs heading into World Series",
-          "link": "https://www.foxnews.com/outkick-sports/major-league-baseballs-best-team-cant-stop-pretending-underdogs-heading-world-series"
+          "title": "JJ McCarthy steps up as Giants potential starting quarterback while running back Cam Skattebo sits on bench",
+          "link": "https://www.foxnews.com/outkick-sports/jj-mccarthy-steps-giants-potential-starting-quarterback-running-back-cam-skattebo-sits-bench"
         },
         {
-          "title": "Chick-fil-A CEO addresses whether fast-food chain would ever consider opening on Sundays",
-          "link": "https://www.foxnews.com/food-drink/chick-fil-a-ceo-addresses-whether-fast-food-chain-would-ever-consider-opening-sundays"
+          "title": "MIKE DAVIS: Sen Slotkin reveals her insidious scheme to target young conservatives",
+          "link": "https://www.foxnews.com/opinion/mike-davis-sen-slotkin-reveals-insidious-scheme-target-young-conservatives"
         },
         {
-          "title": "Investigation launched after Air Force airman fatally falls before UTSA football game",
-          "link": "https://www.foxnews.com/outkick-sports/investigation-launched-air-force-airman-fatally-falls-utsa-football-game"
+          "title": "CBS reporter deletes post calling out El-Sayed on 'spectacular self own' on Muslim Brotherhood question",
+          "link": "https://www.foxnews.com/media/cbs-reporter-deletes-post-calling-out-el-sayed-spectacular-self-own-muslim-brotherhood-question"
         },
         {
-          "title": "Abdul El-Sayed invokes JFK to dismiss 'crazy' questions over family's alleged ties to Muslim Brotherhood",
-          "link": "https://www.foxnews.com/media/abdul-el-sayed-invokes-jfk-dismiss-crazy-questions-over-familys-alleged-ties-muslim-brotherhood"
+          "title": "James McAvoy says he ‘nearly died’ after his lungs collapsed following botched biopsy",
+          "link": "https://www.foxnews.com/entertainment/james-mcavoy-nearly-died-lungs-collapsed-botched-biopsy"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T21:09:16.257Z"
+      "updatedAt": "2026-10-18T23:46:28.289Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,33 +59,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T21:09:16.464Z"
+      "updatedAt": "2026-10-18T23:46:28.544Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Newsom campaigns with New Hampshire Democrats ahead of midterms",
-          "link": "https://thehill.com/homenews/campaign/6156885-newsom-nh-campaign-stops/"
+          "title": "Mike Turner calls for investigation into Ukraine’s loss of Starlink access",
+          "link": "https://thehill.com/homenews/house/6157079-turner-demands-starlink-investigation/"
         },
         {
-          "title": "Nixon defends call to put opponent Moody in jail",
-          "link": "https://thehill.com/homenews/campaign/6156794-nixon-defends-moody-jail-call/"
+          "title": "Mass. GOP candidate for Lt. Gov. suspends campaign after arrest, OUI charge",
+          "link": "https://thehill.com/homenews/state-watch/6156929-shawn-oliver-suspends-campaign-after-arrest/"
         },
         {
-          "title": "Mulvaney predicts Wiles is in a 'powerful place' in the White House but will leave after midterms",
-          "link": "https://thehill.com/homenews/administration/6156830-mulvaney-expects-wiles-departure/"
+          "title": "Israeli filmmakers bring counter ‘NAZA’ programming to Capitol Hill",
+          "link": "https://thehill.com/policy/international/6155089-naza-documentary-capitol-hill-screening/"
         },
         {
-          "title": "Bessent: Dropping oil prices before 2026 ends 'will depend' on Iran conflict",
-          "link": "https://thehill.com/policy/energy-environment/6156572-bessent-oil-prices-iran-conflict/"
+          "title": "Elizabeth Holmes documentary draws 2,000 sold-out shows in limited release",
+          "link": "https://thehill.com/blogs/in-the-know/6156985-nathan-fielder-elizabeth-holmes-documentary/"
         },
         {
-          "title": "I worked for 3 White House press secretaries — here's some advice for the next one",
-          "link": "https://thehill.com/opinion/white-house/6155486-lessons-jim-brady-reagan-white-house/"
+          "title": "El-Sayed criticizes implications of 'Muslim Brotherhood' question",
+          "link": "https://thehill.com/homenews/campaign/6156871-abdul-el-sayed-muslim-brotherhood-response/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T21:09:16.954Z"
+      "updatedAt": "2026-10-18T23:46:29.050Z"
     },
     "Ars Technica": {
       "items": [
@@ -111,10 +111,14 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T21:09:17.076Z"
+      "updatedAt": "2026-10-18T23:46:29.235Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "A Savannah police officer gave her Flock login to her ICE agent husband",
+          "link": "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband"
+        },
         {
           "title": "Mister Organ is one of the most unsettling documentaries I’ve ever seen",
           "link": "https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review"
@@ -130,14 +134,10 @@
         {
           "title": "Lenovo’s fast, comfy SteamOS handheld is hundreds off",
           "link": "https://www.theverge.com/gadgets/1013436/lenovo-legion-go-s-steamos-handheld-deal-sale"
-        },
-        {
-          "title": "J Mascis has nothing better to do",
-          "link": "https://www.theverge.com/entertainment/1012442/j-mascis-dinosaur-jr-fender-interview"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T21:09:17.235Z"
+      "updatedAt": "2026-10-18T23:46:29.338Z"
     },
     "BBC World": {
       "items": [
@@ -146,8 +146,16 @@
           "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "What we know so far about deadly fire at Canadian military base",
-          "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss"
+          "title": "'Very upsetting': Residents in shock after historic French town hall set alight",
+          "link": "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Major fire at Canada military base leaves four dead, dozens injured",
+          "link": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+          "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
@@ -158,26 +166,22 @@
           "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "European diplomats attacked by Israeli settlers in West Bank",
-          "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
-          "link": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-          "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
+          "title": "Search for Amelia Earhart's plane resumes after stormy weather",
+          "link": "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T21:09:17.434Z"
+      "updatedAt": "2026-10-18T23:46:29.491Z"
     },
     "BBC News": {
       "items": [
         {
           "title": "Macron calls for 'calm and order' after riots across France",
           "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Major fire at Canada military base leaves four dead, dozens injured",
+          "link": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "What we know so far about deadly fire at Canadian military base",
@@ -192,16 +196,12 @@
           "link": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Watch: Police hunt for synthetic drugs in Chicago jail",
-          "link": "https://www.bbc.co.uk/news/videos/cq8ez4jz1z04o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
-          "link": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss"
+          "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+          "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T21:09:17.508Z"
+      "updatedAt": "2026-10-18T23:46:29.525Z"
     },
     "NY Times": {
       "items": [
@@ -222,12 +222,12 @@
           "link": "https://www.nytimes.com/2026/10/18/us/oj-simpson-case-takeaways.html"
         },
         {
-          "title": "France in Shock After Protests Turn Into Riots, Damaging Buildings and Shops",
-          "link": "https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html"
+          "title": "Key Players in the O.J. Simpson Trial",
+          "link": "https://www.nytimes.com/2026/10/18/us/oj-simpson-death-trial-key-players.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T21:09:17.638Z"
+      "updatedAt": "2026-10-18T23:46:29.656Z"
     },
     "ARTNews": {
       "items": [
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T21:09:17.812Z"
+      "updatedAt": "2026-10-18T23:46:29.875Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T21:09:17.976Z"
+      "updatedAt": "2026-10-18T23:46:30.059Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T21:09:18.430Z"
+      "updatedAt": "2026-10-18T23:46:30.710Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T21:09:18.771Z"
+      "updatedAt": "2026-10-18T23:46:30.963Z"
     }
   }
 }
