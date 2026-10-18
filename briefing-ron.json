@@ -1,65 +1,65 @@
 {
-  "fetchedAt": "2026-10-18T14:25:59.081Z",
+  "fetchedAt": "2026-10-18T17:57:57.424Z",
   "feeds": {
     "MarketWatch": {
       "items": [
         {
+          "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
+          "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories"
+        },
+        {
+          "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+          "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories"
+        },
+        {
+          "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
+          "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories"
+        },
+        {
+          "title": "I’m 64 with two sons, but only one works in the family business. Is it ethical to leave him 70% of the company?",
+          "link": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories"
+        },
+        {
+          "title": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
+          "link": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories"
+        },
+        {
           "title": "These surprising stocks could be some of the biggest drivers of S&P 500 earnings growth",
           "link": "https://www.marketwatch.com/story/these-surprising-stocks-could-be-some-of-the-biggest-drivers-of-s-p-500-earnings-growth-ea073a07?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs",
-          "link": "https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories"
-        },
-        {
-          "title": "There is a silent market rotation inside the S&P 500 that’s warning of more weakness ahead",
-          "link": "https://www.marketwatch.com/story/there-is-a-silent-market-rotation-inside-the-s-p-500-thats-warning-of-more-weakness-ahead-549e7650?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
-          "link": "https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Fake shopping sprees and ‘happiness insurance’: The latest fintech apps reveal our financial anxieties",
-          "link": "https://www.marketwatch.com/story/fake-shopping-sprees-and-happiness-insurance-the-latest-fintech-apps-reveal-our-financial-anxieties-77770a46?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Investing, not homeownership, is the No. 1 milestone that makes Gen Z renters feel successful",
-          "link": "https://www.marketwatch.com/story/gen-z-renters-are-the-only-group-more-likely-to-feel-successful-by-investing-than-buying-a-house-30ac5344?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T14:25:57.458Z"
+      "updatedAt": "2026-10-18T17:57:55.640Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "NFL monitors France street violence before Saints-Steelers game near Paris with a major decision looming",
-          "link": "https://www.foxnews.com/outkick-sports/nfl-monitors-france-street-violence-saints-steelers-game-paris-major-decision-looming"
+          "title": "BetMGM Bonus Code FOXNEWS: Cover Your First Rays-Guardians Game 5 Bet up to $1500",
+          "link": "https://www.foxnews.com/outkick-betting/betmgm-bonus-code-foxnews-cover-your-first-rays-guardians-game-5-bet-up-1500"
         },
         {
-          "title": "Sunken royal palace with Cleopatra link yields rare find tied to long-lost wonder of ancient world",
-          "link": "https://www.foxnews.com/travel/sunken-royal-palace-cleopatra-link-yields-rare-find-tied-long-lost-wonder-ancient-world"
+          "title": "Underdog Promo Code FOXNEWS: Play $5, Get $100 on Game 5 of the ALCS, Rays-Guardians",
+          "link": "https://www.foxnews.com/outkick-betting/underdog-promo-code-foxnews-play-5-get-100-game-5-alcs-rays-guardians"
         },
         {
-          "title": "Arizona man threatened with arrest for preaching at holiday festival files lawsuit",
-          "link": "https://www.foxnews.com/media/arizona-man-threatened-arrest-preaching-holiday-festival-files-lawsuit"
+          "title": "Fanatics Sportsbook Promo Code FOX350: Bet $20, Get $350 on Rays-Guardians Game 5",
+          "link": "https://www.foxnews.com/outkick-betting/fanatics-sportsbook-promo-code-fox350-bet-20-get-350-rays-guardians-game-5"
         },
         {
-          "title": "Poison drummer Rikki Rockett recorded messages for his kids as cancer threatened to take his tongue",
-          "link": "https://www.foxnews.com/entertainment/poison-drummer-rikki-rockett-recorded-messages-kids-cancer-threatened-take-his-tongue"
+          "title": "Popular foods Americans eat every day linked to silent brain damage, alarming study finds",
+          "link": "https://www.foxnews.com/health/popular-foods-americans-eat-every-day-linked-silent-brain-damage-alarming-study-finds"
         },
         {
-          "title": "Hailey Ostrom hits golf course in middle of her 31 days of Halloween costumes, Veronika Rajek is back & meat",
-          "link": "https://www.foxnews.com/outkick-sports/hailey-ostrom-hits-golf-course-middle-31-days-halloween-costumes-veronika-rajek-back-meat"
+          "title": "Slotkin wants GOP prosecutions to deter young people from Trump administration jobs",
+          "link": "https://www.foxnews.com/politics/slotkin-wants-gop-prosecutions-deter-young-people-trump-administration-jobs"
         },
         {
-          "title": "The one lesson every parent should teach their child after the Bend school shooting",
-          "link": "https://www.foxnews.com/opinion/one-lesson-every-parent-should-teach-their-child-after-bend-school-shooting"
+          "title": "Val Chmerkovskiy suspended from 'Dancing With the Stars' over Will Smith Oscars slap reference",
+          "link": "https://www.foxnews.com/entertainment/val-chmerkovskiy-suspended-dancing-stars-will-smith-oscars-slap-reference"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T14:25:57.689Z"
+      "updatedAt": "2026-10-18T17:57:55.913Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -89,36 +89,40 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T14:25:57.943Z"
+      "updatedAt": "2026-10-18T17:57:56.228Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "With the Crew Dragon retiring, NASA needs a new plan for low Earth orbit",
-          "link": "https://thehill.com/opinion/technology/6154497-nasa-seeks-commercial-space-stations/"
-        },
-        {
-          "title": "Ukraine strikes St Petersburg with over 1,000 drones",
-          "link": "https://thehill.com/policy/international/6156407-ukraine-drone-attack-russia-oil/"
-        },
-        {
-          "title": "Live updates: Ukraine attacks St Petersburg oil depot",
+          "title": "Live updates: Obama condemns Omar investigation; Ukraine attacks St Petersburg oil depot",
           "link": "https://thehill.com/homenews/administration/6156403-live-updates-ukraine-attacks-st-petersburg-oil-depot/"
         },
         {
-          "title": "Vance says in 'some ways' US has 'decisively won' Iran war",
-          "link": "https://thehill.com/homenews/administration/6156378-vance-claims-us-won-iran-war/"
+          "title": "Wright says Trump administration has not broken promise to lower gas prices amid Iran war",
+          "link": "https://thehill.com/policy/energy-environment/6156548-wright-defends-gas-prices/"
         },
         {
-          "title": "Trump's 'Humpty Dumpty' approach to human rights",
-          "link": "https://thehill.com/opinion/white-house/6152165-state-department-policy-shift/"
+          "title": "We must fix our broken prison system",
+          "link": "https://thehill.com/opinion/criminal-justice/6155359-us-recidivism-reform-first-step-act/"
+        },
+        {
+          "title": "Bessent: Zelensky 'should be careful' with 'reckless' comments that US slowed down Starlink",
+          "link": "https://thehill.com/policy/defense/6156614-bessent-warns-zelensky-starlink/"
+        },
+        {
+          "title": "Obama: Omar investigation should ‘outrage all Americans’",
+          "link": "https://thehill.com/homenews/administration/6156602-obama-trump-targets-omar-probe/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T14:25:58.333Z"
+      "updatedAt": "2026-10-18T17:57:56.834Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "Anthropic gives outside AI watchdog “employee-like” access",
+          "link": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/"
+        },
         {
           "title": "Science says your boss should talk less in meetings",
           "link": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/"
@@ -134,17 +138,21 @@
         {
           "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
           "link": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/"
-        },
-        {
-          "title": "US Rep proposes bill to give video game buyers \"ownership,\" not \"a license\"",
-          "link": "https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T14:25:58.441Z"
+      "updatedAt": "2026-10-18T17:57:56.900Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "Video game ownership bill introduced in Congress",
+          "link": "https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act"
+        },
+        {
+          "title": "Lenovo’s fast, comfy SteamOS handheld is hundreds off",
+          "link": "https://www.theverge.com/gadgets/1013436/lenovo-legion-go-s-steamos-handheld-deal-sale"
+        },
         {
           "title": "J Mascis has nothing better to do",
           "link": "https://www.theverge.com/entertainment/1012442/j-mascis-dinosaur-jr-fender-interview"
@@ -156,18 +164,10 @@
         {
           "title": "The best gadget I bought this year is a milk frother",
           "link": "https://www.theverge.com/gadgets/1013257/milk-frother-cold-foam-gadget"
-        },
-        {
-          "title": "How overhead projectors took over your classroom",
-          "link": "https://www.theverge.com/podcast/1013473/overhead-projector-version-history"
-        },
-        {
-          "title": "Cities want to put the boot on robotaxis",
-          "link": "https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T14:25:58.587Z"
+      "updatedAt": "2026-10-18T17:57:56.973Z"
     },
     "BBC World": {
       "items": [
@@ -188,38 +188,34 @@
           "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Several dead or injured in major fire at Canada military base",
-          "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
           "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Anti-government protesters battle with police in Albania",
           "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Search for Amelia Earhart's plane resumes after stormy weather",
+          "link": "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T14:25:58.796Z"
+      "updatedAt": "2026-10-18T17:57:57.051Z"
     },
     "BBC News": {
       "items": [
+        {
+          "title": "What we know so far about deadly fire at Canadian military base",
+          "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
           "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Watch: Parisians wake up to protest damage and looted shops",
-          "link": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
           "link": "https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Ending corridor care in hospitals for children a priority, says health secretary",
-          "link": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
@@ -228,20 +224,28 @@
         {
           "title": "Watch: Police hunt for synthetic drugs in Chicago jail",
           "link": "https://www.bbc.co.uk/news/videos/cq8ez4jz1z04o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+          "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T14:25:58.832Z"
+      "updatedAt": "2026-10-18T17:57:57.077Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "France in Shock After Protests Devolve Into Riots",
+          "title": "France in Shock After Protests Turn Into Riots, Damaging Buildings and Shops",
           "link": "https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html"
         },
         {
+          "title": "The French City of Limoges Wasn’t Known for Unrest. Then Rioters Set Fire to Its City Hall.",
+          "link": "https://www.nytimes.com/2026/10/18/world/france-limoges-fire-arson-protests.html"
+        },
+        {
           "title": "Why Are There Protests in France?",
-          "link": "https://www.nytimes.com/2026/10/17/world/europe/france-student-protests-why.html"
+          "link": "https://www.nytimes.com/article/france-student-protests-why.html"
         },
         {
           "title": "O.J. Simpson, a Secret Informant and a Decades-Old Mystery",
@@ -250,14 +254,10 @@
         {
           "title": "5 Takeaways From The Times’s Re-Examination of the O.J. Simpson Case",
           "link": "https://www.nytimes.com/2026/10/18/us/oj-simpson-case-takeaways.html"
-        },
-        {
-          "title": "3 Charts That Explain the Economy as Voters Head to the Polls",
-          "link": "https://www.nytimes.com/2026/10/18/business/economy/economy-midterm-elections.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T14:25:58.943Z"
+      "updatedAt": "2026-10-18T17:57:57.171Z"
     }
   },
   "indices": {
@@ -284,8 +284,8 @@
       },
       {
         "name": "Bitcoin",
-        "price": 81337.17,
-        "pct": -0.27625444000055294
+        "price": 81080.87,
+        "pct": -0.5904920264204905
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-18T14:25:59.081Z"
+    "updatedAt": "2026-10-18T17:57:57.424Z"
   }
 }
