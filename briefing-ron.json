@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-18T22:56:36.371Z",
+  "fetchedAt": "2026-10-19T01:03:19.224Z",
   "feeds": {
     "MarketWatch": {
       "items": [
@@ -29,37 +29,37 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T22:56:35.117Z"
+      "updatedAt": "2026-10-19T01:03:17.615Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Costco shoppers spot new food court dessert with classic American twist just in time for fall",
-          "link": "https://www.foxnews.com/food-drink/costco-shoppers-spot-new-food-court-dessert-classic-american-twist-fall"
+          "title": "Saudi Arabia on edge: Iconic Kingdom Centre sends workers home amid Houthi attacks",
+          "link": "https://www.foxnews.com/world/saudi-arabia-edge-iconic-kingdom-centre-sends-workers-home-amid-houthi-attacks"
         },
         {
-          "title": "Hackers could already be inside American utilities, cyber experts warn of 'Trojan Horse' threat",
-          "link": "https://www.foxnews.com/tech/hackers-already-inside-american-utilities-cyber-experts-warn-trojan-horse-threat"
+          "title": "Tampa Bay Rays move one win from World Series after Drew Rasmussen dominates Cleveland Guardians",
+          "link": "https://www.foxnews.com/outkick-sports/tampa-bay-rays-move-one-win-world-series-drew-rasmussen-dominates-cleveland-guardians"
         },
         {
-          "title": "Macklemore's 'Free Palestine' tour funding anti-Israel org who cheered Oct 7 Hamas attack",
-          "link": "https://www.foxnews.com/media/macklemores-free-palestine-tour-funding-anti-israel-org-who-cheered-oct-7-hamas-attack"
+          "title": "Ohio State QB Julian Sayin's injury may completely reshape the College Football Playoff race",
+          "link": "https://www.foxnews.com/outkick-sports/ohio-state-qb-julian-sayin-injury-may-completely-reshape-college-football-playoff-race"
         },
         {
-          "title": "Rams kicker Blake Grupe knocks himself out of his debut with a disastrous tackle attempt",
-          "link": "https://www.foxnews.com/outkick-sports/rams-kicker-blake-grupe-knocks-himself-out-debut-disastrous-tackle-attempt"
+          "title": "Rams have a legitimate gripe with NFL officials, but their 2-4 record is the bigger problem",
+          "link": "https://www.foxnews.com/outkick-sports/rams-legitimate-gripe-nfl-officials-2-4-record-bigger-problem"
         },
         {
-          "title": "Driver released without charges after pickup kills boy, 6, and man on Kansas soccer field",
-          "link": "https://www.foxnews.com/us/driver-released-without-charges-pickup-kills-boy-6-man-kansas-soccer-field"
+          "title": "Luke Bryan's son thanks fans for prayers after painful high school football injury",
+          "link": "https://www.foxnews.com/entertainment/luke-bryans-son-thanks-fans-prayers-after-painful-high-school-football-injury"
         },
         {
-          "title": "Priest killed by falling crucifix during livestreamed Mass as worshippers rush to help",
-          "link": "https://www.foxnews.com/world/priest-killed-falling-crucifix-livestreamed-mass-worshippers-rush-help"
+          "title": "Eagles will bring back Jalen Hurts this season under one condition amid blood clot issue: report",
+          "link": "https://www.foxnews.com/outkick-sports/eagles-bring-back-jalen-hurts-season-one-condition-amid-blood-clot-issue-report"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T22:56:35.191Z"
+      "updatedAt": "2026-10-19T01:03:17.693Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -89,10 +89,22 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T22:56:35.468Z"
+      "updatedAt": "2026-10-19T01:03:17.941Z"
     },
     "The Hill": {
       "items": [
+        {
+          "title": "Trump defends waiving Russia sanctions, says it keeps Moscow at negotiating table",
+          "link": "https://thehill.com/homenews/administration/6157113-donald-trump-defends-russia-sanctions-waiver/"
+        },
+        {
+          "title": "Mike Turner calls for investigation into Ukraine’s loss of Starlink access",
+          "link": "https://thehill.com/homenews/house/6157079-turner-demands-starlink-investigation/"
+        },
+        {
+          "title": "Mass. GOP candidate for lieutenant governor suspends campaign after arrest, OUI charge",
+          "link": "https://thehill.com/homenews/state-watch/6156929-shawn-oliver-suspends-campaign-after-arrest/"
+        },
         {
           "title": "Israeli filmmakers bring counter ‘NAZA’ programming to Capitol Hill",
           "link": "https://thehill.com/policy/international/6155089-naza-documentary-capitol-hill-screening/"
@@ -100,22 +112,10 @@
         {
           "title": "Elizabeth Holmes documentary draws 2,000 sold-out shows in limited release",
           "link": "https://thehill.com/blogs/in-the-know/6156985-nathan-fielder-elizabeth-holmes-documentary/"
-        },
-        {
-          "title": "El-Sayed criticizes implications of 'Muslim Brotherhood' question",
-          "link": "https://thehill.com/homenews/campaign/6156871-abdul-el-sayed-muslim-brotherhood-response/"
-        },
-        {
-          "title": "US Chamber of Commerce endorses Paxton over Talarico",
-          "link": "https://thehill.com/homenews/campaign/6156921-chamber-endorses-paxton-texas-senate/"
-        },
-        {
-          "title": "Bessent says there was no sanctions relief for Russia after U.S. diesel deal",
-          "link": "https://thehill.com/homenews/administration/6156573-bessent-refutes-sanctions-relief/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T22:56:35.976Z"
+      "updatedAt": "2026-10-19T01:03:18.515Z"
     },
     "Ars Technica": {
       "items": [
@@ -141,7 +141,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T22:56:36.045Z"
+      "updatedAt": "2026-10-19T01:03:18.633Z"
     },
     "The Verge": {
       "items": [
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T22:56:36.121Z"
+      "updatedAt": "2026-10-19T01:03:18.705Z"
     },
     "BBC World": {
       "items": [
@@ -176,32 +176,32 @@
           "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "What we know so far about deadly fire at Canadian military base",
-          "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss"
+          "title": "'Very upsetting': Residents in shock after historic French town hall set alight",
+          "link": "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Major fire at Canada military base leaves four dead, dozens injured",
+          "link": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
           "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss"
         },
         {
+          "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+          "link": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
           "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
-          "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
-          "link": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "European diplomats attacked by Israeli settlers in West Bank",
-          "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss"
+          "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+          "link": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T22:56:36.160Z"
+      "updatedAt": "2026-10-19T01:03:18.947Z"
     },
     "BBC News": {
       "items": [
@@ -210,28 +210,28 @@
           "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "What we know so far about deadly fire at Canadian military base",
-          "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss"
+          "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+          "link": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
-          "link": "https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss"
+          "title": "Watch: Russian saboteur working for Ukraine shares reconnaissance videos",
+          "link": "https://www.bbc.co.uk/news/videos/cwd09vlv78rvo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
-          "link": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss"
+          "title": "Major fire at Canada military base leaves four dead, dozens injured",
+          "link": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
-          "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss"
+          "title": "People playing loud music on buses could face £100 fine",
+          "link": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
-          "link": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss"
+          "title": "Home sellers cut asking prices on 3,000 properties a day",
+          "link": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T22:56:36.176Z"
+      "updatedAt": "2026-10-19T01:03:18.956Z"
     },
     "NY Times": {
       "items": [
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T22:56:36.204Z"
+      "updatedAt": "2026-10-19T01:03:19.068Z"
     }
   },
   "indices": {
@@ -279,13 +279,13 @@
       },
       {
         "name": "Gold",
-        "price": 4197.8,
-        "pct": 0.49074761209393625
+        "price": 4195.5,
+        "pct": 0.43568812390778294
       },
       {
         "name": "Bitcoin",
-        "price": 81710.41,
-        "pct": 0.1813578766415766
+        "price": 82238.11,
+        "pct": 0.11766287085717027
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-18T22:56:36.371Z"
+    "updatedAt": "2026-10-19T01:03:19.224Z"
   }
 }
