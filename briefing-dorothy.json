@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-10-18T23:46:30.963Z",
+  "fetchedAt": "2026-10-19T02:13:11.099Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Eagles will bring back Jalen Hurts this season under one condition amid blood clot issue: report",
-          "link": "https://www.foxnews.com/outkick-sports/eagles-bring-back-jalen-hurts-season-one-condition-amid-blood-clot-issue-report"
+          "title": "Massachusetts GOP ticket rocked by alleged drunken crash as candidate abruptly halts campaign",
+          "link": "https://www.foxnews.com/politics/massachusetts-gop-ticket-rocked-alleged-drunken-crash-candidate-abruptly-halts-campaign"
         },
         {
-          "title": "Trump unveils plan to transform historic DC golf course as judge tees off",
-          "link": "https://www.foxnews.com/politics/trump-unveils-plan-transform-historic-dc-golf-course-judge-tees-off"
+          "title": "Caitlin Clark and Taylor Swift spotted together again cheering on Travis Kelce at Chiefs game",
+          "link": "https://www.foxnews.com/outkick-sports/caitlin-clark-taylor-swift-spotted-together-cheering-travis-kelce-chiefs-game"
         },
         {
-          "title": "JJ McCarthy steps up as Giants potential starting quarterback while running back Cam Skattebo sits on bench",
-          "link": "https://www.foxnews.com/outkick-sports/jj-mccarthy-steps-giants-potential-starting-quarterback-running-back-cam-skattebo-sits-bench"
+          "title": "Kansas City Chiefs star defensive lineman Chris Jones caught in screaming match with coaches on sidelines",
+          "link": "https://www.foxnews.com/outkick-sports/kansas-city-chiefs-star-defensive-lineman-chris-jones-caught-screaming-match-coaches-sidelines"
         },
         {
-          "title": "MIKE DAVIS: Sen Slotkin reveals her insidious scheme to target young conservatives",
-          "link": "https://www.foxnews.com/opinion/mike-davis-sen-slotkin-reveals-insidious-scheme-target-young-conservatives"
+          "title": "Kristin Cavallari says she learned a painful $250K lesson involving her father at 22",
+          "link": "https://www.foxnews.com/entertainment/kristin-cavallari-says-she-learned-painful-250k-lesson-involving-her-father-22"
         },
         {
-          "title": "CBS reporter deletes post calling out El-Sayed on 'spectacular self own' on Muslim Brotherhood question",
-          "link": "https://www.foxnews.com/media/cbs-reporter-deletes-post-calling-out-el-sayed-spectacular-self-own-muslim-brotherhood-question"
+          "title": "Shane Steichen says Daniel Jones won't be benched but coach and general manager Chris Ballard are in trouble",
+          "link": "https://www.foxnews.com/outkick-sports/shane-steichen-says-daniel-jones-wont-benched-coach-general-manager-chris-ballard-trouble"
         },
         {
-          "title": "James McAvoy says he ‘nearly died’ after his lungs collapsed following botched biopsy",
-          "link": "https://www.foxnews.com/entertainment/james-mcavoy-nearly-died-lungs-collapsed-botched-biopsy"
+          "title": "Mike Rogers presses CNN's Dana Bash on why the press is 'eager' to defend Abdul El-Sayed",
+          "link": "https://www.foxnews.com/media/mike-rogers-presses-cnn-dana-bash-why-press-eager-defend-abdul-el-sayed"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T23:46:28.289Z"
+      "updatedAt": "2026-10-19T02:13:07.882Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,16 +59,20 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T23:46:28.544Z"
+      "updatedAt": "2026-10-19T02:13:08.010Z"
     },
     "The Hill": {
       "items": [
+        {
+          "title": "Trump defends waiving Russia sanctions, says it keeps Moscow at negotiating table",
+          "link": "https://thehill.com/homenews/administration/6157113-donald-trump-defends-russia-sanctions-waiver/"
+        },
         {
           "title": "Mike Turner calls for investigation into Ukraine’s loss of Starlink access",
           "link": "https://thehill.com/homenews/house/6157079-turner-demands-starlink-investigation/"
         },
         {
-          "title": "Mass. GOP candidate for Lt. Gov. suspends campaign after arrest, OUI charge",
+          "title": "Mass. GOP candidate for lieutenant governor suspends campaign after arrest, OUI charge",
           "link": "https://thehill.com/homenews/state-watch/6156929-shawn-oliver-suspends-campaign-after-arrest/"
         },
         {
@@ -78,14 +82,10 @@
         {
           "title": "Elizabeth Holmes documentary draws 2,000 sold-out shows in limited release",
           "link": "https://thehill.com/blogs/in-the-know/6156985-nathan-fielder-elizabeth-holmes-documentary/"
-        },
-        {
-          "title": "El-Sayed criticizes implications of 'Muslim Brotherhood' question",
-          "link": "https://thehill.com/homenews/campaign/6156871-abdul-el-sayed-muslim-brotherhood-response/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T23:46:29.050Z"
+      "updatedAt": "2026-10-19T02:13:08.622Z"
     },
     "Ars Technica": {
       "items": [
@@ -111,7 +111,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T23:46:29.235Z"
+      "updatedAt": "2026-10-19T02:13:08.907Z"
     },
     "The Verge": {
       "items": [
@@ -137,7 +137,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T23:46:29.338Z"
+      "updatedAt": "2026-10-19T02:13:08.962Z"
     },
     "BBC World": {
       "items": [
@@ -158,20 +158,20 @@
           "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
-          "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss"
+          "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+          "link": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
-          "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss"
+          "title": "Bollywood actor Tiger Shroff survives shooting in Mumbai",
+          "link": "https://www.bbc.co.uk/news/articles/c6jdmy872r7vo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Search for Amelia Earhart's plane resumes after stormy weather",
-          "link": "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo?at_medium=RSS&at_campaign=rss"
+          "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+          "link": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T23:46:29.491Z"
+      "updatedAt": "2026-10-19T02:13:09.078Z"
     },
     "BBC News": {
       "items": [
@@ -180,28 +180,28 @@
           "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss"
         },
         {
+          "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+          "link": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Watch: Russian saboteur working for Ukraine shares reconnaissance videos",
+          "link": "https://www.bbc.co.uk/news/videos/cwd09vlv78rvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Burnham says youth employment and training crisis is a 'moral failure'",
+          "link": "https://www.bbc.co.uk/news/articles/cq0melgpre23o?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Major fire at Canada military base leaves four dead, dozens injured",
           "link": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "What we know so far about deadly fire at Canadian military base",
-          "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
-          "link": "https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
-          "link": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
-          "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss"
+          "title": "People playing loud music on buses could face £100 fine",
+          "link": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T23:46:29.525Z"
+      "updatedAt": "2026-10-19T02:13:09.097Z"
     },
     "NY Times": {
       "items": [
@@ -227,10 +227,14 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T23:46:29.656Z"
+      "updatedAt": "2026-10-19T02:13:09.226Z"
     },
     "ARTNews": {
       "items": [
+        {
+          "title": "Frank Lloyd Wright’s Taliesin West Home in Arizona Temporarily Closes After a Man Dies",
+          "link": "https://www.artnews.com/art-news/news/frank-lloyd-wright-taliesin-west-closes-1234802896/"
+        },
         {
           "title": "A Once-in-a-Lifetime Look Into America’s Most-Storied Art Couple",
           "link": "https://www.artnews.com/art-in-america/aia-reviews/jackson-pollock-lee-krasner-met-1234802599/"
@@ -250,14 +254,10 @@
         {
           "title": "Eight Galleries in India You Should Know",
           "link": "https://www.artnews.com/list/art-news/market/india-art-galleries-to-know-1234802821/"
-        },
-        {
-          "title": "Norton Simon Museum Countersues Jewish Federation Over Cranach Diptych, Met Names Danh Võ for Genesis Façade Commission, and More: Morning Links for October 16, 2026",
-          "link": "https://www.artnews.com/art-news/news/morning-links-october-16-norton-simon-museum-1234802810/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T23:46:29.875Z"
+      "updatedAt": "2026-10-19T02:13:09.368Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T23:46:30.059Z"
+      "updatedAt": "2026-10-19T02:13:09.510Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T23:46:30.710Z"
+      "updatedAt": "2026-10-19T02:13:10.934Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T23:46:30.963Z"
+      "updatedAt": "2026-10-19T02:13:11.099Z"
     }
   }
 }
