@@ -1,150 +1,162 @@
 {
-  "fetchedAt": "2026-10-19T15:27:31.749Z",
+  "fetchedAt": "2026-10-19T20:57:25.121Z",
   "feeds": {
     "MarketWatch": {
       "items": [
         {
-          "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
-          "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories"
+          "title": "Retiring abroad? Don’t cut these financial ties to the U.S.",
+          "link": "https://www.marketwatch.com/story/retiring-abroad-dont-cut-these-financial-ties-to-the-u-s-5e7e4fc2?mod=mw_rss_topstories"
         },
         {
-          "title": "‘My husband suffered a massive stroke at 53’: I’m 64 and will rent for the rest of my life — but I’m still hopeful",
-          "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories"
+          "title": "Colleges raced to build massive computer-science departments. Now the boom is turning to bust.",
+          "link": "https://www.marketwatch.com/story/colleges-raced-to-build-massive-computer-science-departments-now-the-boom-is-turning-to-bust-692cfe37?mod=mw_rss_topstories"
         },
         {
-          "title": "Builders slash prices on new homes as buyer traffic drops to 14-year low",
-          "link": "https://www.marketwatch.com/story/builders-slash-prices-on-new-homes-as-buyer-traffic-drops-to-14-year-low-3dd8caea?mod=mw_rss_topstories"
+          "title": "SpaceX earnings will be all about AI — for better or for worse",
+          "link": "https://www.marketwatch.com/story/spacex-earnings-will-be-all-about-ai-for-better-or-for-worse-89bbc772?mod=mw_rss_topstories"
         },
         {
-          "title": "Meet the home buyers totally unfazed by 7% mortgage rates",
-          "link": "https://www.marketwatch.com/story/meet-the-home-buyers-totally-unfazed-by-7-mortgage-rates-7a9b1cc7?mod=mw_rss_topstories"
+          "title": "Why the Treasury’s financing plans are sparking anxiety on Wall Street",
+          "link": "https://www.marketwatch.com/story/why-the-treasurys-financing-plans-are-sparking-anxiety-on-wall-street-b49b5e17?mod=mw_rss_topstories"
         },
         {
-          "title": "Micron and other chip stocks spring back to life after bruising selloff",
-          "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories"
+          "title": "Why Elon Musk, Anthropic and other AI titans are giving away shares",
+          "link": "https://www.marketwatch.com/story/why-elon-musk-anthropic-and-other-ai-titans-are-giving-away-shares-a6709d24?mod=mw_rss_topstories"
         },
         {
-          "title": "France and the U.S. share the same debt trap. Why the U.S. has an escape valve.",
-          "link": "https://www.marketwatch.com/story/france-and-the-u-s-share-the-same-debt-trap-only-one-has-a-global-lifeline-3ae61b42?mod=mw_rss_topstories"
+          "title": "CoreWeave’s selloff is a lesson in ‘Finance 101’ — and Wall Street says the stock can recover",
+          "link": "https://www.marketwatch.com/story/coreweaves-selloff-is-a-lesson-in-finance-101-and-wall-street-says-the-stock-can-recover-23ca5377?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-19T15:27:30.044Z"
+      "updatedAt": "2026-10-19T20:57:23.289Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Trump takes border crackdown to deep-red state as shock Senate battle threatens GOP stronghold",
-          "link": "https://www.foxnews.com/politics/trump-takes-border-crackdown-deep-red-state-shock-senate-battle-threatens-gop-stronghold"
+          "title": "SEC's crazy, history-making Week 7 weekend is the latest example of college football's new era",
+          "link": "https://www.foxnews.com/outkick-sports/secs-crazy-history-making-week-seven-weekend-latest-example-college-footballs-new-era"
         },
         {
-          "title": "Dan Dakich shares his unfiltered reaction to Colts firing of GM Chris Ballard: 'This is seven years too late'",
-          "link": "https://www.foxnews.com/outkick-sports/dan-dakich-unfiltered-reaction-colts-firing-gm-chris-ballard-seven-years-too-late"
+          "title": "Repeat offender accused of shooting National Guard member has lengthy history with the law, records show",
+          "link": "https://www.foxnews.com/us/repeat-offender-accused-shooting-national-guard-member-lengthy-history-law-records-show"
         },
         {
-          "title": "Amelia Earhart search suffers crushing setback after researchers make disappointing find",
-          "link": "https://www.foxnews.com/travel/amelia-earhart-search-suffers-crushing-setback-researchers-make-disappointing-find"
+          "title": "MMA fighter receives big bonus on OnlyFans after suffering a wardrobe malfunction during loss",
+          "link": "https://www.foxnews.com/outkick-sports/mma-fighter-receives-big-bonus-onlyfans-after-suffering-wardrobe-malfunction-during-loss"
         },
         {
-          "title": "Convicted serial rapist originally sentenced to 124 years walks free after 20, sparking outrage",
-          "link": "https://www.foxnews.com/us/convicted-serial-rapist-originally-sentenced-124-years-walks-free-after-20-sparking-outrage"
+          "title": "Former OJ Simpson attorney, longtime friend both support possibility of accomplice in 1994 murders",
+          "link": "https://www.foxnews.com/us/former-oj-simpson-attorney-longtime-friend-support-possibility-accomplice-1994-murders"
         },
         {
-          "title": "DOJ official defends Trump's noncitizen voter probe on '60 Minutes,' accuses show of editing out her answers",
-          "link": "https://www.foxnews.com/media/doj-official-defends-trumps-noncitizen-voter-probe-60-minutes-accuses-show-editing-out-her-answers"
+          "title": "Kylie Jenner makes Victoria's Secret runway debut wearing $50M Fantasy Bra",
+          "link": "https://www.foxnews.com/entertainment/kylie-jenner-makes-victorias-secret-runway-debut-wearing-50m-fantasy-bra"
         },
         {
-          "title": "Alberta holds non-binding separation vote as independence fight grips Canada",
-          "link": "https://www.foxnews.com/world/alberta-holds-non-binding-separation-vote-independence-fight-grips-canada"
+          "title": "Trump renews push to rename New Mexico ‘New America,’ touts higher home values and incomes",
+          "link": "https://www.foxnews.com/politics/trump-renews-push-rename-new-mexico-new-america-touts-higher-home-values-incomes"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-19T15:27:30.184Z"
+      "updatedAt": "2026-10-19T20:57:23.470Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "Please Don't Overinterpret Early Voting Numbers",
-          "link": "https://www.realclearpolitics.com/2026/10/19/please_dont_overinterpret_early_voting_numbers_714570.html"
+          "title": "Jason Miller and the Modern Purveyors of Fake News",
+          "link": "https://www.realclearpolitics.com/articles/2026/10/19/jason_miller_and_the_modern_purveyors_of_fake_news_154596.html"
         },
         {
-          "title": "Sen. Slotkin Offers Disturbing Glimpse of Dems' Agenda",
-          "link": "https://www.realclearpolitics.com/2026/10/19/sen_slotkin_offers_disturbing_glimpse_of_dems_agenda_714575.html"
+          "title": "Can Republicans Hold On in Ohio?",
+          "link": "https://www.realclearpolitics.com/2026/10/19/can_republicans_hold_on_in_ohio_714646.html"
         },
         {
-          "title": "Embracing Incivility Is Working for Democrats",
-          "link": "https://www.realclearpolitics.com/2026/10/19/embracing_incivility_is_working_for_democrats_714596.html"
+          "title": "Don't Just Follow the Polls. Follow the Money",
+          "link": "https://www.realclearpolitics.com/2026/10/19/dont_just_follow_the_polls_follow_the_money_714656.html"
         },
         {
-          "title": "Trump's Montana Rally: Firsthand and Secondhand",
-          "link": "https://www.realclearpolitics.com/articles/2026/10/19/trumps_montana_rally_firsthand_and_secondhand_154592.html"
+          "title": "The Senate Must Censure Sen. Slotkin Immediately",
+          "link": "https://www.realclearpolitics.com/2026/10/19/the_senate_must_censure_sen_slotkin_immediately_714658.html"
         },
         {
-          "title": "The French Republic Is Under Attack",
-          "link": "https://www.realclearpolitics.com/2026/10/19/the_french_republic_is_under_attack_714576.html"
+          "title": "Republicans Don't Know How To Handle El-Sayed",
+          "link": "https://www.realclearpolitics.com/2026/10/19/republicans_dont_know_how_to_handle_el-sayed_714661.html"
         },
         {
-          "title": "Refugees Have To Leave Germany, We Don't Want Caliphate",
-          "link": "https://www.realclearpolitics.com/video/2026/10/17/afds_alice_weidel_on_refugees_they_have_to_leave_our_country_we_dont_want_a_caliphate.html"
+          "title": "Marxist-Islamist Alliance in Europe Is a Warning for U.S.",
+          "link": "https://www.realclearpolitics.com/2026/10/19/marxist-islamist_alliance_in_europe_is_a_warning_for_us_714662.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-19T15:27:30.319Z"
+      "updatedAt": "2026-10-19T20:57:23.662Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "The pill in your medicine cabinet is a national security issue",
-          "link": "https://thehill.com/opinion/healthcare/6156327-trump-secures-domestic-drug-production/"
+          "title": "Burgum: East Potomac will be transformed into 'best course in America' under Trump",
+          "link": "https://thehill.com/policy/sports-gaming/6158973-trump-east-potomac-redesign/"
         },
         {
-          "title": "Warren warns against Sysco-Restaurant Depot merger",
-          "link": "https://thehill.com/homenews/senate/6157693-warren-warns-sysco-merger/"
+          "title": "GOP senator: Reagan, Graham would be 'ashamed' of Trump waiving Russia sanctions",
+          "link": "https://thehill.com/homenews/senate/6158966-trump-waives-russia-sanctions/"
         },
         {
-          "title": "Trump administration will let companies bid to mine the deep ocean off American Samoa's coast",
-          "link": "https://thehill.com/policy/energy-environment/6157807-deep-ocean-mining-american-samoa/"
+          "title": "91 percent in Texas poll say Iran war raising oil and gas prices",
+          "link": "https://thehill.com/homenews/campaign/6158897-texas-voters-iran-war-oil/"
         },
         {
-          "title": "Supreme Court takes up new case over race and school admissions",
-          "link": "https://thehill.com/homenews/6157796-supreme-court-maryland-county-school-admissions-race-case/"
+          "title": "Trump says he would be open to trilateral meeting with Putin, Xi",
+          "link": "https://thehill.com/homenews/administration/6158904-trump-open-putin-xi-summit/"
         },
         {
-          "title": "Protests in France marred by rioting, looting: What to know",
-          "link": "https://thehill.com/policy/international/6157774-france-riots-macron-response/"
+          "title": "Trump says security cameras installed at Reflecting Pool, threatens to jail future vandals",
+          "link": "https://thehill.com/homenews/administration/6158770-trump-installs-reflecting-pool-cameras/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-19T15:27:30.584Z"
+      "updatedAt": "2026-10-19T20:57:24.291Z"
     },
     "Ars Technica": {
       "items": [
         {
+          "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
+          "link": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/"
+        },
+        {
+          "title": "ReactOS reaches major milestone with NTFS install support",
+          "link": "https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support/"
+        },
+        {
+          "title": "AI game clones are making indie developers afraid to show their work",
+          "link": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/"
+        },
+        {
+          "title": "Florida DMV hacked after police dept insecurely stored login info",
+          "link": "https://arstechnica.com/tech-policy/2026/10/huge-dmv-data-breach-impacted-current-and-former-florida-residents/"
+        },
+        {
           "title": "Disney found a way to buy Character.AI without buying its lawsuits",
           "link": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/"
-        },
-        {
-          "title": "A Chinese rocket deorbited over Minnesota and left this in a farmer's cornfield",
-          "link": "https://arstechnica.com/space/2026/10/a-chinese-rocket-deorbited-over-minnesota-and-left-this-in-a-farmers-cornfield/"
-        },
-        {
-          "title": "Review: Lanterns is a truly unique twist on the superhero genre",
-          "link": "https://arstechnica.com/culture/2026/10/review-lanterns-is-a-truly-unique-twist-on-the-superhero-genre/"
-        },
-        {
-          "title": "DIY VR: How to build your own headset, and why you probably won't want to",
-          "link": "https://arstechnica.com/gadgets/2026/10/diy-vr-how-to-build-your-own-headset-and-why-you-probably-wont-want-to/"
-        },
-        {
-          "title": "Stratospheric airship flew from US to Japan to test sky cell tower concept",
-          "link": "https://arstechnica.com/gadgets/2026/10/trans-pacific-journey-tested-stratospheric-cell-tower-concept-in-japan/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-19T15:27:30.734Z"
+      "updatedAt": "2026-10-19T20:57:24.412Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "Sony’s best noise-canceling earbuds are nearly $100 off today only",
+          "link": "https://www.theverge.com/gadgets/1013911/sonys-best-noise-canceling-earbuds-are-nearly-100-off-today-only"
+        },
+        {
+          "title": "Apple teases MacBook Pro event next week",
+          "link": "https://www.theverge.com/tech/1013028/apple-second-october-product-launch-announcement"
+        },
+        {
+          "title": "Amazon is funding a new nuclear plant in Indiana",
+          "link": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana"
+        },
         {
           "title": "Apple’s last-gen Mac Mini with the M4 is $150 off",
           "link": "https://www.theverge.com/gadgets/1013645/apple-mac-mini-m4-lg-c6-oled-deal-sale"
@@ -152,22 +164,10 @@
         {
           "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
           "link": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws"
-        },
-        {
-          "title": "Major European mobile carriers are teaming up for a &#8216;direct&#8217; satellite program without Starlink",
-          "link": "https://www.theverge.com/policy/1013680/european-mobile-carriers-mobile-satellite-starlink"
-        },
-        {
-          "title": "Elon Musk promises to give one SpaceX share to every child in the US",
-          "link": "https://www.theverge.com/tech/1013667/elon-musk-space-x-shares-us-children"
-        },
-        {
-          "title": "It’s hard to imagine wireless headphones ever getting lighter than these",
-          "link": "https://www.theverge.com/tech/1013635/its-hard-to-imagine-wireless-headphones-ever-getting-lighter-than-these"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-19T15:27:30.859Z"
+      "updatedAt": "2026-10-19T20:57:24.574Z"
     },
     "BBC World": {
       "items": [
@@ -176,32 +176,32 @@
           "link": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Kenya pastor convicted of ordering parents to starve their children to death",
+          "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+          "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
           "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
+          "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
           "link": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
-          "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "Exiled critic of Rwandan president found beheaded",
           "link": "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Personal attacks fire up debate before Brazil's run-off vote",
-          "link": "https://www.bbc.co.uk/news/articles/ck98zlzyqle3o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
-          "link": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss"
+          "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
+          "link": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-19T15:27:31.408Z"
+      "updatedAt": "2026-10-19T20:57:24.736Z"
     },
     "BBC News": {
       "items": [
@@ -218,82 +218,82 @@
           "link": "https://www.bbc.co.uk/news/articles/cvj6jylk3456o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
-          "link": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss"
+          "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+          "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Born in jail to a mum with a heroin addiction - how US teenager Abby has been affected by drugs",
-          "link": "https://www.bbc.co.uk/news/videos/cmlyljlzw487o?at_medium=RSS&at_campaign=rss"
+          "title": "Mission blasts off for Mars to grab a piece of its moon",
+          "link": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
-          "link": "https://www.bbc.co.uk/news/articles/cmq5n8x106jdo?at_medium=RSS&at_campaign=rss"
+          "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
+          "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-19T15:27:31.501Z"
+      "updatedAt": "2026-10-19T20:57:24.773Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "France’s Far Right Seizes the Moment as Rioting Stuns the Country",
-          "link": "https://www.nytimes.com/2026/10/19/france-far-right-protests-riots.html"
+          "title": "Trump Rallies Red States Amid Fears About G.O.P. Voter Enthusiasm as Midterms Near",
+          "link": "https://www.nytimes.com/2026/10/19/us/politics/trump-midterm-rally-red-states.html"
         },
         {
-          "title": "France Officials Acknowledge ‘Failure’ Around Riots",
+          "title": "Trump Campaigns for Republicans as Turmoil Mounts in Washington",
+          "link": "https://www.nytimes.com/video/us/100000011219687/trump-campaigns-for-republicans-as-turmoil-mounts-in-washington.html"
+        },
+        {
+          "title": "Republicans Barely Mention Trump in Political Ads Ahead of the Midterms",
+          "link": "https://www.nytimes.com/2026/10/19/us/politics/trump-midterms-republican-political-ads.html"
+        },
+        {
+          "title": "France Imposes Curfews in Parts of Paris and Other Cities After Nationwide Rioting",
           "link": "https://www.nytimes.com/2026/10/19/world/europe/france-protests-riots.html"
         },
         {
-          "title": "Why Are There Protests in France?",
-          "link": "https://www.nytimes.com/article/france-student-protests-why.html"
-        },
-        {
-          "title": "Israel’s High-Stakes Election, and How Illegal Gold Is Getting Into the Global Market",
-          "link": "https://www.nytimes.com/2026/10/19/podcasts/the-headlines/israel-elections-gold-global-market.html"
-        },
-        {
-          "title": "Republicans in Ohio Are Worried About Turnout. Here’s What They’re Doing About It.",
-          "link": "https://www.nytimes.com/2026/10/19/us/politics/republicans-ohio-turnout-election.html"
+          "title": "The French Teen Maimed During School Unrest by Tear Gas Grenade",
+          "link": "https://www.nytimes.com/2026/10/19/world/europe/france-protests-violence-police-response.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-19T15:27:31.611Z"
+      "updatedAt": "2026-10-19T20:57:24.880Z"
     }
   },
   "indices": {
     "data": [
       {
         "name": "S&P 500",
-        "price": 7726.08,
-        "pct": -1.0395479068146984
+        "price": 7690.73,
+        "pct": -1.4923327577991738
       },
       {
         "name": "Dow Jones",
-        "price": 52118.89,
-        "pct": 0.5175258507383171
+        "price": 51966.03,
+        "pct": 0.22271702035946758
       },
       {
         "name": "Nasdaq",
-        "price": 26586.678,
-        "pct": -2.419527341728486
+        "price": 26430.887,
+        "pct": -2.9913234651819267
       },
       {
         "name": "Gold",
-        "price": 4163.2,
-        "pct": 1.3461866160325273
+        "price": 4157.6,
+        "pct": 1.209863920738108
       },
       {
         "name": "Bitcoin",
-        "price": 82356.51,
-        "pct": 0.26180445295224647
+        "price": 81923.61,
+        "pct": -0.26521320658289466
       },
       {
         "name": "SpaceX",
-        "price": 150.585,
-        "pct": -7.85399583894259
+        "price": 147.96,
+        "pct": -9.460286378656212
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-19T15:27:31.749Z"
+    "updatedAt": "2026-10-19T20:57:25.121Z"
   }
 }
