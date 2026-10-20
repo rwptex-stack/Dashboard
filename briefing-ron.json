@@ -1,124 +1,128 @@
 {
-  "fetchedAt": "2026-10-20T11:17:59.853Z",
+  "fetchedAt": "2026-10-20T16:42:44.761Z",
   "feeds": {
     "MarketWatch": {
       "items": [
-        {
-          "title": "Blood clots are ‘incredibly common,’ even for pro athletes like Jalen Hurts. Here’s what to know.",
-          "link": "https://www.marketwatch.com/story/blood-clots-are-incredibly-common-even-for-pro-athletes-like-jalen-hurts-heres-what-to-know-e20071ef?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Why smaller stocks face worse prospects than the S&P 500 in the coming years",
-          "link": "https://www.marketwatch.com/story/why-smaller-stocks-face-worse-prospects-than-the-s-p-500-in-the-coming-years-f9f703ae?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Strategist Tom Lee says he’s buying the AI stock dip, and Cisco holds the key",
-          "link": "https://www.marketwatch.com/story/strategist-tom-lee-says-hes-buying-the-ai-stock-dip-and-cisco-holds-the-key-33233a9d?mod=mw_rss_topstories"
-        },
         {
           "title": "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
           "link": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories"
         },
         {
-          "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life — but here’s I’m still hopeful",
-          "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories"
+          "title": "Looking for AI stocks that are still cheap? Consider these two under-the-radar picks.",
+          "link": "https://www.marketwatch.com/story/looking-for-ai-stocks-that-are-still-cheap-consider-these-two-under-the-radar-picks-b4ca2b28?mod=mw_rss_topstories"
         },
         {
-          "title": "My unmarried partner of 17 years left me his $1.1 million home. His three children are livid. Should I share my inheritance?",
-          "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories"
+          "title": "It’s no secret what the best financial advice for retirement is — but most people ignore it anyway",
+          "link": "https://www.marketwatch.com/story/its-no-secret-what-the-best-financial-advice-for-retirement-is-but-most-people-ignore-it-anyway-7c9075c8?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Builders slash prices on new homes as buyer traffic drops to 14-year low",
+          "link": "https://www.marketwatch.com/story/builders-slash-prices-on-new-homes-as-buyer-traffic-drops-to-14-year-low-3dd8caea?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Salesforce’s stock falls as investors chafe at the cost of latest AI purchase",
+          "link": "https://www.marketwatch.com/story/salesforce-gets-a-chilly-investor-response-to-a-6-billion-deal-at-a-58-premium-57bd260b?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Elon Musk promised a SpaceX share to every kid in America — don’t hold your breath",
+          "link": "https://www.marketwatch.com/story/elon-musk-promised-a-spacex-share-to-every-kid-in-america-dont-hold-your-breath-d6572cdf?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T11:17:58.346Z"
+      "updatedAt": "2026-10-20T16:42:42.965Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Commanders' Dan Quinn appears to lose track of downs one week after clock debacle – but he has an explanation",
-          "link": "https://www.foxnews.com/outkick-sports/commanders-dan-quinn-appears-lose-track-downs-one-week-after-clock-debacle-explanation"
+          "title": "NFL France preparations continue as Steelers speak with league, Louisiana Gov Jeff Landry heads to Paris",
+          "link": "https://www.foxnews.com/outkick-sports/nfl-france-preparations-continue-steelers-speak-league-louisiana-gov-jeff-landry-heads-paris"
         },
         {
-          "title": "Midwest pro-Trump state could hold key to Republicans' midterm hopes",
-          "link": "https://www.foxnews.com/politics/midwest-pro-trump-state-could-hold-key-republicans-midterm-hopes"
+          "title": "Food delivery favorite forced to fork over millions after DOJ alleged discrimination against American workers",
+          "link": "https://www.foxnews.com/politics/food-delivery-favorite-forced-fork-over-millions-doj-alleged-discrimination-american-workers"
         },
         {
-          "title": "Elderly Miss. man killed with own gun in random home invasion as sheriff questions possible religious motive",
-          "link": "https://www.foxnews.com/us/elderly-miss-man-killed-own-gun-random-home-invasion-sheriff-questions-possible-religious-motive"
+          "title": "Las Vegas tourist accused of harming flamingo at iconic hotel in drunken encounter caught on video",
+          "link": "https://www.foxnews.com/us/las-vegas-tourist-accused-harming-flamingo-iconic-hotel-drunken-encounter-caught-video"
         },
         {
-          "title": "Want flying cars? America needs thousands more Elon Musks and less red tape",
-          "link": "https://www.foxnews.com/opinion/want-flying-cars-america-needs-thousands-more-elon-musks-less-red-tape"
+          "title": "CBS boss fuels left-wing uproar amid report she urged staff to probe alleged El-Sayed, Muslim Brotherhood ties",
+          "link": "https://www.foxnews.com/media/cbs-boss-fuels-left-wing-uproar-amid-report-urged-staff-probe-alleged-el-sayed-muslim-brotherhood-ties"
         },
         {
-          "title": "'We're going to die': Passengers recount midair terror before emergency landing",
-          "link": "https://www.foxnews.com/travel/were-going-die-passengers-recount-midair-terror-before-emergency-landing"
+          "title": "Virginia sanctuary county ignores 1,670 detainer requests over 2 years, House Judiciary Committee finds",
+          "link": "https://www.foxnews.com/politics/virginia-sanctuary-county-ignores-1670-detainer-requests-2-years-house-judiciary-committee-finds"
         },
         {
-          "title": "Trump puts fraudsters on notice with $25M whistleblower program offering cash for tips that deliver",
-          "link": "https://www.foxnews.com/politics/trump-puts-fraudsters-notice-25m-whistleblower-program-offering-cash-tips-deliver"
+          "title": "Denver mother fights for her daughter's education as advocates make nationwide school choice push",
+          "link": "https://www.foxnews.com/media/denver-mother-fights-her-daughters-education-advocates-make-nationwide-school-choice-push"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T11:17:58.446Z"
+      "updatedAt": "2026-10-20T16:42:43.222Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "GOP's Midterm Deja Vu Should Make Them Very Worried",
-          "link": "https://www.realclearpolitics.com/2026/10/19/gops_midterm_deja_vu_should_make_them_very_worried_714657.html"
+          "title": "The Deep Midterms",
+          "link": "https://www.realclearpolitics.com/2026/10/20/the_deep_midterms_714686.html"
+        },
+        {
+          "title": "Dems Riding a Wave? Numbers Should Terrify GOP",
+          "link": "https://www.realclearpolitics.com/2026/10/20/dems_riding_a_wave_numbers_should_terrify_gop_714669.html"
+        },
+        {
+          "title": "Do Democrats Have Inflated Expectations for the Midterms?",
+          "link": "https://www.realclearpolitics.com/2026/10/20/do_democrats_have_inflated_expectations_for_the_midterms_714678.html"
+        },
+        {
+          "title": "GOP Could Hold Senate 52-48 By Outperforming Polls Again",
+          "link": "https://www.realclearpolitics.com/video/2026/10/19/baier_republicans_could_hold_the_senate_52-48_by_outperforming_polls_again.html"
+        },
+        {
+          "title": "Midterm Deja Vu Should Make Republicans Very Worried",
+          "link": "https://www.realclearpolitics.com/2026/10/20/midterm_deja_vu_should_make_republicans_very_worried_714657.html"
         },
         {
           "title": "El-Sayed and the Muslim Brotherhood Problem",
-          "link": "https://www.realclearpolitics.com/2026/10/19/el-sayed_and_the_muslim_brotherhood_problem_714671.html"
-        },
-        {
-          "title": "Manchin To Campaign With Sen. Collins in Maine",
-          "link": "https://www.realclearpolitics.com/2026/10/19/manchin_to_campaign_with_sen_collins_in_maine_714664.html"
-        },
-        {
-          "title": "The Smithsonian's Dwindling Attendance",
-          "link": "https://www.realclearpolitics.com/2026/10/19/the_smithsonians_dwindling_attendance_714668.html"
-        },
-        {
-          "title": "The Slippery Mind of Elizabeth Holmes",
-          "link": "https://www.realclearpolitics.com/2026/10/19/the_slippery_mind_of_elizabeth_holmes_714605.html"
-        },
-        {
-          "title": "France Stares Down the Abyss",
-          "link": "https://www.realclearpolitics.com/2026/10/19/france_stares_down_the_abyss_714667.html"
+          "link": "https://www.realclearpolitics.com/2026/10/20/el-sayed_and_the_muslim_brotherhood_problem_714671.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T11:17:58.659Z"
+      "updatedAt": "2026-10-20T16:42:43.609Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "How Democrats could make Trump's Education Department overhaul much harder",
-          "link": "https://thehill.com/homenews/education/6158427-democratic-house-senate-education-department/"
+          "title": "33 percent say second attempt should follow failed execution: Survey",
+          "link": "https://thehill.com/homenews/state-watch/6160408-poll-supports-second-execution-attempt/"
         },
         {
-          "title": "Democratic super PAC hammers GOP over trans bathroom focus",
-          "link": "https://thehill.com/homenews/campaign/6159488-democratic-pac-targets-gop-bathroom-ad/"
+          "title": "Kansas Democrat 'glad' Trump is campaigning for Marshall",
+          "link": "https://thehill.com/homenews/campaign/6160448-kansas-senate-hamilton-marshall-trump-glad/"
         },
         {
-          "title": "Corruption charges once propelled MAGA. Now they may doom it",
-          "link": "https://thehill.com/homenews/analysis/6159025-trump-populism-perot-influence/"
+          "title": "Congress should fix the 'Do No Harm' rule before it does harm",
+          "link": "https://thehill.com/opinion/education/6159246-congress-must-fix-rule/"
         },
         {
-          "title": "JB Pritzker is turning midterm money into potential 2028 leverage",
-          "link": "https://thehill.com/homenews/campaign/6159156-pritzker-leads-midterm-money-war/"
+          "title": "Celebs focus on Dems winning House in 11th hour midterms fundraising",
+          "link": "https://thehill.com/blogs/in-the-know/6160437-celebrity-midterms-fundraising-dems-house-gop/"
         },
         {
-          "title": "The Memo: Trump plan for golf course becomes battle over court's power",
-          "link": "https://thehill.com/homenews/analysis/6159286-trump-dc-golf-course-battle/"
+          "title": "Hume on Trump's midterm campaigning: 'I'm not sure it's making any difference'",
+          "link": "https://thehill.com/homenews/campaign/6160396-hume-trumps-midterm-campaigning-ineffective/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T11:17:58.809Z"
+      "updatedAt": "2026-10-20T16:42:44.248Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
+          "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/"
+        },
         {
           "title": "Visiting Slate’s first showroom as its $25,000 electric truck nears production",
           "link": "https://arstechnica.com/cars/2026/10/visiting-slates-first-showroom-as-its-25000-electric-truck-nears-production/"
@@ -134,166 +138,162 @@
         {
           "title": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine",
           "link": "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/"
-        },
-        {
-          "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
-          "link": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T11:17:58.949Z"
+      "updatedAt": "2026-10-20T16:42:44.308Z"
     },
     "The Verge": {
       "items": [
         {
-          "title": "Some Google Home Speakers caught downloading hundreds of gigs of data",
-          "link": "https://www.theverge.com/tech/1014209/google-home-speaker-bug-continuous-download"
+          "title": "Arturia’s MiniFreak 49 makes its Freak synths more professional",
+          "link": "https://www.theverge.com/gadgets/1014255/arturias-minifreak-49-synthesizer"
         },
         {
-          "title": "Baseus’ new security camera has a spotlight that tracks and follows moving targets",
-          "link": "https://www.theverge.com/tech/1005073/baseus-security-primesentinel-u2-pro-outdoor-3k-dual-camera-tracking-spotlight"
+          "title": "The Gospel according to Peter (Thiel)",
+          "link": "https://www.theverge.com/tech/1014252/peter-thiel-antichrist-lectures-analysis"
         },
         {
-          "title": "Elon Musk’s proposed SpaceX stock giveaway would go into &#8216;Trump Accounts&#8217;",
-          "link": "https://www.theverge.com/tech/1014115/elon-musk-spacex-trump-account"
+          "title": "Over $963,000 worth of graded Pokémon and sports cards were stolen from FedEx",
+          "link": "https://www.theverge.com/entertainment/1014276/professional-sports-authenticator-psa-stolen-graded-sports-pokemon-cards-fedex"
         },
         {
-          "title": "The fossil fuel comeback is here",
-          "link": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report"
+          "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+          "link": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed"
         },
         {
-          "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai"
+          "title": "TikTok employees said they knew about child safety issues, but execs failed to act",
+          "link": "https://www.theverge.com/tech/1014250/tiktok-employees-internal-child-safety-warnings"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T11:17:59.541Z"
+      "updatedAt": "2026-10-20T16:42:44.380Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Suspect arrested after historic town hall set alight during disorder - French media",
-          "link": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss"
+          "title": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence",
+          "link": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Seventh day of violent clashes between Albanian protesters and police",
-          "link": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss"
+          "title": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
+          "link": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure",
-          "link": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss"
+          "title": "Man charged with attack on Australian MP as suspect's father says she is family friend",
+          "link": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
+          "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Alberta votes overwhelmingly to remain part of Canada",
+          "link": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
+          "link": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Why Israeli Gen Z voters are drawn to the far right",
           "link": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
-          "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Mission blasts off for Mars to grab a piece of its moon",
-          "link": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
-          "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T11:17:59.609Z"
+      "updatedAt": "2026-10-20T16:42:44.454Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
-          "link": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss"
+          "title": "Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds",
+          "link": "https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "How the attack on an Australian MP unfolded",
-          "link": "https://www.bbc.co.uk/news/videos/cqkglz3ljedyo?at_medium=RSS&at_campaign=rss"
+          "title": "Google says services recovering after cloud outage hits UK banks and websites",
+          "link": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
-          "link": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&at_campaign=rss"
+          "title": "BBC Three, BBC Scotland and Radio 4 Extra broadcast channels to close",
+          "link": "https://www.bbc.co.uk/news/articles/cqx2v800nnr2o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "We asked teens what schools should teach them about work. This is what they said",
-          "link": "https://www.bbc.co.uk/news/articles/c6m2dmdxgz2xo?at_medium=RSS&at_campaign=rss"
+          "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
+          "link": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Storm Austen to bring severe gales to UK as weather warning issued",
-          "link": "https://www.bbc.co.uk/weather/articles/c9rkyjzgp6kdo?at_medium=RSS&at_campaign=rss"
+          "title": "Harry says he wants to 'reconcile' with his family",
+          "link": "https://www.bbc.co.uk/news/articles/cry4xj79zxd1o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Woman describes alleged assault by Russell Brand as 'frenzied' and 'violent'",
-          "link": "https://www.bbc.co.uk/news/articles/ck240rr10jdqo?at_medium=RSS&at_campaign=rss"
+          "title": "Student who stabbed housemate 30 times admits murder",
+          "link": "https://www.bbc.co.uk/news/articles/ckq6n55l23rlo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T11:17:59.621Z"
+      "updatedAt": "2026-10-20T16:42:44.475Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "Trump’s Push for Deals With Russia Powers His Frustration With Ukraine",
-          "link": "https://www.nytimes.com/2026/10/19/us/politics/trump-russia-deals.html"
-        },
-        {
-          "title": "The Fight to Tax Billionaires, and Why NDAs Are Everywhere Now",
-          "link": "https://www.nytimes.com/2026/10/20/podcasts/the-headlines/tax-billionaires-ndas.html"
+          "title": "A ‘Doom Loop’ Threatens France as Populism Confronts Markets",
+          "link": "https://www.nytimes.com/2026/10/20/business/france-protests-bond-markets.html"
         },
         {
           "title": "France Protests Show Europe’s Shift Away From Centrist Politics",
           "link": "https://www.nytimes.com/2026/10/20/world/europe/france-protests-europe-centrist-far-right.html"
         },
         {
-          "title": "France to Extend Curfews After a Night of Calm, Prime Minister Says",
+          "title": "France to Extend Curfews After Calm Night Follows Days of Riots",
           "link": "https://www.nytimes.com/2026/10/20/world/europe/france-curfews-riots-protests-extended.html"
         },
         {
-          "title": "Republican National Committee Moves $50 Million to Help Midterm Candidates in Huge Cash Transfer",
-          "link": "https://www.nytimes.com/2026/10/20/us/politics/republicans-midterm-election-cash-transfer.html"
+          "title": "James Talarico on the Rage Economy, Billionaires and Flipping Texas",
+          "link": "https://www.nytimes.com/2026/10/20/podcasts/the-daily/james-talarico-interview-texas-midterms.html"
+        },
+        {
+          "title": "Why Zelensky Took the Gloves Off This Time With Trump",
+          "link": "https://www.nytimes.com/2026/10/20/world/europe/ukraine-war-zelensky-trump.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T11:17:59.719Z"
+      "updatedAt": "2026-10-20T16:42:44.593Z"
     }
   },
   "indices": {
     "data": [
       {
         "name": "S&P 500",
-        "price": 7690.73,
-        "pct": -1.4923327577991738
+        "price": 7722.17,
+        "pct": -1.066946812803871
       },
       {
         "name": "Dow Jones",
-        "price": 51966.03,
-        "pct": 0.22271702035946758
+        "price": 52494.59,
+        "pct": 1.5956810611939942
       },
       {
         "name": "Nasdaq",
-        "price": 26430.887,
-        "pct": -2.9913234651819267
+        "price": 26492.904,
+        "pct": -2.6152994481035865
       },
       {
         "name": "Gold",
-        "price": 4140.3,
-        "pct": -0.7146111604038315
+        "price": 4142.6,
+        "pct": -0.6594566077552096
       },
       {
         "name": "Bitcoin",
-        "price": 81437.28,
-        "pct": -0.07794401539959536
+        "price": 82491.31,
+        "pct": 1.2153315540871095
       },
       {
         "name": "SpaceX",
-        "price": 147.96,
-        "pct": -9.460286378656212
+        "price": 147.66,
+        "pct": -5.672671521655804
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-20T11:17:59.853Z"
+    "updatedAt": "2026-10-20T16:42:44.761Z"
   }
 }
