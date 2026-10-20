@@ -1,124 +1,128 @@
 {
-  "fetchedAt": "2026-10-20T16:42:44.761Z",
+  "fetchedAt": "2026-10-20T20:23:48.200Z",
   "feeds": {
     "MarketWatch": {
       "items": [
         {
-          "title": "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
-          "link": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories"
+          "title": "Wall Street researchers just used Claude to design a drug. The experiment has spawned a new investment thesis.",
+          "link": "https://www.marketwatch.com/story/wall-street-researchers-just-used-claude-to-design-a-drug-the-experiment-has-spawned-a-new-investment-thesis-6a5c3710?mod=mw_rss_topstories"
         },
         {
-          "title": "Looking for AI stocks that are still cheap? Consider these two under-the-radar picks.",
-          "link": "https://www.marketwatch.com/story/looking-for-ai-stocks-that-are-still-cheap-consider-these-two-under-the-radar-picks-b4ca2b28?mod=mw_rss_topstories"
+          "title": "Here’s what matters most to Tesla investors heading into earnings",
+          "link": "https://www.marketwatch.com/story/heres-what-matters-most-to-tesla-investors-heading-into-earnings-6b9e5d27?mod=mw_rss_topstories"
         },
         {
-          "title": "It’s no secret what the best financial advice for retirement is — but most people ignore it anyway",
-          "link": "https://www.marketwatch.com/story/its-no-secret-what-the-best-financial-advice-for-retirement-is-but-most-people-ignore-it-anyway-7c9075c8?mod=mw_rss_topstories"
+          "title": "Investors’ search for safety has made toothpaste stocks more expensive than tech",
+          "link": "https://www.marketwatch.com/story/investors-search-for-safety-has-made-toothpaste-stocks-more-expensive-than-tech-57a75e56?mod=mw_rss_topstories"
         },
         {
-          "title": "Builders slash prices on new homes as buyer traffic drops to 14-year low",
-          "link": "https://www.marketwatch.com/story/builders-slash-prices-on-new-homes-as-buyer-traffic-drops-to-14-year-low-3dd8caea?mod=mw_rss_topstories"
+          "title": "My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?",
+          "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories"
         },
         {
-          "title": "Salesforce’s stock falls as investors chafe at the cost of latest AI purchase",
-          "link": "https://www.marketwatch.com/story/salesforce-gets-a-chilly-investor-response-to-a-6-billion-deal-at-a-58-premium-57bd260b?mod=mw_rss_topstories"
+          "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life — but here’s why I’m still hopeful",
+          "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories"
         },
         {
-          "title": "Elon Musk promised a SpaceX share to every kid in America — don’t hold your breath",
-          "link": "https://www.marketwatch.com/story/elon-musk-promised-a-spacex-share-to-every-kid-in-america-dont-hold-your-breath-d6572cdf?mod=mw_rss_topstories"
+          "title": "It’s not just California’s billionaire tax. Wealth is on the ballot in the midterm elections.",
+          "link": "https://www.marketwatch.com/story/its-not-just-californias-billionaire-tax-wealth-is-on-the-ballot-in-the-midterm-elections-a50fc12c?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T16:42:42.965Z"
+      "updatedAt": "2026-10-20T20:23:47.002Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "NFL France preparations continue as Steelers speak with league, Louisiana Gov Jeff Landry heads to Paris",
-          "link": "https://www.foxnews.com/outkick-sports/nfl-france-preparations-continue-steelers-speak-league-louisiana-gov-jeff-landry-heads-paris"
+          "title": "Former Disney star Erik von Detten sued for elder abuse after couple poured $2.1M retirement savings into gold",
+          "link": "https://www.foxnews.com/entertainment/former-disney-star-erik-von-detten-sued-elder-abuse-after-couple-poured-2-1m-retirement-savings-gold"
         },
         {
-          "title": "Food delivery favorite forced to fork over millions after DOJ alleged discrimination against American workers",
-          "link": "https://www.foxnews.com/politics/food-delivery-favorite-forced-fork-over-millions-doj-alleged-discrimination-american-workers"
+          "title": "Ilhan Omar's daughters show up at scene of DC raid as rumors swirl about embattled rep's whereabouts",
+          "link": "https://www.foxnews.com/politics/ilhan-omars-daughters-shows-up-scene-dc-raid-rumors-swirl-embattled-reps-whereabouts"
         },
         {
-          "title": "Las Vegas tourist accused of harming flamingo at iconic hotel in drunken encounter caught on video",
-          "link": "https://www.foxnews.com/us/las-vegas-tourist-accused-harming-flamingo-iconic-hotel-drunken-encounter-caught-video"
+          "title": "Forty-five percent of college students say violence can be justified to stop hate speech, poll finds",
+          "link": "https://www.foxnews.com/media/forty-five-percent-college-students-say-violence-can-justified-stop-hate-speech-poll-finds"
         },
         {
-          "title": "CBS boss fuels left-wing uproar amid report she urged staff to probe alleged El-Sayed, Muslim Brotherhood ties",
-          "link": "https://www.foxnews.com/media/cbs-boss-fuels-left-wing-uproar-amid-report-urged-staff-probe-alleged-el-sayed-muslim-brotherhood-ties"
+          "title": "Urban Meyer joins Dan Dakich, gushes about new Florida head coach Jon Sumrall: 'I love that guy'",
+          "link": "https://www.foxnews.com/outkick-sports/urban-meyer-joins-dan-dakich-gushes-new-florida-head-coach-jon-sumrall-love-that-guy"
         },
         {
-          "title": "Virginia sanctuary county ignores 1,670 detainer requests over 2 years, House Judiciary Committee finds",
-          "link": "https://www.foxnews.com/politics/virginia-sanctuary-county-ignores-1670-detainer-requests-2-years-house-judiciary-committee-finds"
+          "title": "Reporter's Notebook: France braces for more unrest after parts of Paris spun out of control",
+          "link": "https://www.foxnews.com/world/reporters-notebook-france-braces-more-unrest-after-parts-paris-spun-out-control"
         },
         {
-          "title": "Denver mother fights for her daughter's education as advocates make nationwide school choice push",
-          "link": "https://www.foxnews.com/media/denver-mother-fights-her-daughters-education-advocates-make-nationwide-school-choice-push"
+          "title": "Drake Maye battles cripplilng milkshake addiction, Great White goes airborne and better halftime show ideas",
+          "link": "https://www.foxnews.com/outkick-sports/drake-maye-battles-crippling-milkshake-addiction-great-white-goes-airborne-better-halftime-show-ideas"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T16:42:43.222Z"
+      "updatedAt": "2026-10-20T20:23:47.110Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "The Deep Midterms",
-          "link": "https://www.realclearpolitics.com/2026/10/20/the_deep_midterms_714686.html"
+          "title": "Where Will the Blue Wave Crest?",
+          "link": "https://www.realclearpolitics.com/2026/10/20/where_will_the_blue_wave_crest_714728.html"
         },
         {
-          "title": "Dems Riding a Wave? Numbers Should Terrify GOP",
-          "link": "https://www.realclearpolitics.com/2026/10/20/dems_riding_a_wave_numbers_should_terrify_gop_714669.html"
+          "title": "Are French Riots an American October Surprise?",
+          "link": "https://www.realclearpolitics.com/2026/10/20/are_french_riots_an_american_october_surprise_714788.html"
         },
         {
-          "title": "Do Democrats Have Inflated Expectations for the Midterms?",
-          "link": "https://www.realclearpolitics.com/2026/10/20/do_democrats_have_inflated_expectations_for_the_midterms_714678.html"
+          "title": "Trump Wants To Make Zelensky His Midterm Scapegoat",
+          "link": "https://www.realclearpolitics.com/2026/10/20/trump_wants_to_make_zelensky_his_midterm_scapegoat_714679.html"
         },
         {
-          "title": "GOP Could Hold Senate 52-48 By Outperforming Polls Again",
-          "link": "https://www.realclearpolitics.com/video/2026/10/19/baier_republicans_could_hold_the_senate_52-48_by_outperforming_polls_again.html"
+          "title": "BofA Went Harder on Conservatives Than Drug Cartels",
+          "link": "https://www.realclearpolitics.com/2026/10/20/bofa_went_harder_on_conservatives_than_drug_cartels_714767.html"
         },
         {
-          "title": "Midterm Deja Vu Should Make Republicans Very Worried",
-          "link": "https://www.realclearpolitics.com/2026/10/20/midterm_deja_vu_should_make_republicans_very_worried_714657.html"
+          "title": "Talarico Is Preaching a Gospel of Pluralism",
+          "link": "https://www.realclearpolitics.com/2026/10/20/talarico_is_preaching_a_gospel_of_pluralism_714773.html"
         },
         {
-          "title": "El-Sayed and the Muslim Brotherhood Problem",
-          "link": "https://www.realclearpolitics.com/2026/10/20/el-sayed_and_the_muslim_brotherhood_problem_714671.html"
+          "title": "Could Massive Minnesota Fraud Lift Tafoya vs. Flanagan?",
+          "link": "https://www.realclearpolitics.com/2026/10/20/could_massive_minnesota_fraud_lift_tafoya_vs_flanagan_714765.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T16:42:43.609Z"
+      "updatedAt": "2026-10-20T20:23:47.310Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "33 percent say second attempt should follow failed execution: Survey",
-          "link": "https://thehill.com/homenews/state-watch/6160408-poll-supports-second-execution-attempt/"
+          "title": "Trump teases release of Stephen Hubbard, American man jailed in Russia",
+          "link": "https://thehill.com/homenews/administration/6160973-trump-stephen-hubbard-release/"
         },
         {
-          "title": "Kansas Democrat 'glad' Trump is campaigning for Marshall",
-          "link": "https://thehill.com/homenews/campaign/6160448-kansas-senate-hamilton-marshall-trump-glad/"
+          "title": "Prince Harry says he's seeking to reconcile with his family: 'I want it to work out'",
+          "link": "https://thehill.com/blogs/in-the-know/6161009-prince-harry-royal-family-reconcile/"
         },
         {
-          "title": "Congress should fix the 'Do No Harm' rule before it does harm",
-          "link": "https://thehill.com/opinion/education/6159246-congress-must-fix-rule/"
+          "title": "Trump finds ominous campaign message in French riots",
+          "link": "https://thehill.com/homenews/administration/6160848-trump-warns-france-midterm-chaos/"
         },
         {
-          "title": "Celebs focus on Dems winning House in 11th hour midterms fundraising",
-          "link": "https://thehill.com/blogs/in-the-know/6160437-celebrity-midterms-fundraising-dems-house-gop/"
+          "title": "Trump deflects on potential Vance endorsement",
+          "link": "https://thehill.com/homenews/administration/6161025-trump-vance-2028-endorsement/"
         },
         {
-          "title": "Hume on Trump's midterm campaigning: 'I'm not sure it's making any difference'",
-          "link": "https://thehill.com/homenews/campaign/6160396-hume-trumps-midterm-campaigning-ineffective/"
+          "title": "Democratic super PAC to launch Senate ad campaign in Mississippi",
+          "link": "https://thehill.com/homenews/campaign/6160980-dem-pac-mississippi-senate-ads/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T16:42:44.248Z"
+      "updatedAt": "2026-10-20T20:23:47.629Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "Polestar tries to quantify what it’s like to drive a performance car",
+          "link": "https://arstechnica.com/cars/2026/10/polestar-tries-to-quantify-what-its-like-to-drive-a-performance-car/"
+        },
         {
           "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
           "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/"
@@ -134,46 +138,42 @@
         {
           "title": "Pennsylvania issues alert on congenital measles—something US hasn't seen for decades",
           "link": "https://arstechnica.com/health/2026/10/pennsylvania-issues-alert-on-congenital-measles-something-us-hasnt-seen-for-decades/"
-        },
-        {
-          "title": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine",
-          "link": "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T16:42:44.308Z"
+      "updatedAt": "2026-10-20T20:23:47.693Z"
     },
     "The Verge": {
       "items": [
         {
-          "title": "Arturia’s MiniFreak 49 makes its Freak synths more professional",
-          "link": "https://www.theverge.com/gadgets/1014255/arturias-minifreak-49-synthesizer"
+          "title": "Logitech’s refurbished G Pro X2 Superstrike is 35 percent off",
+          "link": "https://www.theverge.com/gadgets/1014764/logitech-x2-superstrike-haptics-wireless-gaming-mouse-deal-sale"
         },
         {
-          "title": "The Gospel according to Peter (Thiel)",
-          "link": "https://www.theverge.com/tech/1014252/peter-thiel-antichrist-lectures-analysis"
+          "title": "DJI’s Osmo Pocket 3 vlogging camera is a good deal at under $400",
+          "link": "https://www.theverge.com/gadgets/1014456/dji-osmo-pocket-3-switch-sports-resort-deal-sale"
         },
         {
-          "title": "Over $963,000 worth of graded Pokémon and sports cards were stolen from FedEx",
-          "link": "https://www.theverge.com/entertainment/1014276/professional-sports-authenticator-psa-stolen-graded-sports-pokemon-cards-fedex"
+          "title": "Xbox CEO is reportedly planning three more rounds of layoffs",
+          "link": "https://www.theverge.com/games/1014700/xbox-ceo-asha-sharma-layoffs"
         },
         {
-          "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
-          "link": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed"
+          "title": "Amazon is phasing out Fire HD tablets, but not without some big discounts first",
+          "link": "https://www.theverge.com/gadgets/1014565/amazon-fire-hd-10-tablet-deal-sale"
         },
         {
-          "title": "TikTok employees said they knew about child safety issues, but execs failed to act",
-          "link": "https://www.theverge.com/tech/1014250/tiktok-employees-internal-child-safety-warnings"
+          "title": "JustWatch now streams TV shows and movies, too",
+          "link": "https://www.theverge.com/entertainment/1014640/justwatch-tv-plus-free-store-streaming-service-movie-rental"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T16:42:44.380Z"
+      "updatedAt": "2026-10-20T20:23:47.767Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence",
-          "link": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss"
+          "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+          "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
@@ -184,33 +184,41 @@
           "link": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
-          "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss"
+          "title": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
+          "link": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Alberta votes overwhelmingly to remain part of Canada",
+          "title": "'Great result for Canada', says Carney as Alberta votes to reject separatism",
           "link": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Trump sued over Canadian tariffs in latest legal challenge",
+          "link": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
           "link": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Why Israeli Gen Z voters are drawn to the far right",
-          "link": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T16:42:44.454Z"
+      "updatedAt": "2026-10-20T20:23:47.937Z"
     },
     "BBC News": {
       "items": [
+        {
+          "title": "Two men re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident",
+          "link": "https://www.bbc.co.uk/news/articles/cqm26z110vzko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+          "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds",
           "link": "https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Google says services recovering after cloud outage hits UK banks and websites",
+          "title": "Google resolves cloud outage affecting UK banks and websites",
           "link": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss"
         },
         {
@@ -218,20 +226,12 @@
           "link": "https://www.bbc.co.uk/news/articles/cqx2v800nnr2o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
-          "link": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "Harry says he wants to 'reconcile' with his family",
           "link": "https://www.bbc.co.uk/news/articles/cry4xj79zxd1o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Student who stabbed housemate 30 times admits murder",
-          "link": "https://www.bbc.co.uk/news/articles/ckq6n55l23rlo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T16:42:44.475Z"
+      "updatedAt": "2026-10-20T20:23:47.944Z"
     },
     "NY Times": {
       "items": [
@@ -240,60 +240,60 @@
           "link": "https://www.nytimes.com/2026/10/20/business/france-protests-bond-markets.html"
         },
         {
-          "title": "France Protests Show Europe’s Shift Away From Centrist Politics",
-          "link": "https://www.nytimes.com/2026/10/20/world/europe/france-protests-europe-centrist-far-right.html"
-        },
-        {
           "title": "France to Extend Curfews After Calm Night Follows Days of Riots",
           "link": "https://www.nytimes.com/2026/10/20/world/europe/france-curfews-riots-protests-extended.html"
         },
         {
-          "title": "James Talarico on the Rage Economy, Billionaires and Flipping Texas",
-          "link": "https://www.nytimes.com/2026/10/20/podcasts/the-daily/james-talarico-interview-texas-midterms.html"
+          "title": "Student Protesters in France Have a Strange New Slogan. What Does It Mean?",
+          "link": "https://www.nytimes.com/2026/10/20/world/europe/france-student-protests-slogan.html"
         },
         {
-          "title": "Why Zelensky Took the Gloves Off This Time With Trump",
-          "link": "https://www.nytimes.com/2026/10/20/world/europe/ukraine-war-zelensky-trump.html"
+          "title": "Heading to France? Amid Recent Unrest, Here’s What to Know",
+          "link": "https://www.nytimes.com/2026/10/20/travel/france-travel-riots.html"
+        },
+        {
+          "title": "James Talarico on the Rage Economy, Billionaires and Flipping Texas",
+          "link": "https://www.nytimes.com/2026/10/20/podcasts/the-daily/james-talarico-interview-texas-midterms.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T16:42:44.593Z"
+      "updatedAt": "2026-10-20T20:23:48.088Z"
     }
   },
   "indices": {
     "data": [
       {
         "name": "S&P 500",
-        "price": 7722.17,
-        "pct": -1.066946812803871
+        "price": 7712.57,
+        "pct": -1.1899377998706047
       },
       {
         "name": "Dow Jones",
-        "price": 52494.59,
-        "pct": 1.5956810611939942
+        "price": 52495.88,
+        "pct": 1.5981776694838967
       },
       {
         "name": "Nasdaq",
-        "price": 26492.904,
-        "pct": -2.6152994481035865
+        "price": 26424.816,
+        "pct": -2.86558267455462
       },
       {
         "name": "Gold",
-        "price": 4142.6,
-        "pct": -0.6594566077552096
+        "price": 4142.7,
+        "pct": -0.657058583727022
       },
       {
         "name": "Bitcoin",
-        "price": 82491.31,
-        "pct": 1.2153315540871095
+        "price": 82498.44,
+        "pct": 1.2240799339344064
       },
       {
         "name": "SpaceX",
-        "price": 147.66,
-        "pct": -5.672671521655804
+        "price": 147.79,
+        "pct": -5.58962565478472
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-20T16:42:44.761Z"
+    "updatedAt": "2026-10-20T20:23:48.200Z"
   }
 }
