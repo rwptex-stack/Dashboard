@@ -1,65 +1,65 @@
 {
-  "fetchedAt": "2026-10-20T20:23:48.200Z",
+  "fetchedAt": "2026-10-20T23:44:09.854Z",
   "feeds": {
     "MarketWatch": {
       "items": [
         {
-          "title": "Wall Street researchers just used Claude to design a drug. The experiment has spawned a new investment thesis.",
-          "link": "https://www.marketwatch.com/story/wall-street-researchers-just-used-claude-to-design-a-drug-the-experiment-has-spawned-a-new-investment-thesis-6a5c3710?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Here’s what matters most to Tesla investors heading into earnings",
-          "link": "https://www.marketwatch.com/story/heres-what-matters-most-to-tesla-investors-heading-into-earnings-6b9e5d27?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Investors’ search for safety has made toothpaste stocks more expensive than tech",
-          "link": "https://www.marketwatch.com/story/investors-search-for-safety-has-made-toothpaste-stocks-more-expensive-than-tech-57a75e56?mod=mw_rss_topstories"
-        },
-        {
-          "title": "My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?",
-          "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories"
+          "title": "Why SpaceX’s stock is surging — and lifting the broader AI universe along with it",
+          "link": "https://www.marketwatch.com/story/why-spacexs-stock-is-surging-and-lifting-the-broader-ai-universe-along-with-it-0cd62f39?mod=mw_rss_topstories"
         },
         {
           "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life — but here’s why I’m still hopeful",
           "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories"
         },
         {
-          "title": "It’s not just California’s billionaire tax. Wealth is on the ballot in the midterm elections.",
-          "link": "https://www.marketwatch.com/story/its-not-just-californias-billionaire-tax-wealth-is-on-the-ballot-in-the-midterm-elections-a50fc12c?mod=mw_rss_topstories"
+          "title": "Super Micro’s stock soars after surprise update — with Dell and HPE shares joining the rally",
+          "link": "https://www.marketwatch.com/story/super-micros-stock-soars-after-surprise-update-with-dell-and-hpe-shares-joining-the-rally-1837a69f?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Tesla’s stock rises as Elon Musk drops new clues about a possible SpaceX merger",
+          "link": "https://www.marketwatch.com/story/teslas-stock-rises-as-elon-musk-drops-new-clues-about-a-possible-spacex-merger-8cc44fc2?mod=mw_rss_topstories"
+        },
+        {
+          "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
+          "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Netflix vows to revive viewership trends, but investors hit ‘sell’ on the stock",
+          "link": "https://www.marketwatch.com/story/netflix-vows-to-revive-viewership-trends-but-investors-hit-sell-on-the-stock-3e24420a?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T20:23:47.002Z"
+      "updatedAt": "2026-10-20T23:44:06.427Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Former Disney star Erik von Detten sued for elder abuse after couple poured $2.1M retirement savings into gold",
-          "link": "https://www.foxnews.com/entertainment/former-disney-star-erik-von-detten-sued-elder-abuse-after-couple-poured-2-1m-retirement-savings-gold"
+          "title": "New York Knicks trip on opening night with T-shirt flub as they hang first banner in 53 years",
+          "link": "https://www.foxnews.com/outkick-sports/new-york-knicks-trip-opening-night-t-shirt-flub-hang-first-banner-53-years"
         },
         {
-          "title": "Ilhan Omar's daughters show up at scene of DC raid as rumors swirl about embattled rep's whereabouts",
-          "link": "https://www.foxnews.com/politics/ilhan-omars-daughters-shows-up-scene-dc-raid-rumors-swirl-embattled-reps-whereabouts"
+          "title": "TJ Watt's wife breaks ranks with NFL march toward Paris game questioning how playing there makes sense",
+          "link": "https://www.foxnews.com/outkick-sports/tj-watt-wife-breaks-ranks-nfl-march-toward-paris-game-questioning-how-playing-there-makes-sense"
         },
         {
-          "title": "Forty-five percent of college students say violence can be justified to stop hate speech, poll finds",
-          "link": "https://www.foxnews.com/media/forty-five-percent-college-students-say-violence-can-justified-stop-hate-speech-poll-finds"
+          "title": "LPGA star Charley Hull has friend to thank for not getting drunken forehead tattoo after night out at the club",
+          "link": "https://www.foxnews.com/outkick-sports/lpga-star-charley-hull-friend-thank-not-getting-drunken-forehead-tattoo-night-club"
         },
         {
-          "title": "Urban Meyer joins Dan Dakich, gushes about new Florida head coach Jon Sumrall: 'I love that guy'",
-          "link": "https://www.foxnews.com/outkick-sports/urban-meyer-joins-dan-dakich-gushes-new-florida-head-coach-jon-sumrall-love-that-guy"
+          "title": "NAACP requests Pennsylvania home pull Halloween decorations hanging fake bodies from trees",
+          "link": "https://www.foxnews.com/media/naacp-requests-pennsylvania-home-pull-halloween-decorations-hanging-fake-bodies-trees"
         },
         {
-          "title": "Reporter's Notebook: France braces for more unrest after parts of Paris spun out of control",
-          "link": "https://www.foxnews.com/world/reporters-notebook-france-braces-more-unrest-after-parts-paris-spun-out-control"
+          "title": "NBA has no issue with LeBron James' helicopter commute, 76ers star calls transportation 'just another way'",
+          "link": "https://www.foxnews.com/outkick-sports/nba-no-issue-lebron-james-helicopter-commute-76ers-star-calls-transportation-just-another-way"
         },
         {
-          "title": "Drake Maye battles cripplilng milkshake addiction, Great White goes airborne and better halftime show ideas",
-          "link": "https://www.foxnews.com/outkick-sports/drake-maye-battles-crippling-milkshake-addiction-great-white-goes-airborne-better-halftime-show-ideas"
+          "title": "Convicted bank robber returns to old tricks with ‘old man’ mask in Florida heists, feds say",
+          "link": "https://www.foxnews.com/us/convicted-bank-robber-returns-old-tricks-old-man-mask-florida-heists-feds-say"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T20:23:47.110Z"
+      "updatedAt": "2026-10-20T23:44:07.026Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -89,85 +89,85 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T20:23:47.310Z"
+      "updatedAt": "2026-10-20T23:44:07.409Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Trump teases release of Stephen Hubbard, American man jailed in Russia",
-          "link": "https://thehill.com/homenews/administration/6160973-trump-stephen-hubbard-release/"
+          "title": "Cornell responds to Jane Doe's letter saying she felt 'unsupported' by university president",
+          "link": "https://thehill.com/homenews/education/6161542-jane-doe-cornell-letter/"
         },
         {
-          "title": "Prince Harry says he's seeking to reconcile with his family: 'I want it to work out'",
-          "link": "https://thehill.com/blogs/in-the-know/6161009-prince-harry-royal-family-reconcile/"
+          "title": "Trump administration launches national kidney care plan",
+          "link": "https://thehill.com/newsletters/healthcare/6161527-trump-administration-national-kidney-care-plan/"
         },
         {
-          "title": "Trump finds ominous campaign message in French riots",
-          "link": "https://thehill.com/homenews/administration/6160848-trump-warns-france-midterm-chaos/"
+          "title": "White House relies on existing laws to regulate AI",
+          "link": "https://thehill.com/newsletters/technology/6161499-white-house-relies-on-existing-laws-to-regulate-ai/"
         },
         {
-          "title": "Trump deflects on potential Vance endorsement",
-          "link": "https://thehill.com/homenews/administration/6161025-trump-vance-2028-endorsement/"
+          "title": "Americans likely to associate tech CEOs, even fake ones, with GOP: Poll",
+          "link": "https://thehill.com/policy/technology/6161382-americans-view-tech-ceos-republican/"
         },
         {
-          "title": "Democratic super PAC to launch Senate ad campaign in Mississippi",
-          "link": "https://thehill.com/homenews/campaign/6160980-dem-pac-mississippi-senate-ads/"
+          "title": "Spanberger pushes for 6-year rate-hike freeze if Dominion-Next Era merger approved",
+          "link": "https://thehill.com/homenews/state-watch/6161285-spanberger-demands-utility-rate-pause/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T20:23:47.629Z"
+      "updatedAt": "2026-10-20T23:44:08.360Z"
     },
     "Ars Technica": {
       "items": [
         {
-          "title": "Polestar tries to quantify what it’s like to drive a performance car",
-          "link": "https://arstechnica.com/cars/2026/10/polestar-tries-to-quantify-what-its-like-to-drive-a-performance-car/"
+          "title": "Merging SpaceX and Tesla would be a \"good idea,\" Musk says",
+          "link": "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/"
         },
         {
-          "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
-          "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/"
+          "title": "Cops raid office of RFK Jr. allies planning “unethical” vaccine trial on babies",
+          "link": "https://arstechnica.com/health/2026/10/cops-raid-office-of-rfk-jr-allies-planning-unethical-vaccine-trial-on-babies/"
         },
         {
-          "title": "Visiting Slate’s first showroom as its $25,000 electric truck nears production",
-          "link": "https://arstechnica.com/cars/2026/10/visiting-slates-first-showroom-as-its-25000-electric-truck-nears-production/"
+          "title": "Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix",
+          "link": "https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/"
         },
         {
-          "title": "Japan launches mission to bring home a piece of the Martian moon Phobos",
-          "link": "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/"
+          "title": "JustWatch, which tackles streaming fragmentation, launches own streaming service",
+          "link": "https://arstechnica.com/gadgets/2026/10/justwatch-which-tackles-streaming-fragmentation-launches-own-streaming-service/"
         },
         {
-          "title": "Pennsylvania issues alert on congenital measles—something US hasn't seen for decades",
-          "link": "https://arstechnica.com/health/2026/10/pennsylvania-issues-alert-on-congenital-measles-something-us-hasnt-seen-for-decades/"
+          "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
+          "link": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T20:23:47.693Z"
+      "updatedAt": "2026-10-20T23:44:08.670Z"
     },
     "The Verge": {
       "items": [
         {
-          "title": "Logitech’s refurbished G Pro X2 Superstrike is 35 percent off",
-          "link": "https://www.theverge.com/gadgets/1014764/logitech-x2-superstrike-haptics-wireless-gaming-mouse-deal-sale"
+          "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed"
         },
         {
-          "title": "DJI’s Osmo Pocket 3 vlogging camera is a good deal at under $400",
-          "link": "https://www.theverge.com/gadgets/1014456/dji-osmo-pocket-3-switch-sports-resort-deal-sale"
+          "title": "Trump is giving Nick Shirley $10,000 and launching a $25 million fraud bounty program",
+          "link": "https://www.theverge.com/news/1014989/trump-fraud-tips-program-nick-shirley-influencers"
         },
         {
-          "title": "Xbox CEO is reportedly planning three more rounds of layoffs",
-          "link": "https://www.theverge.com/games/1014700/xbox-ceo-asha-sharma-layoffs"
+          "title": "Google’s more personalized Gemini AI is heading to your car",
+          "link": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto"
         },
         {
-          "title": "Amazon is phasing out Fire HD tablets, but not without some big discounts first",
-          "link": "https://www.theverge.com/gadgets/1014565/amazon-fire-hd-10-tablet-deal-sale"
+          "title": "Tesla and SpaceX are discussing a possible merger, Musk says",
+          "link": "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees"
         },
         {
-          "title": "JustWatch now streams TV shows and movies, too",
-          "link": "https://www.theverge.com/entertainment/1014640/justwatch-tv-plus-free-store-streaming-service-movie-rental"
+          "title": "SpaceX will try catching Starship and its booster for first time, Musk says",
+          "link": "https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T20:23:47.767Z"
+      "updatedAt": "2026-10-20T23:44:08.784Z"
     },
     "BBC World": {
       "items": [
@@ -180,7 +180,7 @@
           "link": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Man charged with attack on Australian MP as suspect's father says she is family friend",
+          "title": "Man charged with attack on Australia MP to face court",
           "link": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss"
         },
         {
@@ -201,7 +201,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T20:23:47.937Z"
+      "updatedAt": "2026-10-20T23:44:08.970Z"
     },
     "BBC News": {
       "items": [
@@ -214,50 +214,50 @@
           "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds",
-          "link": "https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&at_campaign=rss"
+          "title": "UK government to make Jackdaw gas field announcement",
+          "link": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Google resolves cloud outage affecting UK banks and websites",
-          "link": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss"
+          "title": "Tory MP questions government advisor's position after wife's Palestine Action post",
+          "link": "https://www.bbc.co.uk/news/articles/cke8r0me3y9vo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "BBC Three, BBC Scotland and Radio 4 Extra broadcast channels to close",
-          "link": "https://www.bbc.co.uk/news/articles/cqx2v800nnr2o?at_medium=RSS&at_campaign=rss"
+          "title": "King praises Strait of Hormuz peace efforts at glittering banquet",
+          "link": "https://www.bbc.co.uk/news/articles/c8040qgryqd3o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Harry says he wants to 'reconcile' with his family",
-          "link": "https://www.bbc.co.uk/news/articles/cry4xj79zxd1o?at_medium=RSS&at_campaign=rss"
+          "title": "Elon Musk says Tesla-SpaceX merger being considered",
+          "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T20:23:47.944Z"
+      "updatedAt": "2026-10-20T23:44:09.137Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "A ‘Doom Loop’ Threatens France as Populism Confronts Markets",
-          "link": "https://www.nytimes.com/2026/10/20/business/france-protests-bond-markets.html"
+          "title": "A Billionaire Wanted a Trump Pardon. His Family Gave Alina Habba a $50 Million Deal.",
+          "link": "https://www.nytimes.com/2026/10/20/us/politics/julio-herrera-pardon-alina-habba.html"
         },
         {
-          "title": "France to Extend Curfews After Calm Night Follows Days of Riots",
-          "link": "https://www.nytimes.com/2026/10/20/world/europe/france-curfews-riots-protests-extended.html"
+          "title": "In Texas’ Senate Race, Paxton and Talarico Converge on Key Battleground",
+          "link": "https://www.nytimes.com/2026/10/20/us/paxton-talarico-fort-worth-tarrant-county-texas.html"
         },
         {
-          "title": "Student Protesters in France Have a Strange New Slogan. What Does It Mean?",
-          "link": "https://www.nytimes.com/2026/10/20/world/europe/france-student-protests-slogan.html"
+          "title": "Trump Announces Plans to Spend Another $100 Million by Election Day",
+          "link": "https://www.nytimes.com/2026/10/20/briefing/trump-midterm-spending.html"
         },
         {
-          "title": "Heading to France? Amid Recent Unrest, Here’s What to Know",
-          "link": "https://www.nytimes.com/2026/10/20/travel/france-travel-riots.html"
+          "title": "Trump Pushes to Evict White House Press Corps",
+          "link": "https://www.nytimes.com/2026/10/20/us/politics/trump-white-house-media.html"
         },
         {
-          "title": "James Talarico on the Rage Economy, Billionaires and Flipping Texas",
-          "link": "https://www.nytimes.com/2026/10/20/podcasts/the-daily/james-talarico-interview-texas-midterms.html"
+          "title": "Why Zelensky Took the Gloves Off This Time With Trump",
+          "link": "https://www.nytimes.com/2026/10/20/world/europe/ukraine-war-zelensky-trump.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T20:23:48.088Z"
+      "updatedAt": "2026-10-20T23:44:09.524Z"
     }
   },
   "indices": {
@@ -279,13 +279,13 @@
       },
       {
         "name": "Gold",
-        "price": 4142.7,
-        "pct": -0.657058583727022
+        "price": 4135.4,
+        "pct": -0.832114337785682
       },
       {
         "name": "Bitcoin",
-        "price": 82498.44,
-        "pct": 1.2240799339344064
+        "price": 82880.43,
+        "pct": 1.6927746909984511
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-20T20:23:48.200Z"
+    "updatedAt": "2026-10-20T23:44:09.854Z"
   }
 }
