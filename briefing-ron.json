@@ -1,15 +1,11 @@
 {
-  "fetchedAt": "2026-10-20T23:44:09.854Z",
+  "fetchedAt": "2026-10-21T04:17:15.692Z",
   "feeds": {
     "MarketWatch": {
       "items": [
         {
-          "title": "Why SpaceX’s stock is surging — and lifting the broader AI universe along with it",
-          "link": "https://www.marketwatch.com/story/why-spacexs-stock-is-surging-and-lifting-the-broader-ai-universe-along-with-it-0cd62f39?mod=mw_rss_topstories"
-        },
-        {
-          "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life — but here’s why I’m still hopeful",
-          "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories"
+          "title": "Bull markets tend to peak with a whimper, not a bang — but a 15% correction for the S&P 500 may be next",
+          "link": "https://www.marketwatch.com/story/bull-markets-tend-to-peak-with-a-whimper-not-a-bang-but-a-15-correction-for-the-s-p-500-may-be-next-dab40e2c?mod=mw_rss_topstories"
         },
         {
           "title": "Super Micro’s stock soars after surprise update — with Dell and HPE shares joining the rally",
@@ -20,105 +16,113 @@
           "link": "https://www.marketwatch.com/story/teslas-stock-rises-as-elon-musk-drops-new-clues-about-a-possible-spacex-merger-8cc44fc2?mod=mw_rss_topstories"
         },
         {
-          "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
-          "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories"
-        },
-        {
           "title": "Netflix vows to revive viewership trends, but investors hit ‘sell’ on the stock",
           "link": "https://www.marketwatch.com/story/netflix-vows-to-revive-viewership-trends-but-investors-hit-sell-on-the-stock-3e24420a?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Why SpaceX’s stock is surging — and lifting the broader AI universe along with it",
+          "link": "https://www.marketwatch.com/story/why-spacexs-stock-is-surging-and-lifting-the-broader-ai-universe-along-with-it-0cd62f39?mod=mw_rss_topstories"
+        },
+        {
+          "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life — but here’s why I’m still hopeful",
+          "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T23:44:06.427Z"
+      "updatedAt": "2026-10-21T04:17:14.284Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "New York Knicks trip on opening night with T-shirt flub as they hang first banner in 53 years",
-          "link": "https://www.foxnews.com/outkick-sports/new-york-knicks-trip-opening-night-t-shirt-flub-hang-first-banner-53-years"
+          "title": "DHS launches nationwide ICE operation targeting illegal immigrants accused of SNAP food stamp fraud",
+          "link": "https://www.foxnews.com/us/dhs-launches-nationwide-ice-operation-targeting-illegal-immigrants-accused-snap-food-stamp-fraud"
         },
         {
-          "title": "TJ Watt's wife breaks ranks with NFL march toward Paris game questioning how playing there makes sense",
-          "link": "https://www.foxnews.com/outkick-sports/tj-watt-wife-breaks-ranks-nfl-march-toward-paris-game-questioning-how-playing-there-makes-sense"
+          "title": "Oregon star's DUI arrest casts shadow over Duck's latest win as Dan Lanning promises 'appropriate action'",
+          "link": "https://www.foxnews.com/outkick-sports/oregon-stars-dui-arrest-casts-shadow-ducks-latest-win-dan-lanning-promises-appropriate-action"
         },
         {
-          "title": "LPGA star Charley Hull has friend to thank for not getting drunken forehead tattoo after night out at the club",
-          "link": "https://www.foxnews.com/outkick-sports/lpga-star-charley-hull-friend-thank-not-getting-drunken-forehead-tattoo-night-club"
+          "title": "Titans release defensive tackle Jordan Elliott days after picking up first win of NFL season",
+          "link": "https://www.foxnews.com/outkick-sports/titans-release-defensive-tackle-jordan-elliott-days-after-picking-up-first-win-nfl-season"
         },
         {
-          "title": "NAACP requests Pennsylvania home pull Halloween decorations hanging fake bodies from trees",
-          "link": "https://www.foxnews.com/media/naacp-requests-pennsylvania-home-pull-halloween-decorations-hanging-fake-bodies-trees"
+          "title": "Lane Kiffin is already getting his excuses ready for LSU's disappointing regular season",
+          "link": "https://www.foxnews.com/outkick-sports/lane-kiffin-already-getting-excuses-ready-lsu-disappointing-regular-season"
         },
         {
-          "title": "NBA has no issue with LeBron James' helicopter commute, 76ers star calls transportation 'just another way'",
-          "link": "https://www.foxnews.com/outkick-sports/nba-no-issue-lebron-james-helicopter-commute-76ers-star-calls-transportation-just-another-way"
+          "title": "'Pod Save America' hosts warn El-Sayed to tone down 'condescension' on Muslim Brotherhood questions",
+          "link": "https://www.foxnews.com/media/pod-save-america-hosts-warn-el-sayed-tone-down-condescension-muslim-brotherhood-questions"
         },
         {
-          "title": "Convicted bank robber returns to old tricks with ‘old man’ mask in Florida heists, feds say",
-          "link": "https://www.foxnews.com/us/convicted-bank-robber-returns-old-tricks-old-man-mask-florida-heists-feds-say"
+          "title": "NFL's top doctor defends Philadelphia Eagles handling of Jalen Hurts blood clots but NFLPA has different story",
+          "link": "https://www.foxnews.com/outkick-sports/nfl-top-doctor-defends-philadelphia-eagles-handling-jalen-hurts-blood-clots-nflpa-different-story"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T23:44:07.026Z"
+      "updatedAt": "2026-10-21T04:17:14.471Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "Where Will the Blue Wave Crest?",
-          "link": "https://www.realclearpolitics.com/2026/10/20/where_will_the_blue_wave_crest_714728.html"
+          "title": "Level-Setting 2026. Part I: The House",
+          "link": "https://www.realclearpolitics.com/2026/10/19/level-setting_2026_part_i_the_house_714666.html"
         },
         {
-          "title": "Are French Riots an American October Surprise?",
-          "link": "https://www.realclearpolitics.com/2026/10/20/are_french_riots_an_american_october_surprise_714788.html"
+          "title": "Gov. Spanberger Says GOP Lost the Affordability Debate",
+          "link": "https://www.realclearpolitics.com/2026/10/19/gov_spanberger_says_gop_lost_the_affordability_debate_714572.html"
         },
         {
-          "title": "Trump Wants To Make Zelensky His Midterm Scapegoat",
-          "link": "https://www.realclearpolitics.com/2026/10/20/trump_wants_to_make_zelensky_his_midterm_scapegoat_714679.html"
+          "title": "El-Sayed Is Seeking To Make Gas Prices Higher",
+          "link": "https://www.realclearpolitics.com/2026/10/20/el-sayed_is_seeking_to_make_gas_prices_higher_714670.html"
         },
         {
-          "title": "BofA Went Harder on Conservatives Than Drug Cartels",
-          "link": "https://www.realclearpolitics.com/2026/10/20/bofa_went_harder_on_conservatives_than_drug_cartels_714767.html"
+          "title": "Gad Saad on French Riots, 'Suicidal Empathy'",
+          "link": "https://www.realclearpolitics.com/2026/10/20/gad_saad_on_french_riots_suicidal_empathy_714790.html"
         },
         {
-          "title": "Talarico Is Preaching a Gospel of Pluralism",
-          "link": "https://www.realclearpolitics.com/2026/10/20/talarico_is_preaching_a_gospel_of_pluralism_714773.html"
+          "title": "Rep. Omar's Shady Castle Starts To Crumble",
+          "link": "https://www.realclearpolitics.com/2026/10/19/rep_omars_shady_castle_starts_to_crumble_714568.html"
         },
         {
-          "title": "Could Massive Minnesota Fraud Lift Tafoya vs. Flanagan?",
-          "link": "https://www.realclearpolitics.com/2026/10/20/could_massive_minnesota_fraud_lift_tafoya_vs_flanagan_714765.html"
+          "title": "Trump's Golf Course Renovation Is Attack on Rule of Law",
+          "link": "https://www.realclearpolitics.com/2026/10/20/trumps_golf_course_renovation_is_attack_on_rule_of_law_714680.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T23:44:07.409Z"
+      "updatedAt": "2026-10-21T04:17:14.677Z"
     },
     "The Hill": {
       "items": [
         {
+          "title": "Ramaswamy takes responsibility for attack ad featuring Acton’s estranged mother",
+          "link": "https://thehill.com/homenews/campaign/6161654-ramaswamy-attack-ad-amy-acton/"
+        },
+        {
+          "title": "Trump says Pentagon will invest $1.5 billion into North Carolina chip production",
+          "link": "https://thehill.com/homenews/administration/6161642-trump-pentagon-semiconductor-investment/"
+        },
+        {
+          "title": "Trump snaps at White House reporter: 'Are you a sick person?'",
+          "link": "https://thehill.com/homenews/media/6161621-trump-snaps-at-white-house-reporter-are-you-a-sick-person/"
+        },
+        {
+          "title": "Brown calls on Husted to condemn ad featuring Acton's mother",
+          "link": "https://thehill.com/homenews/campaign/6161562-brown-demands-husted-condemn-ad/"
+        },
+        {
           "title": "Cornell responds to Jane Doe's letter saying she felt 'unsupported' by university president",
           "link": "https://thehill.com/homenews/education/6161542-jane-doe-cornell-letter/"
-        },
-        {
-          "title": "Trump administration launches national kidney care plan",
-          "link": "https://thehill.com/newsletters/healthcare/6161527-trump-administration-national-kidney-care-plan/"
-        },
-        {
-          "title": "White House relies on existing laws to regulate AI",
-          "link": "https://thehill.com/newsletters/technology/6161499-white-house-relies-on-existing-laws-to-regulate-ai/"
-        },
-        {
-          "title": "Americans likely to associate tech CEOs, even fake ones, with GOP: Poll",
-          "link": "https://thehill.com/policy/technology/6161382-americans-view-tech-ceos-republican/"
-        },
-        {
-          "title": "Spanberger pushes for 6-year rate-hike freeze if Dominion-Next Era merger approved",
-          "link": "https://thehill.com/homenews/state-watch/6161285-spanberger-demands-utility-rate-pause/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T23:44:08.360Z"
+      "updatedAt": "2026-10-21T04:17:14.988Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "PHP warns it plans to release 2 emergency patches imminently",
+          "link": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/"
+        },
         {
           "title": "Merging SpaceX and Tesla would be a \"good idea,\" Musk says",
           "link": "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/"
@@ -134,17 +138,17 @@
         {
           "title": "JustWatch, which tackles streaming fragmentation, launches own streaming service",
           "link": "https://arstechnica.com/gadgets/2026/10/justwatch-which-tackles-streaming-fragmentation-launches-own-streaming-service/"
-        },
-        {
-          "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
-          "link": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T23:44:08.670Z"
+      "updatedAt": "2026-10-21T04:17:15.112Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "YouTube might be testing hiding the dislike button",
+          "link": "https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu"
+        },
         {
           "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed"
@@ -160,24 +164,24 @@
         {
           "title": "Tesla and SpaceX are discussing a possible merger, Musk says",
           "link": "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees"
-        },
-        {
-          "title": "SpaceX will try catching Starship and its booster for first time, Musk says",
-          "link": "https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T23:44:08.784Z"
+      "updatedAt": "2026-10-21T04:17:15.220Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+          "title": "US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now'",
           "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
-          "link": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss"
+          "title": "France is divided over who to blame for and what to learn from weekend riots",
+          "link": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Elon Musk says Tesla-SpaceX merger being considered",
+          "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Man charged with attack on Australia MP to face court",
@@ -188,20 +192,16 @@
           "link": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "'Great result for Canada', says Carney as Alberta votes to reject separatism",
-          "link": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss"
+          "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
+          "link": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Trump sued over Canadian tariffs in latest legal challenge",
-          "link": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
-          "link": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss"
+          "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
+          "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T23:44:08.970Z"
+      "updatedAt": "2026-10-21T04:17:15.445Z"
     },
     "BBC News": {
       "items": [
@@ -210,7 +210,7 @@
           "link": "https://www.bbc.co.uk/news/articles/cqm26z110vzko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+          "title": "US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now'",
           "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss"
         },
         {
@@ -231,13 +231,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T23:44:09.137Z"
+      "updatedAt": "2026-10-21T04:17:15.545Z"
     },
     "NY Times": {
       "items": [
         {
           "title": "A Billionaire Wanted a Trump Pardon. His Family Gave Alina Habba a $50 Million Deal.",
           "link": "https://www.nytimes.com/2026/10/20/us/politics/julio-herrera-pardon-alina-habba.html"
+        },
+        {
+          "title": "Trump Wields an Unprecedented $277 Million in Final Midterm Stretch",
+          "link": "https://www.nytimes.com/2026/10/20/us/politics/trump-maga-inc-midterms.html"
         },
         {
           "title": "In Texas’ Senate Race, Paxton and Talarico Converge on Key Battleground",
@@ -250,14 +254,10 @@
         {
           "title": "Trump Pushes to Evict White House Press Corps",
           "link": "https://www.nytimes.com/2026/10/20/us/politics/trump-white-house-media.html"
-        },
-        {
-          "title": "Why Zelensky Took the Gloves Off This Time With Trump",
-          "link": "https://www.nytimes.com/2026/10/20/world/europe/ukraine-war-zelensky-trump.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T23:44:09.524Z"
+      "updatedAt": "2026-10-21T04:17:15.582Z"
     }
   },
   "indices": {
@@ -279,13 +279,13 @@
       },
       {
         "name": "Gold",
-        "price": 4135.4,
-        "pct": -0.832114337785682
+        "price": 4137.2,
+        "pct": -1.04996292841598
       },
       {
         "name": "Bitcoin",
-        "price": 82880.43,
-        "pct": 1.6927746909984511
+        "price": 82701.73,
+        "pct": 1.6214612172325282
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-20T23:44:09.854Z"
+    "updatedAt": "2026-10-21T04:17:15.692Z"
   }
 }
