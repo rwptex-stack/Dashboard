@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-10-20T22:46:24.983Z",
+  "fetchedAt": "2026-10-21T01:05:40.561Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "NAACP requests Pennsylvania home pull Halloween decorations hanging fake bodies from trees",
-          "link": "https://www.foxnews.com/media/naacp-requests-pennsylvania-home-pull-halloween-decorations-hanging-fake-bodies-trees"
+          "title": "Prince Harry says ‘most important thing is to reconcile’ with royal family",
+          "link": "https://www.foxnews.com/entertainment/prince-harry-says-most-important-thing-reconcile-royal-family"
         },
         {
-          "title": "Have MLB home run celebrations gone too far? Junior Caminero's long run around the bases sparks debate",
-          "link": "https://www.foxnews.com/outkick-sports/mlb-home-run-celebrations-gone-too-far-junior-caminero-long-run-bases-sparks-debate"
+          "title": "Honduran illegal immigrant charged with assaulting ICE officers with hammer during New Jersey traffic stop",
+          "link": "https://www.foxnews.com/us/honduran-illegal-immigrant-charged-assaulting-ice-officers-hammer-new-jersey-traffic-stop"
         },
         {
-          "title": "American Airlines jet suffers brake trouble, blown tire after landing at Chicago O'Hare: FAA",
-          "link": "https://www.foxnews.com/us/american-airlines-jet-suffers-brake-trouble-blown-tire-landing-chicago-ohare-faa"
+          "title": "Americans who moved to Europe after Trump win now say they regret leaving",
+          "link": "https://www.foxnews.com/media/americans-who-moved-europe-after-trump-win-now-say-regret-leaving"
         },
         {
-          "title": "Bill Ackman sounds off on 'crazy, radicalized' Democratic Party, argues it's in 'worst place it's ever been'",
-          "link": "https://www.foxnews.com/media/bill-ackman-sounds-off-crazy-radicalized-democratic-party-argues-its-worst-place-its-ever-been"
+          "title": "Penguins star teenager Ben Kindel has medical episode during team flight, taken to hospital",
+          "link": "https://www.foxnews.com/outkick-sports/penguins-star-teenager-ben-kindel-medical-episode-during-team-flight-taken-hospital"
         },
         {
-          "title": "Kate Middleton brings back Princess Diana's famous tiara for glamorous night alongside Prince William",
-          "link": "https://www.foxnews.com/entertainment/kate-middleton-brings-back-princess-diana-famous-tiara-glamorous-night-prince-william"
+          "title": "Stranger in Biden mask pulls bizarre Texas doorstep stunt as police issue warning",
+          "link": "https://www.foxnews.com/us/stranger-biden-mask-pulls-bizarre-texas-doorstep-stunt-police-issue-warning"
         },
         {
-          "title": "Vacation spot slapped with US travel warning over crime, sexual assaults and kidnappings",
-          "link": "https://www.foxnews.com/travel/vacation-spot-slapped-us-travel-warning-over-crime-sexual-assaults-kidnappings"
+          "title": "Royce White exploring legal avenues after WNBA tells Congress he is ineligible to play",
+          "link": "https://www.foxnews.com/outkick-sports/royce-white-exploring-legal-avenues-wnba-tells-congress-ineligible-play"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T22:46:21.748Z"
+      "updatedAt": "2026-10-21T01:05:33.756Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,36 +59,48 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T22:46:22.000Z"
+      "updatedAt": "2026-10-21T01:05:34.025Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Americans likely to associate tech CEOs, even fake ones, with GOP: Poll",
-          "link": "https://thehill.com/policy/technology/6161382-americans-view-tech-ceos-republican/"
+          "title": "Trump snaps at White House reporter: 'Are you a sick person?'",
+          "link": "https://thehill.com/homenews/media/6161621-trump-snaps-at-white-house-reporter-are-you-a-sick-person/"
         },
         {
-          "title": "Spanberger pushes for 6-year rate-hike freeze if Dominion-Next Era merger approved",
-          "link": "https://thehill.com/homenews/state-watch/6161285-spanberger-demands-utility-rate-pause/"
+          "title": "Brown calls on Husted to condemn ad featuring Acton's mother",
+          "link": "https://thehill.com/homenews/campaign/6161562-brown-demands-husted-condemn-ad/"
         },
         {
-          "title": "Ohio governor’s race takes ugly turn with viral video featuring Acton’s mother",
-          "link": "https://thehill.com/homenews/campaign/6161344-ramaswamy-ohio-governor-race-controversy/"
+          "title": "Cornell responds to Jane Doe's letter saying she felt 'unsupported' by university president",
+          "link": "https://thehill.com/homenews/education/6161542-jane-doe-cornell-letter/"
         },
         {
-          "title": "Ocasio-Cortez, Garcia latest Democrats to report receiving suspicious letter",
-          "link": "https://thehill.com/homenews/house/6161365-ocasio-cortez-garcia-suspicious-mailings/"
+          "title": "Trump administration launches national kidney care plan",
+          "link": "https://thehill.com/newsletters/healthcare/6161527-trump-administration-national-kidney-care-plan/"
         },
         {
-          "title": "North Carolina mail-in ballot restrictions to remain through midterms, judge rules",
-          "link": "https://thehill.com/homenews/state-watch/6161350-judge-upholds-nc-mailballot-rules/"
+          "title": "White House relies on existing laws to regulate AI",
+          "link": "https://thehill.com/newsletters/technology/6161499-white-house-relies-on-existing-laws-to-regulate-ai/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T22:46:22.481Z"
+      "updatedAt": "2026-10-21T01:05:34.638Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "Merging SpaceX and Tesla would be a \"good idea,\" Musk says",
+          "link": "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/"
+        },
+        {
+          "title": "Cops raid office of RFK Jr. allies planning “unethical” vaccine trial on babies",
+          "link": "https://arstechnica.com/health/2026/10/cops-raid-office-of-rfk-jr-allies-planning-unethical-vaccine-trial-on-babies/"
+        },
+        {
+          "title": "Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix",
+          "link": "https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/"
+        },
         {
           "title": "JustWatch, which tackles streaming fragmentation, launches own streaming service",
           "link": "https://arstechnica.com/gadgets/2026/10/justwatch-which-tackles-streaming-fragmentation-launches-own-streaming-service/"
@@ -96,48 +108,36 @@
         {
           "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
           "link": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/"
-        },
-        {
-          "title": "Gemini's Personal Intelligence is coming to cars",
-          "link": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/"
-        },
-        {
-          "title": "OpenBSD 8.0 arrives with security record still intact",
-          "link": "https://arstechnica.com/gadgets/2026/10/openbsd-8-0-lands-with-intel-arc-graphics-support/"
-        },
-        {
-          "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
-          "link": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T22:46:22.628Z"
+      "updatedAt": "2026-10-21T01:05:34.822Z"
     },
     "The Verge": {
       "items": [
         {
+          "title": "YouTube might be testing hiding the dislike button",
+          "link": "https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu"
+        },
+        {
+          "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed"
+        },
+        {
+          "title": "Trump is giving Nick Shirley $10,000 and launching a $25 million fraud bounty program",
+          "link": "https://www.theverge.com/news/1014989/trump-fraud-tips-program-nick-shirley-influencers"
+        },
+        {
+          "title": "Google’s more personalized Gemini AI is heading to your car",
+          "link": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto"
+        },
+        {
           "title": "Tesla and SpaceX are discussing a possible merger, Musk says",
           "link": "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees"
-        },
-        {
-          "title": "SpaceX will try catching Starship and its booster for first time, Musk says",
-          "link": "https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says"
-        },
-        {
-          "title": "Netflix is telling investors not to worry, even though you&#8217;re watching less and less",
-          "link": "https://www.theverge.com/streaming/1014826/netflix-earnings-q3-2026-viewing-time"
-        },
-        {
-          "title": "Snap is paying Robert Downey Jr. to do the Iron Man thing",
-          "link": "https://www.theverge.com/tech/1014869/snap-specs-robert-downey-jr"
-        },
-        {
-          "title": "SpaceX says big AI growth fueled revenue jump",
-          "link": "https://www.theverge.com/science/1014150/spacex-q3-2026-earnings"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T22:46:22.733Z"
+      "updatedAt": "2026-10-21T01:05:34.936Z"
     },
     "BBC World": {
       "items": [
@@ -150,6 +150,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss"
         },
         {
+          "title": "Elon Musk says Tesla-SpaceX merger being considered",
+          "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Man charged with attack on Australia MP to face court",
           "link": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss"
         },
@@ -158,20 +162,16 @@
           "link": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "'Great result for Canada', says Carney as Alberta votes to reject separatism",
-          "link": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss"
+          "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
+          "link": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Trump sued over Canadian tariffs in latest legal challenge",
-          "link": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
-          "link": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss"
+          "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
+          "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T22:46:23.005Z"
+      "updatedAt": "2026-10-21T01:05:35.089Z"
     },
     "BBC News": {
       "items": [
@@ -184,12 +184,12 @@
           "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds",
-          "link": "https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&at_campaign=rss"
+          "title": "UK government to make Jackdaw gas field announcement",
+          "link": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "BBC Three, BBC Scotland and Radio 4 Extra broadcast channels to close",
-          "link": "https://www.bbc.co.uk/news/articles/cqx2v800nnr2o?at_medium=RSS&at_campaign=rss"
+          "title": "Tory MP questions government advisor's position after wife's Palestine Action post",
+          "link": "https://www.bbc.co.uk/news/articles/cke8r0me3y9vo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "King praises Strait of Hormuz peace efforts at glittering banquet",
@@ -201,33 +201,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T22:46:23.100Z"
+      "updatedAt": "2026-10-21T01:05:35.179Z"
     },
     "NY Times": {
       "items": [
         {
+          "title": "A Billionaire Wanted a Trump Pardon. His Family Gave Alina Habba a $50 Million Deal.",
+          "link": "https://www.nytimes.com/2026/10/20/us/politics/julio-herrera-pardon-alina-habba.html"
+        },
+        {
           "title": "In Texas’ Senate Race, Paxton and Talarico Converge on Key Battleground",
           "link": "https://www.nytimes.com/2026/10/20/us/paxton-talarico-fort-worth-tarrant-county-texas.html"
-        },
-        {
-          "title": "Attack Ad Featuring Candidate’s Mother Turns Ohio Governor’s Race Even Uglier",
-          "link": "https://www.nytimes.com/2026/10/20/us/politics/ramaswamy-campaign-ad-acton-estranged-mother-donna-arthur.html"
-        },
-        {
-          "title": "If Democrats Win Congress, Could the G.O.P. Refuse to Seat Them?",
-          "link": "https://www.nytimes.com/2026/10/20/us/politics/democrats-republicans-congress-midterm-elections.html"
         },
         {
           "title": "Trump Announces Plans to Spend Another $100 Million by Election Day",
           "link": "https://www.nytimes.com/2026/10/20/briefing/trump-midterm-spending.html"
         },
         {
-          "title": "A ‘Doom Loop’ Threatens France as Populism Confronts Markets",
-          "link": "https://www.nytimes.com/2026/10/20/business/france-protests-bond-markets.html"
+          "title": "Trump Pushes to Evict White House Press Corps",
+          "link": "https://www.nytimes.com/2026/10/20/us/politics/trump-white-house-media.html"
+        },
+        {
+          "title": "Why Zelensky Took the Gloves Off This Time With Trump",
+          "link": "https://www.nytimes.com/2026/10/20/world/europe/ukraine-war-zelensky-trump.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T22:46:23.276Z"
+      "updatedAt": "2026-10-21T01:05:35.363Z"
     },
     "ARTNews": {
       "items": [
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T22:46:23.473Z"
+      "updatedAt": "2026-10-21T01:05:35.517Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T22:46:23.625Z"
+      "updatedAt": "2026-10-21T01:05:35.778Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T22:46:24.826Z"
+      "updatedAt": "2026-10-21T01:05:40.381Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T22:46:24.983Z"
+      "updatedAt": "2026-10-21T01:05:40.561Z"
     }
   }
 }
