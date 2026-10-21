@@ -1,41 +1,41 @@
 {
-  "fetchedAt": "2026-10-21T12:31:54.962Z",
+  "fetchedAt": "2026-10-21T17:44:42.960Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "2,000-year-old treasure discovered beneath former sports field, breaking regional record",
-          "link": "https://www.foxnews.com/travel/2000-year-old-treasure-discovered-beneath-former-sports-field-breaking-regional-record"
+          "title": "French woman recounts 'horror movie' as mob of rioters turned on husband in streets of Paris",
+          "link": "https://www.foxnews.com/media/french-woman-recounts-horror-movie-mob-rioters-turned-husband-streets-paris"
         },
         {
-          "title": "Philly officer murdered in line of duty promoted to sergeant as police from around US attend his funeral",
-          "link": "https://www.foxnews.com/us/philly-officer-murdered-line-duty-promoted-sergeant-police-around-us-attend-funeral"
+          "title": "Lindsey Vonn keeps the birthday celebration going, slipping into a bodysuit for clothing line's new collection",
+          "link": "https://www.foxnews.com/outkick-sports/lindsey-vonn-keeps-birthday-celebration-going-slipping-bodysuit-clothing-lines-new-collection"
         },
         {
-          "title": "Kansas soccer field crash raises red flags for former investigator who questions key theories",
-          "link": "https://www.foxnews.com/us/kansas-soccer-field-crash-raises-red-flags-former-investigator-questions-key-theories"
+          "title": "Grandfather gunned down in road rage attack days after burying Air Force son; convicted murderer charged",
+          "link": "https://www.foxnews.com/us/grandfather-gunned-down-road-rage-attack-days-after-burying-air-force-son-convicted-murderer-charged"
         },
         {
-          "title": "DAN HOFFMAN: Grief can break your heart. Here's how to keep it from breaking your life",
-          "link": "https://www.foxnews.com/opinion/dan-hoffman-grief-can-break-your-heart-heres-how-keep-it-breaking-your-life"
+          "title": "Manchin calls Schumer 'crazy' for trying to oust GOP senator in crucial Senate showdown",
+          "link": "https://www.foxnews.com/politics/manchin-calls-schumer-crazy-oust-gop-senator-crucial-senate-showdown"
         },
         {
-          "title": "Stacking supplements without key test can do more harm than good, expert warns",
-          "link": "https://www.foxnews.com/health/why-stacking-supplements-without-blood-test-first-can-do-more-harm-than-good"
+          "title": "El-Sayed's past Muslim Brotherhood comments raise red flags as he eyes powerful role",
+          "link": "https://www.foxnews.com/politics/el-sayed-past-muslim-brotherhood-comments-raise-red-flags-eyes-powerful-role"
         },
         {
-          "title": "Kid Rock says supporting Trump came at a cost in Hollywood, but he's not backing down",
-          "link": "https://www.foxnews.com/entertainment/kid-rock-says-supporting-trump-came-cost-hollywood-not-backing-down"
+          "title": "Giants bench Jameis Winston, will start JJ McCarthy weeks after trading for him: report",
+          "link": "https://www.foxnews.com/outkick-sports/giants-bench-jameis-winston-start-jj-mccarthy-weeks-after-trading-report"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-21T12:31:52.496Z"
+      "updatedAt": "2026-10-21T17:44:40.611Z"
     },
     "Real Clear Politics": {
       "items": [
         {
           "title": "Level-Setting 2026. Part I: The House",
-          "link": "https://www.realclearpolitics.com/2026/10/19/level-setting_2026_part_i_the_house_714666.html"
+          "link": "https://www.realclearpolitics.com/2026/10/21/level-setting_2026_part_i_the_house_714666.html"
         },
         {
           "title": "GOP Has 1 Reason To Be Optimistic About the Midterms",
@@ -59,33 +59,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-21T12:31:52.944Z"
+      "updatedAt": "2026-10-21T17:44:40.769Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Hegseth boosts battleground Republican during Wisconsin trip",
-          "link": "https://thehill.com/policy/defense/6161852-hegseth-boosts-van-orden-midwest-trip/"
+          "title": "Social Security corrects death, citizenship information for millions of numbers",
+          "link": "https://thehill.com/homenews/administration/6163193-social-security-corrects-millions-ssn-records/"
         },
         {
-          "title": "Is trust breaking down between DOJ & judges?",
-          "link": "https://thehill.com/newsletters/the-gavel/6161222-trump-administration-justice-department-judicial-trust/"
+          "title": "Cooper holds 13-point lead over Whatley in NC Senate race: Poll",
+          "link": "https://thehill.com/homenews/campaign/6163192-north-carolina-senate-polling-data/"
         },
         {
-          "title": "Putin is a loser. Treat him like one.",
-          "link": "https://thehill.com/opinion/6160649-putin-russia-declining-power/"
+          "title": "Vance 'disgusted' by Republicans decrying Ramaswamy ad with Acton's mother",
+          "link": "https://thehill.com/homenews/campaign/6163244-vance-criticizes-gop-ramaswamy-ad/"
         },
         {
-          "title": "Russia releases imprisoned American Stephen Hubbard",
-          "link": "https://thehill.com/policy/international/6161795-trump-announces-hubbard-release-russia/"
+          "title": "Jon Stewart torches Trump's dealings with Russia",
+          "link": "https://thehill.com/opinion/lindseys-lens/6163196-jon-stewart-torches-trumps-dealings-with-russia/"
         },
         {
-          "title": "Evacuation and shelter-in-place orders after chemical release in North Toledo",
-          "link": "https://thehill.com/homenews/state-watch/6161840-toledo-chemical-release-evacuation/"
+          "title": "Poll: Most Americans confident in safety of routine childhood vaccines",
+          "link": "https://thehill.com/policy/healthcare/6163029-poll-vaccine-safety-confidence/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-21T12:31:53.436Z"
+      "updatedAt": "2026-10-21T17:44:41.376Z"
     },
     "Ars Technica": {
       "items": [
@@ -111,47 +111,43 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-21T12:31:53.490Z"
+      "updatedAt": "2026-10-21T17:44:41.445Z"
     },
     "The Verge": {
       "items": [
         {
-          "title": "Spotify is busting free of CarPlay with the launch of its first native car app",
-          "link": "https://www.theverge.com/entertainment/1014261/spotify-native-car-app-audi-android-automotive-carplay"
+          "title": "Samsung’s latest 55-inch Frame TV is down to its lowest price yet",
+          "link": "https://www.theverge.com/gadgets/1015568/samsung-the-frame-tv-2026-deal-sale"
         },
         {
-          "title": "I can’t get enough of the iPhone Duo’s matte inner display",
-          "link": "https://www.theverge.com/tech/1014709/iphone-duo-inner-screen-nano-texture-matte"
+          "title": "EA is shutting down BioWare",
+          "link": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware"
         },
         {
-          "title": "The iPhone Duo is a messy, expensive, good time",
-          "link": "https://www.theverge.com/tech/1015028/iphone-duo-review"
+          "title": "They want your blood",
+          "link": "https://www.theverge.com/column/1015563/blood-death-clock-longevity-apps-health-tech"
         },
         {
-          "title": "A critical PHP vulnerability may take websites down today",
-          "link": "https://www.theverge.com/tech/1015257/php-vulnerability-patch-website-security-wordpress"
+          "title": "Supernatural’s comeback starts today, with more music and VR workouts coming soon",
+          "link": "https://www.theverge.com/tech/1015550/supernatural-vr-workout-app-relaunch"
         },
         {
-          "title": "YouTube might be testing hiding the dislike button",
-          "link": "https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu"
+          "title": "Apple Music has a new logo",
+          "link": "https://www.theverge.com/tech/1015533/apple-music-new-logo"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-21T12:31:53.565Z"
+      "updatedAt": "2026-10-21T17:44:41.498Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
-          "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss"
+          "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
+          "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Trump and Zelensky appear at loggerheads despite new optimism",
-          "link": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Katya Adler: France divided over who to blame for riots and what to learn from them",
-          "link": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss"
+          "title": "Macron accuses foreign leaders of exploiting French riots",
+          "link": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Australian MP loses both legs after alleged car attack, husband says",
@@ -168,54 +164,58 @@
         {
           "title": "Gambia to pay victims of Yahya Jammeh's rule from proceeds of his seized US mansion",
           "link": "https://www.bbc.co.uk/news/articles/cmn8wx75l2n8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Family of prison officer killed by IRA receives state apology",
+          "link": "https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-21T12:31:53.665Z"
+      "updatedAt": "2026-10-21T17:44:41.632Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
-          "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss"
+          "title": "Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences",
+          "link": "https://www.bbc.co.uk/news/articles/cy4zdgk081eo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Australian MP loses both legs after alleged car attack, husband says",
-          "link": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss"
+          "title": "Google staff resign in backlash over its AI contracts with military",
+          "link": "https://www.bbc.co.uk/news/articles/cmreyvepnv0po?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Lawyer caught by BBC offering to make illegal-worker fine go away",
-          "link": "https://www.bbc.co.uk/news/articles/c30rln4pz58xo?at_medium=RSS&at_campaign=rss"
+          "title": "Jailed former DUP leader Jeffrey Donaldson being investigated over alleged rape inside Parliament",
+          "link": "https://www.bbc.co.uk/news/articles/c94g1pjmxg0ko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Undercover filming shows lawyer advising how to avoid £45,000 illegal-worker fine",
-          "link": "https://www.bbc.co.uk/news/videos/cm93z1j33dkpo?at_medium=RSS&at_campaign=rss"
+          "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
+          "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Teenage boy guilty of trying to murder girl, 15, in school",
-          "link": "https://www.bbc.co.uk/news/articles/cm0j0q9znzdlo?at_medium=RSS&at_campaign=rss"
+          "title": "Aberfan disaster 'most tragic of days imaginable' says King on 60th anniversary",
+          "link": "https://www.bbc.co.uk/news/articles/crgj9d4zgj5yo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Hackers steal children's data after company used 'Password1' to protect old account",
-          "link": "https://www.bbc.co.uk/news/articles/c6r7y03e9m3ro?at_medium=RSS&at_campaign=rss"
+          "title": "'I was only 8 but I realised my friend was dead' - Aberfan survivor recalls moment of disaster",
+          "link": "https://www.bbc.co.uk/news/videos/c6n4e0vj018qo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-21T12:31:53.688Z"
+      "updatedAt": "2026-10-21T17:44:41.657Z"
     },
     "NY Times": {
       "items": [
+        {
+          "title": "In Trump’s World of International Diplomacy, Insults Are a One-Way Street",
+          "link": "https://www.nytimes.com/2026/10/21/us/politics/trumps-diplomacy-insults.html"
+        },
         {
           "title": "Russia Releases American Stephen Hubbard From Prison, State Media Reports",
           "link": "https://www.nytimes.com/2026/10/21/us/politics/russia-american-prisoner-release-stephen-hubbard-trump.html"
         },
         {
-          "title": "An American Teacher Went to Ukraine. Now He’s in a Russian Prison.",
-          "link": "https://www.nytimes.com/2025/02/09/world/europe/american-teacher-ukraine-russia-prison.html"
-        },
-        {
-          "title": "America’s Utility Bill Crisis, and Trump’s Approval Rating Hits a New Low",
-          "link": "https://www.nytimes.com/2026/10/21/podcasts/the-headlines/utility-bill-costs-trump-approval-rating.html"
+          "title": "When Starshield Cut Out, Ukrainian Drones Fell From the Skies",
+          "link": "https://www.nytimes.com/2026/10/21/world/europe/starshield-starlink-ukraine.html"
         },
         {
           "title": "A Billionaire Wanted a Trump Pardon. His Family Gave Alina Habba a $50 Million Deal.",
@@ -227,40 +227,52 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-21T12:31:53.817Z"
+      "updatedAt": "2026-10-21T17:44:41.720Z"
     },
     "ARTNews": {
       "items": [
         {
-          "title": "Can AI Help Identify the Sitters in Historical Portraits?",
-          "link": "https://www.artnews.com/art-news/news/can-ai-help-identify-sitters-in-centuries-old-portraits-1234803090/"
+          "title": "V&A Workers to Strike at All Four Sites Over Pay, Conditions",
+          "link": "https://www.artnews.com/art-news/news/va-workers-to-strike-at-all-four-sites-over-pay-conditions-1234803233/"
         },
         {
-          "title": "Rosana Paulino’s Pantheon of Black Plant Goddesses Arrives in Paris",
-          "link": "https://www.artnews.com/art-news/artists/rosana-paulino-mendes-wood-dm-paris-exhibition-1234803173/"
+          "title": "Melting Ron DeSantis Statue Makes a Point About Climate Change in Florida",
+          "link": "https://www.artnews.com/art-news/news/melting-ron-desantis-statue-florida-climate-change-1234803285/"
         },
         {
-          "title": "Art Basel Paris Opens Avant Première with ‘Good Energy,’ a Smattering of Sales, and One $100 M. Work",
-          "link": "https://www.artnews.com/art-news/market/art-basel-paris-avant-premiere-2026-sales-1234803150/"
+          "title": "Artists John Akomfrah, Ben Rivers, and Dozens Others Defend Sally Rooney in Open Letter",
+          "link": "https://www.artnews.com/art-news/news/artists-john-akomfrah-ben-rivers-defend-sally-rooney-open-letter-1234803220/"
         },
         {
-          "title": "National Museum of Korea Director Apologizes for Misattribution of a Work on Display",
+          "title": "National Museum of Korea Director Offers to Resign",
           "link": "https://www.artnews.com/art-news/news/national-museum-of-korea-director-private-collection-1234802510/"
         },
         {
-          "title": "James Gibson’s Cultural and Spiritual Legacy Lives on in His Sculptures",
-          "link": "https://www.artnews.com/art-news/sponsored-content/james-gibson-cultural-spiritual-legacy-livessculptures-1234799650/"
+          "title": "Chanel Becomes Lead Sponsor of Hong Kong’s M+ Museum in Expanded Three-Year Deal",
+          "link": "https://www.artnews.com/art-news/news/chanel-m-plus-hong-kong-museum-lead-partner-1234803225/"
         },
         {
-          "title": "Jenny Holzer on Paris Protests: ‘It’s Gruesome That Kids Have to Fight for a Better Education’",
-          "link": "https://www.artnews.com/art-news/news/jenny-holzer-paris-protests-1234803095/"
+          "title": "The Best Works at Art Basel Paris’s Public Program, From a Crowd of TV Screens to a Flock of Plush Animals",
+          "link": "https://www.artnews.com/list/art-news/market/art-basel-paris-2026-public-program-best-works-1234803248/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-21T12:31:53.939Z"
+      "updatedAt": "2026-10-21T17:44:41.952Z"
     },
     "Hyperallergic": {
       "items": [
+        {
+          "title": "Ilana Savdie and Chaïm Soutine Shed the Skin",
+          "link": "https://hyperallergic.com/ilana-savdie-and-chaim-soutine-shed-the-skin/"
+        },
+        {
+          "title": "“Costume Art” Is a Bad Look for The Met",
+          "link": "https://hyperallergic.com/costume-art-is-a-bad-look-for-the-met/"
+        },
+        {
+          "title": "MassArt Graduate Assistantships Provide Hands-On Experience to Launch Your Career",
+          "link": "https://hyperallergic.com/massart-graduate-assistantships-provide-hands-on-experience-to-launch-your-career/"
+        },
         {
           "title": "The Art World Has an AI Problem",
           "link": "https://hyperallergic.com/the-art-world-has-an-ai-problem/"
@@ -272,25 +284,17 @@
         {
           "title": "Dear Art World, We Can Tell When You’re Using AI",
           "link": "https://hyperallergic.com/dear-art-world-we-can-tell-when-youre-using-ai/"
-        },
-        {
-          "title": "Bathing With the Nymphs",
-          "link": "https://hyperallergic.com/bathing-with-the-nymphs/"
-        },
-        {
-          "title": "Sunset Park, Where You Can Still Get an Artist Studio for Under $600",
-          "link": "https://hyperallergic.com/sunset-park-where-you-can-still-get-an-artist-studio-for-under-600/"
-        },
-        {
-          "title": "V&A Museum Staff Set to Strike Across All Four London Sites",
-          "link": "https://hyperallergic.com/v-a-museum-staff-set-to-strike-across-all-four-london-sites/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-21T12:31:54.241Z"
+      "updatedAt": "2026-10-21T17:44:42.228Z"
     },
     "Contemporary Art Daily": {
       "items": [
+        {
+          "title": "Bruno Zhu at O—Overgaden",
+          "link": "https://www.contemporaryartdaily.com/project/bruno-zhu-at-o-overgaden-copenhagen-106484?source=rss"
+        },
         {
           "title": "Bruno Zhu at House of Gaga",
           "link": "https://www.contemporaryartdaily.com/project/bruno-zhu-at-house-of-gaga-mexico-city-110248?source=rss"
@@ -310,17 +314,17 @@
         {
           "title": "Julia Yerger at PAGE (NYC) and Dracula's Revenge, New York",
           "link": "https://www.contemporaryartdaily.com/project/julia-yerger-at-dracula-s-revenge-new-york-page-nyc-new-york-109751?source=rss"
-        },
-        {
-          "title": "<i>Chamanes y Robots (Shamans and Robots)</i> at Embajada",
-          "link": "https://www.contemporaryartdaily.com/project/chamanes-y-robots-shamans-and-robots-at-embajada-san-juan-102196?source=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-21T12:31:54.833Z"
+      "updatedAt": "2026-10-21T17:44:42.833Z"
     },
     "Booooooom": {
       "items": [
+        {
+          "title": "Artist Spotlight: Ykha Amelz",
+          "link": "https://www.booooooom.com/2026/10/21/artist-spotlight-ykha-amelz-2/"
+        },
         {
           "title": "“To Skip a Sinking Stone” by Photographer Daniel Dorsa",
           "link": "https://www.booooooom.com/2026/10/20/to-skip-a-sinking-stone-by-photographer-daniel-dorsa/"
@@ -340,14 +344,10 @@
         {
           "title": "Illustrator Spotlight: Yue Zhang",
           "link": "https://www.booooooom.com/2026/10/14/illustrator-spotlight-yue-zhang/"
-        },
-        {
-          "title": "“America’s Girls, On the Edge of a Dream” by Photographer Eva Verbeeck",
-          "link": "https://www.booooooom.com/2026/10/13/americas-girls-on-the-edge-of-a-dream-by-photographer-eva-verbeeck/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-21T12:31:54.962Z"
+      "updatedAt": "2026-10-21T17:44:42.959Z"
     }
   }
 }
