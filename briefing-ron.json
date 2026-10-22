@@ -1,65 +1,65 @@
 {
-  "fetchedAt": "2026-10-22T04:27:38.710Z",
+  "fetchedAt": "2026-10-22T09:58:15.351Z",
   "feeds": {
     "MarketWatch": {
       "items": [
         {
-          "title": "My father-in-law, 81, sold his $75,000 home and paid off his daughter’s $50,000 debt. What happens to him now?",
-          "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories"
+          "title": "Meta’s stock falls in early trading amid broader sector selloff, despite well-received results",
+          "link": "https://www.marketwatch.com/story/metas-stock-rises-as-investors-glimpse-an-opportunity-that-could-dwarf-the-ad-business-89369c6c?mod=mw_rss_topstories"
         },
         {
-          "title": "The Social Security Administration wants more babies signed up for ‘Trump accounts.’ But there’s still a catch.",
-          "link": "https://www.marketwatch.com/story/the-social-security-administration-wants-more-babies-signed-up-for-trump-accounts-but-theres-still-a-catch-4096f16e?mod=mw_rss_topstories"
+          "title": "A top strategist has a warning for retail investors chasing the AI rally",
+          "link": "https://www.marketwatch.com/story/top-hsbc-strategist-has-a-warning-for-retail-investors-chasing-the-ai-rally-e0318ada?mod=mw_rss_topstories"
         },
         {
-          "title": "This wonky maneuver kept Mark Zuckerberg from fleeing a California billionaire tax",
-          "link": "https://www.marketwatch.com/story/this-wonky-maneuver-kept-mark-zuckerberg-from-fleeing-a-california-billionaire-tax-1de34562?mod=mw_rss_topstories"
+          "title": "Why a JPMorgan strategist says the stock market’s tailspin might have run its course",
+          "link": "https://www.marketwatch.com/story/why-a-jpmorgan-strategist-says-the-stock-markets-tailspin-might-have-run-its-course-71571335?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Football legend Peyton Manning has invested millions in real estate, including 2 Denver homes",
+          "link": "https://www.marketwatch.com/story/football-legend-peyton-manning-has-invested-millions-in-real-estate-including-2-denver-homes-2c4e355f?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Why a global bank is slashing thousands of jobs — and what the Fed says about AI replacing workers",
+          "link": "https://www.marketwatch.com/story/why-a-global-bank-is-slashing-thousands-of-jobs-and-what-the-fed-says-about-ai-replacing-workers-9529b6ca?mod=mw_rss_topstories"
         },
         {
           "title": "Tesla’s stock falls as Elon Musk leaves investors wanting more",
           "link": "https://www.marketwatch.com/story/teslas-stock-falls-as-elon-musk-leaves-investors-wanting-more-eb347f38?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Meta’s stock rises as investors glimpse an opportunity that could dwarf the ad business",
-          "link": "https://www.marketwatch.com/story/metas-stock-rises-as-investors-glimpse-an-opportunity-that-could-dwarf-the-ad-business-89369c6c?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Why investors should be skeptical of a potential Tesla-SpaceX merger",
-          "link": "https://www.marketwatch.com/story/why-investors-should-be-skeptical-of-a-potential-tesla-spacex-merger-9e119d32?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T04:27:36.883Z"
+      "updatedAt": "2026-10-22T09:58:14.134Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Kansas Senate rivals distance themselves from party leaders in fiery debate",
-          "link": "https://www.foxnews.com/politics/kansas-senate-rivals-distance-themselves-from-party-leaders-fiery-debate"
+          "title": "Trump pushback, Biden 'disaster' and gender surprise: 5 key moments from Kansas Senate debate",
+          "link": "https://www.foxnews.com/politics/trump-pushback-biden-disaster-gender-surprise-5-key-moments-from-kansas-senate-debate"
         },
         {
-          "title": "Angel Reese delivers another double-double as Atlanta Dream take 2–1 lead in WNBA Finals",
-          "link": "https://www.foxnews.com/outkick-sports/angel-reese-delivers-double-double-atlanta-dream-takes-2-1-lead-wnba-finals"
+          "title": "MORNING GLORY: Trump must go to war on the airwaves to stop Democrats’ blue-wave blitz",
+          "link": "https://www.foxnews.com/opinion/morning-glory-trump-must-go-war-airwaves-stop-democrats-blue-wave-blitz"
         },
         {
-          "title": "Mass firings vow sparks clash with Klobuchar over Walz fraud legacy",
-          "link": "https://www.foxnews.com/politics/mass-firings-vow-sparks-clash-klobuchar-walz-fraud-legacy"
+          "title": "Independent voters aren’t picking a political team, they just feel picked on",
+          "link": "https://www.foxnews.com/opinion/independent-voters-arent-picking-political-team-feel-picked"
         },
         {
-          "title": "Trump dominates El-Sayed's attacks against Rogers, but GOP rival offers unexpected policy split",
-          "link": "https://www.foxnews.com/politics/trump-dominates-el-sayeds-attacks-against-rogers-gop-rival-offers-unexpected-policy-split"
+          "title": "We need to talk to communists because there is so much they need to learn",
+          "link": "https://www.foxnews.com/opinion/need-talk-communists-much-they-need-learn"
         },
         {
-          "title": "Luka Doncic buys out entire parking lot to give Lakers fans free parking for season opener",
-          "link": "https://www.foxnews.com/outkick-sports/luka-doncic-buys-entire-parking-lot-give-lakers-fans-free-parking-season-opener"
+          "title": "WATCH: Top 3 clashes in heated MN governor debate as Walz's legacy looms large: 'Change the culture'",
+          "link": "https://www.foxnews.com/politics/watch-top-3-clashes-heated-mn-governor-debate-walz-legacy-looms-large-change-culture"
         },
         {
-          "title": "Josh Jacobs 'remorseful' in first comments since domestic abuse arrest led to commissioner's exempt list stay",
-          "link": "https://www.foxnews.com/outkick-sports/josh-jacobs-remorseful-first-comments-domestic-abuse-arrest-commissioners-exempt-list-stay"
+          "title": "Abortion, ICE and socialism spark fireworks in swing state governor debate: 5 top moments",
+          "link": "https://www.foxnews.com/politics/abortion-ice-socialism-spark-fireworks-swing-state-governor-debate-5-top-moments"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T04:27:37.091Z"
+      "updatedAt": "2026-10-22T09:58:14.245Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -89,7 +89,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T04:27:37.430Z"
+      "updatedAt": "2026-10-22T09:58:14.514Z"
     },
     "The Hill": {
       "items": [
@@ -115,7 +115,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T04:27:37.957Z"
+      "updatedAt": "2026-10-22T09:58:15.035Z"
     },
     "Ars Technica": {
       "items": [
@@ -141,7 +141,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T04:27:38.158Z"
+      "updatedAt": "2026-10-22T09:58:15.098Z"
     },
     "The Verge": {
       "items": [
@@ -167,71 +167,71 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T04:27:38.242Z"
+      "updatedAt": "2026-10-22T09:58:15.141Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Websites taken down worldwide as critical cyber-security update issued",
-          "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss"
+          "title": "How Arab parties could hold critical balance of power in Israeli election",
+          "link": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "What is PHP and why did it spark a global cyber-security scramble?",
-          "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss"
+          "title": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
+          "link": "https://www.bbc.co.uk/news/articles/cr3wv99614deo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Two killed in attack on airport in eastern Saudi Arabia, authorities say",
+          "link": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Police investigate Married at First Sight Australia after 'inappropriate' allegations",
+          "link": "https://www.bbc.co.uk/news/articles/cry83vyw3y4lo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Two European women held captive for more than a year in Niger freed in Libya",
+          "link": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
           "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
-          "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
-          "link": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
-          "link": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Macron accuses foreign leaders of exploiting French riots",
-          "link": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss"
+          "title": "How do Israel's elections work and who are the main contenders?",
+          "link": "https://www.bbc.co.uk/news/articles/cx8dz75633vjo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T04:27:38.307Z"
+      "updatedAt": "2026-10-22T09:58:15.169Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences",
-          "link": "https://www.bbc.co.uk/news/articles/cy4zdgk081eo?at_medium=RSS&at_campaign=rss"
+          "title": "What is PHP and why did it spark an international cyber-security alert?",
+          "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Websites taken down worldwide as critical cyber-security update issued",
-          "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss"
+          "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+          "link": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-          "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
+          "title": "Rosenberg: Russia agrees to Ukraine talks but sees little to talk about in new peace push",
           "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Criminals who skip sentencing will face solitary confinement or lose social visits",
-          "link": "https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo?at_medium=RSS&at_campaign=rss"
+          "title": "How Arab parties could hold critical balance of power in Israeli election",
+          "link": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study",
-          "link": "https://www.bbc.co.uk/news/articles/cqlye4v721nwo?at_medium=RSS&at_campaign=rss"
+          "title": "Only one female scientist named in GCSEs, research finds",
+          "link": "https://www.bbc.co.uk/news/articles/c69wzv5pg447o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Dame Judi Dench: 'I can't do a play, a film or read any more'",
+          "link": "https://www.bbc.co.uk/news/articles/c6ly09v09lnjo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T04:27:38.343Z"
+      "updatedAt": "2026-10-22T09:58:15.176Z"
     },
     "NY Times": {
       "items": [
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T04:27:38.485Z"
+      "updatedAt": "2026-10-22T09:58:15.204Z"
     }
   },
   "indices": {
@@ -279,13 +279,13 @@
       },
       {
         "name": "Gold",
-        "price": 4105.8,
-        "pct": -1.3052570851662262
+        "price": 4101,
+        "pct": -1.4206389269488802
       },
       {
         "name": "Bitcoin",
-        "price": 82804.49,
-        "pct": 0.9594160277794026
+        "price": 81809.97,
+        "pct": -0.25315298179903417
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-22T04:27:38.710Z"
+    "updatedAt": "2026-10-22T09:58:15.351Z"
   }
 }
