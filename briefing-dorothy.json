@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-10-22T02:16:50.242Z",
+  "fetchedAt": "2026-10-22T08:03:44.600Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "ICE crackdown divides swing state candidates as GOP nominee vows to mandate sheriff cooperation",
-          "link": "https://www.foxnews.com/politics/ice-crackdown-divides-swing-state-candidates-as-gop-nominee-vows-to-mandate-sheriff-cooperation"
+          "title": "Kansas Senate rivals distance themselves from party leaders in fiery debate",
+          "link": "https://www.foxnews.com/politics/kansas-senate-rivals-distance-themselves-from-party-leaders-fiery-debate"
         },
         {
-          "title": "Ilhan Omar believes Trump raid on home was meant to 'intimidate and scare people' from voting",
-          "link": "https://www.foxnews.com/media/ilhan-omar-believes-trump-raid-home-meant-intimidate-scare-people-voting"
+          "title": "Angel Reese delivers another double-double as Atlanta Dream take 2–1 lead in WNBA Finals",
+          "link": "https://www.foxnews.com/outkick-sports/angel-reese-delivers-double-double-atlanta-dream-takes-2-1-lead-wnba-finals"
         },
         {
-          "title": "Boston Celtics' Paul George hit with flopping fine after 38-point debut ends in collapse",
-          "link": "https://www.foxnews.com/outkick-sports/boston-celtics-paul-george-flopping-fine-38-point-debut-ends-collapse"
+          "title": "Mass firings vow sparks clash with Klobuchar over Walz fraud legacy",
+          "link": "https://www.foxnews.com/politics/mass-firings-vow-sparks-clash-klobuchar-walz-fraud-legacy"
         },
         {
-          "title": "Florida attorney accused of threatening to shoot ICE agents while trying to buy gun",
-          "link": "https://www.foxnews.com/us/florida-attorney-accused-threatening-shoot-ice-agents-while-trying-buy-gun"
+          "title": "Trump dominates El-Sayed's attacks against Rogers, but GOP rival offers unexpected policy split",
+          "link": "https://www.foxnews.com/politics/trump-dominates-el-sayeds-attacks-against-rogers-gop-rival-offers-unexpected-policy-split"
         },
         {
-          "title": "Hillary Clinton scolds Matthew McConaughey for 'unfortunate' video supporting independent candidates",
-          "link": "https://www.foxnews.com/media/hillary-clinton-scolds-matthew-mcconaughey-unfortunate-video-supporting-independent-candidates"
+          "title": "Luka Doncic buys out entire parking lot to give Lakers fans free parking for season opener",
+          "link": "https://www.foxnews.com/outkick-sports/luka-doncic-buys-entire-parking-lot-give-lakers-fans-free-parking-season-opener"
         },
         {
-          "title": "Police called on two Maryland student reporters covering Mike Locksley's firing outside football complex",
-          "link": "https://www.foxnews.com/outkick-sports/police-called-two-maryland-student-reporters-covering-mike-lockseys-firing-outside-football-complex"
+          "title": "Josh Jacobs 'remorseful' in first comments since domestic abuse arrest led to commissioner's exempt list stay",
+          "link": "https://www.foxnews.com/outkick-sports/josh-jacobs-remorseful-first-comments-domestic-abuse-arrest-commissioners-exempt-list-stay"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T02:16:47.199Z"
+      "updatedAt": "2026-10-22T08:03:40.832Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,33 +59,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T02:16:47.420Z"
+      "updatedAt": "2026-10-22T08:03:41.123Z"
     },
     "The Hill": {
       "items": [
         {
+          "title": "Tiffany, Crowley tangle in only Wisconsin governor's debate: 3 takeaways",
+          "link": "https://thehill.com/homenews/campaign/6164326-tiffany-crowley-wisconsin-governor-debate-takeaways/"
+        },
+        {
+          "title": "Marshall, Hamilton clash in battleground Kansas Senate debate: 4 takeaways",
+          "link": "https://thehill.com/homenews/campaign/6164323-marshall-hamilton-clash-in-battleground-kansas-senate-debate-4-takeaways/"
+        },
+        {
+          "title": "WHCA condemns removal of journalist from White House pool",
+          "link": "https://thehill.com/media/6164506-whca-condemns-trump-retaliation/"
+        },
+        {
+          "title": "El-Sayed, Rogers face off in last Michigan Senate debate: 3 takeaways",
+          "link": "https://thehill.com/homenews/campaign/6164307-michigan-senate-debate-el-sayed-rogers-takeaways/"
+        },
+        {
           "title": "Omar said she will have to move due to threats following federal raid",
           "link": "https://thehill.com/homenews/house/6164465-omar-to-move-dc-residence/"
-        },
-        {
-          "title": "Democrats sue Trump administration over 'threats and intimidation' ahead of election",
-          "link": "https://thehill.com/regulation/court-battles/6164426-democrats-sue-trump-doj-voter-rolls/"
-        },
-        {
-          "title": "1 killed, 8 wounded in Saudi Arabia airport attack",
-          "link": "https://thehill.com/policy/international/6164397-houthi-attacked-king-fahd-airport/"
-        },
-        {
-          "title": "Greene says El-Sayed could win Senate seat if Trump attacks Iran again",
-          "link": "https://thehill.com/homenews/campaign/6164392-greene-warns-trump-iran-strikes/"
-        },
-        {
-          "title": "Trump to hold rally in Mississippi",
-          "link": "https://thehill.com/homenews/campaign/6164347-trump-mississippi-rally-midterms/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T02:16:48.193Z"
+      "updatedAt": "2026-10-22T08:03:41.688Z"
     },
     "Ars Technica": {
       "items": [
@@ -111,7 +111,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T02:16:48.433Z"
+      "updatedAt": "2026-10-22T08:03:41.848Z"
     },
     "The Verge": {
       "items": [
@@ -137,58 +137,50 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T02:16:48.544Z"
+      "updatedAt": "2026-10-22T08:03:42.039Z"
     },
     "BBC World": {
       "items": [
         {
+          "title": "What is PHP and why did it spark a global cyber-security scramble?",
+          "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "How Arab parties could hold critical balance of power in Israeli election",
+          "link": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
           "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
+          "title": "Rosenberg: Russia agrees to Ukraine talks but sees little to talk about in new peace push",
           "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Meta fined $25bn for 'lies' over user data privacy",
+          "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
+          "link": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Macron accuses foreign leaders of exploiting French riots",
           "link": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Pope does not need further treatment after lung cancer surgery",
-          "link": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
-          "link": "https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Family of prison officer killed by IRA receives state apology",
-          "link": "https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Ex-prosecutor charged with treason in Mexico over US drug raid",
-          "link": "https://www.bbc.co.uk/news/articles/ckx2qpw4rjd7o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T02:16:48.783Z"
+      "updatedAt": "2026-10-22T08:03:42.433Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences",
-          "link": "https://www.bbc.co.uk/news/articles/cy4zdgk081eo?at_medium=RSS&at_campaign=rss"
+          "title": "What is PHP and why did it spark an international cyber-security alert?",
+          "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Websites taken down worldwide as critical cyber-security update issued",
-          "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-          "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
+          "title": "Rosenberg: Russia agrees to Ukraine talks but sees little to talk about in new peace push",
           "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss"
         },
         {
@@ -198,10 +190,18 @@
         {
           "title": "Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study",
           "link": "https://www.bbc.co.uk/news/articles/cqlye4v721nwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Is the UK set to green-light a huge untapped oil field in the North Atlantic?",
+          "link": "https://www.bbc.co.uk/news/videos/cxnv0emj06v1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Dame Judi Dench: 'I can't do a play, a film or read any more'",
+          "link": "https://www.bbc.co.uk/news/articles/c6ly09v09lnjo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T02:16:48.894Z"
+      "updatedAt": "2026-10-22T08:03:42.596Z"
     },
     "NY Times": {
       "items": [
@@ -210,27 +210,31 @@
           "link": "https://www.nytimes.com/2026/10/21/us/politics/us-israel-renewed-iran-strikes.html"
         },
         {
+          "title": "MAGA Bingo and Questions of Loyalty: 5 Michigan Senate Debate Takeaways",
+          "link": "https://www.nytimes.com/2026/10/21/us/politics/michigan-senate-debate-takeaways-el-sayed-rogers.html"
+        },
+        {
+          "title": "Farmers, Health Care and Highways: 5 Takeaways from the Kansas Senate Debate",
+          "link": "https://www.nytimes.com/2026/10/21/us/kansas-senate-debate-marshall-hamilton-takeaways.html"
+        },
+        {
           "title": "Vance Defends Ramaswamy Ad Featuring Acton’s Mother Despite Backlash",
           "link": "https://www.nytimes.com/2026/10/21/us/politics/ramaswamy-acton-ad-ohio.html"
         },
         {
-          "title": "In Trump’s Diplomacy, Insults Are a One-Way Street. Ukraine Is the Latest Example.",
-          "link": "https://www.nytimes.com/2026/10/21/us/politics/trumps-diplomacy-insults.html"
-        },
-        {
-          "title": "What Putin Gains From Releasing an American Prisoner",
-          "link": "https://www.nytimes.com/video/us/100000011223251/what-putin-gains-from-releasing-an-american-prisoner.html"
-        },
-        {
-          "title": "When Starshield Cut Out, Ukrainian Drones Fell From the Skies",
-          "link": "https://www.nytimes.com/2026/10/21/world/europe/starshield-starlink-ukraine.html"
+          "title": "Judge Restricts D.H.S. Field Operations Aimed at Unearthing Voter Fraud",
+          "link": "https://www.nytimes.com/2026/10/21/us/politics/judge-dhs-voter-fraud-elections.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T02:16:49.042Z"
+      "updatedAt": "2026-10-22T08:03:42.780Z"
     },
     "ARTNews": {
       "items": [
+        {
+          "title": "The Best Booths at Art Basel Paris, From Tar Paintings to a Falling Knife",
+          "link": "https://www.artnews.com/list/art-news/market/art-basel-paris-2026-best-booths-1234803335/"
+        },
         {
           "title": "Florentina Holzinger Is Closing Out ‘Seaworld Venice’ With a ‘Final Dinner’ Made From Bodily Waste",
           "link": "https://www.artnews.com/art-news/news/florentina-holzinger-seaworld-venice-final-dinner-1234803314/"
@@ -250,14 +254,10 @@
         {
           "title": "Melting Ron DeSantis Statue Makes a Point About Climate Change in Florida",
           "link": "https://www.artnews.com/art-news/news/melting-ron-desantis-statue-florida-climate-change-1234803285/"
-        },
-        {
-          "title": "Artists John Akomfrah, Ben Rivers, and Dozens Others Defend Sally Rooney in Open Letter",
-          "link": "https://www.artnews.com/art-news/news/artists-john-akomfrah-ben-rivers-defend-sally-rooney-open-letter-1234803220/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T02:16:49.239Z"
+      "updatedAt": "2026-10-22T08:03:43.113Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T02:16:49.449Z"
+      "updatedAt": "2026-10-22T08:03:43.436Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T02:16:49.883Z"
+      "updatedAt": "2026-10-22T08:03:44.436Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T02:16:50.242Z"
+      "updatedAt": "2026-10-22T08:03:44.600Z"
     }
   }
 }
