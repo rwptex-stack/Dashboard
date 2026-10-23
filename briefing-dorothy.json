@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-22T21:59:53.651Z",
+  "fetchedAt": "2026-10-23T00:25:59.217Z",
   "feeds": {
     "Fox News": {
       "items": [
@@ -8,28 +8,28 @@
           "link": "https://www.foxnews.com/politics/trump-pushback-biden-disaster-gender-surprise-5-key-moments-from-kansas-senate-debate"
         },
         {
-          "title": "English soccer team apologizes for hosting an out of hand 'Wet & Wild' show at their clubhouse",
-          "link": "https://www.foxnews.com/outkick-sports/english-soccer-team-apologizes-hosting-out-of-hand-wet-wild-show-clubhouse"
+          "title": "Knicks superfans name their newborn 'Knickson Fyve' to honor historic NBA championship run",
+          "link": "https://www.foxnews.com/outkick-sports/knicks-superfans-name-newborn-knickson-fyve-honor-historic-nba-championship-run"
         },
         {
-          "title": "As seen on Fox and Friends: Spooktacular Halloween party ideas",
-          "link": "https://www.foxnews.com/deals/easy-halloween-party-ideas"
+          "title": "Teen dies after falling from moving carnival ride, and questions mount over safety",
+          "link": "https://www.foxnews.com/travel/teen-dies-falling-from-moving-carnival-ride-questions-mount-over-safety"
         },
         {
-          "title": "Tiger Woods wants to play a 'full TGL schedule' in 2027 after DUI arrest and rehab stint, golf peer reveals",
-          "link": "https://www.foxnews.com/outkick-sports/tiger-woods-wants-play-full-tgl-schedule-2027-after-dui-arrest-rehab-stint-golf-peer-reveals"
+          "title": "NYC votes to end nearly 170-year-old horse carriage tradition as Trump blasts ban, drivers threaten lawsuit",
+          "link": "https://www.foxnews.com/politics/nyc-votes-end-nearly-170-year-old-horse-carriage-tradition-trump-blasts-ban-drivers-threaten-lawsuit"
         },
         {
-          "title": "Trump rally exposes surprising cracks in MAGA base as Republicans face midterm test",
-          "link": "https://www.foxnews.com/politics/trump-rally-exposes-surprising-cracks-maga-base-republicans-face-midterm-test"
+          "title": "NFL fines three head coaches $250,000 for their conduct toward officials: report",
+          "link": "https://www.foxnews.com/outkick-sports/nfl-fines-three-head-coaches-250000-conduct-toward-officials-report"
         },
         {
-          "title": "Singham-linked nonprofits defy House ultimatum, blast 'MAGA-led witch hunt'",
-          "link": "https://www.foxnews.com/politics/singham-linked-nonprofits-defy-house-ultimatum-blast-maga-led-witch-hunt"
+          "title": "Erika Kirk rips 'absurd' 2029 trial timeline for Charlie Kirk's alleged assassin",
+          "link": "https://www.foxnews.com/us/erika-kirk-rips-absurd-2029-trial-timeline-charlie-kirks-alleged-assassin"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T21:59:50.267Z"
+      "updatedAt": "2026-10-23T00:25:55.848Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,91 +59,107 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T21:59:50.664Z"
+      "updatedAt": "2026-10-23T00:25:56.079Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Trump offers comments on whether he called Musk to restore Starlink to Ukraine",
-          "link": "https://thehill.com/homenews/administration/6166784-trump-musk-starlink-ukraine/"
+          "title": "Canadian diplomats barred interacting with US midterm candidates: Reports",
+          "link": "https://thehill.com/policy/international/6166951-canada-diplomats-barred-american-midterm-candidates/"
         },
         {
-          "title": "Collins calls for ad calling Jackson a 'creep' to be pulled",
-          "link": "https://thehill.com/homenews/campaign/6166517-collins-denounces-jackson-ad/"
+          "title": "Supreme Court rules NH can block voters from using student IDs",
+          "link": "https://thehill.com/homenews/campaign/6166987-supreme-court-new-hampshire-student-ids/"
         },
         {
-          "title": "Trump admin points finger at Musk in Starlink confusion",
-          "link": "https://thehill.com/homenews/6166712-trump-admin-points-finger-at-musk-in-starlink-confusion/"
+          "title": "Trump on Lewandowski probe reports: 'I want my people to be honest'",
+          "link": "https://thehill.com/homenews/administration/6166995-trump-calls-for-honest-staff/"
         },
         {
-          "title": "Moskowitz says constituent arrested after making threat on his life",
-          "link": "https://thehill.com/homenews/house/6166634-moskowitz-threatened-arrested-florida/"
+          "title": "Trump advances two wind projects",
+          "link": "https://thehill.com/newsletters/energy-environment/6166941-trump-advances-two-wind-projects/"
         },
         {
-          "title": "Live updates: Trump heads to Iowa campaign rally; DOJ indicts top Virginia Democrat",
-          "link": "https://thehill.com/homenews/administration/6164811-live-updates-donald-trump-iowa-midterm-elections/"
+          "title": "MAHA leader resigns from administration",
+          "link": "https://thehill.com/newsletters/healthcare/6166975-maha-leader-resigns-from-administration/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T21:59:51.238Z"
+      "updatedAt": "2026-10-23T00:25:56.456Z"
     },
     "Ars Technica": {
       "items": [
         {
+          "title": "Switch 2 security takes a hit as hackers unlock homebrew access",
+          "link": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/"
+        },
+        {
+          "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
+          "link": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/"
+        },
+        {
+          "title": "Latest estimate for Starship launches required to support a Moon landing? 22.",
+          "link": "https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/"
+        },
+        {
+          "title": "Comcast loses more customers, claims other ISPs' cheap prices are \"irrational\"",
+          "link": "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/"
+        },
+        {
           "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
           "link": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/"
-        },
-        {
-          "title": "Leaked Mass Effect: Universe trailer gives a taste of what we're all missing",
-          "link": "https://arstechnica.com/gaming/2026/10/leaked-mass-effect-universe-trailer-gives-a-taste-of-what-were-all-missing/"
-        },
-        {
-          "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
-          "link": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/"
-        },
-        {
-          "title": "\"Disillusioned\" MAHA leader quits as Trump admin's food agenda spoils: Report",
-          "link": "https://arstechnica.com/health/2026/10/disillusioned-maha-leader-quits-as-trump-admins-food-agenda-spoils-report/"
-        },
-        {
-          "title": "Electric or gas? BMW goes both ways with new 2027 X5 and iX5.",
-          "link": "https://arstechnica.com/cars/2026/10/electric-or-gas-bmw-goes-both-ways-with-new-2027-x5-and-ix5/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T21:59:51.298Z"
+      "updatedAt": "2026-10-23T00:25:56.535Z"
     },
     "The Verge": {
       "items": [
         {
+          "title": "Etsy is cracking down on AI slop listings",
+          "link": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing"
+        },
+        {
+          "title": "Spotify says yes, it is busting people for using Family Plan sharing too widely",
+          "link": "https://www.theverge.com/entertainment/1017214/spotify-family-plan-sharing-qr-codes"
+        },
+        {
+          "title": "The next-gen Xbox won’t cost you $1,800. It can’t. Can it?",
+          "link": "https://www.theverge.com/games/1016134/xbox-helix-price-1800-isnt-affordable-editorial"
+        },
+        {
+          "title": "Canva’s first AI image model plans designs before generating them",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model"
+        },
+        {
           "title": "PC shipments dropped over 20 percent in Q3 due to RAM price hikes",
           "link": "https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram"
-        },
-        {
-          "title": "Fall 2026 earnings watch",
-          "link": "https://www.theverge.com/tech/1016506/fall-2026-earnings-watch"
-        },
-        {
-          "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
-          "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns"
-        },
-        {
-          "title": "Meta turns Muse sharing back on",
-          "link": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts"
-        },
-        {
-          "title": "The FCC is beginning to block gadgets with ‘foreign surveillance chips’",
-          "link": "https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T21:59:51.374Z"
+      "updatedAt": "2026-10-23T00:25:56.601Z"
     },
     "BBC World": {
       "items": [
         {
+          "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
+          "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Trump says Musk has restored access to Ukraine's Starlink network",
+          "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
           "link": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
+          "link": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
+          "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Race to update services' computer systems after cyber-security flaw found",
@@ -152,26 +168,10 @@
         {
           "title": "Trump ordered to answer questions under oath in BBC lawsuit",
           "link": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Trump says Musk has restored Ukraine's internet access",
-          "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Crowd of 50 beats foreigner to death in South Africa",
-          "link": "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
-          "link": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "At least four dead after storm brings flooding to southern France",
-          "link": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T21:59:52.023Z"
+      "updatedAt": "2026-10-23T00:25:56.745Z"
     },
     "BBC News": {
       "items": [
@@ -184,24 +184,24 @@
           "link": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "AI discovered a massive cyber-security flaw - here's what happened",
-          "link": "https://www.bbc.co.uk/news/videos/cq0ld7e0jg2eo?at_medium=RSS&at_campaign=rss"
+          "title": "Musk has restored access to Ukraine's Starlink network, Trump says",
+          "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Trump ordered to answer questions under oath in BBC lawsuit",
-          "link": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss"
+          "title": "Raye wins the Mercury Prize with This Music May Contain Hope",
+          "link": "https://www.bbc.co.uk/news/articles/cw073mj02v72o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Prince William makes surprise appearance on Graham Norton Show",
-          "link": "https://www.bbc.co.uk/news/articles/c30rlpkglkwpo?at_medium=RSS&at_campaign=rss"
+          "title": "Amber warning in place as Storm Austen hits parts of UK",
+          "link": "https://www.bbc.co.uk/weather/articles/cq8ezy256e42o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Items recovered in search for missing fishing boat and crew",
-          "link": "https://www.bbc.co.uk/news/articles/c6m2dwddl3xlo?at_medium=RSS&at_campaign=rss"
+          "title": "Celebrity Traitors - paranoia deepens as traitor behaviour splits opinion",
+          "link": "https://www.bbc.co.uk/news/articles/cmqxn3133rdwo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T21:59:52.237Z"
+      "updatedAt": "2026-10-23T00:25:56.782Z"
     },
     "NY Times": {
       "items": [
@@ -218,19 +218,23 @@
           "link": "https://www.nytimes.com/2026/10/22/us/politics/chris-pappas-new-hampshire-senate.html"
         },
         {
-          "title": "How a Legal Backlash Against Big Tech Is Forcing Big Changes",
-          "link": "https://www.nytimes.com/2026/10/22/technology/tech-lawsuit-settlements-meta-google.html"
+          "title": "Trump Goes to Iowa, Hoping to Stop Farmers From Voting Blue",
+          "link": "https://www.nytimes.com/2026/10/22/briefing/trump-iowa-roller-coaster-safety.html"
         },
         {
-          "title": "Mortgage Rates Remain Above 7%, Pushing Home Prices Lower in Some Areas",
-          "link": "https://www.nytimes.com/2026/10/22/business/mortgage-rates-housing-costs.html"
+          "title": "Stocks See Steepest Decline in Months Amid A.I. Worries",
+          "link": "https://www.nytimes.com/2026/10/22/business/stocks-oil-prices.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T21:59:52.342Z"
+      "updatedAt": "2026-10-23T00:25:56.887Z"
     },
     "ARTNews": {
       "items": [
+        {
+          "title": "As Art Basel Paris Shutters for Weekend Protests, Satellite Fairs Keep Their Doors Open",
+          "link": "https://www.artnews.com/art-news/news/art-basel-paris-closing-early-satellite-fairs-ope-1234803619/"
+        },
         {
           "title": "Louvre Heist Suspect Denied Release As Investigators Unravel Tangled Testimonies",
           "link": "https://www.artnews.com/art-news/news/louvre-heist-suspect-denied-release-as-investigators-unravel-tangled-testimonies-1234803583/"
@@ -250,17 +254,17 @@
         {
           "title": "An $80 M. Kandinsky, Once Owned by the Guggenheim, Is Guaranteed to Beat a Record at Christie’s",
           "link": "https://www.artnews.com/art-news/market/80m-kandinsky-guggenheim-guaranteed-record-christies-1234803586/"
-        },
-        {
-          "title": "Mystery Skeleton in Roman Sarcophagus Beneath Westminster Abbey May Be a Medieval Abbot, Study Says",
-          "link": "https://www.artnews.com/art-news/news/skeleton-roman-sarcophagus-westminster-abbey-study-1234803556/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T21:59:52.484Z"
+      "updatedAt": "2026-10-23T00:25:58.145Z"
     },
     "Hyperallergic": {
       "items": [
+        {
+          "title": "Studio Museum Announces New Artists-in-Residence",
+          "link": "https://hyperallergic.com/studio-museum-announces-new-artists-in-residence/"
+        },
         {
           "title": "When Does a Woman Artist Reach Her \"Prime\"?",
           "link": "https://hyperallergic.com/when-does-a-woman-artist-reach-her-prime/"
@@ -280,14 +284,10 @@
         {
           "title": "The Cathedral of Learning Is Pittsburgh’s Secular Temple",
           "link": "https://hyperallergic.com/the-cathedral-of-learning-is-pittsburghs-secular-temple/"
-        },
-        {
-          "title": "Apply Now for Fully Funded Interdisciplinary MFA Program",
-          "link": "https://hyperallergic.com/apply-now-for-fully-funded-interdisciplinary-mfa-program/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T21:59:52.730Z"
+      "updatedAt": "2026-10-23T00:25:58.374Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T21:59:53.538Z"
+      "updatedAt": "2026-10-23T00:25:59.113Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T21:59:53.651Z"
+      "updatedAt": "2026-10-23T00:25:59.217Z"
     }
   }
 }
