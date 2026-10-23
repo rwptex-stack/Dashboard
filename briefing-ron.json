@@ -1,213 +1,225 @@
 {
-  "fetchedAt": "2026-10-23T09:52:41.219Z",
+  "fetchedAt": "2026-10-23T14:50:51.142Z",
   "feeds": {
     "MarketWatch": {
       "items": [
-        {
-          "title": "This market signal just occurred for only the second time since 1999. Here’s what happened and what it means.",
-          "link": "https://www.marketwatch.com/story/this-market-signal-just-occurred-for-only-the-second-time-since-1999-heres-what-happened-and-what-it-means-a126cf31?mod=mw_rss_topstories"
-        },
-        {
-          "title": "France is getting its credit rating reviewed by Moody’s. What to expect as French debt turmoil spills overseas.",
-          "link": "https://www.marketwatch.com/story/france-is-getting-its-credit-rating-reviewed-by-moodys-what-to-expect-as-french-debt-turmoil-spills-overseas-e39de111?mod=mw_rss_topstories"
-        },
         {
           "title": "This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%.",
           "link": "https://www.marketwatch.com/story/this-hot-ai-fueled-stock-has-been-in-a-rut-it-just-beat-earnings-expectations-by-36-4a4188cb?mod=mw_rss_topstories"
         },
         {
-          "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
-          "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories"
+          "title": "Young Americans are giving up on cars. It’s a path to financial freedom for some.",
+          "link": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories"
         },
         {
-          "title": "The mobile ambitions of SpaceX see telecom stocks get hit again. What the latest developments mean.",
-          "link": "https://www.marketwatch.com/story/the-mobile-ambitions-of-spacex-see-telecom-stocks-get-hit-again-what-the-latest-developments-mean-9a4159b5?mod=mw_rss_topstories"
+          "title": "Surging economy gets off to a good start in the fourth quarter — but there’s one big problem",
+          "link": "https://www.marketwatch.com/story/surging-economy-gets-off-to-a-good-start-in-the-fourth-quarter-but-theres-one-big-problem-5657f399?mod=mw_rss_topstories"
         },
         {
-          "title": "NBA star Precious Achiuwa signs on for $1.8 million condo in luxury Miami tower",
-          "link": "https://www.marketwatch.com/story/nba-star-precious-achiuwa-signs-on-for-1-8-million-condo-in-luxury-miami-tower-95d899c2?mod=mw_rss_topstories"
+          "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
+          "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories"
+        },
+        {
+          "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+          "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories"
+        },
+        {
+          "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
+          "link": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T09:52:40.157Z"
+      "updatedAt": "2026-10-23T14:50:48.502Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Trump pushback, Biden 'disaster' and gender surprise: 5 key moments from Kansas Senate debate",
-          "link": "https://www.foxnews.com/politics/trump-pushback-biden-disaster-gender-surprise-5-key-moments-from-kansas-senate-debate"
+          "title": "LeBron James doubles down with sneaky golf hip turns during national anthem after Trump's 'total disgrace' dig",
+          "link": "https://www.foxnews.com/outkick-sports/lebron-james-doubles-sneaky-golf-hip-turns-national-anthem-trump-total-disgrace-dig"
         },
         {
-          "title": "Antifa supporter charged with stealing GOP campaign signs in NY race to replace Stefanik",
-          "link": "https://www.foxnews.com/politics/antifa-supporter-charged-stealing-gop-campaign-signs-ny-race-replace-stefanik"
+          "title": "Kristin Cavallari cut father out of her life after he crossed ‘major line’ involving her kids",
+          "link": "https://www.foxnews.com/entertainment/kristin-cavallari-cut-father-life-crossed-major-line-involving-kids"
         },
         {
-          "title": "We represent Wyoming — California is waging war on our coal, we're going to keep mining",
-          "link": "https://www.foxnews.com/opinion/represent-wyoming-california-waging-war-coal-keep-mining"
+          "title": "College football team draws embarrassingly small crowd for what turns into Thursday night thriller",
+          "link": "https://www.foxnews.com/outkick-sports/college-football-team-draws-embarrassingly-small-crowd-thursday-night-thriller"
         },
         {
-          "title": "Bringing back the Monroe Doctrine is the ideal America First strategy",
-          "link": "https://www.foxnews.com/opinion/bringing-back-monroe-doctrine-ideal-america-first-strategy"
+          "title": "Jackson again publicly breaks with Supreme Court as justices side with GOP in last-minute voter ID fight",
+          "link": "https://www.foxnews.com/politics/jackson-publicly-breaks-supreme-court-justices-side-gop-last-minute-voter-id-fight"
         },
         {
-          "title": "Trump can’t let Iran turn a military defeat into a diplomatic victory",
-          "link": "https://www.foxnews.com/opinion/trump-cant-let-iran-turn-military-defeat-into-diplomatic-victory"
+          "title": "Fox News AI Newsletter: What we saw inside a massive Texas data center",
+          "link": "https://www.foxnews.com/tech/fox-news-ai-newsletter-what-we-saw-inside-massive-texas-data-center"
         },
         {
-          "title": "Two suspected gunmen killed after shooting wounds 5 Israelis in West Bank",
-          "link": "https://www.foxnews.com/world/two-suspected-gunmen-killed-shooting-wounds-5-israelis-west-bank"
+          "title": "Serbia’s longtime leader faces biggest political test as students mount election challenge",
+          "link": "https://www.foxnews.com/world/serbias-longtime-leader-faces-biggest-political-test-students-mount-election-challenge"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T09:52:40.230Z"
+      "updatedAt": "2026-10-23T14:50:48.763Z"
     },
     "Real Clear Politics": {
       "items": [
         {
+          "title": "Justice Kagan's Partisanship Problem",
+          "link": "https://www.realclearpolitics.com/2026/10/23/justice_kagans_partisanship_problem_715070.html"
+        },
+        {
+          "title": "Clinton Supports Expanding SCOTUS If Democrats Win",
+          "link": "https://www.realclearpolitics.com/2026/10/23/clinton_supports_expanding_scotus_if_democrats_win_715110.html"
+        },
+        {
           "title": "A Shocking Reminder of How Much Poorer Europe Is",
-          "link": "https://www.realclearpolitics.com/2026/10/22/a_shocking_reminder_of_how_much_poorer_europe_is_715060.html"
+          "link": "https://www.realclearpolitics.com/2026/10/23/a_shocking_reminder_of_how_much_poorer_europe_is_715060.html"
         },
         {
           "title": "Trump Sells Out Ukraine, Europe's Leaders Can't Trust U.S.",
-          "link": "https://www.realclearpolitics.com/2026/10/22/trump_sells_out_ukraine_europes_leaders_cant_trust_us_715044.html"
+          "link": "https://www.realclearpolitics.com/2026/10/23/trump_sells_out_ukraine_europes_leaders_cant_trust_us_715044.html"
         },
         {
-          "title": "Illegal Alien Killed My Daughter. It Could've Been Stopped",
-          "link": "https://www.realclearpolitics.com/2026/10/22/illegal_alien_killed_my_daughter_it_couldve_been_stopped_715064.html"
+          "title": "A Viable Path to Russia-Ukraine Peace",
+          "link": "https://www.realclearpolitics.com/2026/10/23/a_viable_path_to_russia-ukraine_peace_714875.html"
         },
         {
-          "title": "Sen. Slotkin on Her Accountability Plan for Democrats",
-          "link": "https://www.realclearpolitics.com/2026/10/22/sen_slotkin_on_her_accountability_plan_for_democrats_715016.html"
-        },
-        {
-          "title": "Justice Kagan's Partisanship Problem",
-          "link": "https://www.realclearpolitics.com/2026/10/22/justice_kagans_partisanship_problem_715070.html"
-        },
-        {
-          "title": "The Supreme Court Is Coming for Affirmative Action--Again",
-          "link": "https://www.realclearpolitics.com/2026/10/21/the_supreme_court_is_coming_for_affirmative_action--again_714925.html"
+          "title": "What Might a Miss Look Like?",
+          "link": "https://www.realclearpolitics.com/2026/10/23/what_might_a_miss_look_like_715071.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T09:52:40.319Z"
+      "updatedAt": "2026-10-23T14:50:49.000Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "DOJ asks appeals court to intervene for California mail-in ballot lawsuit",
-          "link": "https://thehill.com/regulation/court-battles/6167264-doj-blocks-california-mail-in-ballots/"
+          "title": "Manchin: Collins should leave GOP, become an independent",
+          "link": "https://thehill.com/homenews/campaign/6167792-manchin-urges-collins-become-independent/"
         },
         {
-          "title": "Trump announces he'll use Defense Production Act to increase domestic gas production",
-          "link": "https://thehill.com/homenews/administration/6167274-trump-invokes-defense-production-act/"
+          "title": "WSJ editorial board hits Marshall for backing Social Security tax increase",
+          "link": "https://thehill.com/homenews/senate/6167702-wsj-editorial-board-hits-marshall-for-backing-social-security-tax-increase/"
         },
         {
-          "title": "Treasury proposes curbs on high-tech investments in China, Russia, North Korea",
-          "link": "https://thehill.com/homenews/administration/6167231-treasury-proposes-curbs-artificial-intelligence/"
+          "title": "Cook Political Report shifts 19 House seats in Democrats' favor",
+          "link": "https://thehill.com/homenews/campaign/6167727-cook-political-report-democrats-19-house-seats/"
         },
         {
-          "title": "Trump on controversial Acton ad: ‘Why would you shield somebody from that?’",
-          "link": "https://thehill.com/homenews/campaign/6167221-trump-supports-ramaswamy-controversial-advertisement/"
+          "title": "Ty Cobb predicts Trump will likely skip deposition, dismiss BBC lawsuit",
+          "link": "https://thehill.com/homenews/administration/6167716-ty-cobb-trump-bbc-lawsuit/"
         },
         {
-          "title": "Rollins: Trump administration going 'full-bore ahead' on Forest Service reorganization",
-          "link": "https://thehill.com/homenews/administration/6167143-trump-forest-service-restructuring-agriculture-secretary/"
+          "title": "40 years after the Anti-Drug Abuse Act, punishment is law and treatment is lacking",
+          "link": "https://thehill.com/opinion/criminal-justice/6166028-anti-drug-abuse-act-legacy/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T09:52:40.880Z"
+      "updatedAt": "2026-10-23T14:50:49.764Z"
     },
     "Ars Technica": {
       "items": [
         {
+          "title": "The reactor meant to showcase nuclear’s comeback keeps hitting problems",
+          "link": "https://arstechnica.com/tech-policy/2026/10/safety-concerns-cloud-americas-flagship-nuclear-restart/"
+        },
+        {
+          "title": "Ukraine learns to fight without Starlink as Musk plays politics with satellites",
+          "link": "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/"
+        },
+        {
+          "title": "Review: Crystal Lake suffers a bit from its obsession with Pam Voorhees",
+          "link": "https://arstechnica.com/culture/2026/10/review-crystal-lake-suffers-a-bit-from-its-obsession-with-pam-voorhees/"
+        },
+        {
+          "title": "Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready",
+          "link": "https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready/"
+        },
+        {
           "title": "Switch 2 security takes a hit as hackers unlock homebrew access",
           "link": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/"
-        },
-        {
-          "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
-          "link": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/"
-        },
-        {
-          "title": "Latest estimate for Starship launches required to support a Moon landing? 22.",
-          "link": "https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/"
-        },
-        {
-          "title": "Comcast loses more customers, claims other ISPs' cheap prices are \"irrational\"",
-          "link": "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/"
-        },
-        {
-          "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
-          "link": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T09:52:40.923Z"
+      "updatedAt": "2026-10-23T14:50:49.931Z"
     },
     "The Verge": {
       "items": [
         {
-          "title": "Etsy is cracking down on AI slop listings",
-          "link": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing"
+          "title": "Meta delays new business terms after publisher pushback on AI scraping",
+          "link": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping"
         },
         {
-          "title": "Spotify says yes, it is busting people for using Family Plan sharing too widely",
-          "link": "https://www.theverge.com/entertainment/1017214/spotify-family-plan-sharing-qr-codes"
+          "title": "The Sigma FP2 brings significant upgrades to the ‘world’s smallest’ full-frame camera",
+          "link": "https://www.theverge.com/tech/1017410/sigma-fp2-mirrorless-full-frame-modular-camera-upgrade"
         },
         {
-          "title": "The next-gen Xbox won’t cost you $1,800. It can’t. Can it?",
-          "link": "https://www.theverge.com/games/1016134/xbox-helix-price-1800-isnt-affordable-editorial"
+          "title": "Our best tips for using the iPhone Duo",
+          "link": "https://www.theverge.com/tech/1017157/iphone-duo-tips-touch-id-magsafe"
         },
         {
-          "title": "Canva’s first AI image model plans designs before generating them",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model"
+          "title": "Apple revives the original iPod as an Apple Music easter egg",
+          "link": "https://www.theverge.com/entertainment/1017413/apple-music-ipod-404-page"
         },
         {
-          "title": "PC shipments dropped over 20 percent in Q3 due to RAM price hikes",
-          "link": "https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram"
+          "title": "People are vibe coding their way to better TVs",
+          "link": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T09:52:40.966Z"
+      "updatedAt": "2026-10-23T14:50:50.094Z"
     },
     "BBC World": {
       "items": [
+        {
+          "title": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
+          "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
           "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
-          "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss"
+          "title": "Six shot dead by gunmen at church funeral in Jordan, officials say",
+          "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
-          "link": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
-          "link": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
+          "title": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
           "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Trump ordered to answer questions under oath in BBC lawsuit",
-          "link": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss"
+          "title": "Cyprus police open investigation into financial affairs of Roman Abramovich",
+          "link": "https://www.bbc.co.uk/news/articles/c875p1yy90ryo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Nigeria and Kenya Ebola patients may have crossed paths at Uganda airport, officials say",
-          "link": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss"
+          "title": "Melania Trump brokers truce for Ukraine city 'on brink of disaster', White House says",
+          "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Denmark to ban mink farming in government U-turn",
+          "link": "https://www.bbc.co.uk/news/articles/c59vzjm118j1o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T09:52:40.998Z"
+      "updatedAt": "2026-10-23T14:50:50.279Z"
     },
     "BBC News": {
       "items": [
         {
+          "title": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
+          "link": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Watch: BBC presenter battles strong winds as storm hits Newquay",
           "link": "https://www.bbc.co.uk/news/videos/cmzxlgkyl3vpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
+          "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Burnham suggests stocking up on tinned food and bottled water",
+          "link": "https://www.bbc.co.uk/news/articles/ckr5yz2pqqppo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Detective raped by colleague says Met handling of case 'like being raped again'",
@@ -216,84 +228,72 @@
         {
           "title": "Watch: Met chief Rowley not fit for job, says detective raped by colleague",
           "link": "https://www.bbc.co.uk/news/videos/c3wyv7lr15nvo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
-          "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-          "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Raye wins the Mercury Prize with This Music May Contain Hope",
-          "link": "https://www.bbc.co.uk/news/articles/cw073mj02v72o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T09:52:41.005Z"
+      "updatedAt": "2026-10-23T14:50:50.573Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "Pete Ricketts’s Wealth Puts Class at the Center of Nebraska’s Senate Race",
-          "link": "https://www.nytimes.com/2026/10/22/us/politics/pete-ricketts-billionaire-nebraska-senate-race.html"
+          "title": "Big Names Flock to Ruby-Red Florida to Sway Voters in Unexpectedly Close Contests",
+          "link": "https://www.nytimes.com/2026/10/23/us/politics/florida-republicans-midterms-.html"
         },
         {
-          "title": "Chris Pappas Could Make History in New Hampshire’s Senate Race",
-          "link": "https://www.nytimes.com/2026/10/22/us/politics/chris-pappas-new-hampshire-senate.html"
+          "title": "The A.I.-Powered Cameras Watching Border Towns, and a Midterms Attack Ad Causes Outrage",
+          "link": "https://www.nytimes.com/2026/10/23/podcasts/the-headlines/ai-cameras-border-towns-midterms-ad.html"
         },
         {
-          "title": "Bernie Sanders Gives $1 Million to Bolster El-Sayed and Counter AIPAC in Michigan",
-          "link": "https://www.nytimes.com/2026/10/22/us/politics/sanders-el-sayed-aipac-michigan.html"
-        },
-        {
-          "title": "Trump Asked Musk to Reverse Limits on Ukraine’s Military Internet Use",
-          "link": "https://www.nytimes.com/2026/10/22/us/politics/starshield-outage-ukraine-musk-trump.html"
+          "title": "Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say",
+          "link": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html"
         },
         {
           "title": "Gadi Eisenkot Couldn’t Be More Unlike Netanyahu. Can He Beat Him?",
           "link": "https://www.nytimes.com/2026/10/23/world/middleeast/gadi-eisenkot-israel-election.html"
+        },
+        {
+          "title": "Hegseth Barred Trans Troops. Military Boards Are Rejecting Those Orders.",
+          "link": "https://www.nytimes.com/2026/10/23/us/trans-troops-military-boards-retain.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T09:52:41.029Z"
+      "updatedAt": "2026-10-23T14:50:50.950Z"
     }
   },
   "indices": {
     "data": [
       {
         "name": "S&P 500",
-        "price": 7663.43,
-        "pct": -1.0411851147847526
+        "price": 7649.23,
+        "pct": -0.1332995623700954
       },
       {
         "name": "Dow Jones",
-        "price": 52867.98,
-        "pct": 1.3229600620495097
+        "price": 52286.41,
+        "pct": 0.5461285351967341
       },
       {
         "name": "Nasdaq",
-        "price": 26008.86,
-        "pct": -2.636054389936291
+        "price": 26082.666,
+        "pct": -0.219448868268314
       },
       {
         "name": "Gold",
-        "price": 4037,
-        "pct": -2.9590634840508727
+        "price": 4010.8,
+        "pct": -3.588856037114496
       },
       {
         "name": "Bitcoin",
-        "price": 81543.22,
-        "pct": -0.37911616284401684
+        "price": 81701.59,
+        "pct": -0.1856364428465734
       },
       {
         "name": "SpaceX",
-        "price": 144.75,
-        "pct": -2.6039563988696033
+        "price": 148.796,
+        "pct": 1.8941313428747455
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-23T09:52:41.219Z"
+    "updatedAt": "2026-10-23T14:50:51.142Z"
   }
 }
