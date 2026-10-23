@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-10-23T05:32:20.696Z",
+  "fetchedAt": "2026-10-23T10:39:22.147Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Trump pushback, Biden 'disaster' and gender surprise: 5 key moments from Kansas Senate debate",
-          "link": "https://www.foxnews.com/politics/trump-pushback-biden-disaster-gender-surprise-5-key-moments-from-kansas-senate-debate"
+          "title": "Fox News Digital's News Quiz: October 23, 2026",
+          "link": "https://www.foxnews.com/lifestyle/fox-news-digital-news-quiz-october-23-2026"
         },
         {
-          "title": "Blanche won't rule out DOJ blocking election certification in 'doomsday' scenario",
-          "link": "https://www.foxnews.com/politics/blanche-wont-rule-out-doj-blocking-election-certification-doomsday-scenario"
+          "title": "Popular sleep aids before surgery could prevent painkiller dependence later",
+          "link": "https://www.foxnews.com/health/popular-sleep-aids-surgery-prevent-painkiller-dependence"
         },
         {
-          "title": "Drake Maye's end-zone interception proves costly as Patriots fall 30-24 to Bears in primetime",
-          "link": "https://www.foxnews.com/outkick-sports/drake-maye-end-zone-interception-proves-costly-patriots-fall-30-24-bears-primetime"
+          "title": "'Saturday Night Live' star would sit Shane Gillis down 'like a little kid' over provocative monologue",
+          "link": "https://www.foxnews.com/media/saturday-night-live-star-sit-shane-gillis-little-kid-provocative-monologue"
         },
         {
-          "title": "Utah man charged with attempted hate crime after alleged threat to 'blow up' synagogue",
-          "link": "https://www.foxnews.com/us/utah-man-charged-attempted-hate-crime-alleged-threat-blow-up-synagogue"
+          "title": "JONATHAN TURLEY: Chris Hayes had Ilhan Omar in the hot seat — and failed to ask these 10 questions",
+          "link": "https://www.foxnews.com/opinion/jonathan-turley-chris-hayes-ilhan-omar-hot-seat-failed-ask-10-questions"
         },
         {
-          "title": "Rhamondre Stevenson's miraculous 48-yard touchdown stuns Bears as clock expires in first half",
-          "link": "https://www.foxnews.com/outkick-sports/rhamondre-stevenson-miraculous-48-yard-touchdown-stuns-bears-clock-expires-first-half"
+          "title": "Trump sidelines sweeping Russia sanctions as GOP allies warn pressure on Putin is slipping",
+          "link": "https://www.foxnews.com/politics/trump-sidelines-sweeping-russia-sanctions-gop-allies-warn-pressure-putin-slipping"
         },
         {
-          "title": "Todd Benzinger, who caught the final out of the Reds' 1990 World Series sweep, dead at 63",
-          "link": "https://www.foxnews.com/outkick-sports/todd-benzinger-caught-final-out-reds-1990-world-series-sweep-dead-63"
+          "title": "Gabby Petito court battle could decide whether Charlie Kirk family can prevail in Utah wrongful death lawsuit",
+          "link": "https://www.foxnews.com/us/gabby-petito-court-battle-decide-charlie-kirk-family-prevail-utah-wrongful-death-lawsuit"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T05:32:19.324Z"
+      "updatedAt": "2026-10-23T10:39:19.332Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,33 +59,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T05:32:19.513Z"
+      "updatedAt": "2026-10-23T10:39:19.575Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "DOJ asks appeals court to intervene for California mail-in ballot lawsuit",
-          "link": "https://thehill.com/regulation/court-battles/6167264-doj-blocks-california-mail-in-ballots/"
+          "title": "Free lunch, transgender athletes: Voters nationwide face major education decisions",
+          "link": "https://thehill.com/homenews/education/6165686-free-lunch-transgender-athletes-state-education-votes/"
         },
         {
-          "title": "Trump announces he'll use Defense Production Act to increase domestic gas production",
-          "link": "https://thehill.com/homenews/administration/6167274-trump-invokes-defense-production-act/"
+          "title": "We analyzed Judge Reyes’s record in Trump cases. Here’s what we found",
+          "link": "https://thehill.com/regulation/court-battles/6166586-judge-ana-reyes-donald-trump-cases/"
         },
         {
-          "title": "Treasury proposes curbs on high-tech investments in China, Russia, North Korea",
-          "link": "https://thehill.com/homenews/administration/6167231-treasury-proposes-curbs-artificial-intelligence/"
+          "title": "GOP pushes for oversight of Musk’s dominance of space",
+          "link": "https://thehill.com/homenews/senate/6166981-rep-lawmakers-scrutinize-spacex-monopoly/"
         },
         {
-          "title": "Trump on controversial Acton ad: ‘Why would you shield somebody from that?’",
-          "link": "https://thehill.com/homenews/campaign/6167221-trump-supports-ramaswamy-controversial-advertisement/"
+          "title": "What Democrats would do about Gen Z’s housing crisis if they win Congress",
+          "link": "https://thehill.com/homenews/senate/6166745-gen-z-housing-affordability/"
         },
         {
-          "title": "Rollins: Trump administration going 'full-bore ahead' on Forest Service reorganization",
-          "link": "https://thehill.com/homenews/administration/6167143-trump-forest-service-restructuring-agriculture-secretary/"
+          "title": "Trump ties big promises to GOP midterm election wins",
+          "link": "https://thehill.com/homenews/administration/6166920-trump-midterm-campaign-promises-republicans/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T05:32:19.724Z"
+      "updatedAt": "2026-10-23T10:39:20.148Z"
     },
     "Ars Technica": {
       "items": [
@@ -111,10 +111,14 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T05:32:19.862Z"
+      "updatedAt": "2026-10-23T10:39:20.204Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "No, the iPhone Duo isn’t a small phone",
+          "link": "https://www.theverge.com/tech/1017090/iphone-duo-screen-size-mini"
+        },
         {
           "title": "Etsy is cracking down on AI slop listings",
           "link": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing"
@@ -130,51 +134,63 @@
         {
           "title": "Canva’s first AI image model plans designs before generating them",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model"
-        },
-        {
-          "title": "PC shipments dropped over 20 percent in Q3 due to RAM price hikes",
-          "link": "https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T05:32:19.931Z"
+      "updatedAt": "2026-10-23T10:39:20.293Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
-          "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Trump says Musk has restored access to Ukraine's Starlink network",
+          "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
           "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
-          "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss"
+          "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
+          "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Trump ordered to answer questions under oath in BBC lawsuit",
-          "link": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss"
+          "title": "Cyprus police open investigation into financial affairs of Roman Abramovich",
+          "link": "https://www.bbc.co.uk/news/articles/c875p1yy90ryo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Nigeria and Kenya Ebola patients may have crossed paths at Uganda airport, officials say",
+          "title": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
+          "link": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
+          "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Woman with Ebola in Nigeria confirmed as wife of Swiss diplomat",
           "link": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
-          "link": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Race to update services' computer systems after cyber-security flaw found",
-          "link": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss"
+          "title": "Rubio turns to small Indian town as US faces high oil prices",
+          "link": "https://www.bbc.co.uk/news/articles/c3x2wnk8ejq5o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T05:32:19.982Z"
+      "updatedAt": "2026-10-23T10:39:20.507Z"
     },
     "BBC News": {
       "items": [
+        {
+          "title": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
+          "link": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Watch: BBC presenter battles strong winds as storm hits Newquay",
+          "link": "https://www.bbc.co.uk/news/videos/cmzxlgkyl3vpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
+          "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Cyprus police open investigation into financial affairs of Roman Abramovich",
+          "link": "https://www.bbc.co.uk/news/articles/c875p1yy90ryo?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "Detective raped by colleague says Met handling of case 'like being raped again'",
           "link": "https://www.bbc.co.uk/news/articles/ckdd83dz0153o?at_medium=RSS&at_campaign=rss"
@@ -182,26 +198,10 @@
         {
           "title": "Watch: Met chief Rowley not fit for job, says detective raped by colleague",
           "link": "https://www.bbc.co.uk/news/videos/c3wyv7lr15nvo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Musk has restored access to Ukraine's Starlink network, Trump says",
-          "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Amber warning in place as Storm Austen hits parts of UK",
-          "link": "https://www.bbc.co.uk/weather/articles/cq8ezy256e42o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Chancellor plans to cut 'pointless paperwork' to save businesses up to £800m",
-          "link": "https://www.bbc.co.uk/news/articles/cm5ynpywq1e3o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Raye wins the Mercury Prize with This Music May Contain Hope",
-          "link": "https://www.bbc.co.uk/news/articles/cw073mj02v72o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T05:32:19.997Z"
+      "updatedAt": "2026-10-23T10:39:20.689Z"
     },
     "NY Times": {
       "items": [
@@ -210,27 +210,31 @@
           "link": "https://www.nytimes.com/2026/10/22/us/politics/pete-ricketts-billionaire-nebraska-senate-race.html"
         },
         {
-          "title": "Chris Pappas Could Make History in New Hampshire’s Senate Race",
-          "link": "https://www.nytimes.com/2026/10/22/us/politics/chris-pappas-new-hampshire-senate.html"
+          "title": "The Michigan Senate Race Keeps Getting Nastier",
+          "link": "https://www.nytimes.com/2026/10/23/us/rogers-michigan-republican-senate.html"
         },
         {
-          "title": "Bernie Sanders Gives $1 Million to Bolster El-Sayed and Counter AIPAC in Michigan",
-          "link": "https://www.nytimes.com/2026/10/22/us/politics/sanders-el-sayed-aipac-michigan.html"
+          "title": "Most Voters Believe the Midterm Elections Will Be Accurate, Poll Finds",
+          "link": "https://www.nytimes.com/2026/10/23/us/politics/election-integrity-trust-poll.html"
         },
         {
-          "title": "Trump Asked Musk to Reverse Limits on Ukraine’s Military Internet Use",
-          "link": "https://www.nytimes.com/2026/10/22/us/politics/starshield-outage-ukraine-musk-trump.html"
+          "title": "In Final Surge of Vast Midterm Spending, Parties Make Last-Ditch Appeals",
+          "link": "https://www.nytimes.com/2026/10/23/us/midterm-campaign-finance.html"
         },
         {
-          "title": "Gadi Eisenkot Couldn’t Be More Unlike Netanyahu. Can He Beat Him?",
-          "link": "https://www.nytimes.com/2026/10/23/world/middleeast/gadi-eisenkot-israel-election.html"
+          "title": "The A.I.-Powered Cameras Watching Border Towns, and a Midterms Attack Ad Causes Outrage",
+          "link": "https://www.nytimes.com/2026/10/23/podcasts/the-headlines/ai-cameras-border-towns-midterms-ad.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T05:32:20.084Z"
+      "updatedAt": "2026-10-23T10:39:20.821Z"
     },
     "ARTNews": {
       "items": [
+        {
+          "title": "How Did ‘American Gothic’ Become So Iconic? This Art Historian Spent Five Decades Investigating.",
+          "link": "https://www.artnews.com/art-in-america/aia-reviews/american-gothic-wanda-corn-iconic-midwest-grant-wood-1234803480/"
+        },
         {
           "title": "As Art Basel Paris Shutters for Weekend Protests, Satellite Fairs Keep Their Doors Open",
           "link": "https://www.artnews.com/art-news/news/art-basel-paris-closing-early-satellite-fairs-ope-1234803619/"
@@ -250,17 +254,17 @@
         {
           "title": "Turkish Authorities Seize 2000-Year-Old Marble Head of Zeus",
           "link": "https://www.artnews.com/art-news/news/turkish-authorities-seize-2000-year-old-marble-head-of-zeus-1234803597/"
-        },
-        {
-          "title": "An $80 M. Kandinsky, Once Owned by the Guggenheim, Is Guaranteed to Beat a Record at Christie’s",
-          "link": "https://www.artnews.com/art-news/market/80m-kandinsky-guggenheim-guaranteed-record-christies-1234803586/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T05:32:20.168Z"
+      "updatedAt": "2026-10-23T10:39:21.066Z"
     },
     "Hyperallergic": {
       "items": [
+        {
+          "title": "Au Revoir, Art Basel Paris",
+          "link": "https://hyperallergic.com/au-revoir-art-basel-paris/"
+        },
         {
           "title": "Studio Museum Announces New Artists-in-Residence",
           "link": "https://hyperallergic.com/studio-museum-announces-new-artists-in-residence/"
@@ -280,14 +284,10 @@
         {
           "title": "Shuttering Early, Art Basel Paris Also Removes Public Sculptures",
           "link": "https://hyperallergic.com/shuttering-early-art-basel-paris-also-removes-public-sculptures/"
-        },
-        {
-          "title": "The Cathedral of Learning Is Pittsburgh’s Secular Temple",
-          "link": "https://hyperallergic.com/the-cathedral-of-learning-is-pittsburghs-secular-temple/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T05:32:20.291Z"
+      "updatedAt": "2026-10-23T10:39:21.305Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T05:32:20.612Z"
+      "updatedAt": "2026-10-23T10:39:22.019Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T05:32:20.696Z"
+      "updatedAt": "2026-10-23T10:39:22.147Z"
     }
   }
 }
