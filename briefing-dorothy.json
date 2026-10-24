@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-10-24T19:58:21.291Z",
+  "fetchedAt": "2026-10-24T22:13:49.648Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Fanatics Sportsbook Promo Code FOXNEWS350: Bet $20, Get $350 on Rays-Brewers World Series Game 2",
-          "link": "https://www.foxnews.com/outkick-betting/fanatics-sportsbook-promo-code-foxnews350-bet-20-get-350-rays-brewers-world-series-game-2"
+          "title": "Democratic senator accused of 'political malpractice' after job ad ignites firestorm over DEI language",
+          "link": "https://www.foxnews.com/media/democratic-senator-accused-political-malpractice-after-job-ad-ignites-firestorm-over-dei-language"
         },
         {
-          "title": "Jason Alexander admits ‘Seinfeld’ fame sent him to therapy",
-          "link": "https://www.foxnews.com/entertainment/jason-alexander-admits-seinfeld-fame-sent-him-therapy"
+          "title": "David Spade and Dana Carvey call out Hollywood for focusing too much on race and gender",
+          "link": "https://www.foxnews.com/entertainment/david-spade-dana-carvey-call-out-hollywood-focusing-too-much-race-gender"
         },
         {
-          "title": "Ric Flair shows off eyepatch in update after fall left him hospitalized: 'I will be okay'",
-          "link": "https://www.foxnews.com/outkick-sports/ric-flair-shows-off-eyepatch-update-after-fall-left-him-hospitalized-i-will-be-okay"
+          "title": "Beverly Hills school board candidate under fire over messages mocking trustee's visit to Jewish holy site",
+          "link": "https://www.foxnews.com/media/beverly-hills-school-board-candidate-fire-messages-mocking-trustee-visit-jewish-holy-site"
         },
         {
-          "title": "Bill Maher fires back at liberal critics over second Trump dinner",
-          "link": "https://www.foxnews.com/media/bill-maher-fires-back-liberal-critics-over-second-trump-dinner"
+          "title": "Hard Rock Bet Promo Code: Claim up to $500 in No Sweat Bets for Game 2 of the World Series, Rays-Brewers",
+          "link": "https://www.foxnews.com/outkick-betting/hard-rock-bet-promo-code-claim-up-500-no-sweat-bets-game-2-world-series-rays-brewers"
         },
         {
-          "title": "Thousands booked tropical Bahamas cruise and ended up in freezing Canada instead",
-          "link": "https://www.foxnews.com/travel/thousands-booked-tropical-bahamas-cruise-ended-freezing-canada-instead"
+          "title": "Josh Brolin credits strict morning ritual with helping him stay sober for 12 years",
+          "link": "https://www.foxnews.com/entertainment/josh-brolin-credits-strict-morning-ritual-helping-stay-sober-12-years"
         },
         {
-          "title": "Larry the Cable Guy takes aim at corporations that considered his Southern brand ‘too controversial’",
-          "link": "https://www.foxnews.com/entertainment/larry-cable-guy-takes-aim-corporations-considered-southern-brand-too-controversial"
+          "title": "BetMGM Bonus Code FOXNEWS: Cover Your First Rays-Brewers or CFB Week 8 Bet up to $1500",
+          "link": "https://www.foxnews.com/outkick-betting/betmgm-bonus-code-foxnews-cover-your-first-rays-brewers-cfb-week-8-bet-up-1500"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T19:58:18.080Z"
+      "updatedAt": "2026-10-24T22:13:48.336Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,33 +59,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T19:58:18.603Z"
+      "updatedAt": "2026-10-24T22:13:48.471Z"
     },
     "The Hill": {
       "items": [
         {
+          "title": "Obama scathes Trump administration in quippy Ohio campaign rally speech",
+          "link": "https://thehill.com/homenews/6170280-obama-jokes-trump-ohio-midterm-rally/"
+        },
+        {
+          "title": "Pentagon drafts Iran attack plans as Tehran threatens aggressive retaliation",
+          "link": "https://thehill.com/policy/defense/6169634-us-military-iran-strikes-infrastructure/"
+        },
+        {
+          "title": "Sunday shows preview: Trump's DOJ keeps close eye on election results; Last-minute campaigning heats up",
+          "link": "https://thehill.com/homenews/sunday-talk-shows/6170232-sunday-shows-doj-elections-trump-roll/"
+        },
+        {
+          "title": "Obama endorses Nixon, Jolly in last-minute campaign boost",
+          "link": "https://thehill.com/homenews/campaign/6170235-jolly-nixon-receive-obama-support/"
+        },
+        {
           "title": "China urges US Treasury to stop proposed restrictions on tech investments",
           "link": "https://thehill.com/policy/international/6170202-china-opposes-us-tech-investment-rules/"
-        },
-        {
-          "title": "Trump's former campaign manager on GOP ahead of midterms: 'It's ugly'",
-          "link": "https://thehill.com/homenews/campaign/6170199-stepien-midterm-elections-republicans/"
-        },
-        {
-          "title": "El-Sayed spats with Baier over Muslim Brotherhood question: 'Be a journalist'",
-          "link": "https://thehill.com/homenews/campaign/6170167-el-sayed-baier-interview/"
-        },
-        {
-          "title": "John Coale is exactly who we need to bring home our Americans",
-          "link": "https://thehill.com/opinion/international/6168981-john-coale-belarus-prisoner-deal/"
-        },
-        {
-          "title": "America's next great addiction crisis",
-          "link": "https://thehill.com/opinion/technology/6168648-ai-gambling-addiction-threat/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T19:58:19.245Z"
+      "updatedAt": "2026-10-24T22:13:48.802Z"
     },
     "Ars Technica": {
       "items": [
@@ -111,10 +111,14 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T19:58:19.575Z"
+      "updatedAt": "2026-10-24T22:13:48.933Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "Blue Planet III is keeping the rough edges in the age of AI",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai"
+        },
         {
           "title": "Pennsylvania will require labels on AI-generated ads",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act"
@@ -130,17 +134,17 @@
         {
           "title": "What to expect from Apple’s ‘Pro and tell’ event",
           "link": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro"
-        },
-        {
-          "title": "I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop",
-          "link": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T19:58:19.673Z"
+      "updatedAt": "2026-10-24T22:13:48.997Z"
     },
     "BBC World": {
       "items": [
+        {
+          "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+          "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "Ukraine says Starlink connection 'now stable' after network limits",
           "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss"
@@ -164,44 +168,40 @@
         {
           "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
           "link": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Three released without charge after fatal arson attack in Ireland",
-          "link": "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T19:58:19.817Z"
+      "updatedAt": "2026-10-24T22:13:49.116Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
-          "link": "https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss"
+          "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+          "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "UK braces for worst of Storm Boelo as amber warnings due to come into force",
+          "title": "Watch: BBC in Paris as police charge protesters and use tear gas during unrest",
+          "link": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
           "link": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Between quick wins and big dreams lies Burnham's biggest test",
-          "link": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss"
+          "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
+          "link": "https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Mum who died trying to save sons swept away in Bahamas was hero, husband says",
           "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
-          "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Infantino tells BBC Sport he is backed by 'vast majority' of world football",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c6q8nd9g9n72o?at_medium=RSS&at_campaign=rss"
+          "title": "Between quick wins and big dreams lies Burnham's biggest test",
+          "link": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T19:58:19.834Z"
+      "updatedAt": "2026-10-24T22:13:49.129Z"
     },
     "NY Times": {
       "items": [
@@ -218,8 +218,8 @@
           "link": "https://www.nytimes.com/2026/10/23/us/politics/alaska-senate-race-explainer.html"
         },
         {
-          "title": "How Vivek Ramaswamy’s Ruthless Ad in Ohio Divided Republicans",
-          "link": "https://www.nytimes.com/2026/10/24/us/politics/vivek-ramaswamy-ad-ohio-amy-acton.html"
+          "title": "Obama Issues Searing Attacks on Trump, Ramaswamy in Return to Campaign Trail",
+          "link": "https://www.nytimes.com/2026/10/24/us/politics/obama-trump-midterms-campaign.html"
         },
         {
           "title": "A 2028 Presidential Poll Finds Vance, Rubio and Several Democrats in the Mix",
@@ -227,7 +227,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T19:58:19.921Z"
+      "updatedAt": "2026-10-24T22:13:49.158Z"
     },
     "ARTNews": {
       "items": [
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T19:58:20.107Z"
+      "updatedAt": "2026-10-24T22:13:49.359Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T19:58:20.385Z"
+      "updatedAt": "2026-10-24T22:13:49.435Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T19:58:21.175Z"
+      "updatedAt": "2026-10-24T22:13:49.563Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T19:58:21.291Z"
+      "updatedAt": "2026-10-24T22:13:49.648Z"
     }
   }
 }
