@@ -1,8 +1,12 @@
 {
-  "fetchedAt": "2026-10-24T01:30:22.415Z",
+  "fetchedAt": "2026-10-24T07:06:22.838Z",
   "feeds": {
     "MarketWatch": {
       "items": [
+        {
+          "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
+          "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories"
+        },
         {
           "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
           "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories"
@@ -22,44 +26,40 @@
         {
           "title": "The mobile ambitions of SpaceX are hitting telecom stocks again. Here’s what the latest developments mean.",
           "link": "https://www.marketwatch.com/story/the-mobile-ambitions-of-spacex-see-telecom-stocks-get-hit-again-what-the-latest-developments-mean-9a4159b5?mod=mw_rss_topstories"
-        },
-        {
-          "title": "The real test for Moderna’s cancer vaccine isn’t about beating Keytruda. It’s keeping cancer from coming back in the long term.",
-          "link": "https://www.marketwatch.com/story/the-real-test-for-modernas-cancer-vaccine-isnt-about-beating-keytruda-its-keeping-cancer-from-coming-back-in-the-long-term-da9af99f?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T01:30:20.944Z"
+      "updatedAt": "2026-10-24T07:06:21.432Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "NASCAR legend Tony Stewart's return to the Truck Series ends early with big crash at Talladega",
-          "link": "https://www.foxnews.com/outkick-sports/nascar-legend-tony-stewart-return-truck-series-ends-early-big-crash-talladega"
+          "title": "FBI arrests Georgia man accused of throwing Molotov cocktail at Atlanta ICE facility",
+          "link": "https://www.foxnews.com/us/fbi-arrests-georgia-man-accused-throwing-molotov-cocktail-atlanta-ice-facility"
         },
         {
-          "title": "McMahon plans to 'fire' herself from a job, striving to show Congress that the Department of Ed is not needed",
-          "link": "https://www.foxnews.com/media/mcmahon-plans-fire-herself-out-job-striving-show-congress-dept-ed-not-needed"
+          "title": "Notorious 'Tan Mom' claims ICE agents mistook her for illegal immigrant because of extreme tan",
+          "link": "https://www.foxnews.com/us/notorious-tan-mom-claims-ice-agents-mistook-her-illegal-immigrant-extreme-tan"
         },
         {
-          "title": "Tyler Robinson hearing ends without trial date set, prompting fiery plea from Erika Kirk's lawyer",
-          "link": "https://www.foxnews.com/us/tyler-robinson-hearing-ends-without-trial-date-set-prompting-fiery-plea-erika-kirks-lawyer"
+          "title": "Brewers rally past chaotic late-game replay, premature celebrations to win first World Series game in 44 years",
+          "link": "https://www.foxnews.com/outkick-sports/brewers-rally-past-chaotic-late-game-replay-premature-celebrations-win-first-world-series-game-44-years"
         },
         {
-          "title": "Vanessa Trump 'finally cancer-free,' she says after health battle in emotional video with daughter Kai",
-          "link": "https://www.foxnews.com/lifestyle/vanessa-trump-finally-cancer-free-after-health-battle-emotional-video-daughter-kai"
+          "title": "Mavericks star Cooper Flagg exits game after hard foul sparks shoving match vs Pacers",
+          "link": "https://www.foxnews.com/outkick-sports/mavericks-star-cooper-flagg-exits-game-hard-foul-sparks-shoving-match-pacers"
         },
         {
-          "title": "Wrestling legend Ric Flair, 77, rushed to Tampa hospital after fall outside bar, head injuries: report",
-          "link": "https://www.foxnews.com/outkick-sports/wrestling-legend-ric-flair-77-rushed-tampa-hospital-fall-outside-bar-head-injuries-report"
+          "title": "Michigan Senate rivals clash over Muslim Brotherhood allegations as Rogers doubles down on El-Sayed",
+          "link": "https://www.foxnews.com/media/michigan-senate-rivals-clash-muslim-brotherhood-allegations-rogers-doubles-down-el-sayed"
         },
         {
-          "title": "Rubio urges Cubans to work with CIA to bring political change to communist-run island",
-          "link": "https://www.foxnews.com/world/rubio-urges-cubans-work-cia-bring-political-change-communist-run-island"
+          "title": "Ainsley Earhardt and Sean Hannity celebrate upcoming wedding surrounded by family and friends at Mar-a-Lago",
+          "link": "https://www.foxnews.com/media/ainsley-earhardt-sean-hannity-celebrate-upcoming-wedding-surrounded-family-friends-mar-a-lago"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T01:30:21.080Z"
+      "updatedAt": "2026-10-24T07:06:21.575Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -89,10 +89,22 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T01:30:21.209Z"
+      "updatedAt": "2026-10-24T07:06:21.766Z"
     },
     "The Hill": {
       "items": [
+        {
+          "title": "DNI warned Rubio of 'advanced' Iranian efforts to target US personnel, memo shows",
+          "link": "https://thehill.com/policy/international/6169784-clayton-warns-rubio-iran-threats/"
+        },
+        {
+          "title": "Rubio floats CIA 'partnership' to Cubans tired of 'failed promises, corruption'",
+          "link": "https://thehill.com/homenews/administration/6169754-rubio-offers-cia-cuban-partnership/"
+        },
+        {
+          "title": "Peltola calls Alaska lawsuit a 'desperate attempt' for GOP to 'cling to power'",
+          "link": "https://thehill.com/blogs/ballot-box/6169725-peltola-slams-alaska-doj-lawsuit-sullivan/"
+        },
         {
           "title": "Kennedy rolls out US-caught seafood labeling, Seafood.gov",
           "link": "https://thehill.com/homenews/administration/6169656-trump-rfk-unveil-us-seafood-label/"
@@ -100,22 +112,10 @@
         {
           "title": "About half concerned Republicans could try to overturn midterm results: Survey",
           "link": "https://thehill.com/blogs/ballot-box/6169602-americans-fear-gop-overturning-election-poll/"
-        },
-        {
-          "title": "US officially doubles last year's measles numbers",
-          "link": "https://thehill.com/newsletters/healthcare/6169627-us-officially-doubles-last-years-measles-numbers/"
-        },
-        {
-          "title": "Pressure mounts on Trump administration over Starlink slowdown",
-          "link": "https://thehill.com/newsletters/defense-national-security/6169593-pressure-mounts-on-trump-administration-over-starlink-slowdown/"
-        },
-        {
-          "title": "Trump uses DPA to give $150M for gas and diesel",
-          "link": "https://thehill.com/newsletters/energy-environment/6169571-trump-uses-dpa-to-give-150m-for-gas-and-diesel/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T01:30:22.033Z"
+      "updatedAt": "2026-10-24T07:06:22.266Z"
     },
     "Ars Technica": {
       "items": [
@@ -141,7 +141,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T01:30:22.112Z"
+      "updatedAt": "2026-10-24T07:06:22.351Z"
     },
     "The Verge": {
       "items": [
@@ -167,59 +167,51 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T01:30:22.152Z"
+      "updatedAt": "2026-10-24T07:06:22.417Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
-          "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss"
+          "title": "France prepares for day of protest a week after nationwide riots",
+          "link": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+          "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Arrest made after fire at Hitler's famed Eagle's Nest retreat",
+          "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Minneapolis withdrawal was 'surrender', Trump's ex-border patrol chief tells BBC",
+          "link": "https://www.bbc.co.uk/news/articles/ck20rery78lro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Trump administration sues to block certification of upcoming Alaska election",
+          "link": "https://www.bbc.co.uk/news/articles/c678pv4krx37o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
+          "link": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
           "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
-          "link": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
-          "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
-          "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Argentina drops investigation into President Milei over crypto fraud",
-          "link": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Oil spill washes up on UAE beaches after tanker strike",
-          "link": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T01:30:22.224Z"
+      "updatedAt": "2026-10-24T07:06:22.618Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Storm Austen brings power cuts and travel disruption as more wind and rain forecast",
-          "link": "https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss"
+          "title": "France prepares for day of protest a week after nationwide riots",
+          "link": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
-          "link": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Meghan statement offers answers after years of questions about her relationship with father",
-          "link": "https://www.bbc.co.uk/news/articles/cm70p9r04r8wo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
-          "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss"
+          "title": "Met investigates reports of letter detailing claims about Meghan's father",
+          "link": "https://www.bbc.co.uk/news/articles/cmlylkkzl2neo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
@@ -228,10 +220,18 @@
         {
           "title": "Father who killed Oregon school shooter describes anguish over children he couldn't save",
           "link": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Arrest made after fire at Hitler's famed Eagle's Nest retreat",
+          "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Celebrity Traitors left on a knife edge after a trip to the field of screams",
+          "link": "https://www.bbc.co.uk/news/articles/c6jdmrz00v7lo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T01:30:22.233Z"
+      "updatedAt": "2026-10-24T07:06:22.633Z"
     },
     "NY Times": {
       "items": [
@@ -248,16 +248,16 @@
           "link": "https://www.nytimes.com/2026/10/15/us/politics/trumps-attacks-voting-midterms.html"
         },
         {
-          "title": "Ahead of Tight Race, Trump Swaps Tariffs on Some Canadian Goods",
-          "link": "https://www.nytimes.com/2026/10/23/business/trump-susan-collins-canada-tariffs.html"
+          "title": "Justice Dept. Demands That California Counties Help Identify Noncitizen Voters",
+          "link": "https://www.nytimes.com/2026/10/23/us/justice-dept-california-noncitizen-voters.html"
         },
         {
-          "title": "In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges",
-          "link": "https://www.nytimes.com/2026/10/23/us/politics/in-us-gas-talks-with-kremlin-hidden-financing-for-alaska-project-emerges.html"
+          "title": "Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say",
+          "link": "https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T01:30:22.267Z"
+      "updatedAt": "2026-10-24T07:06:22.727Z"
     }
   },
   "indices": {
@@ -279,13 +279,13 @@
       },
       {
         "name": "Gold",
-        "price": 4010,
-        "pct": -3.6080863440782753
+        "price": 4007.9,
+        "pct": -3.658565899858183
       },
       {
         "name": "Bitcoin",
-        "price": 80701.62,
-        "pct": -2.699967446739254
+        "price": 80756.14,
+        "pct": -2.6342339735474622
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-24T01:30:22.415Z"
+    "updatedAt": "2026-10-24T07:06:22.838Z"
   }
 }
