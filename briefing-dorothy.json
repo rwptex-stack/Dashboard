@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-10-24T14:59:59.515Z",
+  "fetchedAt": "2026-10-24T17:55:51.084Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Omar’s deleted tweet could give clue on alleged brother marriage",
-          "link": "https://www.foxnews.com/politics/omars-deleted-tweet-clue-alleged-brother-marriage"
+          "title": "French CEO warns 'purely chaotic' riots prove the country has reached the 'dead end of socialism'",
+          "link": "https://www.foxnews.com/media/french-ceo-warns-purely-chaotic-riots-prove-country-reached-dead-end-socialism"
         },
         {
-          "title": "'SNL' Weekend Update anchor calls Republicans slurs, mocks Charlie Kirk in stand-up special",
-          "link": "https://www.foxnews.com/media/snl-weekend-update-anchor-calls-republicans-slurs-mocks-charlie-kirk-stand-up-special"
+          "title": "Jalen Hurts puts spotlight on blood thinners: 5 mistakes that could put patients at risk",
+          "link": "https://www.foxnews.com/health/jalen-hurts-spotlight-blood-thinners-5-mistakes-could-put-patients-risk"
         },
         {
-          "title": "Las Vegas takes aim at notorious tourist trap as warnings appear along iconic Strip",
-          "link": "https://www.foxnews.com/travel/las-vegas-takes-aim-notorious-tourist-trap-warnings-appear-along-iconic-strip"
+          "title": "Bush dynasty delivers another blow to GOP in Texas Senate battle as family member breaks ranks",
+          "link": "https://www.foxnews.com/politics/bush-dynasty-delivers-another-blow-gop-texas-senate-battle-family-member-breaks-ranks"
         },
         {
-          "title": "Bob Saget's widow Kelly Rizzo says his sudden death changed how she loves new boyfriend",
-          "link": "https://www.foxnews.com/entertainment/bob-saget-widow-kelly-rizzo-sudden-death-changed-how-she-loves-new-boyfriend"
+          "title": "Your credit can look normal while someone steals your identity",
+          "link": "https://www.foxnews.com/tech/credit-look-normal-while-someone-steals-identity"
         },
         {
-          "title": "'Save Women’s Sports' activists ejected from NWSL match after being struck, confronted by pro-trans crowd",
-          "link": "https://www.foxnews.com/outkick-sports/save-womens-sports-activists-ejected-nwsl-match-struck-confronted-pro-trans-crowd"
+          "title": "Why the over 56.5 is the play as Houston visits undefeated Utah in Big 12 action",
+          "link": "https://www.foxnews.com/outkick-betting/why-over-56-5-play-houston-visits-undefeated-utah-big-12-action"
         },
         {
-          "title": "Dallas Cowboys cheerleader alum reacts to My Chemical Romance gun stunt, Ric will be OK & NBA flopping",
-          "link": "https://www.foxnews.com/outkick-sports/dallas-cowboys-cheerleader-alum-reacts-my-chemical-romance-gun-stunt-ric-will-be-ok-nba-flopping"
+          "title": "Exclusive: DOJ reviewing Portland Thorns incident showing women’s sports supporters struck, forcibly removed",
+          "link": "https://www.foxnews.com/outkick-sports/exclusive-doj-reviewing-portland-thorns-incident-showing-womens-sports-supporters-struck-forcibly-removed"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T14:59:58.028Z"
+      "updatedAt": "2026-10-24T17:55:49.219Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,33 +59,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T14:59:58.289Z"
+      "updatedAt": "2026-10-24T17:55:49.295Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "José Andrés joins fight against proposed DC foie gras ban",
-          "link": "https://thehill.com/homenews/campaign/6170033-jose-andres-dc-foie-gras-ban/"
+          "title": "America's next great addiction crisis",
+          "link": "https://thehill.com/opinion/technology/6168648-ai-gambling-addiction-threat/"
         },
         {
-          "title": "'You have this superpower' — how the left is weaponizing jury nullification",
-          "link": "https://thehill.com/opinion/judiciary/6169577-jury-nullification-training-investigation/"
+          "title": "NFL forced to close 'NFL House' pop-up due to Paris protests",
+          "link": "https://thehill.com/policy/sports-gaming/6170108-nfl-paris-fan-zone-closed/"
         },
         {
-          "title": "Government contractor arrested for allegedly leaking national defense information",
-          "link": "https://thehill.com/policy/defense/6169997-contractor-arrested-leaking-defense-info/"
+          "title": "How MAHA fueled a new wave of doctors running for office",
+          "link": "https://thehill.com/policy/healthcare/6166776-doctors-running-congress-midterms/"
         },
         {
-          "title": "Trump hints that White House press area may be moved to another location",
-          "link": "https://thehill.com/homenews/administration/6169992-trump-denies-press-room-swimming-pool/"
+          "title": "Ro Khanna is wrong about the chaos in Europe — and about JD Vance",
+          "link": "https://thehill.com/opinion/campaign/6168998-ro-khanna-hypocrisy-wealth-inequality/"
         },
         {
-          "title": "DOJ demands California counties identify noncitizen voters: Reports",
-          "link": "https://thehill.com/homenews/administration/6169959-doj-warns-california-election-officials/"
+          "title": "Bill Maher to Karoline Leavitt: 'I don't give a s—', 'I like the ballroom'",
+          "link": "https://thehill.com/homenews/administration/6170078-maher-trump-ballroom-leavitt/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T14:59:58.485Z"
+      "updatedAt": "2026-10-24T17:55:49.775Z"
     },
     "Ars Technica": {
       "items": [
@@ -111,10 +111,18 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T14:59:58.621Z"
+      "updatedAt": "2026-10-24T17:55:49.868Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
+          "link": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview"
+        },
+        {
+          "title": "LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday",
+          "link": "https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale"
+        },
         {
           "title": "What to expect from Apple’s ‘Pro and tell’ event",
           "link": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro"
@@ -126,18 +134,10 @@
         {
           "title": "Lee Chang Dong ponders the ethics of the camera",
           "link": "https://www.theverge.com/entertainment/1017888/possible-love-lee-chang-dong-director-interview"
-        },
-        {
-          "title": "Laika has spent 20 years building up to Wildwood",
-          "link": "https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika"
-        },
-        {
-          "title": "It’s time to find a new browser",
-          "link": "https://www.theverge.com/tech/1018121/cod-4-claude-duet-wildwood-installer"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T14:59:58.671Z"
+      "updatedAt": "2026-10-24T17:55:49.961Z"
     },
     "BBC World": {
       "items": [
@@ -146,7 +146,7 @@
           "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
+          "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
           "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss"
         },
         {
@@ -158,20 +158,20 @@
           "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
-          "link": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss"
+          "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+          "link": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Three released without charge after fatal arson attack in Ireland",
+          "link": "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
           "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
-          "link": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T14:59:58.700Z"
+      "updatedAt": "2026-10-24T17:55:50.008Z"
     },
     "BBC News": {
       "items": [
@@ -180,28 +180,28 @@
           "link": "https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Plan for Northern Olympics to get £7m in Healey's Budget",
-          "link": "https://www.bbc.co.uk/news/articles/cv98z92ekg9zo?at_medium=RSS&at_campaign=rss"
+          "title": "UK braces for worst of Storm Boelo as amber warnings due to come into force",
+          "link": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Between quick wins and big dreams lies Burnham's biggest test",
           "link": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Mum dies after trying to rescue sons swept away at sea in Bahamas",
+          "title": "Mum who died trying to save sons swept away in Bahamas was hero, husband says",
           "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
+          "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Infantino tells BBC Sport he is backed by 'vast majority' of world football",
           "link": "https://www.bbc.co.uk/sport/football/articles/c6q8nd9g9n72o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Strictly's new presenters - after mixed reviews have they found their feet?",
-          "link": "https://www.bbc.co.uk/news/articles/c5zjxp1rjne8o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T14:59:58.747Z"
+      "updatedAt": "2026-10-24T17:55:50.016Z"
     },
     "NY Times": {
       "items": [
@@ -227,7 +227,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T14:59:58.903Z"
+      "updatedAt": "2026-10-24T17:55:50.039Z"
     },
     "ARTNews": {
       "items": [
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T14:59:59.023Z"
+      "updatedAt": "2026-10-24T17:55:50.136Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T14:59:59.108Z"
+      "updatedAt": "2026-10-24T17:55:50.212Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T14:59:59.433Z"
+      "updatedAt": "2026-10-24T17:55:50.990Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T14:59:59.515Z"
+      "updatedAt": "2026-10-24T17:55:51.084Z"
     }
   }
 }
