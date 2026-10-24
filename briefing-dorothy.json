@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-10-23T22:43:37.815Z",
+  "fetchedAt": "2026-10-24T01:13:32.206Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Colorado high school volleyball players faced alleged benching threat amid trans athlete dispute",
-          "link": "https://www.foxnews.com/outkick-sports/colorado-high-school-volleyball-players-faced-alleged-benching-threat-amid-trans-athlete-dispute"
+          "title": "NASCAR legend Tony Stewart's return to the Truck Series ends early with big crash at Talladega",
+          "link": "https://www.foxnews.com/outkick-sports/nascar-legend-tony-stewart-return-truck-series-ends-early-big-crash-talladega"
         },
         {
-          "title": "Kate Hudson flaunts toned abs in strapless red bikini during beach day with fiancé",
-          "link": "https://www.foxnews.com/entertainment/kate-hudson-flaunts-toned-abs-strapless-red-bikini-beach-day-fiance"
+          "title": "McMahon plans to 'fire' herself from a job, striving to show Congress that the Department of Ed is not needed",
+          "link": "https://www.foxnews.com/media/mcmahon-plans-fire-herself-out-job-striving-show-congress-dept-ed-not-needed"
         },
         {
-          "title": "MSG uses Knicks championship rings as bait in phishing test, calls the lure 'an unfortunate mistake'",
-          "link": "https://www.foxnews.com/outkick-sports/msg-uses-knicks-championship-rings-bait-phishing-test-calls-lure-unfortunate-mistake"
+          "title": "Tyler Robinson hearing ends without trial date set, prompting fiery plea from Erika Kirk's lawyer",
+          "link": "https://www.foxnews.com/us/tyler-robinson-hearing-ends-without-trial-date-set-prompting-fiery-plea-erika-kirks-lawyer"
         },
         {
-          "title": "Craig Carton explains why the NFL has some questions to ask after bizarre moment in Bears-Patriots game",
-          "link": "https://www.foxnews.com/outkick-sports/craig-carton-explains-nfl-questions-bizarre-moment-bears-patriots-game"
+          "title": "Vanessa Trump 'finally cancer-free,' she says after health battle in emotional video with daughter Kai",
+          "link": "https://www.foxnews.com/lifestyle/vanessa-trump-finally-cancer-free-after-health-battle-emotional-video-daughter-kai"
         },
         {
-          "title": "Irish politicians disavow ‘demeaning’ PSA warning grandparents not to hug family without asking consent",
-          "link": "https://www.foxnews.com/media/irish-politicians-disavow-demeaning-psa-warning-grandparents-not-hug-family-without-asking-consent"
+          "title": "Wrestling legend Ric Flair, 77, rushed to Tampa hospital after fall outside bar, head injuries: report",
+          "link": "https://www.foxnews.com/outkick-sports/wrestling-legend-ric-flair-77-rushed-tampa-hospital-fall-outside-bar-head-injuries-report"
         },
         {
-          "title": "Meghan Markle says she kept father away from kids to 'protect' them over 'disturbing allegations' against him",
-          "link": "https://www.foxnews.com/entertainment/meghan-markle-says-she-kept-father-away-from-kids-protect-them-over-disturbing-allegations-against-him"
+          "title": "Rubio urges Cubans to work with CIA to bring political change to communist-run island",
+          "link": "https://www.foxnews.com/world/rubio-urges-cubans-work-cia-bring-political-change-communist-run-island"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T22:43:35.696Z"
+      "updatedAt": "2026-10-24T01:13:29.397Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,36 +59,40 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T22:43:35.886Z"
+      "updatedAt": "2026-10-24T01:13:29.648Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Cook Political Report shifts Ohio governor's race from toss-up to lean Democrat",
-          "link": "https://thehill.com/homenews/campaign/6169489-cook-political-report-shifts-ohio/"
+          "title": "Kennedy rolls out US-caught seafood labeling, Seafood.gov",
+          "link": "https://thehill.com/homenews/administration/6169656-trump-rfk-unveil-us-seafood-label/"
         },
         {
-          "title": "How will Democrats address UFO sightings if returned to the majority?",
-          "link": "https://thehill.com/homenews/house/6169367-democrats-majority-congress-ufo-sightings-transparency/"
+          "title": "About half concerned Republicans could try to overturn midterm results: Survey",
+          "link": "https://thehill.com/blogs/ballot-box/6169602-americans-fear-gop-overturning-election-poll/"
         },
         {
-          "title": "Musk ups midterm spending in final stretch",
-          "link": "https://thehill.com/newsletters/technology/6169502-musk-ups-midterm-spending-in-final-stretch/"
+          "title": "US officially doubles last year's measles numbers",
+          "link": "https://thehill.com/newsletters/healthcare/6169627-us-officially-doubles-last-years-measles-numbers/"
         },
         {
-          "title": "West Virginia attorney general subpoenas environmental groups",
-          "link": "https://thehill.com/policy/energy-environment/6169430-wv-ag-subpoenas-environmental-groups/"
+          "title": "Pressure mounts on Trump administration over Starlink slowdown",
+          "link": "https://thehill.com/newsletters/defense-national-security/6169593-pressure-mounts-on-trump-administration-over-starlink-slowdown/"
         },
         {
-          "title": "Paxton sues OpenAI, Altman for failing to warn Texans about ChatGPT's 'dangers'",
-          "link": "https://thehill.com/policy/technology/6169375-paxton-sues-openai-chatgpt/"
+          "title": "Trump uses DPA to give $150M for gas and diesel",
+          "link": "https://thehill.com/newsletters/energy-environment/6169571-trump-uses-dpa-to-give-150m-for-gas-and-diesel/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T22:43:36.178Z"
+      "updatedAt": "2026-10-24T01:13:30.583Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
+          "link": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/"
+        },
         {
           "title": "Hegseth warns prediction market bets warp military judgment, endanger troops",
           "link": "https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk/"
@@ -104,14 +108,10 @@
         {
           "title": "Spotify ramps up policy enforcement on family plans",
           "link": "https://arstechnica.com/gadgets/2026/10/spotify-ramps-up-policy-enforcement-on-family-plans/"
-        },
-        {
-          "title": "Crows can evaluate visual info twice as fast as mammals",
-          "link": "https://arstechnica.com/science/2026/10/crows-can-evaluate-visual-info-twice-as-fast-as-mammals/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T22:43:36.235Z"
+      "updatedAt": "2026-10-24T01:13:30.681Z"
     },
     "The Verge": {
       "items": [
@@ -137,7 +137,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T22:43:36.329Z"
+      "updatedAt": "2026-10-24T01:13:30.769Z"
     },
     "BBC World": {
       "items": [
@@ -171,17 +171,13 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T22:43:36.694Z"
+      "updatedAt": "2026-10-24T01:13:30.855Z"
     },
     "BBC News": {
       "items": [
         {
           "title": "Storm Austen brings power cuts and travel disruption as more wind and rain forecast",
           "link": "https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Watch: Trees ripped up as Storm Austen batters Britain",
-          "link": "https://www.bbc.co.uk/news/videos/c6x2qdpnn35po?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
@@ -196,18 +192,26 @@
           "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
-          "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss"
+          "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+          "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Father who killed Oregon school shooter describes anguish over children he couldn't save",
+          "link": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T22:43:36.717Z"
+      "updatedAt": "2026-10-24T01:13:30.872Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "Here’s What Democrats Plan to Do With Their Power if They Win Back Congress",
-          "link": "https://www.nytimes.com/2026/10/23/us/politics/democrats-congress-majority-agenda.html"
+          "title": "Trump Officials Seek Block on Alaska Senate Race Results if the Republican Dan Sullivan Loses",
+          "link": "https://www.nytimes.com/2026/10/23/us/politics/justice-dept-alaska-senate-race-sullivan.html"
+        },
+        {
+          "title": "Why Legal Experts See the Justice Dept.’s Alaska Election Challenge as Dubious",
+          "link": "https://www.nytimes.com/2026/10/23/us/alaska-senate-doj-lawsuit-trump.html"
         },
         {
           "title": "Trump’s Attacks on Voting Raise Fears He Will Try to Challenge Midterm Results",
@@ -218,16 +222,12 @@
           "link": "https://www.nytimes.com/2026/10/23/business/trump-susan-collins-canada-tariffs.html"
         },
         {
-          "title": "How Worried Should We Be About the Economy? Let’s Look at 2008.",
-          "link": "https://www.nytimes.com/2026/10/23/business/economy-2008-financial-crisis.html"
-        },
-        {
-          "title": "Global Oil Price Hits $116 a Barrel, Highest Since April",
-          "link": "https://www.nytimes.com/2026/10/23/business/energy-environment/oil-prices-iran-war.html"
+          "title": "In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges",
+          "link": "https://www.nytimes.com/2026/10/23/us/politics/in-us-gas-talks-with-kremlin-hidden-financing-for-alaska-project-emerges.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T22:43:36.779Z"
+      "updatedAt": "2026-10-24T01:13:31.027Z"
     },
     "ARTNews": {
       "items": [
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T22:43:36.918Z"
+      "updatedAt": "2026-10-24T01:13:31.196Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T22:43:37.003Z"
+      "updatedAt": "2026-10-24T01:13:31.470Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T22:43:37.727Z"
+      "updatedAt": "2026-10-24T01:13:32.036Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T22:43:37.815Z"
+      "updatedAt": "2026-10-24T01:13:32.206Z"
     }
   }
 }
