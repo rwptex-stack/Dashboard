@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-10-24T06:38:08.372Z",
+  "fetchedAt": "2026-10-24T11:42:24.468Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Notorious 'Tan Mom' claims ICE agents mistook her for illegal immigrant because of extreme tan",
-          "link": "https://www.foxnews.com/us/notorious-tan-mom-claims-ice-agents-mistook-her-illegal-immigrant-extreme-tan"
+          "title": "Steve Sarkisian could face college football's hardest call as Arch Manning invokes much higher stakes",
+          "link": "https://www.foxnews.com/outkick-sports/steve-sarkisian-face-college-footballs-hardest-call-arch-manning-invokes-much-higher-stakes"
         },
         {
-          "title": "Brewers rally past chaotic late-game replay, premature celebrations to win first World Series game in 44 years",
-          "link": "https://www.foxnews.com/outkick-sports/brewers-rally-past-chaotic-late-game-replay-premature-celebrations-win-first-world-series-game-44-years"
+          "title": "I could have rescued my daughter from disappointment. Here's why I didn't",
+          "link": "https://www.foxnews.com/opinion/could-have-rescued-daughter-disappointment-heres-why-i-didnt"
         },
         {
-          "title": "Mavericks star Cooper Flagg exits game after hard foul sparks shoving match vs Pacers",
-          "link": "https://www.foxnews.com/outkick-sports/mavericks-star-cooper-flagg-exits-game-hard-foul-sparks-shoving-match-pacers"
+          "title": "Canada is feeling the pain from Trump's tariffs — but the trade fight didn't start overnight",
+          "link": "https://www.foxnews.com/politics/canada-feeling-pain-trumps-tariffs-trade-fight-didnt-start-overnight"
         },
         {
-          "title": "Michigan Senate rivals clash over Muslim Brotherhood allegations as Rogers doubles down on El-Sayed",
-          "link": "https://www.foxnews.com/media/michigan-senate-rivals-clash-muslim-brotherhood-allegations-rogers-doubles-down-el-sayed"
+          "title": "DEPROGRAMMED: He was headed for the MLB. Instead he stepped up to the plate for God",
+          "link": "https://www.foxnews.com/media/deprogrammed-he-headed-mlb-instead-he-stepped-up-plate-god"
         },
         {
-          "title": "Ainsley Earhardt and Sean Hannity celebrate upcoming wedding surrounded by family and friends at Mar-a-Lago",
-          "link": "https://www.foxnews.com/media/ainsley-earhardt-sean-hannity-celebrate-upcoming-wedding-surrounded-family-friends-mar-a-lago"
+          "title": "Jon Bon Jovi impersonator uses AI videos to scam woman out of $10K, nearly costing her home",
+          "link": "https://www.foxnews.com/us/jon-bon-jovi-impersonator-uses-ai-videos-scam-woman-10k-nearly-costing-her-home"
         },
         {
-          "title": "NASCAR legend Tony Stewart's return to the Truck Series ends early with big crash at Talladega",
-          "link": "https://www.foxnews.com/outkick-sports/nascar-legend-tony-stewart-return-truck-series-ends-early-big-crash-talladega"
+          "title": "Trump officials warn decades-long decline among American men could carry national security consequences",
+          "link": "https://www.foxnews.com/politics/trump-officials-warn-decades-long-decline-american-men-could-carry-national-security-consequences"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T06:38:05.661Z"
+      "updatedAt": "2026-10-24T11:42:21.387Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,10 +59,22 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T06:38:05.917Z"
+      "updatedAt": "2026-10-24T11:42:21.749Z"
     },
     "The Hill": {
       "items": [
+        {
+          "title": "Early voting surges in battleground states as Democrats outpace GOP gains",
+          "link": "https://thehill.com/homenews/campaign/6169626-early-voting-battleground-states-democrats-republicans/"
+        },
+        {
+          "title": "Why a blue wave might miss Minnesota's Senate race",
+          "link": "https://thehill.com/homenews/campaign/6169517-minnesota-senate-flanagan-tafoya/"
+        },
+        {
+          "title": "Trump’s $8 billion farm lifeline won’t fully solve farmers’ diesel problem",
+          "link": "https://thehill.com/business/6169485-trump-farm-relief-diesel-prices/"
+        },
         {
           "title": "DNI warned Rubio of 'advanced' Iranian efforts to target US personnel, memo shows",
           "link": "https://thehill.com/policy/international/6169784-clayton-warns-rubio-iran-threats/"
@@ -70,22 +82,10 @@
         {
           "title": "Rubio floats CIA 'partnership' to Cubans tired of 'failed promises, corruption'",
           "link": "https://thehill.com/homenews/administration/6169754-rubio-offers-cia-cuban-partnership/"
-        },
-        {
-          "title": "Peltola calls Alaska lawsuit a 'desperate attempt' for GOP to 'cling to power'",
-          "link": "https://thehill.com/blogs/ballot-box/6169725-peltola-slams-alaska-doj-lawsuit-sullivan/"
-        },
-        {
-          "title": "Kennedy rolls out US-caught seafood labeling, Seafood.gov",
-          "link": "https://thehill.com/homenews/administration/6169656-trump-rfk-unveil-us-seafood-label/"
-        },
-        {
-          "title": "About half concerned Republicans could try to overturn midterm results: Survey",
-          "link": "https://thehill.com/blogs/ballot-box/6169602-americans-fear-gop-overturning-election-poll/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T06:38:06.687Z"
+      "updatedAt": "2026-10-24T11:42:22.330Z"
     },
     "Ars Technica": {
       "items": [
@@ -111,7 +111,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T06:38:06.832Z"
+      "updatedAt": "2026-10-24T11:42:22.465Z"
     },
     "The Verge": {
       "items": [
@@ -137,74 +137,82 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T06:38:06.954Z"
+      "updatedAt": "2026-10-24T11:42:22.585Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "France prepares for day of protest a week after nationwide riots",
-          "link": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss"
+          "title": "Ukraine says Starlink connection 'now stable' after network limits",
+          "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-          "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Arrest made after fire at Hitler's famed Eagle's Nest retreat",
+          "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
           "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Minneapolis withdrawal was 'surrender', Trump's ex-border patrol chief tells BBC",
-          "link": "https://www.bbc.co.uk/news/articles/ck20rery78lro?at_medium=RSS&at_campaign=rss"
+          "title": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
+          "link": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Trump administration sues to block certification of upcoming Alaska election",
-          "link": "https://www.bbc.co.uk/news/articles/c678pv4krx37o?at_medium=RSS&at_campaign=rss"
+          "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
+          "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
           "link": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
-          "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss"
+          "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+          "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Australian MP's condition improves after alleged car attack",
+          "link": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T06:38:07.176Z"
+      "updatedAt": "2026-10-24T11:42:22.687Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "France prepares for day of protest a week after nationwide riots",
-          "link": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss"
+          "title": "Plan for Northern Olympics to get £7m in Healey's Budget",
+          "link": "https://www.bbc.co.uk/news/articles/cv98z92ekg9zo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
-          "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss"
+          "title": "Between quick wins and big dreams lies Burnham's biggest test",
+          "link": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Met investigates reports of letter detailing claims about Meghan's father",
-          "link": "https://www.bbc.co.uk/news/articles/cmlylkkzl2neo?at_medium=RSS&at_campaign=rss"
+          "title": "Mum dies after trying to rescue sons swept away at sea in Bahamas",
+          "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Father who killed Oregon school shooter describes anguish over children he couldn't save",
-          "link": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss"
+          "title": "Infantino tells BBC Sport he is backed by 'vast majority' of world football",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6q8nd9g9n72o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Arrest made after fire at Hitler's famed Eagle's Nest retreat",
+          "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
           "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Celebrity Traitors left on a knife edge after a trip to the field of screams",
-          "link": "https://www.bbc.co.uk/news/articles/c6jdmrz00v7lo?at_medium=RSS&at_campaign=rss"
+          "title": "Strictly's new presenters - after mixed reviews have they found their feet?",
+          "link": "https://www.bbc.co.uk/news/articles/c5zjxp1rjne8o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T06:38:07.221Z"
+      "updatedAt": "2026-10-24T11:42:22.697Z"
     },
     "NY Times": {
       "items": [
+        {
+          "title": "How Trump Gave the Worst Polluters a Free Pass",
+          "link": "https://www.nytimes.com/2026/10/24/climate/trump-epa-chemical-air-pollution.html"
+        },
+        {
+          "title": "5 Takeaways From Our Investigation of Trump’s Waivers for Polluters",
+          "link": "https://www.nytimes.com/2026/10/24/climate/takeaways-trump-waivers-chemical-pollution.html"
+        },
         {
           "title": "Trump Officials Seek Block on Alaska Senate Race Results if the Republican Dan Sullivan Loses",
           "link": "https://www.nytimes.com/2026/10/23/us/politics/justice-dept-alaska-senate-race-sullivan.html"
@@ -214,20 +222,12 @@
           "link": "https://www.nytimes.com/2026/10/23/us/alaska-senate-doj-lawsuit-trump.html"
         },
         {
-          "title": "Trump’s Attacks on Voting Raise Fears He Will Try to Challenge Midterm Results",
-          "link": "https://www.nytimes.com/2026/10/15/us/politics/trumps-attacks-voting-midterms.html"
-        },
-        {
-          "title": "Justice Dept. Demands That California Counties Help Identify Noncitizen Voters",
-          "link": "https://www.nytimes.com/2026/10/23/us/justice-dept-california-noncitizen-voters.html"
-        },
-        {
-          "title": "Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say",
-          "link": "https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html"
+          "title": "What to Know About Alaska’s Senate Race",
+          "link": "https://www.nytimes.com/2026/10/23/us/politics/alaska-senate-race-explainer.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T06:38:07.375Z"
+      "updatedAt": "2026-10-24T11:42:22.901Z"
     },
     "ARTNews": {
       "items": [
@@ -257,10 +257,14 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T06:38:07.527Z"
+      "updatedAt": "2026-10-24T11:42:23.327Z"
     },
     "Hyperallergic": {
       "items": [
+        {
+          "title": "This Is Class War",
+          "link": "https://hyperallergic.com/this-is-class-war/"
+        },
         {
           "title": "Portrait of a Paris Art Week on Fire",
           "link": "https://hyperallergic.com/portrait-of-a-paris-art-week-on-fire/"
@@ -280,17 +284,17 @@
         {
           "title": "The Center Cannot Hold at the Toronto Biennial",
           "link": "https://hyperallergic.com/the-center-cannot-hold-at-the-toronto-biennial/"
-        },
-        {
-          "title": "Scientists Contest Dating of Van Gogh’s \"The Starry Night\"",
-          "link": "https://hyperallergic.com/scientists-contest-dating-of-van-goghs-the-starry-night/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T06:38:07.799Z"
+      "updatedAt": "2026-10-24T11:42:23.445Z"
     },
     "Contemporary Art Daily": {
       "items": [
+        {
+          "title": "Group Show at The Campus Upstate",
+          "link": "https://www.contemporaryartdaily.com/project/group-show-at-the-campus-upstate-hudson-80121?source=rss"
+        },
         {
           "title": "David Medalla at Lovay Fine Arts",
           "link": "https://www.contemporaryartdaily.com/project/david-medalla-at-lovay-fine-arts-geneva-107842?source=rss"
@@ -310,14 +314,10 @@
         {
           "title": "Bruno Zhu at O—Overgaden",
           "link": "https://www.contemporaryartdaily.com/project/bruno-zhu-at-o-overgaden-copenhagen-106484?source=rss"
-        },
-        {
-          "title": "Bruno Zhu at House of Gaga",
-          "link": "https://www.contemporaryartdaily.com/project/bruno-zhu-at-house-of-gaga-mexico-city-110248?source=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T06:38:08.219Z"
+      "updatedAt": "2026-10-24T11:42:24.330Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T06:38:08.372Z"
+      "updatedAt": "2026-10-24T11:42:24.468Z"
     }
   }
 }
