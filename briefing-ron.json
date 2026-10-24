@@ -1,65 +1,65 @@
 {
-  "fetchedAt": "2026-10-24T07:06:22.838Z",
+  "fetchedAt": "2026-10-24T12:34:45.087Z",
   "feeds": {
     "MarketWatch": {
       "items": [
         {
-          "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
-          "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories"
+          "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+          "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories"
         },
         {
-          "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
-          "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories"
+          "title": "Moderna’s cancer vaccine is ‘likely’ to get approved. Skeptics question if it will be the best option.",
+          "link": "https://www.marketwatch.com/story/the-real-test-for-modernas-cancer-vaccine-isnt-about-beating-keytruda-its-keeping-cancer-from-coming-back-in-the-long-term-da9af99f?mod=mw_rss_topstories"
         },
         {
-          "title": "Will Anthropic pull off a November IPO? Time is running out to file key paperwork.",
-          "link": "https://www.marketwatch.com/story/will-anthropic-pull-off-a-november-ipo-time-is-running-out-to-file-key-paperwork-52677343?mod=mw_rss_topstories"
+          "title": "AI fever ignites a boom in thematic ETFs as fund managers hunt for their next big hit",
+          "link": "https://www.marketwatch.com/story/ai-fever-ignites-a-boom-in-thematic-etfs-as-fund-managers-hunt-for-their-next-big-hit-82d1566c?mod=mw_rss_topstories"
         },
         {
-          "title": "Investors piled a record sum into a leveraged semiconductor ETF last week. Things didn’t work out.",
-          "link": "https://www.marketwatch.com/story/investors-piled-a-record-sum-into-a-leveraged-semiconductor-etf-last-week-things-didnt-work-out-4680b2f3?mod=mw_rss_topstories"
+          "title": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave.",
+          "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories"
         },
         {
-          "title": "This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%.",
-          "link": "https://www.marketwatch.com/story/this-hot-ai-fueled-stock-has-been-in-a-rut-it-just-beat-earnings-expectations-by-36-4a4188cb?mod=mw_rss_topstories"
+          "title": "‘Non-answers’ aren’t working. This is what investors really need from the Fed.",
+          "link": "https://www.marketwatch.com/story/non-answers-arent-working-this-is-what-investors-really-need-from-the-fed-673a9dce?mod=mw_rss_topstories"
         },
         {
-          "title": "The mobile ambitions of SpaceX are hitting telecom stocks again. Here’s what the latest developments mean.",
-          "link": "https://www.marketwatch.com/story/the-mobile-ambitions-of-spacex-see-telecom-stocks-get-hit-again-what-the-latest-developments-mean-9a4159b5?mod=mw_rss_topstories"
+          "title": "Do machines have feelings? AI has philosophers and tech leaders rethinking consciousness.",
+          "link": "https://www.marketwatch.com/story/do-machines-have-feelings-ai-has-philosophers-and-tech-leaders-rethinking-consciousness-00e5ad78?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T07:06:21.432Z"
+      "updatedAt": "2026-10-24T12:34:43.352Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "FBI arrests Georgia man accused of throwing Molotov cocktail at Atlanta ICE facility",
-          "link": "https://www.foxnews.com/us/fbi-arrests-georgia-man-accused-throwing-molotov-cocktail-atlanta-ice-facility"
+          "title": "Cornell rape accuser can remain 'Jane Doe' as judge warns threats could lead to federal charges",
+          "link": "https://www.foxnews.com/us/cornell-rape-accuser-remain-jane-doe-judge-warns-threats-could-lead-federal-charges"
         },
         {
-          "title": "Notorious 'Tan Mom' claims ICE agents mistook her for illegal immigrant because of extreme tan",
-          "link": "https://www.foxnews.com/us/notorious-tan-mom-claims-ice-agents-mistook-her-illegal-immigrant-extreme-tan"
+          "title": "AI hasn’t replaced humans. Employers are still betting on college degrees",
+          "link": "https://www.foxnews.com/opinion/ai-replaced-humans-employers-college-degrees"
         },
         {
-          "title": "Brewers rally past chaotic late-game replay, premature celebrations to win first World Series game in 44 years",
-          "link": "https://www.foxnews.com/outkick-sports/brewers-rally-past-chaotic-late-game-replay-premature-celebrations-win-first-world-series-game-44-years"
+          "title": "Woman's life transformed when she rejected fast food and vowed to eat what she grows",
+          "link": "https://www.foxnews.com/food-drink/womans-life-transformed-when-she-rejected-fast-food-vowed-eat-what-she-grows"
         },
         {
-          "title": "Mavericks star Cooper Flagg exits game after hard foul sparks shoving match vs Pacers",
-          "link": "https://www.foxnews.com/outkick-sports/mavericks-star-cooper-flagg-exits-game-hard-foul-sparks-shoving-match-pacers"
+          "title": "Alabama man allegedly decapitates family members with chainsaw hours after 911 warning",
+          "link": "https://www.foxnews.com/us/alabama-man-allegedly-decapitates-family-members-chainsaw-hours-after-911-warning"
         },
         {
-          "title": "Michigan Senate rivals clash over Muslim Brotherhood allegations as Rogers doubles down on El-Sayed",
-          "link": "https://www.foxnews.com/media/michigan-senate-rivals-clash-muslim-brotherhood-allegations-rogers-doubles-down-el-sayed"
+          "title": "Former Disney star Christy Carlson Romano thought she was 'going to die' after freak shooting accident",
+          "link": "https://www.foxnews.com/entertainment/former-disney-star-christy-carlson-romano-thought-she-was-going-die-after-freak-shooting-accident"
         },
         {
-          "title": "Ainsley Earhardt and Sean Hannity celebrate upcoming wedding surrounded by family and friends at Mar-a-Lago",
-          "link": "https://www.foxnews.com/media/ainsley-earhardt-sean-hannity-celebrate-upcoming-wedding-surrounded-family-friends-mar-a-lago"
+          "title": "Steve Sarkisian could face college football's hardest call as Arch Manning invokes much higher stakes",
+          "link": "https://www.foxnews.com/outkick-sports/steve-sarkisian-face-college-footballs-hardest-call-arch-manning-invokes-much-higher-stakes"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T07:06:21.575Z"
+      "updatedAt": "2026-10-24T12:34:43.591Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -89,33 +89,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T07:06:21.766Z"
+      "updatedAt": "2026-10-24T12:34:43.789Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "DNI warned Rubio of 'advanced' Iranian efforts to target US personnel, memo shows",
-          "link": "https://thehill.com/policy/international/6169784-clayton-warns-rubio-iran-threats/"
+          "title": "Ukraine reports Starlink operating again after slowdown",
+          "link": "https://thehill.com/policy/international/6169915-starlink-starshield-access-restored/"
         },
         {
-          "title": "Rubio floats CIA 'partnership' to Cubans tired of 'failed promises, corruption'",
-          "link": "https://thehill.com/homenews/administration/6169754-rubio-offers-cia-cuban-partnership/"
+          "title": "Critics should do their homework before attacking Arabic language programs",
+          "link": "https://thehill.com/opinion/education/6168525-american-arabic-language-education/"
         },
         {
-          "title": "Peltola calls Alaska lawsuit a 'desperate attempt' for GOP to 'cling to power'",
-          "link": "https://thehill.com/blogs/ballot-box/6169725-peltola-slams-alaska-doj-lawsuit-sullivan/"
+          "title": "Early voting surges in battleground states as Democrats outpace GOP gains",
+          "link": "https://thehill.com/homenews/campaign/6169626-early-voting-battleground-states-democrats-republicans/"
         },
         {
-          "title": "Kennedy rolls out US-caught seafood labeling, Seafood.gov",
-          "link": "https://thehill.com/homenews/administration/6169656-trump-rfk-unveil-us-seafood-label/"
+          "title": "Why a blue wave might miss Minnesota's Senate race",
+          "link": "https://thehill.com/homenews/campaign/6169517-minnesota-senate-flanagan-tafoya/"
         },
         {
-          "title": "About half concerned Republicans could try to overturn midterm results: Survey",
-          "link": "https://thehill.com/blogs/ballot-box/6169602-americans-fear-gop-overturning-election-poll/"
+          "title": "Trump’s $8 billion farm lifeline won’t fully solve farmers’ diesel problem",
+          "link": "https://thehill.com/business/6169485-trump-farm-relief-diesel-prices/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T07:06:22.266Z"
+      "updatedAt": "2026-10-24T12:34:44.281Z"
     },
     "Ars Technica": {
       "items": [
@@ -141,10 +141,22 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T07:06:22.351Z"
+      "updatedAt": "2026-10-24T12:34:44.410Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "Lee Chang Dong ponders the ethics of the camera",
+          "link": "https://www.theverge.com/entertainment/1017888/possible-love-lee-chang-dong-director-interview"
+        },
+        {
+          "title": "Laika has spent 20 years building up to Wildwood",
+          "link": "https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika"
+        },
+        {
+          "title": "It’s time to find a new browser",
+          "link": "https://www.theverge.com/tech/1018121/cod-4-claude-duet-wildwood-installer"
+        },
         {
           "title": "Xbox’s first chief operating officer is out after just a few months",
           "link": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure"
@@ -152,89 +164,89 @@
         {
           "title": "OpenAI now trains its frontier AI models with no internet access",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"
-        },
-        {
-          "title": "Abandoned Popcorn Time apps had to be disabled to prevent a zombie army",
-          "link": "https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided"
-        },
-        {
-          "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech"
-        },
-        {
-          "title": "Soundcore’s latest noise-crushing headphones are on sale for a new low price",
-          "link": "https://www.theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T07:06:22.417Z"
+      "updatedAt": "2026-10-24T12:34:44.591Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "France prepares for day of protest a week after nationwide riots",
-          "link": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss"
+          "title": "Ukraine says Starlink connection 'now stable' after network limits",
+          "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-          "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Arrest made after fire at Hitler's famed Eagle's Nest retreat",
+          "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
           "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Minneapolis withdrawal was 'surrender', Trump's ex-border patrol chief tells BBC",
-          "link": "https://www.bbc.co.uk/news/articles/ck20rery78lro?at_medium=RSS&at_campaign=rss"
+          "title": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
+          "link": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Trump administration sues to block certification of upcoming Alaska election",
-          "link": "https://www.bbc.co.uk/news/articles/c678pv4krx37o?at_medium=RSS&at_campaign=rss"
+          "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
+          "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
           "link": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
-          "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss"
+          "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+          "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Australian MP's condition improves after alleged car attack",
+          "link": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T07:06:22.618Z"
+      "updatedAt": "2026-10-24T12:34:44.721Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "France prepares for day of protest a week after nationwide riots",
-          "link": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss"
+          "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
+          "link": "https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Met investigates reports of letter detailing claims about Meghan's father",
-          "link": "https://www.bbc.co.uk/news/articles/cmlylkkzl2neo?at_medium=RSS&at_campaign=rss"
+          "title": "Plan for Northern Olympics to get £7m in Healey's Budget",
+          "link": "https://www.bbc.co.uk/news/articles/cv98z92ekg9zo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
-          "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss"
+          "title": "Between quick wins and big dreams lies Burnham's biggest test",
+          "link": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Father who killed Oregon school shooter describes anguish over children he couldn't save",
-          "link": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss"
+          "title": "Mum dies after trying to rescue sons swept away at sea in Bahamas",
+          "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Arrest made after fire at Hitler's famed Eagle's Nest retreat",
-          "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss"
+          "title": "Infantino tells BBC Sport he is backed by 'vast majority' of world football",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6q8nd9g9n72o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Celebrity Traitors left on a knife edge after a trip to the field of screams",
-          "link": "https://www.bbc.co.uk/news/articles/c6jdmrz00v7lo?at_medium=RSS&at_campaign=rss"
+          "title": "Strictly's new presenters - after mixed reviews have they found their feet?",
+          "link": "https://www.bbc.co.uk/news/articles/c5zjxp1rjne8o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T07:06:22.633Z"
+      "updatedAt": "2026-10-24T12:34:44.812Z"
     },
     "NY Times": {
       "items": [
+        {
+          "title": "How Trump Gave the Worst Polluters a Free Pass",
+          "link": "https://www.nytimes.com/2026/10/24/climate/trump-epa-chemical-air-pollution.html"
+        },
+        {
+          "title": "5 Takeaways From Our Investigation of Trump’s Waivers for Polluters",
+          "link": "https://www.nytimes.com/2026/10/24/climate/takeaways-trump-waivers-chemical-pollution.html"
+        },
+        {
+          "title": "In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges",
+          "link": "https://www.nytimes.com/2026/10/23/us/politics/in-us-gas-talks-with-kremlin-hidden-financing-for-alaska-project-emerges.html"
+        },
         {
           "title": "Trump Officials Seek Block on Alaska Senate Race Results if the Republican Dan Sullivan Loses",
           "link": "https://www.nytimes.com/2026/10/23/us/politics/justice-dept-alaska-senate-race-sullivan.html"
@@ -242,22 +254,10 @@
         {
           "title": "Why Legal Experts See the Justice Dept.’s Alaska Election Challenge as Dubious",
           "link": "https://www.nytimes.com/2026/10/23/us/alaska-senate-doj-lawsuit-trump.html"
-        },
-        {
-          "title": "Trump’s Attacks on Voting Raise Fears He Will Try to Challenge Midterm Results",
-          "link": "https://www.nytimes.com/2026/10/15/us/politics/trumps-attacks-voting-midterms.html"
-        },
-        {
-          "title": "Justice Dept. Demands That California Counties Help Identify Noncitizen Voters",
-          "link": "https://www.nytimes.com/2026/10/23/us/justice-dept-california-noncitizen-voters.html"
-        },
-        {
-          "title": "Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say",
-          "link": "https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T07:06:22.727Z"
+      "updatedAt": "2026-10-24T12:34:44.902Z"
     }
   },
   "indices": {
@@ -284,8 +284,8 @@
       },
       {
         "name": "Bitcoin",
-        "price": 80756.14,
-        "pct": -2.6342339735474622
+        "price": 80689.66,
+        "pct": -2.714387335575887
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-24T07:06:22.838Z"
+    "updatedAt": "2026-10-24T12:34:45.087Z"
   }
 }
