@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-10-25T14:39:17.405Z",
+  "fetchedAt": "2026-10-25T17:57:04.041Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "WNBA Finals hit another scheduling snag as Atlanta Dream face arena conflict for Game 6",
-          "link": "https://www.foxnews.com/outkick-sports/wnba-finals-hit-another-scheduling-snag-atlanta-dream-face-arena-conflict-game-6"
+          "title": "Who is Itamar Ben-Gvir, the Israeli firebrand rising with the populist right across the globe?",
+          "link": "https://www.foxnews.com/world/who-itamar-ben-gvir-israeli-firebrand-rising-populist-right-across-globe"
         },
         {
-          "title": "Unique national anthem ahead of NFL Paris game between Steelers and Saints draws mixed reviews",
-          "link": "https://www.foxnews.com/outkick-sports/unique-national-anthem-ahead-nfl-paris-game-steelers-saints-draws-mixed-reviews"
+          "title": "WWE Hall of Famer mocks women's champion while at NFL Paris game: 'What now Chelsea?'",
+          "link": "https://www.foxnews.com/outkick-sports/wwe-hall-famer-mocks-womens-champion-nfl-paris-game-what-now-chelsea"
         },
         {
-          "title": "'Vertigo' star Kim Novak plans to become compost after death",
-          "link": "https://www.foxnews.com/entertainment/vertigo-star-kim-novak-plans-become-compost-after-death"
+          "title": "Trump reveals dire warning to Macron as violent unrest spreads across Europe",
+          "link": "https://www.foxnews.com/media/trump-reveals-dire-warning-macron-violent-unrest-spreads-across-europe"
         },
         {
-          "title": "Hochul faces revolt from unlikely New Yorkers as Democrats deliver scathing verdict on their party",
-          "link": "https://www.foxnews.com/politics/hochul-faces-revolt-unlikely-new-yorkers-democrats-deliver-scathing-verdict-party"
+          "title": "Reckless visitors are destroying Yellowstone's iconic thermal pools with trash",
+          "link": "https://www.foxnews.com/travel/reckless-visitors-destroying-yellowstones-iconic-thermal-pools-trash"
         },
         {
-          "title": "America's little-known castles, displaying 'raw power,' are hiding in plain sight",
-          "link": "https://www.foxnews.com/travel/americas-little-known-castles-displaying-raw-power-hiding-plain-sight"
+          "title": "DOJ flooded with thousands of fraud tips after cash incentive launch, Trump official says",
+          "link": "https://www.foxnews.com/media/doj-flooded-thousands-fraud-tips-after-cash-incentive-launch-trump-official-says"
         },
         {
-          "title": "Cuba spent decades recruiting American spies. Now Washington is turning the tables on Havana",
-          "link": "https://www.foxnews.com/opinion/cuba-spent-decades-recruiting-american-spies-now-washington-turning-tables-havana"
+          "title": "'Sound of Music' star Julie Andrews spotted in rare Hamptons outing weeks after turning 91",
+          "link": "https://www.foxnews.com/entertainment/sound-music-star-julie-andrews-spotted-rare-hamptons-outing-weeks-after-turning-91"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T14:39:15.479Z"
+      "updatedAt": "2026-10-25T17:57:01.325Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,33 +59,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T14:39:15.687Z"
+      "updatedAt": "2026-10-25T17:57:01.638Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "How Trump learned to stop worrying and love space science",
-          "link": "https://thehill.com/opinion/technology/6168963-trump-saves-nasa-venus-probes/"
-        },
-        {
-          "title": "Trump calls Murkowski a 'disgrace' to Alaska, criticizes ranked choice voting",
-          "link": "https://thehill.com/homenews/state-watch/6170659-trump-attacks-murkowski-ranked-choice-voting/"
-        },
-        {
-          "title": "Bill Ackman urges Israelis to exclude far-right ministers ahead of elections",
-          "link": "https://thehill.com/policy/international/6170670-israel-ackman-ben-gvir-smotrich/"
-        },
-        {
-          "title": "Live updates: Trump heads to Michigan; Blanche hits Sunday shows amid DOJ lawsuits",
+          "title": "Live updates: Trump heads to Michigan; Blanche defends DOJ's Alaska lawsuit",
           "link": "https://thehill.com/homenews/administration/6170651-live-updates-trump-michigan-todd-blanche-doj-lawsuits/"
         },
         {
-          "title": "America the Beautiful Act honors Theodore Roosevelt’s conservation legacy",
-          "link": "https://thehill.com/opinion/energy-environment/6169510-national-park-maintenance-bill/"
+          "title": "Blanche accuses 'Face the Nation' host of 'misleading' description of Alaska election lawsuit",
+          "link": "https://thehill.com/homenews/state-watch/6170778-doj-alaska-election-lawsuit/"
+        },
+        {
+          "title": "Stop downplaying the plague of violence against women",
+          "link": "https://thehill.com/opinion/criminal-justice/6168824-ending-gender-based-violence/"
+        },
+        {
+          "title": "Libertarian Texas Senate candidate says he's not taking votes away from Paxton, Talarico",
+          "link": "https://thehill.com/homenews/state-watch/6170806-ted-brown-texas-senate/"
+        },
+        {
+          "title": "Axelrod: Trump’s ‘I don’t give a damn’ remark on gas prices is no winning message",
+          "link": "https://thehill.com/homenews/6170798-axelrod-criticizes-trump-gas-prices/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T14:39:16.201Z"
+      "updatedAt": "2026-10-25T17:57:02.128Z"
     },
     "Ars Technica": {
       "items": [
@@ -111,10 +111,18 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T14:39:16.254Z"
+      "updatedAt": "2026-10-25T17:57:02.250Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "This Switch 2 sequel accessory was a few millimeters away from being good",
+          "link": "https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on"
+        },
+        {
+          "title": "Now you can watch Instagram Reels on your Apple TV",
+          "link": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv"
+        },
         {
           "title": "r/opensource just banned AI, non-English speakers, and more",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban"
@@ -126,59 +134,47 @@
         {
           "title": "Blue Planet III is keeping the rough edges in the age of AI",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai"
-        },
-        {
-          "title": "Pennsylvania will require labels on AI-generated ads",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act"
-        },
-        {
-          "title": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
-          "link": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T14:39:16.298Z"
+      "updatedAt": "2026-10-25T17:57:02.367Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
-          "link": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss"
+          "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+          "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Venezuelan opposition leader María Machado returns after months in exile",
+          "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Early reports suggest record high turnout in Serbia elections",
+          "link": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
+          "link": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Israel to close West Bank crossings on election day as crackdown escalates",
           "link": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-          "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
+          "title": "Gabon says access to social media restored after eight-month ban",
+          "link": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
-          "link": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
-          "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
-          "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
-          "link": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss"
+          "title": "El Salvador president says bodies found in Haiti are not those of hostages",
+          "link": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T14:39:16.327Z"
+      "updatedAt": "2026-10-25T17:57:02.609Z"
     },
     "BBC News": {
       "items": [
-        {
-          "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-          "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
-        },
         {
           "title": "Burnham open to 'honest discussion' on EU free movement",
           "link": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss"
@@ -188,20 +184,24 @@
           "link": "https://www.bbc.co.uk/news/articles/c623drpx31xzo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
-          "link": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Meghan broke contact with father in letter citing abuse claims",
-          "link": "https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&at_campaign=rss"
+          "title": "Venezuelan opposition leader María Machado returns after months in exile",
+          "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Why the charts are full of old songs - and so are your playlists",
           "link": "https://www.bbc.co.uk/news/articles/c6kg50nnj0x4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Early reports suggest record high turnout in Serbia elections",
+          "link": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+          "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T14:39:16.343Z"
+      "updatedAt": "2026-10-25T17:57:02.649Z"
     },
     "NY Times": {
       "items": [
@@ -210,24 +210,24 @@
           "link": "https://www.nytimes.com/2026/10/24/us/politics/trump-netanyahu-iran-new-phase-of-war.html"
         },
         {
-          "title": "Iranians Face Anxious Wait as Threat of Attack Looms",
-          "link": "https://www.nytimes.com/2026/10/24/world/middleeast/iranians-face-anxious-wait-as-threat-of-attack-looms.html"
+          "title": "Saudi Arabia Reopens Riyadh Airport Even as Houthis Threaten Further Strikes",
+          "link": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html"
         },
         {
-          "title": "Saudi Arabia Reopens Riyadh Airport After Weeks of Houthi Attacks",
-          "link": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html"
+          "title": "The Epstein Files Produce an Unlikely Weapon for the Houthi Messaging Wars",
+          "link": "https://www.nytimes.com/2026/10/23/world/middleeast/houthis-saudi-arabia-propaganda-epstein.html"
         },
         {
           "title": "Introducing a New Way to Understand the Election: Times Voter Trends",
           "link": "https://www.nytimes.com/2026/10/25/upshot/election-midterms-times-voter-trends.html"
         },
         {
-          "title": "Israel’s High-Stakes Election: What to Know",
-          "link": "https://www.nytimes.com/2026/10/25/world/middleeast/israels-high-stakes-election-what-to-know.html"
+          "title": "María Corina Machado Returns to Venezuela",
+          "link": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T14:39:16.372Z"
+      "updatedAt": "2026-10-25T17:57:02.860Z"
     },
     "ARTNews": {
       "items": [
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T14:39:16.508Z"
+      "updatedAt": "2026-10-25T17:57:03.111Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T14:39:16.587Z"
+      "updatedAt": "2026-10-25T17:57:03.273Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T14:39:17.319Z"
+      "updatedAt": "2026-10-25T17:57:03.908Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T14:39:17.405Z"
+      "updatedAt": "2026-10-25T17:57:04.041Z"
     }
   }
 }
