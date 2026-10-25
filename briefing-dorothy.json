@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-10-25T20:15:58.954Z",
+  "fetchedAt": "2026-10-25T22:53:46.502Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Brandi Glanville says doctors are 'taking my face off' in exploratory surgery after years of health issues",
-          "link": "https://www.foxnews.com/entertainment/brandi-glanville-says-doctors-taking-my-face-off-exploratory-surgery-after-years-health-issues"
+          "title": "After yet another inexcusable loss to Wisconsin, the Lincoln Riley era at USC looks to be nearing an end",
+          "link": "https://www.foxnews.com/outkick-sports/inexcusable-loss-wisconsin-lincoln-riley-era-usc-nearing-end"
         },
         {
-          "title": "Giants' Cam Skattebo hit with penalty after crushing Texans defender on routine run",
-          "link": "https://www.foxnews.com/outkick-sports/giants-cam-skattebo-penalty-crushing-texans-defender-routine-run"
+          "title": "Harbaugh credits players, including J.J. McCarthy and Cam Skattebo, and 'Lord God in heaven' for Giants OT win",
+          "link": "https://www.foxnews.com/outkick-sports/harbaugh-credits-players-jj-mccarthy-cam-skattebo-lord-god-heaven-giants-ot-win"
         },
         {
-          "title": "Firehouse Subs co-founder dies after building beloved American sandwich chain with brother",
-          "link": "https://www.foxnews.com/food-drink/firehouse-subs-co-founder-dies-after-building-beloved-american-sandwich-chain-brother"
+          "title": "Budget airline expands its footprint with 11 new tropical flight routes beginning in November",
+          "link": "https://www.foxnews.com/travel/budget-airline-expands-footprint-11-new-tropical-flight-routes-beginning-november"
         },
         {
-          "title": "Country star Cody Johnson says Nashville wanted to change him before success",
-          "link": "https://www.foxnews.com/entertainment/country-star-cody-johnson-says-nashville-wanted-change-him-before-success"
+          "title": "NASCAR's Joey Logano rides on his roof, Riley Herbst nails wall at full speed in dangerous Talladega wreck",
+          "link": "https://www.foxnews.com/outkick-sports/nascars-joey-logano-rides-roof-riley-herbst-nails-wall-full-speed-dangerous-talladega-wreck"
         },
         {
-          "title": "Week 8 AP Top 25 Poll sees Big Ten gain equal footing on SEC and unbeaten Utah earn major respect",
-          "link": "https://www.foxnews.com/outkick-sports/week-8-ap-top-25-poll-big-ten-gain-equal-footing-sec-unbeaten-utah-earn-major-respect"
+          "title": "Rogers fires back at Welker over El-Sayed's Muslim Brotherhood controversy, 'You are giving him a pass'",
+          "link": "https://www.foxnews.com/media/rogers-fires-back-welker-over-el-sayeds-muslim-brotherhood-controversy-you-giving-him-pass"
         },
         {
-          "title": "Buccaneers collect two freakish first-half scores to dominate Panthers – and, oh, Baker Mayfield is back",
-          "link": "https://www.foxnews.com/outkick-sports/buccaneers-collect-two-freakish-first-half-scores-dominate-panthers-baker-mayfield-back"
+          "title": "Dolphins avoid 0-17 crisis, pick up first win of season against struggling Jets on the road",
+          "link": "https://www.foxnews.com/outkick-sports/dolphins-avoid-0-17-crisis-pick-up-first-win-season-against-struggling-jets-road"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T20:15:56.929Z"
+      "updatedAt": "2026-10-25T22:53:43.838Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,33 +59,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T20:15:57.043Z"
+      "updatedAt": "2026-10-25T22:53:43.982Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Crow: Elon Musk having control to cut off Starlink to Ukraine is 'beyond disturbing to me'",
-          "link": "https://thehill.com/policy/technology/6170777-jason-crow-criticizes-elon-musk-starlink-control-ukraine/"
+          "title": "Tillis accuses California of being 'guilty' of ballot harvesting: 'They have a system there that is ripe for abuse'",
+          "link": "https://thehill.com/homenews/senate/6170781-thom-tillis-accuses-california-of-ballot-harvesting/"
         },
         {
-          "title": "Acton wins Cleveland Plain Dealer endorsement in Ohio governor’s race",
-          "link": "https://thehill.com/homenews/campaign/6170989-amy-cton-wins-cleveland-plain-dealer-endorsement-in-ohio-governors-race/"
+          "title": "Appeals court resists DOJ's bid to immediately segregate 20k California ballots",
+          "link": "https://thehill.com/regulation/court-battles/6171263-appeals-court-denies-emergency-california-hearing/"
         },
         {
-          "title": "Hassett says the economy is 'best we've ever seen'",
-          "link": "https://thehill.com/homenews/administration/6170922-hassett-economy-midterms/"
+          "title": "Rogers dodges questions on MAGA label, Trump tariffs",
+          "link": "https://thehill.com/homenews/campaign/6171235-rogers-dodges-magar-label-interview/"
         },
         {
-          "title": "Abbott says opponent Hinojosa supports Sharia law",
-          "link": "https://thehill.com/homenews/6170915-texas-gubernatorial-race-sharia-claims/"
+          "title": "Hinson calls Putin 'murderer,' says US should not make deals with Russia",
+          "link": "https://thehill.com/homenews/house/6171171-ashley-hinson-calls-putin-murderer/"
         },
         {
-          "title": "Machado returns to Venezuela after 10 months of exile",
-          "link": "https://thehill.com/policy/international/6170833-machado-returns-venezuela/"
+          "title": "This week on the Hill: Trump, Obama lead final push before Election Day",
+          "link": "https://thehill.com/newsletters/this-week-on-the-hill/6169610-trump-obama-midterm-election-campaign/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T20:15:57.786Z"
+      "updatedAt": "2026-10-25T22:53:44.676Z"
     },
     "Ars Technica": {
       "items": [
@@ -111,10 +111,22 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T20:15:57.851Z"
+      "updatedAt": "2026-10-25T22:53:44.965Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "iFixit&#8217;s look inside the iPhone Duo may explain those broken screens and hinges",
+          "link": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge"
+        },
+        {
+          "title": "Scott Walker’s The Drift will get under your skin",
+          "link": "https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review"
+        },
+        {
+          "title": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate",
+          "link": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen"
+        },
         {
           "title": "Zen Browser is the Arc replacement I was looking for",
           "link": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement"
@@ -122,36 +134,28 @@
         {
           "title": "This Switch 2 sequel accessory was a few millimeters away from being good",
           "link": "https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on"
-        },
-        {
-          "title": "Now you can watch Instagram Reels on your Apple TV",
-          "link": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv"
-        },
-        {
-          "title": "r/opensource just banned AI, non-English speakers, and more",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban"
-        },
-        {
-          "title": "Google’s AI search changes upended online publishing",
-          "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T20:15:57.982Z"
+      "updatedAt": "2026-10-25T22:53:45.068Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-          "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
+          "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+          "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Deeply divided Israel braces for pivotal election",
+          "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Venezuelan opposition leader María Machado returns after months in exile",
           "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Early reports suggest record high turnout in Serbia elections",
-          "link": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss"
+          "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+          "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
@@ -164,44 +168,40 @@
         {
           "title": "Gabon says access to social media restored after eight-month ban",
           "link": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "El Salvador president says bodies found in Haiti are not those of hostages",
-          "link": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T20:15:58.224Z"
+      "updatedAt": "2026-10-25T22:53:45.338Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Man killed by falling tree as Storm Boelo leaves 160,000 properties without power",
+          "title": "Two men killed by falling trees as Storm Boelo leaves 160,000 properties without power",
           "link": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Burnham open to 'honest discussion' on EU free movement",
-          "link": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss"
+          "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+          "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Funding set to double for plan to get rough sleepers off streets by Christmas",
+          "link": "https://www.bbc.co.uk/news/articles/c3n04yxn2yqro?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Letter making claims about Meghan's father written by his first wife, BBC understands",
           "link": "https://www.bbc.co.uk/news/articles/c60qk44w9wglo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Venezuelan opposition leader María Machado returns after months in exile",
-          "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
+          "title": "End approaching for Carrick but Man Utd fans make clear who they blame",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cwm24jk9743yo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Carrick future under major threat - can he survive?",
-          "link": "https://www.bbc.co.uk/sport/football/articles/crgj9wnpd1lvo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Board of Deputies of British Jews declares Greens to be racist party",
-          "link": "https://www.bbc.co.uk/news/articles/ckx2qyd17eqvo?at_medium=RSS&at_campaign=rss"
+          "title": "Deeply divided Israel braces for pivotal election",
+          "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T20:15:58.307Z"
+      "updatedAt": "2026-10-25T22:53:45.364Z"
     },
     "NY Times": {
       "items": [
@@ -210,8 +210,8 @@
           "link": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html"
         },
         {
-          "title": "María Corina Machado on Venezuela’s Future and Her Relationship With the Trump Administration",
-          "link": "https://www.nytimes.com/2026/10/19/world/americas/maria-corina-machado-venezuela-trump.html"
+          "title": "Who Is María Corina Machado?",
+          "link": "https://www.nytimes.com/2026/10/25/world/americas/who-is-maria-corina-machado.html"
         },
         {
           "title": "Trump’s Election Attacks Enter New Pre-emptive Phase",
@@ -222,12 +222,12 @@
           "link": "https://www.nytimes.com/2026/10/25/us/politics/talarico-musk-texas-senate-paxton-midterms.html"
         },
         {
-          "title": "A New Level of Threat and Fear Risks Pushing the U.S. and Iran Back to Full War",
-          "link": "https://www.nytimes.com/2026/10/24/us/politics/trump-netanyahu-iran-new-phase-of-war.html"
+          "title": "The Epstein Files Produce an Unlikely Weapon for the Houthi Messaging Wars",
+          "link": "https://www.nytimes.com/2026/10/23/world/middleeast/houthis-saudi-arabia-propaganda-epstein.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T20:15:58.385Z"
+      "updatedAt": "2026-10-25T22:53:45.485Z"
     },
     "ARTNews": {
       "items": [
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T20:15:58.563Z"
+      "updatedAt": "2026-10-25T22:53:45.614Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T20:15:58.640Z"
+      "updatedAt": "2026-10-25T22:53:45.741Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T20:15:58.879Z"
+      "updatedAt": "2026-10-25T22:53:46.421Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T20:15:58.954Z"
+      "updatedAt": "2026-10-25T22:53:46.502Z"
     }
   }
 }
