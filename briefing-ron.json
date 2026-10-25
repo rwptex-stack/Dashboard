@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-25T05:56:50.183Z",
+  "fetchedAt": "2026-10-25T11:12:36.687Z",
   "feeds": {
     "MarketWatch": {
       "items": [
@@ -29,37 +29,37 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T05:56:47.810Z"
+      "updatedAt": "2026-10-25T11:12:34.325Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Brewers complete wild Game 2 comeback after controversial call puts them up 2-0 in World Series vs Rays",
-          "link": "https://www.foxnews.com/outkick-sports/brewers-complete-wild-game-2-comeback-controversial-call-puts-them-up-2-0-world-series-rays"
+          "title": "Young woman joked about going missing — 10 years later, mom won't rest until she finds out who killed her",
+          "link": "https://www.foxnews.com/us/young-woman-joked-going-missing-10-years-later-mom-wont-rest-until-finds-who-killed-her"
         },
         {
-          "title": "Arch Manning, Texas survive Ole Miss after another second-half meltdown creates Austin anxiety",
-          "link": "https://www.foxnews.com/outkick-sports/arch-manning-texas-survive-ole-miss-second-half-meltdown-creates-austin-anxiety"
+          "title": "Mike Johnson's future hangs in balance as the 'accidental speaker' marks 3 years",
+          "link": "https://www.foxnews.com/politics/mike-johnsons-future-hangs-balance-accidental-speaker-marks-3-years"
         },
         {
-          "title": "49ers may have fewer than 48 players available against Falcons amid injury wave, coach Kyle Shanahan says",
-          "link": "https://www.foxnews.com/outkick-sports/49ers-fewer-than-48-players-available-against-falcons-amid-injury-wave-coach-kyle-shanahan-says"
+          "title": "Brazil becomes next test for Latin America’s surging conservative movement",
+          "link": "https://www.foxnews.com/world/brazil-becomes-next-test-latin-americas-surging-conservative-movement"
         },
         {
-          "title": "Ainsley Earhardt and Sean Hannity marry at the same church where they got engaged",
-          "link": "https://www.foxnews.com/media/ainsley-earhardt-sean-hannity-marry-same-church-where-got-engaged"
+          "title": "United Airlines CEO wants a wealth tax, but Americans deserve to keep their legacy",
+          "link": "https://www.foxnews.com/opinion/united-airlines-ceo-wants-wealth-tax-americans-deserve-keep-legacy"
         },
         {
-          "title": "Team USA hero Connor Hellebuyck discusses the difference between playing hockey in US and Canada",
-          "link": "https://www.foxnews.com/outkick-sports/team-usa-hero-connor-hellebuyck-discusses-difference-playing-hockey-us-canada"
+          "title": "Foster children's autism therapy at risk as Georgia lawmakers step into funding fight",
+          "link": "https://www.foxnews.com/politics/foster-childrens-autism-therapy-risk-georgia-lawmakers-step-funding-fight"
         },
         {
-          "title": "Raiders mourn Super Bowl champion Pete Banaszak, key figure in iconic 'Holy Roller' play",
-          "link": "https://www.foxnews.com/outkick-sports/raiders-mourn-super-bowl-champion-pete-banaszak-key-figure-iconic-holy-roller-play"
+          "title": "American Culture Quiz: Test yourself on famous feuds and skin secrets",
+          "link": "https://www.foxnews.com/lifestyle/american-culture-quiz-test-yourself-famous-feuds-skin-secrets"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T05:56:48.044Z"
+      "updatedAt": "2026-10-25T11:12:34.616Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -89,10 +89,22 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T05:56:48.279Z"
+      "updatedAt": "2026-10-25T11:12:34.887Z"
     },
     "The Hill": {
       "items": [
+        {
+          "title": "The next wave of Trump cases headed toward the Supreme Court",
+          "link": "https://thehill.com/regulation/court-battles/6169487-supreme-court-trump-administration-petitions/"
+        },
+        {
+          "title": "7 nastiest moments of a mean campaign season",
+          "link": "https://thehill.com/homenews/state-watch/6166259-seven-midterm-election-notable-attacks/"
+        },
+        {
+          "title": "Newsom amasses fundraising machine that could power 2028 bid",
+          "link": "https://thehill.com/policy/technology/6169492-gavin-newsom-fundraising-network-midterm-elections/"
+        },
         {
           "title": "James Fishback allegedly blocked from entering Florida Republicans' rally",
           "link": "https://thehill.com/homenews/campaign/6170496-fishback-denied-luna-rally/"
@@ -100,22 +112,10 @@
         {
           "title": "ACLU, Common Cause file motion against DOJ over Alaska election certification block",
           "link": "https://thehill.com/regulation/court-battles/6170458-common-cause-aclu-intervene-alaska-election/"
-        },
-        {
-          "title": "Musk says he was behind Starlink's slowdown in Ukraine",
-          "link": "https://thehill.com/policy/international/6170415-musk-starlink-ukraine-slowdown/"
-        },
-        {
-          "title": "Obama on Trump White House: ‘Like Saddam Hussein opened a Cheesecake Factory’",
-          "link": "https://thehill.com/homenews/campaign/6170405-obama-mocks-trump-white-house/"
-        },
-        {
-          "title": "Obama jokes about Hegseth's 'focus on jawlines and testosterone' in Ohio campaign stop",
-          "link": "https://thehill.com/homenews/campaign/6170381-obama-criticizes-hegseth-testosterone/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T05:56:49.202Z"
+      "updatedAt": "2026-10-25T11:12:35.607Z"
     },
     "Ars Technica": {
       "items": [
@@ -141,7 +141,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T05:56:49.331Z"
+      "updatedAt": "2026-10-25T11:12:36.145Z"
     },
     "The Verge": {
       "items": [
@@ -167,33 +167,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T05:56:49.505Z"
+      "updatedAt": "2026-10-25T11:12:36.245Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+          "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
           "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Ukraine says Starlink connection 'now stable' after network limits",
-          "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss"
+          "title": "Israel to close West Bank crossings on election day as crackdown escalates",
+          "link": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
-          "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss"
+          "title": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
+          "link": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+          "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
+          "link": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
           "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
-          "link": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
-          "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
@@ -201,37 +201,37 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T05:56:49.656Z"
+      "updatedAt": "2026-10-25T11:12:36.351Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
-          "link": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "Meghan broke contact with father in letter citing abuse claims",
           "link": "https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+          "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Burnham open to 'honest discussion' on EU free movement",
           "link": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Ukraine depends on Starlink - can Europe plug the gap?",
-          "link": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss"
+          "title": "Four ways Labour could raise money in the Budget without hiking income tax",
+          "link": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Israel to close West Bank crossings on election day as crackdown escalates",
-          "link": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
+          "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
+          "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Voters in Brazil to choose between Lula and Bolsonaro's son",
+          "title": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
           "link": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T05:56:49.705Z"
+      "updatedAt": "2026-10-25T11:12:36.369Z"
     },
     "NY Times": {
       "items": [
@@ -244,20 +244,20 @@
           "link": "https://www.nytimes.com/2026/10/24/world/middleeast/iranians-face-anxious-wait-as-threat-of-attack-looms.html"
         },
         {
-          "title": "Alaska Election Gambit Shows Justice Dept. Has Bowed to Trump’s Demands",
-          "link": "https://www.nytimes.com/2026/10/24/us/politics/alaska-senate-election-trump-justice-department.html"
+          "title": "Introducing a New Way to Understand the Election: Times Voter Trends",
+          "link": "https://www.nytimes.com/2026/10/25/upshot/election-midterms-times-voter-trends.html"
         },
         {
-          "title": "What to Know About Alaska’s Senate Race",
-          "link": "https://www.nytimes.com/2026/10/23/us/politics/alaska-senate-race-explainer.html"
+          "title": "Latinos Are Now America’s Most Important Swing Voters",
+          "link": "https://www.nytimes.com/2026/10/25/us/politics/latino-voters-poll-midterm-elections.html"
         },
         {
-          "title": "In Alaska, Some Early Voting Sites in Rural Villages Have Not Yet Opened",
-          "link": "https://www.nytimes.com/2026/10/24/us/alaska-early-voting-sites.html"
+          "title": "Democrats Have Edge Across Four Key House Races in Pennsylvania, Polls Find",
+          "link": "https://www.nytimes.com/2026/10/25/us/politics/polls-pennsylvania-house-midterms-battlegrounds.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T05:56:49.826Z"
+      "updatedAt": "2026-10-25T11:12:36.516Z"
     }
   },
   "indices": {
@@ -284,8 +284,8 @@
       },
       {
         "name": "Bitcoin",
-        "price": 80493.26,
-        "pct": -4.18834363722218
+        "price": 80247.89,
+        "pct": -4.480409160742215
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-25T05:56:50.183Z"
+    "updatedAt": "2026-10-25T11:12:36.687Z"
   }
 }
