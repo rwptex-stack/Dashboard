@@ -1,8 +1,20 @@
 {
-  "fetchedAt": "2026-10-25T18:52:31.036Z",
+  "fetchedAt": "2026-10-25T21:36:13.431Z",
   "feeds": {
     "MarketWatch": {
       "items": [
+        {
+          "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+          "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories"
+        },
+        {
+          "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
+          "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories"
+        },
+        {
+          "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
+          "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories"
+        },
         {
           "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
           "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories"
@@ -14,108 +26,96 @@
         {
           "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
           "link": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories"
-        },
-        {
-          "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
-          "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories"
-        },
-        {
-          "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
-          "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories"
-        },
-        {
-          "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
-          "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T18:52:29.458Z"
+      "updatedAt": "2026-10-25T21:36:10.871Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "MAPPED: The states Trump and top Democrats are targeting before Election Day",
-          "link": "https://www.foxnews.com/politics/mapped-states-trump-top-democrats-targeting-election-day"
+          "title": "Woman busted in NYC rabbi syringe attack allegedly stabbed another Jewish man hours earlier: report",
+          "link": "https://www.foxnews.com/us/woman-busted-nyc-rabbi-syringe-attack-allegedly-stabbed-jewish-man-hours-earlier"
         },
         {
-          "title": "Parker McCollum wants his sons to learn the lesson hunting and ranch life taught him growing up",
-          "link": "https://www.foxnews.com/outkick-sports/parker-mccollum-wants-sons-learn-lesson-hunting-ranch-life-taught-growing"
+          "title": "Aaron Rodgers pulls back curtain on bargaining talks with NFL envisioning one week of 16 international games",
+          "link": "https://www.foxnews.com/outkick-sports/aaron-rodgers-pulls-back-curtain-bargaining-talks-nfl-envisioning-one-week-16-international-games"
         },
         {
-          "title": "Winless Dolphins end historic drought and they did it against the almost-as-hapless Jets",
-          "link": "https://www.foxnews.com/outkick-sports/winless-dolphins-end-historic-drought-against-hapless-jets"
+          "title": "Sharpen memory and fight brain fog with simple 60-second trick from a neurologist",
+          "link": "https://www.foxnews.com/health/simple-60-second-brain-trick-sharpen-memory-fight-brain-fog"
         },
         {
-          "title": "Rob Lowe gets candid about his best on-screen kiss as other major stars dish on their worst",
-          "link": "https://www.foxnews.com/entertainment/rob-lowe-candid-best-on-screen-kiss-major-stars-dish-worst"
+          "title": "Brandi Glanville says doctors are 'taking my face off' in exploratory surgery after years of health issues",
+          "link": "https://www.foxnews.com/entertainment/brandi-glanville-says-doctors-taking-my-face-off-exploratory-surgery-after-years-health-issues"
         },
         {
-          "title": "Venezuelan opposition leader María Corina Machado makes surprise return home after nearly a year abroad",
-          "link": "https://www.foxnews.com/world/venezuelan-opposition-leader-maria-corina-machado-surprise-return-home-after-nearly-year-abroad"
+          "title": "Giants' Cam Skattebo hit with penalty after crushing Texans defender on routine run",
+          "link": "https://www.foxnews.com/outkick-sports/giants-cam-skattebo-penalty-crushing-texans-defender-routine-run"
         },
         {
-          "title": "Who is Itamar Ben-Gvir, the Israeli firebrand rising with the populist right across the globe?",
-          "link": "https://www.foxnews.com/world/who-itamar-ben-gvir-israeli-firebrand-rising-populist-right-across-globe"
+          "title": "Firehouse Subs co-founder dies after building beloved American sandwich chain with brother",
+          "link": "https://www.foxnews.com/food-drink/firehouse-subs-co-founder-dies-after-building-beloved-american-sandwich-chain-brother"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T18:52:29.766Z"
+      "updatedAt": "2026-10-25T21:36:11.104Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "Bernard-Henri Levy Watches With Anguish as France Burns",
-          "link": "https://www.realclearpolitics.com/2026/10/25/bernard-henri_leacutevy_watches_with_anguish_as_france_burns_715298.html"
+          "title": "Obama & Trump Wage One Final Battle for Huge Stakes",
+          "link": "https://www.realclearpolitics.com/2026/10/25/obama_amp_trump_wage_one_final_battle_for_huge_stakes_715372.html"
         },
         {
-          "title": "The French Republic Is Defenseless",
-          "link": "https://www.realclearpolitics.com/2026/10/25/the_french_republic_is_defenseless_715318.html"
+          "title": "Talarico's Extremism & the Race That Shouldn't Be Close",
+          "link": "https://www.realclearpolitics.com/2026/10/25/talaricos_extremism_amp_the_race_that_shouldnt_be_close_715370.html"
         },
         {
-          "title": "Economic Woes Transform Midwest Into 2026 Battleground",
-          "link": "https://www.realclearpolitics.com/2026/10/25/economic_woes_transform_midwest_into_2026_battleground_715306.html"
+          "title": "2026 Deciders: They Voted for Trump & Now Disapprove of Him",
+          "link": "https://www.realclearpolitics.com/2026/10/25/2026_deciders_they_voted_for_trump_amp_now_disapprove_of_him_715311.html"
         },
         {
-          "title": "Trump Bringing Closing Momentum Shift to Republicans",
-          "link": "https://www.realclearpolitics.com/video/2026/10/24/jesse_watters_trump_bringing_closing_momentum_shift_to_republicans.html"
+          "title": "The Democrats Stampede To Pack the Supreme Court",
+          "link": "https://www.realclearpolitics.com/video/2026/10/24/laura_ingraham_the_democrats_stampede_to_pack_the_supreme_court.html"
         },
         {
-          "title": "GOP On Verge of Losing the Latino Vote",
-          "link": "https://www.realclearpolitics.com/2026/10/25/gop_on_verge_of_losing_the_latino_vote_715301.html"
+          "title": "Could Rep. Omar Be Deported?",
+          "link": "https://www.realclearpolitics.com/2026/10/24/could_rep_omar_be_deported_715262.html"
         },
         {
-          "title": "A Diagnosis Is Not a Destiny. Neither Is Conventional Wisdom",
-          "link": "https://www.realclearpolitics.com/articles/2026/10/25/a_diagnosis_is_not_a_destiny_neither_is_conventional_wisdom_154618.html"
+          "title": "NYT: 'Accountability' for Trump Is an 'Affront' for Omar",
+          "link": "https://www.realclearpolitics.com/2026/10/25/nyt_accountability_for_trump_is_an_affront_for_omar_715371.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T18:52:29.893Z"
+      "updatedAt": "2026-10-25T21:36:11.336Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Hassett says the economy is 'best we've ever seen'",
-          "link": "https://thehill.com/homenews/administration/6170922-hassett-economy-midterms/"
+          "title": "This week on the Hill: Trump, Obama lead final push before Election Day",
+          "link": "https://thehill.com/newsletters/this-week-on-the-hill/6169610-trump-obama-midterm-election-campaign/"
         },
         {
-          "title": "Abbott says opponent Hinojosa supports Sharia law",
-          "link": "https://thehill.com/homenews/6170915-texas-gubernatorial-race-sharia-claims/"
+          "title": "Republicans struggle for an answer to Democrats’ Medicaid attacks",
+          "link": "https://thehill.com/homenews/state-watch/6169587-democrats-attack-obbb-medicaid-cuts/"
         },
         {
-          "title": "Machado returns to Venezuela after 10 months of exile",
-          "link": "https://thehill.com/policy/international/6170833-machado-returns-venezuela/"
+          "title": "Peltola to reschedule Fairbanks, Bethel campaign stops after car crash",
+          "link": "https://thehill.com/homenews/campaign/6171155-mary-peltola-car-crash/"
         },
         {
           "title": "Live updates: Trump heads to Michigan; Blanche defends DOJ's Alaska lawsuit",
           "link": "https://thehill.com/homenews/administration/6170651-live-updates-trump-michigan-todd-blanche-doj-lawsuits/"
         },
         {
-          "title": "Blanche accuses 'Face the Nation' host of 'misleading' description of Alaska election lawsuit",
-          "link": "https://thehill.com/homenews/state-watch/6170778-doj-alaska-election-lawsuit/"
+          "title": "Trump accuses Fox News of giving too much airtime to GOP opponents",
+          "link": "https://thehill.com/homenews/administration/6171084-trump-accuses-fox-news-of-giving-too-much-airtime-to-gop-opponents/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T18:52:30.474Z"
+      "updatedAt": "2026-10-25T21:36:12.017Z"
     },
     "Ars Technica": {
       "items": [
@@ -141,10 +141,22 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T18:52:30.551Z"
+      "updatedAt": "2026-10-25T21:36:12.148Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "Scott Walker’s The Drift will get under your skin",
+          "link": "https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review"
+        },
+        {
+          "title": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate",
+          "link": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen"
+        },
+        {
+          "title": "Zen Browser is the Arc replacement I was looking for",
+          "link": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement"
+        },
         {
           "title": "This Switch 2 sequel accessory was a few millimeters away from being good",
           "link": "https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on"
@@ -152,22 +164,10 @@
         {
           "title": "Now you can watch Instagram Reels on your Apple TV",
           "link": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv"
-        },
-        {
-          "title": "r/opensource just banned AI, non-English speakers, and more",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban"
-        },
-        {
-          "title": "Google’s AI search changes upended online publishing",
-          "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing"
-        },
-        {
-          "title": "Blue Planet III is keeping the rough edges in the age of AI",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T18:52:30.629Z"
+      "updatedAt": "2026-10-25T21:36:12.255Z"
     },
     "BBC World": {
       "items": [
@@ -180,8 +180,8 @@
           "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Early reports suggest record high turnout in Serbia elections",
-          "link": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss"
+          "title": "Serbia's Vučić concedes election defeat to student-led protest movement",
+          "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
@@ -201,16 +201,24 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T18:52:30.687Z"
+      "updatedAt": "2026-10-25T21:36:12.495Z"
     },
     "BBC News": {
       "items": [
+        {
+          "title": "Man killed by falling tree as Storm Boelo leaves 160,000 properties without power",
+          "link": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Serbia's Vučić concedes election defeat to student-led protest movement",
+          "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "Burnham open to 'honest discussion' on EU free movement",
           "link": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Letter making claims about Meghan's father written by his ex-wife, BBC understands",
+          "title": "Letter making claims about Meghan's father written by his first wife, BBC understands",
           "link": "https://www.bbc.co.uk/news/articles/c60qk44w9wglo?at_medium=RSS&at_campaign=rss"
         },
         {
@@ -218,46 +226,38 @@
           "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Carrick future under major threat - can he survive?",
-          "link": "https://www.bbc.co.uk/sport/football/articles/crgj9wnpd1lvo?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "Board of Deputies of British Jews declares Greens to be racist party",
           "link": "https://www.bbc.co.uk/news/articles/ckx2qyd17eqvo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Couple were celebrating anniversary before Bahamas tragedy",
-          "link": "https://www.bbc.co.uk/news/articles/c623drpx31xzo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T18:52:30.714Z"
+      "updatedAt": "2026-10-25T21:36:12.791Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "A New Level of Threat and Fear Risks Pushing the U.S. and Iran Back to Full War",
-          "link": "https://www.nytimes.com/2026/10/24/us/politics/trump-netanyahu-iran-new-phase-of-war.html"
+          "title": "María Corina Machado Returns to Venezuela",
+          "link": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html"
         },
         {
-          "title": "Saudi Arabia Reopens Riyadh Airport Even as Houthis Threaten Further Strikes",
-          "link": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html"
+          "title": "Who Is María Corina Machado?",
+          "link": "https://www.nytimes.com/2026/10/25/world/americas/who-is-maria-corina-machado.html"
+        },
+        {
+          "title": "Trump’s Election Attacks Enter New Pre-emptive Phase",
+          "link": "https://www.nytimes.com/2026/10/25/us/politics/trumps-election-alaska.html"
+        },
+        {
+          "title": "In Texas Senate Race, Talarico Leans Into Growing Rivalry With Elon Musk",
+          "link": "https://www.nytimes.com/2026/10/25/us/politics/talarico-musk-texas-senate-paxton-midterms.html"
         },
         {
           "title": "The Epstein Files Produce an Unlikely Weapon for the Houthi Messaging Wars",
           "link": "https://www.nytimes.com/2026/10/23/world/middleeast/houthis-saudi-arabia-propaganda-epstein.html"
-        },
-        {
-          "title": "Introducing a New Way to Understand the Election: Times Voter Trends",
-          "link": "https://www.nytimes.com/2026/10/25/upshot/election-midterms-times-voter-trends.html"
-        },
-        {
-          "title": "María Corina Machado Returns to Venezuela",
-          "link": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T18:52:30.816Z"
+      "updatedAt": "2026-10-25T21:36:13.040Z"
     }
   },
   "indices": {
@@ -284,8 +284,8 @@
       },
       {
         "name": "Bitcoin",
-        "price": 80564.24,
-        "pct": -4.103855676756534
+        "price": 80330.52,
+        "pct": -4.382054128715226
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-25T18:52:31.036Z"
+    "updatedAt": "2026-10-25T21:36:13.431Z"
   }
 }
