@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-10-24T22:13:49.648Z",
+  "fetchedAt": "2026-10-25T00:39:21.657Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Democratic senator accused of 'political malpractice' after job ad ignites firestorm over DEI language",
-          "link": "https://www.foxnews.com/media/democratic-senator-accused-political-malpractice-after-job-ad-ignites-firestorm-over-dei-language"
+          "title": "Ukraine's Starlink restored as Elon Musk claims Kyiv violated terms of service 'to kill people'",
+          "link": "https://www.foxnews.com/politics/ukraines-starlink-restored-elon-musk-claims-kyiv-violated-terms-service-kill-people"
         },
         {
-          "title": "David Spade and Dana Carvey call out Hollywood for focusing too much on race and gender",
-          "link": "https://www.foxnews.com/entertainment/david-spade-dana-carvey-call-out-hollywood-focusing-too-much-race-gender"
+          "title": "LaNorris Sellers' acrobatics, late fumble recovery help give South Carolina walk-off win over Tennessee",
+          "link": "https://www.foxnews.com/outkick-sports/lanorris-sellers-acrobatics-late-fumble-recovery-help-give-south-carolina-walk-off-win-tennessee"
         },
         {
-          "title": "Beverly Hills school board candidate under fire over messages mocking trustee's visit to Jewish holy site",
-          "link": "https://www.foxnews.com/media/beverly-hills-school-board-candidate-fire-messages-mocking-trustee-visit-jewish-holy-site"
+          "title": "NC State fires Dave Doeren after 14 years as Wolfpack football coach following loss to Stanford",
+          "link": "https://www.foxnews.com/outkick-sports/nc-state-fires-dave-doeren-14-years-wolfpack-football-coach-following-loss-stanford"
         },
         {
-          "title": "Hard Rock Bet Promo Code: Claim up to $500 in No Sweat Bets for Game 2 of the World Series, Rays-Brewers",
-          "link": "https://www.foxnews.com/outkick-betting/hard-rock-bet-promo-code-claim-up-500-no-sweat-bets-game-2-world-series-rays-brewers"
+          "title": "Obama compares Trump's White House renovations to 'Saddam Hussein opening a Cheesecake Factory' at Ohio rally",
+          "link": "https://www.foxnews.com/politics/obama-compares-trumps-white-house-renovations-saddam-hussein-opening-cheesecake-factory-ohio-rally"
         },
         {
-          "title": "Josh Brolin credits strict morning ritual with helping him stay sober for 12 years",
-          "link": "https://www.foxnews.com/entertainment/josh-brolin-credits-strict-morning-ritual-helping-stay-sober-12-years"
+          "title": "Indiana outlasts Michigan in overtime for first win at Big House since 1967",
+          "link": "https://www.foxnews.com/outkick-sports/indiana-outlasts-michigan-overtime-first-win-big-house-since-1967"
         },
         {
-          "title": "BetMGM Bonus Code FOXNEWS: Cover Your First Rays-Brewers or CFB Week 8 Bet up to $1500",
-          "link": "https://www.foxnews.com/outkick-betting/betmgm-bonus-code-foxnews-cover-your-first-rays-brewers-cfb-week-8-bet-up-1500"
+          "title": "Packers activate Josh Jacobs; running back set to play in first game since domestic violence arrest",
+          "link": "https://www.foxnews.com/outkick-sports/packers-activate-josh-jacobs-running-back-set-play-first-game-since-domestic-violence-arrest"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T22:13:48.336Z"
+      "updatedAt": "2026-10-25T00:39:19.968Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,33 +59,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T22:13:48.471Z"
+      "updatedAt": "2026-10-25T00:39:20.131Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Obama scathes Trump administration in quippy Ohio campaign rally speech",
+          "title": "Obama on Trump White House: ‘Like Saddam Hussein opened a Cheesecake Factory’",
+          "link": "https://thehill.com/homenews/campaign/6170405-obama-mocks-trump-white-house/"
+        },
+        {
+          "title": "Obama jokes about Hegseth's 'focus on jawlines and testosterone' in Ohio campaign stop",
+          "link": "https://thehill.com/homenews/campaign/6170381-obama-criticizes-hegseth-testosterone/"
+        },
+        {
+          "title": "Kushner’s attorneys send notice to Vanity Fair on alleged “defamatory” excerpt",
+          "link": "https://thehill.com/media/6170355-kushner-attorneys-warn-vanity-fair/"
+        },
+        {
+          "title": "Blanche: DOJ lawsuit not trying to 'stop the certification of Alaska's election'",
+          "link": "https://thehill.com/homenews/campaign/6170303-blanche-denies-alaska-election/"
+        },
+        {
+          "title": "Obama's quippy Ohio campaign stop: 5 times the former president went after Republicans",
           "link": "https://thehill.com/homenews/6170280-obama-jokes-trump-ohio-midterm-rally/"
-        },
-        {
-          "title": "Pentagon drafts Iran attack plans as Tehran threatens aggressive retaliation",
-          "link": "https://thehill.com/policy/defense/6169634-us-military-iran-strikes-infrastructure/"
-        },
-        {
-          "title": "Sunday shows preview: Trump's DOJ keeps close eye on election results; Last-minute campaigning heats up",
-          "link": "https://thehill.com/homenews/sunday-talk-shows/6170232-sunday-shows-doj-elections-trump-roll/"
-        },
-        {
-          "title": "Obama endorses Nixon, Jolly in last-minute campaign boost",
-          "link": "https://thehill.com/homenews/campaign/6170235-jolly-nixon-receive-obama-support/"
-        },
-        {
-          "title": "China urges US Treasury to stop proposed restrictions on tech investments",
-          "link": "https://thehill.com/policy/international/6170202-china-opposes-us-tech-investment-rules/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T22:13:48.802Z"
+      "updatedAt": "2026-10-25T00:39:20.725Z"
     },
     "Ars Technica": {
       "items": [
@@ -111,7 +111,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T22:13:48.933Z"
+      "updatedAt": "2026-10-25T00:39:20.801Z"
     },
     "The Verge": {
       "items": [
@@ -137,7 +137,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T22:13:48.997Z"
+      "updatedAt": "2026-10-25T00:39:20.848Z"
     },
     "BBC World": {
       "items": [
@@ -171,7 +171,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T22:13:49.116Z"
+      "updatedAt": "2026-10-25T00:39:20.971Z"
     },
     "BBC News": {
       "items": [
@@ -188,20 +188,20 @@
           "link": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss"
         },
         {
+          "title": "Ukraine depends on Starlink - can Europe plug the gap?",
+          "link": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Burnham open to 'honest discussion' on EU free movement",
+          "link": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
           "link": "https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Mum who died trying to save sons swept away in Bahamas was hero, husband says",
-          "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Between quick wins and big dreams lies Burnham's biggest test",
-          "link": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T22:13:49.129Z"
+      "updatedAt": "2026-10-25T00:39:20.978Z"
     },
     "NY Times": {
       "items": [
@@ -210,12 +210,12 @@
           "link": "https://www.nytimes.com/2026/10/24/us/politics/alaska-senate-election-trump-justice-department.html"
         },
         {
-          "title": "Why Legal Experts See the Justice Dept.’s Alaska Election Challenge as Dubious",
-          "link": "https://www.nytimes.com/2026/10/23/us/alaska-senate-doj-lawsuit-trump.html"
-        },
-        {
           "title": "What to Know About Alaska’s Senate Race",
           "link": "https://www.nytimes.com/2026/10/23/us/politics/alaska-senate-race-explainer.html"
+        },
+        {
+          "title": "In Alaska, Some Early Voting Sites in Rural Villages Have Not Yet Opened",
+          "link": "https://www.nytimes.com/2026/10/24/us/alaska-early-voting-sites.html"
         },
         {
           "title": "Obama Issues Searing Attacks on Trump, Ramaswamy in Return to Campaign Trail",
@@ -227,7 +227,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T22:13:49.158Z"
+      "updatedAt": "2026-10-25T00:39:21.015Z"
     },
     "ARTNews": {
       "items": [
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T22:13:49.359Z"
+      "updatedAt": "2026-10-25T00:39:21.146Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T22:13:49.435Z"
+      "updatedAt": "2026-10-25T00:39:21.219Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T22:13:49.563Z"
+      "updatedAt": "2026-10-25T00:39:21.575Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T22:13:49.648Z"
+      "updatedAt": "2026-10-25T00:39:21.657Z"
     }
   }
 }
