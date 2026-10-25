@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-10-25T00:39:21.657Z",
+  "fetchedAt": "2026-10-25T05:28:19.785Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Ukraine's Starlink restored as Elon Musk claims Kyiv violated terms of service 'to kill people'",
-          "link": "https://www.foxnews.com/politics/ukraines-starlink-restored-elon-musk-claims-kyiv-violated-terms-service-kill-people"
+          "title": "Brewers complete wild Game 2 comeback after controversial call puts them up 2-0 in World Series vs Rays",
+          "link": "https://www.foxnews.com/outkick-sports/brewers-complete-wild-game-2-comeback-controversial-call-puts-them-up-2-0-world-series-rays"
         },
         {
-          "title": "LaNorris Sellers' acrobatics, late fumble recovery help give South Carolina walk-off win over Tennessee",
-          "link": "https://www.foxnews.com/outkick-sports/lanorris-sellers-acrobatics-late-fumble-recovery-help-give-south-carolina-walk-off-win-tennessee"
+          "title": "Arch Manning, Texas survive Ole Miss after another second-half meltdown creates Austin anxiety",
+          "link": "https://www.foxnews.com/outkick-sports/arch-manning-texas-survive-ole-miss-second-half-meltdown-creates-austin-anxiety"
         },
         {
-          "title": "NC State fires Dave Doeren after 14 years as Wolfpack football coach following loss to Stanford",
-          "link": "https://www.foxnews.com/outkick-sports/nc-state-fires-dave-doeren-14-years-wolfpack-football-coach-following-loss-stanford"
+          "title": "49ers may have fewer than 48 players available against Falcons amid injury wave, coach Kyle Shanahan says",
+          "link": "https://www.foxnews.com/outkick-sports/49ers-fewer-than-48-players-available-against-falcons-amid-injury-wave-coach-kyle-shanahan-says"
         },
         {
-          "title": "Obama compares Trump's White House renovations to 'Saddam Hussein opening a Cheesecake Factory' at Ohio rally",
-          "link": "https://www.foxnews.com/politics/obama-compares-trumps-white-house-renovations-saddam-hussein-opening-cheesecake-factory-ohio-rally"
+          "title": "Ainsley Earhardt and Sean Hannity marry at the same church where they got engaged",
+          "link": "https://www.foxnews.com/media/ainsley-earhardt-sean-hannity-marry-same-church-where-got-engaged"
         },
         {
-          "title": "Indiana outlasts Michigan in overtime for first win at Big House since 1967",
-          "link": "https://www.foxnews.com/outkick-sports/indiana-outlasts-michigan-overtime-first-win-big-house-since-1967"
+          "title": "Team USA hero Connor Hellebuyck discusses the difference between playing hockey in US and Canada",
+          "link": "https://www.foxnews.com/outkick-sports/team-usa-hero-connor-hellebuyck-discusses-difference-playing-hockey-us-canada"
         },
         {
-          "title": "Packers activate Josh Jacobs; running back set to play in first game since domestic violence arrest",
-          "link": "https://www.foxnews.com/outkick-sports/packers-activate-josh-jacobs-running-back-set-play-first-game-since-domestic-violence-arrest"
+          "title": "Raiders mourn Super Bowl champion Pete Banaszak, key figure in iconic 'Holy Roller' play",
+          "link": "https://www.foxnews.com/outkick-sports/raiders-mourn-super-bowl-champion-pete-banaszak-key-figure-iconic-holy-roller-play"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T00:39:19.968Z"
+      "updatedAt": "2026-10-25T05:28:17.407Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,10 +59,22 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T00:39:20.131Z"
+      "updatedAt": "2026-10-25T05:28:17.654Z"
     },
     "The Hill": {
       "items": [
+        {
+          "title": "James Fishback allegedly blocked from entering Florida Republicans' rally",
+          "link": "https://thehill.com/homenews/campaign/6170496-fishback-denied-luna-rally/"
+        },
+        {
+          "title": "ACLU, Common Cause file motion against DOJ over Alaska election certification block",
+          "link": "https://thehill.com/regulation/court-battles/6170458-common-cause-aclu-intervene-alaska-election/"
+        },
+        {
+          "title": "Musk says he was behind Starlink's slowdown in Ukraine",
+          "link": "https://thehill.com/policy/international/6170415-musk-starlink-ukraine-slowdown/"
+        },
         {
           "title": "Obama on Trump White House: ‘Like Saddam Hussein opened a Cheesecake Factory’",
           "link": "https://thehill.com/homenews/campaign/6170405-obama-mocks-trump-white-house/"
@@ -70,22 +82,10 @@
         {
           "title": "Obama jokes about Hegseth's 'focus on jawlines and testosterone' in Ohio campaign stop",
           "link": "https://thehill.com/homenews/campaign/6170381-obama-criticizes-hegseth-testosterone/"
-        },
-        {
-          "title": "Kushner’s attorneys send notice to Vanity Fair on alleged “defamatory” excerpt",
-          "link": "https://thehill.com/media/6170355-kushner-attorneys-warn-vanity-fair/"
-        },
-        {
-          "title": "Blanche: DOJ lawsuit not trying to 'stop the certification of Alaska's election'",
-          "link": "https://thehill.com/homenews/campaign/6170303-blanche-denies-alaska-election/"
-        },
-        {
-          "title": "Obama's quippy Ohio campaign stop: 5 times the former president went after Republicans",
-          "link": "https://thehill.com/homenews/6170280-obama-jokes-trump-ohio-midterm-rally/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T00:39:20.725Z"
+      "updatedAt": "2026-10-25T05:28:18.134Z"
     },
     "Ars Technica": {
       "items": [
@@ -111,7 +111,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T00:39:20.801Z"
+      "updatedAt": "2026-10-25T05:28:18.262Z"
     },
     "The Verge": {
       "items": [
@@ -137,7 +137,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T00:39:20.848Z"
+      "updatedAt": "2026-10-25T05:28:18.384Z"
     },
     "BBC World": {
       "items": [
@@ -171,40 +171,48 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T00:39:20.971Z"
+      "updatedAt": "2026-10-25T05:28:18.549Z"
     },
     "BBC News": {
       "items": [
-        {
-          "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
-          "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Watch: BBC in Paris as police charge protesters and use tear gas during unrest",
-          "link": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss"
-        },
         {
           "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
           "link": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Ukraine depends on Starlink - can Europe plug the gap?",
-          "link": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss"
+          "title": "Meghan broke contact with father in letter citing abuse claims",
+          "link": "https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Burnham open to 'honest discussion' on EU free movement",
           "link": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
-          "link": "https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss"
+          "title": "Ukraine depends on Starlink - can Europe plug the gap?",
+          "link": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Israel to close West Bank crossings on election day as crackdown escalates",
+          "link": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Voters in Brazil to choose between Lula and Bolsonaro's son",
+          "link": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T00:39:20.978Z"
+      "updatedAt": "2026-10-25T05:28:18.581Z"
     },
     "NY Times": {
       "items": [
+        {
+          "title": "A New Level of Threat and Fear Risks Pushing the U.S. and Iran Back to Full War",
+          "link": "https://www.nytimes.com/2026/10/24/us/politics/trump-netanyahu-iran-new-phase-of-war.html"
+        },
+        {
+          "title": "Iranians Face Anxious Wait as Threat of Attack Looms",
+          "link": "https://www.nytimes.com/2026/10/24/world/middleeast/iranians-face-anxious-wait-as-threat-of-attack-looms.html"
+        },
         {
           "title": "Alaska Election Gambit Shows Justice Dept. Has Bowed to Trump’s Demands",
           "link": "https://www.nytimes.com/2026/10/24/us/politics/alaska-senate-election-trump-justice-department.html"
@@ -216,18 +224,10 @@
         {
           "title": "In Alaska, Some Early Voting Sites in Rural Villages Have Not Yet Opened",
           "link": "https://www.nytimes.com/2026/10/24/us/alaska-early-voting-sites.html"
-        },
-        {
-          "title": "Obama Issues Searing Attacks on Trump, Ramaswamy in Return to Campaign Trail",
-          "link": "https://www.nytimes.com/2026/10/24/us/politics/obama-trump-midterms-campaign.html"
-        },
-        {
-          "title": "A 2028 Presidential Poll Finds Vance, Rubio and Several Democrats in the Mix",
-          "link": "https://www.nytimes.com/2026/10/24/us/democrats-republicans-presidential-primary-poll.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T00:39:21.015Z"
+      "updatedAt": "2026-10-25T05:28:18.765Z"
     },
     "ARTNews": {
       "items": [
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T00:39:21.146Z"
+      "updatedAt": "2026-10-25T05:28:19.042Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T00:39:21.219Z"
+      "updatedAt": "2026-10-25T05:28:19.204Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T00:39:21.575Z"
+      "updatedAt": "2026-10-25T05:28:19.651Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T00:39:21.657Z"
+      "updatedAt": "2026-10-25T05:28:19.784Z"
     }
   }
 }
