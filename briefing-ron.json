@@ -1,65 +1,65 @@
 {
-  "fetchedAt": "2026-10-25T15:55:44.264Z",
+  "fetchedAt": "2026-10-25T18:52:31.036Z",
   "feeds": {
     "MarketWatch": {
       "items": [
         {
+          "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
+          "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories"
+        },
+        {
+          "title": "My partner of 17 years left me his $1 million home. His children are livid. Am I obliged to split it with them?",
+          "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories"
+        },
+        {
+          "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
+          "link": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories"
+        },
+        {
+          "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
+          "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories"
+        },
+        {
+          "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
+          "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories"
+        },
+        {
           "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
           "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories"
-        },
-        {
-          "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
-          "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories"
-        },
-        {
-          "title": "More than a third of S&P 500 companies are about to report earnings as market confidence cracks",
-          "link": "https://www.marketwatch.com/story/more-than-a-third-of-s-p-500-companies-are-about-to-report-earnings-as-market-confidence-cracks-03b7a8f1?mod=mw_rss_topstories"
-        },
-        {
-          "title": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave.",
-          "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Worried about this stock-market selloff? Relief may be coming after the midterms — no matter who wins.",
-          "link": "https://www.marketwatch.com/story/worried-about-this-stock-market-selloff-relief-may-be-coming-after-the-midterms-no-matter-who-wins-39322c07?mod=mw_rss_topstories"
-        },
-        {
-          "title": "‘Nonanswers’ aren’t working. This is what investors really need from the Fed.",
-          "link": "https://www.marketwatch.com/story/non-answers-arent-working-this-is-what-investors-really-need-from-the-fed-673a9dce?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T15:55:41.834Z"
+      "updatedAt": "2026-10-25T18:52:29.458Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Jalen Hurts blood clot investigation to raise questions about Eagles' London trip and medical screening timing",
-          "link": "https://www.foxnews.com/outkick-sports/jalen-hurts-blood-clot-investigation-raise-questions-eagles-london-trip-medical-screening-timing"
+          "title": "MAPPED: The states Trump and top Democrats are targeting before Election Day",
+          "link": "https://www.foxnews.com/politics/mapped-states-trump-top-democrats-targeting-election-day"
         },
         {
-          "title": "From arrests to crackdowns, how Europe’s leaders are responding as protests rock the continent",
-          "link": "https://www.foxnews.com/world/arrests-crackdowns-how-europes-leaders-responding-protests-rock-continent"
+          "title": "Parker McCollum wants his sons to learn the lesson hunting and ranch life taught him growing up",
+          "link": "https://www.foxnews.com/outkick-sports/parker-mccollum-wants-sons-learn-lesson-hunting-ranch-life-taught-growing"
         },
         {
-          "title": "Parents shouldn’t need the help of Congress to see their children’s school curriculum",
-          "link": "https://www.foxnews.com/opinion/parents-shouldnt-need-help-congress-see-children-school-curriculum"
+          "title": "Winless Dolphins end historic drought and they did it against the almost-as-hapless Jets",
+          "link": "https://www.foxnews.com/outkick-sports/winless-dolphins-end-historic-drought-against-hapless-jets"
         },
         {
-          "title": "Chiefs' embattled offensive lineman told to leave meeting before being placed on injured reserve: report",
-          "link": "https://www.foxnews.com/outkick-sports/chiefs-embattled-offensive-lineman-told-leave-meeting-placed-injured-reserve-report"
+          "title": "Rob Lowe gets candid about his best on-screen kiss as other major stars dish on their worst",
+          "link": "https://www.foxnews.com/entertainment/rob-lowe-candid-best-on-screen-kiss-major-stars-dish-worst"
         },
         {
-          "title": "Six Flags to add seat belts to roller coasters after Georgia rider’s death",
-          "link": "https://www.foxnews.com/us/six-flags-add-seat-belts-roller-coasters-georgia-rider-death"
+          "title": "Venezuelan opposition leader María Corina Machado makes surprise return home after nearly a year abroad",
+          "link": "https://www.foxnews.com/world/venezuelan-opposition-leader-maria-corina-machado-surprise-return-home-after-nearly-year-abroad"
         },
         {
-          "title": "'Nobody Wants This' creator disagrees with show star Adam Brody accusing Israel of 'genocide'",
-          "link": "https://www.foxnews.com/media/nobody-wants-this-creator-disagrees-show-star-adam-brody-accusing-israel-genocide"
+          "title": "Who is Itamar Ben-Gvir, the Israeli firebrand rising with the populist right across the globe?",
+          "link": "https://www.foxnews.com/world/who-itamar-ben-gvir-israeli-firebrand-rising-populist-right-across-globe"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T15:55:42.194Z"
+      "updatedAt": "2026-10-25T18:52:29.766Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -89,33 +89,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T15:55:42.428Z"
+      "updatedAt": "2026-10-25T18:52:29.893Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Scaramucci compares Ramaswamy to pigs in ‘Animal Farm,' predicts loss",
-          "link": "https://thehill.com/homenews/state-watch/6170719-scaramucci-animal-farm-ramaswamy/"
+          "title": "Hassett says the economy is 'best we've ever seen'",
+          "link": "https://thehill.com/homenews/administration/6170922-hassett-economy-midterms/"
         },
         {
-          "title": "SNAP winners and losers: Which states are facing possible funding cuts?",
-          "link": "https://thehill.com/homenews/state-watch/6067157-snap-winners-and-losers-which-states-are-facing-possible-funding-cuts/"
+          "title": "Abbott says opponent Hinojosa supports Sharia law",
+          "link": "https://thehill.com/homenews/6170915-texas-gubernatorial-race-sharia-claims/"
         },
         {
-          "title": "How America can bring film and television production home",
-          "link": "https://thehill.com/opinion/finance/6169628-federal-film-tax-incentive/"
+          "title": "Machado returns to Venezuela after 10 months of exile",
+          "link": "https://thehill.com/policy/international/6170833-machado-returns-venezuela/"
         },
         {
-          "title": "Blanche: Alaska Senate race is 'not a fair fight' to Trump",
-          "link": "https://thehill.com/homenews/state-watch/6170732-trump-alaska-senate-lawsuit/"
+          "title": "Live updates: Trump heads to Michigan; Blanche defends DOJ's Alaska lawsuit",
+          "link": "https://thehill.com/homenews/administration/6170651-live-updates-trump-michigan-todd-blanche-doj-lawsuits/"
         },
         {
-          "title": "How Trump learned to stop worrying and love space science",
-          "link": "https://thehill.com/opinion/technology/6168963-trump-saves-nasa-venus-probes/"
+          "title": "Blanche accuses 'Face the Nation' host of 'misleading' description of Alaska election lawsuit",
+          "link": "https://thehill.com/homenews/state-watch/6170778-doj-alaska-election-lawsuit/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T15:55:42.959Z"
+      "updatedAt": "2026-10-25T18:52:30.474Z"
     },
     "Ars Technica": {
       "items": [
@@ -141,10 +141,18 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T15:55:43.132Z"
+      "updatedAt": "2026-10-25T18:52:30.551Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "This Switch 2 sequel accessory was a few millimeters away from being good",
+          "link": "https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on"
+        },
+        {
+          "title": "Now you can watch Instagram Reels on your Apple TV",
+          "link": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv"
+        },
         {
           "title": "r/opensource just banned AI, non-English speakers, and more",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban"
@@ -156,52 +164,44 @@
         {
           "title": "Blue Planet III is keeping the rough edges in the age of AI",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai"
-        },
-        {
-          "title": "Pennsylvania will require labels on AI-generated ads",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act"
-        },
-        {
-          "title": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
-          "link": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T15:55:43.297Z"
+      "updatedAt": "2026-10-25T18:52:30.629Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Israel to close West Bank crossings on election day as crackdown escalates",
-          "link": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
+          "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+          "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Venezuelan opposition leader María Machado returns after months in exile",
+          "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Early reports suggest record high turnout in Serbia elections",
           "link": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-          "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
           "link": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "El Salvador president says bodies found in Haiti are not those of hostages",
-          "link": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss"
+          "title": "Israel to close West Bank crossings on election day as crackdown escalates",
+          "link": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Gabon says access to social media restored after eight-month ban",
           "link": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
-          "link": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss"
+          "title": "El Salvador president says bodies found in Haiti are not those of hostages",
+          "link": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T15:55:43.479Z"
+      "updatedAt": "2026-10-25T18:52:30.687Z"
     },
     "BBC News": {
       "items": [
@@ -210,28 +210,28 @@
           "link": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss"
         },
         {
+          "title": "Letter making claims about Meghan's father written by his ex-wife, BBC understands",
+          "link": "https://www.bbc.co.uk/news/articles/c60qk44w9wglo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Venezuelan opposition leader María Machado returns after months in exile",
+          "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Carrick future under major threat - can he survive?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/crgj9wnpd1lvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Board of Deputies of British Jews declares Greens to be racist party",
+          "link": "https://www.bbc.co.uk/news/articles/ckx2qyd17eqvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Couple were celebrating anniversary before Bahamas tragedy",
           "link": "https://www.bbc.co.uk/news/articles/c623drpx31xzo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-          "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Why the charts are full of old songs - and so are your playlists",
-          "link": "https://www.bbc.co.uk/news/articles/c6kg50nnj0x4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "The bitter row over military service that could shape Israel's future",
-          "link": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Why the King's Caribbean tour could be 'biggest risk of his reign'",
-          "link": "https://www.bbc.co.uk/news/articles/ckzd6gvg1r2jo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T15:55:43.668Z"
+      "updatedAt": "2026-10-25T18:52:30.714Z"
     },
     "NY Times": {
       "items": [
@@ -240,24 +240,24 @@
           "link": "https://www.nytimes.com/2026/10/24/us/politics/trump-netanyahu-iran-new-phase-of-war.html"
         },
         {
-          "title": "Iranians Face Anxious Wait as Threat of Attack Looms",
-          "link": "https://www.nytimes.com/2026/10/24/world/middleeast/iranians-face-anxious-wait-as-threat-of-attack-looms.html"
-        },
-        {
           "title": "Saudi Arabia Reopens Riyadh Airport Even as Houthis Threaten Further Strikes",
           "link": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html"
+        },
+        {
+          "title": "The Epstein Files Produce an Unlikely Weapon for the Houthi Messaging Wars",
+          "link": "https://www.nytimes.com/2026/10/23/world/middleeast/houthis-saudi-arabia-propaganda-epstein.html"
         },
         {
           "title": "Introducing a New Way to Understand the Election: Times Voter Trends",
           "link": "https://www.nytimes.com/2026/10/25/upshot/election-midterms-times-voter-trends.html"
         },
         {
-          "title": "Israel’s High-Stakes Election: What to Know",
-          "link": "https://www.nytimes.com/2026/10/25/world/middleeast/israels-high-stakes-election-what-to-know.html"
+          "title": "María Corina Machado Returns to Venezuela",
+          "link": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T15:55:43.839Z"
+      "updatedAt": "2026-10-25T18:52:30.816Z"
     }
   },
   "indices": {
@@ -284,8 +284,8 @@
       },
       {
         "name": "Bitcoin",
-        "price": 80526.78,
-        "pct": -4.148444560935784
+        "price": 80564.24,
+        "pct": -4.103855676756534
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-25T15:55:44.264Z"
+    "updatedAt": "2026-10-25T18:52:31.036Z"
   }
 }
