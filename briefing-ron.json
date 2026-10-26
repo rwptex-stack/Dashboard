@@ -1,299 +1,299 @@
 {
-  "fetchedAt": "2026-10-26T12:41:43.313Z",
+  "fetchedAt": "2026-10-26T19:07:12.253Z",
   "feeds": {
     "MarketWatch": {
       "items": [
-        {
-          "title": "Musk says SpaceX’s AI rivals are in trouble, sending their stocks lower",
-          "link": "https://www.marketwatch.com/story/musk-says-spacex-landed-a-40-billion-debt-deal-and-forecasts-doom-for-some-ai-rivals-a0a4991e?mod=mw_rss_topstories"
-        },
-        {
-          "title": "A dot-com survivor warns retail investors against buying the tech dip: ‘You’re taking a knife to a gunfight.’",
-          "link": "https://www.marketwatch.com/story/a-dot-com-survivor-warns-retail-investors-against-buying-the-tech-dip-youre-taking-a-knife-to-a-gunfight-6c940361?mod=mw_rss_topstories"
-        },
         {
           "title": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering",
           "link": "https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories"
         },
         {
-          "title": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave.",
-          "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories"
+          "title": "My wife has only $80,000 saved for retirement. I have $2.2 million. Am I wrong to be shocked?",
+          "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories"
         },
         {
-          "title": "The stock market’s biggest test in weeks is here",
-          "link": "https://www.marketwatch.com/story/the-stock-markets-biggest-test-in-weeks-is-here-256f5a37?mod=mw_rss_topstories"
+          "title": "These energy stocks are poised to profit from an imminent AI power crunch",
+          "link": "https://www.marketwatch.com/story/these-energy-stocks-are-poised-to-profit-from-an-imminent-ai-power-crunch-00c1a50d?mod=mw_rss_topstories"
         },
         {
-          "title": "Verizon’s stock rises as subscriber surge impresses Wall Street",
-          "link": "https://www.marketwatch.com/story/verizons-stock-rises-as-subscriber-surge-impresses-wall-street-2be3ef2c?mod=mw_rss_topstories"
+          "title": "Meet the financial-literacy teacher who helps high-school students open their own Roth IRAs",
+          "link": "https://www.marketwatch.com/story/meet-the-financial-literacy-teacher-who-helps-high-school-students-open-their-own-roth-iras-652d56a8?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
+          "link": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories"
+        },
+        {
+          "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+          "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-26T12:41:41.103Z"
+      "updatedAt": "2026-10-26T19:07:11.087Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Nikole Hannah-Jones laments 'pretty brutal' response to viral essay on sending daughter to public school",
-          "link": "https://www.foxnews.com/media/nikole-hannah-jones-laments-pretty-brutal-response-viral-essay-sending-daughter-public-school"
+          "title": "Omar’s menacing message hidden in seemingly innocent tweet exposed: 'Crushed the enemy'",
+          "link": "https://www.foxnews.com/politics/omars-menacing-message-hidden-seemingly-innocent-tweet-exposed-crushed-enemy"
         },
         {
-          "title": "Tallahassee police arrest 15-year-old suspect after shooting near Florida A&M football stadium",
-          "link": "https://www.foxnews.com/us/tallahassee-police-arrest-15-year-old-suspect-shooting-florida-am-football-stadium"
+          "title": "Haley Stevens ripped by fellow Dems for refusing to explicitly back El-Sayed: 'Stay the f--- off television'",
+          "link": "https://www.foxnews.com/politics/haley-stevens-ripped-fellow-dems-refusing-explicitly-back-el-sayed-stay-f-off-television"
         },
         {
-          "title": "Medieval hospital built for victims of feared disease gives up long-buried secrets",
-          "link": "https://www.foxnews.com/travel/medieval-hospital-built-victims-feared-disease-gives-long-buried-secrets"
+          "title": "Obama judge rules Trump DOJ illegally fired James Comey's daughter, rejects sweeping Article II claim",
+          "link": "https://www.foxnews.com/politics/obama-judge-rules-trump-doj-illegally-fired-james-comeys-daughter-rejects-sweeping-article-ii-claim"
         },
         {
-          "title": "Dem Senate hopeful rejects Schumer but benefits from millions in spending by his allies",
-          "link": "https://www.foxnews.com/politics/dem-senate-hopeful-rejects-schumer-benefits-from-millions-spending-his-allies"
+          "title": "Lincoln Riley’s USC tenure could end with loss against Ohio State’s backup quarterback, and $70m buyout",
+          "link": "https://www.foxnews.com/outkick-sports/lincoln-riley-usc-tenure-could-end-loss-against-ohio-state-backup-quarterback-70m-buyout"
         },
         {
-          "title": "ESPN star calls out Jets head coach following team's loss to winless Dolphins",
-          "link": "https://www.foxnews.com/outkick-sports/espn-star-calls-out-jets-head-coach-following-team-loss-winless-dolphins"
+          "title": "Netanyahu fights for political future as Israel heads to polls with Iran threat looming",
+          "link": "https://www.foxnews.com/world/netanyahu-fights-political-future-israel-heads-polls-iran-threat-looming"
         },
         {
-          "title": "Trump escalates attacks on El-Sayed as Michigan Senate race tightens and more top headlines",
-          "link": "https://www.foxnews.com/us/trump-escalates-attacks-el-sayed-michigan-senate-race-tightens-more-top-headlines"
+          "title": "Schiff accuses DOJ of trying to 'subvert' elections as GOP alleges same-name candidate meant to confuse voters",
+          "link": "https://www.foxnews.com/politics/schiff-accuses-doj-trying-subvert-elections-gop-alleges-same-name-candidate-meant-confuse-voters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-26T12:41:41.342Z"
+      "updatedAt": "2026-10-26T19:07:11.189Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "Brazil Votes for More Lula",
-          "link": "https://www.realclearpolitics.com/2026/10/26/brazil_votes_for_more_lula_715381.html"
+          "title": "Arrests, Prosecutions, Deportations Fuel Record Drop in Crime",
+          "link": "https://www.realclearinvestigations.com/articles/2026/10/26/go_figure_arrests_prosecutions_and_deportations_fuel_record_drop_in_crime_1213581.html"
         },
         {
-          "title": "The Former General Who Could End the Netanyahu Era",
-          "link": "https://www.realclearpolitics.com/2026/10/26/the_former_general_who_could_end_the_netanyahu_era_715441.html"
+          "title": "What I Learned Following El-Sayed's Campaign Across MI",
+          "link": "https://www.realclearpolitics.com/2026/10/26/what_i_learned_following_el-sayeds_campaign_across_mi_715516.html"
         },
         {
-          "title": "On the Ground With Trump During His Election Blitz",
-          "link": "https://www.realclearpolitics.com/2026/10/26/on_the_ground_with_trump_during_his_election_blitz_715382.html"
+          "title": "Democrats' Court-Packing Scheme Would Destroy Nation",
+          "link": "https://www.realclearpolitics.com/2026/10/26/democrats_court-packing_scheme_would_destroy_nation_715525.html"
         },
         {
-          "title": "The Logic Behind Trump's 'Pretend I'm On the Ballot' Appeal",
-          "link": "https://www.realclearpolitics.com/2026/10/26/the_logic_behind_trumps_pretend_im_on_the_ballot_appeal_715413.html"
+          "title": "'LULA!' Progressives Hail Brazil's Stunning Election Result",
+          "link": "https://www.realclearpolitics.com/2026/10/26/lula_progressives_hail_brazils_stunning_election_result_715505.html"
         },
         {
-          "title": "Talarico Is the Dems' Best Chance Ever To Win in Texas",
-          "link": "https://www.realclearpolitics.com/2026/10/26/talarico_is_the_dems_best_chance_ever_to_win_in_texas_715383.html"
+          "title": "Election Travesty in Brazil",
+          "link": "https://www.realclearpolitics.com/2026/10/26/election_travesty_in_brazil_715527.html"
         },
         {
-          "title": "It's Unbelievable How Media Defends Abdul El-Sayed",
-          "link": "https://www.realclearpolitics.com/video/2026/10/25/mike_rogers_its_unbelievable_how_the_national_media_defends_abdul_el-sayed.html"
+          "title": "DOJ Just Made the Case for Ranked-Choice Voting",
+          "link": "https://www.realclearpolitics.com/articles/2026/10/26/doj_just_made_the_case_for_ranked-choice_voting_154619.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-26T12:41:41.517Z"
+      "updatedAt": "2026-10-26T19:07:11.360Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "El-Sayed to Trump: 'I will be Senator Muhammad to you bro'",
-          "link": "https://thehill.com/homenews/state-watch/6171651-el-sayed-fires-back-trump-attacks/"
+          "title": "Democrats, world leaders congratulate Trump critic Lula on reelection in Brazil",
+          "link": "https://thehill.com/policy/international/6172962-lula-wins-brazilian-presidency/"
         },
         {
-          "title": "Trump critic Lula wins reelection in Brazil",
-          "link": "https://thehill.com/policy/international/6171633-lula-wins-brazil-runoff-bolsonaro/"
+          "title": "Vance, Harris top early 2028 White House race polling",
+          "link": "https://thehill.com/homenews/campaign/6173025-vance-harris-white-house-polling/"
         },
         {
-          "title": "Corporations enabling Trump's corruption deserve 'pocketbook justice'",
-          "link": "https://thehill.com/opinion/campaign/6169472-boycott-trump-corporate-collaborators/"
+          "title": "6 citizens sue Trump over White House bans on news outlets",
+          "link": "https://thehill.com/regulation/court-battles/6172985-citizens-sue-trump-white-house-bans/"
         },
         {
-          "title": "The House is sitting on the evidence about pulsed microwave attacks",
-          "link": "https://thehill.com/opinion/national-security/6167921-the-house-is-sitting-on-the-evidence-about-pulsed-microwave-attacks/"
+          "title": "Massie says he'll move to impeach Hegseth if he's not gone after midterms",
+          "link": "https://thehill.com/homenews/house/6172957-massie-hegseth-impeachment-midterms/"
         },
         {
-          "title": "Trump takes blow in Brazil; faces new challenge in Venezuela",
-          "link": "https://thehill.com/newsletters/morning-report/6171628-lula-defeats-bolsonaro-brazil-machado-returns-venezuela/"
+          "title": "Pulte vows action against ‘abusive monopolies’ in mortgage market",
+          "link": "https://thehill.com/business/6172844-fhfa-director-challenges-fico-monopoly/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-26T12:41:42.168Z"
+      "updatedAt": "2026-10-26T19:07:11.842Z"
     },
     "Ars Technica": {
       "items": [
         {
-          "title": "From impulse purchase to pocket studio: The M-Vave FM-1",
-          "link": "https://arstechnica.com/gadgets/2026/10/from-impulse-purchase-to-pocket-studio-the-m-vave-fm-1/"
+          "title": "Boston Dynamics employees want to block sale of robot dogs to ICE",
+          "link": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/"
         },
         {
-          "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
-          "link": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/"
+          "title": "Musk accuses Ukraine of violating Starlink terms with deadly drone strikes",
+          "link": "https://arstechnica.com/tech-policy/2026/10/musk-accuses-ukraine-of-violating-starlink-terms-with-deadly-drone-strikes/"
         },
         {
-          "title": "Ice sheet expansion may have started 2,000 years ago, but we canceled that",
-          "link": "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/"
+          "title": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
+          "link": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/"
         },
         {
-          "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
-          "link": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/"
+          "title": "Some iPhone Duo screens are already failing",
+          "link": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/"
         },
         {
-          "title": "Hegseth warns prediction market bets warp military judgment, endanger troops",
-          "link": "https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk/"
+          "title": "F1 in Texas: The American race that fans love to attend",
+          "link": "https://arstechnica.com/cars/2026/10/f1-in-texas-one-more-race-and-well-have-a-new-champion/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-26T12:41:42.286Z"
+      "updatedAt": "2026-10-26T19:07:11.943Z"
     },
     "The Verge": {
       "items": [
         {
-          "title": "The city that fought Flock",
-          "link": "https://www.theverge.com/features/1017836/flock-huntington-west-virginia-surveillance-ballot-measure"
+          "title": "iPhone Duo now supports Apple Pencil with iOS 27.2",
+          "link": "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil"
         },
         {
-          "title": "iFixit&#8217;s look inside the iPhone Duo may explain those broken screens and hinges",
-          "link": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge"
+          "title": "The NBA’s response to gambling scandals is to add more gambling partnerships",
+          "link": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket"
         },
         {
-          "title": "Scott Walker’s The Drift will get under your skin",
-          "link": "https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review"
+          "title": "The RealReal won’t let AI agents hog designer clothing",
+          "link": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal"
         },
         {
-          "title": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate",
-          "link": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen"
+          "title": "Apple acknowledges iPhone Duo display &#8216;issue&#8217; after reports of cracked screens",
+          "link": "https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack"
         },
         {
-          "title": "Zen Browser is the Arc replacement I was looking for",
-          "link": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement"
+          "title": "Nothing&#8217;s eye-catching Ear 3A earbuds are matching their best price to date",
+          "link": "https://www.theverge.com/gadgets/1018612/nothing-ear-3a-noise-canceling-earbuds-deal-sale"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-26T12:41:42.399Z"
+      "updatedAt": "2026-10-26T19:07:12.040Z"
     },
     "BBC World": {
       "items": [
+        {
+          "title": "Lula wins fourth term in dramatic Brazil election comeback",
+          "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
           "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss"
         },
         {
+          "title": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
+          "link": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+          "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Catholic bishops apologise for 'exploited' Trump meeting",
+          "link": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "US Marine indicted for murder and robbery of woman in Japan",
+          "link": "https://www.bbc.co.uk/news/articles/c3vgxjex1z9wo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Venezuelan opposition leader María Machado returns after months in exile",
           "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Australian murderer loses bid to eat Vegemite in prison",
-          "link": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46",
-          "link": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
-          "link": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Uganda imposes 21-day quarantine on citizens returning from DR Congo",
-          "link": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Deeply divided Israel braces for pivotal election",
-          "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-26T12:41:42.847Z"
+      "updatedAt": "2026-10-26T19:07:12.068Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Watch: How Lula turned it around to beat former president's son",
-          "link": "https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo?at_medium=RSS&at_campaign=rss"
+          "title": "Independent review announced into murder of student Henry Nowak",
+          "link": "https://www.bbc.co.uk/news/articles/cv70pnw784x7o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Storm Boelo leaves 90,000 without power as Met Office issues new wind warning",
+          "title": "Israel and the US are both going to the polls - the consequences will be global",
+          "link": "https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Drivers who killed mum and girl while racing jailed",
+          "link": "https://www.bbc.co.uk/news/articles/cqy0r3n17gjyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Storm Boelo leaves 22,000 without power as Met Office issues new wind warning",
           "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Healey to shield low-income pensioners from income tax in the Budget",
-          "link": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss"
+          "title": "How 'Lula's Army' WhatsApp channel helped turn Brazil election around",
+          "link": "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Daughter wins £127k claim for caring for mum at home",
-          "link": "https://www.bbc.co.uk/news/articles/cr93zp78g580o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "What is walking down the newly-pedestrianised Oxford Street like?",
-          "link": "https://www.bbc.co.uk/news/videos/c5pvg8y8lk2mo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Consultant doctors in England to strike next month",
-          "link": "https://www.bbc.co.uk/news/articles/c69wzxw2pvv0o?at_medium=RSS&at_campaign=rss"
+          "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+          "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-26T12:41:42.934Z"
+      "updatedAt": "2026-10-26T19:07:12.074Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "Lula Defeats Bolsonaro for Brazil Presidency, in Blow to Latin America’s Right",
-          "link": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-president-lula-bolsonaro.html"
+          "title": "Anthropic’s IPO S-1 Spells Out a Future of Promise and Peril",
+          "link": "https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-s1-dario-amodei.html"
         },
         {
-          "title": "What to Know About Lula’s Election Victory in Brazil, and What Comes Next",
-          "link": "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-win-what-to-know.html"
+          "title": "Anthropic S-1 Reveals Rapid Growth Ahead of Blockbuster IPO",
+          "link": "https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html"
         },
         {
-          "title": "Brazil’s Election Defies a Right-Wing Trend, and Trump’s Midterm Attacks Enter a New Phase",
-          "link": "https://www.nytimes.com/2026/10/26/podcasts/the-headlines/brazil-election-trumps-midterm-attacks.html"
+          "title": "Meet Anthropic’s Seven Founders as the A.I. Firm Prepares for an IPO",
+          "link": "https://www.nytimes.com/2026/10/26/technology/anthropic-founders.html"
         },
         {
           "title": "Israeli Jews Across the Spectrum Face an Election of Fears",
           "link": "https://www.nytimes.com/2026/10/26/world/middleeast/israel-election-stakes.html"
         },
         {
-          "title": "The 11 Midterm Races That Could Shape the Progressive Movement’s Future",
-          "link": "https://www.nytimes.com/2026/10/26/us/politics/the-11-midterm-races-that-could-shape-the-progressive-movements-future.html"
+          "title": "Flurry of Diplomacy in Iran Amid Reports of U.S. and Israeli Plans to Renew War",
+          "link": "https://www.nytimes.com/2026/10/26/world/middleeast/iran-war-new-attacks-diplomacy.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-26T12:41:43.110Z"
+      "updatedAt": "2026-10-26T19:07:12.104Z"
     }
   },
   "indices": {
     "data": [
       {
         "name": "S&P 500",
-        "price": 7623.68,
-        "pct": -0.466874862914251
+        "price": 7674.81,
+        "pct": -0.2070024562037565
       },
       {
         "name": "Dow Jones",
-        "price": 52215.16,
-        "pct": 0.40911565444755343
+        "price": 52311.28,
+        "pct": 0.6643763243026262
       },
       {
         "name": "Nasdaq",
-        "price": 25955.342,
-        "pct": -0.7065332365724075
+        "price": 26180.1,
+        "pct": -0.9488518926150458
       },
       {
         "name": "Gold",
-        "price": 4036.3,
-        "pct": -2.7397590361445743
+        "price": 4027.2,
+        "pct": -2.9590361445783175
       },
       {
         "name": "Bitcoin",
-        "price": 80201.4,
-        "pct": -1.365716625206972
+        "price": 79885.97,
+        "pct": -1.753642671446941
       },
       {
         "name": "SpaceX",
-        "price": 147.49,
-        "pct": 0.9997945627610818
+        "price": 148.05,
+        "pct": 0.060827250608274805
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-26T12:41:43.313Z"
+    "updatedAt": "2026-10-26T19:07:12.253Z"
   }
 }
