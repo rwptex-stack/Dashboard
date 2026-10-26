@@ -1,8 +1,12 @@
 {
-  "fetchedAt": "2026-10-26T00:01:34.932Z",
+  "fetchedAt": "2026-10-26T05:55:15.676Z",
   "feeds": {
     "MarketWatch": {
       "items": [
+        {
+          "title": "Musk says SpaceX landed a $40 billion debt deal — and forecasts doom for some AI rivals",
+          "link": "https://www.marketwatch.com/story/musk-says-spacex-landed-a-40-billion-debt-deal-and-forecasts-doom-for-some-ai-rivals-a0a4991e?mod=mw_rss_topstories"
+        },
         {
           "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
           "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories"
@@ -22,100 +26,96 @@
         {
           "title": "My partner of 17 years left me his $1 million home. His children are livid. Am I obliged to split it with them?",
           "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories"
-        },
-        {
-          "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
-          "link": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-26T00:01:33.553Z"
+      "updatedAt": "2026-10-26T05:55:14.458Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "NFL's French national anthem performer Nina Tonji alters words to La Marseillaise, sparking outrage in France",
-          "link": "https://www.foxnews.com/outkick-sports/nfl-french-national-anthem-performer-nina-tonji-alters-words-la-marseillaise-sparking-outrage-france"
+          "title": "Seattle Seahawks dominate Chiefs 20-3 as Sam Darnold silences critics in potential Super Bowl preview",
+          "link": "https://www.foxnews.com/outkick-sports/seattle-seahawks-dominate-chiefs-20-3-sam-darnold-silences-critics-potential-super-bowl-preview"
         },
         {
-          "title": "DAVID MARCUS: The future of the GOP in New England rides on Maine’s Senate vote",
-          "link": "https://www.foxnews.com/opinion/david-marcus-future-gop-new-england-rides-maines-senate-vote"
+          "title": "Thunder star Jalen 'J-Dub' Williams stretchered off court after gruesome left leg injury leaves him stunned",
+          "link": "https://www.foxnews.com/outkick-sports/thunder-star-jalen-j-dub-williams-stretchered-off-court-gruesome-left-leg-injury-leaves-him-stunned"
         },
         {
-          "title": "Steve Hilton hits Dem governor's 2028 pitch by calling out Newsom's rail record",
-          "link": "https://www.foxnews.com/media/steve-hilton-hits-dem-governors-2028-pitch-calling-out-newsoms-rail-record"
+          "title": "Bruce Blakeman calls Kathy Hochul Zohran Mamdani's 'puppet' during New York campaign rally",
+          "link": "https://www.foxnews.com/politics/bruce-blakeman-calls-kathy-hochul-zohran-mamdani-puppet-new-york-campaign-rally"
         },
         {
-          "title": "Stolen car slams into South Carolina home as teens bolt, authorities say",
-          "link": "https://www.foxnews.com/us/stolen-car-slams-south-carolina-home-teens-bolt-authorities-say"
+          "title": "Cam Skattebo takes aim at NFL after controversial call in Giants win: 'Guess I’m going to play for free'",
+          "link": "https://www.foxnews.com/outkick-sports/cam-skattebo-takes-aim-nfl-controversial-call-giants-win-guess-im-going-play-free"
         },
         {
-          "title": "Zelenskyy can leverage Moscow ties from comedy days to make peace deal, says former key aide",
-          "link": "https://www.foxnews.com/world/zelenskyy-can-leverage-moscow-ties-from-comedy-days-make-peace-deal-says-former-key-aide"
+          "title": "College homecoming party turns to chaos as deck collapses, leaving at least 28 people injured",
+          "link": "https://www.foxnews.com/us/college-homecoming-party-turns-chaos-deck-collapses-leaving-28-people-injured"
         },
         {
-          "title": "Kendal Daniels goes from stretcher to game-sealing fumble recovery in Falcons' win over 49ers",
-          "link": "https://www.foxnews.com/outkick-sports/kendal-daniels-stretcher-game-sealing-fumble-recovery-falcons-win-49ers"
+          "title": "Ninth Circuit questions Trump DOJ's emergency request to set aside 20,000 California mail ballots",
+          "link": "https://www.foxnews.com/politics/ninth-circuit-questions-trump-doj-emergency-request-set-aside-20000-california-mail-ballots"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-26T00:01:33.734Z"
+      "updatedAt": "2026-10-26T05:55:14.600Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "Obama & Trump Wage One Final Battle for Huge Stakes",
-          "link": "https://www.realclearpolitics.com/2026/10/25/obama_amp_trump_wage_one_final_battle_for_huge_stakes_715372.html"
+          "title": "As AOC's Ambition Grows, Her Tactics Soften & Risks Increase",
+          "link": "https://www.realclearpolitics.com/2026/10/25/as_aocrsquos_ambition_grows_her_tactics_soften_amp_risks_increase_715300.html"
         },
         {
-          "title": "Talarico's Extremism & the Race That Shouldn't Be Close",
-          "link": "https://www.realclearpolitics.com/2026/10/25/talaricos_extremism_amp_the_race_that_shouldnt_be_close_715370.html"
+          "title": "How Christianity Became an Issue in TX Senate Race",
+          "link": "https://www.realclearpolitics.com/2026/10/25/how_christianity_became_an_issue_in_tx_senate_race_715315.html"
         },
         {
-          "title": "2026 Deciders: They Voted for Trump & Now Disapprove of Him",
-          "link": "https://www.realclearpolitics.com/2026/10/25/2026_deciders_they_voted_for_trump_amp_now_disapprove_of_him_715311.html"
+          "title": "Why France Descended Into Nihilism",
+          "link": "https://www.realclearpolitics.com/2026/10/24/why_france_descended_into_nihilism_715214.html"
         },
         {
-          "title": "The Democrats Stampede To Pack the Supreme Court",
-          "link": "https://www.realclearpolitics.com/video/2026/10/24/laura_ingraham_the_democrats_stampede_to_pack_the_supreme_court.html"
+          "title": "Is 'Gentle Parenting' Just a Fast Way To Ruin Your Child?",
+          "link": "https://www.realclearpolitics.com/2026/10/23/is_gentle_parenting_just_a_fast_way_to_ruin_your_child_715197.html"
         },
         {
-          "title": "Could Rep. Omar Be Deported?",
-          "link": "https://www.realclearpolitics.com/2026/10/24/could_rep_omar_be_deported_715262.html"
+          "title": "It's Unbelievable How Media Defends Abdul El-Sayed",
+          "link": "https://www.realclearpolitics.com/video/2026/10/25/mike_rogers_its_unbelievable_how_the_national_media_defends_abdul_el-sayed.html"
         },
         {
-          "title": "NYT: 'Accountability' for Trump Is an 'Affront' for Omar",
-          "link": "https://www.realclearpolitics.com/2026/10/25/nyt_accountability_for_trump_is_an_affront_for_omar_715371.html"
+          "title": "Defund Musk: Dems Should Be Getting Ready  to Nationalize SpaceX",
+          "link": "https://www.realclearpolitics.com/video/2026/10/25/robert_reich_democrats_should_defund_musk_start_laying_groundwork_to_nationalize_starlink_and_spacex.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-26T00:01:33.891Z"
+      "updatedAt": "2026-10-26T05:55:14.739Z"
     },
     "The Hill": {
       "items": [
         {
+          "title": "Nicki Minaj tells Trump she’ll support him if he runs again",
+          "link": "https://thehill.com/blogs/in-the-know/6171497-nicki-minaj-support-trump-michigan-rally-press-secretary/"
+        },
+        {
+          "title": "Trump considering moving White House press corps",
+          "link": "https://thehill.com/homenews/administration/6171484-donald-trump-considering-moving-white-house-press-corps/"
+        },
+        {
+          "title": "El-Sayed: Trump has as much regard for Constitution as ‘a piece of toilet paper’",
+          "link": "https://thehill.com/homenews/campaign/6171437-el-sayed-trump-has-as-much-regard-for-constitution-as-a-piece-of-toilet-paper/"
+        },
+        {
+          "title": "Tillis says it's 'appropriate to take a look at' Alaska ballot with two Dan Sullivans running",
+          "link": "https://thehill.com/homenews/campaign/6170783-thom-tillis-look-at-alaska-ballot-with-two-dan-sullivans-running/"
+        },
+        {
           "title": "Trump says El-Sayed should have to pass through metal detector to enter Senate",
           "link": "https://thehill.com/homenews/administration/6171296-donald-trump-abdul-el-sayed-pass-through-metal-detector-to-enter-senate/"
-        },
-        {
-          "title": "Tillis accuses California of being 'guilty' of ballot harvesting: 'They have a system there that is ripe for abuse'",
-          "link": "https://thehill.com/homenews/senate/6170781-thom-tillis-accuses-california-of-ballot-harvesting/"
-        },
-        {
-          "title": "Appeals court resists DOJ's bid to immediately segregate 20k California ballots",
-          "link": "https://thehill.com/regulation/court-battles/6171263-appeals-court-denies-emergency-california-hearing/"
-        },
-        {
-          "title": "Rogers dodges questions on MAGA label, Trump tariffs",
-          "link": "https://thehill.com/homenews/campaign/6171235-rogers-dodges-magar-label-interview/"
-        },
-        {
-          "title": "Hinson calls Putin 'murderer,' says US should not make deals with Russia",
-          "link": "https://thehill.com/homenews/house/6171171-ashley-hinson-calls-putin-murderer/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-26T00:01:34.481Z"
+      "updatedAt": "2026-10-26T05:55:15.179Z"
     },
     "Ars Technica": {
       "items": [
@@ -141,7 +141,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-26T00:01:34.553Z"
+      "updatedAt": "2026-10-26T05:55:15.315Z"
     },
     "The Verge": {
       "items": [
@@ -167,97 +167,97 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-26T00:01:34.695Z"
+      "updatedAt": "2026-10-26T05:55:15.363Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+          "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
           "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Deeply divided Israel braces for pivotal election",
-          "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Venezuelan opposition leader María Machado returns after months in exile",
           "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-          "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
+          "title": "Deeply divided Israel braces for pivotal election",
+          "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Australian murderer loses bid to eat Vegemite in prison",
+          "link": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
           "link": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Israel to close West Bank crossings on election day as crackdown escalates",
-          "link": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
+          "title": "Russia to host first Olympic federation world event since Ukraine invasion",
+          "link": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Gabon says access to social media restored after eight-month ban",
-          "link": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss"
+          "title": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
+          "link": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-26T00:01:34.731Z"
+      "updatedAt": "2026-10-26T05:55:15.503Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Two men killed by falling trees as Storm Boelo leaves 160,000 properties without power",
+          "title": "Watch: How Lula turned it around to beat former president's son",
+          "link": "https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Two men killed by falling trees as Storm Boelo leaves 90,000 properties without power",
           "link": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+          "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
           "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Faisal Islam: Healey's Budget needs to sustain the stronger economy through gathering clouds",
+          "link": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Funding set to double for plan to get rough sleepers off streets by Christmas",
           "link": "https://www.bbc.co.uk/news/articles/c3n04yxn2yqro?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Letter making claims about Meghan's father written by his first wife, BBC understands",
-          "link": "https://www.bbc.co.uk/news/articles/c60qk44w9wglo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Deeply divided Israel braces for pivotal election",
-          "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "End approaching for Carrick but Man Utd fans make clear who they blame",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cwm24jk9743yo?at_medium=RSS&at_campaign=rss"
+          "title": "Sharon Osbourne: 'I visit Ozzy's grave every day'",
+          "link": "https://www.bbc.co.uk/news/articles/c6g7xn8p2n0ro?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-26T00:01:34.755Z"
+      "updatedAt": "2026-10-26T05:55:15.517Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "María Corina Machado Returns to Venezuela",
-          "link": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html"
+          "title": "Could Lula Be on the Brink of Defeat in Brazil’s Election?",
+          "link": "https://www.nytimes.com/2026/10/24/world/americas/lula-brazil-election-president.html"
         },
         {
-          "title": "Who Is María Corina Machado?",
-          "link": "https://www.nytimes.com/2026/10/25/world/americas/who-is-maria-corina-machado.html"
+          "title": "Israeli Jews Across the Spectrum Face an Election of Fears",
+          "link": "https://www.nytimes.com/2026/10/26/world/middleeast/israel-election-stakes.html"
+        },
+        {
+          "title": "María Corina Machado Returns to Venezuela",
+          "link": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html"
         },
         {
           "title": "Trump’s Election Attacks Enter New Pre-emptive Phase",
           "link": "https://www.nytimes.com/2026/10/25/us/politics/trumps-election-alaska.html"
         },
         {
-          "title": "How Obama and Trump Made their Cases in Dueling Midterm Speeches",
-          "link": "https://www.nytimes.com/2026/10/25/us/politics/obama-trump-competing-rallies-midterms.html"
-        },
-        {
-          "title": "In Texas Senate Race, Talarico Leans Into Growing Rivalry With Elon Musk",
-          "link": "https://www.nytimes.com/2026/10/25/us/politics/talarico-musk-texas-senate-paxton-midterms.html"
+          "title": "In Islamophobic Rant, Trump Seeks to Stir Republican Base in Michigan",
+          "link": "https://www.nytimes.com/2026/10/25/us/elections/trump-michigan-el-sayed-rogers.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-26T00:01:34.799Z"
+      "updatedAt": "2026-10-26T05:55:15.575Z"
     }
   },
   "indices": {
@@ -279,13 +279,13 @@
       },
       {
         "name": "Gold",
-        "price": 4008.6,
-        "pct": -3.2346835320813123
+        "price": 4024.4,
+        "pct": -3.026506024096383
       },
       {
         "name": "Bitcoin",
-        "price": 80034.76,
-        "pct": -1.5706559028452107
+        "price": 80068.59,
+        "pct": -1.5290506714331729
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-26T00:01:34.932Z"
+    "updatedAt": "2026-10-26T05:55:15.676Z"
   }
 }
