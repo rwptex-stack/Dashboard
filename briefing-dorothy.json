@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-10-25T22:53:46.502Z",
+  "fetchedAt": "2026-10-26T00:49:53.883Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "After yet another inexcusable loss to Wisconsin, the Lincoln Riley era at USC looks to be nearing an end",
-          "link": "https://www.foxnews.com/outkick-sports/inexcusable-loss-wisconsin-lincoln-riley-era-usc-nearing-end"
+          "title": "Israel drills for surprise attack with massive military exercise as expert invokes 1973 war",
+          "link": "https://www.foxnews.com/world/israel-drills-surprise-attack-massive-military-exercise-expert-invokes-1973-war"
         },
         {
-          "title": "Harbaugh credits players, including J.J. McCarthy and Cam Skattebo, and 'Lord God in heaven' for Giants OT win",
-          "link": "https://www.foxnews.com/outkick-sports/harbaugh-credits-players-jj-mccarthy-cam-skattebo-lord-god-heaven-giants-ot-win"
+          "title": "Conservative wave hits roadblock in Brazil as Lula holds off Bolsonaro challenge",
+          "link": "https://www.foxnews.com/world/conservative-wave-hits-roadblock-brazil-lula-holds-off-bolsonaro-challenge"
         },
         {
-          "title": "Budget airline expands its footprint with 11 new tropical flight routes beginning in November",
-          "link": "https://www.foxnews.com/travel/budget-airline-expands-footprint-11-new-tropical-flight-routes-beginning-november"
+          "title": "Todd Blanche challenges Dana Bash for only citing part of Constitution during heated election clash",
+          "link": "https://www.foxnews.com/media/todd-blanche-challenges-dana-bash-only-citing-part-constitution-during-heated-election-clash"
         },
         {
-          "title": "NASCAR's Joey Logano rides on his roof, Riley Herbst nails wall at full speed in dangerous Talladega wreck",
-          "link": "https://www.foxnews.com/outkick-sports/nascars-joey-logano-rides-roof-riley-herbst-nails-wall-full-speed-dangerous-talladega-wreck"
+          "title": "Donna Mills, 85, draws the line at unexpected OnlyFans request: ‘I’m not going to’",
+          "link": "https://www.foxnews.com/entertainment/donna-mills-85-draws-line-unexpected-onlyfans-request-im-not-going"
         },
         {
-          "title": "Rogers fires back at Welker over El-Sayed's Muslim Brotherhood controversy, 'You are giving him a pass'",
-          "link": "https://www.foxnews.com/media/rogers-fires-back-welker-over-el-sayeds-muslim-brotherhood-controversy-you-giving-him-pass"
+          "title": "NFL's French national anthem performer Nina Tonji alters words to La Marseillaise, sparking outrage in France",
+          "link": "https://www.foxnews.com/outkick-sports/nfl-french-national-anthem-performer-nina-tonji-alters-words-la-marseillaise-sparking-outrage-france"
         },
         {
-          "title": "Dolphins avoid 0-17 crisis, pick up first win of season against struggling Jets on the road",
-          "link": "https://www.foxnews.com/outkick-sports/dolphins-avoid-0-17-crisis-pick-up-first-win-season-against-struggling-jets-road"
+          "title": "DAVID MARCUS: The future of the GOP in New England rides on Maine’s Senate vote",
+          "link": "https://www.foxnews.com/opinion/david-marcus-future-gop-new-england-rides-maines-senate-vote"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T22:53:43.838Z"
+      "updatedAt": "2026-10-26T00:49:51.796Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,10 +59,18 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T22:53:43.982Z"
+      "updatedAt": "2026-10-26T00:49:52.120Z"
     },
     "The Hill": {
       "items": [
+        {
+          "title": "Tillis says it's 'appropriate to take a look at' Alaska ballot with two Dan Sullivans running",
+          "link": "https://thehill.com/homenews/campaign/6170783-thom-tillis-look-at-alaska-ballot-with-two-dan-sullivans-running/"
+        },
+        {
+          "title": "Trump says El-Sayed should have to pass through metal detector to enter Senate",
+          "link": "https://thehill.com/homenews/administration/6171296-donald-trump-abdul-el-sayed-pass-through-metal-detector-to-enter-senate/"
+        },
         {
           "title": "Tillis accuses California of being 'guilty' of ballot harvesting: 'They have a system there that is ripe for abuse'",
           "link": "https://thehill.com/homenews/senate/6170781-thom-tillis-accuses-california-of-ballot-harvesting/"
@@ -74,18 +82,10 @@
         {
           "title": "Rogers dodges questions on MAGA label, Trump tariffs",
           "link": "https://thehill.com/homenews/campaign/6171235-rogers-dodges-magar-label-interview/"
-        },
-        {
-          "title": "Hinson calls Putin 'murderer,' says US should not make deals with Russia",
-          "link": "https://thehill.com/homenews/house/6171171-ashley-hinson-calls-putin-murderer/"
-        },
-        {
-          "title": "This week on the Hill: Trump, Obama lead final push before Election Day",
-          "link": "https://thehill.com/newsletters/this-week-on-the-hill/6169610-trump-obama-midterm-election-campaign/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T22:53:44.676Z"
+      "updatedAt": "2026-10-26T00:49:52.759Z"
     },
     "Ars Technica": {
       "items": [
@@ -111,7 +111,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T22:53:44.965Z"
+      "updatedAt": "2026-10-26T00:49:52.827Z"
     },
     "The Verge": {
       "items": [
@@ -137,7 +137,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T22:53:45.068Z"
+      "updatedAt": "2026-10-26T00:49:52.982Z"
     },
     "BBC World": {
       "items": [
@@ -171,7 +171,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T22:53:45.338Z"
+      "updatedAt": "2026-10-26T00:49:53.029Z"
     },
     "BBC News": {
       "items": [
@@ -188,20 +188,20 @@
           "link": "https://www.bbc.co.uk/news/articles/c3n04yxn2yqro?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Letter making claims about Meghan's father written by his first wife, BBC understands",
-          "link": "https://www.bbc.co.uk/news/articles/c60qk44w9wglo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "End approaching for Carrick but Man Utd fans make clear who they blame",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cwm24jk9743yo?at_medium=RSS&at_campaign=rss"
+          "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+          "link": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Deeply divided Israel braces for pivotal election",
           "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "End approaching for Carrick but Man Utd fans make clear who they blame",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cwm24jk9743yo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T22:53:45.364Z"
+      "updatedAt": "2026-10-26T00:49:53.052Z"
     },
     "NY Times": {
       "items": [
@@ -218,16 +218,16 @@
           "link": "https://www.nytimes.com/2026/10/25/us/politics/trumps-election-alaska.html"
         },
         {
-          "title": "In Texas Senate Race, Talarico Leans Into Growing Rivalry With Elon Musk",
-          "link": "https://www.nytimes.com/2026/10/25/us/politics/talarico-musk-texas-senate-paxton-midterms.html"
+          "title": "How Obama and Trump Made their Cases in Dueling Midterm Speeches",
+          "link": "https://www.nytimes.com/2026/10/25/us/politics/obama-trump-competing-rallies-midterms.html"
         },
         {
-          "title": "The Epstein Files Produce an Unlikely Weapon for the Houthi Messaging Wars",
-          "link": "https://www.nytimes.com/2026/10/23/world/middleeast/houthis-saudi-arabia-propaganda-epstein.html"
+          "title": "In Texas Senate Race, Talarico Leans Into Growing Rivalry With Elon Musk",
+          "link": "https://www.nytimes.com/2026/10/25/us/politics/talarico-musk-texas-senate-paxton-midterms.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T22:53:45.485Z"
+      "updatedAt": "2026-10-26T00:49:53.210Z"
     },
     "ARTNews": {
       "items": [
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T22:53:45.614Z"
+      "updatedAt": "2026-10-26T00:49:53.293Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T22:53:45.741Z"
+      "updatedAt": "2026-10-26T00:49:53.413Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T22:53:46.421Z"
+      "updatedAt": "2026-10-26T00:49:53.793Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T22:53:46.502Z"
+      "updatedAt": "2026-10-26T00:49:53.883Z"
     }
   }
 }
