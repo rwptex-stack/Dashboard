@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-10-26T22:01:37.176Z",
+  "fetchedAt": "2026-10-27T01:40:52.007Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Robert Griffin III says he would '100%' take Baylor's vacant head football coach job",
-          "link": "https://www.foxnews.com/outkick-sports/robert-griffin-iii-100-percent-take-baylor-vacant-head-football-coach-job"
+          "title": "Gretchen Whitmer asked whether 'hidden xenophobia' will affect midterm elections",
+          "link": "https://www.foxnews.com/media/gretchen-whitmer-asked-whether-hidden-xenophobia-affect-midterm-elections"
         },
         {
-          "title": "Oregon Ducks' collapse continues, as loss to Illinois puts Dan Lanning on the hot seat in Eugene",
-          "link": "https://www.foxnews.com/outkick-sports/oregon-ducks-collapse-continues-loss-illinois-puts-dan-lanning-hot-seat-eugene"
+          "title": "Brooke Hogan blasts ‘fake, greedy people’ after Hulk’s Florida home sale: ‘Enjoy your dirty money’",
+          "link": "https://www.foxnews.com/entertainment/brooke-hogan-blasts-fake-greedy-people-hulk-florida-home-sale-enjoy-dirty-money"
         },
         {
-          "title": "DOJ seeks to prosecute Comey over alleged national defense disclosure",
-          "link": "https://www.foxnews.com/politics/doj-seeks-prosecute-comey-over-alleged-national-defense-disclosure"
+          "title": "Rays' Chandler Simpson crashes face first into wall while making incredible catch in World Series vs Brewers",
+          "link": "https://www.foxnews.com/outkick-sports/rays-chandler-simpson-crashes-face-first-wall-making-incredible-catch-world-series-brewers"
         },
         {
-          "title": "Natalie Portman says being sexualized as a child star forced her to become a 'good girl' as protection",
-          "link": "https://www.foxnews.com/entertainment/natalie-portman-sexualized-child-star-forced-become-good-girl-protection"
+          "title": "White House defends Trump after archbishop calls prayer moment 'manipulated' ahead of midterms",
+          "link": "https://www.foxnews.com/media/white-house-defends-trump-after-archbishop-calls-prayer-moment-manipulated-ahead-midterms"
         },
         {
-          "title": "New test could flag which men need aggressive prostate cancer treatment and which don't",
-          "link": "https://www.foxnews.com/health/new-test-flag-which-men-need-aggressive-prostate-cancer-treatment"
+          "title": "Portland officials say city did not approve policies that led to removal of women's sports supporters",
+          "link": "https://www.foxnews.com/outkick-sports/portland-official-say-city-did-not-approve-policies-led-removal-womens-sports-supporters"
         },
         {
-          "title": "Former Colombian president accused of exploiting dozens of women for presidential parties",
-          "link": "https://www.foxnews.com/world/former-colombian-president-accused-exploiting-dozens-women-presidential-parties"
+          "title": "DHS suspends visa-free travel program for Chinese nationals amid birth tourism, security concerns",
+          "link": "https://www.foxnews.com/politics/dhs-suspends-visa-free-travel-program-chinese-nationals-amid-birth-tourism-security-concerns"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-26T22:01:35.294Z"
+      "updatedAt": "2026-10-27T01:40:49.408Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,36 +59,40 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-26T22:01:35.450Z"
+      "updatedAt": "2026-10-27T01:40:49.588Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Republicans face a midterm reckoning over prices at the pump",
-          "link": "https://thehill.com/policy/energy-environment/6173484-republicans-high-gas-prices-voters-midterms/"
+          "title": "Trump fires back at Obama's Cheesecake Factory jab",
+          "link": "https://thehill.com/homenews/campaign/6173838-trump-obama-cheesecake-factory-response/"
         },
         {
-          "title": "DOJ charges Comey for third time",
-          "link": "https://thehill.com/regulation/court-battles/6173552-james-comey-doj-charges-third-time/"
+          "title": "Vance announces $57M grant boost for meatpacking facilities",
+          "link": "https://thehill.com/homenews/administration/6173839-vance-announces-meatpacking-grants/"
         },
         {
-          "title": "Dems could probe Russian diesel importers",
-          "link": "https://thehill.com/newsletters/energy-environment/6173521-dems-could-probe-russian-diesel-importers/"
+          "title": "Live updates: Trump brings midterm campaign swing to Mississippi",
+          "link": "https://thehill.com/homenews/state-watch/6171272-live-updates-trump-midterm-elections-iran/"
         },
         {
-          "title": "Poll shows broad support for reinstating enhanced ACA subsidies",
-          "link": "https://thehill.com/newsletters/healthcare/6173520-poll-shows-broad-support-for-reinstating-enhanced-aca-subsidies/"
+          "title": "House GOP to hold leadership elections a week after Election Day",
+          "link": "https://thehill.com/homenews/house/6173782-gop-house-leadership-election-schedule/"
         },
         {
-          "title": "AI safety advocates urge Trump to support Chip Security Act",
-          "link": "https://thehill.com/newsletters/technology/6173519-ai-safety-advocates-urge-trump-to-support-chip-security-act/"
+          "title": "Appeals court rules against DOJ in California ballot fight",
+          "link": "https://thehill.com/homenews/administration/6173747-appeals-court-denies-emergency-election-stay/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-26T22:01:36.018Z"
+      "updatedAt": "2026-10-27T01:40:50.077Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "Microsoft offers to buy out a quarter of its workforce",
+          "link": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/"
+        },
         {
           "title": "Worms mate in man's eyes, get plucked out right before larvae burst out",
           "link": "https://arstechnica.com/health/2026/10/whats-worse-than-having-eye-worms-having-eye-worms-with-babies/"
@@ -104,17 +108,17 @@
         {
           "title": "Apple reveals updated iPad mini with a bigger OLED screen for $700",
           "link": "https://arstechnica.com/apple/2026/10/apple-reveals-updated-ipad-mini-with-a-bigger-oled-screen-for-700/"
-        },
-        {
-          "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
-          "link": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-26T22:01:36.092Z"
+      "updatedAt": "2026-10-27T01:40:50.213Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics"
+        },
         {
           "title": "Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50",
           "link": "https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale"
@@ -130,14 +134,10 @@
         {
           "title": "The NBA’s response to gambling scandals is to add more gambling partnerships",
           "link": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket"
-        },
-        {
-          "title": "The RealReal won’t let AI agents hog designer clothing",
-          "link": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-26T22:01:36.228Z"
+      "updatedAt": "2026-10-27T01:40:50.422Z"
     },
     "BBC World": {
       "items": [
@@ -171,66 +171,70 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-26T22:01:36.255Z"
+      "updatedAt": "2026-10-27T01:40:50.554Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Independent review announced into murder of student Henry Nowak",
-          "link": "https://www.bbc.co.uk/news/articles/cv70pnw784x7o?at_medium=RSS&at_campaign=rss"
+          "title": "Kane ends England’s 25-year wait to win men’s Ballon d’Or award",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Chris Mason: Budget is imminent as tricky issues pile up for Burnham",
+          "link": "https://www.bbc.co.uk/news/articles/c317k85r5lglo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
+          "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Israel and the US are both going to the polls - the consequences will be global",
           "link": "https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss"
         },
         {
+          "title": "Trump administration illegally fired James Comey's daughter, judge rules",
+          "link": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Drivers who killed mum and girl while racing jailed",
           "link": "https://www.bbc.co.uk/news/articles/cqy0r3n17gjyo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Storm Boelo leaves 22,000 without power as Met Office issues new wind warning",
-          "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "How 'Lula's Army' WhatsApp channel helped turn Brazil election around",
-          "link": "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-          "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-26T22:01:36.300Z"
+      "updatedAt": "2026-10-27T01:40:50.594Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "Anthropic’s IPO S-1 Spells Out a Future of Promise and Peril",
-          "link": "https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-s1-dario-amodei.html"
+          "title": "Netanyahu Pushed for Attack on Iran Ahead of Israeli Election, Officials Say",
+          "link": "https://www.nytimes.com/2026/10/26/world/middleeast/netanyahu-iran-israel-election.html"
         },
         {
-          "title": "Anthropic S-1 Reveals Rapid Growth Ahead of Blockbuster IPO",
-          "link": "https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html"
+          "title": "Israel Has Committed Genocidal Acts in Gaza Since Cease-Fire, U.N. Human Rights Panel Says",
+          "link": "https://www.nytimes.com/2026/10/26/world/middleeast/un-human-rights-panel-israel-palestinians.html"
         },
         {
-          "title": "The Key Numbers From Anthropic’s IPO Filing",
-          "link": "https://www.nytimes.com/2026/10/26/technology/anthropic-business-key-numbers.html"
+          "title": "Justice Dept. Brings More Charges Against Comey, Accusing Him of Leaks",
+          "link": "https://www.nytimes.com/2026/10/26/us/politics/james-comey-charges-doj.html"
         },
         {
-          "title": "Meet Anthropic’s Seven Founders as the A.I. Firm Prepares for an IPO",
-          "link": "https://www.nytimes.com/2026/10/26/technology/anthropic-founders.html"
+          "title": "Alaska Election Gambit Shows Justice Dept. Has Bowed to Trump’s Demands",
+          "link": "https://www.nytimes.com/2026/10/24/us/politics/alaska-senate-election-trump-justice-department.html"
         },
         {
-          "title": "Israeli Jews Across the Spectrum Face an Election of Fears",
-          "link": "https://www.nytimes.com/2026/10/26/world/middleeast/israel-election-stakes.html"
+          "title": "Ken Paxton’s State-Funded Jet-Setting Draws Campaign Scrutiny",
+          "link": "https://www.nytimes.com/2026/10/26/us/politics/ken-paxton-texas-trips.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-26T22:01:36.340Z"
+      "updatedAt": "2026-10-27T01:40:50.787Z"
     },
     "ARTNews": {
       "items": [
+        {
+          "title": "Jogen Chowdhury, ‘Towering Pillar’ of Indian Modern Art, Has Died at 87",
+          "link": "https://www.artnews.com/art-news/news/jogen-chowdhury-indian-modernist-dead-1234803869/"
+        },
         {
           "title": "Two Top Executives Leave National Gallery of Singapore Amid Staff Shakeup",
           "link": "https://www.artnews.com/art-news/news/patrick-flores-chris-lee-leaving-national-gallery-singapore-1234803846/"
@@ -250,14 +254,10 @@
         {
           "title": "Milwaukee Art Museum Receives $10 M. Gift to Preserve Santiago Calatrava–Designed Building",
           "link": "https://www.artnews.com/art-news/news/milwaukee-art-museum-10-million-gift-quadracci-pavilion-1234803847/"
-        },
-        {
-          "title": "Scientists Say They’ve Rediscovered How the Romans Made the British Museum’s Color-Shifting Lycurgus Cup",
-          "link": "https://www.artnews.com/art-news/news/british-museum-roman-color-changing-glass-1234803825/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-26T22:01:36.388Z"
+      "updatedAt": "2026-10-27T01:40:50.938Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-26T22:01:36.847Z"
+      "updatedAt": "2026-10-27T01:40:51.152Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-26T22:01:37.124Z"
+      "updatedAt": "2026-10-27T01:40:51.756Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-26T22:01:37.176Z"
+      "updatedAt": "2026-10-27T01:40:52.007Z"
     }
   }
 }
