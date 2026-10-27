@@ -1,8 +1,24 @@
 {
-  "fetchedAt": "2026-10-27T04:37:44.065Z",
+  "fetchedAt": "2026-10-27T10:19:07.305Z",
   "feeds": {
     "MarketWatch": {
       "items": [
+        {
+          "title": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
+          "link": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Customers are chasing higher-rate products, and that’s bad news for banks like HSBC",
+          "link": "https://www.marketwatch.com/story/customers-are-chasing-higher-rate-products-and-thats-bad-news-for-banks-like-hsbc-3a6ec793?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Designer Betsey Johnson takes $7 million SoCal home off the market",
+          "link": "https://www.marketwatch.com/story/designer-betsey-johnson-takes-7-million-socal-home-off-the-market-1f027f0e?mod=mw_rss_topstories"
+        },
+        {
+          "title": "The impressive real estate portfolio of sitcom producer Chuck Lorre of ‘Big Bang Theory’ and ‘Two and a Half Men’ fame",
+          "link": "https://www.marketwatch.com/story/the-impressive-real-estate-portfolio-of-sitcom-producer-chuck-lorre-of-big-bang-theory-and-two-and-a-half-men-fame-f8e43ed4?mod=mw_rss_topstories"
+        },
         {
           "title": "What gave this city its ‘best place to retire’ crown? You can actually afford to live there.",
           "link": "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories"
@@ -10,56 +26,40 @@
         {
           "title": "‘You need only watch episodes of Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
           "link": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Dividend stocks are having an excellent October as tech sector struggles",
-          "link": "https://www.marketwatch.com/story/dividend-stocks-are-having-an-excellent-october-as-tech-sector-struggles-5ae40b02?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Options traders are seizing control of the S&P 500",
-          "link": "https://www.marketwatch.com/story/options-traders-are-seizing-control-of-the-s-p-500-1add94ca?mod=mw_rss_topstories"
-        },
-        {
-          "title": "TikTok parent ByteDance’s chatbot is now giving travel-booking sites a run for their money. And yours.",
-          "link": "https://www.marketwatch.com/story/tiktok-parent-bytedances-chatbot-is-now-giving-travel-booking-sites-a-run-for-their-money-and-yours-028e4aa0?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Over 40% of Americans are heading toward retirement ‘blind’ — with no plan",
-          "link": "https://www.marketwatch.com/story/over-40-of-americans-are-heading-toward-retirement-blind-with-no-plan-e49b502f?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-27T04:37:41.372Z"
+      "updatedAt": "2026-10-27T10:19:05.123Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Florida mom arrested after Vegas trip left 4 kids without overnight supervision: deputies",
-          "link": "https://www.foxnews.com/us/florida-mom-arrested-after-vegas-trip-left-4-kids-without-overnight-supervision-deputies"
+          "title": "GREGG JARRETT: In a tortured defense of Ilhan Omar, the New York Times reaches for its darkest Trump analogy",
+          "link": "https://www.foxnews.com/opinion/gregg-jarrett-tortured-defense-ilhan-omar-new-york-times-reaches-darkest-trump-analogy"
         },
         {
-          "title": "Brewers ride ridiculous, record-setting eight-run inning to dominant 3-0 World Series lead over Rays",
-          "link": "https://www.foxnews.com/outkick-sports/brewers-ride-ridiculous-record-setting-eight-run-inning-dominant-3-0-world-series-lead-rays"
+          "title": "Trump supporters confront Iran, affordability concerns with a message for critics: 'Give him time'",
+          "link": "https://www.foxnews.com/politics/trump-supporters-confront-iran-affordability-concerns-message-critics-give-him-time"
         },
         {
-          "title": "Cowboys, Dak Prescott get back on track at the expense of reeling Eagles in key NFC East win",
-          "link": "https://www.foxnews.com/outkick-sports/cowboys-dak-prescott-back-on-track-expense-reeling-eagles-key-nfc-east-win"
+          "title": "'Dark money’ group accused of 'scheme' to tip election in favor of Democrats, manipulate GOP voters",
+          "link": "https://www.foxnews.com/politics/dark-money-group-accused-scheme-tip-election-favor-democrats-manipulate-gop-voters"
         },
         {
-          "title": "John Harbaugh backs Cam Skattebo, rips NFL for controversial flag: 'That's the way you're supposed to run'",
-          "link": "https://www.foxnews.com/outkick-sports/john-harbaugh-backs-cam-skattebo-rips-nfl-controversial-flag-way-youre-supposed-run"
+          "title": "Trump won this reliably red state by double digits. Now a deadlocked race is bringing him back",
+          "link": "https://www.foxnews.com/politics/trump-won-reliably-red-state-double-digits-deadlocked-race-bringing-him-back"
         },
         {
-          "title": "'Stand or hide in the tunnel' for the anthem, Valkyries WNBA fans show loyalty; ready for early Finals Game 6",
-          "link": "https://www.foxnews.com/outkick-sports/stand-hide-tunnel-anthem-valkyries-wnba-fans-show-loyalty-ready-early-finals-game-6"
+          "title": "Carville advises Dems cater to one key demographic for 2028 nominee, but warns 'they're not that liberal'",
+          "link": "https://www.foxnews.com/media/carville-advises-dems-cater-key-demographic-2028-nominee-warns-not-liberal"
         },
         {
-          "title": "Jay-Z to headline Super Bowl LXI halftime show in Los Angeles",
-          "link": "https://www.foxnews.com/sports/jay-z-headline-super-bowl-lxi-halftime-show-los-angeles"
+          "title": "Dems silent after violent attack in wealthy area of New York City as suspect remains at large",
+          "link": "https://www.foxnews.com/us/dems-silent-violent-attack-wealthy-area-new-york-city-suspect-remains-large"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-27T04:37:41.661Z"
+      "updatedAt": "2026-10-27T10:19:05.368Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -89,33 +89,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-27T04:37:42.021Z"
+      "updatedAt": "2026-10-27T10:19:05.713Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Trump announces $250M-plus initiative to recruit, retain nursing home nurses",
-          "link": "https://thehill.com/policy/healthcare/6173980-trump-announces-nursing-home-initiative/"
+          "title": "Democrats poised to go big on affordable childcare",
+          "link": "https://thehill.com/homenews/campaign/6172670-democrats-push-childcare-agenda/"
         },
         {
-          "title": "Judge extends tree-cutting block at East Potomac Park",
-          "link": "https://thehill.com/regulation/court-battles/6173951-judge-blocks-east-potomac-tree-cutting/"
+          "title": "Senate braces for nasty fight over seating Peltola in Alaska Senate",
+          "link": "https://thehill.com/homenews/state-watch/6173822-alaska-senate-race-peltola-sullivan-thune/"
         },
         {
-          "title": "Raskin says oil companies will face consequences for importing Russian diesel",
-          "link": "https://thehill.com/homenews/house/6173911-raskin-warns-oil-companies-diesel/"
+          "title": "Frustrated farmers could become a midterm problem for Republicans",
+          "link": "https://thehill.com/homenews/state-watch/6173571-trump-farmers-rural-voters-costs-midterm-elections/"
         },
         {
-          "title": "Trump fires back at Obama's Cheesecake Factory jab",
-          "link": "https://thehill.com/homenews/campaign/6173838-trump-obama-cheesecake-factory-response/"
+          "title": "Inside Trump's red state blitz to stave off a Democratic midterm sweep",
+          "link": "https://thehill.com/homenews/state-watch/6173510-trump-red-states-turnout-midterms/"
         },
         {
-          "title": "Vance announces $57M grant boost for meatpacking facilities",
-          "link": "https://thehill.com/homenews/administration/6173839-vance-announces-meatpacking-grants/"
+          "title": "Another change election and a whipsawed America",
+          "link": "https://thehill.com/homenews/analysis/6173390-midterm-elections-divided-government/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-27T04:37:42.891Z"
+      "updatedAt": "2026-10-27T10:19:06.406Z"
     },
     "Ars Technica": {
       "items": [
@@ -141,10 +141,18 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-27T04:37:42.996Z"
+      "updatedAt": "2026-10-27T10:19:06.629Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "Data center backlash is uniting America",
+          "link": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections"
+        },
+        {
+          "title": "Acer is bringing a Predator gaming handheld to the US for the first time",
+          "link": "https://www.theverge.com/games/1019245/acer-predator-atlas-8-launch-price"
+        },
         {
           "title": "OpenAI announces three big science discoveries and a new way to work with academics",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics"
@@ -156,24 +164,28 @@
         {
           "title": "Anthropic is burning gas to feed the AI boom",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk"
-        },
-        {
-          "title": "iPhone Duo now supports Apple Pencil with iOS 27.2",
-          "link": "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil"
-        },
-        {
-          "title": "The NBA’s response to gambling scandals is to add more gambling partnerships",
-          "link": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-27T04:37:43.124Z"
+      "updatedAt": "2026-10-27T10:19:06.731Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Lula wins fourth term in dramatic Brazil election comeback",
-          "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss"
+          "title": "Israel heads to polls for pivotal election defined by security and democracy",
+          "link": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
+          "link": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Truce begins in Ukraine city where residents ate weeds to survive",
+          "link": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
+          "link": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Ex-FBI chief James Comey faces federal charges for third time",
@@ -184,59 +196,47 @@
           "link": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
-          "link": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Trump administration illegally fired James Comey's daughter, judge rules",
-          "link": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump",
-          "link": "https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
-          "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss"
+          "title": "Major Chinese brands drop Mbappé as backlash grows over Mao joke",
+          "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-27T04:37:43.454Z"
+      "updatedAt": "2026-10-27T10:19:06.846Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Kane ends England’s 25-year wait to win men’s Ballon d’Or award",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Chris Mason: Budget is imminent as tricky issues pile up for Burnham",
-          "link": "https://www.bbc.co.uk/news/articles/c317k85r5lglo?at_medium=RSS&at_campaign=rss"
+          "title": "Two charged with national security offences over RAF Fairford incident",
+          "link": "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Chancellor to cut tariffs on some staple goods to offer cost of living help",
           "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Israel and the US are both going to the polls - the consequences will be global",
-          "link": "https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss"
+          "title": "Israel heads to polls for pivotal election defined by security and democracy",
+          "link": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Trump administration illegally fired James Comey's daughter, judge rules",
-          "link": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss"
+          "title": "Kane ends England’s 25-year wait to win men’s Ballon d’Or award",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Sharp rise in sales of some essential goods after government call to stock up",
-          "link": "https://www.bbc.co.uk/news/articles/c5rmy84np001o?at_medium=RSS&at_campaign=rss"
+          "title": "'It's massive for England': Harry Kane on his Ballon d'Or win",
+          "link": "https://www.bbc.co.uk/news/videos/cm9wznvx1l17o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Major Chinese brands drop Mbappé as backlash grows over Mao joke",
+          "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-27T04:37:43.702Z"
+      "updatedAt": "2026-10-27T10:19:06.863Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "Two Candidates, Two Israels, One Nation in the Balance",
+          "title": "Two Visions, Two Israels, One Nation in the Balance",
           "link": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-identity.html"
         },
         {
@@ -244,20 +244,20 @@
           "link": "https://www.nytimes.com/2026/10/26/world/middleeast/netanyahu-iran-israel-election.html"
         },
         {
-          "title": "Israel Has Committed Genocidal Acts in Gaza Since Cease-Fire, U.N. Human Rights Panel Says",
-          "link": "https://www.nytimes.com/2026/10/26/world/middleeast/un-human-rights-panel-israel-palestinians.html"
+          "title": "The Key Election Issues Dividing Israelis as They Vote",
+          "link": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-elections-key-issues.html"
         },
         {
-          "title": "Justice Dept. Brings More Charges Against Comey, Accusing Him of Leaks",
-          "link": "https://www.nytimes.com/2026/10/26/us/politics/james-comey-charges-doj.html"
+          "title": "Israel’s First Election Since Oct. 7, and What Anthropic’s I.P.O. Means for the Whole Economy",
+          "link": "https://www.nytimes.com/2026/10/27/podcasts/the-headlines/israel-election-anthropic-ipo.html"
         },
         {
-          "title": "King Charles Faces High Stakes Test With Caribbean Tour",
-          "link": "https://www.nytimes.com/2026/10/27/world/europe/king-charles-caribbean-tour-uk-commonwealth.html"
+          "title": "Election Officials Fear Federal Interference in Voting Next Week",
+          "link": "https://www.nytimes.com/2026/10/27/us/election-interference-trump-midterms.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-27T04:37:43.912Z"
+      "updatedAt": "2026-10-27T10:19:07.020Z"
     }
   },
   "indices": {
@@ -279,13 +279,13 @@
       },
       {
         "name": "Gold",
-        "price": 4034,
-        "pct": -0.6501822480543812
+        "price": 4011.8,
+        "pct": -1.1969264111910134
       },
       {
         "name": "Bitcoin",
-        "price": 79535.56,
-        "pct": -1.8978049611103172
+        "price": 79440.11,
+        "pct": -2.0155366337918412
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-27T04:37:44.065Z"
+    "updatedAt": "2026-10-27T10:19:07.305Z"
   }
 }
