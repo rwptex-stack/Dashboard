@@ -1,191 +1,183 @@
 {
-  "fetchedAt": "2026-10-27T16:21:02.943Z",
+  "fetchedAt": "2026-10-27T21:10:47.783Z",
   "feeds": {
     "MarketWatch": {
       "items": [
         {
-          "title": "The U.S. economy is gathering steam. This is the chief reason why.",
-          "link": "https://www.marketwatch.com/story/u-s-economy-is-gathering-steam-this-is-the-chief-reason-why-9772978f?mod=mw_rss_topstories"
+          "title": "My husband wants to sell our $1.5 million home and downsize. But this is where we raised our kids — and I can’t bear to leave.",
+          "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories"
+        },
+        {
+          "title": "The big reason Boeing’s stock is falling so hard after earnings",
+          "link": "https://www.marketwatch.com/story/the-big-reason-boeings-stock-is-falling-so-hard-after-earnings-d31b400d?mod=mw_rss_topstories"
+        },
+        {
+          "title": "How Broadcom’s stock can surge and overcome ‘the biggest dislocation in the market’",
+          "link": "https://www.marketwatch.com/story/how-broadcoms-stock-can-surge-and-overcome-the-biggest-dislocation-in-the-market-9719e2a8?mod=mw_rss_topstories"
+        },
+        {
+          "title": "JetBlue has been losing money for years. It just charted a path to profitability.",
+          "link": "https://www.marketwatch.com/story/jetblue-has-been-losing-money-for-years-it-just-charted-a-path-to-profitability-03be75c8?mod=mw_rss_topstories"
         },
         {
           "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
           "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories"
         },
         {
-          "title": "McDonald’s new bet on chicken hits a snag as franchisees say the birds are too big",
-          "link": "https://www.marketwatch.com/story/mcdonalds-new-bet-on-chicken-hits-a-snag-as-franchisees-say-the-birds-are-too-big-c3e8dd77?mod=mw_rss_topstories"
-        },
-        {
-          "title": "A leading Silicon Valley cheerleader just showed all the reasons to be worried about the AI bubble",
-          "link": "https://www.marketwatch.com/story/a-leading-silicon-valley-cheerleader-just-showed-all-the-reasons-to-be-worried-about-the-ai-bubble-e3b32fe1?mod=mw_rss_topstories"
-        },
-        {
-          "title": "How to use I-bonds to create guaranteed, inflation-proof income in retirement",
-          "link": "https://www.marketwatch.com/story/how-to-use-i-bonds-to-create-guaranteed-inflation-proof-income-in-retirement-50753fea?mod=mw_rss_topstories"
-        },
-        {
-          "title": "‘Just watch Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
-          "link": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories"
+          "title": "What gold and platinum are telling us about the stock market’s direction",
+          "link": "https://www.marketwatch.com/story/what-gold-and-platinum-are-telling-us-about-the-stock-markets-direction-81405633?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-27T16:21:01.150Z"
+      "updatedAt": "2026-10-27T21:10:46.081Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Knicks look to end winless skid as Pistons roll into New York without injured Jalen Duren",
-          "link": "https://www.foxnews.com/outkick-betting/knicks-end-winless-skid-pistons-roll-new-york-without-injured-jalen-duren"
+          "title": "Troy Aikman pours cold water on Cowboys' win over Eagles: 'Let's not get carried away'",
+          "link": "https://www.foxnews.com/outkick-sports/troy-aikman-pours-cold-water-cowboys-win-eagles-lets-not-get-carried-away"
         },
         {
-          "title": "Medical schools accused of rebranding DEI programs to evade Trump administration scrutiny",
-          "link": "https://www.foxnews.com/media/medical-schools-accused-rebranding-dei-programs-evade-trump-administration-scrutiny"
+          "title": "Judge who apologized to accused would-be Trump assassin lights up DOJ in Hunter Biden FBI case",
+          "link": "https://www.foxnews.com/politics/judge-who-apologized-accused-would-be-trump-assassin-lights-up-doj-hunter-biden-fbi-case"
         },
         {
-          "title": "Louisiana Sports Betting — Best Sportsbooks and Apps",
-          "link": "https://www.foxnews.com/outkick-betting/louisiana-sports-betting"
+          "title": "Yankees legend says he does not 'feel welcome' by team despite legendary career",
+          "link": "https://www.foxnews.com/outkick-sports/yankees-legend-says-does-not-feel-welcome-team-despite-legendary-career"
         },
         {
-          "title": "GM wants drivers to take their eyes off the road by 2028",
-          "link": "https://www.foxnews.com/tech/gm-wants-drivers-take-eyes-off-road-2028"
+          "title": "Rays star Cam Booser shares blunt take after nightmarish World Series performance: 'Worst feeling'",
+          "link": "https://www.foxnews.com/outkick-sports/rays-star-cam-booser-shares-blunt-take-after-nightmarish-world-series-performance-worst-feeling"
         },
         {
-          "title": "College football corporate overlords ruin another classic rivalry game with stupid new name",
-          "link": "https://www.foxnews.com/outkick-sports/college-football-corporate-overlords-ruin-classic-rivalry-game-stupid-new-name"
+          "title": "Milwaukee Brewers aim to complete World Series sweep over Tampa Bay Rays in Game 4",
+          "link": "https://www.foxnews.com/outkick-betting/milwaukee-brewers-aim-complete-world-series-sweep-tampa-bay-rays-game-4"
         },
         {
-          "title": "UK charges 2 men in suspected Iran-linked incident at RAF Fairford after US bombers pulled",
-          "link": "https://www.foxnews.com/world/uk-charges-2-men-suspected-iran-linked-incident-raf-fairford-us-bombers-pulled"
+          "title": "WNBA's bizarre national anthem controversy shows just how much the league needs Caitlin Clark",
+          "link": "https://www.foxnews.com/outkick-sports/wnba-bizarre-national-anthem-controversy-shows-how-much-league-needs-caitlin-clark"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-27T16:21:01.324Z"
+      "updatedAt": "2026-10-27T21:10:46.237Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "Is It Too Early To Call a Blue Wave?",
-          "link": "https://www.realclearpolitics.com/2026/10/27/is_it_too_early_to_call_a_blue_wave_715593.html"
+          "title": "Obama's Dishonest Case for El-Sayed",
+          "link": "https://www.realclearpolitics.com/2026/10/27/obamas_dishonest_case_for_el-sayed_715622.html"
         },
         {
-          "title": "Arrests, Deportations and the Dramatic Drop in Crime",
-          "link": "https://www.realclearpolitics.com/2026/10/27/arrests_deportations_and_the_dramatic_drop_in_crime_715523.html"
+          "title": "The Midterms Are a Referendum on Elon Musk",
+          "link": "https://www.realclearpolitics.com/2026/10/27/the_midterms_are_a_referendum_on_elon_musk_715624.html"
         },
         {
-          "title": "Trump Is Bad at Politics",
-          "link": "https://www.realclearpolitics.com/2026/10/27/trump_is_bad_at_politics_715579.html"
+          "title": "Democrats Make Protecting Fraud 'Day One' Agenda",
+          "link": "https://www.realclearpolitics.com/2026/10/27/democrats_make_protecting_fraud_day_one_agenda_715596.html"
         },
         {
-          "title": "In Michigan, Immigration Is on the Ballot",
-          "link": "https://www.realclearpolitics.com/articles/2026/10/27/in_michigan_immigration_is_on_the_ballot_154621.html"
+          "title": "Democrats Have Regained Advantage Among Young Voters",
+          "link": "https://www.realclearpolitics.com/2026/10/27/democrats_have_regained_advantage_among_young_voters_715463.html"
         },
         {
-          "title": "France Looking for Modernity in All the Wrong Places",
-          "link": "https://www.realclearpolitics.com/2026/10/27/france_looking_for_modernity_in_all_the_wrong_places_715533.html"
+          "title": "Shocking Verdict Shows DEI-Driven Rot at MIT",
+          "link": "https://www.realclearpolitics.com/2026/10/27/shocking_verdict_shows_dei-driven_rot_at_mit_715513.html"
         },
         {
-          "title": "Lula's Huge Win for the Left",
-          "link": "https://www.realclearpolitics.com/2026/10/27/lulas_huge_win_for_the_left_715534.html"
+          "title": "Is France Coming Apart?",
+          "link": "https://www.realclearpolitics.com/2026/10/26/is_france_coming_apart_715469.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-27T16:21:01.701Z"
+      "updatedAt": "2026-10-27T21:10:46.400Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Denmark, Estonia express skepticism over Finland and Norway's call with Putin",
-          "link": "https://thehill.com/policy/international/6175110-norway-finland-call-putin-controversial/"
+          "title": "Live updates: Trump holds second Texas rally in one day; Talarico plans dueling event",
+          "link": "https://thehill.com/homenews/state-watch/6173803-live-updates-trump-texas-midterm-elections/"
         },
         {
-          "title": "Supporting religious freedom and pluralism is a foreign policy priority",
-          "link": "https://thehill.com/opinion/congress-blog/religious-rights/6173268-international-religious-freedom-day-observance/"
+          "title": "Israeli elections too close to call as turnout shatters record",
+          "link": "https://thehill.com/policy/international/6176171-israel-election-record-turnout/"
         },
         {
-          "title": "Trump administration: Hundreds of Washington state voters may be noncitizens",
-          "link": "https://thehill.com/homenews/administration/6174832-non-citizen-voter-investigation-washington/"
+          "title": "Trump continues calls for Venezuela to be 51st state",
+          "link": "https://thehill.com/homenews/administration/6176049-trump-venezuela-state-oil/"
         },
         {
-          "title": "Consumer sentiment increased in October: Conference Board",
-          "link": "https://thehill.com/business/6175067-october-consumer-confidence-rises/"
+          "title": "Flávio Bolsonaro flees Brazil for US after losing election: Reports",
+          "link": "https://thehill.com/policy/international/6176061-flavio-bolsonaro-flees-brazil-election-loss/"
         },
         {
-          "title": "Who has the edge one week before the midterms?",
-          "link": "https://thehill.com/homenews/campaign/fight-for-2028/6175006-republicans-democrats-who-has-edge-2026-midterms-live-discussion/"
+          "title": "Vance responds to question about 'insulting' Alaska election lawsuit",
+          "link": "https://thehill.com/homenews/state-watch/6175918-vance-alaska-senate-lawsuit/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-27T16:21:02.379Z"
+      "updatedAt": "2026-10-27T21:10:47.181Z"
     },
     "Ars Technica": {
       "items": [
         {
-          "title": "Apple iPhone Duo review: Two screens, two experiences, two thousand dollars",
-          "link": "https://arstechnica.com/gadgets/2026/10/apple-iphone-duo-review-two-screens-two-experiences-two-thousand-dollars/"
+          "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
+          "link": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/"
         },
         {
-          "title": "Some iPhone Duo screens are already failing, Apple says only a \"small number\" are affected",
-          "link": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/"
+          "title": "Google begins certifying Registered App Stores for Android, but not in the US",
+          "link": "https://arstechnica.com/gadgets/2026/10/googles-android-registered-app-stores-program-launches-dec-1-applications-now-open/"
         },
         {
-          "title": "Sculpture recreates odd optical effects of famed Lycurgus Cup",
-          "link": "https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup/"
+          "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
+          "link": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/"
         },
         {
-          "title": "US officials want Section 702 renewed before damaging court ruling goes public",
-          "link": "https://arstechnica.com/tech-policy/2026/10/us-officials-want-section-702-renewed-before-damaging-court-ruling-goes-public/"
+          "title": "Warner Bros. drops final trailer for Dune: Part Three",
+          "link": "https://arstechnica.com/culture/2026/10/warner-bros-drops-final-trailer-for-dune-part-three/"
         },
         {
-          "title": "Microsoft offers to buy out a quarter of its workforce",
-          "link": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/"
+          "title": "Ford simplifies using your EV as a home battery with the $30K Fathom",
+          "link": "https://arstechnica.com/cars/2026/10/ford-builds-bidrectional-charging-into-its-30k-electric-truck/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-27T16:21:02.521Z"
+      "updatedAt": "2026-10-27T21:10:47.254Z"
     },
     "The Verge": {
       "items": [
         {
-          "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms"
+          "title": "Elon Musk says Ukraine&#8217;s military violated Starlink&#8217;s terms of service",
+          "link": "https://www.theverge.com/science/1019879/elon-musk-starlink-ukraine-terms-of-service"
         },
         {
-          "title": "Major League Baseball is looking for a new kind of fan",
-          "link": "https://www.theverge.com/report/1019478/major-league-baseball-fandom-social-media-world-series-influencers"
+          "title": "Trump is making it easier for fossil fuel companies to leak methane",
+          "link": "https://www.theverge.com/policy/1019691/gas-leak-methane-rule-rollback-trump"
         },
         {
-          "title": "Google’s next Genie AI model generates more realistic experiences",
-          "link": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model"
+          "title": "VisionQuest is what happens when AI really goes rogue",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai"
         },
         {
-          "title": "My favorite robot vacuum just got quieter, and more expensive",
-          "link": "https://www.theverge.com/tech/1019298/matic-serene-robot-vacuum-price-specs-release-date"
+          "title": "The Super Mouse puts a touchscreen macro pad under your hand",
+          "link": "https://www.theverge.com/tech/1019484/super-mouse-touchscreen-shortcuts-macros-kickstarter"
         },
         {
-          "title": "Apple&#8217;s latest AirTag is the cheapest it’s ever been",
-          "link": "https://www.theverge.com/gadgets/1019138/apple-airtag-second-gen-cricut-joy-2-printer-deal-sale"
+          "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-27T16:21:02.591Z"
+      "updatedAt": "2026-10-27T21:10:47.322Z"
     },
     "BBC World": {
       "items": [
-        {
-          "title": "Turnout so far highest on record as Israelis vote in pivotal election",
-          "link": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss"
-        },
         {
           "title": "Norway and Finland leaders hold rare call with Putin",
           "link": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Truce begins in Ukraine city where residents ate weeds to survive",
-          "link": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria",
-          "link": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo?at_medium=RSS&at_campaign=rss"
+          "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+          "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
@@ -196,12 +188,20 @@
           "link": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
-          "link": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss"
+          "title": "Dutch zookeeper dies after being mauled in leopard enclosure",
+          "link": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Alexander brothers each sentenced to 30 years in prison for sex trafficking case",
+          "link": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Egypt court fines journalist Lina Attalah and orders news site's closure",
+          "link": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-27T16:21:02.735Z"
+      "updatedAt": "2026-10-27T21:10:47.396Z"
     },
     "BBC News": {
       "items": [
@@ -210,90 +210,90 @@
           "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Two charged over alleged plot to assist Iran in RAF Fairford incident",
+          "title": "Chris Mason: Budget needs to go some way towards delivering PM's promises",
+          "link": "https://www.bbc.co.uk/news/articles/c6y43wkln1k2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Two in court over alleged Iran-linked plot at RAF Fairford",
           "link": "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Turnout so far highest on record as Israelis vote in pivotal election",
-          "link": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss"
+          "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+          "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "What does Israel's election mean for Gaza and the wider world?",
-          "link": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss"
+          "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
+          "link": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Men abused woman after her husband drugged and advertised her online, court told",
           "link": "https://www.bbc.co.uk/news/articles/c5m2d83kmkkyo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
-          "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-27T16:21:02.772Z"
+      "updatedAt": "2026-10-27T21:10:47.419Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "Election Officials Fear Trump Administration’s Interference in Midterms Voting",
-          "link": "https://www.nytimes.com/2026/10/27/us/election-interference-trump-midterms.html"
+          "title": "What to Expect Now That Polls Are Closed in Israel",
+          "link": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-exit-polls-close.html"
         },
         {
-          "title": "Michigan Senate Race Drives Anxiety Among Jewish and Muslim Voters",
-          "link": "https://www.nytimes.com/2026/10/27/us/politics/michigan-senate-race-jewish-muslim-voters.html"
+          "title": "Flávio Bolsonaro Leaves Brazil for the U.S. After Election Defeat",
+          "link": "https://www.nytimes.com/2026/10/27/world/americas/brazil-flavio-bolsonaro-flees-election.html"
         },
         {
-          "title": "Israel’s High-Stakes Election: What to Know",
-          "link": "https://www.nytimes.com/2026/10/25/world/middleeast/israel-election-guide-netanyahu-eisenkot.html"
+          "title": "Trump Explores Lifting Sanctions on Russia’s Flagship Investment Fund",
+          "link": "https://www.nytimes.com/2026/10/27/us/politics/russia-fund-sanctions-trump.html"
         },
         {
-          "title": "How Billionaires Are Fighting the Prop 40 California Wealth Tax",
-          "link": "https://www.nytimes.com/2026/10/27/technology/proposition-40-california-billionaire-tax.html"
+          "title": "European Leaders Split Over Phone Call to Putin",
+          "link": "https://www.nytimes.com/2026/10/27/world/europe/norway-finland-putin-call.html"
         },
         {
-          "title": "Nithya Raman Is Not L.A.’s Mamdani. But She Might Become Mayor, Too.",
-          "link": "https://www.nytimes.com/2026/10/27/us/politics/los-angeles-mayor-nithya-raman-democratic-socialist.html"
+          "title": "The Christian Influencer at the Center of Ken Paxton’s New Life",
+          "link": "https://www.nytimes.com/2026/10/27/us/ken-paxton-divorce-tracy-duhon.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-27T16:21:02.845Z"
+      "updatedAt": "2026-10-27T21:10:47.604Z"
     }
   },
   "indices": {
     "data": [
       {
         "name": "S&P 500",
-        "price": 7727.54,
-        "pct": 0.19409872454966703
+        "price": 7722.6,
+        "pct": 0.13004744203294952
       },
       {
         "name": "Dow Jones",
-        "price": 52401.88,
-        "pct": -0.17906167112542928
+        "price": 52377.57,
+        "pct": -0.22537006713669278
       },
       {
         "name": "Nasdaq",
-        "price": 26506.85,
-        "pct": 0.31042784775827736
+        "price": 26477.81,
+        "pct": 0.20053116728894121
       },
       {
         "name": "Gold",
-        "price": 4072,
-        "pct": 0.2856861392966188
+        "price": 4073.1,
+        "pct": 0.31277706629888236
       },
       {
         "name": "Bitcoin",
-        "price": 80498.29,
-        "pct": -0.710337038211555
+        "price": 80639.91,
+        "pct": -0.5356575255330935
       },
       {
         "name": "SpaceX",
-        "price": 151.075,
-        "pct": 2.2227484944854163
+        "price": 148.58,
+        "pct": 0.5345422559036609
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-27T16:21:02.943Z"
+    "updatedAt": "2026-10-27T21:10:47.783Z"
   }
 }
