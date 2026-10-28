@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-10-27T22:43:49.123Z",
+  "fetchedAt": "2026-10-28T01:53:21.548Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Suspected shark knocks fisherman off kayak a mile off California coast, forcing swim to shore",
-          "link": "https://www.foxnews.com/us/suspected-shark-knocks-fisherman-off-kayak-mile-california-coast-forcing-swim-shore"
+          "title": "Taylor Swift’s hitmaker scolds Ed Sheeran, ‘stand the f--- up’ after Macklemore fallout",
+          "link": "https://www.foxnews.com/media/taylor-swifts-hitmaker-scolds-ed-sheeran-stand-f-up-after-macklemore-fallout"
         },
         {
-          "title": "Haitian illegal immigrant charged in Walmart killing entered US via Biden parole program: DHS",
-          "link": "https://www.foxnews.com/politics/haitian-illegal-immigrant-charged-walmart-killing-entered-us-via-biden-parole-program-dhs"
+          "title": "Macklemore called 'out of touch' over speech at Free Palestine Tour kickoff",
+          "link": "https://www.foxnews.com/entertainment/macklemore-called-out-touch-over-speech-free-palestine-tour-kickoff"
         },
         {
-          "title": "'Rolling Stone' releases list of 200 greatest 21st century rock songs and it's as awful as you'd imagine",
-          "link": "https://www.foxnews.com/outkick-culture/rolling-stone-releases-list-200-greatest-21st-century-rock-songs-awful-youd-imagine"
+          "title": "Micah Parsons moves closer to highly-anticipated return as coach Matt LaFleur gives encouraging update",
+          "link": "https://www.foxnews.com/outkick-sports/micah-parsons-moves-closer-highly-anticipated-return-coach-matt-lafleur-gives-encouraging-update"
         },
         {
-          "title": "Milwaukee Brewers star closer Trevor Megill roasts Rays' Tropicana Field: designed by a 'f---ing idiot'",
-          "link": "https://www.foxnews.com/outkick-sports/milwaukee-brewers-star-closer-trevor-megill-roasts-rays-tropicana-field-designed-by-f-ing-idiot"
+          "title": "Timberwolves lose Anthony Edwards for 2 months after arthroscopic procedure on right knee: report",
+          "link": "https://www.foxnews.com/outkick-sports/timberwolves-lose-anthony-edwards-2-months-arthroscopic-procedure-right-knee-report"
         },
         {
-          "title": "Viral Massachusetts lesbian bar announces it will be 'soft closing' after easing mask rules",
-          "link": "https://www.foxnews.com/media/viral-massachusetts-lesbian-bar-announces-soft-closing-after-easing-mask-rules"
+          "title": "Federal officials identify 400 noncitizens registered to vote in Washington state: 'Tip of the iceberg'",
+          "link": "https://www.foxnews.com/politics/federal-officials-identify-400-noncitizens-registered-vote-washington-state-tip-iceberg"
         },
         {
-          "title": "Hornets to retire jersey of Muggsy Bogues, the shortest player in NBA history, in 2027",
-          "link": "https://www.foxnews.com/outkick-sports/hornets-retire-jersey-muggsy-bogues-shortest-player-nba-history-2027"
+          "title": "Cassidy Hutchinson avoids indictment after DOJ effort to charge her over Jan 6 testimony fails: sources",
+          "link": "https://www.foxnews.com/politics/cassidy-hutchinson-avoids-indictment-doj-effort-charge-jan-6-testimony-fails-sources"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-27T22:43:46.766Z"
+      "updatedAt": "2026-10-28T01:53:19.369Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,62 +59,66 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-27T22:43:46.913Z"
+      "updatedAt": "2026-10-28T01:53:19.481Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "What would a Democratic Congress mean for Silicon Valley?",
-          "link": "https://thehill.com/newsletters/technology/6176413-what-would-democratic-congress-mean-for-silicon-valley/"
+          "title": "Murkowski backs Alaska Democrat for governor",
+          "link": "https://thehill.com/homenews/campaign/6176771-murkowski-endorses-democrat-kreiss-tomkins/"
         },
         {
-          "title": "Sabato's Crystal Ball moves 16 House races toward Democrats",
-          "link": "https://thehill.com/homenews/campaign/6176403-sabatos-crystal-ball-shifts-democrats/"
+          "title": "Johnson says there will be 'peaceful transfer of power' on Jan 3",
+          "link": "https://thehill.com/homenews/house/6176705-johnson-promises-peaceful-transfer-power/"
         },
         {
-          "title": "Trump easing methane rules for oil and gas",
-          "link": "https://thehill.com/newsletters/energy-environment/6176415-trump-easing-methane-rules-for-oil-and-gas/"
+          "title": "Trump announces proposal to loosen methane rules for oil and gas production",
+          "link": "https://thehill.com/policy/energy-environment/6176058-trump-texas-rally-methane-regulations-loosened/"
         },
         {
-          "title": "Judge temporarily blocks Trump administration from speeding up refugee status revocations",
-          "link": "https://thehill.com/homenews/administration/6176283-judge-blocks-refugees-rule/"
+          "title": "Guardrails Alliance hits Husted over ties to Marc Andreessen in new ad",
+          "link": "https://thehill.com/policy/technology/6176397-guardrails-alliance-husted-ad-tech-ties/"
         },
         {
-          "title": "4 Dem senators say Trump should restore canceled green funds to earn trust for permitting reform bill",
-          "link": "https://thehill.com/policy/energy-environment/6176346-trump-green-grants-permitting-reform/"
+          "title": "Iran war cost increases to $47 billion",
+          "link": "https://thehill.com/policy/defense/6176624-us-iran-war-costs-rise/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-27T22:43:47.475Z"
+      "updatedAt": "2026-10-28T01:53:20.451Z"
     },
     "Ars Technica": {
       "items": [
         {
-          "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
-          "link": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/"
+          "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
+          "link": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/"
         },
         {
-          "title": "Google begins certifying Registered App Stores for Android, but not in the US",
-          "link": "https://arstechnica.com/gadgets/2026/10/googles-android-registered-app-stores-program-launches-dec-1-applications-now-open/"
+          "title": "South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks",
+          "link": "https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/"
         },
         {
-          "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
-          "link": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/"
+          "title": "China's top-secret spaceplane can't hide in low-Earth orbit",
+          "link": "https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/"
         },
         {
-          "title": "Warner Bros. drops final trailer for Dune: Part Three",
-          "link": "https://arstechnica.com/culture/2026/10/warner-bros-drops-final-trailer-for-dune-part-three/"
+          "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+          "link": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/"
         },
         {
-          "title": "Ford simplifies using your EV as a home battery with the $30K Fathom",
-          "link": "https://arstechnica.com/cars/2026/10/ford-builds-bidrectional-charging-into-its-30k-electric-truck/"
+          "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+          "link": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-27T22:43:47.594Z"
+      "updatedAt": "2026-10-28T01:53:20.530Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "Here’s why the iPhone Duo’s hinge could be cracking the screen",
+          "link": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge"
+        },
         {
           "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics"
@@ -130,14 +134,10 @@
         {
           "title": "VisionQuest is what happens when AI really goes rogue",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai"
-        },
-        {
-          "title": "The Super Mouse puts a touchscreen macro pad under your hand",
-          "link": "https://www.theverge.com/tech/1019484/super-mouse-touchscreen-shortcuts-macros-kickstarter"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-27T22:43:47.772Z"
+      "updatedAt": "2026-10-28T01:53:20.775Z"
     },
     "BBC World": {
       "items": [
@@ -166,42 +166,42 @@
           "link": "https://www.bbc.co.uk/news/articles/c6e3xgq11jqlo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Alexander brothers each sentenced to 30 years in prison for sex trafficking case",
+          "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
           "link": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-27T22:43:47.852Z"
+      "updatedAt": "2026-10-28T01:53:20.900Z"
     },
     "BBC News": {
       "items": [
         {
+          "title": "Watch: What happens now after close vote in Israeli election?",
+          "link": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Chris Mason: Budget needs to go some way towards delivering PM's promises",
           "link": "https://www.bbc.co.uk/news/articles/c6y43wkln1k2o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
-          "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Two in court over alleged Iran-linked plot at RAF Fairford",
-          "link": "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
           "link": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Men abused woman after her husband drugged and advertised her online, court told",
-          "link": "https://www.bbc.co.uk/news/articles/c5m2d83kmkkyo?at_medium=RSS&at_campaign=rss"
+          "title": "Thick fog to create dangerous driving conditions for UK commuters",
+          "link": "https://www.bbc.co.uk/weather/articles/c6x2wr0dwzx1o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Landline switchover could cut people off in emergency, minister warned",
           "link": "https://www.bbc.co.uk/news/articles/c6x29g1nlr51o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
+          "link": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-27T22:43:47.927Z"
+      "updatedAt": "2026-10-28T01:53:20.909Z"
     },
     "NY Times": {
       "items": [
@@ -214,20 +214,20 @@
           "link": "https://www.nytimes.com/2026/10/27/world/americas/brazil-flavio-bolsonaro-flees-election.html"
         },
         {
-          "title": "Trump Explores Lifting Sanctions on Russia’s Flagship Investment Fund",
-          "link": "https://www.nytimes.com/2026/10/27/us/politics/russia-fund-sanctions-trump.html"
+          "title": "Grand Jury Declines to Bring Charges Against Cassidy Hutchinson",
+          "link": "https://www.nytimes.com/2026/10/27/us/politics/cassidy-hutchinson-indicted-trump-testimony.html"
         },
         {
-          "title": "European Leaders Split Over Phone Call to Putin",
-          "link": "https://www.nytimes.com/2026/10/27/world/europe/norway-finland-putin-call.html"
+          "title": "Justice Dept. Steps Up Moves on Comey and Others as Midterm Elections Near",
+          "link": "https://www.nytimes.com/2026/10/27/us/politics/trump-blanche-elections-comey.html"
         },
         {
-          "title": "Exit Polls in Israel Show No Clear Winner",
-          "link": "https://www.nytimes.com/2026/10/27/briefing/israel-election-candy-prices.html"
+          "title": "White House Has Tight Grip Over FBI in Pursuing Trump Targets, Agent Says",
+          "link": "https://www.nytimes.com/2026/10/27/us/politics/fbi-trump-patel-witt-testimony.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-27T22:43:48.072Z"
+      "updatedAt": "2026-10-28T01:53:20.974Z"
     },
     "ARTNews": {
       "items": [
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-27T22:43:48.232Z"
+      "updatedAt": "2026-10-28T01:53:21.094Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-27T22:43:48.515Z"
+      "updatedAt": "2026-10-28T01:53:21.175Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-27T22:43:48.961Z"
+      "updatedAt": "2026-10-28T01:53:21.473Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-27T22:43:49.123Z"
+      "updatedAt": "2026-10-28T01:53:21.548Z"
     }
   }
 }
