@@ -1,65 +1,65 @@
 {
-  "fetchedAt": "2026-10-27T21:10:47.783Z",
+  "fetchedAt": "2026-10-28T01:05:13.370Z",
   "feeds": {
     "MarketWatch": {
       "items": [
         {
+          "title": "Retail traders buy the dip on chip stocks — but Robinhood gets burned by the crypto market",
+          "link": "https://www.marketwatch.com/story/retail-traders-buy-the-dip-on-chip-stocks-but-robinhood-gets-burned-by-the-crypto-market-33cea913?mod=mw_rss_topstories"
+        },
+        {
+          "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+          "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories"
+        },
+        {
+          "title": "CoreWeave and other AI stocks rise as Anthropic restores the market’s faith in sustained spending",
+          "link": "https://www.marketwatch.com/story/coreweave-and-other-ai-stocks-rise-as-anthropic-restores-the-markets-faith-in-sustained-spending-c71d7186?mod=mw_rss_topstories"
+        },
+        {
+          "title": "As Trump touts energy companies’ fortunes, U.S. consumers face the most expensive year for gas prices ever",
+          "link": "https://www.marketwatch.com/story/as-trump-touts-energy-companies-fortunes-u-s-consumers-face-the-most-expensive-year-for-gas-prices-ever-c467268c?mod=mw_rss_topstories"
+        },
+        {
+          "title": "The rest of the market is leaving Big Tech behind after a historic comeback",
+          "link": "https://www.marketwatch.com/story/the-rest-of-the-market-is-leaving-big-tech-behind-after-a-historic-comeback-324e9fb2?mod=mw_rss_topstories"
+        },
+        {
           "title": "My husband wants to sell our $1.5 million home and downsize. But this is where we raised our kids — and I can’t bear to leave.",
           "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories"
-        },
-        {
-          "title": "The big reason Boeing’s stock is falling so hard after earnings",
-          "link": "https://www.marketwatch.com/story/the-big-reason-boeings-stock-is-falling-so-hard-after-earnings-d31b400d?mod=mw_rss_topstories"
-        },
-        {
-          "title": "How Broadcom’s stock can surge and overcome ‘the biggest dislocation in the market’",
-          "link": "https://www.marketwatch.com/story/how-broadcoms-stock-can-surge-and-overcome-the-biggest-dislocation-in-the-market-9719e2a8?mod=mw_rss_topstories"
-        },
-        {
-          "title": "JetBlue has been losing money for years. It just charted a path to profitability.",
-          "link": "https://www.marketwatch.com/story/jetblue-has-been-losing-money-for-years-it-just-charted-a-path-to-profitability-03be75c8?mod=mw_rss_topstories"
-        },
-        {
-          "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
-          "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories"
-        },
-        {
-          "title": "What gold and platinum are telling us about the stock market’s direction",
-          "link": "https://www.marketwatch.com/story/what-gold-and-platinum-are-telling-us-about-the-stock-markets-direction-81405633?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-27T21:10:46.081Z"
+      "updatedAt": "2026-10-28T01:05:11.439Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Troy Aikman pours cold water on Cowboys' win over Eagles: 'Let's not get carried away'",
-          "link": "https://www.foxnews.com/outkick-sports/troy-aikman-pours-cold-water-cowboys-win-eagles-lets-not-get-carried-away"
+          "title": "Cassidy Hutchinson avoids indictment after DOJ effort to charge her over Jan. 6 testimony fails: sources",
+          "link": "https://www.foxnews.com/politics/cassidy-hutchinson-avoids-indictment-doj-effort-charge-jan-6-testimony-fails-sources"
         },
         {
-          "title": "Judge who apologized to accused would-be Trump assassin lights up DOJ in Hunter Biden FBI case",
-          "link": "https://www.foxnews.com/politics/judge-who-apologized-accused-would-be-trump-assassin-lights-up-doj-hunter-biden-fbi-case"
+          "title": "Man accused of threatening to hijack United flight says it was a drunken joke",
+          "link": "https://www.foxnews.com/us/man-accused-threatening-hijack-united-flight-says-drunken-joke"
         },
         {
-          "title": "Yankees legend says he does not 'feel welcome' by team despite legendary career",
-          "link": "https://www.foxnews.com/outkick-sports/yankees-legend-says-does-not-feel-welcome-team-despite-legendary-career"
+          "title": "Dream vs Valkyries Game 6 bumped from prime time to Thursday afternoon but WNBA stays silent on why",
+          "link": "https://www.foxnews.com/outkick-sports/dream-vs-valkyries-game-6-bumped-prime-time-thursday-afternoon-wnba-stays-silent-why"
         },
         {
-          "title": "Rays star Cam Booser shares blunt take after nightmarish World Series performance: 'Worst feeling'",
-          "link": "https://www.foxnews.com/outkick-sports/rays-star-cam-booser-shares-blunt-take-after-nightmarish-world-series-performance-worst-feeling"
+          "title": "Stephen A Smith makes 'uncomfortable' NFL Comeback Player case for Browns QB Deshaun Watson",
+          "link": "https://www.foxnews.com/outkick-sports/stephen-smith-makes-uncomfortable-nfl-comeback-player-case-browns-qb-deshaun-watson"
         },
         {
-          "title": "Milwaukee Brewers aim to complete World Series sweep over Tampa Bay Rays in Game 4",
-          "link": "https://www.foxnews.com/outkick-betting/milwaukee-brewers-aim-complete-world-series-sweep-tampa-bay-rays-game-4"
+          "title": "Sydney Sweeney recreates iconic 'Home Alone' scene for new lingerie campaign",
+          "link": "https://www.foxnews.com/entertainment/sydney-sweeney-recreates-iconic-home-alone-scene-new-lingerie-campaign"
         },
         {
-          "title": "WNBA's bizarre national anthem controversy shows just how much the league needs Caitlin Clark",
-          "link": "https://www.foxnews.com/outkick-sports/wnba-bizarre-national-anthem-controversy-shows-how-much-league-needs-caitlin-clark"
+          "title": "Alabama dismisses defensive back Dre Kirkpatrick Jr from team after being arrested for second time",
+          "link": "https://www.foxnews.com/outkick-sports/alabama-dismisses-defensive-back-dre-kirkpatrick-jr-team-arrested-second-time"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-27T21:10:46.237Z"
+      "updatedAt": "2026-10-28T01:05:11.734Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -85,66 +85,74 @@
         },
         {
           "title": "Is France Coming Apart?",
-          "link": "https://www.realclearpolitics.com/2026/10/26/is_france_coming_apart_715469.html"
+          "link": "https://www.realclearpolitics.com/2026/10/27/is_france_coming_apart_715469.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-27T21:10:46.400Z"
+      "updatedAt": "2026-10-28T01:05:11.993Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Live updates: Trump holds second Texas rally in one day; Talarico plans dueling event",
-          "link": "https://thehill.com/homenews/state-watch/6173803-live-updates-trump-texas-midterm-elections/"
+          "title": "Trump announces proposal to loosen methane rules for oil and gas production",
+          "link": "https://thehill.com/policy/energy-environment/6176058-trump-texas-rally-methane-regulations-loosened/"
         },
         {
-          "title": "Israeli elections too close to call as turnout shatters record",
-          "link": "https://thehill.com/policy/international/6176171-israel-election-record-turnout/"
+          "title": "Guardrails Alliance hits Husted over ties to Marc Andreessen in new ad",
+          "link": "https://thehill.com/policy/technology/6176397-guardrails-alliance-husted-ad-tech-ties/"
         },
         {
-          "title": "Trump continues calls for Venezuela to be 51st state",
-          "link": "https://thehill.com/homenews/administration/6176049-trump-venezuela-state-oil/"
+          "title": "Iran war cost increases to $47 billion",
+          "link": "https://thehill.com/policy/defense/6176624-us-iran-war-costs-rise/"
         },
         {
-          "title": "Flávio Bolsonaro flees Brazil for US after losing election: Reports",
-          "link": "https://thehill.com/policy/international/6176061-flavio-bolsonaro-flees-brazil-election-loss/"
+          "title": "Husted leans into Trump's compliments on his physique",
+          "link": "https://thehill.com/homenews/campaign/6176600-trump-praises-husted-physique/"
         },
         {
-          "title": "Vance responds to question about 'insulting' Alaska election lawsuit",
-          "link": "https://thehill.com/homenews/state-watch/6175918-vance-alaska-senate-lawsuit/"
+          "title": "Pentagon picks Poland for new missile maintenance facility",
+          "link": "https://thehill.com/newsletters/defense-national-security/6176571-pentagon-picks-poland-missile-facility/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-27T21:10:47.181Z"
+      "updatedAt": "2026-10-28T01:05:12.415Z"
     },
     "Ars Technica": {
       "items": [
         {
-          "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
-          "link": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/"
+          "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
+          "link": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/"
         },
         {
-          "title": "Google begins certifying Registered App Stores for Android, but not in the US",
-          "link": "https://arstechnica.com/gadgets/2026/10/googles-android-registered-app-stores-program-launches-dec-1-applications-now-open/"
+          "title": "South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks",
+          "link": "https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/"
         },
         {
-          "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
-          "link": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/"
+          "title": "China's top-secret spaceplane can't hide in low-Earth orbit",
+          "link": "https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/"
         },
         {
-          "title": "Warner Bros. drops final trailer for Dune: Part Three",
-          "link": "https://arstechnica.com/culture/2026/10/warner-bros-drops-final-trailer-for-dune-part-three/"
+          "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+          "link": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/"
         },
         {
-          "title": "Ford simplifies using your EV as a home battery with the $30K Fathom",
-          "link": "https://arstechnica.com/cars/2026/10/ford-builds-bidrectional-charging-into-its-30k-electric-truck/"
+          "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+          "link": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-27T21:10:47.254Z"
+      "updatedAt": "2026-10-28T01:05:12.504Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "Here’s why the iPhone Duo’s hinge could be cracking the screen",
+          "link": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge"
+        },
+        {
+          "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics"
+        },
         {
           "title": "Elon Musk says Ukraine&#8217;s military violated Starlink&#8217;s terms of service",
           "link": "https://www.theverge.com/science/1019879/elon-musk-starlink-ukraine-terms-of-service"
@@ -156,18 +164,10 @@
         {
           "title": "VisionQuest is what happens when AI really goes rogue",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai"
-        },
-        {
-          "title": "The Super Mouse puts a touchscreen macro pad under your hand",
-          "link": "https://www.theverge.com/tech/1019484/super-mouse-touchscreen-shortcuts-macros-kickstarter"
-        },
-        {
-          "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-27T21:10:47.322Z"
+      "updatedAt": "2026-10-28T01:05:12.622Z"
     },
     "BBC World": {
       "items": [
@@ -188,50 +188,50 @@
           "link": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Dutch zookeeper dies after being mauled in leopard enclosure",
+          "title": "Dutch zookeeper dies after being mauled by leopard",
           "link": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Alexander brothers each sentenced to 30 years in prison for sex trafficking case",
-          "link": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss"
+          "title": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
+          "link": "https://www.bbc.co.uk/news/articles/c6e3xgq11jqlo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Egypt court fines journalist Lina Attalah and orders news site's closure",
-          "link": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss"
+          "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
+          "link": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-27T21:10:47.396Z"
+      "updatedAt": "2026-10-28T01:05:12.689Z"
     },
     "BBC News": {
       "items": [
-        {
-          "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
-          "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss"
-        },
         {
           "title": "Chris Mason: Budget needs to go some way towards delivering PM's promises",
           "link": "https://www.bbc.co.uk/news/articles/c6y43wkln1k2o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Two in court over alleged Iran-linked plot at RAF Fairford",
-          "link": "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
-          "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss"
+          "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
+          "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
           "link": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss"
         },
         {
+          "title": "Two in court over alleged Iran-linked plot at RAF Fairford",
+          "link": "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Men abused woman after her husband drugged and advertised her online, court told",
           "link": "https://www.bbc.co.uk/news/articles/c5m2d83kmkkyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Landline switchover could cut people off in emergency, minister warned",
+          "link": "https://www.bbc.co.uk/news/articles/c6x29g1nlr51o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-27T21:10:47.419Z"
+      "updatedAt": "2026-10-28T01:05:12.762Z"
     },
     "NY Times": {
       "items": [
@@ -244,20 +244,20 @@
           "link": "https://www.nytimes.com/2026/10/27/world/americas/brazil-flavio-bolsonaro-flees-election.html"
         },
         {
-          "title": "Trump Explores Lifting Sanctions on Russia’s Flagship Investment Fund",
-          "link": "https://www.nytimes.com/2026/10/27/us/politics/russia-fund-sanctions-trump.html"
+          "title": "Grand Jury Declines to Bring Charges Against Cassidy Hutchinson",
+          "link": "https://www.nytimes.com/2026/10/27/us/politics/cassidy-hutchinson-indicted-trump-testimony.html"
         },
         {
-          "title": "European Leaders Split Over Phone Call to Putin",
-          "link": "https://www.nytimes.com/2026/10/27/world/europe/norway-finland-putin-call.html"
+          "title": "Justice Dept. Steps Up Moves on Comey and Others as Midterm Elections Near",
+          "link": "https://www.nytimes.com/2026/10/27/us/politics/trump-blanche-elections-comey.html"
         },
         {
-          "title": "The Christian Influencer at the Center of Ken Paxton’s New Life",
-          "link": "https://www.nytimes.com/2026/10/27/us/ken-paxton-divorce-tracy-duhon.html"
+          "title": "White House Has Tight Grip Over FBI in Pursuing Trump Targets, Agent Says",
+          "link": "https://www.nytimes.com/2026/10/27/us/politics/fbi-trump-patel-witt-testimony.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-27T21:10:47.604Z"
+      "updatedAt": "2026-10-28T01:05:13.084Z"
     }
   },
   "indices": {
@@ -279,13 +279,13 @@
       },
       {
         "name": "Gold",
-        "price": 4073.1,
-        "pct": 0.31277706629888236
+        "price": 4076.3,
+        "pct": 0.39158703576002585
       },
       {
         "name": "Bitcoin",
-        "price": 80639.91,
-        "pct": -0.5356575255330935
+        "price": 80553.72,
+        "pct": -0.2934936828726398
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-27T21:10:47.783Z"
+    "updatedAt": "2026-10-28T01:05:13.370Z"
   }
 }
