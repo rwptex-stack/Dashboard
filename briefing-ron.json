@@ -1,176 +1,188 @@
 {
-  "fetchedAt": "2026-10-28T15:51:50.965Z",
+  "fetchedAt": "2026-10-28T20:54:25.070Z",
   "feeds": {
     "MarketWatch": {
       "items": [
         {
-          "title": "We’re spending more than $11,000 a year of our own money caring for our aging parents and loved ones",
+          "title": "Vertiv earnings just sent an upbeat signal about AI ahead of Big Tech results",
+          "link": "https://www.marketwatch.com/story/vertiv-earnings-just-sent-an-upbeat-signal-about-ai-ahead-of-big-tech-results-5714a105?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Micron’s stock rises after SK Hynix earnings. Here’s its next major test.",
+          "link": "https://www.marketwatch.com/story/microns-stock-rises-after-sk-hynix-earnings-heres-its-next-major-test-99853d0e?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Here’s what just sent Oracle’s stock soaring",
+          "link": "https://www.marketwatch.com/story/heres-what-just-sent-oracles-stock-soaring-7a1a91e2?mod=mw_rss_topstories"
+        },
+        {
+          "title": "ServiceNow’s stock slides as earnings miss clouds a raised AI outlook",
+          "link": "https://www.marketwatch.com/story/servicenows-stock-slides-as-earnings-miss-clouds-a-raised-ai-outlook-96e48385?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Caregivers are now spending more than $11,000 a year out of pocket—up 60% in five years",
           "link": "https://www.marketwatch.com/story/were-spending-more-than-11-000-a-year-of-our-own-money-caring-for-our-aging-parents-and-loved-ones-8fc5b2dc?mod=mw_rss_topstories"
         },
         {
-          "title": "3 reasons home prices keep going up, even though fewer people are buying",
-          "link": "https://www.marketwatch.com/story/3-reasons-why-home-prices-keep-going-up-even-though-fewer-people-are-buying-9afa6106?mod=mw_rss_topstories"
-        },
-        {
-          "title": "My husband wants to sell our $1.5 million home and downsize. But this is where we raised our kids — and I can’t bear to leave.",
-          "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories"
-        },
-        {
-          "title": "McDonald’s new bet on chicken hits a snag as franchisees say the birds are too big",
-          "link": "https://www.marketwatch.com/story/mcdonalds-new-bet-on-chicken-hits-a-snag-as-franchisees-say-the-birds-are-too-big-c3e8dd77?mod=mw_rss_topstories"
-        },
-        {
-          "title": "These software stocks could be winners as earnings season kicks into high gear",
-          "link": "https://www.marketwatch.com/story/these-software-stocks-could-be-winners-as-earnings-season-kicks-into-high-gear-8decddf7?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Heating your home with oil could cost $750 more this winter. Read this before you pay the price.",
-          "link": "https://www.marketwatch.com/story/heating-your-home-with-oil-could-cost-750-more-this-winter-read-this-before-you-pay-the-price-e39f0d52?mod=mw_rss_topstories"
+          "title": "U.S. oil-refinery stocks are up roughly 150% this year. How long could this historic run last?",
+          "link": "https://www.marketwatch.com/story/u-s-oil-refinery-stocks-are-up-roughly-150-this-year-how-long-could-this-historic-run-last-f01c590f?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-28T15:51:49.141Z"
+      "updatedAt": "2026-10-28T20:54:23.848Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Democrat's 2-word answer on a possible presidential run draws cheers from Maine crowd",
-          "link": "https://www.foxnews.com/politics/democrats-2-word-answer-possible-presidential-run-draws-cheers-maine-crowd"
+          "title": "Dem AG’s ‘too many golf courses’ remark goes viral as critics tee off",
+          "link": "https://www.foxnews.com/politics/dem-ag-too-many-golf-courses-remark-goes-viral-critics-tee-off"
         },
         {
-          "title": "Rays ride walk-off momentum into Game 5 after stunning 12th-inning comeback in World Series",
-          "link": "https://www.foxnews.com/outkick-betting/rays-ride-walk-off-momentum-game-5-stunning-12th-inning-comeback-world-series"
+          "title": "'Never-ending' cruise grinds to devastating end, stranding over 200 passengers abroad",
+          "link": "https://www.foxnews.com/travel/never-ending-cruise-grinds-devastating-end-stranding-over-200-passengers-abroad"
         },
         {
-          "title": "Fans debate Brewers decision to keep Jacob Misiorowski in dugout with chance to win first ever World Series",
-          "link": "https://www.foxnews.com/outkick-sports/fans-debate-brewers-decision-keep-jacob-misiorowski-dugout-chance-win-first-ever-world-series"
+          "title": "Bears star Montez Sweat says he never wants to 'cheat the game' as he returns from PED suspension",
+          "link": "https://www.foxnews.com/outkick-sports/bears-star-montez-sweat-never-wants-cheat-game-returns-ped-suspension"
         },
         {
-          "title": "The Castellows' Lily Balkcom goes viral with Grand Ole Opry Instagram photo dump post",
-          "link": "https://www.foxnews.com/outkick-culture/castellows-lily-balkcom-goes-viral-grand-ole-opry-instagram-photo-dump-post"
+          "title": "Hayden Panettiere’s death ruled accidental, police say",
+          "link": "https://www.foxnews.com/entertainment/hayden-panettieres-death-ruled-accidental-police-say"
         },
         {
-          "title": "Trump admin hit with $461M lawsuit as embassy fight started under Biden comes back to haunt State Dept",
-          "link": "https://www.foxnews.com/politics/trump-admin-hit-461m-lawsuit-embassy-fight-started-under-biden-comes-back-haunt-state-dept"
+          "title": "Tom Brady’s latest romance sparks Victoria’s Secret model war: report",
+          "link": "https://www.foxnews.com/entertainment/tom-brady-latest-romance-sparks-victorias-secret-model-war-report"
         },
         {
-          "title": "Holocaust educator says Mamdani could learn from UK's targeted approach to antisemitism in schools",
-          "link": "https://www.foxnews.com/world/holocaust-educator-says-mamdani-could-learn-from-uks-targeted-approach-antisemitism-schools"
+          "title": "Dueling rallies thrust deep-red Lone Star town into the center of the political universe",
+          "link": "https://www.foxnews.com/politics/dueling-rallies-thrust-deep-red-lone-star-town-center-political-universe"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-28T15:51:49.313Z"
+      "updatedAt": "2026-10-28T20:54:23.943Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "Trump and Talarico Hold Dueling Texas Rallies",
-          "link": "https://www.realclearpolitics.com/2026/10/28/trump_and_talarico_hold_dueling_texas_rallies_715715.html"
+          "title": "Bob Woodward Loved a Good 'Squish'",
+          "link": "https://www.realclearpolitics.com/2026/10/28/bob_woodward_loved_a_good_squish_715775.html"
         },
         {
-          "title": "What Does the Left Really Want?",
-          "link": "https://www.realclearpolitics.com/2026/10/28/what_does_the_left_really_want_715733.html"
+          "title": "The Cheesecake Factory Won't Save Republicans",
+          "link": "https://www.realclearpolitics.com/2026/10/28/the_cheesecake_factory_wont_save_republicans_715745.html"
         },
         {
-          "title": "Dems Can Use Next Two Years To Hold Trump Accountable",
-          "link": "https://www.realclearpolitics.com/2026/10/28/dems_can_use_next_two_years_to_hold_trump_accountable_715739.html"
+          "title": "Trump Rallies for 'Best Ever' AG Paxton at Packed Rally",
+          "link": "https://www.realclearpolitics.com/2026/10/28/trump_rallies_for_best_ever_ag_paxton_at_packed_rally_715766.html"
         },
         {
-          "title": "Talarico's Tall Tales",
-          "link": "https://www.realclearpolitics.com/2026/10/28/talaricos_tall_tales_715671.html"
+          "title": "Michigan Students Are All In for El-Sayed",
+          "link": "https://www.realclearpolitics.com/2026/10/28/michigan_students_are_all_in_for_el-sayed_715504.html"
         },
         {
-          "title": "Maine's Jackson on Medicare for All Mission",
-          "link": "https://www.realclearpolitics.com/2026/10/28/maines_jackson_on_medicare_for_all_mission_715672.html"
+          "title": "Level-Setting 2026. Part II: The Senate",
+          "link": "https://www.realclearpolitics.com/2026/10/28/level-setting_2026_part_ii_the_senate_715764.html"
         },
         {
-          "title": "The Democratic Case Against El-Sayed",
-          "link": "https://www.realclearpolitics.com/2026/10/28/the_democratic_case_against_el-sayed_715468.html"
+          "title": "Bolsonaro Lands in U.S. After Fleeing Brazil Following Defeat",
+          "link": "https://www.realclearpolitics.com/2026/10/28/bolsonaro_lands_in_us_after_fleeing_brazil_following_defeat_715770.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-28T15:51:49.478Z"
+      "updatedAt": "2026-10-28T20:54:24.099Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Election lawsuits are underway: What voters need to know",
-          "link": "https://thehill.com/newsletters/the-gavel/the-gavel-live-briefing/6178074-election-lawsuits-2026-what-to-know-midterms-live-discussion/"
+          "title": "Trump: Peltola should be removed from ballot following New York Times report",
+          "link": "https://thehill.com/homenews/campaign/6179361-trump-peltola-election-fraud-claims/"
         },
         {
-          "title": "Put AI to work on America’s electric bill",
-          "link": "https://thehill.com/opinion/energy-environment/6175998-improving-american-power-grid-infrastructure/"
+          "title": "Live updates: Trump, Obama, Vance hit key states in midterm sprint",
+          "link": "https://thehill.com/homenews/state-watch/6176665-live-updates-trump-obama-midterm-elections-fed-interest-rate/"
         },
         {
-          "title": "Alaska's GOP-led government asks court to block DOJ Senate race certification lawsuit",
-          "link": "https://thehill.com/homenews/campaign/6177625-alaska-gop-moves-dismiss-doj-lawsuit/"
+          "title": "Who is Gadi Eisenkot, Netanyahu's opponent?",
+          "link": "https://thehill.com/policy/international/6179138-eisenkot-netanyahu-election-race/"
         },
         {
-          "title": "Top federal prosecutor in LA not legally serving, judge rules",
-          "link": "https://thehill.com/homenews/state-watch/6177658-judge-rules-essayli-unlawful-designation/"
+          "title": "Netanyahu’s party alleges 'serious criminal offenses' in Israeli election",
+          "link": "https://thehill.com/policy/international/6179270-likud-accuses-arab-parties-fraud/"
         },
         {
-          "title": "Former RNC chair: Democrats will 'probably' take House control",
-          "link": "https://thehill.com/homenews/campaign/6177899-ronna-mcdaniel-rnc-gop-democrats-house-control-midterms/"
+          "title": "Netanyahu’s fortunes improve but without clear path to outright victory",
+          "link": "https://thehill.com/policy/international/6179120-netanyahu-likud-eisenkot-israel-election/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-28T15:51:50.023Z"
+      "updatedAt": "2026-10-28T20:54:24.691Z"
     },
     "Ars Technica": {
       "items": [
         {
-          "title": "A hidden ocean change near Antarctica could have global consequences",
-          "link": "https://arstechnica.com/science/2026/10/antarctic-sea-ice-loss-could-reshape-weather-far-beyond-the-pole/"
+          "title": "Trump admin sues Utah to save Kalshi from the state's total ban on gambling",
+          "link": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/"
         },
         {
-          "title": "China’s snooping around Pacific undersea cables raises risks for Big Tech",
-          "link": "https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific/"
+          "title": "The last, best hope for space tourism just rolled onto a runway in Arizona",
+          "link": "https://arstechnica.com/space/2026/10/the-last-best-hope-for-space-tourism-just-rolled-onto-a-runway-in-arizona/"
         },
         {
-          "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
-          "link": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/"
+          "title": "Touchscreen MacBook Pro hands-on: OLED looks great on a Mac",
+          "link": "https://arstechnica.com/apple/2026/10/touchscreen-macbook-pro-hands-on-oled-looks-great-on-a-mac/"
         },
         {
-          "title": "South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks",
-          "link": "https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/"
+          "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+          "link": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/"
         },
         {
-          "title": "China's top-secret spaceplane can't hide in low-Earth orbit",
-          "link": "https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/"
+          "title": "Amazon turns its most capable smart speaker into a smart camera, too",
+          "link": "https://arstechnica.com/gadgets/2026/10/amazon-adds-a-camera-to-its-best-sounding-smart-speaker-for-30-extra/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-28T15:51:50.170Z"
+      "updatedAt": "2026-10-28T20:54:24.741Z"
     },
     "The Verge": {
       "items": [
         {
-          "title": "Govee’s colorful smart string lights are down to their best price of the year",
-          "link": "https://www.theverge.com/gadgets/1020139/govee-christmas-string-lights-2-tile-pro-deal-sale"
+          "title": "Google says its investments in AI are driving more searches",
+          "link": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026"
         },
         {
-          "title": "Sony has new transparent PS5 controllers launching next year",
-          "link": "https://www.theverge.com/tech/1020671/sony-playstation-5-dualsense-wireless-controller-prism-collection-transparent"
+          "title": "Microsoft reveals strong cloud growth amid financial reporting overhaul",
+          "link": "https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027"
         },
         {
-          "title": "8BitDo’s new Xbox Elite-style controller sets a high bar for customization",
-          "link": "https://www.theverge.com/gadgets/1017815/8bitdo-ultimate-3e-xbox-pc-controller-hands-on"
+          "title": "Apple charges $14,549 for a fully specced touchscreen MacBook Pro",
+          "link": "https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced"
         },
         {
-          "title": "Apple raises the MacBook Neo&#8217;s student pricing again",
-          "link": "https://www.theverge.com/tech/1020629/apple-macbook-neo-price-hike-education-store"
+          "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+          "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"
         },
         {
-          "title": "xAI is buying out homeowners who promise not to sue over data center noise",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit"
+          "title": "Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech",
+          "link": "https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-28T15:51:50.252Z"
+      "updatedAt": "2026-10-28T20:54:24.841Z"
     },
     "BBC World": {
       "items": [
+        {
+          "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
+          "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+          "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "How could Israel break election deadlock? Here are four scenarios",
+          "link": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
           "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss"
@@ -186,114 +198,102 @@
         {
           "title": "Anger in Kenya over extradition hearing delay for ex-British soldier accused of murdering woman",
           "link": "https://www.bbc.co.uk/news/articles/cmly073ql392o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
-          "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
-          "link": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Dutch zookeeper dies after being mauled by leopard",
-          "link": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-28T15:51:50.549Z"
+      "updatedAt": "2026-10-28T20:54:24.895Z"
     },
     "BBC News": {
       "items": [
         {
+          "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
+          "link": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Key points at a glance",
           "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Chris Mason: Budget felt cautious despite its range of small measures",
+          "link": "https://www.bbc.co.uk/news/articles/cm78pljvqvxeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "The main announcements from the Budget - and how they will be funded",
+          "link": "https://www.bbc.co.uk/news/videos/ck0j06zl28wzo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "How the Budget affects you",
           "link": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Chris Mason on the standout points from the Budget",
-          "link": "https://www.bbc.co.uk/news/videos/cmdx3kne9r6go?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Chancellor takes to the despatch box",
-          "link": "https://www.bbc.co.uk/news/videos/cqn49vy2jlx0o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Overturned carriages and makeshift medical tents at crash site",
-          "link": "https://www.bbc.co.uk/news/videos/cv8ezjdkle59o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "What we know about the crash so far",
-          "link": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss"
+          "title": "What the Budget offers for under 25s - and what it leaves out",
+          "link": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-28T15:51:50.733Z"
+      "updatedAt": "2026-10-28T20:54:24.908Z"
     },
     "NY Times": {
       "items": [
+        {
+          "title": "Flávio Bolsonaro Lands in Miami After Fleeing Brazil",
+          "link": "https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html"
+        },
+        {
+          "title": "What to Know About Brazil’s Election and Flávio Bolsonaro’s Departure",
+          "link": "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-win-what-to-know.html"
+        },
         {
           "title": "Inside Democrats’ Secret Effort to Stack Alaska’s Midterm Ballot With Another Dan Sullivan",
           "link": "https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html"
         },
         {
-          "title": "4 Takeaways From Israel’s Election",
-          "link": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-vote-results-takeaways.html"
+          "title": "Spain Train Crash Kills at Least 68",
+          "link": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-rescue-victims.html"
         },
         {
-          "title": "Israel’s Election: When Will We Know Who Will Be Prime Minister?",
-          "link": "https://www.nytimes.com/2026/10/25/world/middleeast/israel-election-guide-netanyahu-eisenkot.html"
-        },
-        {
-          "title": "Dolores Huerta, Who Founded United Farm Workers With Cesar Chavez, Dies",
-          "link": "https://www.nytimes.com/2026/10/28/us/dolores-huerta-dead.html"
-        },
-        {
-          "title": "Flávio Bolsonaro Lands in Miami After Fleeing Brazil",
-          "link": "https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html"
+          "title": "What We Know About the Deadly Train Crash in Spain",
+          "link": "https://www.nytimes.com/2026/10/28/world/europe/train-crash-spain.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-28T15:51:50.786Z"
+      "updatedAt": "2026-10-28T20:54:24.955Z"
     }
   },
   "indices": {
     "data": [
       {
         "name": "S&P 500",
-        "price": 7737.58,
-        "pct": -0.2525405528046974
+        "price": 7743.98,
+        "pct": -0.17003623744226967
       },
       {
         "name": "Dow Jones",
-        "price": 52535.97,
-        "pct": -0.6056444962160376
+        "price": 52475.1,
+        "pct": -0.7208062495731296
       },
       {
         "name": "Nasdaq",
-        "price": 26459.557,
-        "pct": -0.9111495922159645
+        "price": 26549.852,
+        "pct": -0.5730022926383227
       },
       {
         "name": "Gold",
-        "price": 4057.9,
-        "pct": 1.2475361161705631
+        "price": 4082.3,
+        "pct": 1.8563337408618004
       },
       {
         "name": "Bitcoin",
-        "price": 80399.3,
-        "pct": -0.4846292220568095
+        "price": 81108.79,
+        "pct": 0.3935520607807523
       },
       {
         "name": "SpaceX",
-        "price": 144.95,
-        "pct": -9.01387232439898
+        "price": 145.23,
+        "pct": -8.838114368212926
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-28T15:51:50.965Z"
+    "updatedAt": "2026-10-28T20:54:25.070Z"
   }
 }
