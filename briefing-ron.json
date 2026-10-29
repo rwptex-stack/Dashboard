@@ -1,65 +1,65 @@
 {
-  "fetchedAt": "2026-10-28T20:54:25.070Z",
+  "fetchedAt": "2026-10-29T00:43:26.066Z",
   "feeds": {
     "MarketWatch": {
       "items": [
         {
-          "title": "Vertiv earnings just sent an upbeat signal about AI ahead of Big Tech results",
-          "link": "https://www.marketwatch.com/story/vertiv-earnings-just-sent-an-upbeat-signal-about-ai-ahead-of-big-tech-results-5714a105?mod=mw_rss_topstories"
+          "title": "Lumentum’s stock pops as investors cheer a possible sale to Marvell",
+          "link": "https://www.marketwatch.com/story/lumentums-stock-pops-as-investors-cheer-a-possible-sale-to-marvell-07c1d0e8?mod=mw_rss_topstories"
         },
         {
-          "title": "Micron’s stock rises after SK Hynix earnings. Here’s its next major test.",
-          "link": "https://www.marketwatch.com/story/microns-stock-rises-after-sk-hynix-earnings-heres-its-next-major-test-99853d0e?mod=mw_rss_topstories"
+          "title": "Why Alphabet’s stock could see its worst drop in years after the latest results",
+          "link": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories"
         },
         {
-          "title": "Here’s what just sent Oracle’s stock soaring",
-          "link": "https://www.marketwatch.com/story/heres-what-just-sent-oracles-stock-soaring-7a1a91e2?mod=mw_rss_topstories"
+          "title": "‘Just watch Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
+          "link": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories"
         },
         {
-          "title": "ServiceNow’s stock slides as earnings miss clouds a raised AI outlook",
+          "title": "The major reason Microsoft’s stock is heading higher after earnings",
+          "link": "https://www.marketwatch.com/story/the-major-reason-microsofts-stock-is-heading-higher-after-earnings-c019a036?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Fortinet’s stock is taking a dive after earnings. Here’s why.",
+          "link": "https://www.marketwatch.com/story/fortinets-stock-is-taking-a-dive-after-earnings-heres-why-d407896e?mod=mw_rss_topstories"
+        },
+        {
+          "title": "ServiceNow’s stock slides as earnings miss overshadows a raised AI outlook",
           "link": "https://www.marketwatch.com/story/servicenows-stock-slides-as-earnings-miss-clouds-a-raised-ai-outlook-96e48385?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Caregivers are now spending more than $11,000 a year out of pocket—up 60% in five years",
-          "link": "https://www.marketwatch.com/story/were-spending-more-than-11-000-a-year-of-our-own-money-caring-for-our-aging-parents-and-loved-ones-8fc5b2dc?mod=mw_rss_topstories"
-        },
-        {
-          "title": "U.S. oil-refinery stocks are up roughly 150% this year. How long could this historic run last?",
-          "link": "https://www.marketwatch.com/story/u-s-oil-refinery-stocks-are-up-roughly-150-this-year-how-long-could-this-historic-run-last-f01c590f?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-28T20:54:23.848Z"
+      "updatedAt": "2026-10-29T00:43:24.566Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Dem AG’s ‘too many golf courses’ remark goes viral as critics tee off",
-          "link": "https://www.foxnews.com/politics/dem-ag-too-many-golf-courses-remark-goes-viral-critics-tee-off"
+          "title": "Barbara Barrie, Oscar-nominated 'Barney Miller' and 'Suddenly Susan' actress, dead at 95",
+          "link": "https://www.foxnews.com/entertainment/barbara-barrie-oscar-nominated-barney-miller-suddenly-susan-actress-dead-95"
         },
         {
-          "title": "'Never-ending' cruise grinds to devastating end, stranding over 200 passengers abroad",
-          "link": "https://www.foxnews.com/travel/never-ending-cruise-grinds-devastating-end-stranding-over-200-passengers-abroad"
+          "title": "Mark Walter says he will keep Dodgers 'no matter what' despite federal investigation into businesses",
+          "link": "https://www.foxnews.com/outkick-sports/mark-walter-keep-dodgers-despite-federal-investigation-businesses"
         },
         {
-          "title": "Bears star Montez Sweat says he never wants to 'cheat the game' as he returns from PED suspension",
-          "link": "https://www.foxnews.com/outkick-sports/bears-star-montez-sweat-never-wants-cheat-game-returns-ped-suspension"
+          "title": "Portland Public Schools rescinds ban on woman who questioned child's gender identity assignment",
+          "link": "https://www.foxnews.com/media/portland-public-schools-rescinds-ban-woman-questioned-childs-gender-identity-assignment"
         },
         {
-          "title": "Hayden Panettiere’s death ruled accidental, police say",
-          "link": "https://www.foxnews.com/entertainment/hayden-panettieres-death-ruled-accidental-police-say"
+          "title": "Dream ownership group voices frustration in open letter over WNBA Finals venue concerns",
+          "link": "https://www.foxnews.com/outkick-sports/dream-ownership-group-voice-frustration-open-letter-wnba-finals-venue-concerns"
         },
         {
-          "title": "Tom Brady’s latest romance sparks Victoria’s Secret model war: report",
-          "link": "https://www.foxnews.com/entertainment/tom-brady-latest-romance-sparks-victorias-secret-model-war-report"
+          "title": "BOBBY BURACK: Justin Tucker signing exposes sports media’s selective outrage over NFL misconduct",
+          "link": "https://www.foxnews.com/outkick-sports/justin-tucker-signing-exposes-sports-media-selective-outrage-nfl-players-accused-misconduct"
         },
         {
-          "title": "Dueling rallies thrust deep-red Lone Star town into the center of the political universe",
-          "link": "https://www.foxnews.com/politics/dueling-rallies-thrust-deep-red-lone-star-town-center-political-universe"
+          "title": "Maine girls to speak out on trans athletes as parents revive ballot push on eve of Senate election",
+          "link": "https://www.foxnews.com/outkick-sports/maine-girls-speak-trans-athletes-parents-revive-ballot-push-eve-senate-election"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-28T20:54:23.943Z"
+      "updatedAt": "2026-10-29T00:43:24.675Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -89,36 +89,48 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-28T20:54:24.099Z"
+      "updatedAt": "2026-10-29T00:43:24.935Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Trump: Peltola should be removed from ballot following New York Times report",
-          "link": "https://thehill.com/homenews/campaign/6179361-trump-peltola-election-fraud-claims/"
+          "title": "Kilmeade, Hume say Vance 'not as popular as he thinks he is' ahead of 2028",
+          "link": "https://thehill.com/homenews/campaign/6179914-vance-2028-presidential-prospects/"
         },
         {
-          "title": "Live updates: Trump, Obama, Vance hit key states in midterm sprint",
-          "link": "https://thehill.com/homenews/state-watch/6176665-live-updates-trump-obama-midterm-elections-fed-interest-rate/"
+          "title": "Putin: Russia in 'close contact' with 'genius' Musk over satellite networks",
+          "link": "https://thehill.com/policy/technology/6179862-putin-praises-elon-musk/"
         },
         {
-          "title": "Who is Gadi Eisenkot, Netanyahu's opponent?",
-          "link": "https://thehill.com/policy/international/6179138-eisenkot-netanyahu-election-race/"
+          "title": "Justice Department pushes to keep Ilhan Omar search warrant under seal for now",
+          "link": "https://thehill.com/regulation/court-battles/6179804-prosecutors-oppose-omar-warrant-unsealing/"
         },
         {
-          "title": "Netanyahu’s party alleges 'serious criminal offenses' in Israeli election",
-          "link": "https://thehill.com/policy/international/6179270-likud-accuses-arab-parties-fraud/"
+          "title": "Murkowski calls for 'truth' from Peltola amid 'pattern of lies and coverups'",
+          "link": "https://thehill.com/homenews/senate/6179799-murkowski-peltola-ballot-stacking-claims/"
         },
         {
-          "title": "Netanyahu’s fortunes improve but without clear path to outright victory",
-          "link": "https://thehill.com/policy/international/6179120-netanyahu-likud-eisenkot-israel-election/"
+          "title": "Stevens's fiance says he'll vote for Rogers over El-Sayed",
+          "link": "https://thehill.com/homenews/campaign/6179793-haley-stevens-fiance-supports-rogers/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-28T20:54:24.691Z"
+      "updatedAt": "2026-10-29T00:43:25.541Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
+          "link": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/"
+        },
+        {
+          "title": "As US ties fray, Europe plans first undersea cable link to Greenland",
+          "link": "https://arstechnica.com/gadgets/2026/10/as-us-ties-fray-europe-plans-first-undersea-cable-link-to-greenland/"
+        },
+        {
+          "title": "Peptide peddlers cheer as RFK Jr. unilaterally grants access, overruling FDA",
+          "link": "https://arstechnica.com/health/2026/10/peptide-peddlers-cheer-as-rfk-jr-unilaterally-grants-access-overruling-fda/"
+        },
         {
           "title": "Trump admin sues Utah to save Kalshi from the state's total ban on gambling",
           "link": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/"
@@ -126,53 +138,49 @@
         {
           "title": "The last, best hope for space tourism just rolled onto a runway in Arizona",
           "link": "https://arstechnica.com/space/2026/10/the-last-best-hope-for-space-tourism-just-rolled-onto-a-runway-in-arizona/"
-        },
-        {
-          "title": "Touchscreen MacBook Pro hands-on: OLED looks great on a Mac",
-          "link": "https://arstechnica.com/apple/2026/10/touchscreen-macbook-pro-hands-on-oled-looks-great-on-a-mac/"
-        },
-        {
-          "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
-          "link": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/"
-        },
-        {
-          "title": "Amazon turns its most capable smart speaker into a smart camera, too",
-          "link": "https://arstechnica.com/gadgets/2026/10/amazon-adds-a-camera-to-its-best-sounding-smart-speaker-for-30-extra/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-28T20:54:24.741Z"
+      "updatedAt": "2026-10-29T00:43:25.633Z"
     },
     "The Verge": {
       "items": [
         {
+          "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity"
+        },
+        {
+          "title": "A hacker stole more than 40,000 DHS employee records",
+          "link": "https://www.theverge.com/tech/1021528/ice-cbp-data-leak"
+        },
+        {
+          "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+          "link": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key"
+        },
+        {
+          "title": "Readwise is taking on Kindle and Kobo for ebook supremacy",
+          "link": "https://www.theverge.com/tech/1020264/readwise-books-launch-ebook-store"
+        },
+        {
           "title": "Google says its investments in AI are driving more searches",
           "link": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026"
-        },
-        {
-          "title": "Microsoft reveals strong cloud growth amid financial reporting overhaul",
-          "link": "https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027"
-        },
-        {
-          "title": "Apple charges $14,549 for a fully specced touchscreen MacBook Pro",
-          "link": "https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced"
-        },
-        {
-          "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
-          "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"
-        },
-        {
-          "title": "Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech",
-          "link": "https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-28T20:54:24.841Z"
+      "updatedAt": "2026-10-29T00:43:25.742Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
+          "title": "High-speed train crash kills at least 68 people in Spain",
+          "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
+          "link": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
           "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss"
         },
         {
@@ -184,24 +192,16 @@
           "link": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss"
         },
         {
+          "title": "Girl seriously injured in wolf attack at German wildlife park",
+          "link": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
           "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
-          "link": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
-          "link": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Anger in Kenya over extradition hearing delay for ex-British soldier accused of murdering woman",
-          "link": "https://www.bbc.co.uk/news/articles/cmly073ql392o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-28T20:54:24.895Z"
+      "updatedAt": "2026-10-29T00:43:25.895Z"
     },
     "BBC News": {
       "items": [
@@ -210,54 +210,54 @@
           "link": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Key points at a glance",
+          "title": "Budget key points at a glance",
           "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Chris Mason: Budget felt cautious despite its range of small measures",
-          "link": "https://www.bbc.co.uk/news/articles/cm78pljvqvxeo?at_medium=RSS&at_campaign=rss"
+          "title": "High-speed train crash kills at least 68 people in Spain",
+          "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "The main announcements from the Budget - and how they will be funded",
-          "link": "https://www.bbc.co.uk/news/videos/ck0j06zl28wzo?at_medium=RSS&at_campaign=rss"
+          "title": "Watch: At the scene of Spain's deadly train crash",
+          "link": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "How the Budget affects you",
-          "link": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss"
+          "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+          "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "What the Budget offers for under 25s - and what it leaves out",
-          "link": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss"
+          "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+          "link": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-28T20:54:24.908Z"
+      "updatedAt": "2026-10-29T00:43:25.902Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "Flávio Bolsonaro Lands in Miami After Fleeing Brazil",
-          "link": "https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html"
+          "title": "Cabinet Officials on the Campaign Trail? Ethics Experts Say Some Are Breaking the Law.",
+          "link": "https://www.nytimes.com/2026/10/28/us/politics/trump-hatch-act.html"
         },
         {
-          "title": "What to Know About Brazil’s Election and Flávio Bolsonaro’s Departure",
-          "link": "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-win-what-to-know.html"
+          "title": "As Trump Faces Down the Midterms, a Grim Mood Takes Over the White House",
+          "link": "https://www.nytimes.com/2026/10/28/us/politics/trump-midterms-white-house-mood.html"
         },
         {
           "title": "Inside Democrats’ Secret Effort to Stack Alaska’s Midterm Ballot With Another Dan Sullivan",
           "link": "https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html"
         },
         {
-          "title": "Spain Train Crash Kills at Least 68",
-          "link": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-rescue-victims.html"
+          "title": "Atlanta’s Mayor Walked Away After Covid Chaos. Will Voters Make Her Georgia’s Governor?",
+          "link": "https://www.nytimes.com/2026/10/28/us/politics/keisha-lance-bottoms-atlanta-mayor.html"
         },
         {
-          "title": "What We Know About the Deadly Train Crash in Spain",
-          "link": "https://www.nytimes.com/2026/10/28/world/europe/train-crash-spain.html"
+          "title": "A Ballot-Stacking Effort in Alaska",
+          "link": "https://www.nytimes.com/2026/10/28/briefing/alaska-ballot-stacking-horror-bookshops.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-28T20:54:24.955Z"
+      "updatedAt": "2026-10-29T00:43:25.970Z"
     }
   },
   "indices": {
@@ -279,13 +279,13 @@
       },
       {
         "name": "Gold",
-        "price": 4082.3,
-        "pct": 1.8563337408618004
+        "price": 4050.3,
+        "pct": 1.0579106265126397
       },
       {
         "name": "Bitcoin",
-        "price": 81108.79,
-        "pct": 0.3935520607807523
+        "price": 81085.08,
+        "pct": 1.3259395523918471
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-28T20:54:25.070Z"
+    "updatedAt": "2026-10-29T00:43:26.065Z"
   }
 }
