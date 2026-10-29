@@ -1,15 +1,15 @@
 {
-  "fetchedAt": "2026-10-29T00:43:26.066Z",
+  "fetchedAt": "2026-10-29T06:53:41.069Z",
   "feeds": {
     "MarketWatch": {
       "items": [
         {
-          "title": "Lumentum’s stock pops as investors cheer a possible sale to Marvell",
-          "link": "https://www.marketwatch.com/story/lumentums-stock-pops-as-investors-cheer-a-possible-sale-to-marvell-07c1d0e8?mod=mw_rss_topstories"
-        },
-        {
           "title": "Why Alphabet’s stock could see its worst drop in years after the latest results",
           "link": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Lumentum’s stock pops as investors cheer a possible sale to Marvell",
+          "link": "https://www.marketwatch.com/story/lumentums-stock-pops-as-investors-cheer-a-possible-sale-to-marvell-07c1d0e8?mod=mw_rss_topstories"
         },
         {
           "title": "‘Just watch Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
@@ -29,93 +29,93 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-29T00:43:24.566Z"
+      "updatedAt": "2026-10-29T06:53:38.474Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Barbara Barrie, Oscar-nominated 'Barney Miller' and 'Suddenly Susan' actress, dead at 95",
-          "link": "https://www.foxnews.com/entertainment/barbara-barrie-oscar-nominated-barney-miller-suddenly-susan-actress-dead-95"
+          "title": "DHS investigates massive data breach exposing 40,000 employees, including ICE and Border Patrol agents",
+          "link": "https://www.foxnews.com/us/dhs-investigates-massive-data-breach-exposing-40000-employees-including-ice-border-patrol-agents"
         },
         {
-          "title": "Mark Walter says he will keep Dodgers 'no matter what' despite federal investigation into businesses",
-          "link": "https://www.foxnews.com/outkick-sports/mark-walter-keep-dodgers-despite-federal-investigation-businesses"
+          "title": "Brewers win World Series for first time in franchise history with Game 5 victory over Rays",
+          "link": "https://www.foxnews.com/outkick-sports/brewers-win-world-series-first-time-franchise-history-game-5-victory-over-rays"
         },
         {
-          "title": "Portland Public Schools rescinds ban on woman who questioned child's gender identity assignment",
-          "link": "https://www.foxnews.com/media/portland-public-schools-rescinds-ban-woman-questioned-childs-gender-identity-assignment"
+          "title": "Sen Dan Sullivan brands Peltola’s alleged ballot scheme a ‘scandal at the highest order’",
+          "link": "https://www.foxnews.com/media/sen-dan-sullivan-brands-peltola-alleged-ballot-scheme-scandal-highest-order"
         },
         {
-          "title": "Dream ownership group voices frustration in open letter over WNBA Finals venue concerns",
-          "link": "https://www.foxnews.com/outkick-sports/dream-ownership-group-voice-frustration-open-letter-wnba-finals-venue-concerns"
+          "title": "Garrett Wilson doesn't want to be traded – but he admitted he's sick of losing with Jets",
+          "link": "https://www.foxnews.com/outkick-sports/garrett-wilson-doesnt-want-traded-admitted-sick-losing-jets"
         },
         {
-          "title": "BOBBY BURACK: Justin Tucker signing exposes sports media’s selective outrage over NFL misconduct",
-          "link": "https://www.foxnews.com/outkick-sports/justin-tucker-signing-exposes-sports-media-selective-outrage-nfl-players-accused-misconduct"
+          "title": "Big 12 Conference addresses offensive chants from UCF fans directed at BYU during upset win",
+          "link": "https://www.foxnews.com/outkick-sports/big-12-conference-addresses-offensive-chants-ucf-fans-directed-byu-upset-win"
         },
         {
-          "title": "Maine girls to speak out on trans athletes as parents revive ballot push on eve of Senate election",
-          "link": "https://www.foxnews.com/outkick-sports/maine-girls-speak-trans-athletes-parents-revive-ballot-push-eve-senate-election"
+          "title": "Jon Lovitz reacts to Crystal Hefner's label as Playboy's 'No. 1 customer'",
+          "link": "https://www.foxnews.com/entertainment/jon-lovitz-reacts-crystal-hefners-label-playboys-no-1-customer"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-29T00:43:24.675Z"
+      "updatedAt": "2026-10-29T06:53:38.910Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "Bob Woodward Loved a Good 'Squish'",
-          "link": "https://www.realclearpolitics.com/2026/10/28/bob_woodward_loved_a_good_squish_715775.html"
+          "title": "It's the Rent, Actually",
+          "link": "https://www.realclearpolitics.com/2026/10/28/its_the_rent_actually_714931.html"
         },
         {
-          "title": "The Cheesecake Factory Won't Save Republicans",
-          "link": "https://www.realclearpolitics.com/2026/10/28/the_cheesecake_factory_wont_save_republicans_715745.html"
+          "title": "Broken Finances, Mass Immigration, France in Flames",
+          "link": "https://www.realclearpolitics.com/2026/10/28/broken_finances_mass_immigration_france_in_flames_715487.html"
         },
         {
-          "title": "Trump Rallies for 'Best Ever' AG Paxton at Packed Rally",
-          "link": "https://www.realclearpolitics.com/2026/10/28/trump_rallies_for_best_ever_ag_paxton_at_packed_rally_715766.html"
+          "title": "Why the Mary Peltola NYT Story Might Actually Matter",
+          "link": "https://www.realclearpolitics.com/2026/10/28/why_the_mary_peltola_nyt_story_might_actually_matter_715781.html"
         },
         {
-          "title": "Michigan Students Are All In for El-Sayed",
-          "link": "https://www.realclearpolitics.com/2026/10/28/michigan_students_are_all_in_for_el-sayed_715504.html"
+          "title": "Hutchinson Case Turns Humiliating for Trump's DOJ",
+          "link": "https://www.realclearpolitics.com/2026/10/28/hutchinson_case_turns_humiliating_for_trumps_doj_715773.html"
         },
         {
-          "title": "Level-Setting 2026. Part II: The Senate",
-          "link": "https://www.realclearpolitics.com/2026/10/28/level-setting_2026_part_ii_the_senate_715764.html"
+          "title": "Dems Want Me in Jail for Post Explaining Election Security",
+          "link": "https://www.realclearpolitics.com/2026/10/28/dems_want_me_in_jail_for_post_explaining_election_security_715753.html"
         },
         {
-          "title": "Bolsonaro Lands in U.S. After Fleeing Brazil Following Defeat",
-          "link": "https://www.realclearpolitics.com/2026/10/28/bolsonaro_lands_in_us_after_fleeing_brazil_following_defeat_715770.html"
+          "title": "Time To End the Russia-Ukraine War",
+          "link": "https://www.realclearpolitics.com/2026/10/28/time_to_end_the_russia-ukraine_war_715709.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-29T00:43:24.935Z"
+      "updatedAt": "2026-10-29T06:53:39.200Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Kilmeade, Hume say Vance 'not as popular as he thinks he is' ahead of 2028",
-          "link": "https://thehill.com/homenews/campaign/6179914-vance-2028-presidential-prospects/"
+          "title": "Hochul says Trump rallies are 'poisoning' Nicki Minaj's mind",
+          "link": "https://thehill.com/homenews/state-watch/6180077-minaj-trump-rallies-poisoning-mind/"
         },
         {
-          "title": "Putin: Russia in 'close contact' with 'genius' Musk over satellite networks",
-          "link": "https://thehill.com/policy/technology/6179862-putin-praises-elon-musk/"
+          "title": "Hegseth ousted top military strategist from Pentagon, sources say",
+          "link": "https://thehill.com/policy/defense/6180055-hegseth-ousted-military-strategist-syllia/"
         },
         {
-          "title": "Justice Department pushes to keep Ilhan Omar search warrant under seal for now",
-          "link": "https://thehill.com/regulation/court-battles/6179804-prosecutors-oppose-omar-warrant-unsealing/"
+          "title": "El-Sayed responds to Stevens's fiancée endorsing Rogers",
+          "link": "https://thehill.com/homenews/campaign/6180036-el-sayed-responds-stevens-fiance/"
         },
         {
-          "title": "Murkowski calls for 'truth' from Peltola amid 'pattern of lies and coverups'",
-          "link": "https://thehill.com/homenews/senate/6179799-murkowski-peltola-ballot-stacking-claims/"
+          "title": "Obama knocks White House's response to Cheesecake Factory jab: 'These are not serious people'",
+          "link": "https://thehill.com/homenews/campaign/6180017-obama-trump-cheesecake-factory-joke/"
         },
         {
-          "title": "Stevens's fiance says he'll vote for Rogers over El-Sayed",
-          "link": "https://thehill.com/homenews/campaign/6179793-haley-stevens-fiance-supports-rogers/"
+          "title": "Trump calls alleged Alaska Senate spoiler scheme 'voter fraud at the highest level'",
+          "link": "https://thehill.com/homenews/administration/6180002-trump-alaska-senate-voter-fraud/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-29T00:43:25.541Z"
+      "updatedAt": "2026-10-29T06:53:39.929Z"
     },
     "Ars Technica": {
       "items": [
@@ -141,10 +141,14 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-29T00:43:25.633Z"
+      "updatedAt": "2026-10-29T06:53:40.122Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
+          "link": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american"
+        },
         {
           "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity"
@@ -160,14 +164,10 @@
         {
           "title": "Readwise is taking on Kindle and Kobo for ebook supremacy",
           "link": "https://www.theverge.com/tech/1020264/readwise-books-launch-ebook-store"
-        },
-        {
-          "title": "Google says its investments in AI are driving more searches",
-          "link": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-29T00:43:25.742Z"
+      "updatedAt": "2026-10-29T06:53:40.297Z"
     },
     "BBC World": {
       "items": [
@@ -201,29 +201,29 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-29T00:43:25.895Z"
+      "updatedAt": "2026-10-29T06:53:40.483Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
-          "link": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss"
+          "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
+          "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Budget key points at a glance",
-          "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss"
+          "title": "Spain begins three days of mourning after train crash kills dozens",
+          "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "High-speed train crash kills at least 68 people in Spain",
-          "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss"
+          "title": "Ofcom outlines ways social media can verify ages of users",
+          "link": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Watch: At the scene of Spain's deadly train crash",
-          "link": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo?at_medium=RSS&at_campaign=rss"
+          "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+          "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-          "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss"
+          "title": "Watch: How did Flávio Bolsonaro end up in Miami?",
+          "link": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
@@ -231,7 +231,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-29T00:43:25.902Z"
+      "updatedAt": "2026-10-29T06:53:40.694Z"
     },
     "NY Times": {
       "items": [
@@ -248,16 +248,16 @@
           "link": "https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html"
         },
         {
-          "title": "Atlanta’s Mayor Walked Away After Covid Chaos. Will Voters Make Her Georgia’s Governor?",
-          "link": "https://www.nytimes.com/2026/10/28/us/politics/keisha-lance-bottoms-atlanta-mayor.html"
+          "title": "In Michigan, El-Sayed Faces Heat From Former Primary Rival as Election Nears",
+          "link": "https://www.nytimes.com/2026/10/28/us/politics/stevens-el-sayed-senate-democrats-michigan.html"
         },
         {
-          "title": "A Ballot-Stacking Effort in Alaska",
-          "link": "https://www.nytimes.com/2026/10/28/briefing/alaska-ballot-stacking-horror-bookshops.html"
+          "title": "Judge Rejects Trump Officials’ Bid to Set Aside California Ballots",
+          "link": "https://www.nytimes.com/2026/10/28/us/politics/california-noncitizen-voters-trump.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-29T00:43:25.970Z"
+      "updatedAt": "2026-10-29T06:53:40.871Z"
     }
   },
   "indices": {
@@ -279,13 +279,13 @@
       },
       {
         "name": "Gold",
-        "price": 4050.3,
-        "pct": 1.0579106265126397
+        "price": 4043,
+        "pct": 0.11390649762281865
       },
       {
         "name": "Bitcoin",
-        "price": 81085.08,
-        "pct": 1.3259395523918471
+        "price": 79850.13,
+        "pct": -0.21728478740316828
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-29T00:43:26.065Z"
+    "updatedAt": "2026-10-29T06:53:41.069Z"
   }
 }
