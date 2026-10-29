@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-10-29T03:17:36.965Z",
+  "fetchedAt": "2026-10-29T10:31:53.037Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Brewers win World Series for first time in franchise history with Game 5 victory over Rays",
-          "link": "https://www.foxnews.com/outkick-sports/brewers-win-world-series-first-time-franchise-history-game-5-victory-over-rays"
+          "title": "Netanyahu alleges fraud as Arab parties score record gains — emerge as potential kingmakers",
+          "link": "https://www.foxnews.com/world/netanyahu-alleges-fraud-arab-parties-score-record-gains-emerge-potential-kingmakers"
         },
         {
-          "title": "Sen Dan Sullivan brands Peltola’s alleged ballot scheme a ‘scandal at the highest order’",
-          "link": "https://www.foxnews.com/media/sen-dan-sullivan-brands-peltola-alleged-ballot-scheme-scandal-highest-order"
+          "title": "ActBlue's woes not over as top Republican predicts potential DOJ charges over foreign cash controversy",
+          "link": "https://www.foxnews.com/politics/actblues-woes-not-over-top-republican-predicts-potential-doj-charges-over-foreign-cash-controversy"
         },
         {
-          "title": "Garrett Wilson doesn't want to be traded – but he admitted he's sick of losing with Jets",
-          "link": "https://www.foxnews.com/outkick-sports/garrett-wilson-doesnt-want-traded-admitted-sick-losing-jets"
+          "title": "America's enemies prepare to take the next major war into outer space",
+          "link": "https://www.foxnews.com/politics/americas-enemies-prepare-take-next-major-war-outer-space"
         },
         {
-          "title": "Big 12 Conference addresses offensive chants from UCF fans directed at BYU during upset win",
-          "link": "https://www.foxnews.com/outkick-sports/big-12-conference-addresses-offensive-chants-ucf-fans-directed-byu-upset-win"
+          "title": "Ted Bundy could have more undiscovered victims after DNA links him to murder of chief's daughter: detective",
+          "link": "https://www.foxnews.com/us/ted-bundy-undiscovered-victims-dna-links-murder-chiefs-daughter-detective"
         },
         {
-          "title": "Jon Lovitz reacts to Crystal Hefner's label as Playboy's 'No. 1 customer'",
-          "link": "https://www.foxnews.com/entertainment/jon-lovitz-reacts-crystal-hefners-label-playboys-no-1-customer"
+          "title": "Applebee's customer pushes back on suggested tip after checking the math",
+          "link": "https://www.foxnews.com/food-drink/applebees-customer-pushes-back-suggested-tip-after-checking-math"
         },
         {
-          "title": "Dem strategist shrugs off Alaska ballot scandal on MS NOW, insists 'this stuff happens all the time'",
-          "link": "https://www.foxnews.com/media/dem-strategist-shrugs-off-alaska-ballot-scandal-ms-now-insists-stuff-happens-all-time"
+          "title": "Omar’s midterm rival exposes 'vicious' Somali gangs amid immigration probe into embattled rep",
+          "link": "https://www.foxnews.com/politics/omars-republican-midterm-rival-exposes-vicious-somali-gangs-amid-immigration-probe-embattled-rep"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-29T03:17:33.697Z"
+      "updatedAt": "2026-10-29T10:31:50.643Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,33 +59,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-29T03:17:34.006Z"
+      "updatedAt": "2026-10-29T10:31:50.815Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Hochul says Trump rallies are 'poisoning' Nicki Minaj's mind",
-          "link": "https://thehill.com/homenews/state-watch/6180077-minaj-trump-rallies-poisoning-mind/"
+          "title": "Democrats see battleground map expand to South Carolina, Florida, Mississippi",
+          "link": "https://thehill.com/homenews/senate/6179707-senate-democrats-south-carolina-mississippi-florida/"
         },
         {
-          "title": "Hegseth ousted top military strategist from Pentagon, sources say",
-          "link": "https://thehill.com/policy/defense/6180055-hegseth-ousted-military-strategist-syllia/"
+          "title": "Democrats eye ways to rein in the power of future presidents",
+          "link": "https://thehill.com/homenews/house/6176024-house-democrats-presidential-powers-agenda/"
         },
         {
-          "title": "El-Sayed responds to Stevens's fiancée endorsing Rogers",
-          "link": "https://thehill.com/homenews/campaign/6180036-el-sayed-responds-stevens-fiance/"
+          "title": "Johnson signals he’ll remain atop GOP, scrambling leadership landscape",
+          "link": "https://thehill.com/homenews/house/6179692-mike-johnson-house-gop-leadership/"
         },
         {
-          "title": "Obama knocks White House's response to Cheesecake Factory jab: 'These are not serious people'",
-          "link": "https://thehill.com/homenews/campaign/6180017-obama-trump-cheesecake-factory-joke/"
+          "title": "Midterm results could bring brewing student loan battle to a head",
+          "link": "https://thehill.com/homenews/education/6175411-midterm-results-student-loan-plans-relief/"
         },
         {
-          "title": "Trump calls alleged Alaska Senate spoiler scheme 'voter fraud at the highest level'",
-          "link": "https://thehill.com/homenews/administration/6180002-trump-alaska-senate-voter-fraud/"
+          "title": "The Memo: Trump faces massive midterm rebuke — if the polls are right",
+          "link": "https://thehill.com/homenews/analysis/6179825-midterm-elections-trump-senate-house/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-29T03:17:34.503Z"
+      "updatedAt": "2026-10-29T10:31:51.099Z"
     },
     "Ars Technica": {
       "items": [
@@ -111,10 +111,14 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-29T03:17:34.750Z"
+      "updatedAt": "2026-10-29T10:31:51.254Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "AI has come for Arizona’s water",
+          "link": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc"
+        },
         {
           "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
           "link": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american"
@@ -130,24 +134,16 @@
         {
           "title": "Akai is embracing vibe-coded mods with an open-source MPC",
           "link": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key"
-        },
-        {
-          "title": "Readwise is taking on Kindle and Kobo for ebook supremacy",
-          "link": "https://www.theverge.com/tech/1020264/readwise-books-launch-ebook-store"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-29T03:17:34.884Z"
+      "updatedAt": "2026-10-29T10:31:51.370Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "High-speed train crash kills at least 68 people in Spain",
-          "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
-          "link": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss"
+          "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
+          "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
@@ -158,42 +154,16 @@
           "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "How could Israel break election deadlock? Here are four scenarios",
-          "link": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss"
+          "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+          "link": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Girl seriously injured in wolf attack at German wildlife park",
-          "link": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss"
+          "title": "Building boom puts 300,000 people in the path of potential Himalayan disasters",
+          "link": "https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-          "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "ok": true,
-      "updatedAt": "2026-10-29T03:17:35.010Z"
-    },
-    "BBC News": {
-      "items": [
-        {
-          "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
-          "link": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
-          "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "High-speed train crash kills at least 68 people in Spain",
-          "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-          "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-          "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss"
+          "title": "Details of thousands of US immigration agents leaked in major hack",
+          "link": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
@@ -201,36 +171,74 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-29T03:17:35.116Z"
+      "updatedAt": "2026-10-29T10:31:51.413Z"
+    },
+    "BBC News": {
+      "items": [
+        {
+          "title": "What we know so far about deadly Spain train crash",
+          "link": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Poundland's future hangs in the balance as chain edges towards collapse",
+          "link": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Ofcom sets out social media age-checking methods ahead of ban",
+          "link": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Serious pollution by water industry remains high despite £5bn investment",
+          "link": "https://www.bbc.co.uk/news/articles/cw5ynxepy4gno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Row over George Michael items up for auction - including Faith guitar",
+          "link": "https://www.bbc.co.uk/news/articles/cmr4y51gd5yro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Death of US actress Hayden Panettiere ruled accidental",
+          "link": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "ok": true,
+      "updatedAt": "2026-10-29T10:31:51.429Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "Cabinet Officials on the Campaign Trail? Ethics Experts Say Some Are Breaking the Law.",
-          "link": "https://www.nytimes.com/2026/10/28/us/politics/trump-hatch-act.html"
+          "title": "Nvidia Chief, Jensen Huang, Is Seen as Target of Chinese Spy Plot",
+          "link": "https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html"
+        },
+        {
+          "title": "At Least 68 Killed in Spain Train Crash, and Democrats’ Secret Effort to Stack Alaska’s Ballot",
+          "link": "https://www.nytimes.com/2026/10/29/podcasts/the-headlines/spain-train-crash-alaska-ballot.html"
+        },
+        {
+          "title": "Alaska Governor Orders Criminal Investigation Into Peltola Campaign",
+          "link": "https://www.nytimes.com/2026/10/28/us/politics/trump-peltola-sullivan-alaska-senate.html"
+        },
+        {
+          "title": "The Red States That Could Decide the Senate",
+          "link": "https://www.nytimes.com/video/us/elections/100000011223984/the-red-states-that-could-decide-the-senate.html"
         },
         {
           "title": "As Trump Faces Down the Midterms, a Grim Mood Takes Over the White House",
           "link": "https://www.nytimes.com/2026/10/28/us/politics/trump-midterms-white-house-mood.html"
-        },
-        {
-          "title": "Inside Democrats’ Secret Effort to Stack Alaska’s Midterm Ballot With Another Dan Sullivan",
-          "link": "https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html"
-        },
-        {
-          "title": "Atlanta’s Mayor Walked Away After Covid Chaos. Will Voters Make Her Georgia’s Governor?",
-          "link": "https://www.nytimes.com/2026/10/28/us/politics/keisha-lance-bottoms-atlanta-mayor.html"
-        },
-        {
-          "title": "Judge Rejects Trump Officials’ Bid to Set Aside California Ballots",
-          "link": "https://www.nytimes.com/2026/10/28/us/politics/california-noncitizen-voters-trump.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-29T03:17:35.188Z"
+      "updatedAt": "2026-10-29T10:31:51.654Z"
     },
     "ARTNews": {
       "items": [
+        {
+          "title": "Opinion: As Federal Support for Culture Falls, We Need a New Generation of Giving",
+          "link": "https://www.artnews.com/art-news/opinion/opinion-new-generation-of-giving-1234804081/"
+        },
+        {
+          "title": "At 96, Surrealist Painter Cossette Zeno Is Finally Having Her Moment",
+          "link": "https://www.artnews.com/art-news/artists/cossette-zeno-surrealist-painter-1234804106/"
+        },
         {
           "title": "World Monuments Fund Raises $62 M., Tripling Its Endowment Ahead of Schedule",
           "link": "https://www.artnews.com/art-news/news/world-monuments-fund-62-million-endowment-campaign-1234804137/"
@@ -246,21 +254,17 @@
         {
           "title": "Leah Ke Yi Zheng Joins Antenna Space, Pérez Art Museum Miami to Honor Nicolas Berggruen, and More: Industry Moves for October 28, 2026",
           "link": "https://www.artnews.com/art-news/market/leah-ke-yi-zheng-nicolas-berggruen-industry-moves-1234804150/"
-        },
-        {
-          "title": "MSCHF Cofounder Lukas Bentel Leaves Viral Art Collective to Pursue Solo Work",
-          "link": "https://www.artnews.com/art-news/news/mschf-cofounder-lukas-bentel-leaves-artist-collective-1234804144/"
-        },
-        {
-          "title": "London Falling? A New Report on Three Decades of the British Art Market Finds Its Growth Trailing Rival Hubs",
-          "link": "https://www.artnews.com/art-news/market/new-report-british-art-market-growth-lags-competitors-1234804131/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-29T03:17:35.435Z"
+      "updatedAt": "2026-10-29T10:31:51.732Z"
     },
     "Hyperallergic": {
       "items": [
+        {
+          "title": "An Epstein Survivor’s Message for MoMA",
+          "link": "https://hyperallergic.com/an-epstein-survivors-message-for-moma/"
+        },
         {
           "title": "I’m an Epstein Survivor. MoMA Must Drop Leon Black.",
           "link": "https://hyperallergic.com/im-an-epstein-survivor-moma-must-drop-leon-black/"
@@ -280,14 +284,10 @@
         {
           "title": "Lisa Sanditz’s Seismic Sublime",
           "link": "https://hyperallergic.com/lisa-sanditzs-seismic-sublime/"
-        },
-        {
-          "title": "Cici Wu's Memory Lanterns",
-          "link": "https://hyperallergic.com/cici-wus-memory-lanterns/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-29T03:17:35.810Z"
+      "updatedAt": "2026-10-29T10:31:51.829Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-29T03:17:36.711Z"
+      "updatedAt": "2026-10-29T10:31:52.932Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-29T03:17:36.965Z"
+      "updatedAt": "2026-10-29T10:31:53.037Z"
     }
   }
 }
