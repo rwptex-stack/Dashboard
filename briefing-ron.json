@@ -1,124 +1,128 @@
 {
-  "fetchedAt": "2026-10-29T06:53:41.069Z",
+  "fetchedAt": "2026-10-29T14:03:31.609Z",
   "feeds": {
     "MarketWatch": {
       "items": [
         {
-          "title": "Why Alphabet’s stock could see its worst drop in years after the latest results",
+          "title": "ServiceNow’s stock is on track for its worst day ever. Here’s what went wrong.",
+          "link": "https://www.marketwatch.com/story/servicenow-stock-is-on-track-for-its-largest-drop-on-record-but-jpmorgan-sees-a-bright-spot-5e5b05c6?mod=mw_rss_topstories"
+        },
+        {
+          "title": "As voters struggle with pricey car loans, mortgages and credit-card debt, the cost of money itself is on the ballot",
+          "link": "https://www.marketwatch.com/story/the-cost-of-money-itself-is-on-the-ballot-as-voters-struggle-with-pricey-car-loans-mortgages-and-credit-card-debt-c2cd83a0?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Economy grows at fastest pace in a year, GDP shows — and shows little sign of slowing",
+          "link": "https://www.marketwatch.com/story/u-s-economy-grows-at-fastest-pace-in-almost-three-years-third-quarter-gdp-shows-0e15b810?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Lilly raised sales guidance for third time this year as Zepbound sales soar. Its stock is rallying.",
+          "link": "https://www.marketwatch.com/story/lilly-raises-outlook-for-third-time-this-year-as-zepbound-sales-soar-6d987407?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Why Alphabet’s stock could see its worst day ever after the latest results",
           "link": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories"
         },
         {
-          "title": "Lumentum’s stock pops as investors cheer a possible sale to Marvell",
-          "link": "https://www.marketwatch.com/story/lumentums-stock-pops-as-investors-cheer-a-possible-sale-to-marvell-07c1d0e8?mod=mw_rss_topstories"
-        },
-        {
-          "title": "‘Just watch Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
-          "link": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories"
-        },
-        {
-          "title": "The major reason Microsoft’s stock is heading higher after earnings",
-          "link": "https://www.marketwatch.com/story/the-major-reason-microsofts-stock-is-heading-higher-after-earnings-c019a036?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Fortinet’s stock is taking a dive after earnings. Here’s why.",
-          "link": "https://www.marketwatch.com/story/fortinets-stock-is-taking-a-dive-after-earnings-heres-why-d407896e?mod=mw_rss_topstories"
-        },
-        {
-          "title": "ServiceNow’s stock slides as earnings miss overshadows a raised AI outlook",
-          "link": "https://www.marketwatch.com/story/servicenows-stock-slides-as-earnings-miss-clouds-a-raised-ai-outlook-96e48385?mod=mw_rss_topstories"
+          "title": "Marvell is reportedly close to buying Lumentum. Analysts say they see logic in a potential deal.",
+          "link": "https://www.marketwatch.com/story/marvell-is-reportedly-close-to-buying-lumentum-analysts-say-they-see-logic-in-a-potential-deal-d7539c59?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-29T06:53:38.474Z"
+      "updatedAt": "2026-10-29T14:03:30.384Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "DHS investigates massive data breach exposing 40,000 employees, including ICE and Border Patrol agents",
-          "link": "https://www.foxnews.com/us/dhs-investigates-massive-data-breach-exposing-40000-employees-including-ice-border-patrol-agents"
+          "title": "Netanyahu falls short of majority as Israel faces three possible paths to a new government",
+          "link": "https://www.foxnews.com/world/netanyahu-bloc-falls-short-arab-vote-surges-qatar-election-interference-allegations-emerge"
         },
         {
-          "title": "Brewers win World Series for first time in franchise history with Game 5 victory over Rays",
-          "link": "https://www.foxnews.com/outkick-sports/brewers-win-world-series-first-time-franchise-history-game-5-victory-over-rays"
+          "title": "Haley Stevens' fiance hammers El-Sayed, says he'll vote for Rogers",
+          "link": "https://www.foxnews.com/politics/haley-stevens-fiancee-hammers-el-sayed-says-hell-vote-rogers"
         },
         {
-          "title": "Sen Dan Sullivan brands Peltola’s alleged ballot scheme a ‘scandal at the highest order’",
-          "link": "https://www.foxnews.com/media/sen-dan-sullivan-brands-peltola-alleged-ballot-scheme-scandal-highest-order"
+          "title": "Singer Kylie Cantrall takes credit for being Brewers' World Series good luck charm, Ueck tributes & COSM",
+          "link": "https://www.foxnews.com/outkick-sports/anthem-singer-kylie-cantrall-takes-credit-brewers-world-series-good-luck-charm-ueck-tributes-cosm"
         },
         {
-          "title": "Garrett Wilson doesn't want to be traded – but he admitted he's sick of losing with Jets",
-          "link": "https://www.foxnews.com/outkick-sports/garrett-wilson-doesnt-want-traded-admitted-sick-losing-jets"
+          "title": "CA POST EDITORIAL BOARD: Vote Hilton for California governor over establishment hack Becerra for real change",
+          "link": "https://www.foxnews.com/opinion/ca-post-editorial-board-vote-hilton-california-governor-establishment-hack-becerra-real-change"
         },
         {
-          "title": "Big 12 Conference addresses offensive chants from UCF fans directed at BYU during upset win",
-          "link": "https://www.foxnews.com/outkick-sports/big-12-conference-addresses-offensive-chants-ucf-fans-directed-byu-upset-win"
+          "title": "Hegseth fires top Pentagon strategist accused of leaking classified Iran, Ukraine war information",
+          "link": "https://www.foxnews.com/politics/hegseth-fires-top-pentagon-strategist-accused-leaking-classified-iran-ukraine-war-information"
         },
         {
-          "title": "Jon Lovitz reacts to Crystal Hefner's label as Playboy's 'No. 1 customer'",
-          "link": "https://www.foxnews.com/entertainment/jon-lovitz-reacts-crystal-hefners-label-playboys-no-1-customer"
+          "title": "GIANNO CALDWELL: Bottoms ran Atlanta into the ground. We can’t let her do it to Georgia",
+          "link": "https://www.foxnews.com/opinion/gianno-caldwell-bottoms-ran-atlanta-ground-cant-let-her-do-it-georgia"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-29T06:53:38.910Z"
+      "updatedAt": "2026-10-29T14:03:30.503Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "It's the Rent, Actually",
-          "link": "https://www.realclearpolitics.com/2026/10/28/its_the_rent_actually_714931.html"
+          "title": "Dems Poised for Largest Generic Ballot Win Since '08 Blowout",
+          "link": "https://www.realclearpolitics.com/articles/2026/10/29/democrats_poised_for_largest_generic_ballot_win_since_obamas_2008_blowout_154628.html"
         },
         {
-          "title": "Broken Finances, Mass Immigration, France in Flames",
-          "link": "https://www.realclearpolitics.com/2026/10/28/broken_finances_mass_immigration_france_in_flames_715487.html"
+          "title": "The Trump Aide Trying To Stop a Blue Wave",
+          "link": "https://www.realclearpolitics.com/2026/10/29/the_trump_aide_trying_to_stop_a_blue_wave_715847.html"
+        },
+        {
+          "title": "'Decoy Dan' Is Peltola's Alaska Plant",
+          "link": "https://www.realclearpolitics.com/2026/10/29/decoy_dan_is_peltolas_alaska_plant_715784.html"
         },
         {
           "title": "Why the Mary Peltola NYT Story Might Actually Matter",
-          "link": "https://www.realclearpolitics.com/2026/10/28/why_the_mary_peltola_nyt_story_might_actually_matter_715781.html"
+          "link": "https://www.realclearpolitics.com/2026/10/29/why_the_mary_peltola_nyt_story_might_actually_matter_715781.html"
         },
         {
-          "title": "Hutchinson Case Turns Humiliating for Trump's DOJ",
-          "link": "https://www.realclearpolitics.com/2026/10/28/hutchinson_case_turns_humiliating_for_trumps_doj_715773.html"
+          "title": "Trump & Talarico Go Head-to-Head",
+          "link": "https://www.realclearpolitics.com/2026/10/29/trump_amp_talarico_go_head-to-head_715779.html"
         },
         {
-          "title": "Dems Want Me in Jail for Post Explaining Election Security",
-          "link": "https://www.realclearpolitics.com/2026/10/28/dems_want_me_in_jail_for_post_explaining_election_security_715753.html"
-        },
-        {
-          "title": "Time To End the Russia-Ukraine War",
-          "link": "https://www.realclearpolitics.com/2026/10/28/time_to_end_the_russia-ukraine_war_715709.html"
+          "title": "Republicans Panicking Over South Carolina Senate Race",
+          "link": "https://www.realclearpolitics.com/2026/10/29/republicans_panicking_over_south_carolina_senate_race_715791.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-29T06:53:39.200Z"
+      "updatedAt": "2026-10-29T14:03:30.613Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Hochul says Trump rallies are 'poisoning' Nicki Minaj's mind",
-          "link": "https://thehill.com/homenews/state-watch/6180077-minaj-trump-rallies-poisoning-mind/"
+          "title": "Stevens on fiancé voting for Rogers: 'We're a household divided'",
+          "link": "https://thehill.com/homenews/campaign/6180584-haley-stevens-jason-turkish-mike-rogers-abdul-el-sayed-michigan-senate-race-2026/"
         },
         {
-          "title": "Hegseth ousted top military strategist from Pentagon, sources say",
-          "link": "https://thehill.com/policy/defense/6180055-hegseth-ousted-military-strategist-syllia/"
+          "title": "Regulate AI, but don't hand the 21st century to China",
+          "link": "https://thehill.com/opinion/technology/6178430-proposed-bans-vs-self-regulation-ai/"
         },
         {
-          "title": "El-Sayed responds to Stevens's fiancée endorsing Rogers",
-          "link": "https://thehill.com/homenews/campaign/6180036-el-sayed-responds-stevens-fiance/"
+          "title": "Democrats leading in Texas, Michigan Senate races: Polling",
+          "link": "https://thehill.com/homenews/campaign/6180606-democrats-lead-texas-michigan-polls/"
         },
         {
-          "title": "Obama knocks White House's response to Cheesecake Factory jab: 'These are not serious people'",
-          "link": "https://thehill.com/homenews/campaign/6180017-obama-trump-cheesecake-factory-joke/"
+          "title": "2026 midterm elections: When polls close; when results are expected",
+          "link": "https://thehill.com/homenews/campaign/6175621-midterm-elections-polls-close-results/"
         },
         {
-          "title": "Trump calls alleged Alaska Senate spoiler scheme 'voter fraud at the highest level'",
-          "link": "https://thehill.com/homenews/administration/6180002-trump-alaska-senate-voter-fraud/"
+          "title": "Scalise stresses voter turnout: 'We can hold the House'",
+          "link": "https://thehill.com/homenews/campaign/6180417-steve-scalise-voter-turnout-boost-midterms-house-control/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-29T06:53:39.929Z"
+      "updatedAt": "2026-10-29T14:03:31.057Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "SpaceX no longer needs NASA, and that's a problem for America's space agency",
+          "link": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/"
+        },
         {
           "title": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
           "link": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/"
@@ -134,50 +138,42 @@
         {
           "title": "Trump admin sues Utah to save Kalshi from the state's total ban on gambling",
           "link": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/"
-        },
-        {
-          "title": "The last, best hope for space tourism just rolled onto a runway in Arizona",
-          "link": "https://arstechnica.com/space/2026/10/the-last-best-hope-for-space-tourism-just-rolled-onto-a-runway-in-arizona/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-29T06:53:40.122Z"
+      "updatedAt": "2026-10-29T14:03:31.141Z"
     },
     "The Verge": {
       "items": [
         {
-          "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
-          "link": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american"
+          "title": "This $149 digital candle uses AI to accurately simulate a flickering flame",
+          "link": "https://www.theverge.com/tech/1022113/kevin-bates-arduboy-digital-candle-ai-simulate-flame"
         },
         {
-          "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity"
+          "title": "Anthropic’s business plan: Build God or die trying",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive"
         },
         {
-          "title": "A hacker stole more than 40,000 DHS employee records",
-          "link": "https://www.theverge.com/tech/1021528/ice-cbp-data-leak"
+          "title": "Apple finally combined a toaster and a refrigerator",
+          "link": "https://www.theverge.com/report/1022013/apple-touchscreen-macbook-pro-toaster-refrigerator"
         },
         {
-          "title": "Akai is embracing vibe-coded mods with an open-source MPC",
-          "link": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key"
+          "title": "DoorDash is acquiring Instacart for $17 billion",
+          "link": "https://www.theverge.com/business/1021981/doordash-instacart-acquisition-announcement"
         },
         {
-          "title": "Readwise is taking on Kindle and Kobo for ebook supremacy",
-          "link": "https://www.theverge.com/tech/1020264/readwise-books-launch-ebook-store"
+          "title": "AI has come for Arizona’s water",
+          "link": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-29T06:53:40.297Z"
+      "updatedAt": "2026-10-29T14:03:31.204Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "High-speed train crash kills at least 68 people in Spain",
-          "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
-          "link": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss"
+          "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
+          "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
@@ -188,112 +184,116 @@
           "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "How could Israel break election deadlock? Here are four scenarios",
-          "link": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss"
+          "title": "Russian drone attack on Ukrainian train station kills at least 13, officials say",
+          "link": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Girl seriously injured in wolf attack at German wildlife park",
-          "link": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss"
+          "title": "Philippine police obtain warrant to search Thomas Markle's devices",
+          "link": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-          "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss"
+          "title": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
+          "link": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Carney to push for closer ties at Canada-EU summit in Montreal",
+          "link": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-29T06:53:40.483Z"
+      "updatedAt": "2026-10-29T14:03:31.322Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
-          "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss"
+          "title": "Treasury will not commit to reducing welfare bill before next election",
+          "link": "https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Spain begins three days of mourning after train crash kills dozens",
+          "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
           "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Ofcom outlines ways social media can verify ages of users",
-          "link": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss"
+          "title": "Russell Brand's wife tells his rape trial he is 'kind and a wonderful father'",
+          "link": "https://www.bbc.co.uk/news/articles/cky93127nyepo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-          "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss"
+          "title": "Serious pollution by water industry remains high despite £5bn investment",
+          "link": "https://www.bbc.co.uk/news/articles/cw5ynxepy4gno?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Watch: How did Flávio Bolsonaro end up in Miami?",
-          "link": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&at_campaign=rss"
+          "title": "Philippine police obtain warrant to search Thomas Markle's devices",
+          "link": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
-          "link": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss"
+          "title": "Russian drone attack on Ukrainian train station kills at least 13, officials say",
+          "link": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-29T06:53:40.694Z"
+      "updatedAt": "2026-10-29T14:03:31.371Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "Cabinet Officials on the Campaign Trail? Ethics Experts Say Some Are Breaking the Law.",
-          "link": "https://www.nytimes.com/2026/10/28/us/politics/trump-hatch-act.html"
+          "title": "Nvidia Chief, Jensen Huang, Is Seen as Target of Chinese Spy Plot",
+          "link": "https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html"
         },
         {
-          "title": "As Trump Faces Down the Midterms, a Grim Mood Takes Over the White House",
-          "link": "https://www.nytimes.com/2026/10/28/us/politics/trump-midterms-white-house-mood.html"
+          "title": "At Least 68 Killed in Spain Train Crash, and Democrats’ Secret Effort to Stack Alaska’s Ballot",
+          "link": "https://www.nytimes.com/2026/10/29/podcasts/the-headlines/spain-train-crash-alaska-ballot.html"
         },
         {
-          "title": "Inside Democrats’ Secret Effort to Stack Alaska’s Midterm Ballot With Another Dan Sullivan",
-          "link": "https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html"
+          "title": "U.S. GDP Increased 3.4% in Third Quarter",
+          "link": "https://www.nytimes.com/2026/10/29/business/economy/us-economy-gdp.html"
         },
         {
-          "title": "In Michigan, El-Sayed Faces Heat From Former Primary Rival as Election Nears",
-          "link": "https://www.nytimes.com/2026/10/28/us/politics/stevens-el-sayed-senate-democrats-michigan.html"
+          "title": "Inflation Accelerated in October, PCE Index Shows",
+          "link": "https://www.nytimes.com/2026/10/29/business/economy/pce-inflation-economy.html"
         },
         {
-          "title": "Judge Rejects Trump Officials’ Bid to Set Aside California Ballots",
-          "link": "https://www.nytimes.com/2026/10/28/us/politics/california-noncitizen-voters-trump.html"
+          "title": "In Moving Gradually, Fed Risks Having to Play Catch-Up to Quell Inflation",
+          "link": "https://www.nytimes.com/2026/10/29/business/economy/federal-reserve-interest-rates.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-29T06:53:40.871Z"
+      "updatedAt": "2026-10-29T14:03:31.463Z"
     }
   },
   "indices": {
     "data": [
       {
         "name": "S&P 500",
-        "price": 7743.98,
-        "pct": -0.17003623744226967
+        "price": 7720.38,
+        "pct": 0.7431398212027749
       },
       {
         "name": "Dow Jones",
-        "price": 52475.1,
-        "pct": -0.7208062495731296
+        "price": 52352.73,
+        "pct": -0.9745974784737377
       },
       {
         "name": "Nasdaq",
-        "price": 26549.852,
-        "pct": -0.5730022926383227
+        "price": 26214.76,
+        "pct": 0.7916533058350032
       },
       {
         "name": "Gold",
-        "price": 4043,
-        "pct": 0.11390649762281865
+        "price": 4034,
+        "pct": -0.10895404120443966
       },
       {
         "name": "Bitcoin",
-        "price": 79850.13,
-        "pct": -0.21728478740316828
+        "price": 80202.68,
+        "pct": 0.2232704909439033
       },
       {
         "name": "SpaceX",
-        "price": 145.23,
-        "pct": -8.838114368212926
+        "price": 144.18,
+        "pct": -0.39378238341968447
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-29T06:53:41.069Z"
+    "updatedAt": "2026-10-29T14:03:31.609Z"
   }
 }
