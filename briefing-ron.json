@@ -1,213 +1,213 @@
 {
-  "fetchedAt": "2026-10-30T13:58:15.210Z",
+  "fetchedAt": "2026-10-30T19:11:51.798Z",
   "feeds": {
     "MarketWatch": {
       "items": [
         {
-          "title": "AMD’s stock slides after Intel earnings reveal two big issues",
-          "link": "https://www.marketwatch.com/story/amds-stock-slides-after-intel-earnings-reveal-two-big-issues-d3afed91?mod=mw_rss_topstories"
+          "title": "Is your crypto safe? What Binance’s $6.3 billion hack means for bitcoin investors.",
+          "link": "https://www.marketwatch.com/story/heres-when-binance-plans-to-reopen-after-whats-believed-to-be-the-largest-ever-6-3-billion-hack-d3cb8154?mod=mw_rss_topstories"
         },
         {
-          "title": "The cost of money itself is on the ballot as voters struggle with pricey car loans, mortgages and credit-card debt",
-          "link": "https://www.marketwatch.com/story/the-cost-of-money-itself-is-on-the-ballot-as-voters-struggle-with-pricey-car-loans-mortgages-and-credit-card-debt-c2cd83a0?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Gen Z voters told us the midterms boil down to affording life, as social causes take a back seat",
-          "link": "https://www.marketwatch.com/story/gen-z-voters-told-us-the-midterms-will-boil-down-to-affording-life-not-social-issues-11bd1734?mod=mw_rss_topstories"
-        },
-        {
-          "title": "This credit card is the ‘best weapon’ to fight debt while interest rates keep climbing",
-          "link": "https://www.marketwatch.com/story/this-credit-card-is-the-best-weapon-to-fight-debt-while-interest-rates-keep-climbing-8378fcf2?mod=mw_rss_topstories"
-        },
-        {
-          "title": "My father has early Alzheimer’s and his caregiver is using his debit card for DoorDash. What can I do?",
+          "title": "My father has Alzheimer’s and his caregiver is using his debit card for DoorDash. Do I intervene?",
           "link": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories"
         },
         {
-          "title": "Bitcoin slides after crypto’s nightmare scenario: a historic $6.3 billion heist",
-          "link": "https://www.marketwatch.com/story/heres-when-binance-plans-to-reopen-after-whats-believed-to-be-the-largest-ever-6-3-billion-hack-d3cb8154?mod=mw_rss_topstories"
+          "title": "Microsoft is winning the cloud wars and becoming Wall Street’s new golden child",
+          "link": "https://www.marketwatch.com/story/microsoft-is-winning-the-cloud-wars-and-becoming-wall-streets-new-golden-child-62eecbbd?mod=mw_rss_topstories"
+        },
+        {
+          "title": "‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?",
+          "link": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories"
+        },
+        {
+          "title": "American workers are finding their take-home pay isn’t keeping up with inflation, with their wallets ‘stretched thinner and thinner’",
+          "link": "https://www.marketwatch.com/story/american-workers-are-finding-their-take-home-pay-isnt-keeping-up-with-inflation-with-their-wallets-stretching-thinner-and-thinner-6a1af690?mod=mw_rss_topstories"
+        },
+        {
+          "title": "You can expect the stock market to rally no matter who wins on Election Day",
+          "link": "https://www.marketwatch.com/story/you-can-expect-the-stock-market-to-rally-no-matter-who-wins-on-election-day-d4a3c282?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-30T13:58:14.127Z"
+      "updatedAt": "2026-10-30T19:11:49.243Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "The red wall facing its biggest threat in decades as Republicans scramble to defend Texas",
-          "link": "https://www.foxnews.com/politics/red-wall-facing-its-biggest-threat-decades-republicans-scramble-defend-texas"
+          "title": "Unvetted foreign workers at AI firms raise national security alarms, advocates warn",
+          "link": "https://www.foxnews.com/tech/unvetted-foreign-workers-ai-firms-raise-national-security-alarms-advocates-warn"
         },
         {
-          "title": "Tennis star Genie Bouchard kicks off Halloween weekend with Britney tribute, Caleb supports kids & beer sword",
-          "link": "https://www.foxnews.com/outkick-sports/tennis-star-genie-bouchard-kicks-off-halloween-weekend-britney-tribute-caleb-supports-kids-beer-sword"
+          "title": "Mets star Bo Bichette makes $42 million decision after uneven first season in New York: reports",
+          "link": "https://www.foxnews.com/outkick-sports/mets-star-bo-bichette-makes-42-million-decision-uneven-first-season-new-york-reports"
         },
         {
-          "title": "Unhinged judge who called Latino attorney a 'White savior' ordered to undergo psychiatric examination",
-          "link": "https://www.foxnews.com/politics/unhinged-judge-called-latino-attorney-white-savior-ordered-undergo-psychiatric-examination"
+          "title": "3 killed, 5 injured at popular tourist hot spot after rocks suddenly tumble down",
+          "link": "https://www.foxnews.com/travel/3-killed-5-injured-popular-tourist-hot-spot-after-rocks-suddenly-tumble"
         },
         {
-          "title": "MIKE DAVIS: Democrats' lawfare targets journalists in Minnesota",
-          "link": "https://www.foxnews.com/opinion/mike-davis-democrats-lawfare-targets-journalists-minnesota"
+          "title": "Treasury flags $8B in suspicious foreign-directed transfers through US money services firms",
+          "link": "https://www.foxnews.com/politics/treasury-flags-8b-suspicious-foreign-directed-transfers-us-money-services-firms"
         },
         {
-          "title": "BRIAN HARRELL: America’s AI revolution can’t charge forward without lots of energy",
-          "link": "https://www.foxnews.com/opinion/brian-harrell-americas-ai-revolution-cant-charge-forward-without-lots-energy"
+          "title": "Your next shirt could have a built-in touchscreen",
+          "link": "https://www.foxnews.com/tech/next-shirt-built-in-touchscreen"
         },
         {
-          "title": "Kim Kardashian had sharp response to warnings Trump White House visit would end her career: book",
-          "link": "https://www.foxnews.com/entertainment/kim-kardashian-challenged-president-trump-oval-office-sick-prisoner-book-says"
+          "title": "Jennifer Lawrence admits to being anonymous TikTok rage baiter who argues with strangers online",
+          "link": "https://www.foxnews.com/entertainment/jennifer-lawrence-admits-being-anonymous-tiktok-rage-baiter-who-argues-strangers-online"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-30T13:58:14.237Z"
+      "updatedAt": "2026-10-30T19:11:49.468Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "Real GDP Rose 3.4%--Get Out There and Sell It, Republicans",
-          "link": "https://www.realclearpolitics.com/articles/2026/10/29/real_gdp_rose_34--get_out_there_and_sell_it_republicans_154633.html"
+          "title": "Tension Gone Between Dem Establishment, Activists?",
+          "link": "https://www.realclearpolitics.com/2026/10/30/tension_gone_between_dem_establishment_activists_715926.html"
         },
         {
-          "title": "Pretending Trump Is on the Ballot Deserves To Backfire",
-          "link": "https://www.realclearpolitics.com/2026/10/30/pretending_trump_is_on_the_ballot_deserves_to_backfire_715880.html"
+          "title": "GOP Has Delivered. Don't Throw It Away",
+          "link": "https://www.realclearpolitics.com/2026/10/30/gop_has_delivered_dont_throw_it_away_716001.html"
         },
         {
-          "title": "Endless Lawfare and Impeachment Can't Turn Back the Clock",
-          "link": "https://www.realclearpolitics.com/2026/10/30/endless_lawfare_and_impeachment_cant_turn_back_the_clock_715970.html"
+          "title": "Trump Revives Rallies Less Than 24 Hours After Canceling Them",
+          "link": "https://www.realclearpolitics.com/2026/10/30/trump_revives_rallies_less_than_24_hours_after_canceling_them_716015.html"
         },
         {
-          "title": "I Oversaw Biden, Harris Polling. Here's How I Read '26 Polls",
-          "link": "https://www.realclearpolitics.com/2026/10/30/i_oversaw_biden_harris_polling_heres_how_i_read_26_polls_715892.html"
+          "title": "This Land Is Your Land and My Land But Not DEI Land",
+          "link": "https://www.realclearpolitics.com/2026/10/30/this_land_is_your_land_and_my_land_but_not_dei_land_716016.html"
         },
         {
-          "title": "This Could Change Alaska Senate Race",
-          "link": "https://www.realclearpolitics.com/2026/10/30/this_could_change_alaska_senate_race_715914.html"
+          "title": "What Obama's Cheesecake Factory Joke Was Really About",
+          "link": "https://www.realclearpolitics.com/2026/10/30/what_obamas_cheesecake_factory_joke_was_really_about_716014.html"
         },
         {
-          "title": "Marc Elias' Alaska Scheme an Attack on Constitution",
-          "link": "https://www.realclearpolitics.com/video/2026/10/29/hemingway_marc_elias_involvement_in_alaska_scheme_an_attack_on_democracy_and_our_constitutional_republic.html"
+          "title": "Big Hospitals Get a Pass as Left Targets Sen. Marshall",
+          "link": "https://www.realclearpolitics.com/2026/10/30/big_hospitals_get_a_pass_as_left_targets_sen_marshall_715763.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-30T13:58:14.438Z"
+      "updatedAt": "2026-10-30T19:11:49.804Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "This election, trust the candidate that dares to touch Social Security",
-          "link": "https://thehill.com/opinion/campaign/6182118-social-security-solvency-election/"
+          "title": "Vance on Trump talking about GOP senator's 'a‑‑': 'I'm jealous'",
+          "link": "https://thehill.com/homenews/6184799-vance-joked-trump-praised-husted/"
         },
         {
-          "title": "DOJ issues subpoenas in Alaska Senate race: Reports",
-          "link": "https://thehill.com/homenews/campaign/6183444-doj-subpoenas-peltola-alleged-ballot-stacking/"
+          "title": "Navy airman recounts USS Lincoln leap: 'If I was supposed to die then I would have just been dead'",
+          "link": "https://thehill.com/policy/defense/6184762-navy-airman-uss-abraham-lincoln-suicide-attempt-middle-east-conflict/"
         },
         {
-          "title": "Cook Political Report shifts 12 more House races toward Democrats",
-          "link": "https://thehill.com/homenews/campaign/6183415-cook-political-report-house-race-shifts-democrats-midterms/"
+          "title": "Live updates: Judge orders investigation into DOJ and East Potomac Park; Trump set to rally in Daytona Beach",
+          "link": "https://thehill.com/homenews/state-watch/6183073-live-updates-trump-midterm-elections/"
         },
         {
-          "title": "Peltola denies knowing about Alaska spoiler candidate Dan J. Sullivan",
-          "link": "https://thehill.com/homenews/campaign/6183364-mary-peltola-denial-ballot-stacking-dan-j-sullivan-alaska-senate-race/"
+          "title": "Comey lawyers fight for dismissal of third criminal prosecution",
+          "link": "https://thehill.com/regulation/court-battles/6184780-comey-criminal-case-dismissal-hearing/"
         },
         {
-          "title": "Democrats hold 10-point lead over GOP in battle for Congress: Poll",
-          "link": "https://thehill.com/homenews/campaign/6181511-democrats-lead-gop-midterm-poll/"
+          "title": "Judge opens East Potomac Park probe into potential DOJ misconduct",
+          "link": "https://thehill.com/regulation/court-battles/6184378-ana-reyes-investigation-justice-department-golf-course/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-30T13:58:14.655Z"
+      "updatedAt": "2026-10-30T19:11:50.448Z"
     },
     "Ars Technica": {
       "items": [
         {
-          "title": "2027 Nissan Rogue Hybrid: Drives like an EV, but there's no plug involved",
-          "link": "https://arstechnica.com/cars/2026/10/2027-nissan-rogue-hybrid-drives-like-an-ev-but-theres-no-plug-involved/"
+          "title": "Rare meteorite from Mars gives us a view into its ancient crust",
+          "link": "https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust/"
         },
         {
-          "title": "Review: You Can See Everything blurs the view of Elizabeth Holmes' deceit",
-          "link": "https://arstechnica.com/culture/2026/10/review-you-can-see-everything-blurs-the-view-of-elizabeth-holmes-deceit/"
+          "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+          "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/"
         },
         {
-          "title": "Rocket Report: Winter is coming for Themis; Cowboy Space adds iron to the fire",
-          "link": "https://arstechnica.com/space/2026/10/rocket-report-winter-is-coming-for-themis-cowboy-space-adds-iron-to-the-fire/"
+          "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
+          "link": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/"
         },
         {
-          "title": "Reddit is moving to “a logged-in-only experience,” CEO says",
-          "link": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/"
+          "title": "Analysts find looming launch crisis is \"more severe\" than anticipated",
+          "link": "https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/"
         },
         {
-          "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
-          "link": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/"
+          "title": "GM to pay $220 million after selling customer Smart Driver data",
+          "link": "https://arstechnica.com/cars/2026/10/gm-to-pay-220-million-after-selling-customer-smart-driver-data/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-30T13:58:14.766Z"
+      "updatedAt": "2026-10-30T19:11:50.763Z"
     },
     "The Verge": {
       "items": [
         {
-          "title": "Waymo’s next robotaxi is a purpose-built Toyota bZ4X",
-          "link": "https://www.theverge.com/transportation/1023112/waymos-next-robotaxi-is-a-purpose-built-toyota-bz4x"
+          "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
+          "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission"
         },
         {
-          "title": "Silicon Valley wants you to invest in miracles",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles"
+          "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru"
         },
         {
-          "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview"
+          "title": "The delightfully messy state of Apple gadgets",
+          "link": "https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets"
         },
         {
-          "title": "The HomeView and Echo Show 16 could be the family computers I’ve been asking for",
-          "link": "https://www.theverge.com/tech/1022592/apple-homeview-amazon-echo-show-16-smart-display-family-computer"
+          "title": "Rivian’s autonomy gamble faces its first real test",
+          "link": "https://www.theverge.com/transportation/1023143/rivian-autonomy-point-to-point-robotaxi-q3-2026"
         },
         {
-          "title": "The Apple Pencil turned the Duo into my new favorite notebook",
-          "link": "https://www.theverge.com/tech/1022894/iphone-duo-apple-pencil-hands-on"
+          "title": "Vizio’s discounted Mini LED TV lets you skip the sign-ups and smarts",
+          "link": "https://www.theverge.com/gadgets/1022794/vizio-mini-led-quantum-tv-65-inch-walmart-deal-sale"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-30T13:58:14.845Z"
+      "updatedAt": "2026-10-30T19:11:50.888Z"
     },
     "BBC World": {
       "items": [
+        {
+          "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+          "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
           "link": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
+          "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
           "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Prominent Russian newspaper shuts down under pressure from authorities",
+          "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Spain transport minister says he won't resign over high-speed rail disaster",
           "link": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Mushroom murderer fails to overturn convictions in Australian court challenge",
-          "link": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss"
+          "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
+          "link": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
-          "link": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-          "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Helicopter carrying six people crashes in northern Indian state",
-          "link": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss"
+          "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+          "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-30T13:58:14.980Z"
+      "updatedAt": "2026-10-30T19:11:51.007Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Police Scotland carrying out 'active inquiries' into Andrew and Epstein Balmoral visits",
-          "link": "https://www.bbc.co.uk/news/articles/cqglwp088532o?at_medium=RSS&at_campaign=rss"
+          "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+          "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "What we know about Binance's $6.3bn hack",
@@ -218,12 +218,12 @@
           "link": "https://www.bbc.co.uk/news/articles/c6e3xg5we9eyo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Watch: Iconic moments from the career of Sir Patrick Stewart, who has died aged 86",
-          "link": "https://www.bbc.co.uk/news/videos/c6qxnlxn0n15o?at_medium=RSS&at_campaign=rss"
+          "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+          "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
-          "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss"
+          "title": "Police Scotland carrying out 'active inquiries' into Andrew and Epstein Balmoral visits",
+          "link": "https://www.bbc.co.uk/news/articles/cqglwp088532o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
@@ -231,69 +231,69 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-30T13:58:15.056Z"
+      "updatedAt": "2026-10-30T19:11:51.205Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "High Prices Haunt Trump and the GOP on Eve of the Midterms",
-          "link": "https://www.nytimes.com/2026/10/30/business/trump-inflation-election.html"
+          "title": "The Justice Department’s Unusual Election-Year Activity",
+          "link": "https://www.nytimes.com/video/us/elections/100000011240630/the-justice-departments-unusual-election-year-activity.html"
         },
         {
-          "title": "U.S. Oil Industry Earned Over $130 Billion in Profit During Iran War",
-          "link": "https://www.nytimes.com/2026/10/30/business/energy-environment/exxon-chevron-oil-profits-iran-war.html"
+          "title": "How Michigan’s Midterm Senate Race Could Influence the 2028 Democratic Presidential Primary",
+          "link": "https://www.nytimes.com/2026/10/30/us/politics/michigan-senate-democratic-presidential-primary.html"
         },
         {
-          "title": "Trump Administration Steps Up Midterm Interventions, and Israeli Elections Have No Clear Winner",
-          "link": "https://www.nytimes.com/2026/10/30/podcasts/the-headlines/trump-interventions-midterms-israeli-election.html"
+          "title": "Polymarket and Kalshi Face a Major Accuracy Test: The Midterms",
+          "link": "https://www.nytimes.com/2026/10/30/technology/polymarket-kalshi-midterm-elections.html"
         },
         {
-          "title": "Binance Suspends Withdrawals After Crypto Hackers Steal $6.3 Billion",
-          "link": "https://www.nytimes.com/2026/10/29/technology/binance-hack-crypto.html"
-        },
-        {
-          "title": "Tech Stocks Tumble, but Broader Market Is Holding On",
+          "title": "Tech Stocks Tumble, Putting Pressure on Broader Market",
           "link": "https://www.nytimes.com/2026/10/30/business/stock-market-october-ai.html"
+        },
+        {
+          "title": "Why the Markets Don’t Care About the Midterms",
+          "link": "https://www.nytimes.com/2026/10/30/business/midterms-stock-bond-markets.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-30T13:58:15.095Z"
+      "updatedAt": "2026-10-30T19:11:51.570Z"
     }
   },
   "indices": {
     "data": [
       {
         "name": "S&P 500",
-        "price": 7630,
-        "pct": 0.08289959704499282
+        "price": 7554.83,
+        "pct": -0.9031071608462102
       },
       {
         "name": "Dow Jones",
-        "price": 52169.84,
-        "pct": -0.08679471632377836
+        "price": 51696.94,
+        "pct": -0.9924703859951806
       },
       {
         "name": "Nasdaq",
-        "price": 25607.846,
-        "pct": -1.3388150569401085
+        "price": 25311.172,
+        "pct": -2.481832254942534
       },
       {
         "name": "Gold",
-        "price": 3934.2,
-        "pct": -2.5802297939778196
+        "price": 3888.1,
+        "pct": -3.7217709984152183
       },
       {
         "name": "Bitcoin",
-        "price": 76745.64,
-        "pct": -4.075935678354782
+        "price": 76465.94,
+        "pct": -4.425531574496425
       },
       {
         "name": "SpaceX",
-        "price": 137.66,
-        "pct": -6.664858634483702
+        "price": 135.85,
+        "pct": -7.892060478676529
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-30T13:58:15.210Z"
+    "updatedAt": "2026-10-30T19:11:51.798Z"
   }
 }
