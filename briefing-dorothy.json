@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-10-29T22:09:45.585Z",
+  "fetchedAt": "2026-10-30T02:14:48.635Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Milwaukee Brewers broke baseball on their way to remarkably dominant World Series run",
-          "link": "https://www.foxnews.com/outkick-sports/milwaukee-brewers-broke-baseball-remarkably-dominant-world-series-run"
+          "title": "A ghost story in the nation's Capitol",
+          "link": "https://www.foxnews.com/politics/ghost-story-nations-capitol"
         },
         {
-          "title": "Chiefs coordinator backs Harrison Butker as starter despite Justin Tucker's 'off the charts' workout",
-          "link": "https://www.foxnews.com/outkick-sports/chiefs-coordinator-backs-harrison-butker-starter-despite-justin-tucker-off-charts-workout"
+          "title": "Man dressed as zombie allegedly stabs two in coffee shop, flees and hits robotaxi",
+          "link": "https://www.foxnews.com/us/man-dressed-zombie-allegedly-stabs-two-coffee-shop-flees-hits-robotaxi"
         },
         {
-          "title": "Judge grills AG’s office in Cornell sex assault case as ex-frat bro’s lawyer demands ouster over alleged bias",
-          "link": "https://www.foxnews.com/us/judge-grills-ag-office-cornell-sex-assault-case-ex-frat-bro-lawyer-demands-ouster-alleged-bias"
+          "title": "WATCH: Phoenix bank employees rescue food vendor during severe Arizona storm in viral video",
+          "link": "https://www.foxnews.com/us/watch-phoenix-bank-employees-rescue-food-vendor-severe-arizona-storm-viral-video"
         },
         {
-          "title": "LA residents near famous Hollywood sign fed up with over-saturation of tourists and illegal vendors",
-          "link": "https://www.foxnews.com/media/la-residents-near-famous-hollywood-sign-fed-up-over-saturation-tourists-illegal-vendors"
+          "title": "Brewers star Christian Yelich pays touching tribute to late, beloved broadcaster after World Series win",
+          "link": "https://www.foxnews.com/outkick-sports/brewers-star-christian-yelich-pays-touching-tribute-late-beloved-broadcaster-world-series-win"
         },
         {
-          "title": "Christina Aguilera strips down in steamy bathtub snap with cheeky Halloween twist",
-          "link": "https://www.foxnews.com/entertainment/christina-aguilera-poses-nude-steamy-bathtub-selfie"
+          "title": "Nancy Pelosi calls Mamdani, El-Sayed's past comments on Israel 'concerning' and 'wrong'",
+          "link": "https://www.foxnews.com/media/nancy-pelosi-calls-mamdani-el-sayed-past-comments-israel-concerning-wrong"
         },
         {
-          "title": "FOX News Media teams up with Breast Cancer Research Foundation",
-          "link": "https://www.foxnews.com/media/fox-news-media-teams-up-with-breast-cancer-research-foundation"
+          "title": "Minnesota official's voter guide message on Somali TV triggers viral backlash: 'Not an accident'",
+          "link": "https://www.foxnews.com/politics/minnesota-officials-voter-guide-message-somali-tv-triggers-viral-backlash-not-accident"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-29T22:09:42.448Z"
+      "updatedAt": "2026-10-30T02:14:45.786Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,38 +59,42 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-29T22:09:42.622Z"
+      "updatedAt": "2026-10-30T02:14:46.054Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Watch live: Trump, first lady host Halloween event at White House",
-          "link": "https://thehill.com/video-clips/6182768-watch-live-donald-trump-halloween-event-white-house/"
+          "title": "Trump to join tele-rallies 19 states after midterm event cancellations",
+          "link": "https://thehill.com/homenews/campaign/6183027-trump-scheduled-virtual-rally-blitz/"
         },
         {
-          "title": "Kansas, Maine Senate races neck-and-neck: CNN poll",
-          "link": "https://thehill.com/homenews/campaign/6182720-hamilton-jackson-ahead-cnn-poll/"
+          "title": "Alaska governor: Election certification 'could be stopped' due to Peltola probe",
+          "link": "https://thehill.com/homenews/campaign/6182999-alaska-election-verification-stopped-peltola-probe/"
         },
         {
-          "title": "Republicans have knives out for Peltola as Democrats largely silent",
-          "link": "https://thehill.com/homenews/campaign/6182647-republicans-investigate-democratic-candidate-scheme/"
+          "title": "House Oversight Democrat maintains support for Peltola, defers to Alaska for next steps",
+          "link": "https://thehill.com/homenews/house/6182905-robert-garcia-house-oversight-peltola-investigation/"
         },
         {
-          "title": "Trump administration's definition of 'medically frail' unlawful, according to federal judge",
-          "link": "https://thehill.com/policy/healthcare/6182258-judge-strikes-trump-medicaid-definition/"
+          "title": "Controversial Ramaswamy ad with Acton's mother off the air",
+          "link": "https://thehill.com/homenews/campaign/6182883-ramaswamy-stops-controversial-advertisement/"
         },
         {
-          "title": "New World screwworm case reported in Arizona dog",
-          "link": "https://thehill.com/policy/healthcare/6182563-arizona-reports-new-world-screwworm/"
+          "title": "Severe weather expected on Election Day in several key states",
+          "link": "https://thehill.com/homenews/campaign/6182858-severe-weather-election-day-voter-turnout/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-29T22:09:43.424Z"
+      "updatedAt": "2026-10-30T02:14:46.718Z"
     },
     "Ars Technica": {
       "items": [
         {
-          "title": "Windows 11 gets right-click menu improvements as PC revenue slides",
+          "title": "Reddit is moving to “a logged-in-only experience,” CEO says",
+          "link": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/"
+        },
+        {
+          "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
           "link": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/"
         },
         {
@@ -104,17 +108,25 @@
         {
           "title": "Trump ignored intel on China’s Nvidia spy to protect company’s stock, report says",
           "link": "https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/"
-        },
-        {
-          "title": "Turning a solar power system into its own backup",
-          "link": "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-29T22:09:43.724Z"
+      "updatedAt": "2026-10-30T02:14:46.813Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "The director of Obsession put a new horror short on YouTube",
+          "link": "https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear"
+        },
+        {
+          "title": "Intel says it&#8217;s selling every affordable laptop chip it can make",
+          "link": "https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage"
+        },
+        {
+          "title": "Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’",
+          "link": "https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic"
+        },
         {
           "title": "Patrick Stewart has died at age 86",
           "link": "https://www.theverge.com/news/1022626/patrick-stewart-star-trek-death"
@@ -122,22 +134,10 @@
         {
           "title": "Reddit will force everyone to log in",
           "link": "https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings"
-        },
-        {
-          "title": "Rivian’s R2 is officially its best-selling vehicle",
-          "link": "https://www.theverge.com/transportation/1022420/rivian-q3-earnings-r2-sales-volkswagen-software"
-        },
-        {
-          "title": "GM to pay $220 million to resolve claims it sold driving habits data",
-          "link": "https://www.theverge.com/transportation/1022555/gm-data-privacy-attorneys-general-lawsuit"
-        },
-        {
-          "title": "You can generate and edit Google Docs files directly in Gemini chats now",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-29T22:09:43.841Z"
+      "updatedAt": "2026-10-30T02:14:47.090Z"
     },
     "BBC World": {
       "items": [
@@ -171,7 +171,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-29T22:09:43.961Z"
+      "updatedAt": "2026-10-30T02:14:47.157Z"
     },
     "BBC News": {
       "items": [
@@ -180,28 +180,28 @@
           "link": "https://www.bbc.co.uk/news/videos/c6qxnlxn0n15o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Burnham says he wants to cut welfare bill 'as soon as we possibly can'",
-          "link": "https://www.bbc.co.uk/news/articles/c6x2w4zy15nwo?at_medium=RSS&at_campaign=rss"
+          "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
+          "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "'Painful' years ahead, think tanks warn, as living standards set to fall",
-          "link": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss"
+          "title": "Australian mushroom murderer loses appeal to overturn convictions",
+          "link": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
-          "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss"
+          "title": "Crypto worth billions frozen after suspected Binance hack",
+          "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "'Continue your journey': Key moments of leaked Spain train crash audio",
-          "link": "https://www.bbc.co.uk/news/videos/c6vgjeg0myzgo?at_medium=RSS&at_campaign=rss"
+          "title": "Hyrox athlete who soiled herself in race says she put others at risk",
+          "link": "https://www.bbc.co.uk/news/articles/c6gr8l15k744o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Jury shown CCTV of Huntingdon train staff using frying pan in defence",
-          "link": "https://www.bbc.co.uk/news/articles/ckdd8qpdeym4o?at_medium=RSS&at_campaign=rss"
+          "title": "Bombshell confession in The Traitors as faithfuls finally turn the screw",
+          "link": "https://www.bbc.co.uk/news/articles/ckr5y12r081zo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-29T22:09:44.001Z"
+      "updatedAt": "2026-10-30T02:14:47.173Z"
     },
     "NY Times": {
       "items": [
@@ -210,24 +210,24 @@
           "link": "https://www.nytimes.com/2026/10/29/us/trump-doj-california-voter-rolls-midterms.html"
         },
         {
-          "title": "Judge Orders Trump Officials to Outline Election Demands Sent to States",
-          "link": "https://www.nytimes.com/2026/10/29/us/politics/trump-judge-election-lawsuit.html"
+          "title": "Republicans Ramp Up Investigation Into Democratic Plan to Pack Alaska’s Ballot",
+          "link": "https://www.nytimes.com/2026/10/29/us/politics/alaska-dan-sullivan-peltola-ballot-investigation-trump.html"
+        },
+        {
+          "title": "How Common Is Ballot Stacking? What to Know as Conflict Roils Alaska Senate Race.",
+          "link": "https://www.nytimes.com/2026/10/29/us/elections/ballot-stacking-alaska.html"
         },
         {
           "title": "Americans Keep Spending",
           "link": "https://www.nytimes.com/2026/10/29/briefing/us-gdp-patrick-stewart.html"
         },
         {
-          "title": "Nvidia Chief, Jensen Huang, Is Seen as Target of Chinese Spy Plot",
-          "link": "https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html"
-        },
-        {
-          "title": "Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall Street",
-          "link": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html"
+          "title": "No Clear Winner in Israel Election, Final Results Show",
+          "link": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-results-netanyahu-eisenkot.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-29T22:09:44.076Z"
+      "updatedAt": "2026-10-30T02:14:47.223Z"
     },
     "ARTNews": {
       "items": [
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-29T22:09:44.283Z"
+      "updatedAt": "2026-10-30T02:14:47.330Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-29T22:09:44.531Z"
+      "updatedAt": "2026-10-30T02:14:47.568Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-29T22:09:45.426Z"
+      "updatedAt": "2026-10-30T02:14:48.499Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-29T22:09:45.585Z"
+      "updatedAt": "2026-10-30T02:14:48.635Z"
     }
   }
 }
