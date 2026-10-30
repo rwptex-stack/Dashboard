@@ -1,8 +1,12 @@
 {
-  "fetchedAt": "2026-10-30T00:43:35.806Z",
+  "fetchedAt": "2026-10-30T06:56:35.013Z",
   "feeds": {
     "MarketWatch": {
       "items": [
+        {
+          "title": "What gave this city its ‘best place to retire’ crown? You can actually afford to live there.",
+          "link": "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories"
+        },
         {
           "title": "Amazon’s stock drops — even in the face of a bold new cloud forecast",
           "link": "https://www.marketwatch.com/story/amazons-bold-cloud-forecast-isnt-enough-to-stave-off-a-stock-drop-ee23c1bb?mod=mw_rss_topstories"
@@ -22,100 +26,96 @@
         {
           "title": "Why Intel’s stock is sinking toward its worst drop in two years",
           "link": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories"
-        },
-        {
-          "title": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
-          "link": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-30T00:43:34.357Z"
+      "updatedAt": "2026-10-30T06:56:32.812Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Nancy Pelosi calls Mamdani, El-Sayed's past comments on Israel 'concerning' and 'wrong'",
-          "link": "https://www.foxnews.com/media/nancy-pelosi-calls-mamdani-el-sayed-past-comments-israel-concerning-wrong"
+          "title": "Packers top Panthers, Brewers storm Lambeau and Christian Watson returns from hospital",
+          "link": "https://www.foxnews.com/outkick-sports/packers-top-panthers-brewers-storm-lambeau-christian-watson-returns-hospital"
         },
         {
-          "title": "Minnesota official's voter guide message on Somali TV triggers viral backlash: 'Not an accident'",
-          "link": "https://www.foxnews.com/politics/minnesota-officials-voter-guide-message-somali-tv-triggers-viral-backlash-not-accident"
+          "title": "Packers WR Christian Watson gets checked at hospital after scary injury, somehow returns to Lambeau Field",
+          "link": "https://www.foxnews.com/outkick-sports/packers-wr-christian-watson-checked-hospital-scary-injury-returns-lambeau-field"
         },
         {
-          "title": "Daylight saving time is ending: Doctor breaks down 6 ways to protect your sleep and health",
-          "link": "https://www.foxnews.com/health/daylight-saving-time-ending-doctor-breaks-down-6-ways-protect-sleep-health"
+          "title": "Brewers continue World Series celebration, raise Commissioner’s Trophy at Lambeau Field during Packers game",
+          "link": "https://www.foxnews.com/outkick-sports/brewers-continue-world-series-celebration-raise-commissioners-trophy-lambeau-field-packers-game"
         },
         {
-          "title": "'Days of our Lives' star Robert Kelker-Kelly's cause of death revealed",
-          "link": "https://www.foxnews.com/entertainment/days-of-our-lives-star-robert-kelker-kelly-cause-of-death-revealed"
+          "title": "Three killed in midair helicopter collision near Oregon airport, authorities confirm",
+          "link": "https://www.foxnews.com/us/two-helicopters-collide-midair-near-oregon-airport-three-people-aboard-faa-confirms"
         },
         {
-          "title": "George Kittle's wife calls Mac Jones' eating habits his biggest dating 'red flag'",
-          "link": "https://www.foxnews.com/outkick-sports/george-kittle-wife-calls-mac-jones-eating-habits-biggest-dating-red-flag"
+          "title": "Chili's customers suffer chemical burns after dangerous margarita mix-up",
+          "link": "https://www.foxnews.com/us/chilis-customers-suffer-chemical-burns-after-dangerous-margarita-mix-up"
         },
         {
-          "title": "Spurs' Victor Wembanyama embraces competitive edge but rejects villain label after NBA playoff lessons",
-          "link": "https://www.foxnews.com/outkick-sports/spurs-victor-wembanyama-embraces-competitive-edge-rejects-villain-label-nba-playoff-lessons"
+          "title": "June Jones, former Hawai'i and Atlanta Falcons head coach, dead at 73",
+          "link": "https://www.foxnews.com/outkick-sports/june-jones-former-hawaii-atlanta-falcons-head-coach-dead-73"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-30T00:43:34.436Z"
+      "updatedAt": "2026-10-30T06:56:33.179Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "Inside Democrats' Secret Effort To Stack Alaska's Ballot",
-          "link": "https://www.realclearpolitics.com/2026/10/29/inside_democrats_secret_effort_to_stack_alaskas_ballot_715907.html"
+          "title": "Real GDP Rose 3.4%--Get Out There and Sell It, Republicans",
+          "link": "https://www.realclearpolitics.com/articles/2026/10/29/real_gdp_rose_34--get_out_there_and_sell_it_republicans_154633.html"
         },
         {
-          "title": "Trump, Vance and the 'Jihadist' El-Sayed",
-          "link": "https://www.realclearpolitics.com/2026/10/29/trump_vance_and_the_jihadist_el-sayed_715898.html"
+          "title": "I Oversaw Biden, Harris Polling. Here's How I Read '26 Polls",
+          "link": "https://www.realclearpolitics.com/2026/10/29/i_oversaw_biden_harris_polling_heres_how_i_read_26_polls_715892.html"
         },
         {
-          "title": "GOP Trying To Make the Texas Senate Race About 'Manliness'",
-          "link": "https://www.realclearpolitics.com/2026/10/29/gop_trying_to_make_the_texas_senate_race_about_manliness_715909.html"
+          "title": "Democrats Peddling False Moderation",
+          "link": "https://www.realclearpolitics.com/articles/2026/10/30/democrats_peddling_false_moderation_154631.html"
         },
         {
-          "title": "The Golden Age of Public Safety",
-          "link": "https://www.realclearpolitics.com/2026/10/29/the_golden_age_of_public_safety_715895.html"
+          "title": "Pretending Trump Is on the Ballot Deserves To Backfire",
+          "link": "https://www.realclearpolitics.com/2026/10/29/pretending_trump_is_on_the_ballot_deserves_to_backfire_715880.html"
         },
         {
-          "title": "5 States Where Dems Are Most Likely To Win Full Control",
-          "link": "https://www.realclearpolitics.com/2026/10/29/5_states_where_dems_are_most_likely_to_win_full_control_715774.html"
+          "title": "Bottoms Ran Atlanta Into Ground. Stop Her Doing It to GA",
+          "link": "https://www.realclearpolitics.com/2026/10/29/bottoms_ran_atlanta_into_ground_stop_her_doing_it_to_ga_715896.html"
         },
         {
-          "title": "Lazy Hit Piece on Cleta Mitchell Is Full of Howlers",
-          "link": "https://www.realclearpolitics.com/2026/10/29/lazy_hit_piece_on_cleta_mitchell_is_full_of_howlers_715905.html"
+          "title": "The Deeper Affordability Crisis",
+          "link": "https://www.realclearpolitics.com/2026/10/29/the_deeper_affordability_crisis_715883.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-30T00:43:34.656Z"
+      "updatedAt": "2026-10-30T06:56:33.498Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "House Oversight Democrat says Alaska should investigate Peltola allegations",
-          "link": "https://thehill.com/homenews/house/6182905-robert-garcia-house-oversight-peltola-investigation/"
+          "title": "Senate Democrats' PAC spends in South Carolina for first time",
+          "link": "https://thehill.com/homenews/campaign/6183124-senate-democrats-buy-sc-ads/"
         },
         {
-          "title": "Controversial Ramaswamy ad with Acton's mother off the air",
-          "link": "https://thehill.com/homenews/campaign/6182883-ramaswamy-stops-controversial-advertisement/"
+          "title": "Potential Binance 'hack' forces crypto firms to freeze $3 billion",
+          "link": "https://thehill.com/policy/technology/6183131-binance-hack-crypto-firms-freeze-assets/"
         },
         {
-          "title": "Severe weather expected on Election Day in several key states",
-          "link": "https://thehill.com/homenews/campaign/6182858-severe-weather-election-day-voter-turnout/"
+          "title": "Sparks fly between Bresnahan, Cognetti in Pennsylvania House debate",
+          "link": "https://thehill.com/homenews/campaign/6183129-bresnahan-cognetti-debate-pennsylvania/"
         },
         {
-          "title": "HHS begins recruiting new vaccine advisers​",
-          "link": "https://thehill.com/newsletters/healthcare/6182848-hhs-begins-recruiting-new-vaccine-advisors/"
+          "title": "Trump to join tele-rallies 19 states after midterm event cancellations",
+          "link": "https://thehill.com/homenews/campaign/6183027-trump-scheduled-virtual-rally-blitz/"
         },
         {
-          "title": "Gasoline and energy costs rise, with inflation slightly up",
-          "link": "https://thehill.com/newsletters/energy-environment/6182838-gasoline-and-energy-costs-rise-with-inflation-slightly-up/"
+          "title": "Alaska governor: Election certification 'could be stopped' due to Peltola probe",
+          "link": "https://thehill.com/homenews/campaign/6182999-alaska-election-verification-stopped-peltola-probe/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-30T00:43:35.228Z"
+      "updatedAt": "2026-10-30T06:56:34.136Z"
     },
     "Ars Technica": {
       "items": [
@@ -141,7 +141,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-30T00:43:35.334Z"
+      "updatedAt": "2026-10-30T06:56:34.377Z"
     },
     "The Verge": {
       "items": [
@@ -167,71 +167,71 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-30T00:43:35.406Z"
+      "updatedAt": "2026-10-30T06:56:34.465Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
-          "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss"
+          "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
+          "link": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
-          "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss"
+          "title": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
+          "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Mushroom murderer fails to overturn convictions in Australian court challenge",
+          "link": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
           "link": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
-          "link": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
-          "link": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Philippine police obtain warrant to search Thomas Markle's devices",
-          "link": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
-          "link": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "ok": true,
-      "updatedAt": "2026-10-30T00:43:35.441Z"
-    },
-    "BBC News": {
-      "items": [
-        {
-          "title": "Watch: Life and career of iconic actor Sir Patrick Stewart",
-          "link": "https://www.bbc.co.uk/news/videos/c6qxnlxn0n15o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Burnham says he wants to cut welfare bill 'as soon as we possibly can'",
-          "link": "https://www.bbc.co.uk/news/articles/c6x2w4zy15nwo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "'Continue your journey': Key moments of leaked Spain train crash audio",
-          "link": "https://www.bbc.co.uk/news/videos/c6vgjeg0myzgo?at_medium=RSS&at_campaign=rss"
+          "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
+          "link": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
           "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Bombshell confession in The Traitors as faithfuls finally turn the screw",
-          "link": "https://www.bbc.co.uk/news/articles/ckr5y12r081zo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Crypto giant Binance freezes $2.5bn of assets over suspected hack",
-          "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss"
+          "title": "Hyrox athlete who soiled herself in race tells BBC she put others at risk but says backlash was traumatic",
+          "link": "https://www.bbc.co.uk/news/articles/c6gr8l15k744o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-30T00:43:35.575Z"
+      "updatedAt": "2026-10-30T06:56:34.699Z"
+    },
+    "BBC News": {
+      "items": [
+        {
+          "title": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
+          "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Australian mushroom murderer loses appeal to overturn convictions",
+          "link": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Hyrox athlete who soiled herself in race says she put others at risk",
+          "link": "https://www.bbc.co.uk/news/articles/c6gr8l15k744o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
+          "link": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Democrats have an identity crisis - it won't be an easy fix",
+          "link": "https://www.bbc.co.uk/news/articles/cknv08980d3vo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Bombshell confession in The Traitors as faithfuls finally turn the screw",
+          "link": "https://www.bbc.co.uk/news/articles/ckr5y12r081zo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "ok": true,
+      "updatedAt": "2026-10-30T06:56:34.724Z"
     },
     "NY Times": {
       "items": [
@@ -240,24 +240,24 @@
           "link": "https://www.nytimes.com/2026/10/29/us/trump-doj-california-voter-rolls-midterms.html"
         },
         {
-          "title": "Judge Orders Trump Officials to Outline Election Demands Sent to States",
-          "link": "https://www.nytimes.com/2026/10/29/us/politics/trump-judge-election-lawsuit.html"
+          "title": "Republicans Ramp Up Investigation Into Democratic Plan to Pack Alaska’s Ballot",
+          "link": "https://www.nytimes.com/2026/10/29/us/politics/alaska-dan-sullivan-peltola-ballot-investigation-trump.html"
         },
         {
-          "title": "Americans Keep Spending",
-          "link": "https://www.nytimes.com/2026/10/29/briefing/us-gdp-patrick-stewart.html"
-        },
-        {
-          "title": "Nvidia Chief, Jensen Huang, Is Seen as Target of Chinese Spy Plot",
-          "link": "https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html"
+          "title": "How Common Is Ballot Stacking? What to Know as Conflict Roils Alaska Senate Race.",
+          "link": "https://www.nytimes.com/2026/10/29/us/elections/ballot-stacking-alaska.html"
         },
         {
           "title": "No Clear Winner in Israel Election, Final Results Show",
           "link": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-results-netanyahu-eisenkot.html"
+        },
+        {
+          "title": "What Israeli Election Results Reveal About the Electorate",
+          "link": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-voter-data-takeaways.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-30T00:43:35.661Z"
+      "updatedAt": "2026-10-30T06:56:34.830Z"
     }
   },
   "indices": {
@@ -279,13 +279,13 @@
       },
       {
         "name": "Gold",
-        "price": 4021.5,
-        "pct": -0.41848256735340955
+        "price": 3994.1,
+        "pct": -1.0969690966719539
       },
       {
         "name": "Bitcoin",
-        "price": 76822.63,
-        "pct": -3.979706189459726
+        "price": 78415.89,
+        "pct": -1.9882969742768966
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-30T00:43:35.806Z"
+    "updatedAt": "2026-10-30T06:56:35.013Z"
   }
 }
