@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-10-30T21:12:30.517Z",
+  "fetchedAt": "2026-10-31T01:11:42.140Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "'Biscuit' the dog is latest dead felon to get their voting rights back from Spanberger, confused owner says",
-          "link": "https://www.foxnews.com/politics/biscuit-dog-latest-dead-felon-get-voting-rights-back-spanberger-confused-owner-says"
+          "title": "'The View' co-hosts agree Democrats should not impeach Trump if party wins back control of Congress",
+          "link": "https://www.foxnews.com/media/the-view-co-hosts-agree-democrats-should-not-impeach-trump-party-wins-back-control-congress"
         },
         {
-          "title": "Fox News Campus Radicals Newsletter: A rare reversal, a Christian battle and a reality check",
-          "link": "https://www.foxnews.com/us/fox-news-campus-radicals-newsletter-rare-reversal-christian-battle-reality-check"
+          "title": "NHL's reigning MVP Nikita Kucherov reportedly asks Lightning for trade in stunning move",
+          "link": "https://www.foxnews.com/outkick-sports/nhls-reigning-mvp-nikita-kucherov-reportedly-asks-lightning-trade-stunning-move"
         },
         {
-          "title": "BOBBY BURACK: It's almost certainly over for Troy Aikman and Joe Buck as a duo",
-          "link": "https://www.foxnews.com/outkick-sports/bobby-burack-almost-certainly-over-troy-aikman-joe-buck-duo"
+          "title": "Oregon teacher who wrestled shotgun from school gunman shares emotional message after attack",
+          "link": "https://www.foxnews.com/us/oregon-teacher-wrestled-shotgun-school-gunman-shares-emotional-message-after-attack"
         },
         {
-          "title": "Miami Heat unveil 'enhanced' Dwyane Wade statue after original sculpture went viral for wrong reasons",
-          "link": "https://www.foxnews.com/outkick-sports/miami-heat-unveil-enhanced-dwyane-wade-statue-original-sculpture-went-viral-wrong-reasons"
+          "title": "DAVID MARCUS: California transplants in Texas are voting Democrat, and they see no irony in it",
+          "link": "https://www.foxnews.com/opinion/david-marcus-california-transplants-texas-voting-democrat-see-no-irony"
         },
         {
-          "title": "Target unveils $30 Thanksgiving dinner deal as retailers battle to offer lowest prices",
-          "link": "https://www.foxnews.com/food-drink/target-unveils-30-thanksgiving-dinner-deal-retailers-battle-offer-lowest-prices"
+          "title": "EXCLUSIVE: ICE captures illegal alien at center of NYC manhunt after sanctuary city release",
+          "link": "https://www.foxnews.com/politics/exclusive-ice-captures-illegal-alien-center-nyc-manhunt-sanctuary-city-release"
         },
         {
-          "title": "Packers star Josh Jacobs says his controversial touchdown celebration referenced a gospel song, not his arrest",
-          "link": "https://www.foxnews.com/outkick-sports/packers-star-josh-jacobs-controversial-touchdown-celebration-referenced-gospel-song-not-arrest"
+          "title": "Battleground Republican declares he is 'stronger than ever' as he addresses scrutiny over missed votes",
+          "link": "https://www.foxnews.com/media/battleground-republican-declares-stronger-than-ever-addresses-scrutiny-missed-votes"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-30T21:12:27.414Z"
+      "updatedAt": "2026-10-31T01:11:39.533Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,88 +59,92 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-30T21:12:27.814Z"
+      "updatedAt": "2026-10-31T01:11:39.804Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Decision Desk ‘26 midterm preview, powered by 2WAY and The Hill",
-          "link": "https://thehill.com/homenews/6185126-2way-midterm-election-preview-the-hill/"
+          "title": "Ukraine gets approval for Patriot missile sale",
+          "link": "https://thehill.com/newsletters/defense-national-security/6185817-us-approves-ukraine-patriot-missiles/"
         },
         {
-          "title": "Bessent alleges anti-fraud guardrails are 'loosest' in blue states",
-          "link": "https://thehill.com/homenews/administration/6185348-bessent-accuses-democrats-fraud-loose/"
+          "title": "Trump says Iran war will end 'soon'",
+          "link": "https://thehill.com/newsletters/defense-national-security/6185808-trump-iran-war-ending-soon/"
         },
         {
-          "title": "G20 foreign ministers scrap 'family photo' as Lavrov crashes party",
-          "link": "https://thehill.com/policy/international/6185283-g20-foreign-ministers-skip-russia-photo/"
+          "title": "RNC chair predicts GOP Senate wins in Alaska, Texas, 3 other battlegrounds",
+          "link": "https://thehill.com/homenews/campaign/6185743-rnc-chair-predicts-midterm-wins/"
         },
         {
-          "title": "Sabato's Crystal Ball shifts 2 Senate races toward Democrats",
-          "link": "https://thehill.com/homenews/campaign/6185025-minnesota-louisiana-senate-race-democrats-chances/"
+          "title": "Democrats weigh Israel election results amid lingering uncertainty",
+          "link": "https://thehill.com/homenews/house/6185584-democrats-react-israel-elections/"
         },
         {
-          "title": "Federal debt surpassed GDP for fiscal 2026",
-          "link": "https://thehill.com/business/6185236-federal-debt-gdp-bea-cbo-treasury/"
+          "title": "Cancer crisis throws wild card into Iowa elections",
+          "link": "https://thehill.com/newsletters/energy-environment/6185673-cancer-crisis-throws-wildcard-into-iowa-elections/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-30T21:12:28.375Z"
+      "updatedAt": "2026-10-31T01:11:40.414Z"
     },
     "Ars Technica": {
       "items": [
         {
-          "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
-          "link": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/"
+          "title": "Think you can save the Hubble Space Telescope? NASA wants to know.",
+          "link": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/"
         },
         {
-          "title": "Over 25% of people lie to get antibiotics—and their lies aren't even good",
-          "link": "https://arstechnica.com/health/2026/10/over-25-of-people-lie-to-get-antibiotics-and-their-lies-arent-even-good/"
+          "title": "Flesh-eating screwworms spread to third state and are attacking pets",
+          "link": "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/"
         },
         {
-          "title": "Basically no one is using AI agents for their DoorDash orders",
-          "link": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/"
+          "title": "Oh captain, our captain: Ars staff remembers Patrick Stewart",
+          "link": "https://arstechnica.com/culture/2026/10/oh-captain-our-captain-ars-staff-remembers-patrick-stewart/"
         },
         {
-          "title": "Rare meteorite from Mars gives us a view into its ancient crust",
-          "link": "https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust/"
+          "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
+          "link": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/"
         },
         {
-          "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-          "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/"
+          "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+          "link": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-30T21:12:28.466Z"
+      "updatedAt": "2026-10-31T01:11:40.458Z"
     },
     "The Verge": {
       "items": [
         {
+          "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+          "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3"
+        },
+        {
+          "title": "Exclusive details about Akai’s MPC Sample Key",
+          "link": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive"
+        },
+        {
+          "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers"
+        },
+        {
+          "title": "The biggest names in AI are backing a new way to opt out of scraping",
+          "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out"
+        },
+        {
           "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
           "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission"
-        },
-        {
-          "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru"
-        },
-        {
-          "title": "The delightfully messy state of Apple gadgets",
-          "link": "https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets"
-        },
-        {
-          "title": "Rivian’s autonomy gamble faces its first real test",
-          "link": "https://www.theverge.com/transportation/1023143/rivian-autonomy-point-to-point-robotaxi-q3-2026"
-        },
-        {
-          "title": "Vizio’s discounted Mini LED TV lets you skip the sign-ups and smarts",
-          "link": "https://www.theverge.com/gadgets/1022794/vizio-mini-led-quantum-tv-65-inch-walmart-deal-sale"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-30T21:12:28.540Z"
+      "updatedAt": "2026-10-31T01:11:40.568Z"
     },
     "BBC World": {
       "items": [
+        {
+          "title": "US approves sale of 500 Patriot missiles to Ukraine",
+          "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
           "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss"
@@ -154,27 +158,27 @@
           "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss"
         },
         {
+          "title": "Police deployed during stand-off over control of top Poland court",
+          "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
           "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Spain transport minister says he won't resign over high-speed rail disaster",
           "link": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
-          "link": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "US tech stocks see sharp falls as AI spending nears $1tn",
-          "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-30T21:12:28.691Z"
+      "updatedAt": "2026-10-31T01:11:40.903Z"
     },
     "BBC News": {
       "items": [
+        {
+          "title": "US approves sale of 500 Patriot missiles to Ukraine",
+          "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
           "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss"
@@ -184,42 +188,38 @@
           "link": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
-          "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss"
+          "title": "Celebrity Traitors comes to a climax in nail-biting final",
+          "link": "https://www.bbc.co.uk/news/articles/cw4g17z11l45o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Police deployed during stand-off over control of top Poland court",
+          "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Driver guilty of hitting cyclist and dragging him to death under car",
           "link": "https://www.bbc.co.uk/news/articles/c6e3xg5we9eyo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Police deployed during stand-off over control of Poland's top court",
-          "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
-          "link": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-30T21:12:28.729Z"
+      "updatedAt": "2026-10-31T01:11:40.963Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "Obamacare Dealt Yet Another Blow as Premiums Rise Again",
+          "title": "Obamacare Policies Hit Again With Steep Premium Increases for 2027",
           "link": "https://www.nytimes.com/2026/10/30/business/obamacare-health-insurance-rates.html"
         },
         {
-          "title": "Democrats and Republicans Share Dueling Health Care Messages in Final Midterms Push",
-          "link": "https://www.nytimes.com/2026/10/30/us/politics/midterms-health-care-affordability-fraud.html"
-        },
-        {
-          "title": "The Justice Department’s Unusual Election-Year Activity",
-          "link": "https://www.nytimes.com/video/us/elections/100000011240630/the-justice-departments-unusual-election-year-activity.html"
+          "title": "Justice Dept. Confirms Alaska Inquiry Even as Its Focus Remains Unclear",
+          "link": "https://www.nytimes.com/2026/10/30/us/politics/justice-dept-alaska-senate-inquiry.html"
         },
         {
           "title": "Polymarket and Kalshi Face a Major Accuracy Test: The Midterms",
           "link": "https://www.nytimes.com/2026/10/30/technology/polymarket-kalshi-midterm-elections.html"
+        },
+        {
+          "title": "Trump Will Go to Kansas and Iowa Before Election Day",
+          "link": "https://www.nytimes.com/2026/10/30/briefing/trump-campaign-plans-crypto-hack.html"
         },
         {
           "title": "Binance’s $6.3 Billion Hack Is Just the Start of a Risky New Era",
@@ -227,7 +227,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-30T21:12:28.901Z"
+      "updatedAt": "2026-10-31T01:11:41.071Z"
     },
     "ARTNews": {
       "items": [
@@ -257,10 +257,14 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-30T21:12:29.233Z"
+      "updatedAt": "2026-10-31T01:11:41.189Z"
     },
     "Hyperallergic": {
       "items": [
+        {
+          "title": "The Greatest Art Costumes From Hyperallergic's Halloween Party",
+          "link": "https://hyperallergic.com/the-greatest-art-costumes-from-hyperallergics-halloween-party-2026/"
+        },
         {
           "title": "10 Years Later, Magenta Plains Is Still Embracing the Unexpected",
           "link": "https://hyperallergic.com/10-years-later-magenta-plains-is-still-embracing-the-unexpected/"
@@ -280,14 +284,10 @@
         {
           "title": "Surprise! US Pavilion Needs More Cash to Ship Works Home",
           "link": "https://hyperallergic.com/surprise-us-pavilion-needs-more-cash-to-ship-works-home/"
-        },
-        {
-          "title": "A View From the Easel: Anna Pajak",
-          "link": "https://hyperallergic.com/a-view-from-the-easel-anna-pajak/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-30T21:12:29.646Z"
+      "updatedAt": "2026-10-31T01:11:41.315Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-30T21:12:30.370Z"
+      "updatedAt": "2026-10-31T01:11:42.011Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-30T21:12:30.517Z"
+      "updatedAt": "2026-10-31T01:11:42.140Z"
     }
   }
 }
