@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-10-31T01:11:42.140Z",
+  "fetchedAt": "2026-10-31T07:40:44.674Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "'The View' co-hosts agree Democrats should not impeach Trump if party wins back control of Congress",
-          "link": "https://www.foxnews.com/media/the-view-co-hosts-agree-democrats-should-not-impeach-trump-party-wins-back-control-congress"
+          "title": "Federal judge blocks Trump DOJ threats against election workers ahead of 2026 midterms",
+          "link": "https://www.foxnews.com/politics/federal-judge-blocks-trump-doj-threats-against-election-workers-ahead-2026-midterms"
         },
         {
-          "title": "NHL's reigning MVP Nikita Kucherov reportedly asks Lightning for trade in stunning move",
-          "link": "https://www.foxnews.com/outkick-sports/nhls-reigning-mvp-nikita-kucherov-reportedly-asks-lightning-trade-stunning-move"
+          "title": "Thunder to lose Chet Holmgren for at least 2 months with knee injury amid string of early-season NBA injuries",
+          "link": "https://www.foxnews.com/outkick-sports/thunder-lose-chet-holmgren-least-2-months-knee-injury-amid-string-early-season-nba-injuries"
         },
         {
-          "title": "Oregon teacher who wrestled shotgun from school gunman shares emotional message after attack",
-          "link": "https://www.foxnews.com/us/oregon-teacher-wrestled-shotgun-school-gunman-shares-emotional-message-after-attack"
+          "title": "Brewers manager reveals his biggest challenge during championship parade was not peeing himself",
+          "link": "https://www.foxnews.com/outkick-sports/brewers-manager-reveals-biggest-challenge-championship-parade-not-peeing-himself"
         },
         {
-          "title": "DAVID MARCUS: California transplants in Texas are voting Democrat, and they see no irony in it",
-          "link": "https://www.foxnews.com/opinion/david-marcus-california-transplants-texas-voting-democrat-see-no-irony"
+          "title": "JuJu Watkins says she's dreamed of her first basket since ACL injury as USC looks to end title drought",
+          "link": "https://www.foxnews.com/outkick-sports/juju-watkins-dreamed-first-basket-since-acl-injury-usc-looks-end-title-drought"
         },
         {
-          "title": "EXCLUSIVE: ICE captures illegal alien at center of NYC manhunt after sanctuary city release",
-          "link": "https://www.foxnews.com/politics/exclusive-ice-captures-illegal-alien-center-nyc-manhunt-sanctuary-city-release"
+          "title": "Ex-NBA player says LeBron James should 'stand the f--- still' during national anthem",
+          "link": "https://www.foxnews.com/outkick-sports/ex-nba-player-says-lebron-james-should-stand-f-still-during-national-anthem"
         },
         {
-          "title": "Battleground Republican declares he is 'stronger than ever' as he addresses scrutiny over missed votes",
-          "link": "https://www.foxnews.com/media/battleground-republican-declares-stronger-than-ever-addresses-scrutiny-missed-votes"
+          "title": "California woman accused of killing trans son-in-law puts blame on husband in new docs: reports",
+          "link": "https://www.foxnews.com/us/california-woman-accused-killing-trans-son-in-law-blames-husband-new-docs-reports"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-31T01:11:39.533Z"
+      "updatedAt": "2026-10-31T07:40:42.062Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,10 +59,18 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-31T01:11:39.804Z"
+      "updatedAt": "2026-10-31T07:40:42.262Z"
     },
     "The Hill": {
       "items": [
+        {
+          "title": "Judge blocks DOJ from threatening election officials over noncitizen voting claims",
+          "link": "https://thehill.com/regulation/court-battles/6185891-judge-stops-trump-election-threats/"
+        },
+        {
+          "title": "Health insurance plan costs on Healthcare.gov to rise by double digits in 2027",
+          "link": "https://thehill.com/policy/healthcare/6185863-obamacare-premiums-set-double-2027-analysis/"
+        },
         {
           "title": "Ukraine gets approval for Patriot missile sale",
           "link": "https://thehill.com/newsletters/defense-national-security/6185817-us-approves-ukraine-patriot-missiles/"
@@ -74,23 +82,15 @@
         {
           "title": "RNC chair predicts GOP Senate wins in Alaska, Texas, 3 other battlegrounds",
           "link": "https://thehill.com/homenews/campaign/6185743-rnc-chair-predicts-midterm-wins/"
-        },
-        {
-          "title": "Democrats weigh Israel election results amid lingering uncertainty",
-          "link": "https://thehill.com/homenews/house/6185584-democrats-react-israel-elections/"
-        },
-        {
-          "title": "Cancer crisis throws wild card into Iowa elections",
-          "link": "https://thehill.com/newsletters/energy-environment/6185673-cancer-crisis-throws-wildcard-into-iowa-elections/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-31T01:11:40.414Z"
+      "updatedAt": "2026-10-31T07:40:42.634Z"
     },
     "Ars Technica": {
       "items": [
         {
-          "title": "Think you can save the Hubble Space Telescope? NASA wants to know.",
+          "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
           "link": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/"
         },
         {
@@ -111,7 +111,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-31T01:11:40.458Z"
+      "updatedAt": "2026-10-31T07:40:42.723Z"
     },
     "The Verge": {
       "items": [
@@ -137,7 +137,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-31T01:11:40.568Z"
+      "updatedAt": "2026-10-31T07:40:42.812Z"
     },
     "BBC World": {
       "items": [
@@ -150,28 +150,28 @@
           "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
-          "link": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
-          "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss"
+          "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+          "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Police deployed during stand-off over control of top Poland court",
           "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
-          "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss"
+          "title": "Spain train disaster clouds Sánchez chances of re-election",
+          "link": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Spain transport minister says he won't resign over high-speed rail disaster",
-          "link": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss"
+          "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+          "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Global nature talks reach deal but money remains an issue",
+          "link": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-31T01:11:40.903Z"
+      "updatedAt": "2026-10-31T07:40:43.026Z"
     },
     "BBC News": {
       "items": [
@@ -180,12 +180,16 @@
           "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-          "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss"
+          "title": "Burnham 'open' to calls for slavery apology but not reparations",
+          "link": "https://www.bbc.co.uk/news/articles/c5398239je88o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "What we know about Binance's $6.3bn hack",
-          "link": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss"
+          "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+          "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Mahmood expected to announce changes to rules around indefinite leave to remain",
+          "link": "https://www.bbc.co.uk/news/articles/cm62yxxd992eo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Celebrity Traitors comes to a climax in nail-biting final",
@@ -194,14 +198,10 @@
         {
           "title": "Police deployed during stand-off over control of top Poland court",
           "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Driver guilty of hitting cyclist and dragging him to death under car",
-          "link": "https://www.bbc.co.uk/news/articles/c6e3xg5we9eyo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-31T01:11:40.963Z"
+      "updatedAt": "2026-10-31T07:40:43.244Z"
     },
     "NY Times": {
       "items": [
@@ -210,27 +210,31 @@
           "link": "https://www.nytimes.com/2026/10/30/business/obamacare-health-insurance-rates.html"
         },
         {
-          "title": "Justice Dept. Confirms Alaska Inquiry Even as Its Focus Remains Unclear",
-          "link": "https://www.nytimes.com/2026/10/30/us/politics/justice-dept-alaska-senate-inquiry.html"
+          "title": "El-Sayed Clashes With Former Primary Rival Who Demanded His Apology",
+          "link": "https://www.nytimes.com/2026/10/30/us/politics/el-sayed-stevens-michigan-senate-event.html"
         },
         {
           "title": "Polymarket and Kalshi Face a Major Accuracy Test: The Midterms",
           "link": "https://www.nytimes.com/2026/10/30/technology/polymarket-kalshi-midterm-elections.html"
         },
         {
-          "title": "Trump Will Go to Kansas and Iowa Before Election Day",
-          "link": "https://www.nytimes.com/2026/10/30/briefing/trump-campaign-plans-crypto-hack.html"
-        },
-        {
           "title": "Binance’s $6.3 Billion Hack Is Just the Start of a Risky New Era",
           "link": "https://www.nytimes.com/2026/10/30/technology/binance-hack-ai-north-korea.html"
+        },
+        {
+          "title": "Binance Was Hacked. What Protections Exist for Crypto Customers?",
+          "link": "https://www.nytimes.com/2026/10/30/business/binances-hack-customer-protections.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-31T01:11:41.071Z"
+      "updatedAt": "2026-10-31T07:40:43.345Z"
     },
     "ARTNews": {
       "items": [
+        {
+          "title": "In Reply to Senators’ Amicus Briefs, Austria, Albertina, and Leopold Museum Double Down on Unconstitutionality of HEAR Act",
+          "link": "https://www.artnews.com/art-news/news/austria-albertina-leopold-senator-amicus-brief-response-1234804373/"
+        },
         {
           "title": "Ukraine Charges a Russian General in Absentia Over the Missile Strike That Destroyed the Skovoroda Museum",
           "link": "https://www.artnews.com/art-news/news/ukraine-charge-russian-general-skovoroda-museum-1234804358/"
@@ -250,14 +254,10 @@
         {
           "title": "Vietnamese-American Photographer and Oberlin Professor Pipo Nguyen-duy Found Dead at 64",
           "link": "https://www.artnews.com/art-news/news/pipo-nguyen-duy-dead-oberlin-vietnamese-american-photographer-1234804317/"
-        },
-        {
-          "title": "Louvre Signs Deal with Unions, Ending Threat of Continued Strikes",
-          "link": "https://www.artnews.com/art-news/news/louvre-signs-deal-with-unions-ending-threat-continued-strikes-1234804321/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-31T01:11:41.189Z"
+      "updatedAt": "2026-10-31T07:40:43.674Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-31T01:11:41.315Z"
+      "updatedAt": "2026-10-31T07:40:43.966Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,10 +317,14 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-31T01:11:42.011Z"
+      "updatedAt": "2026-10-31T07:40:44.529Z"
     },
     "Booooooom": {
       "items": [
+        {
+          "title": "2026 Booooooom Illustration Awards: Meet The Judges",
+          "link": "https://www.booooooom.com/2026/10/30/2026-booooooom-illustration-awards-meet-the-judges/"
+        },
         {
           "title": "“Aesthetic of After” by Photographer Junya Suzuki",
           "link": "https://www.booooooom.com/2026/10/30/aesthetic-of-after-by-photographer-junya-suzuki/"
@@ -340,14 +344,10 @@
         {
           "title": "Artist Spotlight: Michelle Ramin",
           "link": "https://www.booooooom.com/2026/10/26/artist-spotlight-michelle-ramin/"
-        },
-        {
-          "title": "“Marvelous Problems” by Artist Emanuela Lekić",
-          "link": "https://www.booooooom.com/2026/10/23/marvelous-problems-by-artist-emanuela-lekic/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-31T01:11:42.140Z"
+      "updatedAt": "2026-10-31T07:40:44.674Z"
     }
   }
 }
