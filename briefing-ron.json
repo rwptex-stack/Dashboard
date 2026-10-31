@@ -1,8 +1,12 @@
 {
-  "fetchedAt": "2026-10-31T05:06:00.331Z",
+  "fetchedAt": "2026-10-31T12:02:20.493Z",
   "feeds": {
     "MarketWatch": {
       "items": [
+        {
+          "title": "These 10 megadonors have spent a total of $1 billion on the midterm elections",
+          "link": "https://www.marketwatch.com/story/these-10-megadonors-have-spent-a-total-of-1-billion-on-the-midterm-elections-0dc279cf?mod=mw_rss_topstories"
+        },
         {
           "title": "Grand Theft Callout: ‘GTA 6’ fans are missing work on the game’s release day because they ‘don’t want to wait’ anymore",
           "link": "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories"
@@ -22,44 +26,40 @@
         {
           "title": "Warsh wants the Fed to say less. Two officials are pushing for more transparency.",
           "link": "https://www.marketwatch.com/story/the-fed-held-interest-rates-steady-but-these-officials-see-more-hikes-coming-soon-2098bbd8?mod=mw_rss_topstories"
-        },
-        {
-          "title": "In a wild October for markets, these stocks were the biggest winners and losers",
-          "link": "https://www.marketwatch.com/story/in-a-wild-october-for-markets-these-stocks-were-the-biggest-winners-and-losers-3736f043?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-31T05:05:58.214Z"
+      "updatedAt": "2026-10-31T12:02:18.136Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Thunder to lose Chet Holmgren for at least 2 months with knee injury amid string of early-season NBA injuries",
-          "link": "https://www.foxnews.com/outkick-sports/thunder-lose-chet-holmgren-least-2-months-knee-injury-amid-string-early-season-nba-injuries"
+          "title": "Former NFL QB Philip Rivers has become a serious option for NC State opening amid college football carousel",
+          "link": "https://www.foxnews.com/outkick-sports/former-nfl-qb-philip-rivers-serious-option-nc-state-opening-college-football-carousel"
         },
         {
-          "title": "Brewers manager reveals his biggest challenge during championship parade was not peeing himself",
-          "link": "https://www.foxnews.com/outkick-sports/brewers-manager-reveals-biggest-challenge-championship-parade-not-peeing-himself"
+          "title": "Arizona Wildcats look to pull off upset of No 13 Texas Tech in pivotal Big 12 football showdown",
+          "link": "https://www.foxnews.com/outkick-betting/arizona-wildcats-upset-no-13-texas-tech-pivotal-big-12-football-showdown"
         },
         {
-          "title": "JuJu Watkins says she's dreamed of her first basket since ACL injury as USC looks to end title drought",
-          "link": "https://www.foxnews.com/outkick-sports/juju-watkins-dreamed-first-basket-since-acl-injury-usc-looks-end-title-drought"
+          "title": "Questions still haunt Houdini’s Halloween death 100 years later",
+          "link": "https://www.foxnews.com/us/questions-haunt-houdini-halloween-death-100-years-later"
         },
         {
-          "title": "Ex-NBA player says LeBron James should 'stand the f--- still' during national anthem",
-          "link": "https://www.foxnews.com/outkick-sports/ex-nba-player-says-lebron-james-should-stand-f-still-during-national-anthem"
+          "title": "Trump admin threatens Iran with 'consequences' as allies convene amid threats of post-election escalation",
+          "link": "https://www.foxnews.com/politics/trump-admin-threatens-iran-consequences-allies-convene-amid-threats-post-election-escalation"
         },
         {
-          "title": "California woman accused of killing trans son-in-law puts blame on husband in new docs: reports",
-          "link": "https://www.foxnews.com/us/california-woman-accused-killing-trans-son-in-law-blames-husband-new-docs-reports"
+          "title": "Florida Gators look to strengthen College Football Playoff case in ranked matchup with Georgia",
+          "link": "https://www.foxnews.com/outkick/florida-gators-look-strengthen-college-football-playoff-case-ranked-matchup-georgia"
         },
         {
-          "title": "Buffalo Bills tap hometown heroes Goo Goo Dolls for Thanksgiving night halftime concert",
-          "link": "https://www.foxnews.com/outkick-sports/buffalo-bills-tap-hometown-heroes-goo-goo-dolls-thanksgiving-night-halftime-concert"
+          "title": "DEPROGRAMMED: Ex-Palestine supporter blasts 'insane' movement for 'cherry-picking' oppressors",
+          "link": "https://www.foxnews.com/media/deprogrammed-ex-palestine-supporter-blasts-insane-movement-cherry-picking-oppressors"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-31T05:05:58.496Z"
+      "updatedAt": "2026-10-31T12:02:18.503Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -89,36 +89,44 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-31T05:05:58.802Z"
+      "updatedAt": "2026-10-31T12:02:18.894Z"
     },
     "The Hill": {
       "items": [
         {
+          "title": "5 races that will tell the story of the midterms",
+          "link": "https://thehill.com/homenews/analysis/6185594-midterm-elections-defining-races/"
+        },
+        {
+          "title": "Home heating costs threaten to chill GOP vote in key Senate races",
+          "link": "https://thehill.com/homenews/campaign/6183400-senate-rising-home-heating-costs/"
+        },
+        {
+          "title": "New autism study complicates Trump administration’s search for cause",
+          "link": "https://thehill.com/policy/healthcare/6184086-maternal-health-autism-study/"
+        },
+        {
+          "title": "Blackburn’s move to governor leaves Hegseth with potential parachute",
+          "link": "https://thehill.com/policy/defense/6185793-pete-hegseth-blackburn-tennessee-senate-seat/"
+        },
+        {
           "title": "Judge blocks DOJ from threatening election officials over noncitizen voting claims",
           "link": "https://thehill.com/regulation/court-battles/6185891-judge-stops-trump-election-threats/"
-        },
-        {
-          "title": "Health insurance plan costs on Healthcare.gov to rise by double digits in 2027",
-          "link": "https://thehill.com/policy/healthcare/6185863-obamacare-premiums-set-double-2027-analysis/"
-        },
-        {
-          "title": "Ukraine gets approval for Patriot missile sale",
-          "link": "https://thehill.com/newsletters/defense-national-security/6185817-us-approves-ukraine-patriot-missiles/"
-        },
-        {
-          "title": "Trump says Iran war will end 'soon'",
-          "link": "https://thehill.com/newsletters/defense-national-security/6185808-trump-iran-war-ending-soon/"
-        },
-        {
-          "title": "RNC chair predicts GOP Senate wins in Alaska, Texas, 3 other battlegrounds",
-          "link": "https://thehill.com/homenews/campaign/6185743-rnc-chair-predicts-midterm-wins/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-31T05:05:59.555Z"
+      "updatedAt": "2026-10-31T12:02:19.395Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "Seabirds racing home over the ocean can get jet-lagged",
+          "link": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/"
+        },
+        {
+          "title": "The FDA wants to pull its approval of a drug. It’s not so easy.",
+          "link": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/"
+        },
         {
           "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
           "link": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/"
@@ -130,21 +138,21 @@
         {
           "title": "Oh captain, our captain: Ars staff remembers Patrick Stewart",
           "link": "https://arstechnica.com/culture/2026/10/oh-captain-our-captain-ars-staff-remembers-patrick-stewart/"
-        },
-        {
-          "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
-          "link": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/"
-        },
-        {
-          "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
-          "link": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-31T05:05:59.654Z"
+      "updatedAt": "2026-10-31T12:02:19.564Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "Touchscreens everywhere!",
+          "link": "https://www.theverge.com/tech/1023569/ipad-mini-alexa-photo-frame-readwise-installer"
+        },
+        {
+          "title": "Here’s why you can&#8217;t shake those unhinged political texts",
+          "link": "https://www.theverge.com/policy/1023899/political-texts-midterm-elections"
+        },
         {
           "title": "Apple Intelligence is finally coming to China with iOS 27.3",
           "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3"
@@ -156,28 +164,20 @@
         {
           "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers"
-        },
-        {
-          "title": "The biggest names in AI are backing a new way to opt out of scraping",
-          "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out"
-        },
-        {
-          "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
-          "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-31T05:05:59.739Z"
+      "updatedAt": "2026-10-31T12:02:19.714Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "US approves sale of 500 Patriot missiles to Ukraine",
-          "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss"
+          "title": "Evacuated Ukrainians from Russian-occupied Oleshky arrive in Belarus",
+          "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-          "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss"
+          "title": "US approves sale of 500 Patriot missiles to Ukraine",
+          "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
@@ -188,34 +188,30 @@
           "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
-          "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss"
+          "title": "Spain train disaster clouds Sánchez chances of re-election",
+          "link": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+          "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Global nature talks reach deal but money remains an issue",
           "link": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
-          "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-31T05:05:59.860Z"
+      "updatedAt": "2026-10-31T12:02:19.823Z"
     },
     "BBC News": {
       "items": [
-        {
-          "title": "US approves sale of 500 Patriot missiles to Ukraine",
-          "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss"
-        },
         {
           "title": "Burnham 'open' to calls for slavery apology but not reparations",
           "link": "https://www.bbc.co.uk/news/articles/c5398239je88o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-          "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss"
+          "title": "Evacuated Ukrainians from Russian-occupied Oleshky arrive in Belarus",
+          "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
@@ -226,38 +222,42 @@
           "link": "https://www.bbc.co.uk/news/articles/cw4g17z11l45o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Police deployed during stand-off over control of top Poland court",
-          "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss"
+          "title": "Watch: Traitor or faithful? Celebrities reveal their allegiances",
+          "link": "https://www.bbc.co.uk/news/videos/cmeq3ppg7wrno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Mahmood expected to announce changes to rules around indefinite leave to remain",
+          "link": "https://www.bbc.co.uk/news/articles/cm62yxxd992eo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-31T05:05:59.976Z"
+      "updatedAt": "2026-10-31T12:02:19.981Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "Obamacare Policies Hit Again With Steep Premium Increases for 2027",
-          "link": "https://www.nytimes.com/2026/10/30/business/obamacare-health-insurance-rates.html"
+          "title": "How Trump Is Dismantling America’s Scientific Research Machine",
+          "link": "https://www.nytimes.com/2026/10/31/climate/how-trump-is-dismantling-americas-scientific-research-machine.html"
         },
         {
-          "title": "El-Sayed Clashes With Former Primary Rival Who Demanded His Apology",
-          "link": "https://www.nytimes.com/2026/10/30/us/politics/el-sayed-stevens-michigan-senate-event.html"
+          "title": "Trump and GOP Close Midterms With Ugly Personal Attacks",
+          "link": "https://www.nytimes.com/2026/10/31/us/politics/trump-republicans-personal-attacks-midterms.html"
         },
         {
-          "title": "Polymarket and Kalshi Face a Major Accuracy Test: The Midterms",
-          "link": "https://www.nytimes.com/2026/10/30/technology/polymarket-kalshi-midterm-elections.html"
+          "title": "Beware of Election Night Mirages",
+          "link": "https://www.nytimes.com/video/us/elections/100000011224072/beware-of-election-night-mirages.html"
         },
         {
-          "title": "Binance’s $6.3 Billion Hack Is Just the Start of a Risky New Era",
-          "link": "https://www.nytimes.com/2026/10/30/technology/binance-hack-ai-north-korea.html"
+          "title": "Why Haley Stevens Can’t Stop Talking About Abdul El-Sayed",
+          "link": "https://www.nytimes.com/2026/10/31/us/haley-stevens-abdul-el-sayed.html"
         },
         {
-          "title": "Binance Was Hacked. What Protections Exist for Crypto Customers?",
-          "link": "https://www.nytimes.com/2026/10/30/business/binances-hack-customer-protections.html"
+          "title": "Pete Ricketts Leads Dan Osborn in Nebraska Senate Race, Poll Finds",
+          "link": "https://www.nytimes.com/2026/10/31/us/politics/nebraska-senate-poll.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-31T05:06:00.105Z"
+      "updatedAt": "2026-10-31T12:02:20.232Z"
     }
   },
   "indices": {
@@ -284,8 +284,8 @@
       },
       {
         "name": "Bitcoin",
-        "price": 77097.26,
-        "pct": -4.588597647573652
+        "price": 77422.54,
+        "pct": -4.186048698918444
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-10-31T05:06:00.331Z"
+    "updatedAt": "2026-10-31T12:02:20.493Z"
   }
 }
