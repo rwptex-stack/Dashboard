@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-01T00:52:51.826Z",
+  "fetchedAt": "2026-11-01T07:16:57.867Z",
   "feeds": {
     "MarketWatch": {
       "items": [
@@ -29,37 +29,37 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-01T00:52:50.037Z"
+      "updatedAt": "2026-11-01T07:16:56.989Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Patriots lose AJ Brown to injury again, rule out other offensive players ahead of matchup with division rival",
-          "link": "https://www.foxnews.com/outkick-sports/patriots-lose-aj-brown-injury-rule-out-offensive-players-division-rival"
+          "title": "Ohio State's national title hopes are rightfully fading after USC delivers reality check in shocking upset",
+          "link": "https://www.foxnews.com/outkick-sports/ohio-state-national-title-hopes-rightfully-fading-usc-delivers-reality-check-shocking-upset"
         },
         {
-          "title": "Ricki Lake says Rosie O'Donnell was 'judgy' about her facelift then got one herself after weight loss",
-          "link": "https://www.foxnews.com/entertainment/ricki-lake-says-rosie-odonnell-judgy-facelift-got-one-herself-after-weight-loss"
+          "title": "Bill Belichick's UNC Tar Heels nearly upset top-ranked Miami before costly strip-sack",
+          "link": "https://www.foxnews.com/outkick-sports/bill-belichick-unc-tar-heels-nearly-upset-top-ranked-miami-costly-strip-sack"
         },
         {
-          "title": "Not even a chance at free tuition could get Maryland students in the seats for football Saturday",
-          "link": "https://www.foxnews.com/outkick-sports/not-even-chance-free-tuition-could-get-maryland-students-seats-football-saturday"
+          "title": "BYU survives unranked Arizona State's second-half rally, stays unbeaten at home",
+          "link": "https://www.foxnews.com/outkick-sports/byu-survives-unranked-arizona-state-second-half-rally-stays-unbeaten-home"
         },
         {
-          "title": "Two men die after suspected electrocution at hotel pool as rescue effort injures others",
-          "link": "https://www.foxnews.com/travel/two-men-die-after-suspected-electrocution-hotel-pool-rescue-effort-injures-others"
+          "title": "Angel Reese, Atlanta Dream fall short in Game 7 as Golden State Valkyries win first WNBA championship",
+          "link": "https://www.foxnews.com/outkick-sports/angel-reese-atlanta-dream-fall-short-game-7-golden-state-valkyries-win-first-wnba-championship"
         },
         {
-          "title": "Colorado Buffaloes fans in Halloween costumes rush field, tear down goalposts after OT win snaps losing skid",
-          "link": "https://www.foxnews.com/outkick-sports/colorado-buffaloes-fans-halloween-costumes-rush-field-tear-down-goalposts-ot-win-snaps-losing-skid"
+          "title": "Paul Skenes and Livvy Dunne's Halloween costume will enrage anyone tired of rushing through holidays",
+          "link": "https://www.foxnews.com/outkick-sports/paul-skenes-livvy-dunne-halloween-costume-enrage-anyone-tired-rushing-holidays"
         },
         {
-          "title": "Good luck, SEC: Auburn awoke a monster in Athens, and Florida pays the price in Georgia's cocktail beatdown",
-          "link": "https://www.foxnews.com/outkick-sports/good-luck-sec-auburn-awoke-monster-athens-florida-pays-price-georgia-cocktail-beatdown"
+          "title": "NYC woman critically injured after being stabbed multiple times while jogging along Brooklyn waterfront",
+          "link": "https://www.foxnews.com/us/nyc-woman-critically-injured-stabbed-multiple-times-jogging-brooklyn-waterfront"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-01T00:52:50.183Z"
+      "updatedAt": "2026-11-01T07:16:57.134Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -89,7 +89,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-01T00:52:50.298Z"
+      "updatedAt": "2026-11-01T07:16:57.273Z"
     },
     "The Hill": {
       "items": [
@@ -115,7 +115,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-01T00:52:51.068Z"
+      "updatedAt": "2026-11-01T07:16:57.471Z"
     },
     "Ars Technica": {
       "items": [
@@ -141,7 +141,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-01T00:52:51.157Z"
+      "updatedAt": "2026-11-01T07:16:57.514Z"
     },
     "The Verge": {
       "items": [
@@ -167,10 +167,14 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-01T00:52:51.260Z"
+      "updatedAt": "2026-11-01T07:16:57.603Z"
     },
     "BBC World": {
       "items": [
+        {
+          "title": "Shops looted as German cost of living protests turn violent",
+          "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
           "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss"
@@ -178,10 +182,6 @@
         {
           "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
           "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Thousands demonstrate in Paris as protests spread across Europe",
-          "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
@@ -192,8 +192,8 @@
           "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
-          "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss"
+          "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
+          "link": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Ethiopian PM puts ministers through military training",
@@ -201,43 +201,47 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-01T00:52:51.432Z"
+      "updatedAt": "2026-11-01T07:16:57.630Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-          "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss"
+          "title": "Shops looted as German cost of living protests turn violent",
+          "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Laura Kuenssberg: Healey risks breaking minimum wage promise for younger workers",
           "link": "https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "King to address slavery during Commonwealth speech in Antigua on final leg of Caribbean tour",
-          "link": "https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss"
+          "title": "Emotional reunions for Oleshky evacuees after years in Russia-occupied city",
+          "link": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Thousands demonstrate in Paris as protests spread across Europe",
-          "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss"
+          "title": "Democrats are used to heartbreak in Texas - could Talarico turn the tide?",
+          "link": "https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Reeves says UK's future should be inside the EU",
+          "link": "https://www.bbc.co.uk/news/articles/c62l4yz0eexpo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Who are the real winners of Celebrity Traitors?",
           "link": "https://www.bbc.co.uk/news/articles/cmx2qg0nezrgo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-          "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-01T00:52:51.456Z"
+      "updatedAt": "2026-11-01T07:16:57.639Z"
     },
     "NY Times": {
       "items": [
         {
           "title": "Voters Usually Ignore Corruption as an Issue. It Now Has Their Attention.",
           "link": "https://www.nytimes.com/2026/10/31/us/politics/corruption-midterms.html"
+        },
+        {
+          "title": "El-Sayed’s Campaign Doesn’t Want Haley Stevens at His Events",
+          "link": "https://www.nytimes.com/2026/10/31/us/elections/el-sayed-haley-stevens-democrats-tension.html"
         },
         {
           "title": "As Midterms Near, Top Law Firms That Capitulated to Trump Are on the Sidelines",
@@ -250,14 +254,10 @@
         {
           "title": "How Trump Is Dismantling America’s Scientific Research Machine",
           "link": "https://www.nytimes.com/2026/10/31/science/how-trump-is-dismantling-americas-scientific-research-machine.html"
-        },
-        {
-          "title": "How Binance’s $6.3 Billion Hack Went Down",
-          "link": "https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-01T00:52:51.649Z"
+      "updatedAt": "2026-11-01T07:16:57.732Z"
     }
   },
   "indices": {
@@ -280,12 +280,12 @@
       {
         "name": "Gold",
         "price": 3898.9,
-        "pct": -3.4543383518225035
+        "pct": -4.312079713346091
       },
       {
         "name": "Bitcoin",
-        "price": 77554.76,
-        "pct": -4.568643148819508
+        "price": 77699.99,
+        "pct": -4.389937213097471
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-11-01T00:52:51.826Z"
+    "updatedAt": "2026-11-01T07:16:57.867Z"
   }
 }
