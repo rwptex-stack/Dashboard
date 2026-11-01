@@ -1,8 +1,12 @@
 {
-  "fetchedAt": "2026-11-01T19:27:54.610Z",
+  "fetchedAt": "2026-11-01T23:27:25.596Z",
   "feeds": {
     "MarketWatch": {
       "items": [
+        {
+          "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
+          "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories"
+        },
         {
           "title": "‘Showy jewelry and fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend it all?",
           "link": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories"
@@ -22,100 +26,96 @@
         {
           "title": "Apple’s new earnings era begins at a critical time for Big Tech",
           "link": "https://www.marketwatch.com/story/apples-new-earnings-era-begins-at-a-critical-time-for-big-tech-2236a44e?mod=mw_rss_topstories"
-        },
-        {
-          "title": "This is the biggest threat to the AI-powered bull market",
-          "link": "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-01T19:27:52.999Z"
+      "updatedAt": "2026-11-01T23:27:23.580Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Holiday airfare hits 10-year high as Thanksgiving and Christmas travel costs soar",
-          "link": "https://www.foxnews.com/travel/holiday-airfare-hits-10-year-high-thanksgiving-christmas-travel-costs-soar"
+          "title": "DOJ set to appeal ruling in Alaska Senate race dispute over ‘Decoy Dan’",
+          "link": "https://www.foxnews.com/politics/doj-set-appeal-ruling-alaska-senate-race-dispute-over-decoy-dan"
         },
         {
-          "title": "DHS official vows to prosecute and deport noncitizens caught illegally voting ahead of midterms",
-          "link": "https://www.foxnews.com/media/dhs-official-vows-to-prosecute-deport-noncitizens-caught-illegally-voting-ahead-midterms"
+          "title": "Jenny McCarthy living in a tent while battling ‘paranoid’ fears after mold poisoning diagnosis",
+          "link": "https://www.foxnews.com/entertainment/jenny-mccarthy-living-tent-battling-paranoid-fears-mold-poisoning-diagnosis"
         },
         {
-          "title": "Miranda Lambert says fan told her ‘I did shoot him’ after being inspired by ‘Gunpowder & Lead’",
-          "link": "https://www.foxnews.com/entertainment/miranda-lambert-says-fan-told-her-i-did-shoot-him-after-being-inspired-gunpowder-lead"
+          "title": "Martha Stewart addresses backlash after dressing as homeless person for Halloween",
+          "link": "https://www.foxnews.com/entertainment/martha-stewart-addresses-backlash-after-dressing-homeless-person-halloween"
         },
         {
-          "title": "Ravens quarterback Lamar Jackson injured once again and out of the game after only one play against Bills",
-          "link": "https://www.foxnews.com/outkick-sports/ravens-quarterback-lamar-jackson-injured-once-again-out-game-after-one-play-against-bills"
+          "title": "Savannah Guthrie makes heartbreaking plea in mom's disappearance after finding old drawing",
+          "link": "https://www.foxnews.com/us/savannah-guthrie-makes-heartbreaking-plea-moms-disappearance-after-finding-old-drawing"
         },
         {
-          "title": "Heidi Klum's severed hand and Lisa Rinna's Kylie Jenner impersonation lead Hollywood's best Halloween looks",
-          "link": "https://www.foxnews.com/entertainment/heidi-klums-severed-hand-lisa-rinnas-kylie-jenner-impersonation-lead-hollywoods-best-halloween-looks"
+          "title": "Tears from teammates as immobilized Detroit Lions linebacker Jack Campbell carted off field and hospitalized",
+          "link": "https://www.foxnews.com/outkick-sports/tears-teammates-immobilized-detroit-lions-linebacker-jack-campbell-carted-off-field-hospitalized"
         },
         {
-          "title": "Women's sex drive treatment linked to higher rates of heart attack and stroke",
-          "link": "https://www.foxnews.com/health/womens-sex-drive-treatment-linked-higher-rates-heart-attack-stroke"
+          "title": "Cruise passengers criticize new program identifying early tippers on board",
+          "link": "https://www.foxnews.com/travel/cruise-passengers-criticize-new-program-identifying-early-tippers-board"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-01T19:27:53.151Z"
+      "updatedAt": "2026-11-01T23:27:23.794Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "A Blue Wave or a Blue Flood Next Tuesday?",
-          "link": "https://www.realclearpolitics.com/2026/11/01/a_blue_wave_or_a_blue_flood_next_tuesday_716236.html"
+          "title": "In a Polarized Country, Dems Have a Tougher Path to Senate",
+          "link": "https://www.realclearpolitics.com/2026/11/01/in_a_polarized_country_dems_have_a_tougher_path_to_senate_716215.html"
         },
         {
-          "title": "Dems Catering To Extremists Another Victory for Far-Left",
-          "link": "https://www.realclearpolitics.com/2026/11/01/dems_catering_to_extremists_another_victory_for_far-left_716223.html"
+          "title": "Haley Stevens's Turn on El-Sayed Deepens Dems' Civil War",
+          "link": "https://www.realclearpolitics.com/2026/11/01/haley_stevenss_turn_on_el-sayed_deepens_dems_civil_war_716257.html"
         },
         {
-          "title": "Gen Z Voters Feel Betrayed by Trump. Time To Show It",
-          "link": "https://www.realclearpolitics.com/2026/11/01/gen_z_voters_feel_betrayed_by_trump_time_to_show_it_716221.html"
+          "title": "Alaska Shenanigans Still Don't Justify the DOJ's Lawsuit",
+          "link": "https://www.realclearpolitics.com/2026/10/30/alaska_shenanigans_still_dont_justify_the_dojs_lawsuit_715923.html"
         },
         {
-          "title": "Democrats, Beware Fool's Gold of Midterm Success",
-          "link": "https://www.realclearpolitics.com/2026/10/29/democrats_beware_fools_gold_of_midterm_success_715913.html"
+          "title": "Secret Plan To Cheat Shows Peltola's Disdain for Alaskans",
+          "link": "https://www.realclearpolitics.com/video/2026/11/01/sen_dan_sullivan_secret_plan_to_cheat_with_second_sullivan_shows_democrats_disdain_for_alaskans.html"
         },
         {
-          "title": "Voters To Weigh In on Protecting Girls' Sports in Blue States",
-          "link": "https://www.realclearpolitics.com/articles/2026/11/01/voters_to_weigh_in_on_protecting_girls_sports_in_blue_states__154643.html"
+          "title": "The Trump Show on the Verge of Cancellation",
+          "link": "https://www.realclearpolitics.com/2026/11/01/the_trump_show_on_the_verge_of_cancellation_716241.html"
         },
         {
-          "title": "Susan Collins Is Always Keeping Score",
-          "link": "https://www.realclearpolitics.com/2026/11/01/susan_collins_is_always_keeping_score_716177.html"
+          "title": "Why Your Midterm Vote Could Decide America's Future",
+          "link": "https://www.realclearpolitics.com/2026/11/01/why_your_midterm_vote_could_decide_americas_future_716244.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-01T19:27:53.328Z"
+      "updatedAt": "2026-11-01T23:27:23.975Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Stevens defends surprise Rogers endorsement: 'I'm not turning my back on Democrats'",
-          "link": "https://thehill.com/homenews/campaign/6187043-stevens-defends-rogers-endorsement/"
+          "title": "Khanna says he'd stop funding further US military actions in Iran",
+          "link": "https://thehill.com/homenews/house/6187467-khanna-opposes-iran-war-funding/"
         },
         {
-          "title": "Trump says he'll become 'Mr. Veto' if Democrats take Congress",
-          "link": "https://thehill.com/homenews/administration/6186898-trump-plans-veto-strategy/"
+          "title": "Trump says he would ‘love to have’ Haley Stevens join Republican Party",
+          "link": "https://thehill.com/homenews/administration/6187354-trump-haley-stevens-join-republican-party/"
         },
         {
-          "title": "Stevens staff resign over Rogers endorsement",
-          "link": "https://thehill.com/homenews/campaign/6187032-stevens-staffers-resign-rogers-endorsement/"
+          "title": "Preschool case puts LGBTQ and religious rights at odds in Supreme Court",
+          "link": "https://thehill.com/regulation/court-battles/6185430-supreme-court-colorado-religious-liberty-lgbtq-rights/"
         },
         {
-          "title": "Comer says there’s a ‘big possibility’ Peltola won’t be seated if she wins",
-          "link": "https://thehill.com/homenews/house/6186857-comer-peltola-alaska-senate-investigation/"
+          "title": "This Week on the Hill: Election Day is finally here",
+          "link": "https://thehill.com/newsletters/this-week-on-the-hill/6185603-midterm-election-house-senate-control/"
         },
         {
-          "title": "Judge tosses DOJ’s lawsuit over Alaska Senate race",
-          "link": "https://thehill.com/regulation/court-battles/6186982-judge-dismisses-trump-alaska-lawsuit/"
+          "title": "Bacon thinks there will be 'debate' about MAGA future if GOP does poorly in midterms",
+          "link": "https://thehill.com/homenews/house/6187358-don-bacon-gop-maga-debate/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-01T19:27:53.902Z"
+      "updatedAt": "2026-11-01T23:27:24.673Z"
     },
     "Ars Technica": {
       "items": [
@@ -141,10 +141,18 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-01T19:27:54.039Z"
+      "updatedAt": "2026-11-01T23:27:24.828Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "NASA hopes the commercial space industry can help save Hubble",
+          "link": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble"
+        },
+        {
+          "title": "Flock keeps ignoring requests to cancel its contracts",
+          "link": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts"
+        },
         {
           "title": "Apple’s HomeView could add security camera features",
           "link": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features"
@@ -156,24 +164,16 @@
         {
           "title": "North Korea linked to massive Binance crypto heist",
           "link": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist"
-        },
-        {
-          "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
-          "link": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker"
-        },
-        {
-          "title": "New Zelda and GTA represent a games industry that no longer exists",
-          "link": "https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-01T19:27:54.160Z"
+      "updatedAt": "2026-11-01T23:27:24.989Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Shops looted as German cost-of-living protests turn violent",
-          "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
+          "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+          "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
@@ -184,30 +184,30 @@
           "link": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss"
         },
         {
+          "title": "Shops looted as German cost-of-living protests turn violent",
+          "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Armed police start patrols in Sydney after Bondi Beach attack",
           "link": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
+          "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
           "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "India's opposition holds mega rally seeking election chief's resignation",
           "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-          "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-01T19:27:54.410Z"
+      "updatedAt": "2026-11-01T23:27:25.085Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Shops looted as German cost-of-living protests turn violent",
-          "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
+          "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+          "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Five teenagers stabbed at Halloween party",
@@ -226,12 +226,12 @@
           "link": "https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "University of Cambridge scientist among those who died in Spanish train crash",
-          "link": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss"
+          "title": "Antonelli becomes world champion as Verstappen wins in Mexico",
+          "link": "https://www.bbc.co.uk/sport/formula1/articles/cv62y1e6wly6o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-01T19:27:54.446Z"
+      "updatedAt": "2026-11-01T23:27:25.243Z"
     },
     "NY Times": {
       "items": [
@@ -240,16 +240,16 @@
           "link": "https://www.nytimes.com/2026/11/01/us/alaska-senate-election-lawsuit.html"
         },
         {
-          "title": "This Republican Wants Voters to Consider a Post-Trump World",
-          "link": "https://www.nytimes.com/2026/11/01/us/politics/john-sununu-new-hampshire-senate-race.html"
-        },
-        {
-          "title": "Stylish Looks From the New York City Marathon",
-          "link": "https://www.nytimes.com/2026/11/01/style/nyc-marathon-fashion-outfits.html"
+          "title": "On the Ballot in California: The Prospects for a National Wealth Tax",
+          "link": "https://www.nytimes.com/2026/11/01/us/on-the-ballot-in-california-the-prospects-for-a-national-wealth-tax.html"
         },
         {
           "title": "Here Are Some of the Celebrities Running in the NYC Marathon",
           "link": "https://www.nytimes.com/2026/11/01/nyregion/new-york-city-marathon-celebrities-running.html"
+        },
+        {
+          "title": "Senator Chris Murphy Is ‘Awake and Alert’ After Suffering a Stroke",
+          "link": "https://www.nytimes.com/2026/11/01/us/politics/chris-murphy-stroke.html"
         },
         {
           "title": "Gaffes and Men’s Bodies: Analysis of Trump’s Speeches at Age 80",
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-01T19:27:54.510Z"
+      "updatedAt": "2026-11-01T23:27:25.392Z"
     }
   },
   "indices": {
@@ -279,13 +279,13 @@
       },
       {
         "name": "Gold",
-        "price": 3898.9,
-        "pct": -4.312079713346091
+        "price": 3901.8,
+        "pct": -4.240907082903837
       },
       {
         "name": "Bitcoin",
-        "price": 77666.45,
-        "pct": -4.431208280260717
+        "price": 77967.53,
+        "pct": -4.060728468051207
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-11-01T19:27:54.610Z"
+    "updatedAt": "2026-11-01T23:27:25.596Z"
   }
 }
