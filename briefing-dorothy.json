@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-11-01T19:56:21.575Z",
+  "fetchedAt": "2026-11-01T23:15:09.341Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Holiday airfare hits 10-year high as Thanksgiving and Christmas travel costs soar",
-          "link": "https://www.foxnews.com/travel/holiday-airfare-hits-10-year-high-thanksgiving-christmas-travel-costs-soar"
+          "title": "Jenny McCarthy living in a tent while battling ‘paranoid’ fears after mold poisoning diagnosis",
+          "link": "https://www.foxnews.com/entertainment/jenny-mccarthy-living-tent-battling-paranoid-fears-mold-poisoning-diagnosis"
         },
         {
-          "title": "DHS official vows to prosecute and deport noncitizens caught illegally voting ahead of midterms",
-          "link": "https://www.foxnews.com/media/dhs-official-vows-to-prosecute-deport-noncitizens-caught-illegally-voting-ahead-midterms"
+          "title": "Martha Stewart addresses backlash after dressing as homeless person for Halloween",
+          "link": "https://www.foxnews.com/entertainment/martha-stewart-addresses-backlash-after-dressing-homeless-person-halloween"
         },
         {
-          "title": "Miranda Lambert says fan told her ‘I did shoot him’ after being inspired by ‘Gunpowder & Lead’",
-          "link": "https://www.foxnews.com/entertainment/miranda-lambert-says-fan-told-her-i-did-shoot-him-after-being-inspired-gunpowder-lead"
+          "title": "Savannah Guthrie makes heartbreaking plea in mom's disappearance after finding old drawing",
+          "link": "https://www.foxnews.com/us/savannah-guthrie-makes-heartbreaking-plea-moms-disappearance-after-finding-old-drawing"
         },
         {
-          "title": "Ravens quarterback Lamar Jackson injured once again and out of the game after only one play against Bills",
-          "link": "https://www.foxnews.com/outkick-sports/ravens-quarterback-lamar-jackson-injured-once-again-out-game-after-one-play-against-bills"
+          "title": "Tears from teammates as immobilized Detroit Lions linebacker Jack Campbell carted off field and hospitalized",
+          "link": "https://www.foxnews.com/outkick-sports/tears-teammates-immobilized-detroit-lions-linebacker-jack-campbell-carted-off-field-hospitalized"
         },
         {
-          "title": "Heidi Klum's severed hand and Lisa Rinna's Kylie Jenner impersonation lead Hollywood's best Halloween looks",
-          "link": "https://www.foxnews.com/entertainment/heidi-klums-severed-hand-lisa-rinnas-kylie-jenner-impersonation-lead-hollywoods-best-halloween-looks"
+          "title": "Cruise passengers criticize new program identifying early tippers on board",
+          "link": "https://www.foxnews.com/travel/cruise-passengers-criticize-new-program-identifying-early-tippers-board"
         },
         {
-          "title": "Women's sex drive treatment linked to higher rates of heart attack and stroke",
-          "link": "https://www.foxnews.com/health/womens-sex-drive-treatment-linked-higher-rates-heart-attack-stroke"
+          "title": "BREAKING: Florida State fires Mike Norvell after fan revolt, Clemson loss spark decision to pay massive buyout",
+          "link": "https://www.foxnews.com/outkick-sports/florida-state-fires-mike-norvell-fan-revolt-clemson-loss-spark-decision-pay-massive-buyout"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-01T19:56:17.823Z"
+      "updatedAt": "2026-11-01T23:15:07.238Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,33 +59,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-01T19:56:18.201Z"
+      "updatedAt": "2026-11-01T23:15:07.357Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Schumer calls Stevens's Rogers endorsement 'a despicable betrayal'",
-          "link": "https://thehill.com/homenews/campaign/6187117-schumer-rips-stevens-rogers-endorsement/"
+          "title": "Khanna says he'd stop funding further US military actions in Iran",
+          "link": "https://thehill.com/homenews/house/6187467-khanna-opposes-iran-war-funding/"
         },
         {
-          "title": "DNC chair defends El-Sayed, Peltola as Democrats brace for post-election legal fights",
-          "link": "https://thehill.com/homenews/campaign/6187152-dnc-defends-michigan-alaska-candidates/"
+          "title": "Trump says he would ‘love to have’ Haley Stevens join Republican Party",
+          "link": "https://thehill.com/homenews/administration/6187354-trump-haley-stevens-join-republican-party/"
         },
         {
-          "title": "El-Sayed brushes off late Stevens endorsement of Rogers",
-          "link": "https://thehill.com/homenews/campaign/6187116-el-sayed-dismisses-stevens-rogers-endorsement/"
+          "title": "Preschool case puts LGBTQ and religious rights at odds in Supreme Court",
+          "link": "https://thehill.com/regulation/court-battles/6185430-supreme-court-colorado-religious-liberty-lgbtq-rights/"
         },
         {
-          "title": "Stevens defends surprise Rogers endorsement: 'I'm not turning my back on Democrats'",
-          "link": "https://thehill.com/homenews/campaign/6187043-stevens-defends-rogers-endorsement/"
+          "title": "This Week on the Hill: Election Day is finally here",
+          "link": "https://thehill.com/newsletters/this-week-on-the-hill/6185603-midterm-election-house-senate-control/"
         },
         {
-          "title": "Trump says he'll become 'Mr. Veto' if Democrats take Congress",
-          "link": "https://thehill.com/homenews/administration/6186898-trump-plans-veto-strategy/"
+          "title": "Bacon thinks there will be 'debate' about MAGA future if GOP does poorly in midterms",
+          "link": "https://thehill.com/homenews/house/6187358-don-bacon-gop-maga-debate/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-01T19:56:18.493Z"
+      "updatedAt": "2026-11-01T23:15:07.963Z"
     },
     "Ars Technica": {
       "items": [
@@ -111,10 +111,18 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-01T19:56:18.977Z"
+      "updatedAt": "2026-11-01T23:15:08.064Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "NASA hopes the commercial space industry can help save Hubble",
+          "link": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble"
+        },
+        {
+          "title": "Flock keeps ignoring requests to cancel its contracts",
+          "link": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts"
+        },
         {
           "title": "Apple’s HomeView could add security camera features",
           "link": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features"
@@ -126,23 +134,15 @@
         {
           "title": "North Korea linked to massive Binance crypto heist",
           "link": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist"
-        },
-        {
-          "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
-          "link": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker"
-        },
-        {
-          "title": "New Zelda and GTA represent a games industry that no longer exists",
-          "link": "https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-01T19:56:19.095Z"
+      "updatedAt": "2026-11-01T23:15:08.183Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end within hours",
+          "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
           "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss"
         },
         {
@@ -162,7 +162,7 @@
           "link": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
+          "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
           "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss"
         },
         {
@@ -171,13 +171,13 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-01T19:56:19.225Z"
+      "updatedAt": "2026-11-01T23:15:08.315Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Shops looted as German cost-of-living protests turn violent",
-          "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
+          "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+          "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Five teenagers stabbed at Halloween party",
@@ -196,12 +196,12 @@
           "link": "https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Tributes to 'inspirational' Olympian Ciara Mageean after death at 34",
-          "link": "https://www.bbc.co.uk/news/articles/cj3vqy1g3eygo?at_medium=RSS&at_campaign=rss"
+          "title": "Antonelli becomes world champion as Verstappen wins in Mexico",
+          "link": "https://www.bbc.co.uk/sport/formula1/articles/cv62y1e6wly6o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-01T19:56:19.422Z"
+      "updatedAt": "2026-11-01T23:15:08.348Z"
     },
     "NY Times": {
       "items": [
@@ -210,16 +210,16 @@
           "link": "https://www.nytimes.com/2026/11/01/us/alaska-senate-election-lawsuit.html"
         },
         {
-          "title": "This Republican Wants Voters to Consider a Post-Trump World",
-          "link": "https://www.nytimes.com/2026/11/01/us/politics/john-sununu-new-hampshire-senate-race.html"
-        },
-        {
-          "title": "Stylish Looks From the New York City Marathon",
-          "link": "https://www.nytimes.com/2026/11/01/style/nyc-marathon-fashion-outfits.html"
+          "title": "On the Ballot in California: The Prospects for a National Wealth Tax",
+          "link": "https://www.nytimes.com/2026/11/01/us/on-the-ballot-in-california-the-prospects-for-a-national-wealth-tax.html"
         },
         {
           "title": "Here Are Some of the Celebrities Running in the NYC Marathon",
           "link": "https://www.nytimes.com/2026/11/01/nyregion/new-york-city-marathon-celebrities-running.html"
+        },
+        {
+          "title": "Senator Chris Murphy Is ‘Awake and Alert’ After Suffering a Stroke",
+          "link": "https://www.nytimes.com/2026/11/01/us/politics/chris-murphy-stroke.html"
         },
         {
           "title": "Gaffes and Men’s Bodies: Analysis of Trump’s Speeches at Age 80",
@@ -227,7 +227,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-01T19:56:19.606Z"
+      "updatedAt": "2026-11-01T23:15:08.405Z"
     },
     "ARTNews": {
       "items": [
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-01T19:56:19.874Z"
+      "updatedAt": "2026-11-01T23:15:08.517Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-01T19:56:20.031Z"
+      "updatedAt": "2026-11-01T23:15:08.735Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-01T19:56:21.440Z"
+      "updatedAt": "2026-11-01T23:15:09.286Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-01T19:56:21.575Z"
+      "updatedAt": "2026-11-01T23:15:09.341Z"
     }
   }
 }
