@@ -1,8 +1,20 @@
 {
-  "fetchedAt": "2026-11-01T23:27:25.596Z",
+  "fetchedAt": "2026-11-02T05:34:18.722Z",
   "feeds": {
     "MarketWatch": {
       "items": [
+        {
+          "title": "Want to help your adult kids and grandkids? Give them money while you’re still alive.",
+          "link": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories"
+        },
+        {
+          "title": "This is the biggest threat to the AI-powered bull market",
+          "link": "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Apple’s new earnings era begins at a critical time for Big Tech",
+          "link": "https://www.marketwatch.com/story/apples-new-earnings-era-begins-at-a-critical-time-for-big-tech-2236a44e?mod=mw_rss_topstories"
+        },
         {
           "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
           "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories"
@@ -14,108 +26,96 @@
         {
           "title": "My father has Alzheimer’s and his caregiver is using his debit card for DoorDash. Do I intervene?",
           "link": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories"
-        },
-        {
-          "title": "‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?",
-          "link": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Grand Theft Callout: ‘GTA 6’ fans are missing work on the game’s release day because they ‘don’t want to wait’ anymore",
-          "link": "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Apple’s new earnings era begins at a critical time for Big Tech",
-          "link": "https://www.marketwatch.com/story/apples-new-earnings-era-begins-at-a-critical-time-for-big-tech-2236a44e?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-01T23:27:23.580Z"
+      "updatedAt": "2026-11-02T05:34:17.110Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "DOJ set to appeal ruling in Alaska Senate race dispute over ‘Decoy Dan’",
-          "link": "https://www.foxnews.com/politics/doj-set-appeal-ruling-alaska-senate-race-dispute-over-decoy-dan"
+          "title": "Philadelphia Eagles lose sixth straight as Washington Commanders score 27 unanswered points",
+          "link": "https://www.foxnews.com/outkick-sports/philadelphia-eagles-lose-sixth-straight-washington-commanders-score-27-unanswered-points"
         },
         {
-          "title": "Jenny McCarthy living in a tent while battling ‘paranoid’ fears after mold poisoning diagnosis",
-          "link": "https://www.foxnews.com/entertainment/jenny-mccarthy-living-tent-battling-paranoid-fears-mold-poisoning-diagnosis"
+          "title": "Collins accuses Schumer of pushing attack ads filled with 'outright lies' in tight Maine race",
+          "link": "https://www.foxnews.com/politics/collins-accuses-schumer-pushing-attack-ads-filled-outright-lies-tight-maine-race"
         },
         {
-          "title": "Martha Stewart addresses backlash after dressing as homeless person for Halloween",
-          "link": "https://www.foxnews.com/entertainment/martha-stewart-addresses-backlash-after-dressing-homeless-person-halloween"
+          "title": "Missing Utah teen Kylie Arellano found safe in Oregon after 500-day search",
+          "link": "https://www.foxnews.com/us/missing-utah-teen-kylie-arellano-found-safe-oregon-after-500-day-search"
         },
         {
-          "title": "Savannah Guthrie makes heartbreaking plea in mom's disappearance after finding old drawing",
-          "link": "https://www.foxnews.com/us/savannah-guthrie-makes-heartbreaking-plea-moms-disappearance-after-finding-old-drawing"
+          "title": "Chris Pratt went from living in a van to Hollywood stardom after chance encounter changed everything",
+          "link": "https://www.foxnews.com/entertainment/chris-pratt-went-from-living-van-hollywood-stardom-after-chance-encounter-changed-everything"
         },
         {
-          "title": "Tears from teammates as immobilized Detroit Lions linebacker Jack Campbell carted off field and hospitalized",
-          "link": "https://www.foxnews.com/outkick-sports/tears-teammates-immobilized-detroit-lions-linebacker-jack-campbell-carted-off-field-hospitalized"
+          "title": "Ukraine says air alert system hacked after false radiation warning in Kyiv",
+          "link": "https://www.foxnews.com/world/ukraine-air-alert-system-hacked-false-radiation-warning-kyiv"
         },
         {
-          "title": "Cruise passengers criticize new program identifying early tippers on board",
-          "link": "https://www.foxnews.com/travel/cruise-passengers-criticize-new-program-identifying-early-tippers-board"
+          "title": "Big 12 Conference admits officials got call wrong that benefited BYU Cougars in win over Arizona State",
+          "link": "https://www.foxnews.com/outkick-sports/big-12-conference-admits-officials-got-call-wrong-benefited-byu-cougars-win-arizona-state"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-01T23:27:23.794Z"
+      "updatedAt": "2026-11-02T05:34:17.307Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "In a Polarized Country, Dems Have a Tougher Path to Senate",
-          "link": "https://www.realclearpolitics.com/2026/11/01/in_a_polarized_country_dems_have_a_tougher_path_to_senate_716215.html"
+          "title": "Poll: Democrats Lead in Key States That Will Decide Senate",
+          "link": "https://www.realclearpolitics.com/2026/11/01/poll_democrats_lead_in_key_states_that_will_decide_senate_716271.html"
         },
         {
-          "title": "Haley Stevens's Turn on El-Sayed Deepens Dems' Civil War",
-          "link": "https://www.realclearpolitics.com/2026/11/01/haley_stevenss_turn_on_el-sayed_deepens_dems_civil_war_716257.html"
+          "title": "RCP: Closing Dem Momentum 'Ominous for Republicans'",
+          "link": "https://www.realclearpolitics.com/2026/11/01/rcp_closing_dem_momentum_ominous_for_republicans_716270.html"
         },
         {
-          "title": "Alaska Shenanigans Still Don't Justify the DOJ's Lawsuit",
-          "link": "https://www.realclearpolitics.com/2026/10/30/alaska_shenanigans_still_dont_justify_the_dojs_lawsuit_715923.html"
+          "title": "A Curmudgeon's Guide to the 2026 Election",
+          "link": "https://www.realclearpolitics.com/2026/11/01/a_curmudgeons_guide_to_the_2026_election_716265.html"
         },
         {
-          "title": "Secret Plan To Cheat Shows Peltola's Disdain for Alaskans",
-          "link": "https://www.realclearpolitics.com/video/2026/11/01/sen_dan_sullivan_secret_plan_to_cheat_with_second_sullivan_shows_democrats_disdain_for_alaskans.html"
+          "title": "Europe's Riots Are Bill Coming Due for Leftism, Globalism",
+          "link": "https://www.realclearpolitics.com/2026/11/01/europes_riots_are_bill_coming_due_for_leftism_globalism_715922.html"
         },
         {
-          "title": "The Trump Show on the Verge of Cancellation",
-          "link": "https://www.realclearpolitics.com/2026/11/01/the_trump_show_on_the_verge_of_cancellation_716241.html"
+          "title": "Sanders Leaving It All on Field in Final Days of Midterms",
+          "link": "https://www.realclearpolitics.com/2026/10/31/sanders_leaving_it_all_on_field_in_final_days_of_midterms_716004.html"
         },
         {
-          "title": "Why Your Midterm Vote Could Decide America's Future",
-          "link": "https://www.realclearpolitics.com/2026/11/01/why_your_midterm_vote_could_decide_americas_future_716244.html"
+          "title": "A Closing Argument for America on Election Eve",
+          "link": "https://www.realclearpolitics.com/articles/2026/11/02/a_closing_argument_for_america_on_election_eve_154637.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-01T23:27:23.975Z"
+      "updatedAt": "2026-11-02T05:34:17.487Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Khanna says he'd stop funding further US military actions in Iran",
-          "link": "https://thehill.com/homenews/house/6187467-khanna-opposes-iran-war-funding/"
+          "title": "Dingell says Stevens defending Rogers endorsement on CNN was 'one of the most painful interviews I've ever watched'",
+          "link": "https://thehill.com/homenews/6187789-debbie-dingell-says-stevens-defending-rogers-endorsement-on-cnn-painful-interview/"
         },
         {
-          "title": "Trump says he would ‘love to have’ Haley Stevens join Republican Party",
-          "link": "https://thehill.com/homenews/administration/6187354-trump-haley-stevens-join-republican-party/"
+          "title": "Stevens defends endorsing Rogers during tense CNN interview",
+          "link": "https://thehill.com/homenews/campaign/6187753-haley-stevens-defends-endorsing-mike-rogers/"
         },
         {
-          "title": "Preschool case puts LGBTQ and religious rights at odds in Supreme Court",
-          "link": "https://thehill.com/regulation/court-battles/6185430-supreme-court-colorado-religious-liberty-lgbtq-rights/"
+          "title": "Democrats edge out Republicans in 7 heated Senate races: NYT polls",
+          "link": "https://thehill.com/homenews/6187749-democrats-edge-out-gop-senate-poll/"
         },
         {
-          "title": "This Week on the Hill: Election Day is finally here",
-          "link": "https://thehill.com/newsletters/this-week-on-the-hill/6185603-midterm-election-house-senate-control/"
+          "title": "Newsom on possible Democrat 'tsunami' on Election Day: 'That's a word I haven't used lightly'",
+          "link": "https://thehill.com/homenews/campaign/6187619-gavin-newsom-predicts-democrat-tsunami-election-day/"
         },
         {
-          "title": "Bacon thinks there will be 'debate' about MAGA future if GOP does poorly in midterms",
-          "link": "https://thehill.com/homenews/house/6187358-don-bacon-gop-maga-debate/"
+          "title": "Democrats blast Stevens over Michigan 'betrayal'",
+          "link": "https://thehill.com/homenews/campaign/6187640-democrats-blast-stevens-rogers-endorsement-michigan/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-01T23:27:24.673Z"
+      "updatedAt": "2026-11-02T05:34:17.909Z"
     },
     "Ars Technica": {
       "items": [
@@ -141,7 +141,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-01T23:27:24.828Z"
+      "updatedAt": "2026-11-02T05:34:18.048Z"
     },
     "The Verge": {
       "items": [
@@ -167,63 +167,63 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-01T23:27:24.989Z"
+      "updatedAt": "2026-11-02T05:34:18.178Z"
     },
     "BBC World": {
-      "items": [
-        {
-          "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
-          "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
-          "link": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "University of Cambridge scientist among those who died in Spanish train crash",
-          "link": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Shops looted as German cost-of-living protests turn violent",
-          "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Armed police start patrols in Sydney after Bondi Beach attack",
-          "link": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
-          "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "India's opposition holds mega rally seeking election chief's resignation",
-          "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "ok": true,
-      "updatedAt": "2026-11-01T23:27:25.085Z"
-    },
-    "BBC News": {
       "items": [
         {
           "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
           "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss"
         },
         {
+          "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+          "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+          "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+          "link": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "University of Cambridge scientist among those who died in Spanish train crash",
+          "link": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Armed police start patrols in Sydney after Bondi Beach attack",
+          "link": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "ok": true,
+      "updatedAt": "2026-11-02T05:34:18.327Z"
+    },
+    "BBC News": {
+      "items": [
+        {
           "title": "Five teenagers stabbed at Halloween party",
           "link": "https://www.bbc.co.uk/news/articles/c6n4ed1l2pn1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "'Like a missile coming down' - Nine killed in fiery Florida jet crash",
+          "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Thousands of jobs at Virgin Media O2 to be cut",
           "link": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Nowak family tell of 'unbelievable pain' of seeing footage of dying son handcuffed",
-          "link": "https://www.bbc.co.uk/news/articles/c68xz297kqleo?at_medium=RSS&at_campaign=rss"
+          "title": "How a Democrat in Michigan rocked the party days before the US midterms",
+          "link": "https://www.bbc.co.uk/news/videos/cqvgjljj74n8o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "King to address slavery in Antigua as PM says he is open to possible UK apology",
-          "link": "https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss"
+          "title": "Democrats have high hopes for midterms, but polls have let them down before",
+          "link": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Antonelli becomes world champion as Verstappen wins in Mexico",
@@ -231,33 +231,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-01T23:27:25.243Z"
+      "updatedAt": "2026-11-02T05:34:18.375Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "Judge Rejects Trump Officials’ Move to Challenge Alaska Senate Election",
-          "link": "https://www.nytimes.com/2026/11/01/us/alaska-senate-election-lawsuit.html"
+          "title": "Democrats Show Strength in Final Days of Race for the Senate, New Polls Find",
+          "link": "https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-senate.html"
         },
         {
-          "title": "On the Ballot in California: The Prospects for a National Wealth Tax",
-          "link": "https://www.nytimes.com/2026/11/01/us/on-the-ballot-in-california-the-prospects-for-a-national-wealth-tax.html"
+          "title": "The Final Polls Show a Blue Surge. Can We Trust Them?",
+          "link": "https://www.nytimes.com/2026/11/01/upshot/poll-times-siena-senate-midterms.html"
         },
         {
-          "title": "Here Are Some of the Celebrities Running in the NYC Marathon",
-          "link": "https://www.nytimes.com/2026/11/01/nyregion/new-york-city-marathon-celebrities-running.html"
+          "title": "Inside the Abdul El-Sayed-Haley Stevens Meltdown in Michigan",
+          "link": "https://www.nytimes.com/2026/11/01/us/politics/el-sayed-stevens-meltdown-michigan-democrats.html"
         },
         {
-          "title": "Senator Chris Murphy Is ‘Awake and Alert’ After Suffering a Stroke",
-          "link": "https://www.nytimes.com/2026/11/01/us/politics/chris-murphy-stroke.html"
+          "title": "The New York City Marathon in Photos and Videos",
+          "link": "https://www.nytimes.com/2026/11/01/nyregion/the-new-york-city-marathon-in-photos-and-videos.html"
         },
         {
-          "title": "Gaffes and Men’s Bodies: Analysis of Trump’s Speeches at Age 80",
-          "link": "https://www.nytimes.com/2026/11/01/us/politics/trump-speeches-rallies-age.html"
+          "title": "Stylish Looks From the New York City Marathon",
+          "link": "https://www.nytimes.com/2026/11/01/style/nyc-marathon-fashion-outfits.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-01T23:27:25.392Z"
+      "updatedAt": "2026-11-02T05:34:18.493Z"
     }
   },
   "indices": {
@@ -279,13 +279,13 @@
       },
       {
         "name": "Gold",
-        "price": 3901.8,
-        "pct": -4.240907082903837
+        "price": 3916,
+        "pct": -3.346825945305556
       },
       {
         "name": "Bitcoin",
-        "price": 77967.53,
-        "pct": -4.060728468051207
+        "price": 78263.41,
+        "pct": 0.6278358204829321
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-11-01T23:27:25.596Z"
+    "updatedAt": "2026-11-02T05:34:18.722Z"
   }
 }
