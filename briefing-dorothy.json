@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-11-02T20:58:33.824Z",
+  "fetchedAt": "2026-11-03T02:45:26.426Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Multiple people killed, others injured in shooting near California beach",
-          "link": "https://www.foxnews.com/us/multiple-people-killed-injured-shooting-near-california-beach"
+          "title": "Associated Press Top 25 poll voters hit a new, ridiculous low with this week's results",
+          "link": "https://www.foxnews.com/outkick-sports/associated-press-top-25-poll-voters-hit-new-ridiculous-low-weeks-results"
         },
         {
-          "title": "Boat explodes during tourist outing as fire sends captain, others scrambling into water",
-          "link": "https://www.foxnews.com/travel/boat-explodes-during-tourist-outing-fire-sends-captain-others-scrambling-water"
+          "title": "Angel Reese steps back from 'Unapologetically Angel' podcast after Atlanta Dream's Finals loss",
+          "link": "https://www.foxnews.com/outkick-sports/angel-reese-steps-back-unapologetically-angel-podcast-atlanta-dream-finals-loss"
         },
         {
-          "title": "Michael Wilbon announces indefinite leave from ESPN, 'PTI' due to ‘multiple health issues’",
-          "link": "https://www.foxnews.com/outkick-sports/michael-wilbon-announces-indefinite-leave-espn-pti-multiple-health-issues"
+          "title": "Ex-West Point cadet sued for secretly drugging pregnant girlfriend with abortion pills",
+          "link": "https://www.foxnews.com/us/ex-west-point-cadet-sued-secretly-drugging-pregnant-girlfriend-abortion-pills"
         },
         {
-          "title": "Dangerous mosquito-borne virus surges in popular US state as cases reach highest levels in decades",
-          "link": "https://www.foxnews.com/health/dangerous-mosquito-borne-virus-surges-popular-us-state-cases-reach-highest-levels-decades"
+          "title": "JD Vance says Haley Stevens' endorsement of GOP's Mike Rogers will 'certainly' help Michigan Senate race",
+          "link": "https://www.foxnews.com/politics/jd-vance-says-haley-stevens-endorsement-gops-mike-rogers-certainly-help-michigan-senate-race"
         },
         {
-          "title": "Matt Rhule draws the line after fan verbally attacks his 13-year-old daughter following latest Nebraska loss",
-          "link": "https://www.foxnews.com/outkick-sports/matt-rhule-draws-line-fan-verbally-attacks-13-year-old-daughter-following-latest-nebraska-loss"
+          "title": "Brandon Aiyuk hires Drew Rosenhaus to salvage NFL career after torching 49ers relationship",
+          "link": "https://www.foxnews.com/outkick-sports/brandon-aiyuk-hires-drew-rosenhaus-salvage-nfl-career-torching-49ers-relationship"
         },
         {
-          "title": "Lions say 'preliminary indications are positive' for linebacker Jack Campbell after neck injury",
-          "link": "https://www.foxnews.com/outkick-sports/lions-preliminary-indications-positive-linebacker-jack-campbell-neck-injury"
+          "title": "John Cena Classic to take place at Disney World as WWE stars hope for magical moment",
+          "link": "https://www.foxnews.com/outkick-sports/john-cena-classic-take-place-disney-world-wwe-stars-hope-magical-moment"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-02T20:58:29.663Z"
+      "updatedAt": "2026-11-03T02:45:23.432Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,36 +59,48 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-02T20:58:29.844Z"
+      "updatedAt": "2026-11-03T02:45:23.628Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Who is Jason Turkish, Haley Stevens' El-Sayed-bashing fiancé",
-          "link": "https://thehill.com/homenews/campaign/6189925-haley-stevens-fiance-endorses-rogers/"
+          "title": "Democrats accuse Musk's X of favoring Polymarket",
+          "link": "https://thehill.com/policy/technology/6190741-democrats-accuse-x-polymarket-bias/"
         },
         {
-          "title": "Haley Stevens on Mike Rogers: 'Maybe he can be a McCain-type person or a Lisa Murkowski'",
-          "link": "https://thehill.com/homenews/campaign/6189975-stevens-rogers-mccain-murkowski/"
+          "title": "What role with the US military take at the polls?",
+          "link": "https://thehill.com/newsletters/defense-national-security/6190754-what-role-with-the-us-military-take-at-the-polls/"
         },
         {
-          "title": "Iran offers to open Strait of Hormuz on several conditions",
-          "link": "https://thehill.com/policy/international/6189852-iran-offers-strait-hormuz-opening/"
+          "title": "California Democrats divided on billionaire tax",
+          "link": "https://thehill.com/newsletters/technology/6190749-california-democrats-divided-on-billionaire-tax/"
         },
         {
-          "title": "Marshall cuts rogue ad on medical debt lawsuits",
-          "link": "https://thehill.com/homenews/campaign/6189639-roger-marshall-medical-debt-campaign-ad/"
+          "title": "El-Sayed wants to pass 'S‑‑‑ Lettuce Elimination Act'",
+          "link": "https://thehill.com/homenews/campaign/6190693-el-sayed-sh-lettuce-act/"
         },
         {
-          "title": "Woman identifies daughter, 20, as one of the pilots on jet that crashed in Florida",
-          "link": "https://thehill.com/policy/transportation/6189823-florida-plane-crash-jet-copilot/"
+          "title": "Michigan Senate race shifts to 'lean Democrat' in final Cook Political Report rating",
+          "link": "https://thehill.com/homenews/campaign/6190665-cook-political-report-michigan-senate/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-02T20:58:30.618Z"
+      "updatedAt": "2026-11-03T02:45:24.032Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "\"At Home in Space\" opens, caps Air and Space Museum renovation",
+          "link": "https://arstechnica.com/space/2026/11/at-home-in-space-opens-caps-air-and-space-museum-renovation/"
+        },
+        {
+          "title": "Why large dogs age faster than small ones, and other October research highlights",
+          "link": "https://arstechnica.com/science/2026/11/research-roundup-6-cool-science-stories-we-almost-missed-7/"
+        },
+        {
+          "title": "Third person dies of bird flu since virus started jumping to livestock",
+          "link": "https://arstechnica.com/health/2026/11/third-person-dies-of-bird-flu-since-virus-started-jumping-to-livestock/"
+        },
         {
           "title": "Googling \"Zelda\" today offers a glimpse of how search worked in 1998",
           "link": "https://arstechnica.com/gaming/2026/11/googles-legend-of-zelda-easter-egg-transports-you-back-to-1998/"
@@ -96,48 +108,36 @@
         {
           "title": "Most of our measures of a key cognitive process don't agree",
           "link": "https://arstechnica.com/science/2026/11/most-of-our-measures-of-a-key-cognitive-process-dont-agree/"
-        },
-        {
-          "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
-          "link": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/"
-        },
-        {
-          "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
-          "link": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/"
-        },
-        {
-          "title": "China publicly discloses plan for a lunar landing within three years",
-          "link": "https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-02T20:58:30.714Z"
+      "updatedAt": "2026-11-03T02:45:24.163Z"
     },
     "The Verge": {
       "items": [
         {
-          "title": "One of Google&#8217;s Android partners turned 1.3 million set-top boxes into a botnet",
+          "title": "Apple is ‘not able to predict’ when it&#8217;ll have enough iPhone Duos to go around",
+          "link": "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints"
+        },
+        {
+          "title": "Apple set an iPhone sales record even without a new standard iPhone",
+          "link": "https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings"
+        },
+        {
+          "title": "Meta will end Quest 2 OS updates in 2027",
+          "link": "https://www.theverge.com/tech/1024835/meta-vr-quest-2-pro-os-end-updates"
+        },
+        {
+          "title": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
           "link": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down"
         },
         {
           "title": "BMW is taking on Tesla’s FSD with urban driver assist starting in 2027",
           "link": "https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027"
-        },
-        {
-          "title": "The Apple Watch Ultra 4 is $100 off, matching its best price to date",
-          "link": "https://www.theverge.com/gadgets/1024416/apple-watch-ultra-4-ugreen-finetrack-2-bluetooth-tracker-deal-sale"
-        },
-        {
-          "title": "Ford promises not to sell your driving habits to data brokers",
-          "link": "https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers"
-        },
-        {
-          "title": "Anthropic clamps down on Claude’s AI video game clones",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-02T20:58:30.853Z"
+      "updatedAt": "2026-11-03T02:45:24.316Z"
     },
     "BBC World": {
       "items": [
@@ -146,7 +146,11 @@
           "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Copilot in deadly Florida jet crash identified in reports as 20-year-old",
+          "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+          "link": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
           "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss"
         },
         {
@@ -158,20 +162,16 @@
           "link": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Man guilty of stealing cash from farm owned by South African president",
-          "link": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo?at_medium=RSS&at_campaign=rss"
+          "title": "Legal challenge to Australia's social media ban to start in High Court",
+          "link": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Dutch police offer record €2m reward in hunt for drug lord",
-          "link": "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Trump to remove Rwanda and South Africa from US trade deal",
-          "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss"
+          "title": "North Korea denies being behind record $6.3bn Binance hack",
+          "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-02T20:58:30.987Z"
+      "updatedAt": "2026-11-03T02:45:24.460Z"
     },
     "BBC News": {
       "items": [
@@ -180,57 +180,73 @@
           "link": "https://www.bbc.co.uk/news/articles/c6lye8g4w7g1o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Shop freezers in seven European countries hit by cyber-attack",
-          "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss"
+          "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+          "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
-          "link": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss"
+          "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+          "link": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
-          "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss"
+          "title": "PM plans debt re-set for Commonwealth nations as slavery apology talks begin",
+          "link": "https://www.bbc.co.uk/news/articles/c58jzn1ve0kjo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Copilot in deadly Florida jet crash identified in reports as 20-year-old",
+          "title": "Jewellery sold as sterling silver on Amazon and Temu found to contain toxic chemicals",
+          "link": "https://www.bbc.co.uk/news/articles/cm62yjx4dl0jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
           "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "What Florida jet audio and flight data tells us about its final moments",
-          "link": "https://www.bbc.co.uk/news/videos/c52e9lgxjz82o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-02T20:58:31.005Z"
+      "updatedAt": "2026-11-03T02:45:24.513Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "Trump’s Immigration Crackdown Backlash Poses Challenge for Republicans in the Midterms",
-          "link": "https://www.nytimes.com/2026/11/02/us/politics/trump-immigration-crackdown-backlash-republicans.html"
+          "title": "In Run-Up to Midterms, Legacy of 2020 Looms Large Over Justice Dept.",
+          "link": "https://www.nytimes.com/2026/11/02/us/politics/midterms-2020-election-justice-department.html"
         },
         {
-          "title": "Trump Is Playing Up Voter Fraud Prosecutions. Meet Some of the Accused.",
-          "link": "https://www.nytimes.com/2026/11/02/us/politics/noncitizen-voters-green-cards.html"
+          "title": "Trump Delivers a Closing Midterm Message. Mostly About Landscaping.",
+          "link": "https://www.nytimes.com/2026/11/02/us/politics/trump-reflecting-pool-midterms.html"
         },
         {
-          "title": "CISA Retreats From Election Security Ahead of Midterms",
-          "link": "https://www.nytimes.com/2026/11/02/us/politics/cisa-election-security-midterms.html"
-        },
-        {
-          "title": "Trump Administration Asks Supreme Court to Intervene in California Ballot Case",
+          "title": "Supreme Court Rejects Trump Administration Request to Intervene in California Ballot Case",
           "link": "https://www.nytimes.com/2026/11/02/us/politics/trump-supreme-court-california-ballots.html"
         },
         {
-          "title": "They Tried Kratom for Its Purported Health Benefits, Then They Became Addicted",
-          "link": "https://www.nytimes.com/2026/11/02/well/kratom-wellness-marketing-addiction.html"
+          "title": "Trump’s Election Fraud Reward Raises Fears of Vigilantism, Local Officials Say",
+          "link": "https://www.nytimes.com/2026/11/02/us/politics/trump-midterms-election-fraud-reward.html"
+        },
+        {
+          "title": "Democratic Divisions on Israel Come Thundering Back, in Preview of Fights to Come",
+          "link": "https://www.nytimes.com/2026/11/02/us/politics/democrats-split-israel-michigan.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-02T20:58:31.123Z"
+      "updatedAt": "2026-11-03T02:45:24.726Z"
     },
     "ARTNews": {
       "items": [
+        {
+          "title": "ARTnews and Hublot Host Dinner at New York Headquarters of Kid Super",
+          "link": "https://www.artnews.com/art-in-america/features/artnews-hublot-host-dinner-new-york-headquarters-kid-super-1234804519/"
+        },
+        {
+          "title": "Pace CEO Marc Glimcher Responds to Reports of Financial Losses, Says Gallery Will Open New Location in Europe",
+          "link": "https://www.artnews.com/art-news/news/pace-marc-glimcher-financial-reports-new-europe-location-1234804487/"
+        },
+        {
+          "title": "Cosmic Leonora Carrington Painting Reemerges at Auction After 70 Years",
+          "link": "https://www.artnews.com/art-news/news/leonora-carrington-painting-reemerges-auction-1234804420/"
+        },
+        {
+          "title": "New Eames Museum in California Funded in Part by Trump Appointee",
+          "link": "https://www.artnews.com/art-news/news/eames-museum-funding-joe-gebbia-trump-appointee-1234804508/"
+        },
         {
           "title": "Remembering Dolores Huerta: Artists Barbara Carrasco, Judith F. Baca, Yreina D. Cervántez, and Vincent Valdez Reflect on the Iconic Activist’s Legacy",
           "link": "https://www.artnews.com/list/art-news/artists/dolores-huerta-artist-rememberances-1234804398/"
@@ -238,29 +254,21 @@
         {
           "title": "Tattoo Enthusiasts Have One More Week to Get a Rembrandt Inked for $400 or Less",
           "link": "https://www.artnews.com/art-news/news/rembrandt-house-museum-amsterdam-tattoo-event-henk-schiffmacher-1234804486/"
-        },
-        {
-          "title": "Czech Archaeologists Rediscover Long-Lost Tombs of Ancient Egyptian High Officials",
-          "link": "https://www.artnews.com/art-news/news/archeologists-rediscover-tombs-of-sabu-ptahshepses-saqqara-1234804467/"
-        },
-        {
-          "title": "In Fiery Court Filing, Democratic Lawmaker Says Kennedy Center’s Closure Is Meant to Hide Its Failure Under Trump",
-          "link": "https://www.artnews.com/art-news/news/lawmaker-says-kennedy-center-closure-hide-failure-trump-1234804435/"
-        },
-        {
-          "title": "Hard Truths: Should a Jilted Artist Keep Applying for Grants?",
-          "link": "https://www.artnews.com/art-in-america/columns/hard-truths-artist-apply-for-grants-1234804414/"
-        },
-        {
-          "title": "EU Looking to Downgrade Money Laundering Risk in Art and Antiquities Trade",
-          "link": "https://www.artnews.com/art-news/market/eu-downgrade-money-laundering-risk-art-antiquities-trade-1234804397/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-02T20:58:32.724Z"
+      "updatedAt": "2026-11-03T02:45:24.875Z"
     },
     "Hyperallergic": {
       "items": [
+        {
+          "title": "A Midterm Election Guide for Artists and Arts Workers",
+          "link": "https://hyperallergic.com/a-midterm-election-guide-for-artists-and-arts-workers/"
+        },
+        {
+          "title": "10 Art Books to Curl Up With This November",
+          "link": "https://hyperallergic.com/10-art-books-to-curl-up-with-this-november/"
+        },
         {
           "title": "10 Art Shows to See in Upstate New York This November",
           "link": "https://hyperallergic.com/10-art-shows-to-see-in-upstate-new-york-this-november-2026/"
@@ -276,18 +284,10 @@
         {
           "title": "How Former Theater Kid James Talarico Stands Up for the Arts in Texas",
           "link": "https://hyperallergic.com/how-former-theater-kid-james-talarico-stands-up-for-the-arts-in-texas/"
-        },
-        {
-          "title": "Ana Mendieta's Lasting Imprint on Art",
-          "link": "https://hyperallergic.com/ana-mendietas-lasting-imprint-on-art/"
-        },
-        {
-          "title": "Opportunities in November 2026",
-          "link": "https://hyperallergic.com/opportunities-in-november-2026/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-02T20:58:33.095Z"
+      "updatedAt": "2026-11-03T02:45:25.032Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-02T20:58:33.671Z"
+      "updatedAt": "2026-11-03T02:45:26.198Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-02T20:58:33.824Z"
+      "updatedAt": "2026-11-03T02:45:26.426Z"
     }
   }
 }
