@@ -1,8 +1,24 @@
 {
-  "fetchedAt": "2026-11-02T23:23:15.997Z",
+  "fetchedAt": "2026-11-03T06:14:59.919Z",
   "feeds": {
     "MarketWatch": {
       "items": [
+        {
+          "title": "Here’s why Palantir’s stock is down despite a ‘bombastic’ quarter",
+          "link": "https://www.marketwatch.com/story/heres-why-palantirs-stock-is-down-despite-a-bombastic-quarter-42c9fdb8?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Apple’s iPhone business is booming. Here’s why the stock is falling anyway.",
+          "link": "https://www.marketwatch.com/story/apples-iphone-business-is-booming-heres-why-the-stock-is-falling-anyway-07de9fff?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Nasdaq-100 tumbles into its third correction this year as AI worries mount",
+          "link": "https://www.marketwatch.com/story/nasdaq-100-tumbles-into-its-third-correction-this-year-as-ai-worries-mount-abee4c0d?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Marvell and Lumentum shareholders unite in panning merger deal: ‘It’s a trash offer’",
+          "link": "https://www.marketwatch.com/story/marvell-and-lumentum-shareholders-unite-in-panning-merger-deal-its-a-trash-offer-53a9f307?mod=mw_rss_topstories"
+        },
         {
           "title": "Traders rushing into a leveraged ETF to make a bullish bet on the Nasdaq-100 just got burned",
           "link": "https://www.marketwatch.com/story/traders-rushing-into-a-leveraged-etf-to-make-a-bullish-bet-on-the-nasdaq-100-just-got-burned-d6775191?mod=mw_rss_topstories"
@@ -10,115 +26,107 @@
         {
           "title": "Wall Street’s most hated stocks are faring far better than its favorites",
           "link": "https://www.marketwatch.com/story/wall-streets-most-hated-stocks-are-faring-far-better-than-its-favorites-4c1d6c68?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Want to help your adult kids and grandkids? Give them money while you’re still alive.",
-          "link": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories"
-        },
-        {
-          "title": "‘She’s a Type A personality’: My stepmother wants me to repay my late father’s $40,000 wedding gift. Should I oblige?",
-          "link": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories"
-        },
-        {
-          "title": "The stock market has gone nowhere for the past 5 months. It’s now looking like a bargain.",
-          "link": "https://www.marketwatch.com/story/the-stock-market-has-gone-nowhere-for-the-past-5-months-its-now-looking-like-a-bargain-150914c2?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Palantir earnings reveal a major AI turning point",
-          "link": "https://www.marketwatch.com/story/palantir-earnings-reveal-a-major-ai-turning-point-db766110?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-02T23:23:14.204Z"
+      "updatedAt": "2026-11-03T06:14:57.821Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Florida plane crash victims identified after 9 people killed in fiery wreck",
-          "link": "https://www.foxnews.com/us/florida-plane-crash-victims-identified-9-people-killed-fiery-wreck"
+          "title": "Mamdani threatens to sue Trump admin over ICE's use of city-owned lots for immigration enforcement",
+          "link": "https://www.foxnews.com/politics/mamdani-threatens-sue-trump-admin-ices-use-city-owned-lots-immigration-enforcement"
         },
         {
-          "title": "Scientists discover potentially massive dwarf planet candidate hiding beyond Pluto",
-          "link": "https://www.foxnews.com/travel/scientists-discover-potentially-massive-dwarf-planet-candidate-hiding-beyond-pluto"
+          "title": "Bears prove they are NFC North's most complete team with commanding win over Seahawks",
+          "link": "https://www.foxnews.com/outkick-sports/bears-prove-nfc-north-most-complete-team-commanding-win-seahawks"
         },
         {
-          "title": "Spike Lee hopes the Knicks won't visit the White House, warns owner 'can’t force them'",
-          "link": "https://www.foxnews.com/media/spike-lee-hopes-knicks-wont-visit-white-house-warns-owner-cant-force-them"
+          "title": "Trump calls Iran conflict a 'soft war,' insists US holds the cards ahead of midterm elections",
+          "link": "https://www.foxnews.com/media/trump-calls-iran-conflict-soft-war-insists-us-holds-cards-ahead-midterm-elections"
         },
         {
-          "title": "NHL and Fanatics unveil 'Hometown Remix' jerseys celebrating local culture for all 32 teams",
-          "link": "https://www.foxnews.com/outkick-sports/nhl-fanatics-unveil-hometown-remix-jerseys-celebrating-local-culture-32-teams"
+          "title": "Child’s measles death marks New York state’s first in more than 30 years amid outbreak",
+          "link": "https://www.foxnews.com/health/childs-measles-death-marks-new-york-states-first-more-than-30-years-amid-outbreak"
         },
         {
-          "title": "BOBBY BURACK: The anti-white resistance is already beginning for Cooper Flagg",
-          "link": "https://www.foxnews.com/outkick-sports/anti-white-resistance-already-beginning-cooper-flagg-bobby-burack"
+          "title": "Christian Yelich says 'Brewer Ball' is hard to replicate for this season after World Series triumph",
+          "link": "https://www.foxnews.com/outkick-sports/christian-yelich-says-brewer-ball-hard-replicate-season-after-world-series-triumph"
         },
         {
-          "title": "JACKSON THOMPSON: Maine girls speak out about facing trans athlete as state grapples with issue",
-          "link": "https://www.foxnews.com/outkick-sports/maine-girls-speak-facing-trans-athlete-state-grapples-issue"
+          "title": "Associated Press Top 25 poll voters hit a new, ridiculous low with this week's results",
+          "link": "https://www.foxnews.com/outkick-sports/associated-press-top-25-poll-voters-hit-new-ridiculous-low-weeks-results"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-02T23:23:14.338Z"
+      "updatedAt": "2026-11-03T06:14:58.049Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "My Final Prediction--Terrible Night Awaits the GOP",
-          "link": "https://www.realclearpolitics.com/2026/11/02/my_final_prediction--terrible_night_awaits_the_gop_716362.html"
+          "title": "Michigan Race Ends With Acrimony and Funky Polls--Again",
+          "link": "https://www.realclearpolitics.com/2026/11/02/michigan_race_ends_with_acrimony_and_funky_polls--again_716381.html"
         },
         {
-          "title": "Democrat Scandal in Alaska Brings Back Usual Suspects",
-          "link": "https://www.realclearpolitics.com/2026/11/02/democrat_scandal_in_alaska_brings_back_usual_suspects_716100.html"
+          "title": "At Long Last, the Rules Apply to Trump",
+          "link": "https://www.realclearpolitics.com/2026/11/02/at_long_last_the_rules_apply_to_trump_716335.html"
         },
         {
-          "title": "In Michigan, Are Democrats Split--or Is It a Personal Grudge?",
-          "link": "https://www.realclearpolitics.com/2026/11/02/in_michigan_are_democrats_split--or_is_it_a_personal_grudge_716373.html"
+          "title": "Plunging Violent Crime a Dramatic Reversal From Biden Years",
+          "link": "https://www.realclearpolitics.com/2026/11/02/plunging_violent_crime_a_dramatic_reversal_from_biden_years_716377.html"
         },
         {
-          "title": "Stevens on Backing Rogers: 'I Think He Loves the Country'",
-          "link": "https://www.realclearpolitics.com/2026/11/02/stevens_on_backing_rogers_i_think_he_loves_the_country_716354.html"
+          "title": "Young People Can't Afford the Culture War",
+          "link": "https://www.realclearpolitics.com/2026/11/02/young_people_cant_afford_the_culture_war_716380.html"
         },
         {
-          "title": "Trump Confident, Issues Stark Warning If Democrats Win",
-          "link": "https://www.realclearpolitics.com/2026/11/02/trump_confident_issues_stark_warning_if_democrats_win_716363.html"
+          "title": "A Fraudster Is Sentenced in Minnesota",
+          "link": "https://www.realclearpolitics.com/2026/11/02/a_fraudster_is_sentenced_in_minnesota_716386.html"
         },
         {
-          "title": "Inside Talarico's Bid To Break Texas Dems' Losing Streak",
-          "link": "https://www.realclearpolitics.com/2026/11/02/inside_talaricos_bid_to_break_texas_dems_losing_streak_716364.html"
+          "title": "Anthropic Isn't Just a Company, It's a Payoff",
+          "link": "https://www.realclearpolitics.com/2026/11/02/anthropic_isnt_just_a_company_its_a_payoff_716365.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-02T23:23:14.527Z"
+      "updatedAt": "2026-11-03T06:14:58.357Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Massie pushes back on Rogers over claim young people are ‘against the Jews’",
-          "link": "https://thehill.com/homenews/campaign/6190531-massie-rogers-young-people-anti-semitism/"
+          "title": "Stevens shares rationale for endorsing Rogers over El-Sayed",
+          "link": "https://thehill.com/homenews/campaign/6191007-haley-stevens-endorses-mike-rogers/"
         },
         {
-          "title": "Trump touts oil price dip in closing speech",
-          "link": "https://thehill.com/newsletters/energy-environment/6190523-trump-touts-oil-price-dip-in-closing-speech/"
+          "title": "US to mediate Ukraine-Russia talks in Abu Dhabi next week, Witkoff says",
+          "link": "https://thehill.com/policy/international/6190973-witkoff-announces-abu-dhabi-peace-negotiations/"
         },
         {
-          "title": "How National Guard units are being deployed around the midterm elections",
-          "link": "https://thehill.com/homenews/6190539-states-deploying-guardsmen-cybersecurity/"
+          "title": "Talarico says he wants to work with Trump on bipartisan MAGA agenda",
+          "link": "https://thehill.com/homenews/campaign/6190917-james-talarico-donald-trump-maga/"
         },
         {
-          "title": "Supreme Court rejects Trump administration's bid to set aside 20,000 California ballots",
-          "link": "https://thehill.com/regulation/court-battles/6190525-supreme-court-trump-administration-california-ballots/"
+          "title": "US military strikes Iran’s Qeshm Island day before midterms",
+          "link": "https://thehill.com/policy/defense/6190947-us-strikes-iranian-radar-missiles/"
         },
         {
-          "title": "Economy leading the way ahead of Election Day",
-          "link": "https://thehill.com/newsletters/business-economy/6190442-economy-leading-the-way-ahead-of-election-day/"
+          "title": "Democrats accuse Musk's X of favoring Polymarket",
+          "link": "https://thehill.com/policy/technology/6190741-democrats-accuse-x-polymarket-bias/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-02T23:23:15.177Z"
+      "updatedAt": "2026-11-03T06:14:58.926Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "\"At Home in Space\" opens, caps Air and Space Museum renovation",
+          "link": "https://arstechnica.com/space/2026/11/at-home-in-space-opens-caps-air-and-space-museum-renovation/"
+        },
+        {
+          "title": "Why large dogs age faster than small ones, and other October research highlights",
+          "link": "https://arstechnica.com/science/2026/11/research-roundup-6-cool-science-stories-we-almost-missed-7/"
+        },
         {
           "title": "Third person dies of bird flu since virus started jumping to livestock",
           "link": "https://arstechnica.com/health/2026/11/third-person-dies-of-bird-flu-since-virus-started-jumping-to-livestock/"
@@ -130,18 +138,10 @@
         {
           "title": "Most of our measures of a key cognitive process don't agree",
           "link": "https://arstechnica.com/science/2026/11/most-of-our-measures-of-a-key-cognitive-process-dont-agree/"
-        },
-        {
-          "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
-          "link": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/"
-        },
-        {
-          "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
-          "link": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-02T23:23:15.318Z"
+      "updatedAt": "2026-11-03T06:14:59.060Z"
     },
     "The Verge": {
       "items": [
@@ -167,16 +167,28 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-02T23:23:15.448Z"
+      "updatedAt": "2026-11-03T06:14:59.223Z"
     },
     "BBC World": {
       "items": [
+        {
+          "title": "US strikes Iran ahead of midterm elections",
+          "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
+          "link": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
           "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Copilot in deadly Florida jet crash identified in reports as 20-year-old",
+          "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+          "link": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
           "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss"
         },
         {
@@ -186,52 +198,40 @@
         {
           "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
           "link": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Legal challenge to Australia's social media ban to start in High Court",
-          "link": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Man guilty of stealing cash from farm owned by South African president",
-          "link": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Dutch police offer record €2m reward in hunt for drug lord",
-          "link": "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-02T23:23:15.551Z"
+      "updatedAt": "2026-11-03T06:14:59.387Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Mahmood scraps settlement plans for migrant care workers",
-          "link": "https://www.bbc.co.uk/news/articles/c6lye8g4w7g1o?at_medium=RSS&at_campaign=rss"
+          "title": "Americans head to the polls for elections that could define Trump's closing chapter",
+          "link": "https://www.bbc.co.uk/news/articles/cq2d6k4r5n9ro?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Shop freezers in seven European countries hit by cyber-attack",
-          "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss"
+          "title": "US strikes Iran ahead of midterm elections",
+          "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
-          "link": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss"
+          "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+          "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
-          "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss"
+          "title": "PM plans debt re-set for Commonwealth nations as slavery apology talks begin",
+          "link": "https://www.bbc.co.uk/news/articles/c58jzn1ve0kjo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Copilot in deadly Florida jet crash identified in reports as 20-year-old",
-          "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss"
+          "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+          "link": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "What Florida jet audio and flight data tells us about its final moments",
-          "link": "https://www.bbc.co.uk/news/videos/c52e9lgxjz82o?at_medium=RSS&at_campaign=rss"
+          "title": "Scientists detect signals at the smallest scale ever explored",
+          "link": "https://www.bbc.co.uk/news/articles/c5pvgxkkv4dzo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-02T23:23:15.640Z"
+      "updatedAt": "2026-11-03T06:14:59.423Z"
     },
     "NY Times": {
       "items": [
@@ -252,12 +252,12 @@
           "link": "https://www.nytimes.com/2026/11/02/us/politics/trump-midterms-election-fraud-reward.html"
         },
         {
-          "title": "Trump’s Immigration Crackdown Backlash Poses Challenge for Republicans in the Midterms",
-          "link": "https://www.nytimes.com/2026/11/02/us/politics/trump-immigration-crackdown-backlash-republicans.html"
+          "title": "Democratic Divisions on Israel Come Thundering Back, in Preview of Fights to Come",
+          "link": "https://www.nytimes.com/2026/11/02/us/politics/democrats-split-israel-michigan.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-02T23:23:15.755Z"
+      "updatedAt": "2026-11-03T06:14:59.622Z"
     }
   },
   "indices": {
@@ -279,13 +279,13 @@
       },
       {
         "name": "Gold",
-        "price": 3952.9,
-        "pct": -2.4360746371803685
+        "price": 3930.8,
+        "pct": -2.4954110234657914
       },
       {
         "name": "Bitcoin",
-        "price": 76708.5,
-        "pct": -1.3714027534001567
+        "price": 76300.74,
+        "pct": -1.162552862300824
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-11-02T23:23:15.997Z"
+    "updatedAt": "2026-11-03T06:14:59.919Z"
   }
 }
