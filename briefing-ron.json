@@ -1,124 +1,128 @@
 {
-  "fetchedAt": "2026-11-03T06:14:59.919Z",
+  "fetchedAt": "2026-11-03T14:56:50.860Z",
   "feeds": {
     "MarketWatch": {
       "items": [
         {
-          "title": "Here’s why Palantir’s stock is down despite a ‘bombastic’ quarter",
-          "link": "https://www.marketwatch.com/story/heres-why-palantirs-stock-is-down-despite-a-bombastic-quarter-42c9fdb8?mod=mw_rss_topstories"
+          "title": "Learning from ‘Love Is Blind’ money drama",
+          "link": "https://www.marketwatch.com/story/learning-from-love-is-blind-money-drama-810175f9?mod=mw_rss_topstories"
         },
         {
-          "title": "Apple’s iPhone business is booming. Here’s why the stock is falling anyway.",
-          "link": "https://www.marketwatch.com/story/apples-iphone-business-is-booming-heres-why-the-stock-is-falling-anyway-07de9fff?mod=mw_rss_topstories"
+          "title": "This indicator has triggered just 5 times since 2000 — and it warns of a trap for stocks",
+          "link": "https://www.marketwatch.com/story/this-indicator-has-triggered-just-5-times-since-2000-and-it-warns-of-a-trap-for-stocks-a1cbd579?mod=mw_rss_topstories"
         },
         {
-          "title": "Nasdaq-100 tumbles into its third correction this year as AI worries mount",
-          "link": "https://www.marketwatch.com/story/nasdaq-100-tumbles-into-its-third-correction-this-year-as-ai-worries-mount-abee4c0d?mod=mw_rss_topstories"
+          "title": "‘It’s good to be old’: I’ve been invited to a dozen free meals that turn into annuity sales pitches. Should I stop going?",
+          "link": "https://www.marketwatch.com/story/its-good-to-be-old-ive-been-invited-to-a-dozen-free-meals-that-turn-into-annuity-sales-pitches-should-i-stop-going-63df67ca?mod=mw_rss_topstories"
         },
         {
-          "title": "Marvell and Lumentum shareholders unite in panning merger deal: ‘It’s a trash offer’",
-          "link": "https://www.marketwatch.com/story/marvell-and-lumentum-shareholders-unite-in-panning-merger-deal-its-a-trash-offer-53a9f307?mod=mw_rss_topstories"
+          "title": "It’s finally Election Day — and prediction markets may show ‘too much confidence in a good night for Democrats’",
+          "link": "https://www.marketwatch.com/story/its-finally-election-day-and-prediction-markets-may-show-too-much-confidence-in-a-good-night-for-democrats-3c6742df?mod=mw_rss_topstories"
         },
         {
-          "title": "Traders rushing into a leveraged ETF to make a bullish bet on the Nasdaq-100 just got burned",
-          "link": "https://www.marketwatch.com/story/traders-rushing-into-a-leveraged-etf-to-make-a-bullish-bet-on-the-nasdaq-100-just-got-burned-d6775191?mod=mw_rss_topstories"
+          "title": "Shopify’s stock slides after earnings. This is what’s worrying Wall Street.",
+          "link": "https://www.marketwatch.com/story/shopifys-stock-slides-after-earnings-this-is-whats-worrying-wall-street-e2e8d52b?mod=mw_rss_topstories"
         },
         {
-          "title": "Wall Street’s most hated stocks are faring far better than its favorites",
-          "link": "https://www.marketwatch.com/story/wall-streets-most-hated-stocks-are-faring-far-better-than-its-favorites-4c1d6c68?mod=mw_rss_topstories"
+          "title": "3 signs cash-strapped consumers are nearing a ‘spend-pocalypse’ that would hurt the economy",
+          "link": "https://www.marketwatch.com/story/3-signs-cash-strapped-consumers-are-nearing-a-spend-pocalypse-that-would-hurt-the-economy-2ab4c3dd?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-03T06:14:57.821Z"
+      "updatedAt": "2026-11-03T14:56:49.117Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Mamdani threatens to sue Trump admin over ICE's use of city-owned lots for immigration enforcement",
-          "link": "https://www.foxnews.com/politics/mamdani-threatens-sue-trump-admin-ices-use-city-owned-lots-immigration-enforcement"
+          "title": "Mattress deals worth shopping now: save up to 60% on Nectar, DreamCloud and Awara",
+          "link": "https://www.foxnews.com/deals/mattress-deals-nectar-dreamcloud-awara"
         },
         {
-          "title": "Bears prove they are NFC North's most complete team with commanding win over Seahawks",
-          "link": "https://www.foxnews.com/outkick-sports/bears-prove-nfc-north-most-complete-team-commanding-win-seahawks"
+          "title": "Johnny Depp no longer rules out a 'Pirates of the Caribbean' return after years away from franchise",
+          "link": "https://www.foxnews.com/outkick-culture/johnny-depp-no-longer-rules-out-pirates-caribbean-return-after-years-away-franchise"
         },
         {
-          "title": "Trump calls Iran conflict a 'soft war,' insists US holds the cards ahead of midterm elections",
-          "link": "https://www.foxnews.com/media/trump-calls-iran-conflict-soft-war-insists-us-holds-cards-ahead-midterm-elections"
+          "title": "The economy is on the ballot. 3 charts reveal the reality voters face as they head to the polls",
+          "link": "https://www.foxnews.com/politics/economy-ballot-3-charts-reveal-reality-voters-face-head-polls"
         },
         {
-          "title": "Child’s measles death marks New York state’s first in more than 30 years amid outbreak",
-          "link": "https://www.foxnews.com/health/childs-measles-death-marks-new-york-states-first-more-than-30-years-amid-outbreak"
+          "title": "John Rich says Kathy Hochul is ‘running over’ NY farmers with renewable energy agenda",
+          "link": "https://www.foxnews.com/entertainment/john-rich-says-kathy-hochul-running-over-ny-farmers-renewable-energy-agenda"
         },
         {
-          "title": "Christian Yelich says 'Brewer Ball' is hard to replicate for this season after World Series triumph",
-          "link": "https://www.foxnews.com/outkick-sports/christian-yelich-says-brewer-ball-hard-replicate-season-after-world-series-triumph"
+          "title": "'Big difference': Dem's last-minute endorsement gives GOP new hope in crucial Senate battle",
+          "link": "https://www.foxnews.com/politics/big-difference-dems-last-minute-endorsement-gives-gop-new-hope-crucial-senate-battle"
         },
         {
-          "title": "Associated Press Top 25 poll voters hit a new, ridiculous low with this week's results",
-          "link": "https://www.foxnews.com/outkick-sports/associated-press-top-25-poll-voters-hit-new-ridiculous-low-weeks-results"
+          "title": "Ukraine's Zelenskyy on defying US in attacking Russian oil: 'Our response must be painful'",
+          "link": "https://www.foxnews.com/world/ukraine-zelenskyy-defying-us-attacking-russian-oil-response-must-be-painful"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-03T06:14:58.049Z"
+      "updatedAt": "2026-11-03T14:56:49.289Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "Michigan Race Ends With Acrimony and Funky Polls--Again",
-          "link": "https://www.realclearpolitics.com/2026/11/02/michigan_race_ends_with_acrimony_and_funky_polls--again_716381.html"
+          "title": "A Blue Wave, a Senate Fight and a Campaign Without Rules",
+          "link": "https://www.realclearpolitics.com/articles/2026/11/03/the_midterms_a_blue_wave_a_senate_fight_and_a_campaign_without_rules_154646.html"
         },
         {
-          "title": "At Long Last, the Rules Apply to Trump",
-          "link": "https://www.realclearpolitics.com/2026/11/02/at_long_last_the_rules_apply_to_trump_716335.html"
+          "title": "Will the Democrats' Weekend From Hell Matter?",
+          "link": "https://www.realclearpolitics.com/2026/11/03/will_the_democrats_weekend_from_hell_matter_716388.html"
         },
         {
-          "title": "Plunging Violent Crime a Dramatic Reversal From Biden Years",
-          "link": "https://www.realclearpolitics.com/2026/11/02/plunging_violent_crime_a_dramatic_reversal_from_biden_years_716377.html"
+          "title": "Trump Owns This Midterm Meltdown",
+          "link": "https://www.realclearpolitics.com/2026/11/03/trump_owns_this_midterm_meltdown_716361.html"
         },
         {
-          "title": "Young People Can't Afford the Culture War",
-          "link": "https://www.realclearpolitics.com/2026/11/02/young_people_cant_afford_the_culture_war_716380.html"
+          "title": "When Does a Dirty Trick Become a Crime?",
+          "link": "https://www.realclearpolitics.com/2026/11/03/when_does_a_dirty_trick_become_a_crime_716387.html"
         },
         {
-          "title": "A Fraudster Is Sentenced in Minnesota",
-          "link": "https://www.realclearpolitics.com/2026/11/02/a_fraudster_is_sentenced_in_minnesota_716386.html"
+          "title": "How Attempt at Dem Unity Exploded With Michigan Senate Flip",
+          "link": "https://www.realclearpolitics.com/2026/11/03/how_attempt_at_dem_unity_exploded_with_michigan_senate_flip_716372.html"
         },
         {
-          "title": "Anthropic Isn't Just a Company, It's a Payoff",
-          "link": "https://www.realclearpolitics.com/2026/11/02/anthropic_isnt_just_a_company_its_a_payoff_716365.html"
+          "title": "Did Stevens Change the Race in Michigan?",
+          "link": "https://www.realclearpolitics.com/2026/11/03/did_stevens_change_the_race_in_michigan_716384.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-03T06:14:58.357Z"
+      "updatedAt": "2026-11-03T14:56:49.505Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Stevens shares rationale for endorsing Rogers over El-Sayed",
-          "link": "https://thehill.com/homenews/campaign/6191007-haley-stevens-endorses-mike-rogers/"
+          "title": "The Trump administration needs to get serious about publishing abortion data",
+          "link": "https://thehill.com/opinion/healthcare/6189471-cdc-abortion-data-delay/"
         },
         {
-          "title": "US to mediate Ukraine-Russia talks in Abu Dhabi next week, Witkoff says",
-          "link": "https://thehill.com/policy/international/6190973-witkoff-announces-abu-dhabi-peace-negotiations/"
+          "title": "Trump says US will cut off $4B in aid to Israel, blames bad 'talking point'",
+          "link": "https://thehill.com/homenews/administration/6191387-trump-netanyahu-end-us-aid/"
         },
         {
-          "title": "Talarico says he wants to work with Trump on bipartisan MAGA agenda",
-          "link": "https://thehill.com/homenews/campaign/6190917-james-talarico-donald-trump-maga/"
+          "title": "96 percent chance Democrats take House, 78 percent for Senate: Harvard model",
+          "link": "https://thehill.com/homenews/campaign/6191266-harvard-forecasts-democrat-house-senate-majority/"
         },
         {
-          "title": "US military strikes Iran’s Qeshm Island day before midterms",
-          "link": "https://thehill.com/policy/defense/6190947-us-strikes-iranian-radar-missiles/"
+          "title": "Live updates: Polls open with control of Congress on the line",
+          "link": "https://thehill.com/homenews/campaign/6190941-live-updates-trump-midterm-elections-2026/"
         },
         {
-          "title": "Democrats accuse Musk's X of favoring Polymarket",
-          "link": "https://thehill.com/policy/technology/6190741-democrats-accuse-x-polymarket-bias/"
+          "title": "Remote work is here to stay",
+          "link": "https://thehill.com/opinion/technology/6190323-remote-work-ceo-age-study/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-03T06:14:58.926Z"
+      "updatedAt": "2026-11-03T14:56:50.159Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "Beyond screens: Mercedes-Benz's new holographic heads-up display",
+          "link": "https://arstechnica.com/cars/2026/11/beyond-screens-mercedes-benzs-new-holographic-heads-up-display/"
+        },
         {
           "title": "\"At Home in Space\" opens, caps Air and Space Museum renovation",
           "link": "https://arstechnica.com/space/2026/11/at-home-in-space-opens-caps-air-and-space-museum-renovation/"
@@ -134,166 +138,162 @@
         {
           "title": "Googling \"Zelda\" today offers a glimpse of how search worked in 1998",
           "link": "https://arstechnica.com/gaming/2026/11/googles-legend-of-zelda-easter-egg-transports-you-back-to-1998/"
-        },
-        {
-          "title": "Most of our measures of a key cognitive process don't agree",
-          "link": "https://arstechnica.com/science/2026/11/most-of-our-measures-of-a-key-cognitive-process-dont-agree/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-03T06:14:59.060Z"
+      "updatedAt": "2026-11-03T14:56:50.265Z"
     },
     "The Verge": {
       "items": [
         {
-          "title": "Apple is ‘not able to predict’ when it&#8217;ll have enough iPhone Duos to go around",
-          "link": "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints"
+          "title": "A truck-sized NASA space telescope is about to crash to Earth",
+          "link": "https://www.theverge.com/science/1025227/nasa-swift-observatory-falling-to-earth"
         },
         {
-          "title": "Apple set an iPhone sales record even without a new standard iPhone",
-          "link": "https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings"
+          "title": "Peak Design expands its collection of wireless charging accessories",
+          "link": "https://www.theverge.com/tech/1024484/peak-design-wireless-travel-battery-charging-charger-station-qi"
         },
         {
-          "title": "Meta will end Quest 2 OS updates in 2027",
-          "link": "https://www.theverge.com/tech/1024835/meta-vr-quest-2-pro-os-end-updates"
+          "title": "Bambu&#8217;s nine-nozzle H3C foretells the future of 3D printing",
+          "link": "https://www.theverge.com/tech/1024978/bambu-h3c-color-mixing-toolchanger-3d-printer-trend"
         },
         {
-          "title": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
-          "link": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down"
+          "title": "The 2026 iPad Mini is a terrific tiny tablet — for a big price",
+          "link": "https://www.theverge.com/tech/1025015/2026-ipad-mini-oled-review"
         },
         {
-          "title": "BMW is taking on Tesla’s FSD with urban driver assist starting in 2027",
-          "link": "https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027"
+          "title": "Adobe’s Premiere mobile app is adding licensed music from ‘leading artists’",
+          "link": "https://www.theverge.com/tech/1025160/adobe-umg-wmg-premiere-mobile-licensed-music"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-03T06:14:59.223Z"
+      "updatedAt": "2026-11-03T14:56:50.368Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "US strikes Iran ahead of midterm elections",
+          "title": "US strikes Iranian island ahead of midterm elections",
           "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
-          "link": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss"
+          "title": "Tenerife striker De Miguel dies after on-field collision",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
-          "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss"
+          "title": "Indian tourist killed after two helicopters collide near Everest base camp",
+          "link": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
+          "link": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "US urges Venezuela to release remaining political prisoners",
+          "link": "https://www.bbc.co.uk/news/articles/cxg5jln586pno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Asian Cup postponed in wake of attacks on Saudi Arabia",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
           "link": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
-          "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Shop freezers in seven European countries hit by cyber-attack",
-          "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
-          "link": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-03T06:14:59.387Z"
+      "updatedAt": "2026-11-03T14:56:50.441Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Americans head to the polls for elections that could define Trump's closing chapter",
-          "link": "https://www.bbc.co.uk/news/articles/cq2d6k4r5n9ro?at_medium=RSS&at_campaign=rss"
+          "title": "How the US midterm results could unfold - as millions of Americans head to the polls",
+          "link": "https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "US strikes Iran ahead of midterm elections",
-          "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss"
+          "title": "Spanish footballer dies after collision with goalkeeper during match",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-          "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss"
+          "title": "MI5 will not face contempt of court charges despite admitting its evidence was a lie",
+          "link": "https://www.bbc.co.uk/news/articles/cq5yn64wn2y7o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "PM plans debt re-set for Commonwealth nations as slavery apology talks begin",
-          "link": "https://www.bbc.co.uk/news/articles/c58jzn1ve0kjo?at_medium=RSS&at_campaign=rss"
+          "title": "Watch: Why is 'Mogging' the word of the year?",
+          "link": "https://www.bbc.co.uk/news/videos/cm3wv029jlxyo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
-          "link": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss"
+          "title": "Celebrity loses injunction bid but will stay anonymous pending appeal",
+          "link": "https://www.bbc.co.uk/news/articles/cqglwjdgg045o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Scientists detect signals at the smallest scale ever explored",
-          "link": "https://www.bbc.co.uk/news/articles/c5pvgxkkv4dzo?at_medium=RSS&at_campaign=rss"
+          "title": "Mahmood refuses to put cost on care worker settlement climbdown",
+          "link": "https://www.bbc.co.uk/news/articles/cm75pgqdyzldo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-03T06:14:59.423Z"
+      "updatedAt": "2026-11-03T14:56:50.462Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "In Run-Up to Midterms, Legacy of 2020 Looms Large Over Justice Dept.",
-          "link": "https://www.nytimes.com/2026/11/02/us/politics/midterms-2020-election-justice-department.html"
+          "title": "What’s at Stake in Today’s Elections",
+          "link": "https://www.nytimes.com/video/us/politics/100000011228221/whats-at-stake-in-todays-elections.html"
         },
         {
-          "title": "Trump Delivers a Closing Midterm Message. Mostly About Landscaping.",
-          "link": "https://www.nytimes.com/2026/11/02/us/politics/trump-reflecting-pool-midterms.html"
+          "title": "Trump Effort to Prove Rampant Noncitizen Voting Leads to Few Charges So Far",
+          "link": "https://www.nytimes.com/2026/11/03/us/politics/dhs-noncitizen-voting-midterms.html"
         },
         {
-          "title": "Supreme Court Rejects Trump Administration Request to Intervene in California Ballot Case",
-          "link": "https://www.nytimes.com/2026/11/02/us/politics/trump-supreme-court-california-ballots.html"
+          "title": "What to Expect on Election Night, and Trump’s $1 Million Voter Fraud Reward",
+          "link": "https://www.nytimes.com/2026/11/03/podcasts/the-headlines/midterm-election-trump-voter-fraud-reward.html"
         },
         {
-          "title": "Trump’s Election Fraud Reward Raises Fears of Vigilantism, Local Officials Say",
-          "link": "https://www.nytimes.com/2026/11/02/us/politics/trump-midterms-election-fraud-reward.html"
+          "title": "As Trump’s Midterm Deadline Looms, Gulf Countries Brace for Possible Renewal of Iran War",
+          "link": "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-midterms-election.html"
         },
         {
-          "title": "Democratic Divisions on Israel Come Thundering Back, in Preview of Fights to Come",
-          "link": "https://www.nytimes.com/2026/11/02/us/politics/democrats-split-israel-michigan.html"
+          "title": "U.S. Military Strikes Iran’s Qeshm Island in What U.S. Officials Call a Defensive Measure",
+          "link": "https://www.nytimes.com/2026/11/02/us/politics/us-military-strikes-iran-qeshm-island.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-03T06:14:59.622Z"
+      "updatedAt": "2026-11-03T14:56:50.634Z"
     }
   },
   "indices": {
     "data": [
       {
         "name": "S&P 500",
-        "price": 7541.4,
-        "pct": -1.7633718347690601
+        "price": 7562.51,
+        "pct": -2.073006500401421
       },
       {
         "name": "Dow Jones",
-        "price": 51983.98,
-        "pct": -0.7211394308575076
+        "price": 51716.55,
+        "pct": -1.262028765366543
       },
       {
         "name": "Nasdaq",
-        "price": 25164.363,
-        "pct": -3.8404310686764447
+        "price": 25316.682,
+        "pct": -4.385287151769729
       },
       {
         "name": "Gold",
-        "price": 3930.8,
-        "pct": -2.4954110234657914
+        "price": 3955.2,
+        "pct": -1.8901622265218103
       },
       {
         "name": "Bitcoin",
-        "price": 76300.74,
-        "pct": -1.162552862300824
+        "price": 77204.23,
+        "pct": 0.007798108272186003
       },
       {
         "name": "SpaceX",
-        "price": 136.37,
-        "pct": -7.168141592920355
+        "price": 139.86,
+        "pct": -5.868892179297347
       }
     ],
     "ok": true,
-    "updatedAt": "2026-11-03T06:14:59.919Z"
+    "updatedAt": "2026-11-03T14:56:50.860Z"
   }
 }
