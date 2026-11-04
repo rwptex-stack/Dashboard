@@ -1,94 +1,106 @@
 {
-  "fetchedAt": "2026-11-04T11:42:13.713Z",
+  "fetchedAt": "2026-11-04T18:59:39.335Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Bonta says he'll counter DOJ election monitors with observers of his own",
-          "link": "https://www.foxnews.com/politics/bonta-counter-doj-election-monitors-observers"
+          "title": "Florida DeSantis describes GOP midterms wipeout as 'close to an extinction-level event' for Republicans",
+          "link": "https://www.foxnews.com/politics/florida-desantis-describes-gop-midterms-wipeout-close-extinction-level-event-republicans"
         },
         {
-          "title": "Trump pledges to veto 'insane' Dem bills, pinpoints issue partially to blame for Republican losses",
-          "link": "https://www.foxnews.com/politics/trump-pledges-veto-insane-dem-bills-pinpoints-issue-partially-blame-republican-losses"
+          "title": "World Series champion Mark Teixeira wins US House seat in Texas: 'I'm excited'",
+          "link": "https://www.foxnews.com/outkick-sports/world-series-champion-mark-teixeira-wins-us-house-seat-texas-excited"
         },
         {
-          "title": "‘LAWYER UP’: Democrats, Republicans waste no time in setting social media ablaze after midterm sweep",
-          "link": "https://www.foxnews.com/politics/lawyer-up-democrats-republicans-waste-no-time-setting-social-media-ablaze-after-midterm-sweep"
+          "title": "Australian outdoor influencer wasn't about to give the fish she caught to a crocodile without a fight",
+          "link": "https://www.foxnews.com/outkick-sports/australian-outdoor-influencer-wasnt-give-fish-caught-crocodile-without-fight"
         },
         {
-          "title": "El-Sayed mocks Trump, Vance and Rogers in gloating victory speech signaling combative tone in Senate",
-          "link": "https://www.foxnews.com/politics/el-sayed-mocks-trump-vance-rogers-gloating-victory-speech-signaling-combative-tone-senate"
+          "title": "Hasan Piker declares 'woke is back,' fantasizes about putting Donald Trump in prison",
+          "link": "https://www.foxnews.com/media/hasan-piker-declares-woke-back-fantasizes-about-putting-donald-trump-prison"
         },
         {
-          "title": "Dem AG pulls off upset of sitting Republican governor after blistering campaign in key swing state",
-          "link": "https://www.foxnews.com/politics/dem-ag-pulls-off-upset-sitting-republican-governor-blistering-campaign-key-swing-state"
+          "title": "Lions' Jack Campbell opens up about neck injury, announces lower body movement but acknowledges challenges",
+          "link": "https://www.foxnews.com/outkick-sports/lions-jack-campbell-opens-neck-injury-announces-lower-body-movement-acknowledges-challenges"
         },
         {
-          "title": "LAURA INGRAHAM: Richer, safer and stronger: Why the Trump agenda deserves to keep going",
-          "link": "https://www.foxnews.com/opinion/laura-ingraham-richer-safer-stronger-why-trump-agenda-deserves-keep-going"
+          "title": "Helicopter crash near Miami leaves at least two injured: report",
+          "link": "https://www.foxnews.com/us/helicopter-crash-near-miami-leaves-least-two-injured-report"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-04T11:42:11.147Z"
+      "updatedAt": "2026-11-04T18:59:36.227Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "Tidal Wave: Democrats Capture House, Senate",
-          "link": "https://www.realclearpolitics.com/2026/11/04/tidal_wave_democrats_capture_house_senate_716479.html"
+          "title": "Blue-nami",
+          "link": "https://www.realclearpolitics.com/articles/2026/11/04/blue-nami_154651.html"
         },
         {
-          "title": "Voters Pummel GOP Out of Power",
-          "link": "https://www.realclearpolitics.com/2026/11/04/voters_pummel_gop_out_of_power_716483.html"
+          "title": "Blue Wave Is the Beginning of the End for Trump",
+          "link": "https://www.realclearpolitics.com/2026/11/04/blue_wave_is_the_beginning_of_the_end_for_trump_716560.html"
         },
         {
-          "title": "Stunning Dem Senate Victories in Deep-Red Terrain",
-          "link": "https://www.realclearpolitics.com/2026/11/04/stunning_dem_senate_victories_in_deep-red_terrain_716482.html"
+          "title": "Democrats' Blue Wave May Crash Into a Dead End",
+          "link": "https://www.realclearpolitics.com/2026/11/04/democrats_blue_wave_may_crash_into_a_dead_end_716551.html"
         },
         {
-          "title": "Texas Led the Way in a Republican Bloodbath",
-          "link": "https://www.realclearpolitics.com/2026/11/04/texas_led_the_way_in_a_republican_bloodbath_716481.html"
+          "title": "'Lawyer Up': New Dem Majority Preps Trump Investigations",
+          "link": "https://www.realclearpolitics.com/2026/11/04/lawyer_up_new_dem_majority_preps_trump_investigations_716556.html"
+        },
+        {
+          "title": "Trump's Bid To Thwart Midterm History Flops",
+          "link": "https://www.realclearpolitics.com/articles/2026/11/03/trumps_ballot_flop_154650.html"
         },
         {
           "title": "Trump Acknowledges Iran War Partly To Blame for GOP Losses",
           "link": "https://www.realclearpolitics.com/2026/11/04/trump_acknowledges_iran_war_partly_to_blame_for_gop_losses_716478.html"
-        },
-        {
-          "title": "GOP Learned Nothing From Bush's '06 Midterm Debacle",
-          "link": "https://www.realclearpolitics.com/2026/11/04/gop_learned_nothing_from_bushs_06_midterm_debacle_716485.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-04T11:42:11.305Z"
+      "updatedAt": "2026-11-04T18:59:36.391Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "The 2028 presidential race starts now. These six Democrats just had a great night",
-          "link": "https://thehill.com/homenews/campaign/6196701-democrats-emerge-stronger-midterms/"
+          "title": "Democratic wins ignite centrist-progressive fight over path to 2028",
+          "link": "https://thehill.com/homenews/campaign/6198754-party-direction-debate-2028/"
         },
         {
-          "title": "Alabama voters approve school prayer, Pledge of Allegiance amendment",
-          "link": "https://thehill.com/homenews/campaign/6190825-alabama-voters-approve-school-prayer-pledge-of-allegiance-measure-2026/"
+          "title": "Kiley loses House reelection bid in California",
+          "link": "https://thehill.com/homenews/campaign/6198722-kiley-loses-ca-district-6/"
         },
         {
-          "title": "Yarbrough wins Texas House election for redistricted Julie Johnson seat",
-          "link": "https://thehill.com/homenews/campaign/6134970-yarbrough-wins-texas-house-election/"
+          "title": "Georgia Gov. Brian Kemp rejects special session to undercut incoming Lance Bottoms",
+          "link": "https://thehill.com/homenews/state-watch/6198469-kemp-rejects-special-session/"
         },
         {
-          "title": "Arizona approves ballot measure designating sexes to sports teams",
-          "link": "https://thehill.com/homenews/campaign/6190934-arizona-approves-ballot-measure-transgender-sports-restrictions-2026/"
+          "title": "Schumer says Republicans favor ending Iran war immediately, cites ‘power of the purse’",
+          "link": "https://thehill.com/homenews/senate/6198699-schumer-republicans-iran-war-end/"
         },
         {
-          "title": "Idaho rejects ballot measure adding abortion access protection",
-          "link": "https://thehill.com/homenews/campaign/6191184-idaho-rejects-ballot-measure-adding-abortion-access-protection-2026/"
+          "title": "Democrats' election success boosts ranks of Congressional Hispanic Caucus",
+          "link": "https://thehill.com/homenews/house/6198631-congressional-hispanic-caucus-membership-midterm-elections/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-04T11:42:11.919Z"
+      "updatedAt": "2026-11-04T18:59:36.849Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "Binance says hackers who stole billions in crypto spent months planning heist",
+          "link": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/"
+        },
+        {
+          "title": "What I learned driving the Slate electric truck prototype",
+          "link": "https://arstechnica.com/cars/2026/11/what-i-learned-driving-the-slate-electric-truck-prototype/"
+        },
+        {
+          "title": "The DEA banned a drug some opioid users called a miracle",
+          "link": "https://arstechnica.com/health/2026/11/the-dea-banned-a-drug-some-opioid-users-called-a-miracle/"
+        },
         {
           "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
           "link": "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/"
@@ -96,112 +108,100 @@
         {
           "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
           "link": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/"
-        },
-        {
-          "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
-          "link": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/"
-        },
-        {
-          "title": "Buttons are back and storage is king when it comes to car interiors",
-          "link": "https://arstechnica.com/cars/2026/11/yes-to-storage-no-to-piano-black-how-car-interior-design-is-changing/"
-        },
-        {
-          "title": "Google will let schools skip AI tools, but they have to give up search, too",
-          "link": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-04T11:42:12.030Z"
+      "updatedAt": "2026-11-04T18:59:37.133Z"
     },
     "The Verge": {
       "items": [
         {
-          "title": "The Legend of Zelda: Ocarina of Time never gets old",
-          "link": "https://www.theverge.com/games/1025415/the-legend-of-zelda-ocarina-of-time-review-nintendo-switch-2"
+          "title": "Nothing teases a screen-free AI device ahead of launch next month",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei"
         },
         {
-          "title": "AMD rides data center riches to &#8216;largest and most profitable&#8217; quarter in history",
-          "link": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc"
+          "title": "Apple will check shared iCloud links for ‘harmful content’",
+          "link": "https://www.theverge.com/tech/1026604/apple-icloud-links-harmful-content-27-3"
         },
         {
-          "title": "All the news about The Legend of Zelda: Ocarina of Time remake",
-          "link": "https://www.theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news"
+          "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
+          "link": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables"
         },
         {
-          "title": "The biggest modding site in PC gaming is taking a stance on AI",
-          "link": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures"
+          "title": "ChatGPT will now make you animated GIFs",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6"
         },
         {
-          "title": "Please stop asking me when the AI bubble will pop",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds"
+          "title": "God of War Laufey delayed until May",
+          "link": "https://www.theverge.com/games/1026448/sony-playstation-god-of-war-laufey-delay"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-04T11:42:12.131Z"
+      "updatedAt": "2026-11-04T18:59:37.182Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "South Carolina elects Democratic senator for first time in almost three decades",
-          "link": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss"
+          "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
+          "link": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
-          "link": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss"
+          "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
+          "link": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Florida Republicans fend off Democrats as state elects first black governor",
-          "link": "https://www.bbc.co.uk/news/articles/c9146d88pl32o?at_medium=RSS&at_campaign=rss"
+          "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+          "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Iran's chief negotiator says Americans voted 'no to war'",
-          "link": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss"
+          "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
+          "link": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "'Most difficult days of my life' for keeper Owono",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Israel's president begins consultations with parties after election deadlock",
+          "link": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
           "link": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "ANC under pressure to reverse South Africa decline",
-          "link": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
-          "link": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-04T11:42:12.244Z"
+      "updatedAt": "2026-11-04T18:59:37.280Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Anthony Zurcher: Democrats push deep into Trump heartland on historic night",
-          "link": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss"
+          "title": "Bowen: Trump's loss limits powers at home, but it will likely be different abroad",
+          "link": "https://www.bbc.co.uk/news/articles/crkg7wj8g201o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Trump takes aim at Republicans but says Democrats did a 'good job'",
-          "link": "https://www.bbc.co.uk/news/articles/c6073l9y15xxo?at_medium=RSS&at_campaign=rss"
+          "title": "Everything you need to know from the US midterm elections",
+          "link": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Democrats won Congress in a blue wave. Now comes the hard part.",
+          "link": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "How America voted in maps and charts",
           "link": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Democrat Abdul El-Sayed wins Michigan to become first Muslim senator in US history",
-          "link": "https://www.bbc.co.uk/news/articles/c893z55pxrewo?at_medium=RSS&at_campaign=rss"
+          "title": "The last time a Kansas Democrat was in the Senate, the Wizard of Oz was in cinemas",
+          "link": "https://www.bbc.co.uk/news/articles/cqx29rxkld84o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Standout moments from a night of midterm election firsts",
-          "link": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "'Multi-cancer' blood tests coming to some GP surgeries in England",
-          "link": "https://www.bbc.co.uk/news/articles/cm9qz93ew22no?at_medium=RSS&at_campaign=rss"
+          "title": "Huntingdon train attack passengers thought stabbing was a 'joke'",
+          "link": "https://www.bbc.co.uk/news/articles/cq8ez378661xo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-04T11:42:12.505Z"
+      "updatedAt": "2026-11-04T18:59:37.312Z"
     },
     "NY Times": {
       "items": [
@@ -210,57 +210,65 @@
           "link": "https://www.nytimes.com/2026/11/04/us/politics/midterm-election-trump-voters.html"
         },
         {
-          "title": "Democrats Take Congress in a Landslide, and Trump Says He’s ‘Willing to Accept Those Results’",
-          "link": "https://www.nytimes.com/2026/11/04/podcasts/the-headlines/midterm-election-results.html"
+          "title": "Stocks Rise as Democrats Flip Control of Congress",
+          "link": "https://www.nytimes.com/2026/11/04/business/midterm-elections-stock-market.html"
         },
         {
-          "title": "How the Stock Market Is Reacting to the Midterm Elections",
-          "link": "https://www.nytimes.com/2026/11/04/business/midterm-elections-stock-market.html"
+          "title": "SpaceX and Tesla Stocks Tumble After Elon Musk-Backed Candidates Lose in Texas",
+          "link": "https://www.nytimes.com/2026/11/04/business/musk-elections-spacex-tesla-stocks.html"
         },
         {
           "title": "Israel’s President Could Play Key Role in Breaking Post-Election Deadlock",
           "link": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-president-herzog-election-government.html"
         },
         {
-          "title": "More Iranians Call for Nuclear Weapons After War With U.S.",
-          "link": "https://www.nytimes.com/2026/11/03/world/europe/iran-nuclear-weapons-war.html"
+          "title": "How WeRateDogs Is Fighting A.I. Slop, One Perfect Puppy at a Time",
+          "link": "https://www.nytimes.com/2026/11/04/style/we-rate-dogs-ai.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-04T11:42:12.601Z"
+      "updatedAt": "2026-11-04T18:59:37.406Z"
     },
     "ARTNews": {
       "items": [
         {
+          "title": "Nearly Everyone Is Concerned About How Museums Use AI in Exhibitions, Survey Says",
+          "link": "https://www.artnews.com/art-news/news/museums-ai-use-exhibitions-survey-1234804639/"
+        },
+        {
+          "title": "Michelangelo’s Secret to Vibrant Colors of the Sistine Chapel Revealed, Sydney’s New Powerhouse Museum to Open Amid Controversy, and More: Morning Links for November 4, 2026",
+          "link": "https://www.artnews.com/art-news/news/michelangelo-secret-to-vibrant-colors-of-the-sistine-chapel-1234804638/"
+        },
+        {
+          "title": "Guillaume Cerutti to Lead the Château de Versailles After Short Stint at Pinault Collection",
+          "link": "https://www.artnews.com/art-news/news/guillaume-cerutti-chateau-de-versailles-president-1234804644/"
+        },
+        {
+          "title": "Turkey Uses AI and Other Tech to Claw Back 100 Looted Antiquities from the US",
+          "link": "https://www.artnews.com/art-news/news/turkey-uses-ai-tech-100-looted-antiquities-us-1234804634/"
+        },
+        {
+          "title": "Skulptur Projekte Münster 2027 Announces 13 More Commissions by Artists Including Kapwani Kiwanga, Ali Cherri, and Nolan Oswald Dennis",
+          "link": "https://www.artnews.com/art-news/news/skulptur-projekte-munster-2027-new-commissions-ali-cherri-1234804626/"
+        },
+        {
           "title": "Simon Denny Commissioned by New York Magazine to Create Portraits of ‘New AI Elite’ for Power Issue",
           "link": "https://www.artnews.com/art-news/news/simon-denny-ai-portraits-new-york-magazine-power-issue-1234804625/"
-        },
-        {
-          "title": "Fair Warning to Auction Major Yoshitomo Nara Painting for Up to $15 M.",
-          "link": "https://www.artnews.com/art-news/news/yoshitomo-nara-fair-warning-auction-loic-gouzer-1234804618/"
-        },
-        {
-          "title": "French Museum’s ‘Wanted’ Poster Campaign for Stolen Art Leads to Return of Missing 17th-Century Dutch Painting",
-          "link": "https://www.artnews.com/art-news/news/french-museum-wanted-poster-campaign-for-stolen-paintings-successful-1234804603/"
-        },
-        {
-          "title": "Former High Museum COO Sentenced to One Year in Prison for Siphoning $600,000 to Buy Guitars",
-          "link": "https://www.artnews.com/art-news/news/former-high-museum-coo-sentenced-1234804610/"
-        },
-        {
-          "title": "Dia Art Foundation Teams Up with MCA Australia on Two-Part Exhibition for Indigenous Artist d harding",
-          "link": "https://www.artnews.com/art-news/news/d-harding-exhibition-dia-mca-australia-1234804595/"
-        },
-        {
-          "title": "Miquel Navarro, Sculptor of Large-Scale, Pared-Down Cities and Valencia’s Beloved ‘Pink Panther,’ Dies at 81",
-          "link": "https://www.artnews.com/art-news/news/miquel-navarro-sculptor-dead-1234804567/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-04T11:42:12.730Z"
+      "updatedAt": "2026-11-04T18:59:37.731Z"
     },
     "Hyperallergic": {
       "items": [
+        {
+          "title": "Doris Salcedo on Colombia's Refusal to Forget",
+          "link": "https://hyperallergic.com/doris-salcedo-on-colombias-refusal-to-forget/"
+        },
+        {
+          "title": "School of the Art Institute of Chicago’s Graduate Programs and Deadlines",
+          "link": "https://hyperallergic.com/school-of-the-art-institute-of-chicagos-graduate-programs-and-deadlines/"
+        },
         {
           "title": "The Art of Showing Up",
           "link": "https://hyperallergic.com/the-art-of-showing-up/"
@@ -276,24 +284,24 @@
         {
           "title": "Guadalupe Rosales’s Portable Archive of East LA",
           "link": "https://hyperallergic.com/guadalupe-rosaless-portable-archive-of-east-la/"
-        },
-        {
-          "title": "The Indian Pavilion in Venice Asks: What Is Home?",
-          "link": "https://hyperallergic.com/the-indian-pavilion-in-venice-asks-what-is-home/"
-        },
-        {
-          "title": "As Politicians Break Promises, This Public Artwork Keeps Them",
-          "link": "https://hyperallergic.com/as-politicians-break-promises-this-public-artwork-keeps-them/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-04T11:42:13.058Z"
+      "updatedAt": "2026-11-04T18:59:38.030Z"
     },
     "Contemporary Art Daily": {
       "items": [
         {
           "title": "Announcement",
           "link": ""
+        },
+        {
+          "title": "Jay Payton at Sant'Andrea de Scaphis",
+          "link": "https://www.contemporaryartdaily.com/project/jay-payton-at-sant-andrea-de-scaphis-rome-112491?source=rss"
+        },
+        {
+          "title": "Sam Anderson at Derosia",
+          "link": "https://www.contemporaryartdaily.com/project/sam-anderson-at-derosia-new-york-115064?source=rss"
         },
         {
           "title": "David Hartt at The Met",
@@ -306,21 +314,17 @@
         {
           "title": "Noah Barker at Fanta-MLN",
           "link": "https://www.contemporaryartdaily.com/project/noah-barker-at-fanta-mln-milan-110115?source=rss"
-        },
-        {
-          "title": "Koak at Union Pacific",
-          "link": "https://www.contemporaryartdaily.com/project/koak-at-union-pacific-london-108959?source=rss"
-        },
-        {
-          "title": "<i>Wayfarer of Fire</i> at Kiang Malingue",
-          "link": "https://www.contemporaryartdaily.com/project/wayfarer-of-fire-at-kiang-malingue-hong-kong-102524?source=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-04T11:42:13.625Z"
+      "updatedAt": "2026-11-04T18:59:39.175Z"
     },
     "Booooooom": {
       "items": [
+        {
+          "title": "“Fearless Flowers” by Photographer Marcin T. Jozefiak",
+          "link": "https://www.booooooom.com/2026/11/04/fearless-flowers-by-photographer-marcin-t-jozefiak/"
+        },
         {
           "title": "2026 Booooooom Photo Awards: Call to Submit",
           "link": "https://www.booooooom.com/2026/11/03/2026-booooooom-photo-awards-call-to-submit/"
@@ -340,14 +344,10 @@
         {
           "title": "“Veil” by Photographer Jennilee Marigomen",
           "link": "https://www.booooooom.com/2026/10/29/veil-by-photographer-jennilee-marigomen/"
-        },
-        {
-          "title": "Artist Spotlight: Alina-Ondine Slimovschi",
-          "link": "https://www.booooooom.com/2026/10/28/artist-spotlight-alina-ondine-slimovschi-5/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-04T11:42:13.713Z"
+      "updatedAt": "2026-11-04T18:59:39.335Z"
     }
   }
 }
