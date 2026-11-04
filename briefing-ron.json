@@ -1,11 +1,19 @@
 {
-  "fetchedAt": "2026-11-04T01:09:46.268Z",
+  "fetchedAt": "2026-11-04T08:53:09.550Z",
   "feeds": {
     "MarketWatch": {
       "items": [
         {
+          "title": "Democrats win the House and Senate. Here’s what it means for your finances.",
+          "link": "https://www.marketwatch.com/story/democrats-win-the-senate-but-control-of-the-house-is-still-up-in-the-air-heres-what-it-means-for-your-finances-ed78cd6e?mod=mw_rss_topstories"
+        },
+        {
           "title": "Here’s why AMD’s stock is rising — and sending a confident message about the AI trade",
           "link": "https://www.marketwatch.com/story/heres-why-amds-stock-is-rising-and-sending-a-confident-message-about-the-ai-trade-11cb4d8a?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Super Micro’s stock pops as earnings show booming demand for AI servers",
+          "link": "https://www.marketwatch.com/story/super-micros-stock-pops-as-earnings-show-booming-demand-for-ai-servers-2d179658?mod=mw_rss_topstories"
         },
         {
           "title": "What analysts are telling us while Apple’s stock falls after earnings report",
@@ -18,104 +26,96 @@
         {
           "title": "AI’s control over the bond market is growing — even rivaling war and elections",
           "link": "https://www.marketwatch.com/story/ais-control-over-the-bond-market-is-growing-even-rivaling-war-and-elections-5d727b35?mod=mw_rss_topstories"
-        },
-        {
-          "title": "S&P 500 is looking over the edge of a technical cliff — what happens if it falls off?",
-          "link": "https://www.marketwatch.com/story/s-p-500-is-looking-over-the-edge-of-a-technical-cliff-what-happens-if-it-falls-off-be97ebd9?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Depressing, but true: If you want to get ahead at work, embrace virtue signaling",
-          "link": "https://www.marketwatch.com/story/depressing-but-true-if-you-want-to-get-ahead-at-work-embrace-virtue-signaling-b4e72f0a?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-04T01:09:44.090Z"
+      "updatedAt": "2026-11-04T08:53:08.070Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Wild video shows military helicopters nearly being hit by pregame fireworks",
-          "link": "https://www.foxnews.com/outkick-sports/wild-video-shows-military-helicopters-nearly-hit-pregame-fireworks"
+          "title": "Dem wins Trump-targeted Texas district in rebuke of Republican redistricting shakeup",
+          "link": "https://www.foxnews.com/politics/dem-wins-trump-targeted-texas-district-rebuke-republican-redistricting-shakeup"
         },
         {
-          "title": "Georgia Senator Warnock says only a 'spiritually sick' country would elect Trump twice",
-          "link": "https://www.foxnews.com/media/georgia-senator-says-spiritually-sick-country-would-elect-donald-trump-twice"
+          "title": "Speaker Mike Johnson projected to cruise to re-election for fifth House term",
+          "link": "https://www.foxnews.com/politics/speaker-mike-johnson-cruises-re-election-fifth-house-term"
         },
         {
-          "title": "Paper ballot shortages spark Election Day scramble at polling places in several states",
-          "link": "https://www.foxnews.com/politics/paper-ballot-shortages-spark-election-day-scramble-polling-places-several-states"
+          "title": "Dems flips yet another Senate seat in Trump country amid sweeping GOP upsets",
+          "link": "https://www.foxnews.com/politics/dems-flips-yet-another-senate-seat-trump-country-amid-sweeping-gop-upsets"
         },
         {
-          "title": "Trump admin puts alleged 'Decoy Dan' conspirators on notice in Alaska election spoiler probe",
-          "link": "https://www.foxnews.com/politics/trump-admin-puts-alleged-decoy-dan-conspirators-notice-alaska-election-spoiler-probe"
+          "title": "Thune plans to run for Republican minority leader after Dem's midterm takeover",
+          "link": "https://www.foxnews.com/politics/thune-plans-run-republican-minority-leader-after-dem-midterm-takeover"
         },
         {
-          "title": "Man, 86, and his dog rescued hundreds of miles off California coast after going silent for 2 months",
-          "link": "https://www.foxnews.com/us/man-86-dog-rescued-hundreds-miles-california-coast-going-silent-2-months"
+          "title": "'Pod Save America' hosts call Democratic Party's midterm wins 'the end of the Trump era'",
+          "link": "https://www.foxnews.com/media/pod-save-america-hosts-call-democratic-party-midterm-wins-end-trump-era"
         },
         {
-          "title": "Mike Florio ends 'conscious voting protest,' decides to vote in 2026 midterms",
-          "link": "https://www.foxnews.com/outkick-sports/mike-florio-ends-conscious-voting-protest-decides-vote-2026-midterms"
+          "title": "Abdul El-Sayed delivers major blow to GOP in Michigan after bruising Senate race",
+          "link": "https://www.foxnews.com/politics/abdul-el-sayed-delivers-major-blow-gop-michigan-after-bruising-senate-race"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-04T01:09:44.439Z"
+      "updatedAt": "2026-11-04T08:53:08.156Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "Voters Head to the Polls as GOP Defends Territory",
-          "link": "https://www.realclearpolitics.com/2026/11/03/voters_head_to_the_polls_as_gop_defends_territory_716448.html"
+          "title": "Tidal Wave: Democrats Capture House, Senate",
+          "link": "https://www.realclearpolitics.com/2026/11/04/tidal_wave_democrats_capture_house_senate_716479.html"
         },
         {
-          "title": "Michigan Race Ends With Acrimony and Funky Polls--Again",
-          "link": "https://www.realclearpolitics.com/2026/11/03/michigan_race_ends_with_acrimony_and_funky_polls--again_716381.html"
+          "title": "Voters Pummel GOP Out of Power",
+          "link": "https://www.realclearpolitics.com/2026/11/04/voters_pummel_gop_out_of_power_716483.html"
         },
         {
-          "title": "At Long Last, the Rules Apply to Trump",
-          "link": "https://www.realclearpolitics.com/2026/11/03/at_long_last_the_rules_apply_to_trump_716335.html"
+          "title": "Stunning Dem Senate Victories in Deep-Red Terrain",
+          "link": "https://www.realclearpolitics.com/2026/11/04/stunning_dem_senate_victories_in_deep-red_terrain_716482.html"
         },
         {
-          "title": "Will My Vote Count in NY-17? I'm Actually Not Sure",
-          "link": "https://www.realclearpolitics.com/2026/11/03/will_my_vote_count_in_ny-17_im_actually_not_sure_716468.html"
+          "title": "Texas Led the Way in a Republican Bloodbath",
+          "link": "https://www.realclearpolitics.com/2026/11/04/texas_led_the_way_in_a_republican_bloodbath_716481.html"
         },
         {
-          "title": "Will the Midterms Live Up to the Hype? 6 Key Stories",
-          "link": "https://www.realclearpolitics.com/2026/11/03/will_the_midterms_live_up_to_the_hype_6_key_stories_716469.html"
+          "title": "Trump Acknowledges Iran War Partly To Blame for GOP Losses",
+          "link": "https://www.realclearpolitics.com/2026/11/04/trump_acknowledges_iran_war_partly_to_blame_for_gop_losses_716478.html"
         },
         {
-          "title": "I Must Come Clean About the Hotel Bel Air",
-          "link": "https://www.realclearpolitics.com/2026/11/03/i_must_come_clean_about_the_hotel_bel_air_716470.html"
+          "title": "GOP Learned Nothing From Bush's '06 Midterm Debacle",
+          "link": "https://www.realclearpolitics.com/2026/11/04/gop_learned_nothing_from_bushs_06_midterm_debacle_716485.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-04T01:09:44.524Z"
+      "updatedAt": "2026-11-04T08:53:08.291Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "West Virginia’s Moore Capito clinches third term in Senate",
-          "link": "https://thehill.com/homenews/campaign/6134077-shelley-moore-capito-wins-west-virginia-senate-reelection/"
+          "title": "Nevada approves abortion rights amendment",
+          "link": "https://thehill.com/homenews/campaign/6185144-nevada-approves-abortion-rights-amendment/"
         },
         {
-          "title": "Republican Joe Strada wins Florida's 11th Congressional District",
-          "link": "https://thehill.com/homenews/campaign/6163101-joe-strada-republican-florida-11th-congressional-district/"
+          "title": "Nevada approves voter ID requirement for casting ballot",
+          "link": "https://thehill.com/homenews/campaign/6189761-nevada-ballot-measure-passes/"
         },
         {
-          "title": "Rep. Debbie Wasserman Schultz wins Florida House seat",
-          "link": "https://thehill.com/homenews/campaign/6186589-wasserman-schultz-wins-florida-district/"
+          "title": "Kaptur beats Merrin in Ohio House rematch",
+          "link": "https://thehill.com/homenews/campaign/6175333-kaptur-wins-ohio-house-seat/"
         },
         {
-          "title": "Ossoff wins reelection in battleground Georgia",
-          "link": "https://thehill.com/homenews/campaign/6181803-ossoff-wins-georgia-senate-reelection/"
+          "title": "Alaska approves citizenship voting requirement",
+          "link": "https://thehill.com/homenews/campaign/6190880-alaska-approves-citizenship-voting-requirement-ballot-measure-2026/"
         },
         {
-          "title": "Gilbert wins election to succeed Florida's Wilson in House",
-          "link": "https://thehill.com/homenews/campaign/6184593-gilbert-wins-florida-house-race/"
+          "title": "Former Justice Department official to succeed Luttrell in Texas district",
+          "link": "https://thehill.com/homenews/campaign/6172661-jessica-steinmann-wins-texas-district/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-04T01:09:45.499Z"
+      "updatedAt": "2026-11-04T08:53:08.865Z"
     },
     "Ars Technica": {
       "items": [
@@ -141,10 +141,14 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-04T01:09:45.607Z"
+      "updatedAt": "2026-11-04T08:53:08.989Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "AMD rides data center riches to &#8216;largest and most profitable&#8217; quarter in history",
+          "link": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc"
+        },
         {
           "title": "All the news about The Legend of Zelda: Ocarina of Time remake",
           "link": "https://www.theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news"
@@ -160,104 +164,100 @@
         {
           "title": "Canva is announcing changes and layoffs affecting 22 percent of its staff",
           "link": "https://www.theverge.com/tech/1025971/canva-changes-layoffs"
-        },
-        {
-          "title": "Sonos adds new Presets and prepares for the 27voice AI beta",
-          "link": "https://www.theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-04T01:09:45.896Z"
+      "updatedAt": "2026-11-04T08:53:09.059Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Spanish transport minister resigns days after deadly train crash",
-          "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss"
+          "title": "South Carolina elects Democratic senator for first time in almost three decades",
+          "link": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Seven flights across Europe targeted by suspected bomb threats",
-          "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss"
+          "title": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
+          "link": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-          "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss"
+          "title": "Florida Republicans fend off Democrats as state elects first black governor",
+          "link": "https://www.bbc.co.uk/news/articles/c9146d88pl32o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "NTSB says crucial plane parts found three miles from Florida crash site",
-          "link": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no?at_medium=RSS&at_campaign=rss"
+          "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
+          "link": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Libya's top religious authority rules against wearing Nike clothes",
-          "link": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss"
+          "title": "ANC under pressure to reverse South Africa decline",
+          "link": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
-          "link": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss"
+          "title": "Killer who escaped Tennessee prison captured after week-long manhunt",
+          "link": "https://www.bbc.co.uk/news/articles/cmq8nj23v8qqo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
-          "link": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss"
+          "title": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
+          "link": "https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-04T01:09:46.031Z"
+      "updatedAt": "2026-11-04T08:53:09.194Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "When will we know the results?",
-          "link": "https://www.bbc.co.uk/news/articles/cq20321y2nlyo?at_medium=RSS&at_campaign=rss"
+          "title": "Anthony Zurcher: Democrats tear up Trump's political map on historic night",
+          "link": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "US voters name economy and state of democracy as top issues, poll says",
-          "link": "https://www.bbc.co.uk/news/articles/c39wz0970eypo?at_medium=RSS&at_campaign=rss"
+          "title": "How America voted in maps and charts",
+          "link": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "How the US midterm results could unfold - as millions of Americans head to the polls",
-          "link": "https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss"
+          "title": "Key moments from a night of midterm election firsts",
+          "link": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "The key US Senate races to watch",
-          "link": "https://www.bbc.co.uk/news/articles/cqy7ljkprvjko?at_medium=RSS&at_campaign=rss"
+          "title": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
+          "link": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Queues, smiles and Uncle Sam: The US midterms in pictures",
-          "link": "https://www.bbc.co.uk/news/articles/cm89zn2kxjdno?at_medium=RSS&at_campaign=rss"
+          "title": "Miliband says slavery apology will not bring cost for UK taxpayers",
+          "link": "https://www.bbc.co.uk/news/articles/cm8ezneewr9lo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Spanish transport minister resigns days after deadly train crash",
-          "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss"
+          "title": "'Multi-cancer' blood tests coming to some GP surgeries soon",
+          "link": "https://www.bbc.co.uk/news/articles/cm9qz93ew22no?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-04T01:09:46.077Z"
+      "updatedAt": "2026-11-04T08:53:09.317Z"
     },
     "NY Times": {
       "items": [
-        {
-          "title": "How We Model Election Results With the Needle",
-          "link": "https://www.nytimes.com/video/us/elections/100000011253864/how-we-model-election-results-with-the-needle.html"
-        },
         {
           "title": "More Iranians Call for Nuclear Weapons After War With U.S.",
           "link": "https://www.nytimes.com/2026/11/03/world/europe/iran-nuclear-weapons-war.html"
         },
         {
-          "title": "Trump Says U.S. to End $4 Billion in Aid to Israel at End of Year",
-          "link": "https://www.nytimes.com/2026/11/03/us/politics/trump-israel-aid-netanyahu.html"
+          "title": "Key Part of Jet in Deadly Florida Crash Found Far From Impact Site",
+          "link": "https://www.nytimes.com/2026/11/03/us/florida-plane-crash-wreckage-recovered.html"
         },
         {
-          "title": "Israeli Claims of Iranian Chemical Weapons Divide U.S. Officials",
-          "link": "https://www.nytimes.com/2026/11/03/world/middleeast/iran-chemical-weapons-israel-trump.html"
+          "title": "Investigators Looking for Cause of Learjet Crash Say Ice Was ‘Certainly a Factor’",
+          "link": "https://www.nytimes.com/2026/11/02/science/florida-learjet-crash-causes.html"
         },
         {
-          "title": "A Test for Israeli Democracy: Should Jews Ask Arabs to Join the Government?",
-          "link": "https://www.nytimes.com/2026/11/03/world/middleeast/israel-coalition-arab-lawmakers.html"
+          "title": "How the Stock Market Is Reacting to the Midterm Elections",
+          "link": "https://www.nytimes.com/2026/11/04/business/midterm-elections-stock-market.html"
+        },
+        {
+          "title": "U.S. Assisted Venezuela in Deadly Drone Strike, Officials Say",
+          "link": "https://www.nytimes.com/2026/11/03/world/americas/us-venezuela-strike-eln-drug-trafficking.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-04T01:09:46.100Z"
+      "updatedAt": "2026-11-04T08:53:09.447Z"
     }
   },
   "indices": {
@@ -269,8 +269,8 @@
       },
       {
         "name": "Dow Jones",
-        "price": 51786.72,
-        "pct": -1.1280592054957848
+        "price": 51786.7,
+        "pct": -1.1280973897796378
       },
       {
         "name": "Nasdaq",
@@ -279,13 +279,13 @@
       },
       {
         "name": "Gold",
-        "price": 3940.3,
-        "pct": -2.259760877114648
+        "price": 4046.5,
+        "pct": 3.7856831413988536
       },
       {
         "name": "Bitcoin",
-        "price": 76887.38,
-        "pct": -0.7068790174953692
+        "price": 78373.63,
+        "pct": 1.2124788935200341
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-11-04T01:09:46.268Z"
+    "updatedAt": "2026-11-04T08:53:09.550Z"
   }
 }
