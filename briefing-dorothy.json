@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-11-03T23:45:25.052Z",
+  "fetchedAt": "2026-11-04T03:44:02.294Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Spanish soccer player Jesús de Miguel dies after on-field collision as authorities open investigation",
-          "link": "https://www.foxnews.com/outkick-sports/spanish-soccer-player-jesus-de-miguel-dies-after-on-field-collision-authorities-open-investigation"
+          "title": "Hillary Clinton warns Dems may squander midterm victory if they fail to stay focused after election",
+          "link": "https://www.foxnews.com/media/hillary-clinton-warns-dems-may-squander-midterm-victory-fail-stay-focused-after-election"
         },
         {
-          "title": "Joe Rogan warns 'woke' ideology is replacing God on the left and entering into Christianity",
-          "link": "https://www.foxnews.com/media/joe-rogan-warns-woke-ideology-replacing-god-left-entering-christianity"
+          "title": "Georgia governor's mansion projected to flip blue for first time in nearly 30 years",
+          "link": "https://www.foxnews.com/politics/georgia-governors-mansion-projected-flip-blue-first-time-nearly-30-years"
         },
         {
-          "title": "Jerry Jones calls for Cowboys star player to see the ball more after crushing overtime defeat",
-          "link": "https://www.foxnews.com/outkick-sports/jerry-jones-calls-cowboys-star-player-see-ball-more-crushing-overtime-defeat"
+          "title": "Trump Bedminster golf course falls to Dems as Republicans lose key House seat",
+          "link": "https://www.foxnews.com/politics/trump-bedminster-golf-course-falls-dems-republicans-lose-key-house-seat"
         },
         {
-          "title": "Christa Pike asks court not to send her to former prison block following failed execution",
-          "link": "https://www.foxnews.com/us/christa-pike-asks-court-not-send-former-prison-block-following-failed-execution"
+          "title": "Massive upset: Andrews downs Trump-backed Graham in ruby-red South Carolina",
+          "link": "https://www.foxnews.com/politics/massive-upset-andrews-downs-trump-backed-graham-ruby-red-south-carolina"
         },
         {
-          "title": "WATCH: Repeat offender leads deputies on 100 mph chase before hiding under porch in his underwear",
-          "link": "https://www.foxnews.com/us/repeat-offender-leads-deputies-100-mph-chase-hiding-under-porch-underwear"
+          "title": "Mamdani-backed socialist wins NYC House seat as DSA expands its reach in Congress",
+          "link": "https://www.foxnews.com/politics/mamdani-backed-socialist-wins-nyc-house-seat-dsa-expands-reach-congress"
         },
         {
-          "title": "Two helicopters collide near Mount Everest during rescue flight, killing one, injuring others",
-          "link": "https://www.foxnews.com/travel/two-helicopters-collide-mount-everest-during-rescue-flight-killing-one-injuring-others"
+          "title": "Super Bowl champion Russell Wilson reportedly in the mix for NC State head-coaching job",
+          "link": "https://www.foxnews.com/outkick-sports/super-bowl-champion-russell-wilson-reportedly-mix-nc-state-head-coaching-job"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-03T23:45:21.692Z"
+      "updatedAt": "2026-11-04T03:44:00.033Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,36 +59,40 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-03T23:45:21.956Z"
+      "updatedAt": "2026-11-04T03:44:00.317Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Trump-backed Kentucky Republican wins House seat",
-          "link": "https://thehill.com/homenews/campaign/6186595-trump-backed-kentucky-republican-wins-house-seat/"
+          "title": "Democrats hold Arizona governor’s mansion with Hobbs win",
+          "link": "https://thehill.com/homenews/campaign/6177468-hobbs-wins-arizona-governor/"
         },
         {
-          "title": "What’s on the ballot: Abortion, transgender care",
-          "link": "https://thehill.com/newsletters/healthcare/6194310-whats-on-the-ballot-abortion-transgender-care/"
+          "title": "Talarico flips Texas Senate seat, beating Paxton in blow to Trump",
+          "link": "https://thehill.com/homenews/campaign/6176132-talarico-defeats-paxton-texan-upset/"
         },
         {
-          "title": "Carville predicts 'astronomical' Black turnout will drive midterm results",
-          "link": "https://thehill.com/homenews/campaign/6194361-carville-predicts-strong-black-turnout-midterms/"
+          "title": "Live updates: Talarico defeats Paxton as Texas Senate flips, Democrats take control of House",
+          "link": "https://thehill.com/homenews/campaign/6190941-live-updates-trump-midterm-elections-2026/"
         },
         {
-          "title": "Greene says Trump’s Israel aid announcement shows ‘how bad the polling is’",
-          "link": "https://thehill.com/policy/international/6194330-greene-criticizes-trump-israel-aid/"
+          "title": "JoAnna Mendoza wins Arizona House seat, flipping key district for Dems",
+          "link": "https://thehill.com/homenews/campaign/6178905-democrat-mendoza-wins-arizona-district-6/"
         },
         {
-          "title": "Big Tech, environmental groups in talks for potential data center framework",
-          "link": "https://thehill.com/policy/energy-environment/6194368-big-tech-environmental-groups-ai-data-center-framework/"
+          "title": "Sen. Mike Rounds wins reelection in South Dakota",
+          "link": "https://thehill.com/homenews/campaign/6184544-mike-rounds-wins-south-dakota-senate/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-03T23:45:22.545Z"
+      "updatedAt": "2026-11-04T03:44:00.812Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
+          "link": "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/"
+        },
         {
           "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
           "link": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/"
@@ -104,17 +108,25 @@
         {
           "title": "Google will let schools skip AI tools, but they have to give up search, too",
           "link": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/"
-        },
-        {
-          "title": "Another child dies of measles as CDC reportedly holds up health alert",
-          "link": "https://arstechnica.com/health/2026/11/another-child-dies-of-measles-as-cdc-reportedly-holds-up-health-alert/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-03T23:45:22.729Z"
+      "updatedAt": "2026-11-04T03:44:00.895Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "AMD rides data center riches to &#8216;largest and most profitable&#8217; quarter in history",
+          "link": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc"
+        },
+        {
+          "title": "All the news about The Legend of Zelda: Ocarina of Time remake",
+          "link": "https://www.theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news"
+        },
+        {
+          "title": "The biggest modding site in PC gaming is taking a stance on AI",
+          "link": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures"
+        },
         {
           "title": "Please stop asking me when the AI bubble will pop",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds"
@@ -122,25 +134,17 @@
         {
           "title": "Canva is announcing changes and layoffs affecting 22 percent of its staff",
           "link": "https://www.theverge.com/tech/1025971/canva-changes-layoffs"
-        },
-        {
-          "title": "Sonos adds new Presets and prepares for the 27voice AI beta",
-          "link": "https://www.theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access"
-        },
-        {
-          "title": "Valve is making changes to deal with a ‘significant increase’ in Steam game submissions",
-          "link": "https://www.theverge.com/games/1025722/valve-steam-game-increase-submissions"
-        },
-        {
-          "title": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
-          "link": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-03T23:45:22.861Z"
+      "updatedAt": "2026-11-04T03:44:01.003Z"
     },
     "BBC World": {
       "items": [
+        {
+          "title": "Democratic rising star Ossoff projected to hold Georgia seat",
+          "link": "https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "Spanish transport minister resigns days after deadly train crash",
           "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss"
@@ -158,56 +162,52 @@
           "link": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Libya's top religious authority rules against wearing Nike clothes",
-          "link": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
           "link": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
-          "link": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss"
+          "title": "Libya's top religious authority rules against wearing Nike clothes",
+          "link": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-03T23:45:23.149Z"
+      "updatedAt": "2026-11-04T03:44:01.037Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "A simple guide to the midterms",
-          "link": "https://www.bbc.co.uk/news/articles/c6wyz223j19po?at_medium=RSS&at_campaign=rss"
+          "title": "Anthony Zurcher: Democrats surge deep into Republican territory with historic wins",
+          "link": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "When will we know the results?",
+          "title": "South Carolina elects Democratic senator for first time in almost three decades",
+          "link": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "When will we know who wins control of Congress?",
           "link": "https://www.bbc.co.uk/news/articles/cq20321y2nlyo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "How the US midterm results could unfold - as millions of Americans head to the polls",
-          "link": "https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss"
+          "title": "Democratic rising star Ossoff projected to hold Georgia seat",
+          "link": "https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "The key US Senate races to watch",
-          "link": "https://www.bbc.co.uk/news/articles/cqy7ljkprvjko?at_medium=RSS&at_campaign=rss"
+          "title": "Miliband says slavery apology will not bring cost for UK taxpayers",
+          "link": "https://www.bbc.co.uk/news/articles/cm8ezneewr9lo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "The elections that could define Trump's closing chapter",
-          "link": "https://www.bbc.co.uk/news/articles/cq2d6k4r5n9ro?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Spanish transport minister resigns days after deadly train crash",
-          "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss"
+          "title": "'Multi-cancer' blood tests coming to some GP surgeries soon",
+          "link": "https://www.bbc.co.uk/news/articles/cm9qz93ew22no?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-03T23:45:23.203Z"
+      "updatedAt": "2026-11-04T03:44:01.055Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "How We Model Election Results With the Needle",
-          "link": "https://www.nytimes.com/video/us/elections/100000011253864/how-we-model-election-results-with-the-needle.html"
+          "title": "Democrats Flip South Carolina Senate Seat",
+          "link": "https://www.nytimes.com/video/us/politics/100000011260059/democrats-flip-south-carolina-senate-seat.html"
         },
         {
           "title": "More Iranians Call for Nuclear Weapons After War With U.S.",
@@ -227,7 +227,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-03T23:45:23.410Z"
+      "updatedAt": "2026-11-04T03:44:01.087Z"
     },
     "ARTNews": {
       "items": [
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-03T23:45:23.572Z"
+      "updatedAt": "2026-11-04T03:44:01.194Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-03T23:45:23.797Z"
+      "updatedAt": "2026-11-04T03:44:01.481Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-03T23:45:24.896Z"
+      "updatedAt": "2026-11-04T03:44:02.189Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-03T23:45:25.052Z"
+      "updatedAt": "2026-11-04T03:44:02.294Z"
     }
   }
 }
