@@ -1,124 +1,128 @@
 {
-  "fetchedAt": "2026-11-05T03:22:35.971Z",
+  "fetchedAt": "2026-11-05T12:04:33.602Z",
   "feeds": {
     "MarketWatch": {
       "items": [
         {
-          "title": "Qualcomm’s stock falls as twin forces pressure sales",
-          "link": "https://www.marketwatch.com/story/qualcomms-stock-falls-as-twin-forces-pressure-sales-fa161159?mod=mw_rss_topstories"
+          "title": "A strategist draws a 1980s parallel to argue bipartisanship could power a ‘bull stampede’",
+          "link": "https://www.marketwatch.com/story/a-strategist-draws-a-1980s-parallel-to-argue-bipartisanship-could-power-a-bull-stampede-609ddc9b?mod=mw_rss_topstories"
         },
         {
-          "title": "This year’s worst-performing S&P 500 stock is finally seeing some major relief",
-          "link": "https://www.marketwatch.com/story/this-years-worst-performing-s-p-500-stock-is-finally-seeing-some-major-relief-fff3fa85?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Figma’s stock dips as investors worry that AI momentum is coming at a high price",
-          "link": "https://www.marketwatch.com/story/figmas-stock-falls-as-investors-worry-that-ai-momentum-is-coming-at-a-high-price-1aa2134d?mod=mw_rss_topstories"
-        },
-        {
-          "title": "McDonald’s tests new value menu as fast-food discount wars heat up",
-          "link": "https://www.marketwatch.com/story/mcdonalds-tests-new-value-menu-as-fast-food-discount-wars-heat-up-bfc57caf?mod=mw_rss_topstories"
-        },
-        {
-          "title": "As Vistra and other energy stocks slide, some analysts warn of an ‘excessive knee-jerk’ reaction",
-          "link": "https://www.marketwatch.com/story/as-vistra-and-other-energy-stocks-slide-some-analysts-warn-of-an-excessive-knee-jerk-reaction-aece0737?mod=mw_rss_topstories"
+          "title": "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
+          "link": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories"
         },
         {
           "title": "‘My life could be cut short’: I’m 55, married with $4.3 million and have a brain tumor. Should I buy a $210,000 custom Porsche?",
           "link": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Research firm declares ‘end of the AI trade as we know it’ — and Asian tech stocks reflect the shift",
+          "link": "https://www.marketwatch.com/story/research-firm-declares-end-of-the-ai-trade-as-we-know-it-and-asian-tech-stocks-reflect-the-shift-25ac8e8f?mod=mw_rss_topstories"
+        },
+        {
+          "title": "A prolonged war in Iran is the market’s real ‘black swan,’ says this strategist",
+          "link": "https://www.marketwatch.com/story/a-prolonged-war-in-iran-is-the-markets-real-black-swan-says-this-strategist-65d105c7?mod=mw_rss_topstories"
+        },
+        {
+          "title": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
+          "link": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-05T03:22:32.972Z"
+      "updatedAt": "2026-11-05T12:04:32.367Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Charlamagne Tha God warns Democrats 'don't get comfortable' after winning House and Senate",
-          "link": "https://www.foxnews.com/media/charlamagne-tha-god-warns-democrats-dont-get-comfortable-after-winning-house-senate"
+          "title": "MARTHA MACCALLUM: These American heroes show us what true valor really means",
+          "link": "https://www.foxnews.com/opinion/martha-maccallum-american-heroes-show-true-valor-means"
         },
         {
-          "title": "New Jersey pre-K aide faces 61 charges, accused of filming himself sexually assaulting students at school",
-          "link": "https://www.foxnews.com/us/new-jersey-pre-k-aide-faces-61-charges-accused-filming-himself-sexually-assaulting-students-school"
+          "title": "Kamala Harris urges Dems to 'be ruthless' with power after midterms, demands Trump accountability",
+          "link": "https://www.foxnews.com/politics/kamala-harris-democrats-trump-accountability-midterms"
         },
         {
-          "title": "West Hollywood unanimously passes ordinance granting protections for polyamorous relationships",
-          "link": "https://www.foxnews.com/media/west-hollywood-unanimously-passes-ordinance-granting-protections-polyamorous-relationships"
+          "title": "17 years after Fort Hood massacre, victims' families grapple with gunman's looming execution",
+          "link": "https://www.foxnews.com/us/17-years-fort-hood-massacre-victims-families-grapple-gunman-looming-execution"
         },
         {
-          "title": "Top-ranked Miami faces nightmare injury concern as star receiver Malachi Toney set to undergo ankle surgery",
-          "link": "https://www.foxnews.com/outkick-sports/top-ranked-miami-faces-nightmare-injury-concern-star-receiver-malachi-toney-undergo-ankle-surgery"
+          "title": "Paris Jackson demands $600M from father Michael Jackson's estate in legal war with longtime executor",
+          "link": "https://www.foxnews.com/entertainment/paris-jackson-demands-600m-father-michael-jackson-estate-legal-war-longtime-executor"
         },
         {
-          "title": "Grocery store cyberattacks are ‘psychological warfare’ that could strike US, former FBI agent warns",
-          "link": "https://www.foxnews.com/us/grocery-store-cyberattacks-psychological-warfare-could-strike-us-former-fbi-agent-warns"
+          "title": "Timeline of Learjet crash that killed Austin family traces final minutes from takeoff to Florida plunge",
+          "link": "https://www.foxnews.com/us/timeline-learjet-crash-killed-austin-family-traces-final-minutes-takeoff-florida-plunge"
         },
         {
-          "title": "Tony Butala, voice behind 'The Way You Look Tonight' and The Lettermen co-founder, dead at 87",
-          "link": "https://www.foxnews.com/entertainment/tony-butala-voice-way-you-look-tonight-lettermen-co-founder-dead-87"
+          "title": "Alligator sneaks into North Carolina bagel shop, sends owner scrambling in encounter caught on camera",
+          "link": "https://www.foxnews.com/lifestyle/alligator-sneaks-north-carolina-bagel-shop-sends-owner-scrambling-encounter-caught-camera"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-05T03:22:33.278Z"
+      "updatedAt": "2026-11-05T12:04:32.476Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "The Real Reason We Lost Is Obvious to Almost Everyone",
-          "link": "https://www.realclearpolitics.com/2026/11/04/the_real_reason_we_lost_is_obvious_to_almost_everyone_716577.html"
+          "title": "Two States With the Biggest Tsunamis",
+          "link": "https://www.realclearpolitics.com/2026/11/04/two_states_with_the_biggest_tsunamis_716603.html"
         },
         {
-          "title": "A Triumph for Schumer, Jeffries",
-          "link": "https://www.realclearpolitics.com/2026/11/04/a_triumph_for_schumer_jeffries_716586.html"
+          "title": "Democrats Didn't Win, Republicans Lost. There's a Way To Fix This",
+          "link": "https://www.realclearpolitics.com/articles/2026/11/04/democrats_didnt_win__republicans_lost_theres_a_way_to_fix_this_154656.html"
         },
         {
-          "title": "Angry Voters Usher In Beginning of the End to Trump Era",
-          "link": "https://www.realclearpolitics.com/2026/11/04/angry_voters_usher_in_beginning_of_the_end_to_trump_era_716564.html"
+          "title": "Democrats Won. Now They Have a Choice To Make",
+          "link": "https://www.realclearpolitics.com/2026/11/04/democrats_won_now_they_have_a_choice_to_make_716588.html"
         },
         {
-          "title": "Anti-War MAGA Was Right",
-          "link": "https://www.realclearpolitics.com/2026/11/04/anti-war_maga_was_right_716600.html"
+          "title": "It's the Era of the New New Democrats",
+          "link": "https://www.realclearpolitics.com/2026/11/04/its_the_era_of_the_new_new_democrats_716587.html"
         },
         {
-          "title": "The Big Beautiful Mandate Trap",
-          "link": "https://www.realclearpolitics.com/articles/2026/11/04/the_big_beautiful_mandate_trap_154654.html"
+          "title": "Near 'Extinction Level Event' for Republicans",
+          "link": "https://www.realclearpolitics.com/video/2026/11/04/desantis_close_to_extinction-level_event_for_republicans_so_why_did_florida_hold_up.html"
         },
         {
-          "title": "GOP Disaster Can Be Traced to Kirk Assassination",
-          "link": "https://www.realclearpolitics.com/2026/11/04/gop_disaster_can_be_traced_to_kirk_assassination_716574.html"
+          "title": "Three Things That Finally Brought Down Sen. Collins",
+          "link": "https://www.realclearpolitics.com/2026/11/04/three_things_that_finally_brought_down_sen_collins_716582.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-05T03:22:33.549Z"
+      "updatedAt": "2026-11-05T12:04:32.631Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Trump urges Congress to pass daylight saving bill after 'ridiculous' early sunset",
-          "link": "https://thehill.com/homenews/administration/6199783-trump-calls-congress-daylight-saving/"
+          "title": "Chamber of Progress circulates tech 'to-do list' for Democrats",
+          "link": "https://thehill.com/policy/technology/6199670-chamber-progress-ai-policy/"
         },
         {
-          "title": "Scott Wiener prevails in race to succeed retiring Pelosi",
-          "link": "https://thehill.com/homenews/house/6184793-scott-wiener-wins-pelosi-seat/"
+          "title": "Healthcare powers Democrats’ midterm rout: 4 takeaways",
+          "link": "https://thehill.com/policy/healthcare/6199119-democrats-win-congress-healthcare-takeaways/"
         },
         {
-          "title": "Cruz warns 'Texans will be hurt' after 'blue tsunami'",
-          "link": "https://thehill.com/homenews/senate/6199935-cruz-warns-democrat-texas-wins/"
+          "title": "Mississippi has an unexpectedly close Senate race but no recount procedure",
+          "link": "https://thehill.com/homenews/campaign/6199322-mississippi-senate-race-recount-mail-ballots/"
         },
         {
-          "title": "Democrats flip open Arizona House seat",
-          "link": "https://thehill.com/homenews/house/6190311-shah-wins-arizona-house-race/"
+          "title": "Trump's redistricting was meant to save House GOP majority. It backfired",
+          "link": "https://thehill.com/homenews/house/6199532-trump-redistricting-backfires-house/"
         },
         {
-          "title": "Gluesenkamp Perez holds on to Washington House seat",
-          "link": "https://thehill.com/homenews/campaign/6142047-gluesenkamp-perez-defeats-braun/"
+          "title": "Democrats signal oversight blitz as Trump officials lawyer up",
+          "link": "https://thehill.com/homenews/house/6199505-house-investigations-trump-administration/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-05T03:22:34.431Z"
+      "updatedAt": "2026-11-05T12:04:33.061Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "Mercedes-AMG GT 4-Door Coupe first drive: Where tech and fun collide",
+          "link": "https://arstechnica.com/cars/2026/11/mercedes-amg-gt-4-door-coupe-first-drive-where-tech-and-fun-collide/"
+        },
         {
           "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
           "link": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/"
@@ -134,104 +138,100 @@
         {
           "title": "VMware releases vSphere Express for virtualization on up to 128 cores",
           "link": "https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/"
-        },
-        {
-          "title": "AMD's record quarter: Data center business doubles, while gaming craters",
-          "link": "https://arstechnica.com/gadgets/2026/11/amds-record-quarter-data-center-business-doubles-while-gaming-craters/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-05T03:22:34.585Z"
+      "updatedAt": "2026-11-05T12:04:33.114Z"
     },
     "The Verge": {
       "items": [
         {
+          "title": "Playstation and Spider-Man performance see Sony profits surge",
+          "link": "https://www.theverge.com/tech/1027358/sony-q2-2026-earnings-spider-man-playstation"
+        },
+        {
+          "title": "Amazon is getting back into restaurant delivery with Uber Eats team-up",
+          "link": "https://www.theverge.com/tech/1026716/amazon-uber-eats-prime-restaurant-delivery-partnership"
+        },
+        {
+          "title": "Big Tech’s big AI buildout will not end until someone stops it",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3"
+        },
+        {
+          "title": "Nintendo’s designers strove for ‘elegance’ when remaking Ocarina of Time",
+          "link": "https://www.theverge.com/games/1026380/zelda-ocarina-of-time-interview-eiji-aonuma-hidemaro-fujibayashi"
+        },
+        {
           "title": "X says its updated web app is way faster",
           "link": "https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster"
-        },
-        {
-          "title": "Qualcomm is betting big on data centers as smartphone sales sink",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers"
-        },
-        {
-          "title": "17 better ways Elon Musk could have wasted $446 million",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich"
-        },
-        {
-          "title": "How I learned to love an obnoxious phone grip",
-          "link": "https://www.theverge.com/tech/1026743/bright-colorful-phone-grip-case"
-        },
-        {
-          "title": "Bose’s QuietComfort Headphones are more than half off",
-          "link": "https://www.theverge.com/gadgets/1026807/bose-quietcomfort-headphones-wireless-deal-sale"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-05T03:22:34.728Z"
+      "updatedAt": "2026-11-05T12:04:33.149Z"
     },
     "BBC World": {
-      "items": [
-        {
-          "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
-          "link": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
-          "link": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-          "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
-          "link": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "'Most difficult days of my life' for keeper Owono",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Israel's president begins consultations with parties after election deadlock",
-          "link": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
-          "link": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "ok": true,
-      "updatedAt": "2026-11-05T03:22:35.069Z"
-    },
-    "BBC News": {
       "items": [
         {
           "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
           "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "UK commits to 'time-bound' talks on slavery apology",
-          "link": "https://www.bbc.co.uk/news/articles/cqdr872jkk7vo?at_medium=RSS&at_campaign=rss"
+          "title": "What Democrats can and can't do with their new power after taking Congress",
+          "link": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "The NHS is relying more on charities - and that might be creating problems for patients",
-          "link": "https://www.bbc.co.uk/news/articles/c65yn75g9d18o?at_medium=RSS&at_campaign=rss"
+          "title": "France gears up for strikes and protests as unions promise national mobilisation",
+          "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Interest rates expected to rise for first time in over three years",
-          "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss"
+          "title": "Ronaldo retires from Portugal duty",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+          "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
           "link": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Police in Scotland to escort fire crews in latest crackdown on Bonfire Night disorder",
-          "link": "https://www.bbc.co.uk/news/articles/cj93zv4dv9rro?at_medium=RSS&at_campaign=rss"
+          "title": "Pope Leo hosts Bob Dylan at official residence in Rome",
+          "link": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-05T03:22:35.346Z"
+      "updatedAt": "2026-11-05T12:04:33.251Z"
+    },
+    "BBC News": {
+      "items": [
+        {
+          "title": "Married at First Sight UK cancelled after BBC revealed rape allegations",
+          "link": "https://www.bbc.co.uk/news/articles/cw33xm0de221o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Vance walks Trump tightrope after blaming Iran war for election defeat",
+          "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Cristiano Ronaldo retires from international football",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
+          "link": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Pound rises to its highest level since the Brexit referendum",
+          "link": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "The Pitt and ER are similar enough for lawsuit to proceed, judge rules",
+          "link": "https://www.bbc.co.uk/news/articles/cq4g1r42jx00o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "ok": true,
+      "updatedAt": "2026-11-05T12:04:33.366Z"
     },
     "NY Times": {
       "items": [
@@ -240,24 +240,24 @@
           "link": "https://www.nytimes.com/2026/11/04/us/politics/trump-midterms-losses-republicans.html"
         },
         {
-          "title": "Vance, in Break With Trump, Blames Iran War for Republicans’ 2026 Midterm Losses",
-          "link": "https://www.nytimes.com/2026/11/04/us/politics/vance-iran-war-midterms-trump.html"
+          "title": "‘Florida Is the Last Main Anchor Standing’ for Republicans",
+          "link": "https://www.nytimes.com/2026/11/05/us/florida-republicans-midterms.html"
         },
         {
-          "title": "Trump Wrestles With New Reality: A Lame Duck With Two Years Left to Fight",
-          "link": "https://www.nytimes.com/2026/11/04/us/politics/trump-new-role-lame-duck.html"
+          "title": "Moderate Democrats Increase Their Numbers, and Their Clout",
+          "link": "https://www.nytimes.com/2026/11/04/us/politics/moderate-democrats-midterms.html"
         },
         {
-          "title": "Trump Emerges After the Midterms: ‘Did You Guys See the Helipad?’",
-          "link": "https://www.nytimes.com/2026/11/04/us/trump-midterms-ballroom.html"
+          "title": "What Democrats Plan to Do Next, and What JD Vance Says Went Wrong",
+          "link": "https://www.nytimes.com/2026/11/05/podcasts/the-headlines/democrats-midterm-elections-jd-vance-kpop.html"
         },
         {
-          "title": "Justice Alito Will Not Retire From Supreme Court Immediately, Despite Election Outcome",
-          "link": "https://www.nytimes.com/2026/11/04/us/politics/alito-trump-supreme-court-not-retiring.html"
+          "title": "In Victory, Democrats See Economic Mandate to Cut Costs and Curtail Trump",
+          "link": "https://www.nytimes.com/2026/11/05/us/politics/midterms-democrats-trump-taxes-tariffs.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-05T03:22:35.613Z"
+      "updatedAt": "2026-11-05T12:04:33.402Z"
     }
   },
   "indices": {
@@ -279,13 +279,13 @@
       },
       {
         "name": "Gold",
-        "price": 4143,
-        "pct": 6.2607402087768325
+        "price": 4142.5,
+        "pct": 4.355602579605
       },
       {
         "name": "Bitcoin",
-        "price": 80682.67,
-        "pct": 3.110885902532256
+        "price": 80140.02,
+        "pct": 2.417389737432508
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-11-05T03:22:35.971Z"
+    "updatedAt": "2026-11-05T12:04:33.602Z"
   }
 }
