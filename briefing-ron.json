@@ -1,8 +1,16 @@
 {
-  "fetchedAt": "2026-11-06T01:27:13.038Z",
+  "fetchedAt": "2026-11-06T09:10:33.563Z",
   "feeds": {
     "MarketWatch": {
       "items": [
+        {
+          "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+          "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories"
+        },
+        {
+          "title": "‘My life could be cut short’: I’m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
+          "link": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories"
+        },
         {
           "title": "Here’s what’s driving Iren’s stock higher after a brutal selloff",
           "link": "https://www.marketwatch.com/story/heres-whats-driving-irens-stock-higher-after-a-brutal-selloff-0ced09b0?mod=mw_rss_topstories"
@@ -18,104 +26,96 @@
         {
           "title": "Tech stocks log worst day since 2020 as carnage comes to the AI trade",
           "link": "https://www.marketwatch.com/story/tech-stocks-log-worst-day-since-2020-as-carnage-comes-to-the-ai-trade-56109845?mod=mw_rss_topstories"
-        },
-        {
-          "title": "The 2027 tax brackets are out. See what the standard deduction and SALT tax breaks will be.",
-          "link": "https://www.marketwatch.com/story/the-2027-tax-brackets-are-out-see-what-the-standard-deduction-and-salt-tax-breaks-will-be-5dd1d293?mod=mw_rss_topstories"
-        },
-        {
-          "title": "How much in Roth conversions can you do in 2027 with the new tax brackets?",
-          "link": "https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-06T01:27:11.158Z"
+      "updatedAt": "2026-11-06T09:10:31.651Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Fox News bests MS NOW, CNN as most-watched cable news network on 2026 midterm election night",
-          "link": "https://www.foxnews.com/media/fox-news-bests-msnbc-cnn-most-watched-cable-news-network-2026-midterm-election-night"
+          "title": "Trump admin sues Penn State over in-state tuition policy for undocumented migrants",
+          "link": "https://www.foxnews.com/politics/trump-admin-sues-penn-state-in-state-tuition-policy-undocumented-migrants"
         },
         {
-          "title": "Super Bowl champion wide receiver Rashee Rice files for Chapter 7 bankruptcy, reports $3.45 million in debt",
-          "link": "https://www.foxnews.com/outkick-sports/super-bowl-champion-wide-receiver-rashee-rice-files-chapter-7-bankruptcy-reports-3-45-million-debt"
+          "title": "Wisconsin infant dies of measles as state sees first death from disease since 1990",
+          "link": "https://www.foxnews.com/health/wisconsin-infant-dies-measles-state-first-death-disease-since-1990"
         },
         {
-          "title": "Affordability drove Baltimore voters to approve measure giving 'direct cash' to new mothers",
-          "link": "https://www.foxnews.com/media/affordability-drove-baltimore-voters-approve-measure-giving-direct-cash-new-mothers"
+          "title": "Colorado police officer killed, 3 more officers wounded after suspect opens fire near bus",
+          "link": "https://www.foxnews.com/us/colorado-police-officer-killed-3-others-wounded-suspect-opens-fire-near-bus"
         },
         {
-          "title": "Vance ‘privately’ blasts Netanyahu as Iran war divides Trump administration and 2028 ambitions loom",
-          "link": "https://www.foxnews.com/politics/vance-privately-blasts-netanyahu-iran-war-divides-trump-admin-2028-ambitions-loom"
+          "title": "Federal judge temporarily blocks construction of Trump's Arlington triumphal arch hours after approval",
+          "link": "https://www.foxnews.com/politics/trumps-massive-arlington-triumphal-arch-approved-construction-federal-planning-commission"
         },
         {
-          "title": "Child molester's looming prison release reignites sanctuary showdown in wake of Dem election sweep",
-          "link": "https://www.foxnews.com/politics/child-molester-looming-prison-release-reignites-sanctuary-showdown-wake-dem-election-sweep"
+          "title": "Ravens' playoff hopes hinge on Jacoby Brissett after third-stringer Joe Fagnano gets demolished by Jaguars",
+          "link": "https://www.foxnews.com/outkick-sports/ravens-playoff-hopes-hinge-jacoby-brissett-third-stringer-joe-fagnano-demolished-jaguars"
         },
         {
-          "title": "Trump signs proclamation to prevent changes to Oval Office, other White House rooms",
-          "link": "https://www.foxnews.com/politics/trump-signs-proclamation-prevent-changes-oval-office-other-white-house-rooms"
+          "title": "New York Knicks champion calls out Taylor Swift as the 'fakest fan' from MSG's celebrity row",
+          "link": "https://www.foxnews.com/outkick-sports/new-york-knicks-champion-calls-out-taylor-swift-fakest-fan-msgs-celebrity-row"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-06T01:27:11.392Z"
+      "updatedAt": "2026-11-06T09:10:31.893Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "Failure of Resolve, Not the Iran War, Shivved GOP",
-          "link": "https://www.realclearpolitics.com/2026/11/05/failure_of_resolve_not_the_iran_war_shivved_gop_716753.html"
+          "title": "El-Sayed's Win Signifies a Seismic Shift",
+          "link": "https://www.realclearpolitics.com/2026/11/05/el-sayeds_win_signifies_a_seismic_shift_716754.html"
         },
         {
-          "title": "GOP Wipeout Started With the First Bomb on Iran",
-          "link": "https://www.realclearpolitics.com/2026/11/05/gop_wipeout_started_with_the_first_bomb_on_iran_716648.html"
+          "title": "Iran & the Midterms: Trump Didn't Care, But Voters Did",
+          "link": "https://www.realclearpolitics.com/2026/11/05/iran_amp_the_midterms_trump_didnt_care_but_voters_did_716762.html"
         },
         {
-          "title": "Two States With the Biggest Tsunamis",
-          "link": "https://www.realclearpolitics.com/2026/11/04/two_states_with_the_biggest_tsunamis_716603.html"
+          "title": "13 Biggest Losers of the Midterms",
+          "link": "https://www.realclearpolitics.com/2026/11/05/13_biggest_losers_of_the_midterms_716769.html"
         },
         {
-          "title": "Democrats Already Abandoning 'Affordability' Promises?",
-          "link": "https://www.realclearpolitics.com/2026/11/05/democrats_already_abandoning_affordability_promises_716740.html"
+          "title": "DeSantis Is Running...Right?",
+          "link": "https://www.realclearpolitics.com/2026/11/05/desantis_is_runningright_716760.html"
         },
         {
-          "title": "Tiny Ohio Town Just Found a Way To Make Data Centers Pay",
-          "link": "https://www.realclearpolitics.com/2026/11/05/tiny_ohio_town_just_found_a_way_to_make_data_centers_pay_716756.html"
+          "title": "The Wave Beneath the Wave",
+          "link": "https://www.realclearpolitics.com/2026/11/05/the_wave_beneath_the_wave_716763.html"
         },
         {
-          "title": "Newsom's Prop 50 Pays Off as New Maps Flip More CA Seats",
-          "link": "https://www.realclearpolitics.com/articles/2026/11/05/newsoms_prop_50_pays_off_as_gop_gerrymanders_flop_154658.html"
+          "title": "'We Can't Eat Road Salt': Other Maine Takeaways",
+          "link": "https://www.realclearpolitics.com/2026/11/05/we_cant_eat_road_salt_other_maine_takeaways_716623.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-06T01:27:11.644Z"
+      "updatedAt": "2026-11-06T09:10:32.078Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Meta, TikTok, Google sue California over child online safety restrictions",
-          "link": "https://thehill.com/policy/technology/6202882-meta-tiktok-google-social-media-california/"
+          "title": "Hegseth not in consideration for Tennessee Senate: Report",
+          "link": "https://thehill.com/policy/defense/6203115-hegseth-tennessee-senate-seat-blackburn/"
         },
         {
-          "title": "GOP’s McKinney wins election for Newhouse’s open Washington seat",
-          "link": "https://thehill.com/homenews/campaign/6134794-republican-amanda-mckinney-washington-4th-district/"
+          "title": "NCPC approves plan to build Trump's triumphal arch",
+          "link": "https://thehill.com/homenews/administration/6202351-ncpc-approves-trump-arch/"
         },
         {
-          "title": "Failed GOP redistricting in South Carolina, Indiana would have backfired: DDHQ",
-          "link": "https://thehill.com/homenews/campaign/6202901-midterm-congressional-gop-redistricting-analysis/"
+          "title": "Hinojosa vows to protect Texas citizens from data centers",
+          "link": "https://thehill.com/homenews/state-watch/6203045-texas-hinojosa-data-centers/"
         },
         {
-          "title": "Wyden reveals Senate Finance Democrats' agenda for 120th Congress",
-          "link": "https://thehill.com/newsletters/business-economy/6202879-wyden-reveals-senate-finance-democrats-agenda-for-120th-congress/"
+          "title": "Washington voters approve transgender athlete ban",
+          "link": "https://thehill.com/homenews/campaign/6190015-washington-voters-approve-transgender-athlete-ballot-measure/"
         },
         {
-          "title": "Trump seeks national monument status for iconic White House rooms",
-          "link": "https://thehill.com/newsletters/energy-environment/6202853-white-house-rooms-national-monuments-trump/"
+          "title": "2 House Democrats float idea of Blanche impeachment",
+          "link": "https://thehill.com/homenews/house/6203031-house-democrats-push-blanche-impeachment/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-06T01:27:12.086Z"
+      "updatedAt": "2026-11-06T09:10:32.510Z"
     },
     "Ars Technica": {
       "items": [
@@ -141,7 +141,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-06T01:27:12.236Z"
+      "updatedAt": "2026-11-06T09:10:32.687Z"
     },
     "The Verge": {
       "items": [
@@ -167,71 +167,71 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-06T01:27:12.358Z"
+      "updatedAt": "2026-11-06T09:10:32.791Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
-          "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
-          "link": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o?at_medium=RSS&at_campaign=rss"
+          "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+          "link": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
           "link": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Hoax bomb threats target European airlines and airports for second time in a week",
-          "link": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss"
+          "title": "Trump signs order to preserve Oval Office as national monument",
+          "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
+          "link": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "California governor commutes sentences for state's 548 death row inmates",
           "link": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "French protests see numbers surge as unions join strikes over high cost of living",
-          "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss"
+          "title": "Somalia's top court rejects president's term extension amid political crisis",
+          "link": "https://www.bbc.co.uk/news/articles/c977ppnezep6o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Paraguay President Santiago Peña resigns after bank collapse",
-          "link": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss"
+          "title": "Will Atiku Abubakar be on Nigeria's presidential ballot after court ruling?",
+          "link": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-06T01:27:12.499Z"
+      "updatedAt": "2026-11-06T09:10:33.050Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Russell Brand found guilty of rape and sexual assault",
-          "link": "https://www.bbc.co.uk/news/articles/ckyvrze96y70o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
-          "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss"
+          "title": "Did a data centre revolt affect the US mid-term election results?",
+          "link": "https://www.bbc.co.uk/news/articles/crvg9yyz5437o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Met chief warns policing 'heading for failure' without reform",
           "link": "https://www.bbc.co.uk/news/articles/cvglww2r307ko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Firms told to publish salaries in job adverts ahead of new law",
+          "title": "'Misleading' student loans information left out examples of higher-salary repayments",
+          "link": "https://www.bbc.co.uk/news/articles/cqde8prpdge3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Watch: Met Police release Brand interview footage",
+          "link": "https://www.bbc.co.uk/news/videos/c693ze38vywxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Could the earliest weakening of the polar vortex on record bring UK snow?",
+          "link": "https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Firms should publish salaries in job adverts ahead of new law, says PM",
           "link": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "California governor commutes sentences for state's 548 death row inmates",
-          "link": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Thatcher's Right to Buy split my estate. Now its days could be numbered",
-          "link": "https://www.bbc.co.uk/news/articles/c699zde85xn7o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-06T01:27:12.554Z"
+      "updatedAt": "2026-11-06T09:10:33.167Z"
     },
     "NY Times": {
       "items": [
@@ -244,20 +244,20 @@
           "link": "https://www.nytimes.com/2026/11/05/us/politics/the-docket-supreme-court-election-eve.html"
         },
         {
-          "title": "In Alaska, Ranked-Choice Ballots Are Unlikely to Be Enough for Dan Sullivan",
-          "link": "https://www.nytimes.com/2026/11/05/us/alaska-ranked-choice-data-sullivan-peltola.html"
+          "title": "The Many Meanings of James Talarico’s Winning Cowboy Boots",
+          "link": "https://www.nytimes.com/2026/11/05/style/james-talarico-cowboy-boots-texas-senate-race.html"
         },
         {
           "title": "Nithya Raman Wins Los Angeles Mayoral Race, Defeating Karen Bass",
           "link": "https://www.nytimes.com/2026/11/05/us/la-mayor-raman-bass.html"
         },
         {
-          "title": "The Evening: The Blue Wave Swells",
-          "link": "https://www.nytimes.com/2026/11/05/briefing/elections-newsom-amodei.html"
+          "title": "In Tight Mississippi Senate Race, Votes Are Carefully Scrutinized",
+          "link": "https://www.nytimes.com/2026/11/05/us/mississippi-senate-colom-hydesmith-votes.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-06T01:27:12.748Z"
+      "updatedAt": "2026-11-06T09:10:33.346Z"
     }
   },
   "indices": {
@@ -279,13 +279,13 @@
       },
       {
         "name": "Gold",
-        "price": 4098.8,
-        "pct": 3.2547359935509945
+        "price": 4086.9,
+        "pct": 2.9549576783555067
       },
       {
         "name": "Bitcoin",
-        "price": 75881.04,
-        "pct": -1.0384559706719059
+        "price": 75917.45,
+        "pct": -0.9909712522480654
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-11-06T01:27:13.038Z"
+    "updatedAt": "2026-11-06T09:10:33.563Z"
   }
 }
