@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-11-05T21:39:30.084Z",
+  "fetchedAt": "2026-11-06T01:53:01.201Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Video shows high-altitude rescue of hiker who fell hundreds of feet down Utah's Mount Timpanogos",
-          "link": "https://www.foxnews.com/us/video-shows-high-altitude-rescue-hiker-fell-hundreds-feet-down-utahs-mount-timpanogos"
+          "title": "'The View' co-host confronts Abdul El-Sayed on his response to attack on Jewish Synagogue",
+          "link": "https://www.foxnews.com/media/view-cohost-confronts-abdul-el-sayed-response-attack-jewish-synagogue"
         },
         {
-          "title": "Ex-Alaska lawmaker details mystery recruiter as FBI, Congress widen 'Decoy Dan' scrutiny",
-          "link": "https://www.foxnews.com/politics/ex-alaska-lawmaker-details-mystery-recruiter-fbi-congress-widen-decoy-dan-scrutiny"
+          "title": "Tom Jones 'thought this was it' following week-long hospital stay for pneumonia",
+          "link": "https://www.foxnews.com/entertainment/tom-jones-thought-it-following-week-long-hospital-stay-pneumonia"
         },
         {
-          "title": "Caleb Williams celebrates Democrats winning midterms as concerns about him becoming the face of the NFL grow",
-          "link": "https://www.foxnews.com/outkick-sports/caleb-williams-celebrates-democrats-winning-midterms-concerns-becoming-face-nfl-grow"
+          "title": "Fox News bests MS NOW, CNN as most-watched cable news network on 2026 midterm election night",
+          "link": "https://www.foxnews.com/media/fox-news-bests-msnbc-cnn-most-watched-cable-news-network-2026-midterm-election-night"
         },
         {
-          "title": "Escaped Tennessee killer hid in Illinois shed with beer and garlic bread before capture: Sheriff",
-          "link": "https://www.foxnews.com/us/escaped-tennessee-killer-hid-illinois-shed-beer-garlic-bread-before-capture-sheriff"
+          "title": "Super Bowl champion wide receiver Rashee Rice files for Chapter 7 bankruptcy, reports $3.45 million in debt",
+          "link": "https://www.foxnews.com/outkick-sports/super-bowl-champion-wide-receiver-rashee-rice-files-chapter-7-bankruptcy-reports-3-45-million-debt"
         },
         {
-          "title": "Gavin Newsom wipes out California's death row in historic mass commutation",
-          "link": "https://www.foxnews.com/politics/gavin-newsom-wipes-out-californias-death-row-historic-mass-commutation"
+          "title": "Affordability drove Baltimore voters to approve measure giving 'direct cash' to new mothers",
+          "link": "https://www.foxnews.com/media/affordability-drove-baltimore-voters-approve-measure-giving-direct-cash-new-mothers"
         },
         {
-          "title": "Matt Damon's wife had brain surgery days before Oscars, pulled off 'heroic' surprise for actor",
-          "link": "https://www.foxnews.com/entertainment/matt-damons-wife-had-brain-surgery-days-before-oscars-pulled-off-heroic-surprise-actor"
+          "title": "Vance ‘privately’ blasts Netanyahu as Iran war divides Trump administration and 2028 ambitions loom",
+          "link": "https://www.foxnews.com/politics/vance-privately-blasts-netanyahu-iran-war-divides-trump-admin-2028-ambitions-loom"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-05T21:39:27.422Z"
+      "updatedAt": "2026-11-06T01:52:59.625Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,95 +59,103 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-05T21:39:27.606Z"
+      "updatedAt": "2026-11-06T01:52:59.769Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Van Hollen not running for Senate majority leader, source says",
-          "link": "https://thehill.com/homenews/senate/6202343-van-hollen-not-challenging-schumer/"
+          "title": "Meta, TikTok, Google sue California over child online safety restrictions",
+          "link": "https://thehill.com/policy/technology/6202882-meta-tiktok-google-social-media-california/"
         },
         {
-          "title": "Booker set to hit the trail in South Carolina amid 2028 chatter",
-          "link": "https://thehill.com/homenews/senate/6202223-cory-booker-south-carolina-president-speculation/"
+          "title": "GOP’s McKinney wins election for Newhouse’s open Washington seat",
+          "link": "https://thehill.com/homenews/campaign/6134794-republican-amanda-mckinney-washington-4th-district/"
         },
         {
-          "title": "Centcom launches podcast amid Iran war backlash",
-          "link": "https://thehill.com/policy/defense/6202269-centcom-launches-official-podcast/"
+          "title": "Failed GOP redistricting in South Carolina, Indiana would have backfired: DDHQ",
+          "link": "https://thehill.com/homenews/campaign/6202901-midterm-congressional-gop-redistricting-analysis/"
         },
         {
-          "title": "DeSantis takes swings at Ramaswamy for getting beat 'like a drum' in Ohio",
-          "link": "https://thehill.com/homenews/campaign/6202186-desantis-criticizes-ramaswamy-ohio-loss/"
+          "title": "Wyden reveals Senate Finance Democrats' agenda for 120th Congress",
+          "link": "https://thehill.com/newsletters/business-economy/6202879-wyden-reveals-senate-finance-democrats-agenda-for-120th-congress/"
         },
         {
-          "title": "California Gov. Gavin Newsom to commute all death sentences in state",
-          "link": "https://thehill.com/homenews/state-watch/6202199-california-gov-gavin-newsom-to-commute-all-death-sentences-in-state/"
+          "title": "Trump seeks national monument status for iconic White House rooms",
+          "link": "https://thehill.com/newsletters/energy-environment/6202853-white-house-rooms-national-monuments-trump/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-05T21:39:28.175Z"
+      "updatedAt": "2026-11-06T01:53:00.239Z"
     },
     "Ars Technica": {
       "items": [
         {
-          "title": "Software squeezes more data out of Webb Telescope for imaging exoplanets",
-          "link": "https://arstechnica.com/science/2026/11/getting-software-to-help-block-out-a-star-so-we-can-see-exoplanets/"
+          "title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
+          "link": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/"
         },
         {
-          "title": "Kalshi court losses pile up as judges refuse to block state gambling laws",
-          "link": "https://arstechnica.com/tech-policy/2026/11/kalshi-court-losses-pile-up-as-judges-refuse-to-block-state-gambling-laws/"
+          "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+          "link": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/"
         },
         {
-          "title": "MAHA lost bigly in the midterms—is it at death's door?",
-          "link": "https://arstechnica.com/health/2026/11/is-maha-dying-or-will-it-be-reborn-whats-next-after-crushing-midterm-losses/"
+          "title": "NASA unveils mysterious X-70 experimental aircraft using AI-generated image",
+          "link": "https://arstechnica.com/gadgets/2026/11/nasas-experimental-x-70-aircraft-is-a-big-question-mark/"
         },
         {
-          "title": "Gamers go to ridiculous lengths to \"improve\" GTA VI with Nvidia's DLSS 5",
-          "link": "https://arstechnica.com/gaming/2026/11/gamers-go-to-ridiculous-lengths-to-improve-gta-vi-with-nvidias-dlss-5/"
+          "title": "Sony revives the original Walkman headphones, adds USB-C",
+          "link": "https://arstechnica.com/gadgets/2026/11/sony-adds-usb-c-to-its-70s-era-mdr-3-walkman-headphones/"
         },
         {
-          "title": "Statehouse wins give Democrats new power to push clean energy",
-          "link": "https://arstechnica.com/science/2026/11/statehouse-wins-give-democrats-new-power-to-push-clean-energy/"
+          "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
+          "link": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-05T21:39:28.355Z"
+      "updatedAt": "2026-11-06T01:53:00.295Z"
     },
     "The Verge": {
       "items": [
         {
-          "title": "Blue Origin’s next launch now won’t happen until 2027",
-          "link": "https://www.theverge.com/science/1028178/blue-origins-next-launch-now-wont-happen-until-2027"
+          "title": "OpenAI is stepping back from NDAs for data center projects",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda"
         },
         {
-          "title": "Samsung’s Galaxy Z Fold 8 is $300 off ahead of Black Friday",
-          "link": "https://www.theverge.com/gadgets/1027659/samsung-galaxy-z-fold-8-beats-pill-deal-sale"
+          "title": "Airbnb is working on an AI travel agent",
+          "link": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings"
         },
         {
-          "title": "Muse has a voice mode now",
-          "link": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar"
+          "title": "The New York Times is in talks to buy Letterboxd for around $330 million",
+          "link": "https://www.theverge.com/news/1028375/the-new-york-times-letterboxd-acquisition-report"
         },
         {
-          "title": "EA is bringing 25 classic PC games to Steam",
-          "link": "https://www.theverge.com/games/1023553/ea-classic-pc-games-steam-anniversary-edition"
+          "title": "T-Mobile owner on Elon Musk launching a wireless carrier: &#8216;Welcome to the party&#8217;",
+          "link": "https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile"
         },
         {
-          "title": "Claude AI can plug directly into your bank account",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance"
+          "title": "Perplexity launches its own take on AI agents for work",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-05T21:39:28.423Z"
+      "updatedAt": "2026-11-06T01:53:00.378Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Hoax bomb threats target European airlines and airports for second time in a week",
-          "link": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss"
+          "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+          "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Who could be behind hoax bomb threats to European air travel?",
-          "link": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss"
+          "title": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
+          "link": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+          "link": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Hoax bomb threats target European airlines and airports for second time in a week",
+          "link": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "California governor commutes sentences for state's 548 death row inmates",
@@ -160,18 +168,10 @@
         {
           "title": "Paraguay President Santiago Peña resigns after bank collapse",
           "link": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Eight killed in series of shootings in western Turkey",
-          "link": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Nvidia and SpaceX lose billions in market value as tech and AI stocks plummet",
-          "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-05T21:39:28.627Z"
+      "updatedAt": "2026-11-06T01:53:00.697Z"
     },
     "BBC News": {
       "items": [
@@ -180,54 +180,54 @@
           "link": "https://www.bbc.co.uk/news/articles/ckyvrze96y70o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Watch: Met Police release Brand interview footage",
-          "link": "https://www.bbc.co.uk/news/videos/c693ze38vywxo?at_medium=RSS&at_campaign=rss"
+          "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+          "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Henry Nowak’s killer has minimum term increased to 25 years by Court of Appeal",
-          "link": "https://www.bbc.co.uk/news/articles/cmwy9z5423p2o?at_medium=RSS&at_campaign=rss"
+          "title": "Met chief warns policing 'heading for failure' without reform",
+          "link": "https://www.bbc.co.uk/news/articles/cvglww2r307ko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Hoax bomb threats target European airlines and airports for second time in a week",
-          "link": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Messages reveal how hoax threat was passed on by air traffic control",
-          "link": "https://www.bbc.co.uk/news/videos/cq398m8w41lyo?at_medium=RSS&at_campaign=rss"
+          "title": "Firms told to publish salaries in job adverts ahead of new law",
+          "link": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "California governor commutes sentences for state's 548 death row inmates",
           "link": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Thatcher's Right to Buy split my estate. Now its days could be numbered",
+          "link": "https://www.bbc.co.uk/news/articles/c699zde85xn7o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-05T21:39:28.667Z"
+      "updatedAt": "2026-11-06T01:53:00.704Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "Stocks Erase Post-Midterm Elections Rally, Dragged Down by Tech",
-          "link": "https://www.nytimes.com/2026/11/05/business/stocks-midterms-artificial-intelligence.html"
+          "title": "Trump Tried to Undermine the Nation’s Elections. It Didn’t Work.",
+          "link": "https://www.nytimes.com/2026/11/05/us/election-deniers-midterms-trump.html"
         },
         {
-          "title": "Tech Billionaires Face Tricky Political Waters After Democratic Midterm Sweep",
-          "link": "https://www.nytimes.com/2026/11/05/technology/tech-billionaires-democrats-midterms.html"
+          "title": "Why a Merciless Supreme Court Rebuke on Election Eve Matters",
+          "link": "https://www.nytimes.com/2026/11/05/us/politics/the-docket-supreme-court-election-eve.html"
         },
         {
-          "title": "The Machine, and the Messaging, That Won Texas for Democrats",
-          "link": "https://www.nytimes.com/2026/11/05/us/texas-democrats-statewide-sweep.html"
+          "title": "In Alaska, Ranked-Choice Ballots Are Unlikely to Be Enough for Dan Sullivan",
+          "link": "https://www.nytimes.com/2026/11/05/us/alaska-ranked-choice-data-sullivan-peltola.html"
         },
         {
-          "title": "How Democrats Won Across the South",
-          "link": "https://www.nytimes.com/2026/11/05/us/politics/midterms-southern-democrats.html"
+          "title": "Nithya Raman Wins Los Angeles Mayoral Race, Defeating Karen Bass",
+          "link": "https://www.nytimes.com/2026/11/05/us/la-mayor-raman-bass.html"
         },
         {
-          "title": "How Colom Changed a Long Shot in Mississippi Into a Race Too Close to Call",
-          "link": "https://www.nytimes.com/2026/11/05/us/politics/mississippi-senate-race-democrat-colom-hyde-smith.html"
+          "title": "The Evening: The Blue Wave Swells",
+          "link": "https://www.nytimes.com/2026/11/05/briefing/elections-newsom-amodei.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-05T21:39:28.723Z"
+      "updatedAt": "2026-11-06T01:53:00.738Z"
     },
     "ARTNews": {
       "items": [
@@ -257,10 +257,14 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-05T21:39:28.947Z"
+      "updatedAt": "2026-11-06T01:53:00.800Z"
     },
     "Hyperallergic": {
       "items": [
+        {
+          "title": "It’s Time to Talk About Classism in the Art World",
+          "link": "https://hyperallergic.com/its-time-to-talk-about-classism-in-the-art-world/"
+        },
         {
           "title": "Met Gala's New Theme Is the Biggest Recession Indicator Yet",
           "link": "https://hyperallergic.com/met-galas-new-theme-is-the-biggest-recession-indicator-yet/"
@@ -280,14 +284,10 @@
         {
           "title": "Shape Your Artistic Future at UC Davis: The Maria Manetti Shrem Art Studio MFA Program",
           "link": "https://hyperallergic.com/shape-your-artistic-future-at-uc-davis-the-maria-manetti-shrem-art-studio-mfa-program/"
-        },
-        {
-          "title": "Long-Lost Georgia O’Keeffe Landscape Goes to Auction",
-          "link": "https://hyperallergic.com/long-lost-georgia-okeeffe-landscape-goes-to-auction/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-05T21:39:29.197Z"
+      "updatedAt": "2026-11-06T01:53:00.868Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-05T21:39:29.982Z"
+      "updatedAt": "2026-11-06T01:53:01.117Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-05T21:39:30.084Z"
+      "updatedAt": "2026-11-06T01:53:01.201Z"
     }
   }
 }
