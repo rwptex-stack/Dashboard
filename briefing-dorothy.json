@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-11-06T21:50:56.056Z",
+  "fetchedAt": "2026-11-07T01:24:33.060Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "The Hitchhiker’s Guide to what happens to what’s next on Capitol Hill",
-          "link": "https://www.foxnews.com/politics/hitchhikers-guide-what-happens-whats-next-capitol-hill"
+          "title": "Bernie Sanders thinks Medicare-for-all bill could pass, 'not absolutely certain' Trump would veto",
+          "link": "https://www.foxnews.com/media/bernie-sanders-thinks-medicare-all-bill-could-pass-not-absolutely-certain-trump-would-veto"
         },
         {
-          "title": "Paige Bueckers and Azzi Fudd confirm breakup, say they split over a year before becoming teammates",
-          "link": "https://www.foxnews.com/outkick-sports/paige-bueckers-azzi-fudd-confirm-breakup-split-year-before-becoming-teammates"
+          "title": "MLB catcher who was behind plate for alleged rigged pitches testifies in Guardians pitchers' gambling case",
+          "link": "https://www.foxnews.com/outkick-sports/mlb-catcher-behind-plate-alleged-rigged-pitches-testifies-guardians-pitchers-gambling-case"
         },
         {
-          "title": "Disrespectful singer who waved Pride flag during the national anthem offers up predictably tone-deaf response",
-          "link": "https://www.foxnews.com/outkick-sports/disrespectful-singer-waved-pride-flag-during-national-anthem-offers-predictably-tone-deaf-response"
+          "title": "NYU professor and podcaster calls Elon Musk a 'traitor,' compares him to Soviet spies excuted during Cold War",
+          "link": "https://www.foxnews.com/media/nyu-professor-podcaster-calls-elon-musk-traitor-compares-him-soviet-spies-excuted-during-cold-war"
         },
         {
-          "title": "Trump's move from Wiles to Miller signals major tactical shift for governing without Congress",
-          "link": "https://www.foxnews.com/politics/trumps-move-wiles-miller-signals-major-tactical-shift-governing-without-congress"
+          "title": "Miami Heat finally unveil 'Grand Theft Auto VI'-themed jerseys and social media is loving them",
+          "link": "https://www.foxnews.com/outkick-sports/miami-heat-unveil-grand-theft-auto-vi-themed-jerseys-social-media-loving"
         },
         {
-          "title": "College soccer player scores after opposing goalie smokes a kick off her head",
-          "link": "https://www.foxnews.com/outkick-sports/college-soccer-player-scores-opposing-goalie-smokes-kick-off-her-head"
+          "title": "Two women's college basketball teams score on their own baskets in the same day",
+          "link": "https://www.foxnews.com/outkick-sports/two-womens-college-basketball-teams-score-own-baskets-same-day"
         },
         {
-          "title": "Fitness influencer's vacation getaway takes scary turn after headache leads to ICU",
-          "link": "https://www.foxnews.com/health/fitness-influencer-vacation-getaway-takes-scary-turn-headache-leads-icu"
+          "title": "White House trashes 'peanut-sized brain' Jimmy Kimmel after host demands Trump 'resign'",
+          "link": "https://www.foxnews.com/media/white-house-trashes-peanut-sized-brain-jimmy-kimmel-host-demands-trump-resign"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-06T21:50:53.045Z"
+      "updatedAt": "2026-11-07T01:24:29.098Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,36 +59,48 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-06T21:50:53.233Z"
+      "updatedAt": "2026-11-07T01:24:29.487Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Jeffries calls Miller a 'dangerous xenophobe' after promotion: 'Fire him today'",
-          "link": "https://thehill.com/homenews/administration/6205195-jeffries-blasts-trump-miller-pick/"
+          "title": "US measles status to go up for review",
+          "link": "https://thehill.com/newsletters/healthcare/6205697-us-mexico-measles-status-review/"
         },
         {
-          "title": "Cornell Faculty Senate passes no-confidence vote over Jane Doe case, but Board of Trustees backs president",
-          "link": "https://thehill.com/homenews/education/6205152-cornell-faculty-senate-no-confidence-vote-jane-doe-new-york/"
+          "title": "DC officials ask incoming Democratic governors to pull Guard troops",
+          "link": "https://thehill.com/newsletters/defense-national-security/6205686-dc-officials-ask-incoming-democratic-governors-to-pull-guard-troops/"
         },
         {
-          "title": "Christie mulling White House bid, says 'Trump era is over'",
-          "link": "https://thehill.com/homenews/campaign/6204997-chris-christie-2028-presidential-election/"
+          "title": "Prime Video releases trailer for 2-part Melania Trump series",
+          "link": "https://thehill.com/blogs/in-the-know/6205637-prime-video-melania-trump-series/"
         },
         {
-          "title": "Chris Murphy to miss 'several weeks' of votes for stroke recovery",
-          "link": "https://thehill.com/homenews/senate/6204922-senator-chris-murphy-stroke-recovery/"
+          "title": "How Scott Colom turned his Mississippi Senate race into a nail-biter",
+          "link": "https://thehill.com/homenews/senate/6205607-hyde-smith-colom-mississippi-senate/"
         },
         {
-          "title": "Johnson, staunch Trump ally, seeks to delay Senate GOP leadership election after big losses",
-          "link": "https://thehill.com/homenews/senate/6204900-ron-johnson-senate-gop-leadership-election-midterm-election-losses/"
+          "title": "Senate to vote on advancing permitting bill",
+          "link": "https://thehill.com/newsletters/energy-environment/6205580-senate-to-vote-on-advancing-permitting-bill/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-06T21:50:53.905Z"
+      "updatedAt": "2026-11-07T01:24:30.224Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "Man unexpectedly recovers from a knife wound through his eye and brain",
+          "link": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/"
+        },
+        {
+          "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
+          "link": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/"
+        },
+        {
+          "title": "Re-releases of Wing Commander, Ultima titles hit Steam and GOG",
+          "link": "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/"
+        },
         {
           "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
           "link": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/"
@@ -96,48 +108,36 @@
         {
           "title": "Earth's churning mantle may have created the Great Unconformity",
           "link": "https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/"
-        },
-        {
-          "title": "Nvidia hardware worth $11.4M vanished between Oakland and Texas",
-          "link": "https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/"
-        },
-        {
-          "title": "Developer ends lucrative screensaver deal with Roku because Fox bought it",
-          "link": "https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition/"
-        },
-        {
-          "title": "FAA to finally ditch floppy disks in what it calls \"historic\" tech upgrade",
-          "link": "https://arstechnica.com/tech-policy/2026/11/faa-to-finally-ditch-floppy-disks-in-what-it-calls-historic-tech-upgrade/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-06T21:50:54.027Z"
+      "updatedAt": "2026-11-07T01:24:30.401Z"
     },
     "The Verge": {
       "items": [
         {
+          "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation"
+        },
+        {
+          "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+          "link": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy"
+        },
+        {
+          "title": "Starlink Mobile: All the news on SpaceX&#8217;s major mobile carrier ambitions",
+          "link": "https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news"
+        },
+        {
+          "title": "KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium",
+          "link": "https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale"
+        },
+        {
           "title": "All the latest updates on AI data centers",
           "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy"
-        },
-        {
-          "title": "Shure’s popular podcasting and streaming mic is almost $50 off",
-          "link": "https://www.theverge.com/gadgets/1028846/shure-mv7-plus-podcasting-streaming-mic-deal-sale"
-        },
-        {
-          "title": "Lame-duck Congress might actually do something: speed up energy projects",
-          "link": "https://www.theverge.com/policy/1028228/energy-infrastructure-permitting-reform-bill-congress-vote"
-        },
-        {
-          "title": "Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
-          "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces"
-        },
-        {
-          "title": "Amazon is now making a Melania Trump TV series",
-          "link": "https://www.theverge.com/tech/1028854/amazon-melania-the-series-mgm-studios-prime-video"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-06T21:50:54.180Z"
+      "updatedAt": "2026-11-07T01:24:30.539Z"
     },
     "BBC World": {
       "items": [
@@ -162,19 +162,23 @@
           "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
-          "link": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss"
+          "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
+          "link": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Russian extremist group denies sending hoax bomb threats",
-          "link": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss"
+          "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
+          "link": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-06T21:50:54.401Z"
+      "updatedAt": "2026-11-07T01:24:31.072Z"
     },
     "BBC News": {
       "items": [
+        {
+          "title": "Meghan's father Thomas Markle appears in court over child sex abuse material",
+          "link": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "Brand's barrister refers himself to regulator after report he confronted journalist",
           "link": "https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o?at_medium=RSS&at_campaign=rss"
@@ -184,8 +188,8 @@
           "link": "https://www.bbc.co.uk/news/articles/cm4g1jqwylvgo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Trump replaces White House chief of staff days after Republicans suffer midterm defeats",
-          "link": "https://www.bbc.co.uk/news/articles/cm9qzz5x9g5yo?at_medium=RSS&at_campaign=rss"
+          "title": "With Stephen Miller pick, Trump readies for a battle",
+          "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "New wave of bomb threats hit European airlines",
@@ -194,17 +198,17 @@
         {
           "title": "Harry and five others seek to challenge Mail publisher privacy ruling",
           "link": "https://www.bbc.co.uk/news/articles/c8p3gg2ex4wlo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Watch: Is it the end of the road for Tesla's Cybertruck?",
-          "link": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-06T21:50:54.444Z"
+      "updatedAt": "2026-11-07T01:24:31.454Z"
     },
     "NY Times": {
       "items": [
+        {
+          "title": "Susie Wiles Is the Latest Powerful Woman to Exit the Trump Administration",
+          "link": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-trump-women.html"
+        },
         {
           "title": "Hegseth Faces Impeachment Effort and Bipartisan Scrutiny After Midterm Elections",
           "link": "https://www.nytimes.com/2026/11/06/us/politics/hegseth-trump-iran-war.html"
@@ -214,23 +218,23 @@
           "link": "https://www.nytimes.com/2026/11/06/us/politics/jason-reding-quinones-resigns.html"
         },
         {
-          "title": "Susie Wiles, Trump’s Chief of Staff, Is Accused of Blocking Health Policies to Attract Donations",
-          "link": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-calley-means-joe-rogan.html"
+          "title": "The Evening: Trump Replaces Chief of Staff",
+          "link": "https://www.nytimes.com/2026/11/06/briefing/stephen-miller-trump.html"
         },
         {
           "title": "How Elon Musk Frittered Away Nearly $500 Million on the Midterm Elections",
           "link": "https://www.nytimes.com/2026/11/06/us/politics/musk-trump-midterm-election-spending.html"
-        },
-        {
-          "title": "China’s Top Spy Agency Recruited Woman Who Targeted Jensen Huang",
-          "link": "https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-06T21:50:54.554Z"
+      "updatedAt": "2026-11-07T01:24:31.865Z"
     },
     "ARTNews": {
       "items": [
+        {
+          "title": "A New Hudson Valley Art Space Promises to Be As Accessible as It Is In Flux",
+          "link": "https://www.artnews.com/art-news/news/branchline-gochman-family-collection-opening-1234805014/"
+        },
         {
           "title": "President Trump Moves to Make Oval Office a Public Monument",
           "link": "https://www.artnews.com/art-news/news/trump-proclamation-seeks-oval-office-national-monument-1234804961/"
@@ -250,17 +254,17 @@
         {
           "title": "Rome’s Galleria Borghese’s $11.15 M. Extension Is Moving Forward Despite Pushback",
           "link": "https://www.artnews.com/art-news/news/romes-galleria-borghese-opens-competition-extension-1234804922/"
-        },
-        {
-          "title": "Federal Judge Temporarily Blocks Construction of Trump’s Arch, Hours After it Gains Final Approval",
-          "link": "https://www.artnews.com/art-news/news/federal-judge-temporarily-blocks-construction-of-trumps-arch-hours-after-it-gains-final-approval-1234804912/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-06T21:50:55.058Z"
+      "updatedAt": "2026-11-07T01:24:32.172Z"
     },
     "Hyperallergic": {
       "items": [
+        {
+          "title": "The Jewish Sisters in Renoir’s “Pink and Blue”",
+          "link": "https://hyperallergic.com/the-jewish-sisters-in-renoirs-pink-and-blue/"
+        },
         {
           "title": "Pablo Helguera to Helm the New School’s Vera List Center",
           "link": "https://hyperallergic.com/pablo-helguera-to-helm-the-new-schools-vera-list-center/"
@@ -280,14 +284,10 @@
         {
           "title": "A View From the Easel: Natali Bravo-Barbee",
           "link": "https://hyperallergic.com/a-view-from-the-easel-natali-bravo-barbee/"
-        },
-        {
-          "title": "Intermedia + Digital Arts MFA Program at UMBC Now Accepting Applications",
-          "link": "https://hyperallergic.com/intermedia-digital-arts-mfa-program-at-umbc-now-accepting-applications/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-06T21:50:55.262Z"
+      "updatedAt": "2026-11-07T01:24:32.374Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,10 +317,14 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-06T21:50:55.993Z"
+      "updatedAt": "2026-11-07T01:24:32.888Z"
     },
     "Booooooom": {
       "items": [
+        {
+          "title": "“God Brought Me to Pittsburgh” by Photographer Jacob Pesci",
+          "link": "https://www.booooooom.com/2026/11/06/god-brought-me-to-pittsburgh-by-photographer-jacob-pesci/"
+        },
         {
           "title": "“Fearless Flowers” by Photographer Marcin T. Jozefiak",
           "link": "https://www.booooooom.com/2026/11/04/fearless-flowers-by-photographer-marcin-t-jozefiak/"
@@ -340,14 +344,10 @@
         {
           "title": "“Aesthetic of After” by Photographer Junya Suzuki",
           "link": "https://www.booooooom.com/2026/10/30/aesthetic-of-after-by-photographer-junya-suzuki/"
-        },
-        {
-          "title": "“Veil” by Photographer Jennilee Marigomen",
-          "link": "https://www.booooooom.com/2026/10/29/veil-by-photographer-jennilee-marigomen/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-06T21:50:56.056Z"
+      "updatedAt": "2026-11-07T01:24:33.059Z"
     }
   }
 }
