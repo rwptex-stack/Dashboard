@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-11-07T01:24:33.060Z",
+  "fetchedAt": "2026-11-07T07:56:35.842Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Bernie Sanders thinks Medicare-for-all bill could pass, 'not absolutely certain' Trump would veto",
-          "link": "https://www.foxnews.com/media/bernie-sanders-thinks-medicare-all-bill-could-pass-not-absolutely-certain-trump-would-veto"
+          "title": "DeSantis blasts Washington Post over report he's preparing 2028 presidential bid",
+          "link": "https://www.foxnews.com/politics/desantis-blasts-washington-post-report-preparing-2028-presidential-bid"
         },
         {
-          "title": "MLB catcher who was behind plate for alleged rigged pitches testifies in Guardians pitchers' gambling case",
-          "link": "https://www.foxnews.com/outkick-sports/mlb-catcher-behind-plate-alleged-rigged-pitches-testifies-guardians-pitchers-gambling-case"
+          "title": "Rams safety Quentin Lake apologizes to Justin Herbert for 'deli meat' comment, even though he has a point",
+          "link": "https://www.foxnews.com/outkick-sports/rams-safety-quentin-lake-apologized-justin-herbert-deli-meat-comment-even-though-he-has-point"
         },
         {
-          "title": "NYU professor and podcaster calls Elon Musk a 'traitor,' compares him to Soviet spies excuted during Cold War",
-          "link": "https://www.foxnews.com/media/nyu-professor-podcaster-calls-elon-musk-traitor-compares-him-soviet-spies-excuted-during-cold-war"
+          "title": "Tiger Woods and ex-wife Elin Nordegren reunite to celebrate son Charlie's college golf commitment",
+          "link": "https://www.foxnews.com/outkick-sports/tiger-woods-ex-wife-elin-nordegren-reunite-celebrate-son-charlie-college-golf-commitment"
         },
         {
-          "title": "Miami Heat finally unveil 'Grand Theft Auto VI'-themed jerseys and social media is loving them",
-          "link": "https://www.foxnews.com/outkick-sports/miami-heat-unveil-grand-theft-auto-vi-themed-jerseys-social-media-loving"
+          "title": "Denver man found dead at bottom of national park canyon beneath steep drop-offs",
+          "link": "https://www.foxnews.com/us/denver-man-found-dead-bottom-national-park-canyon-beneath-steep-drop-offs"
         },
         {
-          "title": "Two women's college basketball teams score on their own baskets in the same day",
-          "link": "https://www.foxnews.com/outkick-sports/two-womens-college-basketball-teams-score-own-baskets-same-day"
+          "title": "US offers $20 million reward for information on Iran's nuclear program",
+          "link": "https://www.foxnews.com/politics/us-offers-20-million-reward-information-irans-nuclear-program"
         },
         {
-          "title": "White House trashes 'peanut-sized brain' Jimmy Kimmel after host demands Trump 'resign'",
-          "link": "https://www.foxnews.com/media/white-house-trashes-peanut-sized-brain-jimmy-kimmel-host-demands-trump-resign"
+          "title": "Trump highlights NASA nuclear-powered Mars spacecraft mission planned for 2028",
+          "link": "https://www.foxnews.com/politics/trump-highlights-nasa-nuclear-powered-mars-spacecraft-mission-planned-2028"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T01:24:29.098Z"
+      "updatedAt": "2026-11-07T07:56:33.268Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,38 +59,38 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T01:24:29.487Z"
+      "updatedAt": "2026-11-07T07:56:33.499Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "US measles status to go up for review",
-          "link": "https://thehill.com/newsletters/healthcare/6205697-us-mexico-measles-status-review/"
+          "title": "Tillis says Miller is 'worst of all possible choices' for chief of staff role",
+          "link": "https://thehill.com/homenews/administration/6205824-tillis-slams-trump-miller-hire/"
         },
         {
-          "title": "DC officials ask incoming Democratic governors to pull Guard troops",
-          "link": "https://thehill.com/newsletters/defense-national-security/6205686-dc-officials-ask-incoming-democratic-governors-to-pull-guard-troops/"
+          "title": "Former GOP governor: 'Wisconsin is a blue state'",
+          "link": "https://thehill.com/homenews/campaign/6205785-tommy-thompson-declares-wisconsin-blue-midterms/"
         },
         {
-          "title": "Prime Video releases trailer for 2-part Melania Trump series",
-          "link": "https://thehill.com/blogs/in-the-know/6205637-prime-video-melania-trump-series/"
+          "title": "DOJ dismisses lawsuit over California's 20,000 disputed ballots",
+          "link": "https://thehill.com/blogs/ballot-box/6205747-doj-dismisses-california-ballot-lawsuit/"
         },
         {
-          "title": "How Scott Colom turned his Mississippi Senate race into a nail-biter",
-          "link": "https://thehill.com/homenews/senate/6205607-hyde-smith-colom-mississippi-senate/"
+          "title": "California rejects billionaire tax proposal in win for executives, Newsom",
+          "link": "https://thehill.com/business/6185092-california-voters-reject-wealth-tax/"
         },
         {
-          "title": "Senate to vote on advancing permitting bill",
-          "link": "https://thehill.com/newsletters/energy-environment/6205580-senate-to-vote-on-advancing-permitting-bill/"
+          "title": "Wahab beats fellow Democrat in heated race for Swalwell's House seat",
+          "link": "https://thehill.com/homenews/campaign/6182641-aisha-wahab-eric-swalwell-california-house-seat-democrat-miderms-2026/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T01:24:30.224Z"
+      "updatedAt": "2026-11-07T07:56:34.192Z"
     },
     "Ars Technica": {
       "items": [
         {
-          "title": "Man unexpectedly recovers from a knife wound through his eye and brain",
+          "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
           "link": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/"
         },
         {
@@ -111,7 +111,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T01:24:30.401Z"
+      "updatedAt": "2026-11-07T07:56:34.298Z"
     },
     "The Verge": {
       "items": [
@@ -137,10 +137,14 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T01:24:30.539Z"
+      "updatedAt": "2026-11-07T07:56:34.402Z"
     },
     "BBC World": {
       "items": [
+        {
+          "title": "Paraguay's president impeached and under house arrest after bank collapse",
+          "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "AI stocks climb after trillions wiped from market values",
           "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss"
@@ -150,8 +154,8 @@
           "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Two dead after bus crashes in France, officials say",
-          "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss"
+          "title": "Pope in 'pretty good health' as he starts Latin America tour",
+          "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "New wave of bomb threats hit European airlines",
@@ -164,47 +168,47 @@
         {
           "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
           "link": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
-          "link": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T01:24:31.072Z"
+      "updatedAt": "2026-11-07T07:56:34.496Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Meghan's father Thomas Markle appears in court over child sex abuse material",
+          "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
           "link": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "With Stephen Miller pick as new chief of staff, Trump readies for a battle",
+          "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Brand's barrister refers himself to regulator after report he confronted journalist",
           "link": "https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "How 2000s lad culture helped Russell Brand to hide in plain sight",
-          "link": "https://www.bbc.co.uk/news/articles/cm4g1jqwylvgo?at_medium=RSS&at_campaign=rss"
+          "title": "Paraguay's president impeached after collapse of bank",
+          "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "With Stephen Miller pick, Trump readies for a battle",
-          "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss"
+          "title": "What happens if all the lights go out? This is the plan for a 'Black Sky' event",
+          "link": "https://www.bbc.co.uk/news/articles/ck5ynnj05z8no?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "New wave of bomb threats hit European airlines",
-          "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Harry and five others seek to challenge Mail publisher privacy ruling",
-          "link": "https://www.bbc.co.uk/news/articles/c8p3gg2ex4wlo?at_medium=RSS&at_campaign=rss"
+          "title": "Relief, tears and sadness: Married at First Sight UK cast react to show being axed",
+          "link": "https://www.bbc.co.uk/news/articles/crx233lx94n7o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T01:24:31.454Z"
+      "updatedAt": "2026-11-07T07:56:34.515Z"
     },
     "NY Times": {
       "items": [
+        {
+          "title": "In Elevating Stephen Miller, Trump Doubles Down on Hard-Line Agenda",
+          "link": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-chief-of-staff-trump.html"
+        },
         {
           "title": "Susie Wiles Is the Latest Powerful Woman to Exit the Trump Administration",
           "link": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-trump-women.html"
@@ -218,16 +222,12 @@
           "link": "https://www.nytimes.com/2026/11/06/us/politics/jason-reding-quinones-resigns.html"
         },
         {
-          "title": "The Evening: Trump Replaces Chief of Staff",
-          "link": "https://www.nytimes.com/2026/11/06/briefing/stephen-miller-trump.html"
-        },
-        {
           "title": "How Elon Musk Frittered Away Nearly $500 Million on the Midterm Elections",
           "link": "https://www.nytimes.com/2026/11/06/us/politics/musk-trump-midterm-election-spending.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T01:24:31.865Z"
+      "updatedAt": "2026-11-07T07:56:34.549Z"
     },
     "ARTNews": {
       "items": [
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T01:24:32.172Z"
+      "updatedAt": "2026-11-07T07:56:34.841Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T01:24:32.374Z"
+      "updatedAt": "2026-11-07T07:56:35.125Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T01:24:32.888Z"
+      "updatedAt": "2026-11-07T07:56:35.690Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T01:24:33.059Z"
+      "updatedAt": "2026-11-07T07:56:35.842Z"
     }
   }
 }
