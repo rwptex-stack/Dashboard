@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-11-07T19:09:48.393Z",
+  "fetchedAt": "2026-11-07T23:12:53.234Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Bill Maher warns Democrats that some on far-left want 'communism' after midterm sweep",
-          "link": "https://www.foxnews.com/media/bill-maher-warns-democrats-some-far-left-want-communism-after-midterm-sweep"
+          "title": "Brooks Nader turns heads in sheer dress at CFDA Fashion Awards",
+          "link": "https://www.foxnews.com/entertainment/brooks-nader-turns-heads-sheer-dress-cfda-fashion-awards-ahead-baywatch-reboot"
         },
         {
-          "title": "'Blue Lagoon' star Christopher Atkins wanted to be a dad more than 'a drunk' as he nears 40 years sober",
-          "link": "https://www.foxnews.com/entertainment/blue-lagoon-star-christopher-atkins-wanted-dad-more-than-a-drunk-he-nears-40-years-sober"
+          "title": "Duke's beatdown of NC State included a must-see missed field goal returned for a 109-yard touchdown",
+          "link": "https://www.foxnews.com/outkick-sports/dukes-beatdown-nc-state-included-must-see-missed-field-goal-returned-109-yard-touchdown"
         },
         {
-          "title": "Macklemore claims ‘Free Palestine’ tour blocked from 9 major US arenas",
-          "link": "https://www.foxnews.com/entertainment/macklemore-claims-free-palestine-tour-blocked-from-9-major-us-arenas"
+          "title": "Mötley Crüe singer Vince Neil's longtime girlfriend arrested on domestic assault charges",
+          "link": "https://www.foxnews.com/entertainment/motley-crue-singer-vince-neil-longtime-girlfriend-arrested-domestic-assault-charges"
         },
         {
-          "title": "Trump orders DOJ probe into Democrats over alleged threats against admin officials",
-          "link": "https://www.foxnews.com/politics/trump-orders-doj-probe-democrats-over-alleged-threats-against-admin-officials"
+          "title": "Simple bedtime change may help some individuals lose weight, study finds",
+          "link": "https://www.foxnews.com/health/simple-bedtime-change-help-individuals-lose-weight-study-finds"
         },
         {
-          "title": "Biden-appointed judge probes whether ICE skirted judge's release orders in Colorado cases",
-          "link": "https://www.foxnews.com/politics/biden-appointed-judge-probes-whether-ice-circumvented-judicial-release-orders-colorado-cases"
+          "title": "Suspect who reportedly claimed to be LeBron James' son arrested for stalking at star's LA home, LAPD says",
+          "link": "https://www.foxnews.com/outkick-sports/suspect-claimed-lebron-james-son-arrested-stalking-star-la-home-lapd"
         },
         {
-          "title": "JONATHAN TURLEY: Midterms empower Democrats to target the Electoral College",
-          "link": "https://www.foxnews.com/opinion/jonathan-turley-midterms-empower-democrats-target-electoral-college"
+          "title": "Israeli president taps Netanyahu rival to form government as coalition battle looms",
+          "link": "https://www.foxnews.com/world/israeli-president-picks-netanyahu-rival-form-government-coalition-battle-looms"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T19:09:45.376Z"
+      "updatedAt": "2026-11-07T23:12:51.043Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,33 +59,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T19:09:45.741Z"
+      "updatedAt": "2026-11-07T23:12:51.290Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Why do Americans keep killing each other?",
-          "link": "https://thehill.com/opinion/criminal-justice/6204681-why-us-violence-escalates/"
+          "title": "After Trump made inroads, Latinos help Democrats deliver blue wave",
+          "link": "https://thehill.com/homenews/campaign/6205200-hispanic-voters-midterm-elections-gop/"
         },
         {
-          "title": "Trump says he offered White House press secretary job to Dana White",
-          "link": "https://thehill.com/homenews/administration/6206117-trump-says-he-offered-white-house-press-secretary-job-to-dana-white/"
+          "title": "Israeli president picks Netanyahu's rival Eisenkot to form new government",
+          "link": "https://thehill.com/policy/international/6206234-herzog-appoints-eisenkot-form-government/"
         },
         {
-          "title": "Meet Stephen Miller, Trump's new chief of staff: 5 things to know",
-          "link": "https://thehill.com/homenews/administration/6206059-stephen-miller-chief-of-staff-info/"
+          "title": "Rep.-elect Ojeda posts tribute to father who died after midterms: 'He held on'",
+          "link": "https://thehill.com/homenews/state-watch/6206210-ojeda-dedicates-victory-father/"
         },
         {
-          "title": "President Trump: Forget the midterms and finish the job in Iran",
-          "link": "https://thehill.com/opinion/international/6204551-trump-finish-iran-job/"
+          "title": "Live updates: Melania Trump attends LSU-Alabama game; UFC's Dana White offered press secretary role",
+          "link": "https://thehill.com/homenews/administration/6205796-live-melania-trump-football-mar-a-lago/"
         },
         {
-          "title": "Are hackers targeting America's food supply?",
-          "link": "https://thehill.com/policy/technology/6206043-fridges-blood-banks-cyberattacks-federal-warning/"
+          "title": "Republican Kris Kobach loses AG reelection bid in Kansas",
+          "link": "https://thehill.com/homenews/campaign/6206185-kris-kobach-loses-kansas-election/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T19:09:46.531Z"
+      "updatedAt": "2026-11-07T23:12:51.866Z"
     },
     "Ars Technica": {
       "items": [
@@ -111,7 +111,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T19:09:46.635Z"
+      "updatedAt": "2026-11-07T23:12:51.953Z"
     },
     "The Verge": {
       "items": [
@@ -137,13 +137,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T19:09:46.735Z"
+      "updatedAt": "2026-11-07T23:12:52.021Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "What we know about Krakow mass shooting so far",
+          "title": "What we know so far after Krakow gun attack",
           "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+          "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "No clear winner after tight New Zealand general election",
@@ -164,20 +168,20 @@
         {
           "title": "With Stephen Miller pick, Trump readies for a battle",
           "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Paraguay's president impeached and under house arrest after bank collapse",
-          "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T19:09:46.870Z"
+      "updatedAt": "2026-11-07T23:12:52.054Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "What we know about Krakow mass shooting so far",
+          "title": "What we know so far after Krakow gun attack",
           "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+          "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
@@ -192,16 +196,12 @@
           "link": "https://www.bbc.co.uk/news/articles/cx240e5py64jo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "No clear winner after tight New Zealand general election",
-          "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "What happens if all the lights go out? This is the plan for a 'Black Sky' event",
-          "link": "https://www.bbc.co.uk/news/articles/ck5ynnj05z8no?at_medium=RSS&at_campaign=rss"
+          "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
+          "link": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T19:09:46.889Z"
+      "updatedAt": "2026-11-07T23:12:52.069Z"
     },
     "NY Times": {
       "items": [
@@ -210,16 +210,16 @@
           "link": "https://www.nytimes.com/2026/11/07/us/politics/stephen-miller-midterm-elections.html"
         },
         {
-          "title": "Susie Wiles Is the Latest Powerful Woman to Exit the Trump Administration",
-          "link": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-trump-women.html"
+          "title": "Trump’s D.C. Construction Blitz May Be About to Get Tougher",
+          "link": "https://www.nytimes.com/2026/11/06/us/politics/trump-construction-projects-washington.html"
         },
         {
-          "title": "What to Know About Stephen Miller, Trump’s New Chief of Staff",
-          "link": "https://www.nytimes.com/2026/11/06/us/politics/stephen-miller-white-house-chief-staff.html"
-        },
-        {
-          "title": "Schumer Is on Track to Remain Democratic Leader in Senate After Election Blowout, Aides Say",
+          "title": "Chuck Schumer Is on Track to Become Senate Majority Leader After Election Blowout",
           "link": "https://www.nytimes.com/2026/11/07/us/politics/schumer-election-democrats-senate.html"
+        },
+        {
+          "title": "After the Midterms, the Average Age in the Senate Falls to 63",
+          "link": "https://www.nytimes.com/2026/11/07/upshot/senators-midterm-elections-age.html"
         },
         {
           "title": "Turning Point Bet on the Midterms and Lost. Some Republicans Are Furious.",
@@ -227,7 +227,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T19:09:47.060Z"
+      "updatedAt": "2026-11-07T23:12:52.139Z"
     },
     "ARTNews": {
       "items": [
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T19:09:47.426Z"
+      "updatedAt": "2026-11-07T23:12:52.484Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T19:09:47.686Z"
+      "updatedAt": "2026-11-07T23:12:52.569Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T19:09:48.277Z"
+      "updatedAt": "2026-11-07T23:12:53.151Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T19:09:48.393Z"
+      "updatedAt": "2026-11-07T23:12:53.234Z"
     }
   }
 }
