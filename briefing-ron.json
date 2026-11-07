@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-06T22:56:46.518Z",
+  "fetchedAt": "2026-11-07T02:40:09.092Z",
   "feeds": {
     "MarketWatch": {
       "items": [
@@ -29,37 +29,37 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-06T22:56:45.109Z"
+      "updatedAt": "2026-11-07T02:40:08.021Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Craig Carton rips Chiefs teammates for not helping embattled Rashee Rice avoid bankruptcy",
-          "link": "https://www.foxnews.com/outkick-sports/craig-carton-rips-chiefs-teammates-not-helping-embattled-rashee-rice-avoid-bankruptcy"
+          "title": "US offers $20 million reward for information on Iran's nuclear program",
+          "link": "https://www.foxnews.com/politics/us-offers-20-million-reward-information-irans-nuclear-program"
         },
         {
-          "title": "Secret Service arrests armed Venezuelan migrant near White House over alleged Trump assassination threat",
-          "link": "https://www.foxnews.com/us/secret-service-arrests-armed-venezuelan-migrant-near-white-house-alleged-trump-assassination-threat"
+          "title": "Trump highlights NASA nuclear-powered Mars spacecraft mission planned for 2028",
+          "link": "https://www.foxnews.com/politics/trump-highlights-nasa-nuclear-powered-mars-spacecraft-mission-planned-2028"
         },
         {
-          "title": "World's tallest women's college basketball player makes her debut for Texas Tech",
-          "link": "https://www.foxnews.com/outkick-sports/worlds-tallest-womens-college-basketball-player-makes-debut-texas-tech"
+          "title": "49ers coach gives blunt reaction to disgruntled Brandon Aiyuk's return to team: 'I could care less'",
+          "link": "https://www.foxnews.com/outkick-sports/49ers-coach-blunt-reaction-disgruntled-brandon-aiyuk-return-team-could-care-less"
         },
         {
-          "title": "Kristaps Porzingis stepping away from basketball amid health issues: 'Not where I want to be'",
-          "link": "https://www.foxnews.com/outkick-sports/kristaps-porzingis-stepping-away-basketball-amid-health-issues-not-where-i-want-to-be"
+          "title": "Bernie Sanders thinks Medicare-for-all bill could pass, 'not absolutely certain' Trump would veto",
+          "link": "https://www.foxnews.com/media/bernie-sanders-thinks-medicare-all-bill-could-pass-not-absolutely-certain-trump-would-veto"
         },
         {
-          "title": "As Seen on FOX & Friends: Fun STEAM Toys for National STEAM Day",
-          "link": "https://www.foxnews.com/deals/national-steam-day-toys"
+          "title": "MLB catcher who was behind plate for alleged rigged pitches testifies in Guardians pitchers' gambling case",
+          "link": "https://www.foxnews.com/outkick-sports/mlb-catcher-behind-plate-alleged-rigged-pitches-testifies-guardians-pitchers-gambling-case"
         },
         {
-          "title": "The Hitchhiker’s Guide to what happens next on Capitol Hill",
-          "link": "https://www.foxnews.com/politics/hitchhikers-guide-what-happens-whats-next-capitol-hill"
+          "title": "NYU professor and podcaster calls Elon Musk a 'traitor,' compares him to Soviet spies excuted during Cold War",
+          "link": "https://www.foxnews.com/media/nyu-professor-podcaster-calls-elon-musk-traitor-compares-him-soviet-spies-excuted-during-cold-war"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-06T22:56:45.264Z"
+      "updatedAt": "2026-11-07T02:40:08.146Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -89,36 +89,48 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-06T22:56:45.394Z"
+      "updatedAt": "2026-11-07T02:40:08.308Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Musk's big bet on Republicans comes up short",
-          "link": "https://thehill.com/newsletters/technology/6205461-musks-big-bet-on-republicans-comes-up-short/"
+          "title": "California rejects billionaire tax proposal in win for executives, Newsom",
+          "link": "https://thehill.com/business/6185092-california-voters-reject-wealth-tax/"
         },
         {
-          "title": "Acton: 'No intention' of speaking with Ramaswamy after 'beyond the pale' ad",
-          "link": "https://thehill.com/homenews/campaign/6205460-amy-acton-refuses-ramaswamy-call/"
+          "title": "Wahab beats fellow Democrat in heated race for Swalwell's House seat",
+          "link": "https://thehill.com/homenews/campaign/6182641-aisha-wahab-eric-swalwell-california-house-seat-democrat-miderms-2026/"
         },
         {
-          "title": "Watch live: Trump to speak from Kennedy Space Center days after GOP midterm losses",
-          "link": "https://thehill.com/video-clips/6204918-watch-live-donald-trump-florida-nasa-space-center-midterms/"
+          "title": "Ex-RFK Jr adviser bashes White House on MAHA priorities",
+          "link": "https://thehill.com/homenews/administration/6205715-calley-means-susan-wiles-departure-maha/"
         },
         {
-          "title": "Democrats blast 'dangerous' elevation of Miller as refusal to learn from the election",
-          "link": "https://thehill.com/homenews/house/6205303-democrats-trump-miller-promotion/"
+          "title": "US measles status to go up for review",
+          "link": "https://thehill.com/newsletters/healthcare/6205697-us-mexico-measles-status-review/"
         },
         {
-          "title": "Bottoms taps Tyler Perry for her Georgia transition team",
-          "link": "https://thehill.com/homenews/campaign/6205121-bottoms-names-tyler-perry-transition/"
+          "title": "DC officials ask incoming Democratic governors to pull Guard troops",
+          "link": "https://thehill.com/newsletters/defense-national-security/6205686-dc-officials-ask-incoming-democratic-governors-to-pull-guard-troops/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-06T22:56:45.901Z"
+      "updatedAt": "2026-11-07T02:40:08.630Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
+          "link": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/"
+        },
+        {
+          "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
+          "link": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/"
+        },
+        {
+          "title": "Re-releases of Wing Commander, Ultima titles hit Steam and GOG",
+          "link": "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/"
+        },
         {
           "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
           "link": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/"
@@ -126,25 +138,21 @@
         {
           "title": "Earth's churning mantle may have created the Great Unconformity",
           "link": "https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/"
-        },
-        {
-          "title": "Nvidia hardware worth $11.4M vanished between Oakland and Texas",
-          "link": "https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/"
-        },
-        {
-          "title": "Developer ends lucrative screensaver deal with Roku because Fox bought it",
-          "link": "https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition/"
-        },
-        {
-          "title": "FAA to finally ditch floppy disks in what it calls \"historic\" tech upgrade",
-          "link": "https://arstechnica.com/tech-policy/2026/11/faa-to-finally-ditch-floppy-disks-in-what-it-calls-historic-tech-upgrade/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-06T22:56:46.030Z"
+      "updatedAt": "2026-11-07T02:40:08.701Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation"
+        },
+        {
+          "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+          "link": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy"
+        },
         {
           "title": "Starlink Mobile: All the news on SpaceX&#8217;s major mobile carrier ambitions",
           "link": "https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news"
@@ -156,18 +164,10 @@
         {
           "title": "All the latest updates on AI data centers",
           "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy"
-        },
-        {
-          "title": "Shure’s popular podcasting and streaming mic is almost $50 off",
-          "link": "https://www.theverge.com/gadgets/1028846/shure-mv7-plus-podcasting-streaming-mic-deal-sale"
-        },
-        {
-          "title": "Lame-duck Congress might actually do something: speed up energy projects",
-          "link": "https://www.theverge.com/policy/1028228/energy-infrastructure-permitting-reform-bill-congress-vote"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-06T22:56:46.125Z"
+      "updatedAt": "2026-11-07T02:40:08.788Z"
     },
     "BBC World": {
       "items": [
@@ -201,7 +201,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-06T22:56:46.251Z"
+      "updatedAt": "2026-11-07T02:40:08.890Z"
     },
     "BBC News": {
       "items": [
@@ -210,16 +210,16 @@
           "link": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss"
         },
         {
+          "title": "With Stephen Miller pick, Trump readies for a battle",
+          "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Brand's barrister refers himself to regulator after report he confronted journalist",
           "link": "https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "How 2000s lad culture helped Russell Brand to hide in plain sight",
           "link": "https://www.bbc.co.uk/news/articles/cm4g1jqwylvgo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Trump replaces White House chief of staff days after Republicans suffer midterm defeats",
-          "link": "https://www.bbc.co.uk/news/articles/cm9qzz5x9g5yo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "New wave of bomb threats hit European airlines",
@@ -231,10 +231,18 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-06T22:56:46.324Z"
+      "updatedAt": "2026-11-07T02:40:08.897Z"
     },
     "NY Times": {
       "items": [
+        {
+          "title": "In Elevating Stephen Miller, Trump Doubles Down on Hard-Line Agenda",
+          "link": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-chief-of-staff-trump.html"
+        },
+        {
+          "title": "Susie Wiles Is the Latest Powerful Woman to Exit the Trump Administration",
+          "link": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-trump-women.html"
+        },
         {
           "title": "Hegseth Faces Impeachment Effort and Bipartisan Scrutiny After Midterm Elections",
           "link": "https://www.nytimes.com/2026/11/06/us/politics/hegseth-trump-iran-war.html"
@@ -244,20 +252,12 @@
           "link": "https://www.nytimes.com/2026/11/06/us/politics/jason-reding-quinones-resigns.html"
         },
         {
-          "title": "Susie Wiles, Trump’s Chief of Staff, Is Accused of Blocking Health Policies to Attract Donations",
-          "link": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-calley-means-joe-rogan.html"
-        },
-        {
-          "title": "How Elon Musk Frittered Away Nearly $500 Million on the Midterm Elections",
-          "link": "https://www.nytimes.com/2026/11/06/us/politics/musk-trump-midterm-election-spending.html"
-        },
-        {
-          "title": "China’s Top Spy Agency Recruited Woman Who Targeted Jensen Huang",
-          "link": "https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html"
+          "title": "The Evening: Trump Replaces Chief of Staff",
+          "link": "https://www.nytimes.com/2026/11/06/briefing/stephen-miller-trump.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-06T22:56:46.405Z"
+      "updatedAt": "2026-11-07T02:40:08.969Z"
     }
   },
   "indices": {
@@ -284,8 +284,8 @@
       },
       {
         "name": "Bitcoin",
-        "price": 75830.51,
-        "pct": -1.1043555263422267
+        "price": 75941.04,
+        "pct": -1.8152551456104937
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-11-06T22:56:46.518Z"
+    "updatedAt": "2026-11-07T02:40:09.092Z"
   }
 }
