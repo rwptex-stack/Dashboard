@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-11-08T03:06:01.149Z",
+  "fetchedAt": "2026-11-08T10:51:08.487Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Boston College scores on bizarre 'Ring-Around-The-Rosie' homage to 'The Longest Yard'",
-          "link": "https://www.foxnews.com/outkick-sports/boston-college-scores-bizarre-ring-around-rosie-homage-longest-yard"
+          "title": "Inside a rancher family's clash with gov't that could have ripple effect right to SCOTUS: ‘Existential threat’",
+          "link": "https://www.foxnews.com/politics/rancher-family-clash-govt-ripple-effect-scotus-existential-threat"
         },
         {
-          "title": "Two experienced skydivers die after midair collision entangles their parachutes",
-          "link": "https://www.foxnews.com/us/two-experienced-skydivers-die-midair-collision-entangles-parachutes"
+          "title": "American Culture Quiz: Test yourself on famous fragrances and concerning carry-ons",
+          "link": "https://www.foxnews.com/lifestyle/american-culture-quiz-test-yourself-famous-fragrances-concerning-carry-ons"
         },
         {
-          "title": "Reggie Jackson calls out antisemitism in native Pennsylvania, likens it to 'racism I experienced in the 1960s'",
-          "link": "https://www.foxnews.com/outkick-sports/reggie-jackson-calls-out-antisemitism-native-pennsylvania-likens-racism-experienced-1960s"
+          "title": "New Jersey town reveals staggering $26M theft days after election, sparking backlash",
+          "link": "https://www.foxnews.com/politics/new-jersey-town-reveals-staggering-26m-theft-days-after-election-sparking-backlash"
         },
         {
-          "title": "Florida State interim coach Rick Stockstill leads Seminoles to win in debut, ends road losing streak",
-          "link": "https://www.foxnews.com/outkick-sports/florida-state-interim-coach-rick-stockstill-leads-seminoles-win-debut-ends-road-losing-streak"
+          "title": "Marcus Freeman, Notre Dame silence doubters by knocking off top-ranked Miami, solidifying their CFP ranking",
+          "link": "https://www.foxnews.com/outkick-sports/marcus-freeman-notre-dame-silence-doubters-knocking-top-ranked-miami-solidifying-cfp-ranking"
         },
         {
-          "title": "Alabama finally puts it all together, dominates LSU and leaves Lane Kiffin staring at $40 million CFP disaster",
-          "link": "https://www.foxnews.com/outkick-sports/alabama-puts-together-dominates-lsu-leaves-lane-kiffin-staring-40-million-cfp-disaster"
+          "title": "Three teens, adult charged with murder after woman finds her teenage son dead in abandoned home",
+          "link": "https://www.foxnews.com/us/three-teens-adult-charged-murder-after-woman-finds-her-teenage-son-dead-abandoned-home"
         },
         {
-          "title": "Tim McGraw warns of ‘most dangerous’ times in marriage after 30 years with Faith Hill",
-          "link": "https://www.foxnews.com/entertainment/tim-mcgraw-warns-most-dangerous-times-marriage-after-30-years-faith-hill"
+          "title": "Georgia dominates Ole Miss, moves closer to SEC championship game and College Football Playoff berth",
+          "link": "https://www.foxnews.com/outkick-sports/georgia-dominates-ole-miss-moves-closer-sec-championship-game-college-football-playoff-berth"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-08T03:05:58.934Z"
+      "updatedAt": "2026-11-08T10:51:06.234Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,10 +59,14 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-08T03:05:59.085Z"
+      "updatedAt": "2026-11-08T10:51:06.445Z"
     },
     "The Hill": {
       "items": [
+        {
+          "title": "Sotomayor says she hopes Supreme Court will overturn presidential immunity decision",
+          "link": "https://thehill.com/regulation/court-battles/6206392-sotomayor-hopes-immunity-overturned/"
+        },
         {
           "title": "US military fires at cargo ship in Gulf of Oman",
           "link": "https://thehill.com/policy/defense/6206359-us-military-disables-oman-vessel/"
@@ -78,14 +82,10 @@
         {
           "title": "Sunday shows preview: Democrats lay out legislative agenda; Congress leadership sparks infighting",
           "link": "https://thehill.com/homenews/sunday-talk-shows/6206302-congress-leadership-fight-democrats-agenda-midterms/"
-        },
-        {
-          "title": "After Trump made inroads, Latinos help Democrats deliver blue wave",
-          "link": "https://thehill.com/homenews/campaign/6205200-hispanic-voters-midterm-elections-gop/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-08T03:05:59.879Z"
+      "updatedAt": "2026-11-08T10:51:06.956Z"
     },
     "Ars Technica": {
       "items": [
@@ -111,7 +111,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-08T03:05:59.918Z"
+      "updatedAt": "2026-11-08T10:51:07.034Z"
     },
     "The Verge": {
       "items": [
@@ -137,7 +137,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-08T03:06:00.117Z"
+      "updatedAt": "2026-11-08T10:51:07.116Z"
     },
     "BBC World": {
       "items": [
@@ -146,62 +146,62 @@
           "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Israel's president tasks opposition leader Eisenkot with forming government",
-          "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss"
+          "title": "Houthis say at least 33 killed in Saudi air strike",
+          "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "No clear winner after tight New Zealand general election",
-          "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss"
+          "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+          "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+          "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "US offers $20m reward for information about Iran's nuclear programme",
           "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Houthis say at least 25 killed in Saudi air strike",
-          "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
           "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "With Stephen Miller pick, Trump readies for a battle",
-          "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss"
+          "title": "Paraguay's former president charged after bank collapse",
+          "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-08T03:06:00.460Z"
+      "updatedAt": "2026-11-08T10:51:07.146Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Briton among six killed in 'far-right' shooting in Krakow",
-          "link": "https://www.bbc.co.uk/news/articles/c6n9r01d2709o?at_medium=RSS&at_campaign=rss"
+          "title": "How the deadly shooting in Krakow unfolded",
+          "link": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Israel's president tasks opposition leader Eisenkot with forming government",
-          "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss"
+          "title": "Veterans shouldn't sleep rough this Christmas, Burnham says",
+          "link": "https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
-          "link": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&at_campaign=rss"
+          "title": "Two seriously hurt in 30-vehicle crash on the M20 in Kent",
+          "link": "https://www.bbc.co.uk/news/articles/ck87z9exex2lo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Andy Burnham wants to get closer to the EU - but he shouldn't expect a smooth ride",
-          "link": "https://www.bbc.co.uk/news/articles/cwjdmm0z74plo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
+          "title": "Trump asks UFC boss to be White House press secretary: 'Dana, please take the job!'",
           "link": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Royal Family join veterans and families at Festival of Remembrance",
-          "link": "https://www.bbc.co.uk/news/articles/cxvgd2nr3e30o?at_medium=RSS&at_campaign=rss"
+          "title": "My parents chose to die together and I was left to grieve alone",
+          "link": "https://www.bbc.co.uk/news/articles/c81dwllzv113o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "The Trump coalition is shattered - what will Republicans do now?",
+          "link": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-08T03:06:00.484Z"
+      "updatedAt": "2026-11-08T10:51:07.153Z"
     },
     "NY Times": {
       "items": [
@@ -227,7 +227,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-08T03:06:00.590Z"
+      "updatedAt": "2026-11-08T10:51:07.175Z"
     },
     "ARTNews": {
       "items": [
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-08T03:06:00.634Z"
+      "updatedAt": "2026-11-08T10:51:07.298Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-08T03:06:00.793Z"
+      "updatedAt": "2026-11-08T10:51:07.523Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-08T03:06:01.048Z"
+      "updatedAt": "2026-11-08T10:51:08.385Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-08T03:06:01.149Z"
+      "updatedAt": "2026-11-08T10:51:08.487Z"
     }
   }
 }
