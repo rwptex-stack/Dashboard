@@ -1,8 +1,20 @@
 {
-  "fetchedAt": "2026-11-08T07:06:01.914Z",
+  "fetchedAt": "2026-11-08T14:56:27.980Z",
   "feeds": {
     "MarketWatch": {
       "items": [
+        {
+          "title": "‘We’re losing to cottage cheese’: The protein-maxxing craze is hurting cream-cheese sales",
+          "link": "https://www.marketwatch.com/story/were-losing-to-cottage-cheese-the-protein-maxxing-craze-is-hurting-cream-cheese-sales-40ae94f3?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Stocks are moving in sync again for the first time in a while. There’s just one problem.",
+          "link": "https://www.marketwatch.com/story/stocks-are-moving-in-sync-again-for-the-first-time-in-a-while-theres-just-one-problem-c953bf72?mod=mw_rss_topstories"
+        },
+        {
+          "title": "This market signal called the tech selloff. Now it’s sending another warning.",
+          "link": "https://www.marketwatch.com/story/this-market-signal-called-the-tech-selloff-now-its-sending-another-warning-f7f8eb9b?mod=mw_rss_topstories"
+        },
         {
           "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
           "link": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories"
@@ -14,111 +26,103 @@
         {
           "title": "Here are the 2027 capital-gains tax rates for each income level",
           "link": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Medicare prescription drug costs will jump 50% in 2027. Doing nothing could cost you.",
-          "link": "https://www.marketwatch.com/story/medicare-prescription-drug-costs-will-jump-50-in-2027-doing-nothing-could-cost-you-b701dfb7?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Democrats’ big election win revives a difficult Social Security question: Who pays?",
-          "link": "https://www.marketwatch.com/story/democrats-big-election-win-revives-a-difficult-social-security-question-who-pays-17ba9448?mod=mw_rss_topstories"
-        },
-        {
-          "title": "I’m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
-          "link": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-08T07:05:59.890Z"
+      "updatedAt": "2026-11-08T14:56:25.749Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Marcus Freeman, Notre Dame silence doubters by knocking off top-ranked Miami, solidifying their CFP ranking",
-          "link": "https://www.foxnews.com/outkick-sports/marcus-freeman-notre-dame-silence-doubters-knocking-top-ranked-miami-solidifying-cfp-ranking"
+          "title": "Gracie Hunt's bachelorette weekend has arrived, our favorite rower spends time in her bikini & down goes No 1",
+          "link": "https://www.foxnews.com/outkick-sports/gracie-hunt-bachelorette-weekend-favorite-rower-bikini-down-goes-no-1"
         },
         {
-          "title": "Three teens, adult charged with murder after woman finds her teenage son dead in abandoned home",
-          "link": "https://www.foxnews.com/us/three-teens-adult-charged-murder-after-woman-finds-her-teenage-son-dead-abandoned-home"
+          "title": "The cast of 'Madden' hits the red carpet to talk about whether they've chowed down on turducken",
+          "link": "https://www.foxnews.com/outkick-sports/cast-madden-hits-red-carpet-talk-whether-theyve-chowed-down-turducken"
         },
         {
-          "title": "Georgia dominates Ole Miss, moves closer to SEC championship game and College Football Playoff berth",
-          "link": "https://www.foxnews.com/outkick-sports/georgia-dominates-ole-miss-moves-closer-sec-championship-game-college-football-playoff-berth"
+          "title": "Browns' Shedeur Sanders gets hype video for first start of the season and social media cannot handle it",
+          "link": "https://www.foxnews.com/outkick-sports/browns-shedeur-sanders-hype-video-first-start-season-social-media-cannot-handle"
         },
         {
-          "title": "Japanese bowling pioneer Ritsuko Nakayama, first woman to bowl professional perfect game, dies at 84",
-          "link": "https://www.foxnews.com/outkick-sports/japanese-bowling-pioneer-ritsuko-nakayama-first-woman-bowl-professional-perfect-game-dies-84"
+          "title": "Cowboys star Brandon Aubrey details journey from soccer player to software engineer to Pro Bowl kicker",
+          "link": "https://www.foxnews.com/outkick-sports/cowboys-star-brandon-aubrey-details-journey-soccer-player-software-engineer-pro-bowl-kicker"
         },
         {
-          "title": "13th-ranked Tennessee dismantles sixth-ranked Kentucky to stay alive in College Football Playoff race",
-          "link": "https://www.foxnews.com/outkick-sports/13th-ranked-tennessee-dismantles-sixth-ranked-kentucky-stay-alive-college-football-playoff-race"
+          "title": "ELAINE PARKER: Democrat win is a wake-up call for Republicans, not a vote for socialism",
+          "link": "https://www.foxnews.com/opinion/elaine-parker-democrat-win-wake-up-call-republicans-not-vote-socialism"
         },
         {
-          "title": "Matt Rhule says Nebraska was due for 'a change' after coaching staff shakeup following loss to Illinois",
-          "link": "https://www.foxnews.com/outkick-sports/matt-rhule-says-nebraska-due-change-coaching-staff-shakeup-following-loss-illinois"
+          "title": "High school athlete cursed out by Seattle Storm owner runs against trans athlete at state championship",
+          "link": "https://www.foxnews.com/outkick-sports/high-school-runner-cursed-seattle-storm-owner-faces-camas-trans-athlete-state-championship"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-08T07:06:00.211Z"
+      "updatedAt": "2026-11-08T14:56:25.983Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "Welcome to Trump's Lame-Duck Era",
-          "link": "https://www.realclearpolitics.com/2026/11/07/welcome_to_trumps_lame-duck_era_716891.html"
+          "title": "Breaking the Decade-Long Trump Fever",
+          "link": "https://www.realclearpolitics.com/2026/11/08/breaking_the_decade-long_trump_fever_716983.html"
         },
         {
-          "title": "Dem Congress Gives Trump a Challenge and an Opportunity",
-          "link": "https://www.realclearpolitics.com/2026/11/07/dem_congress_gives_trump_a_challenge_and_an_opportunity_716898.html"
+          "title": "Trump Didn't Care - But His Voters Did",
+          "link": "https://www.realclearpolitics.com/2026/11/08/trump_didnt_care_-_but_his_voters_did_716933.html"
         },
         {
-          "title": "Iran Didn't Decide the Midterms But Made the Wave Higher",
-          "link": "https://www.realclearpolitics.com/2026/11/07/iran_didnt_decide_the_midterms_but_made_the_wave_higher_716893.html"
+          "title": "Centrism Did Not Win Democrats This Huge Victory",
+          "link": "https://www.realclearpolitics.com/2026/11/08/centrism_did_not_win_democrats_this_huge_victory_716982.html"
         },
         {
-          "title": "Charlie Kirk and the Shattering of the American Right",
-          "link": "https://www.realclearpolitics.com/2026/11/07/charlie_kirk_and_the_shattering_of_the_american_right_716901.html"
+          "title": "Iran War Advocates Own the Midterm Debacle",
+          "link": "https://www.realclearpolitics.com/2026/11/06/iran_war_advocates_own_the_midterm_debacle_716847.html"
         },
         {
-          "title": "Hinojosa's Win Was the Most Important of the Midterms",
-          "link": "https://www.realclearpolitics.com/2026/11/07/hinojosas_win_was_the_most_important_of_the_midterms_716896.html"
+          "title": "Clear Election Verdict Leaves Murky Future for Trump & America",
+          "link": "https://www.realclearpolitics.com/2026/11/08/clear_election_verdict_leaves_murky_future_for_trump_amp_america_716993.html"
         },
         {
-          "title": "Florida Conservatism Is Now American Conservatism",
-          "link": "https://www.realclearpolitics.com/2026/11/07/florida_conservatism_is_now_american_conservatism_716851.html"
+          "title": "Stephen Miller's Promotion Shows WH Is Ready for War",
+          "link": "https://www.realclearpolitics.com/2026/11/08/stephen_millerrsquos_promotion_shows_wh_is_ready_for_war_716963.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-08T07:06:00.422Z"
+      "updatedAt": "2026-11-08T14:56:26.223Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Sotomayor says she hopes Supreme Court will overturn presidential immunity decision",
-          "link": "https://thehill.com/regulation/court-battles/6206392-sotomayor-hopes-immunity-overturned/"
+          "title": "Giorgia Meloni blames pro-Russian hackers for leaking foreign minister's personal data to dark web",
+          "link": "https://thehill.com/policy/international/6206505-meloni-blames-russian-hackers-tajani/"
         },
         {
-          "title": "US military fires at cargo ship in Gulf of Oman",
-          "link": "https://thehill.com/policy/defense/6206359-us-military-disables-oman-vessel/"
+          "title": "Three ways the new Congress can stop Trump’s war",
+          "link": "https://thehill.com/opinion/congress-blog/6205683-congress-tools-end-iran-war/"
         },
         {
-          "title": "Wisconsin state trooper released from ICE custody after 'dramatic' arrest",
-          "link": "https://thehill.com/homenews/state-watch/6206341-wisconsin-trooper-ice-arrest/"
+          "title": "Talarico makes 'Saturday Night Live' appearance after Texas win",
+          "link": "https://thehill.com/blogs/in-the-know/6206531-talarico-makes-saturday-night-live-appearance/"
         },
         {
-          "title": "Trump says 'a few' cabinet changes are in store after GOP midterm blowout",
-          "link": "https://thehill.com/homenews/administration/6206322-trump-cabinet-midterm-changes/"
+          "title": "Live updates: Trump sits for post-midterms interview; Congress gears up for lame-duck session",
+          "link": "https://thehill.com/homenews/administration/6206264-live-trump-60-minutes-congress-midterms/"
         },
         {
-          "title": "Sunday shows preview: Democrats lay out legislative agenda; Congress leadership sparks infighting",
-          "link": "https://thehill.com/homenews/sunday-talk-shows/6206302-congress-leadership-fight-democrats-agenda-midterms/"
+          "title": "Dana White says he will meet with Trump to discuss White House press secretary role",
+          "link": "https://thehill.com/homenews/administration/6206479-dana-white-trump-press-secretary/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-08T07:06:01.079Z"
+      "updatedAt": "2026-11-08T14:56:27.004Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "Physicists listened to electrical noise to crack a superconductor mystery",
+          "link": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/"
+        },
         {
           "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
           "link": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/"
@@ -134,17 +138,17 @@
         {
           "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
           "link": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/"
-        },
-        {
-          "title": "Re-releases of Wing Commander, Ultima titles hit Steam and GOG",
-          "link": "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-08T07:06:01.195Z"
+      "updatedAt": "2026-11-08T14:56:27.273Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "There’s no slowing down media’s pivot-to-video 2.0",
+          "link": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot"
+        },
         {
           "title": "The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance",
           "link": "https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions"
@@ -160,14 +164,10 @@
         {
           "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
           "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review"
-        },
-        {
-          "title": "The US let Nvidia sell chips to an empty office in China",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-08T07:06:01.374Z"
+      "updatedAt": "2026-11-08T14:56:27.379Z"
     },
     "BBC World": {
       "items": [
@@ -196,68 +196,68 @@
           "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "With Stephen Miller pick, Trump readies for a battle",
-          "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss"
+          "title": "Paraguay's former president charged after bank collapse",
+          "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-08T07:06:01.520Z"
+      "updatedAt": "2026-11-08T14:56:27.516Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Briton among six killed in Krakow shooting as three more bodies found at suspect's home",
-          "link": "https://www.bbc.co.uk/news/articles/c6n9r01d2709o?at_medium=RSS&at_campaign=rss"
+          "title": "King leads solemn Remembrance service at Cenotaph",
+          "link": "https://www.bbc.co.uk/news/articles/cqy8l0gyvvv2o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
-          "link": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&at_campaign=rss"
+          "title": "Watch: Royals and veterans reflect at Remembrance ceremony",
+          "link": "https://www.bbc.co.uk/news/videos/cw1l307v4edlo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Veterans shouldn't sleep rough this Christmas, Burnham says",
-          "link": "https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo?at_medium=RSS&at_campaign=rss"
+          "title": "'Time is up': Minister warns media industry to take abuse seriously in wake of Brand case",
+          "link": "https://www.bbc.co.uk/news/articles/ckn9r0zd0ynwo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Royal Family join veterans and families at Festival of Remembrance",
-          "link": "https://www.bbc.co.uk/news/articles/cxvgd2nr3e30o?at_medium=RSS&at_campaign=rss"
+          "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+          "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Two seriously injured after M20 crash involving more than 30 vehicles in Kent",
-          "link": "https://www.bbc.co.uk/news/articles/ck87z9exex2lo?at_medium=RSS&at_campaign=rss"
+          "title": "My parents chose to die together and I was left to grieve alone",
+          "link": "https://www.bbc.co.uk/news/articles/c81dwllzv113o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Andy Burnham wants to get closer to the EU - but he shouldn't expect a smooth ride",
-          "link": "https://www.bbc.co.uk/news/articles/cwjdmm0z74plo?at_medium=RSS&at_campaign=rss"
+          "title": "The Trump coalition is shattered - what will Republicans do now?",
+          "link": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-08T07:06:01.538Z"
+      "updatedAt": "2026-11-08T14:56:27.536Z"
     },
     "NY Times": {
       "items": [
+        {
+          "title": "For Trump and America, a Clear Election Verdict but a Murky Future",
+          "link": "https://www.nytimes.com/2026/11/08/us/politics/trump-midterm-election-america-future.html"
+        },
         {
           "title": "For Stephen Miller, Election Defeat Is No Reason to Back Down on Immigration Crackdown",
           "link": "https://www.nytimes.com/2026/11/07/us/politics/stephen-miller-midterm-elections.html"
         },
         {
-          "title": "Trump’s D.C. Construction Blitz May Be About to Get Tougher",
-          "link": "https://www.nytimes.com/2026/11/06/us/politics/trump-construction-projects-washington.html"
+          "title": "Hakeem Jeffries, in Line to Become House Speaker, Promises Bold Agenda",
+          "link": "https://www.nytimes.com/2026/11/08/us/politics/hakeem-jeffries-house-democrats-speaker.html"
         },
         {
-          "title": "South Carolina Republicans Fracture Over Stunning Defeat of Darline Graham",
-          "link": "https://www.nytimes.com/2026/11/07/us/politics/darline-graham-loss-blame.html"
+          "title": "Republicans Point Fingers, but Trump Does Not Appear to Be Listening",
+          "link": "https://www.nytimes.com/2026/11/08/us/politics/republican-blame-trump-midterms.html"
         },
         {
-          "title": "After the Midterms, the Average Age in the Senate Falls to 63",
-          "link": "https://www.nytimes.com/2026/11/07/upshot/senators-midterm-elections-age.html"
-        },
-        {
-          "title": "Chuck Schumer Is on Track to Become Senate Majority Leader After Election Blowout",
-          "link": "https://www.nytimes.com/2026/11/07/us/politics/schumer-election-democrats-senate.html"
+          "title": "Keisha Lance Bottoms on What Democrats Have to Do to Not Squander the Win",
+          "link": "https://www.nytimes.com/2026/11/08/magazine/keisha-lance-bottoms-interview.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-08T07:06:01.735Z"
+      "updatedAt": "2026-11-08T14:56:27.709Z"
     }
   },
   "indices": {
@@ -284,8 +284,8 @@
       },
       {
         "name": "Bitcoin",
-        "price": 75738.65,
-        "pct": -5.803896733660185
+        "price": 75938.1,
+        "pct": -5.55584091544224
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-11-08T07:06:01.914Z"
+    "updatedAt": "2026-11-08T14:56:27.980Z"
   }
 }
