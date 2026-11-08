@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-08T00:19:54.359Z",
+  "fetchedAt": "2026-11-08T07:06:01.914Z",
   "feeds": {
     "MarketWatch": {
       "items": [
@@ -29,37 +29,37 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-08T00:19:52.299Z"
+      "updatedAt": "2026-11-08T07:05:59.890Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Ex-police officer accused of stabbing NYC jogger to death appears emotionless in new photos",
-          "link": "https://www.foxnews.com/us/ex-police-officer-accused-stabbing-nyc-jogger-death-appears-emotionless-new-photos"
+          "title": "Marcus Freeman, Notre Dame silence doubters by knocking off top-ranked Miami, solidifying their CFP ranking",
+          "link": "https://www.foxnews.com/outkick-sports/marcus-freeman-notre-dame-silence-doubters-knocking-top-ranked-miami-solidifying-cfp-ranking"
         },
         {
-          "title": "College football fans and media rip SEC refs over controversial forward fumble call in Texas-Missouri game",
-          "link": "https://www.foxnews.com/outkick-sports/college-football-fans-media-rip-sec-refs-controversial-forward-fumble-call-texas-missouri-game"
+          "title": "Three teens, adult charged with murder after woman finds her teenage son dead in abandoned home",
+          "link": "https://www.foxnews.com/us/three-teens-adult-charged-murder-after-woman-finds-her-teenage-son-dead-abandoned-home"
         },
         {
-          "title": "Rob Gronkowski's Patriots Hall of Fame celebration takes awkward turn with teammate's story about adult toys",
-          "link": "https://www.foxnews.com/outkick-sports/rob-gronkowski-patriots-hall-fame-celebration-awkward-turn-teammate-story-adult-toys"
+          "title": "Georgia dominates Ole Miss, moves closer to SEC championship game and College Football Playoff berth",
+          "link": "https://www.foxnews.com/outkick-sports/georgia-dominates-ole-miss-moves-closer-sec-championship-game-college-football-playoff-berth"
         },
         {
-          "title": "Brooks Nader turns heads in sheer dress at CFDA Fashion Awards",
-          "link": "https://www.foxnews.com/entertainment/brooks-nader-turns-heads-sheer-dress-cfda-fashion-awards-ahead-baywatch-reboot"
+          "title": "Japanese bowling pioneer Ritsuko Nakayama, first woman to bowl professional perfect game, dies at 84",
+          "link": "https://www.foxnews.com/outkick-sports/japanese-bowling-pioneer-ritsuko-nakayama-first-woman-bowl-professional-perfect-game-dies-84"
         },
         {
-          "title": "Duke's beatdown of NC State included a must-see missed field goal returned for a 109-yard touchdown",
-          "link": "https://www.foxnews.com/outkick-sports/dukes-beatdown-nc-state-included-must-see-missed-field-goal-returned-109-yard-touchdown"
+          "title": "13th-ranked Tennessee dismantles sixth-ranked Kentucky to stay alive in College Football Playoff race",
+          "link": "https://www.foxnews.com/outkick-sports/13th-ranked-tennessee-dismantles-sixth-ranked-kentucky-stay-alive-college-football-playoff-race"
         },
         {
-          "title": "Mötley Crüe singer Vince Neil's longtime girlfriend arrested on domestic assault charges",
-          "link": "https://www.foxnews.com/entertainment/motley-crue-singer-vince-neil-longtime-girlfriend-arrested-domestic-assault-charges"
+          "title": "Matt Rhule says Nebraska was due for 'a change' after coaching staff shakeup following loss to Illinois",
+          "link": "https://www.foxnews.com/outkick-sports/matt-rhule-says-nebraska-due-change-coaching-staff-shakeup-following-loss-illinois"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-08T00:19:52.629Z"
+      "updatedAt": "2026-11-08T07:06:00.211Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -89,10 +89,22 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-08T00:19:52.848Z"
+      "updatedAt": "2026-11-08T07:06:00.422Z"
     },
     "The Hill": {
       "items": [
+        {
+          "title": "Sotomayor says she hopes Supreme Court will overturn presidential immunity decision",
+          "link": "https://thehill.com/regulation/court-battles/6206392-sotomayor-hopes-immunity-overturned/"
+        },
+        {
+          "title": "US military fires at cargo ship in Gulf of Oman",
+          "link": "https://thehill.com/policy/defense/6206359-us-military-disables-oman-vessel/"
+        },
+        {
+          "title": "Wisconsin state trooper released from ICE custody after 'dramatic' arrest",
+          "link": "https://thehill.com/homenews/state-watch/6206341-wisconsin-trooper-ice-arrest/"
+        },
         {
           "title": "Trump says 'a few' cabinet changes are in store after GOP midterm blowout",
           "link": "https://thehill.com/homenews/administration/6206322-trump-cabinet-midterm-changes/"
@@ -100,22 +112,10 @@
         {
           "title": "Sunday shows preview: Democrats lay out legislative agenda; Congress leadership sparks infighting",
           "link": "https://thehill.com/homenews/sunday-talk-shows/6206302-congress-leadership-fight-democrats-agenda-midterms/"
-        },
-        {
-          "title": "After Trump made inroads, Latinos help Democrats deliver blue wave",
-          "link": "https://thehill.com/homenews/campaign/6205200-hispanic-voters-midterm-elections-gop/"
-        },
-        {
-          "title": "Israeli president picks Netanyahu's rival Eisenkot to form new government",
-          "link": "https://thehill.com/policy/international/6206234-herzog-appoints-eisenkot-form-government/"
-        },
-        {
-          "title": "Rep.-elect Ojeda posts tribute to father who died after midterms: 'He held on'",
-          "link": "https://thehill.com/homenews/state-watch/6206210-ojeda-dedicates-victory-father/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-08T00:19:53.480Z"
+      "updatedAt": "2026-11-08T07:06:01.079Z"
     },
     "Ars Technica": {
       "items": [
@@ -141,7 +141,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-08T00:19:53.690Z"
+      "updatedAt": "2026-11-08T07:06:01.195Z"
     },
     "The Verge": {
       "items": [
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-08T00:19:53.802Z"
+      "updatedAt": "2026-11-08T07:06:01.374Z"
     },
     "BBC World": {
       "items": [
@@ -176,20 +176,20 @@
           "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
         },
         {
+          "title": "Houthis say at least 33 killed in Saudi air strike",
+          "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+          "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Israel's president tasks opposition leader Eisenkot with forming government",
           "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "No clear winner after tight New Zealand general election",
-          "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "US offers $20m reward for information about Iran's nuclear programme",
           "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Houthis say at least 25 killed in Saudi air strike",
-          "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
@@ -201,37 +201,37 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-08T00:19:53.935Z"
+      "updatedAt": "2026-11-08T07:06:01.520Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Briton among six killed in 'far-right' shooting in Krakow",
+          "title": "Briton among six killed in Krakow shooting as three more bodies found at suspect's home",
           "link": "https://www.bbc.co.uk/news/articles/c6n9r01d2709o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "What we know so far after Krakow gun attack",
-          "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
+          "title": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
+          "link": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Israel's president tasks opposition leader Eisenkot with forming government",
-          "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss"
+          "title": "Veterans shouldn't sleep rough this Christmas, Burnham says",
+          "link": "https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-          "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss"
+          "title": "Royal Family join veterans and families at Festival of Remembrance",
+          "link": "https://www.bbc.co.uk/news/articles/cxvgd2nr3e30o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Two seriously injured after M20 crash involving more than 30 vehicles in Kent",
+          "link": "https://www.bbc.co.uk/news/articles/ck87z9exex2lo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Andy Burnham wants to get closer to the EU - but he shouldn't expect a smooth ride",
           "link": "https://www.bbc.co.uk/news/articles/cwjdmm0z74plo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Tens of thousands of tents flooded after heavy rains in Gaza",
-          "link": "https://www.bbc.co.uk/news/articles/cx240e5py64jo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-08T00:19:53.949Z"
+      "updatedAt": "2026-11-08T07:06:01.538Z"
     },
     "NY Times": {
       "items": [
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-08T00:19:54.070Z"
+      "updatedAt": "2026-11-08T07:06:01.735Z"
     }
   },
   "indices": {
@@ -280,12 +280,12 @@
       {
         "name": "Gold",
         "price": 4074.9,
-        "pct": 2.6526602176541765
+        "pct": 3.4133590498426556
       },
       {
         "name": "Bitcoin",
-        "price": 75688.84,
-        "pct": -5.865845394003301
+        "price": 75738.65,
+        "pct": -5.803896733660185
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-11-08T00:19:54.358Z"
+    "updatedAt": "2026-11-08T07:06:01.914Z"
   }
 }
