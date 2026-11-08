@@ -1,8 +1,12 @@
 {
-  "fetchedAt": "2026-11-07T20:45:04.488Z",
+  "fetchedAt": "2026-11-08T00:19:54.359Z",
   "feeds": {
     "MarketWatch": {
       "items": [
+        {
+          "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
+          "link": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories"
+        },
         {
           "title": "Second-guessing my adviser: Is an annuity the right move in this market?",
           "link": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories"
@@ -22,44 +26,40 @@
         {
           "title": "I’m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
           "link": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories"
-        },
-        {
-          "title": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what’s making them richer.",
-          "link": "https://www.marketwatch.com/story/the-wealthiest-10-of-americans-are-pulling-ahead-of-everyone-else-this-is-whats-making-them-richer-bd83c2f6?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T20:45:03.229Z"
+      "updatedAt": "2026-11-08T00:19:52.299Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Certain sleep habits could offer clues to hidden type of depression, scientists say",
-          "link": "https://www.foxnews.com/health/certain-sleep-habits-could-offer-clues-hidden-type-depression-scientists-say"
+          "title": "Ex-police officer accused of stabbing NYC jogger to death appears emotionless in new photos",
+          "link": "https://www.foxnews.com/us/ex-police-officer-accused-stabbing-nyc-jogger-death-appears-emotionless-new-photos"
         },
         {
-          "title": "Nicolas Cage walks back 'homeless' claims after $10M Malibu mansion sinkhole disaster",
-          "link": "https://www.foxnews.com/entertainment/nicolas-cage-walks-back-homeless-claims-10m-malibu-mansion-sinkhole-disaster"
+          "title": "College football fans and media rip SEC refs over controversial forward fumble call in Texas-Missouri game",
+          "link": "https://www.foxnews.com/outkick-sports/college-football-fans-media-rip-sec-refs-controversial-forward-fumble-call-texas-missouri-game"
         },
         {
-          "title": "Tiffany Stratton snatches everything from Chelsea Green as she betrays friend at WWE Crown Jewel",
-          "link": "https://www.foxnews.com/outkick-sports/tiffany-stratton-snatches-everything-chelsea-green-betrays-friend-wwe-crown-jewel"
+          "title": "Rob Gronkowski's Patriots Hall of Fame celebration takes awkward turn with teammate's story about adult toys",
+          "link": "https://www.foxnews.com/outkick-sports/rob-gronkowski-patriots-hall-fame-celebration-awkward-turn-teammate-story-adult-toys"
         },
         {
-          "title": "Lane Kiffin hits Death Valley with Shaq, Paul Skenes, Angel Reese and, naturally, Kevin Costner",
-          "link": "https://www.foxnews.com/outkick-sports/lane-kiffin-hits-death-valley-shaq-paul-skenes-angel-reese-kevin-costner"
+          "title": "Brooks Nader turns heads in sheer dress at CFDA Fashion Awards",
+          "link": "https://www.foxnews.com/entertainment/brooks-nader-turns-heads-sheer-dress-cfda-fashion-awards-ahead-baywatch-reboot"
         },
         {
-          "title": "Pro-trans activists hold rally against Washington state ballot initiative to protect girls sports",
-          "link": "https://www.foxnews.com/outkick-sports/pro-trans-activists-rally-against-washington-state-ballot-initiative-protect-girls-sports"
+          "title": "Duke's beatdown of NC State included a must-see missed field goal returned for a 109-yard touchdown",
+          "link": "https://www.foxnews.com/outkick-sports/dukes-beatdown-nc-state-included-must-see-missed-field-goal-returned-109-yard-touchdown"
         },
         {
-          "title": "Oba Femi becomes ultimate equalizer to help Penta and Je'Von Evans win tag titles at WWE Crown Jewel",
-          "link": "https://www.foxnews.com/outkick-sports/oba-femi-ultimate-equalizer-penta-jevon-evans-win-tag-titles-wwe-crown-jewel"
+          "title": "Mötley Crüe singer Vince Neil's longtime girlfriend arrested on domestic assault charges",
+          "link": "https://www.foxnews.com/entertainment/motley-crue-singer-vince-neil-longtime-girlfriend-arrested-domestic-assault-charges"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T20:45:03.301Z"
+      "updatedAt": "2026-11-08T00:19:52.629Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -89,33 +89,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T20:45:03.544Z"
+      "updatedAt": "2026-11-08T00:19:52.848Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Live updates: Melania Trump attends LSU-Alabama game; UFC's Dana White offered press secretary role",
-          "link": "https://thehill.com/homenews/administration/6205796-live-melania-trump-football-mar-a-lago/"
+          "title": "Trump says 'a few' cabinet changes are in store after GOP midterm blowout",
+          "link": "https://thehill.com/homenews/administration/6206322-trump-cabinet-midterm-changes/"
         },
         {
-          "title": "Republican Kris Kobach loses AG reelection bid in Kansas",
-          "link": "https://thehill.com/homenews/campaign/6206185-kris-kobach-loses-kansas-election/"
+          "title": "Sunday shows preview: Democrats lay out legislative agenda; Congress leadership sparks infighting",
+          "link": "https://thehill.com/homenews/sunday-talk-shows/6206302-congress-leadership-fight-democrats-agenda-midterms/"
         },
         {
-          "title": "Trump asks DOJ to investigate Democrats calling for impeachment of cabinet officials",
-          "link": "https://thehill.com/homenews/administration/6206168-trump-democrats-impeachment-threats-extortion-doj/"
+          "title": "After Trump made inroads, Latinos help Democrats deliver blue wave",
+          "link": "https://thehill.com/homenews/campaign/6205200-hispanic-voters-midterm-elections-gop/"
         },
         {
-          "title": "Rebuilding US foreign policy after Trump",
-          "link": "https://thehill.com/opinion/international/6204917-congressional-pushback-iran-war/"
+          "title": "Israeli president picks Netanyahu's rival Eisenkot to form new government",
+          "link": "https://thehill.com/policy/international/6206234-herzog-appoints-eisenkot-form-government/"
         },
         {
-          "title": "Why do Americans keep killing each other?",
-          "link": "https://thehill.com/opinion/criminal-justice/6204681-why-us-violence-escalates/"
+          "title": "Rep.-elect Ojeda posts tribute to father who died after midterms: 'He held on'",
+          "link": "https://thehill.com/homenews/state-watch/6206210-ojeda-dedicates-victory-father/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T20:45:03.978Z"
+      "updatedAt": "2026-11-08T00:19:53.480Z"
     },
     "Ars Technica": {
       "items": [
@@ -141,7 +141,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T20:45:04.080Z"
+      "updatedAt": "2026-11-08T00:19:53.690Z"
     },
     "The Verge": {
       "items": [
@@ -167,13 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T20:45:04.153Z"
+      "updatedAt": "2026-11-08T00:19:53.802Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "What we know so far after Polish gunman opens fire in Krakow main square",
+          "title": "What we know so far after Krakow gun attack",
           "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+          "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "No clear winner after tight New Zealand general election",
@@ -194,20 +198,24 @@
         {
           "title": "With Stephen Miller pick, Trump readies for a battle",
           "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Paraguay's former president charged after bank collapse",
-          "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T20:45:04.279Z"
+      "updatedAt": "2026-11-08T00:19:53.935Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "What we know so far after Polish gunman opens fire in Krakow main square",
+          "title": "Briton among six killed in 'far-right' shooting in Krakow",
+          "link": "https://www.bbc.co.uk/news/articles/c6n9r01d2709o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "What we know so far after Krakow gun attack",
           "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+          "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
@@ -220,18 +228,10 @@
         {
           "title": "Tens of thousands of tents flooded after heavy rains in Gaza",
           "link": "https://www.bbc.co.uk/news/articles/cx240e5py64jo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
-          "link": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "What happens if all the lights go out? This is the plan for a 'Black Sky' event",
-          "link": "https://www.bbc.co.uk/news/articles/ck5ynnj05z8no?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T20:45:04.287Z"
+      "updatedAt": "2026-11-08T00:19:53.949Z"
     },
     "NY Times": {
       "items": [
@@ -240,24 +240,24 @@
           "link": "https://www.nytimes.com/2026/11/07/us/politics/stephen-miller-midterm-elections.html"
         },
         {
-          "title": "Trump Asks Dana White of U.F.C. to Be His Press Secretary",
-          "link": "https://www.nytimes.com/2026/11/07/us/politics/trump-dana-white-ufc-press-secretary.html"
-        },
-        {
           "title": "Trump’s D.C. Construction Blitz May Be About to Get Tougher",
           "link": "https://www.nytimes.com/2026/11/06/us/politics/trump-construction-projects-washington.html"
         },
         {
-          "title": "Chuck Schumer Is on Track to Become Senate Majority Leader After Election Blowout",
-          "link": "https://www.nytimes.com/2026/11/07/us/politics/schumer-election-democrats-senate.html"
+          "title": "South Carolina Republicans Fracture Over Stunning Defeat of Darline Graham",
+          "link": "https://www.nytimes.com/2026/11/07/us/politics/darline-graham-loss-blame.html"
         },
         {
-          "title": "Turning Point Bet on the Midterms and Lost. Some Republicans Are Furious.",
-          "link": "https://www.nytimes.com/2026/11/07/us/turning-point-arizona-midterms.html"
+          "title": "After the Midterms, the Average Age in the Senate Falls to 63",
+          "link": "https://www.nytimes.com/2026/11/07/upshot/senators-midterm-elections-age.html"
+        },
+        {
+          "title": "Chuck Schumer Is on Track to Become Senate Majority Leader After Election Blowout",
+          "link": "https://www.nytimes.com/2026/11/07/us/politics/schumer-election-democrats-senate.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T20:45:04.359Z"
+      "updatedAt": "2026-11-08T00:19:54.070Z"
     }
   },
   "indices": {
@@ -284,8 +284,8 @@
       },
       {
         "name": "Bitcoin",
-        "price": 75611.49,
-        "pct": -2.2413328325471347
+        "price": 75688.84,
+        "pct": -5.865845394003301
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-11-07T20:45:04.488Z"
+    "updatedAt": "2026-11-08T00:19:54.358Z"
   }
 }
