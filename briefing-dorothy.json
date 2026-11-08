@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-11-07T23:12:53.234Z",
+  "fetchedAt": "2026-11-08T03:06:01.149Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Brooks Nader turns heads in sheer dress at CFDA Fashion Awards",
-          "link": "https://www.foxnews.com/entertainment/brooks-nader-turns-heads-sheer-dress-cfda-fashion-awards-ahead-baywatch-reboot"
+          "title": "Boston College scores on bizarre 'Ring-Around-The-Rosie' homage to 'The Longest Yard'",
+          "link": "https://www.foxnews.com/outkick-sports/boston-college-scores-bizarre-ring-around-rosie-homage-longest-yard"
         },
         {
-          "title": "Duke's beatdown of NC State included a must-see missed field goal returned for a 109-yard touchdown",
-          "link": "https://www.foxnews.com/outkick-sports/dukes-beatdown-nc-state-included-must-see-missed-field-goal-returned-109-yard-touchdown"
+          "title": "Two experienced skydivers die after midair collision entangles their parachutes",
+          "link": "https://www.foxnews.com/us/two-experienced-skydivers-die-midair-collision-entangles-parachutes"
         },
         {
-          "title": "Mötley Crüe singer Vince Neil's longtime girlfriend arrested on domestic assault charges",
-          "link": "https://www.foxnews.com/entertainment/motley-crue-singer-vince-neil-longtime-girlfriend-arrested-domestic-assault-charges"
+          "title": "Reggie Jackson calls out antisemitism in native Pennsylvania, likens it to 'racism I experienced in the 1960s'",
+          "link": "https://www.foxnews.com/outkick-sports/reggie-jackson-calls-out-antisemitism-native-pennsylvania-likens-racism-experienced-1960s"
         },
         {
-          "title": "Simple bedtime change may help some individuals lose weight, study finds",
-          "link": "https://www.foxnews.com/health/simple-bedtime-change-help-individuals-lose-weight-study-finds"
+          "title": "Florida State interim coach Rick Stockstill leads Seminoles to win in debut, ends road losing streak",
+          "link": "https://www.foxnews.com/outkick-sports/florida-state-interim-coach-rick-stockstill-leads-seminoles-win-debut-ends-road-losing-streak"
         },
         {
-          "title": "Suspect who reportedly claimed to be LeBron James' son arrested for stalking at star's LA home, LAPD says",
-          "link": "https://www.foxnews.com/outkick-sports/suspect-claimed-lebron-james-son-arrested-stalking-star-la-home-lapd"
+          "title": "Alabama finally puts it all together, dominates LSU and leaves Lane Kiffin staring at $40 million CFP disaster",
+          "link": "https://www.foxnews.com/outkick-sports/alabama-puts-together-dominates-lsu-leaves-lane-kiffin-staring-40-million-cfp-disaster"
         },
         {
-          "title": "Israeli president taps Netanyahu rival to form government as coalition battle looms",
-          "link": "https://www.foxnews.com/world/israeli-president-picks-netanyahu-rival-form-government-coalition-battle-looms"
+          "title": "Tim McGraw warns of ‘most dangerous’ times in marriage after 30 years with Faith Hill",
+          "link": "https://www.foxnews.com/entertainment/tim-mcgraw-warns-most-dangerous-times-marriage-after-30-years-faith-hill"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T23:12:51.043Z"
+      "updatedAt": "2026-11-08T03:05:58.934Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,33 +59,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T23:12:51.290Z"
+      "updatedAt": "2026-11-08T03:05:59.085Z"
     },
     "The Hill": {
       "items": [
         {
+          "title": "US military fires at cargo ship in Gulf of Oman",
+          "link": "https://thehill.com/policy/defense/6206359-us-military-disables-oman-vessel/"
+        },
+        {
+          "title": "Wisconsin state trooper released from ICE custody after 'dramatic' arrest",
+          "link": "https://thehill.com/homenews/state-watch/6206341-wisconsin-trooper-ice-arrest/"
+        },
+        {
+          "title": "Trump says 'a few' cabinet changes are in store after GOP midterm blowout",
+          "link": "https://thehill.com/homenews/administration/6206322-trump-cabinet-midterm-changes/"
+        },
+        {
+          "title": "Sunday shows preview: Democrats lay out legislative agenda; Congress leadership sparks infighting",
+          "link": "https://thehill.com/homenews/sunday-talk-shows/6206302-congress-leadership-fight-democrats-agenda-midterms/"
+        },
+        {
           "title": "After Trump made inroads, Latinos help Democrats deliver blue wave",
           "link": "https://thehill.com/homenews/campaign/6205200-hispanic-voters-midterm-elections-gop/"
-        },
-        {
-          "title": "Israeli president picks Netanyahu's rival Eisenkot to form new government",
-          "link": "https://thehill.com/policy/international/6206234-herzog-appoints-eisenkot-form-government/"
-        },
-        {
-          "title": "Rep.-elect Ojeda posts tribute to father who died after midterms: 'He held on'",
-          "link": "https://thehill.com/homenews/state-watch/6206210-ojeda-dedicates-victory-father/"
-        },
-        {
-          "title": "Live updates: Melania Trump attends LSU-Alabama game; UFC's Dana White offered press secretary role",
-          "link": "https://thehill.com/homenews/administration/6205796-live-melania-trump-football-mar-a-lago/"
-        },
-        {
-          "title": "Republican Kris Kobach loses AG reelection bid in Kansas",
-          "link": "https://thehill.com/homenews/campaign/6206185-kris-kobach-loses-kansas-election/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T23:12:51.866Z"
+      "updatedAt": "2026-11-08T03:05:59.879Z"
     },
     "Ars Technica": {
       "items": [
@@ -111,7 +111,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T23:12:51.953Z"
+      "updatedAt": "2026-11-08T03:05:59.918Z"
     },
     "The Verge": {
       "items": [
@@ -137,7 +137,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T23:12:52.021Z"
+      "updatedAt": "2026-11-08T03:06:00.117Z"
     },
     "BBC World": {
       "items": [
@@ -171,37 +171,37 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T23:12:52.054Z"
+      "updatedAt": "2026-11-08T03:06:00.460Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "What we know so far after Krakow gun attack",
-          "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
+          "title": "Briton among six killed in 'far-right' shooting in Krakow",
+          "link": "https://www.bbc.co.uk/news/articles/c6n9r01d2709o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Israel's president tasks opposition leader Eisenkot with forming government",
           "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-          "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss"
+          "title": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
+          "link": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Andy Burnham wants to get closer to the EU - but he shouldn't expect a smooth ride",
           "link": "https://www.bbc.co.uk/news/articles/cwjdmm0z74plo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Tens of thousands of tents flooded after heavy rains in Gaza",
-          "link": "https://www.bbc.co.uk/news/articles/cx240e5py64jo?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
           "link": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Royal Family join veterans and families at Festival of Remembrance",
+          "link": "https://www.bbc.co.uk/news/articles/cxvgd2nr3e30o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T23:12:52.069Z"
+      "updatedAt": "2026-11-08T03:06:00.484Z"
     },
     "NY Times": {
       "items": [
@@ -214,20 +214,20 @@
           "link": "https://www.nytimes.com/2026/11/06/us/politics/trump-construction-projects-washington.html"
         },
         {
-          "title": "Chuck Schumer Is on Track to Become Senate Majority Leader After Election Blowout",
-          "link": "https://www.nytimes.com/2026/11/07/us/politics/schumer-election-democrats-senate.html"
+          "title": "South Carolina Republicans Fracture Over Stunning Defeat of Darline Graham",
+          "link": "https://www.nytimes.com/2026/11/07/us/politics/darline-graham-loss-blame.html"
         },
         {
           "title": "After the Midterms, the Average Age in the Senate Falls to 63",
           "link": "https://www.nytimes.com/2026/11/07/upshot/senators-midterm-elections-age.html"
         },
         {
-          "title": "Turning Point Bet on the Midterms and Lost. Some Republicans Are Furious.",
-          "link": "https://www.nytimes.com/2026/11/07/us/turning-point-arizona-midterms.html"
+          "title": "Chuck Schumer Is on Track to Become Senate Majority Leader After Election Blowout",
+          "link": "https://www.nytimes.com/2026/11/07/us/politics/schumer-election-democrats-senate.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T23:12:52.139Z"
+      "updatedAt": "2026-11-08T03:06:00.590Z"
     },
     "ARTNews": {
       "items": [
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T23:12:52.484Z"
+      "updatedAt": "2026-11-08T03:06:00.634Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T23:12:52.569Z"
+      "updatedAt": "2026-11-08T03:06:00.793Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T23:12:53.151Z"
+      "updatedAt": "2026-11-08T03:06:01.048Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T23:12:53.234Z"
+      "updatedAt": "2026-11-08T03:06:01.149Z"
     }
   }
 }
