@@ -1,124 +1,128 @@
 {
-  "fetchedAt": "2026-11-09T05:48:26.364Z",
+  "fetchedAt": "2026-11-09T15:52:24.337Z",
   "feeds": {
     "MarketWatch": {
       "items": [
+        {
+          "title": "How SpaceX was able to avert one of the market’s biggest fears about its stock",
+          "link": "https://www.marketwatch.com/story/how-spacex-was-able-to-avert-one-of-the-markets-biggest-fears-about-its-stock-93870736?mod=mw_rss_topstories"
+        },
+        {
+          "title": "A failed trial for a heart drug casts shadow over rivals developing similar therapies",
+          "link": "https://www.marketwatch.com/story/a-failed-trial-for-a-heart-drug-casts-shadow-over-rivals-developing-similar-therapies-2d9bd79f?mod=mw_rss_topstories"
+        },
         {
           "title": "‘My life could be cut short’: I’m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
           "link": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories"
         },
         {
-          "title": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
-          "link": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories"
+          "title": "As Nvidia’s stock falls, here’s what Wall Street has to say about the Jensen Huang scandal",
+          "link": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories"
         },
         {
-          "title": "I’m second-guessing my adviser: Is an annuity the right move in this market?",
-          "link": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories"
+          "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
+          "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories"
         },
         {
-          "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
-          "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out",
-          "link": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories"
-        },
-        {
-          "title": "How much in Roth conversions can you do in 2027 with the new tax brackets?",
-          "link": "https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories"
+          "title": "As AI trade falters, Goldman Sachs says this lagging region is now positioned to outperform",
+          "link": "https://www.marketwatch.com/story/as-ai-trade-falters-goldman-sachs-says-this-lagging-region-is-now-positioned-to-outperform-589805c6?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-09T05:48:25.187Z"
+      "updatedAt": "2026-11-09T15:52:22.678Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Bears survive Buccaneers in chaotic primetime finish after Caleb Williams throws four interceptions",
-          "link": "https://www.foxnews.com/outkick-sports/bears-survive-buccaneers-chaotic-primetime-finish-caleb-williams-throws-four-interceptions"
+          "title": "MICHAEL RUIZ: Tyler Robinson judge to give long-awaited trial date ruling in assassination of Charlie Kirk",
+          "link": "https://www.foxnews.com/us/michael-ruiz-tyler-robinson-judge-give-long-awaited-trial-date-ruling-assassination-charlie-kirk"
         },
         {
-          "title": "Jonathan Taylor delivers what sounds like a goodbye to Indianapolis after Colts' fifth straight loss",
-          "link": "https://www.foxnews.com/outkick-sports/jonathan-taylor-delivers-goodbye-indianapolis-colts-fifth-straight-loss"
+          "title": "Bears' Caleb Williams unbothered despite four interceptions in narrow win: 'I’ll never not throw the ball'",
+          "link": "https://www.foxnews.com/outkick-sports/bears-caleb-williams-unbothered-despite-four-interceptions-narrow-win-ill-never-not-throw-ball"
         },
         {
-          "title": "Bernie Sanders warns Democrats not to spend all their time investigating Trump",
-          "link": "https://www.foxnews.com/politics/bernie-sanders-warns-democrats-not-spend-all-time-investigating-trump"
+          "title": "From abandoned cars on dark roads to unexplained knocks, Reddit's scariest stories deliver",
+          "link": "https://www.foxnews.com/outkick-culture/abandoned-cars-dark-roads-unexplained-knocks-reddits-scariest-stories-deliver"
         },
         {
-          "title": "Two Washington deputies killed trying to rescue possible hostages after woman shot",
-          "link": "https://www.foxnews.com/us/two-washington-deputies-killed-trying-rescue-possible-hostages-after-woman-shot"
+          "title": "NYC ICE chief fires back at far-left politicians seeking to abolish agency: 'Change the law'",
+          "link": "https://www.foxnews.com/politics/nyc-ice-chief-fires-back-far-left-politicians-seeking-abolish-agency-change-law"
         },
         {
-          "title": "Giants star wideout blasts analyst for questioning sideline behavior during win against Eagles",
-          "link": "https://www.foxnews.com/outkick-sports/giants-star-wideout-blasts-analyst-questioning-sideline-behavior-win-against-eagles"
+          "title": "Michigan hired Kyle Whittingham to fix its mess. Instead, he’s created an even bigger one with Wolverines",
+          "link": "https://www.foxnews.com/outkick-sports/michigan-hired-kyle-whittingham-fix-mess-instead-created-bigger-one-wolverines"
         },
         {
-          "title": "Trump says he doesn’t disagree with Vance that Iran war fueled GOP losses",
-          "link": "https://www.foxnews.com/media/trump-says-he-doesnt-disagree-vance-iran-war-fueled-gop-losses"
+          "title": "Blades Brown makes a historic arrival, Bryson DeChambeau tosses up a word salad, and Jon Rahm's statement win",
+          "link": "https://www.foxnews.com/outkick-sports/blades-brown-makes-historic-arrival-bryson-dechambeau-tosses-word-salad-jon-rahm-statement-win"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-09T05:48:25.278Z"
+      "updatedAt": "2026-11-09T15:52:22.832Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "Democrats Won - Now They Must Clean House",
-          "link": "https://www.realclearpolitics.com/2026/11/08/democrats_won_mdash_now_they_must_clean_house_717033.html"
+          "title": "Trump: Deportation Policy Might Have Been 'Too Tough'",
+          "link": "https://www.realclearpolitics.com/2026/11/09/trump_deportation_policy_might_have_been_too_tough_717035.html"
+        },
+        {
+          "title": "How America Can Reclaim Our 'Better Angels' After Trump",
+          "link": "https://www.realclearpolitics.com/2026/11/09/how_america_can_reclaim_our_better_angels_after_trump_717098.html"
+        },
+        {
+          "title": "Voters Rejected Trump, They Didn't Reject Conservatism",
+          "link": "https://www.realclearpolitics.com/2026/11/09/voters_rejected_trump_they_didnt_reject_conservatism_717059.html"
+        },
+        {
+          "title": "In the Deep South, the Red Wall & History Collapses",
+          "link": "https://www.realclearpolitics.com/2026/11/09/in_the_deep_south_the_red_wall_amp_history_collapses_717093.html"
+        },
+        {
+          "title": "Dems Won the Turnout Battle, Not a Lasting Mandate",
+          "link": "https://www.realclearpolitics.com/2026/11/09/dems_won_the_turnout_battle_not_a_lasting_mandate_717062.html"
         },
         {
           "title": "Don't Fear Rise of the DSA. There Aren't Enough of Them - Yet",
           "link": "https://www.realclearpolitics.com/2026/11/08/dont_fear_rise_of_the_dsa_there_arent_enough_of_them_-_yet_716938.html"
-        },
-        {
-          "title": "'Reverse-Ginsburg' Scenario Could Flip SCOTUS Without Packing",
-          "link": "https://www.realclearpolitics.com/2026/11/08/reverse-ginsburg_scenario_could_flip_scotus_without_packing_717034.html"
-        },
-        {
-          "title": "Did the Midterms Kill MAGA?",
-          "link": "https://www.realclearpolitics.com/2026/11/08/did_the_midterms_kill_maga_717032.html"
-        },
-        {
-          "title": "Vance Sold Trump Out After Loss, Trump Should Fire Him",
-          "link": "https://www.realclearpolitics.com/2026/11/08/vance_sold_trump_out_after_loss_trump_should_fire_him_716915.html"
-        },
-        {
-          "title": "What's Worse: A Concert of Great Powers or War?",
-          "link": "https://www.realclearworld.com/articles/2026/11/07/whats_worse_a_global_concert_of_great_powers_or_war_1215656.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-09T05:48:25.411Z"
+      "updatedAt": "2026-11-09T15:52:23.155Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Kirk finds Dave Chappelle's joke about husband's murder 'beyond disgusting'",
-          "link": "https://thehill.com/media/6207297-erika-kirk-dave-chappelle-joke-charlie-kirk-beyond-disgusting/"
+          "title": "Nvidia stock slides after company launches probe into Huang",
+          "link": "https://thehill.com/policy/technology/6207787-jensen-huang-affair-nvidia-stock-falls/"
         },
         {
-          "title": "Trump says ‘hatred’ between Zelensky, Putin is main obstacle to ending war",
-          "link": "https://thehill.com/homenews/6207193-trump-blames-zelensky-putin-hatred/"
+          "title": "White House staff treated Trump like 'baby:' Calley Means",
+          "link": "https://thehill.com/homenews/administration/6207568-calley-means-trump-baby/"
         },
         {
-          "title": "Trump says he was 'kidding' about Dana White for press secretary",
-          "link": "https://thehill.com/homenews/6207197-trump-dana-white-press-secretary-joke/"
+          "title": "Watch live: Hegseth addresses Naval War College as impeachment push looms",
+          "link": "https://thehill.com/video-clips/6207783-watch-live-pete-hegseth-impeachment-push-naval-war-college-remarks/"
         },
         {
-          "title": "Trump says his immigration crackdown ‘might be too tough’ after midterm losses",
-          "link": "https://thehill.com/homenews/6207170-trump-immigration-policy-midterm-losses/"
+          "title": "Alabama ended judicial override. Will it spare the prisoners left behind?",
+          "link": "https://thehill.com/opinion/criminal-justice/6205251-alabama-judicial-override-not-retroactive/"
         },
         {
-          "title": "Rep.-elect says Democratic majority is an 'opportunity' for Trump",
-          "link": "https://thehill.com/homenews/house/6207130-ojeda-urges-trump-cooperation/"
+          "title": "Watch live: Vance headlines small business event amid GOP post-election turmoil",
+          "link": "https://thehill.com/video-clips/6207697-watch-live-jd-vance-sba-remarks-gop-midterm-losses/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-09T05:48:25.821Z"
+      "updatedAt": "2026-11-09T15:52:23.647Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "New Democratic Congress will likely strip the gilding from Trump's Golden Dome",
+          "link": "https://arstechnica.com/space/2026/11/new-democratic-congress-will-likely-strip-the-gilding-from-trumps-golden-dome/"
+        },
         {
           "title": "Physicists listened to electrical noise to crack a superconductor mystery",
           "link": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/"
@@ -134,166 +138,162 @@
         {
           "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
           "link": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/"
-        },
-        {
-          "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
-          "link": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-09T05:48:25.912Z"
+      "updatedAt": "2026-11-09T15:52:23.790Z"
     },
     "The Verge": {
       "items": [
         {
-          "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia"
+          "title": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai"
         },
         {
-          "title": "Soul Glo’s Diaspora Problems is a hardcore record like no other",
-          "link": "https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review"
+          "title": "Disney and Adobe are building generative AI tools together",
+          "link": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership"
         },
         {
-          "title": "Epic Games Launcher is coming to SteamOS",
-          "link": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos"
+          "title": "Hold up — I had a great time talking to the RIAA guy",
+          "link": "https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music"
         },
         {
-          "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy"
+          "title": "Medium is launching a new note-taking app called TK",
+          "link": "https://www.theverge.com/tech/1029676/medium-tk-notes-app"
         },
         {
-          "title": "Apple is racing to make Siri more agentic",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic"
+          "title": "How to shop like a pro during Black Friday and Cyber Monday",
+          "link": "https://www.theverge.com/21587765/black-friday-cyber-monday-best-deals-how-to-find"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-09T05:48:25.984Z"
+      "updatedAt": "2026-11-09T15:52:23.946Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-          "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss"
+          "title": "Krakow shooting suspect has died in hospital, police say",
+          "link": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Seven dead and more than 100 injured after trains collide in Egypt",
-          "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss"
+          "title": "Inside the French drug gangs recruiting children to kill",
+          "link": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Homes and temples glow across India to mark Diwali",
-          "link": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss"
+          "title": "Trump says he was 'kidding' about Dana White press secretary offer",
+          "link": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
           "link": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
-          "link": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss"
+          "title": "Nine foreigners caught allegedly trying to leave South Africa to fight in Ukraine",
+          "link": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
-          "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss"
+          "title": "At least 39 die after Europe-bound migrant boat sinks off Senegal",
+          "link": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Iran executes three men for 'armed unrest' after January protests",
-          "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss"
+          "title": "Thirteen migrants die after boat sinks off Crete",
+          "link": "https://www.bbc.co.uk/news/articles/c65ynyxrjdyeo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-09T05:48:26.046Z"
+      "updatedAt": "2026-11-09T15:52:24.099Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Woman says Al Fayed's brother drugged and sexually abused her at Highland estate",
-          "link": "https://www.bbc.co.uk/news/articles/cm2d6kk0wzw4o?at_medium=RSS&at_campaign=rss"
+          "title": "Watch: Moment judge sentences Brand in court",
+          "link": "https://www.bbc.co.uk/news/videos/c6vg7gnjjlj8o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Dense fog threatens Monday morning rush-hour disruption",
-          "link": "https://www.bbc.co.uk/weather/articles/cj75p29nz6e6o?at_medium=RSS&at_campaign=rss"
+          "title": "Civil servant who juggled five jobs found guilty of fraud",
+          "link": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
-          "link": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss"
+          "title": "Krakow shooting suspect has died in hospital, police say",
+          "link": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Government's EV targets expected to be reduced this week",
-          "link": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Maya Jama steps down as host of reality TV show Love Island",
-          "link": "https://www.bbc.co.uk/news/articles/cwzrd5jj47ndo?at_medium=RSS&at_campaign=rss"
+          "title": "Inside the French drug gangs recruiting children to kill",
+          "link": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
           "link": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Ground Force and Homes Under the Hammer star Tommy Walsh dies aged 69",
+          "link": "https://www.bbc.co.uk/news/articles/ck0e0elq4ndpo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-09T05:48:26.058Z"
+      "updatedAt": "2026-11-09T15:52:24.137Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Chinese Spy",
-          "link": "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html"
+          "title": "Is Jensen Huang Too Powerful to Be Punished by Nvidia?",
+          "link": "https://www.nytimes.com/2026/11/09/technology/jensen-huang-affair-nvidia.html"
         },
         {
-          "title": "Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy",
-          "link": "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html"
+          "title": "Nvidia’s Stock Price Drops After Investigation Into CEO Jensen Huang",
+          "link": "https://www.nytimes.com/2026/11/09/business/nvidia-stock-price-jensen-huang-ceo.html"
         },
         {
-          "title": "Jeffries Backs Impeaching Hegseth as Democrats Push for Accountability",
-          "link": "https://www.nytimes.com/2026/11/08/us/politics/pete-hegseth-impeachment-hakeem-jeffries.html"
+          "title": "China Rejects Espionage Claims Involving Nvidia C.E.O. Jensen Huang",
+          "link": "https://www.nytimes.com/2026/11/09/business/jensen-huang-china-spying.html"
         },
         {
-          "title": "Here Are the Difficult Options Trump Is Weighing to Resolve the War in Iran",
-          "link": "https://www.nytimes.com/2026/11/08/us/politics/trump-iran-options.html"
+          "title": "Nvidia C.E.O. Admits Relationship With Suspected Chinese Spy, and Stephen Miller Takes the Reins",
+          "link": "https://www.nytimes.com/2026/11/09/podcasts/the-headlines/nvidia-ceo-suspected-chinese-spy-stephen-miller-trump-chief-of-staff.html"
         },
         {
-          "title": "Trump Was ‘Only Kidding’ in Asking Dana White to Be His Press Secretary",
-          "link": "https://www.nytimes.com/2026/11/08/us/politics/trump-joke-dana-white-press-secretary.html"
+          "title": "Immigrants Are Being Systematically Returned Home Despite Court Orders",
+          "link": "https://www.nytimes.com/2026/11/09/world/africa/trump-deportations-court-orders-refoulement.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-09T05:48:26.098Z"
+      "updatedAt": "2026-11-09T15:52:24.198Z"
     }
   },
   "indices": {
     "data": [
       {
         "name": "S&P 500",
-        "price": 7376.86,
-        "pct": -2.680845955248435
+        "price": 7532.91,
+        "pct": -0.11257856631394411
       },
       {
         "name": "Dow Jones",
-        "price": 51285.73,
-        "pct": -0.9360191198391404
+        "price": 52178.96,
+        "pct": 0.3750770910576603
       },
       {
         "name": "Nasdaq",
-        "price": 24579.424,
-        "pct": -3.3713724102685103
+        "price": 25231.348,
+        "pct": 0.266401105375035
       },
       {
         "name": "Gold",
-        "price": 4130.3,
-        "pct": 1.4068254357967145
+        "price": 4127.9,
+        "pct": 1.347900810213593
       },
       {
         "name": "Bitcoin",
-        "price": 74419.41,
-        "pct": -2.005099277904057
+        "price": 75420.02,
+        "pct": -0.6875038063525295
       },
       {
         "name": "SpaceX",
-        "price": 134.27,
-        "pct": -0.33402612826602485
+        "price": 142.43,
+        "pct": 4.4437926230109275
       }
     ],
     "ok": true,
-    "updatedAt": "2026-11-09T05:48:26.364Z"
+    "updatedAt": "2026-11-09T15:52:24.337Z"
   }
 }
