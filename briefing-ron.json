@@ -1,8 +1,16 @@
 {
-  "fetchedAt": "2026-11-10T00:04:26.440Z",
+  "fetchedAt": "2026-11-10T08:10:47.335Z",
   "feeds": {
     "MarketWatch": {
       "items": [
+        {
+          "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
+          "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories"
+        },
+        {
+          "title": "The short seller who saw signs of Nvidia’s China scandal months ago claims Megaspeed isn’t the only company helping China access chips",
+          "link": "https://www.marketwatch.com/story/the-short-seller-who-saw-signs-of-nvidias-china-scandal-months-ago-claims-megaspeed-isnt-the-ony-company-helping-china-access-chips-9877f544?mod=mw_rss_topstories"
+        },
         {
           "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
           "link": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories"
@@ -18,104 +26,96 @@
         {
           "title": "As Nvidia’s stock falls, here’s what Wall Street has to say about the Jensen Huang scandal",
           "link": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Dow sees its third 1,000-point swing in four days. Why the volatility isn’t over yet.",
-          "link": "https://www.marketwatch.com/story/dow-sees-its-third-1-000-point-swing-in-four-days-why-volatility-isnt-over-yet-5380567b?mod=mw_rss_topstories"
-        },
-        {
-          "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
-          "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-10T00:04:24.845Z"
+      "updatedAt": "2026-11-10T08:10:45.560Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Man killed in fiery Kentucky jet crash told daughter of trouble in midair",
-          "link": "https://www.foxnews.com/travel/man-killed-fiery-kentucky-jet-crash-told-daughter-trouble-midair"
+          "title": "Trump says deportation push hasn’t put 'same pressure' on farm workers, hotel staff: 'Not even close'",
+          "link": "https://www.foxnews.com/politics/trump-says-deportation-push-hasnt-put-same-pressure-farm-workers-hotel-staff-not-even-close"
         },
         {
-          "title": "Trump renews call for Pete Rose pardon, saying MLB's all-time hits leader was 'mistreated'",
-          "link": "https://www.foxnews.com/outkick-sports/trump-renews-call-pete-rose-pardon-saying-mlbs-all-time-hits-leader-mistreated"
+          "title": "Red counties with data center projects swung away from GOP in midterms, analysis finds",
+          "link": "https://www.foxnews.com/politics/red-counties-data-center-projects-swung-away-gop-midterms-analysis-finds"
         },
         {
-          "title": "Jaguars are all in on winning the Super Bowl after completing three trades in one day to make a title push",
-          "link": "https://www.foxnews.com/outkick-sports/jaguars-all-winning-super-bowl-completing-three-trades-one-day-title-push"
+          "title": "Troy Aikman pokes fun at ESPN contract standoff during Bills-Vikings Monday Night Football broadcast",
+          "link": "https://www.foxnews.com/outkick-sports/troy-aikman-pokes-fun-espn-contract-standoff-bills-vikings-monday-night-football-broadcast"
         },
         {
-          "title": "Shedeur Sanders has become the Angel Reese of the NFL, thanks to his insufferable supporters",
-          "link": "https://www.foxnews.com/outkick-sports/shedeur-sanders-angel-reese-nfl-insufferable-supporters"
+          "title": "U.S. Air Force mom surprises family on turf at Vikings-Bills game following 473-day overseas deployment",
+          "link": "https://www.foxnews.com/outkick-sports/us-air-force-mom-surprises-family-turf-vikings-bills-game-following-473-day-overseas-deployment"
         },
         {
-          "title": "NYU professor, podcaster says he 'took a giant dump' in his Tesla before selling it due to anger at Elon Musk",
-          "link": "https://www.foxnews.com/media/nyu-professor-podcaster-says-he-took-giant-dump-his-tesla-before-selling-due-anger-elon-musk"
+          "title": "Philly DSA decries backlash over boycott targeting Jewish eateries",
+          "link": "https://www.foxnews.com/media/philly-dsa-decries-backlash-over-boycott-targeting-jewish-eateries"
         },
         {
-          "title": "South Carolina dad left sleeping 6-year-old in line for Pokémon cards at Target: police",
-          "link": "https://www.foxnews.com/us/south-carolina-dad-left-sleeping-6-year-old-line-pokemon-cards-target-police"
+          "title": "Rams coach Sean McVay 'kicking himself' after Puka Nacua's knee injury on final play likely lands him on IR",
+          "link": "https://www.foxnews.com/outkick-sports/rams-coach-sean-mcvay-kicking-himself-puka-nacua-knee-injury-final-play-likely-lands-ir"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-10T00:04:25.072Z"
+      "updatedAt": "2026-11-10T08:10:45.717Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "Corporate Lobbying Infiltrated White House, Sank MAHA",
-          "link": "https://www.realclearpolitics.com/video/2026/11/09/calley_means_joe_rogan.html"
+          "title": "Pitfalls Ahead for the Democratic Congress",
+          "link": "https://www.realclearpolitics.com/2026/11/09/pitfalls_ahead_for_the_democratic_congress_717132.html"
         },
         {
-          "title": "The New Wave Democrats",
-          "link": "https://www.realclearpolitics.com/2026/11/09/the_new_wave_democrats_717105.html"
+          "title": "GOP Lost Joe Rogan, Alternative Media Huge Part of Our Base",
+          "link": "https://www.realclearpolitics.com/video/2026/11/09/david_sacks_the_republicans_lost_joe_rogan_the_alternative_media_a_huge_part_of_our_base.html"
         },
         {
-          "title": "It Was the Economy, Not the War",
-          "link": "https://www.realclearpolitics.com/2026/11/09/it_was_the_economy_not_the_war_717038.html"
+          "title": "Stephen Miller Is the Real President Now",
+          "link": "https://www.realclearpolitics.com/2026/11/09/stephen_miller_is_the_real_president_now_717133.html"
         },
         {
-          "title": "10 Takeaways From Trump's 60 Minutes Interview",
-          "link": "https://www.realclearpolitics.com/2026/11/09/10_takeaways_from_trumps_60_minutes_interview_717139.html"
+          "title": "Iran Stance Puts Vance's Political Future at Risk",
+          "link": "https://www.realclearpolitics.com/2026/11/09/iran_stance_puts_vances_political_future_at_risk_717150.html"
         },
         {
-          "title": "The Best Bill Democrats Could Pass on Day One",
-          "link": "https://www.realclearpolitics.com/2026/11/07/the_best_bill_democrats_could_pass_on_day_one_716888.html"
+          "title": "GOP Should've Learned From Bush's Iraq Debacle",
+          "link": "https://www.realclearpolitics.com/2026/11/09/gop_shouldve_learned_from_bushs_iraq_debacle_716874.html"
         },
         {
-          "title": "Electing Thune Minority Leader Would Be 'Rewarding Failure'",
-          "link": "https://www.realclearpolitics.com/2026/11/09/electing_thune_minority_leader_would_be_rewarding_failure_717134.html"
+          "title": "What's the Way Back for Struggling California?",
+          "link": "https://www.realclearpolitics.com/2026/11/09/whats_the_way_back_for_struggling_california_717137.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-10T00:04:25.229Z"
+      "updatedAt": "2026-11-10T08:10:45.979Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Senate advances bipartisan permitting reform bill, teeing up passage",
-          "link": "https://thehill.com/policy/energy-environment/6208626-bipartisan-permitting-reform-bill-energy-infrastructure/"
+          "title": "Massie: 'High probability' Hegseth won't make it to the end of the year",
+          "link": "https://thehill.com/policy/defense/6209701-massie-impeaches-hegseth/"
         },
         {
-          "title": "Shapiro vows minimum wage hike, abortion protections with Pennsylvania’s Democratic trifecta",
-          "link": "https://thehill.com/homenews/state-watch/6209350-shapiro-promises-minimum-wage-hike/"
+          "title": "Trump says Hegseth should be praised, not impeached",
+          "link": "https://thehill.com/homenews/administration/6209668-trump-defends-hegseth-impeachment/"
         },
         {
-          "title": "Trump attacks Massie as 'stone cold loser' in combative press conference",
-          "link": "https://thehill.com/policy/defense/6209413-trump-calls-massie-loser/"
+          "title": "Qatari prime minister says Iran discussions with US were 'positive'",
+          "link": "https://thehill.com/policy/international/6209663-us-middle-east-war-midterms/"
         },
         {
-          "title": "Where all 18 unprojected House races stand",
-          "link": "https://thehill.com/homenews/campaign/6209113-unprojected-house-midterm-results/"
+          "title": "Returning to Washington, Republicans vent anger, frustrations after midterm drubbing",
+          "link": "https://thehill.com/the-120/6209621-gop-midterm-loss-reckoning/"
         },
         {
-          "title": "Erika Kirk on Tyler Robinson's murder trial date: 'Disappointing'",
-          "link": "https://thehill.com/regulation/court-battles/6209326-charlie-kirk-murder-trial-delayed/"
+          "title": "Cornyn declines to say if he voted for Paxton, cites Paxton’s ‘corruption’ as issue",
+          "link": "https://thehill.com/homenews/senate/6209581-texas-senate-election-talarico-victory/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-10T00:04:25.740Z"
+      "updatedAt": "2026-11-10T08:10:46.547Z"
     },
     "Ars Technica": {
       "items": [
@@ -141,10 +141,14 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-10T00:04:25.831Z"
+      "updatedAt": "2026-11-10T08:10:46.615Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+          "link": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai"
+        },
         {
           "title": "What could China get from Jensen Huang?",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang"
@@ -160,14 +164,10 @@
         {
           "title": "MSI’s refurbished QD-OLED gaming monitor is on sale for under $300",
           "link": "https://www.theverge.com/gadgets/1030262/msi-mag-272qp-qd-oled-x24-monitor-woot-deal-sale"
-        },
-        {
-          "title": "The global pledge to use AI for climate good is a cruel joke",
-          "link": "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-10T00:04:25.902Z"
+      "updatedAt": "2026-11-10T08:10:46.654Z"
     },
     "BBC World": {
       "items": [
@@ -176,41 +176,37 @@
           "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-          "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss"
+          "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+          "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "France accuses Iran of supermarket fridge hacking",
-          "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss"
+          "title": "Trump says more US attacks on Iran 'highly unlikely'",
+          "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Turkey steel factory blast kills at least 17 people",
-          "link": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss"
+          "title": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
+          "link": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
-          "link": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss"
+          "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
+          "link": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "'Cruise for life' ship seized in Singapore",
+          "link": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
           "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Russia's leading independent newspaper closes after eviction",
-          "link": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-10T00:04:26.164Z"
+      "updatedAt": "2026-11-10T08:10:46.783Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Russell Brand sentenced to 10-and-a-half years in prison for rape and sexual assault",
-          "link": "https://www.bbc.co.uk/news/articles/ckzd6dl18dmyo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Brand's ex Jemima Goldsmith accuses him of violence and abuse against her",
+          "title": "Russell Brand's ex Jemima Goldsmith accuses him of violence and abuse against her",
           "link": "https://www.bbc.co.uk/news/articles/c95ynylr8j6xo?at_medium=RSS&at_campaign=rss"
         },
         {
@@ -218,23 +214,35 @@
           "link": "https://www.bbc.co.uk/news/videos/cq99z9mrv35lo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "'Baffling but brilliant' post-apocalyptic novel The End of Everything wins Booker Prize",
-          "link": "https://www.bbc.co.uk/news/articles/cw0737kv52lko?at_medium=RSS&at_campaign=rss"
+          "title": "Trump says more US attacks on Iran 'highly unlikely'",
+          "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Phones to be banned from pupils' bags or pockets under stricter rules for schools in England",
           "link": "https://www.bbc.co.uk/news/articles/c51kdk422w8jo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-          "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss"
+          "title": "The superpower battle over energy – and what it means for your bills",
+          "link": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Meghan makes first public appearance since father's arrest",
+          "link": "https://www.bbc.co.uk/news/articles/cq3989418n78o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-10T00:04:26.204Z"
+      "updatedAt": "2026-11-10T08:10:47.010Z"
     },
     "NY Times": {
       "items": [
+        {
+          "title": "California Voters Reject Prop. 40 Billionaire Tax Measure",
+          "link": "https://www.nytimes.com/2026/11/09/us/california-billionaire-tax-prop-40.html"
+        },
+        {
+          "title": "In a Democratic Wave, Even the Long Shots Defied the Odds",
+          "link": "https://www.nytimes.com/2026/11/09/us/politics/congress-democratic-long-shots.html"
+        },
         {
           "title": "Thomas Massie Moves to Force Vote on Impeaching Pete Hegseth",
           "link": "https://www.nytimes.com/2026/11/09/us/politics/hegseth-impeachment-massie.html"
@@ -246,18 +254,10 @@
         {
           "title": "Congress Has Reined In the Presidency Before. Here’s How to Do It.",
           "link": "https://www.nytimes.com/2026/11/09/magazine/congress-trump-oversight-investigations-presidency.html"
-        },
-        {
-          "title": "U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Intervention",
-          "link": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html"
-        },
-        {
-          "title": "A.I. Fueled Nvidia CEO Jensen Huang’s Elite Status, but Scandal Followed",
-          "link": "https://www.nytimes.com/2026/11/09/technology/jensen-huang-nvidia-ai-chips-scandal.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-10T00:04:26.328Z"
+      "updatedAt": "2026-11-10T08:10:47.174Z"
     }
   },
   "indices": {
@@ -269,8 +269,8 @@
       },
       {
         "name": "Dow Jones",
-        "price": 52389.75,
-        "pct": 0.7805673978791096
+        "price": 52389.8,
+        "pct": 0.7806635813571791
       },
       {
         "name": "Nasdaq",
@@ -279,13 +279,13 @@
       },
       {
         "name": "Gold",
-        "price": 4148.2,
-        "pct": 1.8463049349373883
+        "price": 4121.5,
+        "pct": 0.19448158502491797
       },
       {
         "name": "Bitcoin",
-        "price": 75206.99,
-        "pct": -0.7128209684537549
+        "price": 74724.33,
+        "pct": -1.350021710450828
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-11-10T00:04:26.440Z"
+    "updatedAt": "2026-11-10T08:10:47.335Z"
   }
 }
