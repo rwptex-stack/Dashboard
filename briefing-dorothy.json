@@ -1,94 +1,102 @@
 {
-  "fetchedAt": "2026-11-11T09:57:59.221Z",
+  "fetchedAt": "2026-11-11T17:39:57.064Z",
   "feeds": {
     "Fox News": {
       "items": [
+        {
+          "title": "High school recruit flips commitment from Colorado to Mississippi State back to Colorado in 30-hour span",
+          "link": "https://www.foxnews.com/outkick-sports/high-school-recruit-flips-commitment-colorado-mississippi-state-back-colorado-30-hour-span"
+        },
         {
           "title": "Veterans Day 2026 brings free meals at popular restaurants — and some deals don't end Nov. 11",
           "link": "https://www.foxnews.com/food-drink/veterans-day-2026-brings-free-meals-popular-restaurants-some-deals-dont-end-nov-11"
         },
         {
-          "title": "NYC man accused of 3 Central Park rapes arrested at Miami Burger King",
-          "link": "https://www.foxnews.com/us/nyc-man-accused-3-central-park-rapes-arrested-miami-burger-king"
+          "title": "Browns confirm no quarterback controversy as Deshaun Watson reclaims starting job over Shedeur Sanders",
+          "link": "https://www.foxnews.com/outkick-sports/browns-confirm-no-quarterback-controversy-deshaun-watson-reclaims-starting-job-shedeur-sanders"
         },
         {
-          "title": "Multiple dead after vehicle crashes into food stand near North Hollywood Metro station",
-          "link": "https://www.foxnews.com/us/multiple-dead-after-vehicle-crashes-food-stand-near-north-hollywood-metro-station"
+          "title": "Antonio Sabato Jr and Virginia Madsen's son arrested in fatal hit-and-run",
+          "link": "https://www.foxnews.com/entertainment/antonio-sabato-jr-virginia-madsens-son-arrested-fatal-hit-and-run"
         },
         {
-          "title": "Jaylen Brown repeatedly snubs ex-teammate Jayson Tatum as Celtics crush Sixers 'lambchops and some gravy'",
-          "link": "https://www.foxnews.com/outkick-sports/jaylen-brown-snubs-jayson-tatum-celtics-crush-sixers-lambchops-gravy"
+          "title": "WWE star Charlotte Flair thanks US military members in special Veterans Day message",
+          "link": "https://www.foxnews.com/outkick-sports/wwe-star-charlotte-flair-thanks-us-military-members-special-veterans-day-message"
         },
         {
-          "title": "Former West Point cadet sued over alleged drugging, forced abortion of ex-girlfriend: 'Horrifying'",
-          "link": "https://www.foxnews.com/us/former-west-point-cadet-sued-alleged-drugging-forced-abortion-ex-girlfriend-horrifying"
-        },
-        {
-          "title": "College Football Playoff Rankings: Georgia rise to No. 1, Notre Dame cracks top 5 after big win over Miami",
-          "link": "https://www.foxnews.com/outkick-sports/college-football-playoff-rankings-georgia-rises-no-1-notre-dame-cracks-top-5-big-win-miami"
+          "title": "Memphis football coach Charles Huff leans into job rumors with brutally honest comments about recruiting",
+          "link": "https://www.foxnews.com/outkick-sports/memphis-football-coach-charles-huff-leans-job-rumors-brutally-honest-comments-recruiting"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-11T09:57:56.791Z"
+      "updatedAt": "2026-11-11T17:39:53.614Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "Dems Are (Almost) the Working-Class Party Again",
-          "link": "https://www.realclearpolitics.com/2026/11/10/dems_are_almost_the_working-class_party_again_717256.html"
+          "title": "How Tom Hanks and Osama bin Laden Saved My Life",
+          "link": "https://www.realclearhistory.com/articles/2026/11/11/my_pearl_harbor_or_how_tom_hanks_and_osama_bin_laden_saved_my_life_1216208.html"
         },
         {
-          "title": "Did Trump Learn Wrong Lesson on Immigration?",
-          "link": "https://www.realclearpolitics.com/2026/11/10/did_trump_learn_wrong_lesson_on_immigration_717245.html"
+          "title": "The Veteran's Example for America",
+          "link": "https://www.realclearpolitics.com/2026/11/11/the_veterans_example_for_america_717273.html"
         },
         {
-          "title": "An Immigration Deal Could Start With Caregivers",
-          "link": "https://www.realclearpolitics.com/2026/11/10/an_immigration_deal_could_start_with_caregivers_717179.html"
+          "title": "Pete Hegseth's Indefensible Lie",
+          "link": "https://www.realclearpolitics.com/2026/11/11/pete_hegseths_indefensible_lie_717267.html"
         },
         {
-          "title": "One Big Midterm Lesson: No More GOP Zombie Hacks",
-          "link": "https://www.realclearpolitics.com/2026/11/09/one_big_midterm_lesson_no_more_gop_zombie_hacks_717126.html"
+          "title": "GOP Facing Major Texas Mess After Dem Takeover",
+          "link": "https://www.realclearpolitics.com/2026/11/11/gop_facing_major_texas_mess_after_dem_takeover_717270.html"
         },
         {
-          "title": "The Lame-Duck Playbook",
-          "link": "https://www.realclearpolitics.com/2026/11/10/the_lame-duck_playbook_717259.html"
+          "title": "How Democrats Can Flip Florida",
+          "link": "https://www.realclearpolitics.com/2026/11/11/how_democrats_can_flip_florida_717266.html"
         },
         {
-          "title": "What Could We Have Done Differently?",
-          "link": "https://www.realclearpolitics.com/video/2026/11/10/sen_thune_to_critics_what_could_we_have_done_differently.html"
+          "title": "Dems May Have Found a Way Around the Electoral College",
+          "link": "https://www.realclearpolitics.com/articles/2026/11/11/democrats_may_have_found_a_way_around_the_electoral_college_154671.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-11T09:57:57.081Z"
+      "updatedAt": "2026-11-11T17:39:53.957Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Dean says she's considering challenging Fetterman in 2028",
-          "link": "https://thehill.com/homenews/house/6212521-dean-considers-fetterman-senate-challenge/"
+          "title": "Biden says his debate performance was ‘not very consequential’",
+          "link": "https://thehill.com/homenews/media/6213650-biden-debate-performance-memoir/"
         },
         {
-          "title": "House Democrat says traffic incident prevented her and others from voting on Hegseth impeachment",
-          "link": "https://thehill.com/homenews/house/6212500-stansbury-misses-hegseth-vote/"
+          "title": "Republican Turner says Ramaswamy ad sunk his re-election in Ohio",
+          "link": "https://thehill.com/homenews/campaign/6213680-turner-blames-ramaswamy-ad-ohio-loss/"
         },
         {
-          "title": "Reporters Without Borders calls for Carr to be impeached for 'weaponizing' FCC",
-          "link": "https://thehill.com/homenews/media/6212455-rsf-urges-impeachment-brendan-carr/"
+          "title": "El-Sayed on call for Hegseth resignation: 'You're not good at this'",
+          "link": "https://thehill.com/homenews/administration/6213579-el-sayed-calls-hegseth-resignation/"
         },
         {
-          "title": "Permitting reform bill advances closer to Senate finish",
-          "link": "https://thehill.com/homenews/6212389-senate-advances-infrastructure-energy-bill/"
+          "title": "Stephen Miller's White House will test Mexico's red lines",
+          "link": "https://thehill.com/opinion/international/6211857-miller-white-house-chief-staff/"
         },
         {
-          "title": "Kennedy family members join legal fight over Trump’s arch",
-          "link": "https://thehill.com/regulation/court-battles/6212422-kennedy-family-trump-arch-lawsuit/"
+          "title": "Bessent moved to military base after Iranian threats",
+          "link": "https://thehill.com/homenews/administration/6213592-bessent-moves-military-base/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-11T09:57:57.588Z"
+      "updatedAt": "2026-11-11T17:39:54.476Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "Trump wanted little Kei trucks for America, Toyota makes it happen",
+          "link": "https://arstechnica.com/cars/2026/11/toyota-resurrects-scion-with-right-hand-drive-kei-trucks/"
+        },
+        {
+          "title": "Google DeepMind just mathematically verified key parts of Signal",
+          "link": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/"
+        },
         {
           "title": "Seagate's new hybrid drive raises some old questions",
           "link": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/"
@@ -100,78 +108,70 @@
         {
           "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
           "link": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/"
-        },
-        {
-          "title": "Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr",
-          "link": "https://arstechnica.com/tech-policy/2026/11/democrats-oppose-plan-to-stack-fcc-with-republicans-plan-probes-of-chairman-carr/"
-        },
-        {
-          "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
-          "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-11T09:57:57.688Z"
+      "updatedAt": "2026-11-11T17:39:54.919Z"
     },
     "The Verge": {
       "items": [
         {
-          "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
-          "link": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling"
+          "title": "Toyota’s Scion is back, starting with an American-made, 25-mph kei truck",
+          "link": "https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival"
         },
         {
-          "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
-          "link": "https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies"
+          "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+          "link": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability"
         },
         {
-          "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
-          "link": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition"
+          "title": "The best early Black Friday deals you can already shop",
+          "link": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026"
         },
         {
-          "title": "Sony cancels live-service shooter Fairgames",
-          "link": "https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled"
+          "title": "Sharge’s eye-catching MacBook charger is over 25 percent off",
+          "link": "https://www.theverge.com/gadgets/1031301/sharge-140w-gan-charger-lenovo-yoga-mini-desktop-pc-deal-sale"
         },
         {
-          "title": "The PlayStation Plus PC app is shutting down next month",
-          "link": "https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down"
+          "title": "Ocarina of Time is even better if you use a smartphone app",
+          "link": "https://www.theverge.com/games/1031321/the-legend-of-zelda-ocarina-of-time-notes-app-gold-skulltula"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-11T09:57:57.805Z"
+      "updatedAt": "2026-11-11T17:39:54.994Z"
     },
     "BBC World": {
       "items": [
+        {
+          "title": "Spain sees widespread disruption in first general strike for 14 years",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+          "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+          "link": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
+          "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
           "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
-          "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss"
+          "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
+          "link": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
-          "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Vinícius Jr sends message to Sudan boy who received prosthetic legs after BBC report sparks appeal",
-          "link": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Headquarters of Haitian gang destroyed, El Salvador's president says",
-          "link": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
-          "link": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Judge allows Trump's $10bn defamation case against BBC to proceed",
-          "link": "https://www.bbc.co.uk/news/articles/cm93rpy6lx0do?at_medium=RSS&at_campaign=rss"
+          "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
+          "link": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-11T09:57:57.870Z"
+      "updatedAt": "2026-11-11T17:39:55.111Z"
     },
     "BBC News": {
       "items": [
@@ -184,116 +184,124 @@
           "link": "https://www.bbc.co.uk/news/videos/c8g46y14ye3zo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-          "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss"
+          "title": "Thousands of schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
+          "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Police told Russell Brand to leave Jemima Goldsmith's house in 2014",
-          "link": "https://www.bbc.co.uk/news/articles/cqde1yddwk17o?at_medium=RSS&at_campaign=rss"
+          "title": "Scottish DJ, 32, confirmed as victim of Krakow shooting",
+          "link": "https://www.bbc.co.uk/news/articles/cmx28e95g2rzo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Acquitted 'China spy' tells BBC: I was fall guy for security services but also naive",
-          "link": "https://www.bbc.co.uk/news/articles/c98rzzvde1llo?at_medium=RSS&at_campaign=rss"
+          "title": "Spain sees widespread disruption in first general strike for 14 years",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Watch: Vinícius Jr's surprise message to boy who received prosthetic legs after Sudan drone strike",
-          "link": "https://www.bbc.co.uk/news/videos/cm894wg251pzo?at_medium=RSS&at_campaign=rss"
+          "title": "Watch: UK falls silent to mark Armistice Day",
+          "link": "https://www.bbc.co.uk/news/videos/c6lymnz44gn4o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-11T09:57:57.890Z"
+      "updatedAt": "2026-11-11T17:39:55.164Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "Who Is Alice Huang, the Woman in the Middle of Nvidia’s Spy Scandal?",
-          "link": "https://www.nytimes.com/2026/11/10/technology/alice-huang-megaspeed-nvidia-jensen-huang.html"
+          "title": "White House Threatens Congress, Saying Aggressive Investigations Could Be Crime",
+          "link": "https://www.nytimes.com/2026/11/11/us/politics/trump-democrats-congress-oversight-committee.html"
         },
         {
-          "title": "Despite Denial, Trump Was Told on Trip to China About Spying on Nvidia’s Jensen Huang",
-          "link": "https://www.nytimes.com/2026/11/10/us/politics/trump-china-trip-nvidia.html"
+          "title": "Incoming House Intelligence Chairman Vows Oversight of CIA’s Use of Covert Action",
+          "link": "https://www.nytimes.com/2026/11/11/us/politics/jim-himes-cia-house-intelligence-oversight.html"
         },
         {
-          "title": "Republicans Turn Back Effort to Impeach Hegseth",
-          "link": "https://www.nytimes.com/2026/11/10/us/politics/house-hegseth-impeachment-vote.html"
+          "title": "Nvidia Scandal Unveils a Fierce Spy War Raging Behind Trump and Xi’s Diplomacy",
+          "link": "https://www.nytimes.com/2026/11/11/world/asia/china-us-nvidia.html"
         },
         {
-          "title": "On the Defense: Takeaways From Hegseth’s Remarks on Articles of Impeachment",
-          "link": "https://www.nytimes.com/2026/11/10/us/politics/hegseth-speech-impeachment-takeaways.html"
+          "title": "How a Suspected Chinese Spy Gained Access to Nvidia Chips",
+          "link": "https://www.nytimes.com/video/business/100000011273241/alice-huang-nvidia-china-spy.html"
         },
         {
-          "title": "Trump Trots Out His Chaotic Greatest Hits to a Weary Public",
-          "link": "https://www.nytimes.com/2026/11/10/us/politics/trump-midterm-elections-chaos.html"
+          "title": "Nvidia Scandal Puts Lori Huang, Jensen Huang’s Wife, In the Spotlight",
+          "link": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-lori-huang.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-11T09:57:57.972Z"
+      "updatedAt": "2026-11-11T17:39:55.272Z"
     },
     "ARTNews": {
       "items": [
         {
-          "title": "Museum Organizations Call Bipartisan Infrastruture Bill a ‘Sweeping Assault’ on Historic and Sacred Places",
-          "link": "https://www.artnews.com/art-news/news/bipartisan-bill-museums-sweeping-assault-historic-places-1234805501/"
+          "title": "The Elie Khouri Art Foundation Appoints Sumayya Vally of Counterspace as Architect to Design the Foundation",
+          "link": "https://www.artnews.com/art-news/news/elie-khouri-art-foundation-appoints-sumayya-vally-architect-1234805538/"
         },
         {
-          "title": "Man Who Discovered Renaissance Church Facade Hidden in His House to Receive €1 M. Reward",
-          "link": "https://www.artnews.com/art-news/news/renaissance-church-facade-spain-million-euro-reward-1234805455/"
+          "title": "Balenciaga Collaborates with Damien Hirst on ‘Damienciaga’ Collection",
+          "link": "https://www.artnews.com/art-news/news/balenciaga-collaborates-damien-hirst-damienciaga-collection-1234805544/"
         },
         {
-          "title": "Oxford University Museum Returns 39 Sets of Ancestral Remains to Naga People of India",
-          "link": "https://www.artnews.com/art-news/news/pitt-rivers-museum-oxford-returns-naga-ancestral-remains-1234805458/"
+          "title": "Ted Turner’s Western Art Collection to Sell at Christie’s for $20 M.",
+          "link": "https://www.artnews.com/art-news/market/ted-turner-western-art-collection-christies-sale-1234805555/"
         },
         {
-          "title": "Actor Says He Removed His Mother’s Art from Venice Biennale Installation as a Pro-Israel Protest",
-          "link": "https://www.artnews.com/art-news/news/art-removed-venice-biennale-denniston-hill-israel-1234805408/"
+          "title": "Art Week NYC Kicks off at Metropolitan Museum of Art with New York Pols and Art Leaders",
+          "link": "https://www.artnews.com/art-news/news/art-week-nyc-kicks-off-metropolitan-museum-art-1234805478/"
         },
         {
-          "title": "American Alliance of Museums Makes Case for Policy Proposals Following Democrats’ Landslide Election Win",
-          "link": "https://www.artnews.com/art-news/news/american-alliance-museums-democrats-congress-election-win-1234805415/"
+          "title": "New Richard Avedon Documentary Shows That Fashion Isn’t All Style—It’s Substance, Too",
+          "link": "https://www.artnews.com/art-news/reviews/avedon-netflix-review-ron-howard-fashion-style-substance-1234805443/"
         },
         {
-          "title": "The Secret Handshake’s Latest Statue Mocks President Trump for Toe-Related Deferment to Avoid Vietnam War Draft",
-          "link": "https://www.artnews.com/art-news/news/statue-trump-mocks-five-deferments-vietnam-war-1234805419/"
+          "title": "Art Basel Offers 20 Percent Reduction on Exhibitor Booth Fees Due to Early Closure of Paris Fair, Tracey Emin’s New Arts and Community Space in Margate Greenlit, and More: Morning Links for November 11, 2026",
+          "link": "https://www.artnews.com/art-news/news/art-basel-paris-offers-20-percent-reduction-fees-1234805542/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-11T09:57:58.262Z"
+      "updatedAt": "2026-11-11T17:39:55.721Z"
     },
     "Hyperallergic": {
       "items": [
         {
-          "title": "Brokies, This Met Gala Is for You",
-          "link": "https://hyperallergic.com/brokies-this-met-gala-is-for-you/"
+          "title": "Anne Anlin Cheng and Patty Chang on Beauty and Violence",
+          "link": "https://hyperallergic.com/anne-anlin-cheng-and-patty-chang-on-beauty-and-violence/"
         },
         {
-          "title": "Gochman Collection Builds a Home for Native Art in Westchester",
-          "link": "https://hyperallergic.com/gochman-collection-builds-a-home-for-native-art-in-westchester/"
+          "title": "Art Basel Paris to Give Galleries a 20% Discount After Early Closure",
+          "link": "https://hyperallergic.com/art-basel-paris-to-give-galleries-a-20-discount-after-early-closure/"
         },
         {
-          "title": "Mamdani Begins Reconstruction of Historic Chinatown Building Decimated in 2020 Fire",
-          "link": "https://hyperallergic.com/mamdani-begins-reconstruction-of-historic-chinatown-building-decimated-in-2020-fire/"
+          "title": "Art Problems: Should I Get an MFA?",
+          "link": "https://hyperallergic.com/art-problems-should-i-get-an-mfa/"
         },
         {
-          "title": "Mrs. Gallery Marks 10 Years of Getting Art Collectors to Queens",
-          "link": "https://hyperallergic.com/mrs-gallery-marks-10-years-of-getting-art-collectors-to-queens/"
+          "title": "“Free Lyric” Tells the Story of a Young Black Female Rapper Cancelled for Her “Provocative” Lyrics",
+          "link": "https://hyperallergic.com/free-lyric-tells-the-story-of-a-young-black-female-rapper-cancelled-for-her-provocative-lyrics/"
         },
         {
-          "title": "Mexican Duo RojoNegro Installs Colossal Work on UC San Diego Campus",
-          "link": "https://hyperallergic.com/mexican-duo-rojonegro-installs-colossal-work-on-uc-san-diego-campus/"
+          "title": "Contemporary Beadworker Ken Williams Jr Awarded Rakow Commission by Corning Museum of Glass",
+          "link": "https://hyperallergic.com/contemporary-beadworker-ken-williams-jr-awarded-rakow-commission-by-corning-museum-of-glass/"
         },
         {
-          "title": "Trump Proclaims Gold-Studded Oval Office a National Monument",
-          "link": "https://hyperallergic.com/trump-proclaims-gold-studded-oval-office-a-national-monument/"
+          "title": "A New Home for Native Art in New York",
+          "link": "https://hyperallergic.com/a-new-home-for-native-art-in-new-york/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-11T09:57:58.523Z"
+      "updatedAt": "2026-11-11T17:39:55.965Z"
     },
     "Contemporary Art Daily": {
       "items": [
         {
           "title": "Announcement",
           "link": ""
+        },
+        {
+          "title": "Jacci Den Hartog at Tureen",
+          "link": "https://www.contemporaryartdaily.com/project/jacci-den-hartog-at-tureen-dallas-112193?source=rss"
+        },
+        {
+          "title": "Rebecca Warren at Maureen Paley",
+          "link": "https://www.contemporaryartdaily.com/project/rebecca-warren-at-maureen-paley-london-maureen-paley-london-111467?source=rss"
         },
         {
           "title": "Ian Miyamura at Bel Ami",
@@ -306,18 +314,10 @@
         {
           "title": "Ladji Diaby at Crèvecoeur, rive droite",
           "link": "https://www.contemporaryartdaily.com/project/ladji-diaby-at-crevecoeur-rive-droite-paris-102392?source=rss"
-        },
-        {
-          "title": "Ulrich Wulff at Bernd Kugler",
-          "link": "https://www.contemporaryartdaily.com/project/ulrich-wulff-at-bernd-kugler-innsbruck-116715?source=rss"
-        },
-        {
-          "title": "Tobias Kaspar at Museum Abteiberg",
-          "link": "https://www.contemporaryartdaily.com/project/tobias-kaspar-at-museum-abteiberg-monchengladbach-113249?source=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-11T09:57:59.100Z"
+      "updatedAt": "2026-11-11T17:39:56.935Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-11T09:57:59.221Z"
+      "updatedAt": "2026-11-11T17:39:57.064Z"
     }
   }
 }
