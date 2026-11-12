@@ -1,98 +1,110 @@
 {
-  "fetchedAt": "2026-11-12T01:25:28.141Z",
+  "fetchedAt": "2026-11-12T09:36:50.756Z",
   "feeds": {
     "MarketWatch": {
       "items": [
         {
+          "title": "Jensen Huang built Nvidia into a behemoth. His scandal puts the entire AI boom in jeopardy.",
+          "link": "https://www.marketwatch.com/story/jensen-huang-built-nvidia-into-a-behemoth-his-scandal-puts-the-entire-ai-boom-in-jeopardy-c374b079?mod=mw_rss_topstories"
+        },
+        {
           "title": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang",
           "link": "https://www.marketwatch.com/story/nasdaq-futures-fall-as-nvidia-sinks-8-after-hours-on-report-board-may-oust-huang-e99b898d?mod=mw_rss_topstories"
+        },
+        {
+          "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+          "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
+          "link": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories"
         },
         {
           "title": "Nvidia’s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
           "link": "https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d?mod=mw_rss_topstories"
         },
         {
-          "title": "Your holiday credit-card bills are going up. What you can do to ease the pain.",
-          "link": "https://www.marketwatch.com/story/your-holiday-credit-card-bills-are-going-up-what-you-can-do-to-ease-the-pain-5ddeb446?mod=mw_rss_topstories"
-        },
-        {
-          "title": "I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Am I being extravagant?",
-          "link": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories"
-        },
-        {
-          "title": "CoreWeave just gave a shot in the arm to Micron, Lumentum and the rest of the AI trade",
-          "link": "https://www.marketwatch.com/story/micron-and-other-ai-stocks-surge-as-coreweave-calms-wall-streets-worst-fears-0a18152a?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Opening trading-card packs has become a $2 billion market. New apps are trying to cash in.",
-          "link": "https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories"
+          "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+          "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-12T01:25:19.925Z"
+      "updatedAt": "2026-11-12T09:36:49.004Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "El-Sayed tells Hegseth to resign after impeachment effort fails, 'make it easy for everybody'",
-          "link": "https://www.foxnews.com/media/el-sayed-tells-hegseth-resign-after-democrats-derail-impeachment-effort-make-easy-everybody"
+          "title": "Florida city says new GOP-backed DEI law blocks St. Patrick’s parade, Pride event",
+          "link": "https://www.foxnews.com/politics/florida-city-gop-backed-dei-law-blocks-st-patricks-parade-pride-event"
         },
         {
-          "title": "Former Giants coach defends star player Malik Nabers against character questions from broadcast analyst",
-          "link": "https://www.foxnews.com/outkick-sports/former-giants-coach-defends-malik-nabers-against-character-questions-broadcast-analyst"
+          "title": "GOP senator says Republicans can 'forget 2028' as party looks to reclaim Upper Chamber",
+          "link": "https://www.foxnews.com/politics/gop-senator-says-republicans-forget-2028-party-looks-reclaim-upper-chamber"
         },
         {
-          "title": "El Salvador-backed air assault destroys Haiti gang headquarters amid search for missing troops",
-          "link": "https://www.foxnews.com/world/el-salvador-air-assault-destroys-haiti-gang-headquarters-search-missing-troops"
+          "title": "Jim Jordan vows to push GOP agenda while party still holds majority, warns of Dem lawfare",
+          "link": "https://www.foxnews.com/media/jim-jordan-vows-push-gop-agenda-party-holds-majority-warns-dem-lawfare"
         },
         {
-          "title": "Illegal immigrant arrested after dragging, striking ICE officer in Chicago suburb: DHS",
-          "link": "https://www.foxnews.com/us/illegal-immigrant-arrested-after-dragging-striking-ice-officer-chicago-suburb-dhs"
+          "title": "Struggling Colts QB Daniel Jones admits he's 'not happy' watching Indy's front office strip away teammates",
+          "link": "https://www.foxnews.com/outkick-sports/struggling-colts-qb-daniel-jones-admits-not-happy-watching-indy-front-office-strip-away-teammates"
         },
         {
-          "title": "Jamie Foxx’s daughter’s 18th birthday bash erupts in violence as deputies make arrests",
-          "link": "https://www.foxnews.com/entertainment/jamie-foxx-daughter-18th-birthday-bash-erupts-violence-deputies-make-arrests"
+          "title": "War of words between Michigan Wolverines-Oregon Ducks heats up as Dan Lanning responds to criticisms",
+          "link": "https://www.foxnews.com/outkick-sports/war-words-michigan-wolverines-oregon-ducks-heats-dan-lanning-responds-criticisms"
         },
         {
-          "title": "Jeffries leaves door open to investigating major Trump ally as Democrats prepare to take power",
-          "link": "https://www.foxnews.com/politics/jeffries-leaves-door-open-investigating-major-trump-ally-democrats-prepare-take-power"
+          "title": "Brewers' Jacob Misiorowski, Yankees' Cam Schlittler named unanimous Cy Young Award winners for 2026 MLB season",
+          "link": "https://www.foxnews.com/outkick-sports/brewers-jacob-misiorowski-yankees-cam-schlittler-named-unanimous-cy-young-award-winners-2026-mlb-season"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-12T01:25:20.106Z"
+      "updatedAt": "2026-11-12T09:36:49.198Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "Hegseth Survives the Lame Duck With More Drama Ahead",
-          "link": "https://www.realclearpolitics.com/articles/2026/11/11/hegseth_survives_the_lame_duck_with_more_drama_ahead_154676.html"
+          "title": "Republicans Will Adapt or Die",
+          "link": "https://www.realclearpolitics.com/2026/11/11/republicans_will_adapt_or_die_717365.html"
         },
         {
-          "title": "Jokes About Kirk Assassination Very Bad Sign for Nation",
-          "link": "https://www.realclearpolitics.com/2026/11/11/jokes_about_kirk_assassination_very_bad_sign_for_nation_717355.html"
+          "title": "Now What?: How Midterm Results Will Change America",
+          "link": "https://www.realclearpolitics.com/2026/11/11/now_what_how_midterm_results_will_change_america_717412.html"
         },
         {
-          "title": "Dems Are (Almost) the Working-Class Party Again",
-          "link": "https://www.realclearpolitics.com/2026/11/10/dems_are_almost_the_working-class_party_again_717256.html"
+          "title": "Generational Warfare? It's Time To Declare a Truce",
+          "link": "https://www.realclearpolitics.com/2026/11/11/generational_warfare_its_time_to_declare_a_truce_717363.html"
         },
         {
-          "title": "Senate GOP Must Follow Rules, Rehold Leadership Elections",
-          "link": "https://www.realclearpolitics.com/2026/11/11/senate_gop_must_follow_rules_rehold_leadership_elections_717407.html"
+          "title": "Republicans Have Two Paths Out of This. Choose Wisely",
+          "link": "https://www.realclearpolitics.com/2026/11/11/republicans_have_two_paths_out_of_this_choose_wisely_717360.html"
         },
         {
-          "title": "Targeting Schumer or Jeffries Would Be Mistake for Dems",
-          "link": "https://www.realclearpolitics.com/2026/11/11/targeting_schumer_or_jeffries_would_be_mistake_for_dems_717354.html"
+          "title": "Will Jeffries Be Able To Work With Trump?",
+          "link": "https://www.realclearpolitics.com/2026/11/11/will_jeffries_be_able_to_work_with_trump_717151.html"
         },
         {
-          "title": "Independents Decide the Election, Again",
-          "link": "https://www.realclearpolitics.com/2026/11/11/independents_decide_the_election_again_717353.html"
+          "title": "Did Trump Learn Wrong Lesson on Immigration?",
+          "link": "https://www.realclearpolitics.com/2026/11/11/did_trump_learn_wrong_lesson_on_immigration_717245.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-12T01:25:20.283Z"
+      "updatedAt": "2026-11-12T09:36:49.478Z"
     },
     "The Hill": {
       "items": [
+        {
+          "title": "Alaska judge denies Peltola campaign request for list of rejected absentee ballots",
+          "link": "https://thehill.com/regulation/court-battles/6215086-judge-denies-peltola-ballot-request/"
+        },
+        {
+          "title": "Democrats rally around Colom's historic Mississippi victory",
+          "link": "https://thehill.com/homenews/campaign/6215058-colom-makes-mississippi-history/"
+        },
+        {
+          "title": "GOP senator feels 'strongly' Jensen Huang should resign at Nvidia",
+          "link": "https://thehill.com/homenews/senate/6215009-senator-cramer-calls-nvidia-ceo-resignation/"
+        },
         {
           "title": "Tech Oversight Project hands Democrats 100-day blueprint",
           "link": "https://thehill.com/newsletters/technology/6214905-tech-oversight-project-hands-democrats-100-day-blueprint/"
@@ -100,22 +112,10 @@
         {
           "title": "Hawley calls for Senate to pass data center moratorium",
           "link": "https://thehill.com/homenews/senate/6214878-hawley-calls-gop-data-center-moratorium/"
-        },
-        {
-          "title": "Former Navy JAG who flipped Kentucky House seat: 'Premature' to discuss Hegseth impeachment",
-          "link": "https://thehill.com/the-120/6214824-dembo-hegseth-impeachment-vote/"
-        },
-        {
-          "title": "GOP's Murphy concedes in North Carolina House race",
-          "link": "https://thehill.com/homenews/campaign/6214832-murphy-concedes-north-carolina-house/"
-        },
-        {
-          "title": "Nvidia stock tanks after report of second Huang affair",
-          "link": "https://thehill.com/business/6214833-nvidia-ceo-jesen-huang-affair/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-12T01:25:20.952Z"
+      "updatedAt": "2026-11-12T09:36:49.976Z"
     },
     "Ars Technica": {
       "items": [
@@ -141,7 +141,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-12T01:25:21.047Z"
+      "updatedAt": "2026-11-12T09:36:50.124Z"
     },
     "The Verge": {
       "items": [
@@ -167,55 +167,55 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-12T01:25:21.199Z"
+      "updatedAt": "2026-11-12T09:36:50.273Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
-          "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss"
+          "title": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
+          "link": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "New York building collapse kills at least two, officials say",
+          "link": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
           "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-          "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss"
+          "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+          "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "New York building collapse kills one person and injures 12",
-          "link": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss"
+          "title": "Ugandan police investigate deaths of four pupils in suspected school poisoning",
+          "link": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
-          "link": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
-          "link": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Famed ship SS United States to be sunk off coast of Florida",
-          "link": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "ok": true,
-      "updatedAt": "2026-11-12T01:25:21.372Z"
-    },
-    "BBC News": {
-      "items": [
-        {
-          "title": "Author says there were 'real concerns' about David Walliams within publishing industry",
-          "link": "https://www.bbc.co.uk/news/articles/c95y15830k77o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Some under-25s should get less benefits, Milburn review to say",
-          "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss"
+          "title": "Australian teen missing in bush for six days rescued alive",
+          "link": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
           "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "ok": true,
+      "updatedAt": "2026-11-12T09:36:50.422Z"
+    },
+    "BBC News": {
+      "items": [
+        {
+          "title": "Some under-25s should get fewer benefits, Milburn review to say",
+          "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
+          "link": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+          "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
@@ -226,17 +226,17 @@
           "link": "https://www.bbc.co.uk/news/articles/cjkgep4rgngro?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Thousands of schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-          "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss"
+          "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+          "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-12T01:25:27.859Z"
+      "updatedAt": "2026-11-12T09:36:50.459Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "Nvidia’s Board Is Meeting to Discuss Jensen Huang’s Future",
+          "title": "Nvidia’s Board Is Weighing Jensen Huang’s Future",
           "link": "https://www.nytimes.com/2026/11/11/technology/nvidia-jensen-huang.html"
         },
         {
@@ -244,20 +244,20 @@
           "link": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html"
         },
         {
-          "title": "Nvidia Shares Plummet as Board Is Said to Consider C.E.O.’s Future",
+          "title": "What to Know About Nvidia’s Investigation of CEO Jensen Huang",
+          "link": "https://www.nytimes.com/article/nvidia-investigation-jensen-huang.html"
+        },
+        {
+          "title": "Nvidia’s Stock Price Plummets as Board Is Said to Consider Jensen Huang’s Future as CEO",
           "link": "https://www.nytimes.com/2026/11/11/business/nvidia-stock-jensen-huang-ceo.html"
         },
         {
-          "title": "How The Times Covered Mississippi’s Senate Race, Which Unexpectedly Became a Nail-Biter",
-          "link": "https://www.nytimes.com/2026/11/11/insider/mississippi-senate-race-coverage.html"
-        },
-        {
-          "title": "How Democrats Invested Online to Overcome Their Cash Disadvantage",
-          "link": "https://www.nytimes.com/2026/11/11/us/politics/democrats-digital-spending-midterm-election.html"
+          "title": "Scott Colom, a Democrat, Wins Mississippi Senate Election",
+          "link": "https://www.nytimes.com/2026/11/11/us/elections/mississippi-senate-colom-hyde-smith.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-12T01:25:28.043Z"
+      "updatedAt": "2026-11-12T09:36:50.580Z"
     }
   },
   "indices": {
@@ -279,13 +279,13 @@
       },
       {
         "name": "Gold",
-        "price": 4003.2,
-        "pct": -1.759552381653544
+        "price": 3941.2,
+        "pct": -4.2119334062462075
       },
       {
         "name": "Bitcoin",
-        "price": 73573.81,
-        "pct": -1.3552922752872028
+        "price": 73353.93,
+        "pct": -1.6500982440756928
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-11-12T01:25:28.141Z"
+    "updatedAt": "2026-11-12T09:36:50.756Z"
   }
 }
