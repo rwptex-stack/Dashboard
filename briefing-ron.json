@@ -1,150 +1,162 @@
 {
-  "fetchedAt": "2026-11-11T18:31:37.454Z",
+  "fetchedAt": "2026-11-12T01:25:28.141Z",
   "feeds": {
     "MarketWatch": {
       "items": [
         {
-          "title": "Oracle’s stock is totally misunderstood and should be a ‘go-to’ AI play, says this analyst",
-          "link": "https://www.marketwatch.com/story/oracles-stock-is-totally-misunderstood-and-should-be-a-go-to-ai-play-says-this-analyst-2a87e80d?mod=mw_rss_topstories"
+          "title": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang",
+          "link": "https://www.marketwatch.com/story/nasdaq-futures-fall-as-nvidia-sinks-8-after-hours-on-report-board-may-oust-huang-e99b898d?mod=mw_rss_topstories"
         },
         {
-          "title": "Has Nvidia flown too close to the sun? One analyst warns of major scrutiny ahead.",
-          "link": "https://www.marketwatch.com/story/has-nvidia-flown-too-close-to-the-sun-one-analyst-warns-of-major-scrutiny-ahead-a323c4dd?mod=mw_rss_topstories"
+          "title": "Nvidia’s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
+          "link": "https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d?mod=mw_rss_topstories"
         },
         {
-          "title": "Need money for a down payment? More employers are offering to help.",
-          "link": "https://www.marketwatch.com/story/need-money-for-a-down-payment-more-employers-are-offering-to-help-59c57da3?mod=mw_rss_topstories"
+          "title": "Your holiday credit-card bills are going up. What you can do to ease the pain.",
+          "link": "https://www.marketwatch.com/story/your-holiday-credit-card-bills-are-going-up-what-you-can-do-to-ease-the-pain-5ddeb446?mod=mw_rss_topstories"
         },
         {
-          "title": "Anthropic’s IPO roadshow kicks off — and the big money is already lining up",
-          "link": "https://www.marketwatch.com/story/anthropics-ipo-roadshow-kicks-off-and-the-big-money-is-already-lining-up-7cdd4f8b?mod=mw_rss_topstories"
-        },
-        {
-          "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-          "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories"
+          "title": "I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Am I being extravagant?",
+          "link": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories"
         },
         {
           "title": "CoreWeave just gave a shot in the arm to Micron, Lumentum and the rest of the AI trade",
           "link": "https://www.marketwatch.com/story/micron-and-other-ai-stocks-surge-as-coreweave-calms-wall-streets-worst-fears-0a18152a?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Opening trading-card packs has become a $2 billion market. New apps are trying to cash in.",
+          "link": "https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-11T18:31:36.055Z"
+      "updatedAt": "2026-11-12T01:25:19.925Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Veterans in Congress projected to decline, but Dems bringing more first-time vets by 3-to-1 margin over GOP",
-          "link": "https://www.foxnews.com/politics/veterans-congress-projected-decline-dems-bringing-more-first-time-vets-margin-gop"
+          "title": "El-Sayed tells Hegseth to resign after impeachment effort fails, 'make it easy for everybody'",
+          "link": "https://www.foxnews.com/media/el-sayed-tells-hegseth-resign-after-democrats-derail-impeachment-effort-make-easy-everybody"
         },
         {
-          "title": "MICHAEL RUIZ: Texas police ID man charged with assault in UT Tyler Turning Point USA attack caught on video",
-          "link": "https://www.foxnews.com/us/michael-ruiz-texas-police-id-man-charged-assault-ut-tyler-turning-point-usa-attack-caught-video"
+          "title": "Former Giants coach defends star player Malik Nabers against character questions from broadcast analyst",
+          "link": "https://www.foxnews.com/outkick-sports/former-giants-coach-defends-malik-nabers-against-character-questions-broadcast-analyst"
         },
         {
-          "title": "Woman claims hospital injected wrong drug into her spine during knee surgery, leaving her unable to walk",
-          "link": "https://www.foxnews.com/health/woman-claims-hospital-injected-wrong-drug-spine-knee-surgery-leaving-unable-walk"
+          "title": "El Salvador-backed air assault destroys Haiti gang headquarters amid search for missing troops",
+          "link": "https://www.foxnews.com/world/el-salvador-air-assault-destroys-haiti-gang-headquarters-search-missing-troops"
         },
         {
-          "title": "Protesters target Alex Ovechkin's Ottawa game as World Juniors Russia debate intensifies",
-          "link": "https://www.foxnews.com/outkick-sports/protesters-target-alex-ovechkin-ottawa-game-world-juniors-russia-debate-intensifies"
+          "title": "Illegal immigrant arrested after dragging, striking ICE officer in Chicago suburb: DHS",
+          "link": "https://www.foxnews.com/us/illegal-immigrant-arrested-after-dragging-striking-ice-officer-chicago-suburb-dhs"
         },
         {
-          "title": "Here's what happens when someone with no experience hits an iconic racetrack in a 795-hp beast",
-          "link": "https://www.foxnews.com/outkick-sports/what-happens-when-someone-no-experience-hits-iconic-racetrack-795-hp-beast"
+          "title": "Jamie Foxx’s daughter’s 18th birthday bash erupts in violence as deputies make arrests",
+          "link": "https://www.foxnews.com/entertainment/jamie-foxx-daughter-18th-birthday-bash-erupts-violence-deputies-make-arrests"
         },
         {
-          "title": "Dana White's Power Slap takes a swing at Lingerie Fighting Championship after debut of Power Spank",
-          "link": "https://www.foxnews.com/outkick-sports/dana-white-power-slap-swing-lingerie-fighting-championship-power-spank-debut"
+          "title": "Jeffries leaves door open to investigating major Trump ally as Democrats prepare to take power",
+          "link": "https://www.foxnews.com/politics/jeffries-leaves-door-open-investigating-major-trump-ally-democrats-prepare-take-power"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-11T18:31:36.168Z"
+      "updatedAt": "2026-11-12T01:25:20.106Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "How Tom Hanks and Osama bin Laden Saved My Life",
-          "link": "https://www.realclearhistory.com/articles/2026/11/11/my_pearl_harbor_or_how_tom_hanks_and_osama_bin_laden_saved_my_life_1216208.html"
+          "title": "Hegseth Survives the Lame Duck With More Drama Ahead",
+          "link": "https://www.realclearpolitics.com/articles/2026/11/11/hegseth_survives_the_lame_duck_with_more_drama_ahead_154676.html"
         },
         {
-          "title": "The Veteran's Example for America",
-          "link": "https://www.realclearpolitics.com/2026/11/11/the_veterans_example_for_america_717273.html"
+          "title": "Jokes About Kirk Assassination Very Bad Sign for Nation",
+          "link": "https://www.realclearpolitics.com/2026/11/11/jokes_about_kirk_assassination_very_bad_sign_for_nation_717355.html"
         },
         {
-          "title": "Pete Hegseth's Indefensible Lie",
-          "link": "https://www.realclearpolitics.com/2026/11/11/pete_hegseths_indefensible_lie_717267.html"
+          "title": "Dems Are (Almost) the Working-Class Party Again",
+          "link": "https://www.realclearpolitics.com/2026/11/10/dems_are_almost_the_working-class_party_again_717256.html"
         },
         {
-          "title": "GOP Facing Major Texas Mess After Dem Takeover",
-          "link": "https://www.realclearpolitics.com/2026/11/11/gop_facing_major_texas_mess_after_dem_takeover_717270.html"
+          "title": "Senate GOP Must Follow Rules, Rehold Leadership Elections",
+          "link": "https://www.realclearpolitics.com/2026/11/11/senate_gop_must_follow_rules_rehold_leadership_elections_717407.html"
         },
         {
-          "title": "How Democrats Can Flip Florida",
-          "link": "https://www.realclearpolitics.com/2026/11/11/how_democrats_can_flip_florida_717266.html"
+          "title": "Targeting Schumer or Jeffries Would Be Mistake for Dems",
+          "link": "https://www.realclearpolitics.com/2026/11/11/targeting_schumer_or_jeffries_would_be_mistake_for_dems_717354.html"
         },
         {
-          "title": "Dems May Have Found a Way Around the Electoral College",
-          "link": "https://www.realclearpolitics.com/articles/2026/11/11/democrats_may_have_found_a_way_around_the_electoral_college_154671.html"
+          "title": "Independents Decide the Election, Again",
+          "link": "https://www.realclearpolitics.com/2026/11/11/independents_decide_the_election_again_717353.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-11T18:31:36.441Z"
+      "updatedAt": "2026-11-12T01:25:20.283Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Trump wants a non-nuclear Iran. What's the plan?",
-          "link": "https://thehill.com/opinion/international/6212486-trump-iran-policy-pressure/"
+          "title": "Tech Oversight Project hands Democrats 100-day blueprint",
+          "link": "https://thehill.com/newsletters/technology/6214905-tech-oversight-project-hands-democrats-100-day-blueprint/"
         },
         {
-          "title": "CDC chief: No measles response change if elimination status lost",
-          "link": "https://thehill.com/policy/healthcare/6213788-cdc-responds-measles-elimination-status/"
+          "title": "Hawley calls for Senate to pass data center moratorium",
+          "link": "https://thehill.com/homenews/senate/6214878-hawley-calls-gop-data-center-moratorium/"
         },
         {
-          "title": "Just 40 percent in new poll looking forward to 2028 presidential election",
-          "link": "https://thehill.com/homenews/campaign/6213771-americans-sentiment-2028-election/"
+          "title": "Former Navy JAG who flipped Kentucky House seat: 'Premature' to discuss Hegseth impeachment",
+          "link": "https://thehill.com/the-120/6214824-dembo-hegseth-impeachment-vote/"
         },
         {
-          "title": "Biden says he didn't hide cancer diagnosis while president",
-          "link": "https://thehill.com/homenews/administration/6213629-biden-prostate-cancer-diagnosis-denies-hiding/"
+          "title": "GOP's Murphy concedes in North Carolina House race",
+          "link": "https://thehill.com/homenews/campaign/6214832-murphy-concedes-north-carolina-house/"
         },
         {
-          "title": "Ballot drops in Alaska, Mississippi expand Democratic leads — a bit",
-          "link": "https://thehill.com/newsletters/1230-report/6213717-ballot-drops-in-alaska-mississippi-expand-democratic-leads-a-bit/"
+          "title": "Nvidia stock tanks after report of second Huang affair",
+          "link": "https://thehill.com/business/6214833-nvidia-ceo-jesen-huang-affair/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-11T18:31:37.083Z"
+      "updatedAt": "2026-11-12T01:25:20.952Z"
     },
     "Ars Technica": {
       "items": [
         {
-          "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
-          "link": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/"
+          "title": "CEO Jensen Huang's job is suddenly on the line at Nvidia",
+          "link": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/"
         },
         {
-          "title": "Apple is shuttering its 28-year-old online community forum",
-          "link": "https://arstechnica.com/gadgets/2026/11/apple-is-shuttering-its-28-year-old-online-community-forum/"
+          "title": "T-Mobile illegally imposed 50GB cap on low-income home Internet plan, NY says",
+          "link": "https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/"
         },
         {
-          "title": "IBM to offer access to a dual-processor quantum system in 2027",
-          "link": "https://arstechnica.com/science/2026/11/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027/"
+          "title": "Anduril says its first satellite can see adversaries maneuver in orbital night",
+          "link": "https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/"
         },
         {
-          "title": "Trump wanted little Kei trucks for America, Toyota makes it happen",
-          "link": "https://arstechnica.com/cars/2026/11/toyota-resurrects-scion-with-right-hand-drive-kei-trucks/"
+          "title": "NASA's secret weapon in the lunar space race may be ... procurement reform?",
+          "link": "https://arstechnica.com/space/2026/11/nasa-takes-an-all-hands-on-deck-approach-in-its-return-to-the-moon/"
         },
         {
-          "title": "Google DeepMind just mathematically verified key parts of Signal",
-          "link": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/"
+          "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+          "link": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-11T18:31:37.156Z"
+      "updatedAt": "2026-11-12T01:25:21.047Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+          "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor"
+        },
+        {
+          "title": "Hands on with Home Assistant’s new ‘smart home multi-tool’",
+          "link": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on"
+        },
+        {
+          "title": "United won’t let your AI agent book your flight",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents"
+        },
         {
           "title": "Loot boxes, influencers, and addictive features face an EU crackdown",
           "link": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection"
@@ -152,56 +164,44 @@
         {
           "title": "Toyota’s Scion is back, starting with an American-made, 25-mph kei truck",
           "link": "https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival"
-        },
-        {
-          "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
-          "link": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability"
-        },
-        {
-          "title": "The best early Black Friday deals you can already shop",
-          "link": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026"
-        },
-        {
-          "title": "Sharge’s eye-catching MacBook charger is over 25 percent off",
-          "link": "https://www.theverge.com/gadgets/1031301/sharge-140w-gan-charger-lenovo-yoga-mini-desktop-pc-deal-sale"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-11T18:31:37.188Z"
+      "updatedAt": "2026-11-12T01:25:21.199Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Spain sees widespread disruption in first general strike for 14 years",
+          "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
           "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+          "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
           "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
-          "link": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss"
+          "title": "New York building collapse kills one person and injures 12",
+          "link": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-          "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-          "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss"
+          "title": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
+          "link": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
           "link": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Missing 11-month-old baby found buried alive in a crate in South Carolina",
-          "link": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o?at_medium=RSS&at_campaign=rss"
+          "title": "Famed ship SS United States to be sunk off coast of Florida",
+          "link": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-11T18:31:37.219Z"
+      "updatedAt": "2026-11-12T01:25:21.372Z"
     },
     "BBC News": {
       "items": [
@@ -210,90 +210,90 @@
           "link": "https://www.bbc.co.uk/news/articles/c95y15830k77o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "'I felt like I was being manipulated': Woman alleges Walliams groomed her as a teenager",
-          "link": "https://www.bbc.co.uk/news/videos/c8g46y14ye3zo?at_medium=RSS&at_campaign=rss"
+          "title": "Some under-25s should get less benefits, Milburn review to say",
+          "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
+          "link": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Are max strength cold and flu pills worth the money?",
+          "link": "https://www.bbc.co.uk/news/articles/cjkgep4rgngro?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Thousands of schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
           "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Scottish DJ, 32, confirmed as victim of Krakow shooting",
-          "link": "https://www.bbc.co.uk/news/articles/cmx28e95g2rzo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Spain sees widespread disruption in first general strike for 14 years",
-          "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-          "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-11T18:31:37.304Z"
+      "updatedAt": "2026-11-12T01:25:27.859Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "White House Threatens Congress, Saying Aggressive Investigations Could Be Crime",
-          "link": "https://www.nytimes.com/2026/11/11/us/politics/trump-democrats-congress-oversight-committee.html"
+          "title": "Nvidia’s Board Is Meeting to Discuss Jensen Huang’s Future",
+          "link": "https://www.nytimes.com/2026/11/11/technology/nvidia-jensen-huang.html"
         },
         {
-          "title": "Incoming House Intelligence Chairman Vows Oversight of CIA’s Use of Covert Action",
-          "link": "https://www.nytimes.com/2026/11/11/us/politics/jim-himes-cia-house-intelligence-oversight.html"
+          "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
+          "link": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html"
         },
         {
-          "title": "Nvidia Scandal Unveils a Fierce Spy War Raging Behind Trump and Xi’s Diplomacy",
-          "link": "https://www.nytimes.com/2026/11/11/world/asia/china-us-nvidia.html"
+          "title": "Nvidia Shares Plummet as Board Is Said to Consider C.E.O.’s Future",
+          "link": "https://www.nytimes.com/2026/11/11/business/nvidia-stock-jensen-huang-ceo.html"
         },
         {
-          "title": "How a Suspected Chinese Spy Gained Access to Nvidia Chips",
-          "link": "https://www.nytimes.com/video/business/100000011273241/alice-huang-nvidia-china-spy.html"
+          "title": "How The Times Covered Mississippi’s Senate Race, Which Unexpectedly Became a Nail-Biter",
+          "link": "https://www.nytimes.com/2026/11/11/insider/mississippi-senate-race-coverage.html"
         },
         {
-          "title": "Nvidia Scandal Puts Lori Huang, Jensen Huang’s Wife, In the Spotlight",
-          "link": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-lori-huang.html"
+          "title": "How Democrats Invested Online to Overcome Their Cash Disadvantage",
+          "link": "https://www.nytimes.com/2026/11/11/us/politics/democrats-digital-spending-midterm-election.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-11T18:31:37.333Z"
+      "updatedAt": "2026-11-12T01:25:28.043Z"
     }
   },
   "indices": {
     "data": [
       {
         "name": "S&P 500",
-        "price": 7644.33,
-        "pct": -0.5760461565274387
+        "price": 7619.38,
+        "pct": -0.9005517244967209
       },
       {
         "name": "Dow Jones",
-        "price": 52486.92,
-        "pct": -1.6290539866841973
+        "price": 52486.49,
+        "pct": -1.6298598923609975
       },
       {
         "name": "Nasdaq",
-        "price": 25639.924,
-        "pct": -0.37528786925655166
+        "price": 25466.19,
+        "pct": -1.050336661808457
       },
       {
         "name": "Gold",
-        "price": 3999.4,
-        "pct": -1.8528062038332227
+        "price": 4003.2,
+        "pct": -1.759552381653544
       },
       {
         "name": "Bitcoin",
-        "price": 74474.1,
-        "pct": -1.6812154262882006
+        "price": 73573.81,
+        "pct": -1.3552922752872028
       },
       {
         "name": "SpaceX",
-        "price": 142.64,
-        "pct": 4.944084755738669
+        "price": 139.75,
+        "pct": 2.817834020011781
       }
     ],
     "ok": true,
-    "updatedAt": "2026-11-11T18:31:37.454Z"
+    "updatedAt": "2026-11-12T01:25:28.141Z"
   }
 }
