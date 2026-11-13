@@ -1,176 +1,184 @@
 {
-  "fetchedAt": "2026-11-13T07:43:46.261Z",
+  "fetchedAt": "2026-11-13T16:02:24.582Z",
   "feeds": {
     "MarketWatch": {
       "items": [
         {
-          "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
-          "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories"
+          "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+          "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories"
         },
         {
-          "title": "Who can replace Jensen Huang as Nvidia CEO? These four names are buzzing in AI circles.",
-          "link": "https://www.marketwatch.com/story/who-can-replace-jensen-huang-as-nvidia-ceo-these-four-names-are-buzzing-in-ai-circles-66c31ec2?mod=mw_rss_topstories"
+          "title": "14 dividend stocks selected for long-term growth",
+          "link": "https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories"
         },
         {
-          "title": "Opening trading-card packs has become a $2 billion market",
-          "link": "https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories"
+          "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
+          "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories"
         },
         {
-          "title": "Bond yields just saw their biggest surge since 2022 as expectations grow for more Fed rate hikes",
-          "link": "https://www.marketwatch.com/story/bond-yields-just-saw-their-biggest-surge-since-2022-as-expectations-grow-for-more-fed-rate-hikes-d0a4f195?mod=mw_rss_topstories"
+          "title": "Microsoft Outlook outage stretches into a second day, causing widespread disruption",
+          "link": "https://www.marketwatch.com/story/microsoft-stock-slumps-on-outage-that-includes-the-copilot-tool-it-has-been-heavily-promoting-4007dc4f?mod=mw_rss_topstories"
         },
         {
-          "title": "‘He calls my plans a fantasy’: My husband says we can’t afford our $200,000-a-year dream retirement. I think he’s cheap.",
+          "title": "I’m 17 and will be a first-generation college student. Is law school worth being $200,000 in debt?",
+          "link": "https://www.marketwatch.com/story/im-17-and-will-be-a-first-generation-college-student-is-law-school-worth-being-200-000-in-debt-df9b23c3?mod=mw_rss_topstories"
+        },
+        {
+          "title": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
           "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Am I overpaying for health insurance? How to answer the key question this open-enrollment season.",
-          "link": "https://www.marketwatch.com/story/am-i-overpaying-for-health-insurance-how-to-answer-the-key-question-this-open-enrollment-season-2d00ed55?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-13T07:43:44.467Z"
+      "updatedAt": "2026-11-13T16:02:23.503Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Newsom reveals when he'll decide on 2028 White House bid amid growing speculation",
-          "link": "https://www.foxnews.com/politics/newsom-reveals-when-decide-2028-white-house-bid-growing-speculation"
+          "title": "SEE IT: Door-kicking pranksters target California homes as police warn trend can end badly",
+          "link": "https://www.foxnews.com/us/door-kicking-pranksters-target-california-homes-police-warn-trend-end-badly"
         },
         {
-          "title": "Highly contagious bird flu detected in Wisconsin as officials euthanize infected flock",
-          "link": "https://www.foxnews.com/health/highly-contagious-bird-flu-detected-wisconsin-officials-euthanize-infected-flock"
+          "title": "Al Michaels chokes up during moving tribute to Dan Hicks on Thursday Night Football – his best moment in years",
+          "link": "https://www.foxnews.com/outkick-sports/al-michaels-chokes-up-moving-tribute-dan-hicks-thursday-night-football-best-moment-years"
         },
         {
-          "title": "Jayden Daniels throws three touchdowns as Commanders rally past Giants Thursday night",
-          "link": "https://www.foxnews.com/outkick-sports/jayden-daniels-throws-three-touchdowns-commanders-rally-past-giants-thursday-night"
+          "title": "WWE's Ethan Page feels 'legendary' after winning Intercontinental Championship, talks raising title's prestige",
+          "link": "https://www.foxnews.com/outkick-sports/wwe-ethan-page-legendary-winning-intercontinental-championship-talks-raising-title-prestige"
         },
         {
-          "title": "Stephen A Smith debriefs interview with President Trump, warns Democrats face steep challenge",
-          "link": "https://www.foxnews.com/media/stephen-a-smith-debriefs-interview-president-trump-warns-democrats-face-steep-challenge"
+          "title": "The mistake newly-elected Dems admit they can't afford to make with Trump after sweeping 2026 wins",
+          "link": "https://www.foxnews.com/politics/mistake-newly-elected-dems-admit-cant-afford-make-trump-after-sweeping-2026-wins"
         },
         {
-          "title": "WWE star Brie Bella talks challenges of wine business, describes perfect Las Vegas day",
-          "link": "https://www.foxnews.com/outkick-sports/wwe-star-brie-bella-talks-challenges-wine-business-describes-perfect-las-vegas-day"
+          "title": "Fox News AI Newsletter: 'Godfather of AI' resigns, testing American juggernaut",
+          "link": "https://www.foxnews.com/tech/fox-news-ai-newsletter-godfather-ai-resigns-testing-american-juggernaut"
         },
         {
-          "title": "Pete Crow-Armstrong unanimously ends Shohei Ohtani's run as NL MVP, Yordan Alvarez takes AL MVP for Astros",
-          "link": "https://www.foxnews.com/outkick-sports/pete-crow-armstrong-unanimously-ends-shohei-ohtani-run-nl-mvp-yordan-alvarez-takes-al-mvp-astros"
+          "title": "These cute weighted stuffed animals make great gifts — FOX readers save 15%",
+          "link": "https://www.foxnews.com/deals/hugz-weighted-animals-deal"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-13T07:43:44.711Z"
+      "updatedAt": "2026-11-13T16:02:23.616Z"
     },
     "Real Clear Politics": {
       "items": [
         {
+          "title": "Underestimate Rep. Jeffries at Your Peril",
+          "link": "https://www.realclearpolitics.com/2026/11/13/underestimate_rep_jeffries_at_your_peril_717541.html"
+        },
+        {
+          "title": "White House Needs To Wake Up About the Cost of Living",
+          "link": "https://www.realclearpolitics.com/articles/2026/11/13/white_house_needs_to_wake_up_about_the_cost_of_living.html"
+        },
+        {
           "title": "Huang's Downfall Costs the A.I. Boom a Top Backer",
-          "link": "https://www.realclearpolitics.com/2026/11/12/huangs_downfall_costs_the_ai_boom_a_top_backer_717522.html"
+          "link": "https://www.realclearpolitics.com/2026/11/13/huangs_downfall_costs_the_ai_boom_a_top_backer_717522.html"
+        },
+        {
+          "title": "The Case for a Trump-Xi-Putin Summit",
+          "link": "https://www.realclearpolitics.com/2026/11/13/the_case_for_a_trump-xi-putin_summit_717535.html"
         },
         {
           "title": "Heritage Holds Election Postmortem, Roast of Sen. Thune",
-          "link": "https://www.realclearpolitics.com/2026/11/12/heritage_holds_election_postmortem_roast_of_sen_thune_717523.html"
+          "link": "https://www.realclearpolitics.com/2026/11/13/heritage_holds_election_postmortem_roast_of_sen_thune_717523.html"
         },
         {
-          "title": "Rep. Jordan's MAGA Comeback",
-          "link": "https://www.realclearpolitics.com/2026/11/12/rep_jordans_maga_comeback_717424.html"
-        },
-        {
-          "title": "The Butterfield Fallacy and the Drop in Felony Crime",
-          "link": "https://www.realclearpolitics.com/2026/11/12/the_butterfield_fallacy_and_the_drop_in_felony_crime_717517.html"
-        },
-        {
-          "title": "How Dems Won Big--and Why 2028 Is Up for Grabs",
-          "link": "https://www.realclearpolitics.com/2026/11/12/how_dems_won_big--and_why_2028_is_up_for_grabs_717520.html"
-        },
-        {
-          "title": "Republicans Need DeSantis--Just Not in 2028",
-          "link": "https://www.realclearpolitics.com/2026/11/11/republicans_need_desantis--just_not_in_2028_717375.html"
+          "title": "The Democratic Treatment Plan for the Economy",
+          "link": "https://www.realclearpolitics.com/articles/2026/11/13/the_democratic_treatment_plan_for_the_economy_154682.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-13T07:43:44.956Z"
+      "updatedAt": "2026-11-13T16:02:23.717Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Trump told Huang to fight for his job after affair scandals: Report",
-          "link": "https://thehill.com/homenews/administration/6217994-trump-nvidia-ceo-huang-resignation/"
+          "title": "Peltola extends lead after new Alaska Senate ballots count",
+          "link": "https://thehill.com/the-120/6218667-mary-peltola-alaska-senate-lead/"
         },
         {
-          "title": "Alito warns Congress can ‘turn off the lights’ at Supreme Court",
-          "link": "https://thehill.com/regulation/court-battles/6217960-alito-warns-congress-defunding/"
+          "title": "Russia's economy is reeling — Trump should be raising the pressure if he wants peace",
+          "link": "https://thehill.com/opinion/national-security/6215155-russian-economy-worsens-inflation-rises/"
         },
         {
-          "title": "Jones ousts House Democrat in California",
-          "link": "https://thehill.com/homenews/campaign/6217945-jones-wins-california-house-race/"
+          "title": "Bessent: Treasury pushed to blacklist Megaspeed, but 'Commerce has the pen'",
+          "link": "https://thehill.com/homenews/administration/6218454-bessent-lutnick-megaspeed-dispute/"
         },
         {
-          "title": "Van Hollen says he will challenge Schumer for majority leader",
-          "link": "https://thehill.com/homenews/senate/6217923-van-hollen-challenges-schumer/"
+          "title": "Garcia: Blanche 'hasn't even read the Constitution'",
+          "link": "https://thehill.com/homenews/house/6218558-robert-garcia-todd-blanche-doj-democrats-midterms/"
         },
         {
-          "title": "Boebert blames policy, corruption, 'markets' for possible loss",
-          "link": "https://thehill.com/homenews/house/6217833-boebert-blames-policy-market-losses/"
+          "title": "Colom: 'Not accurate' to say Schumer recruited him",
+          "link": "https://thehill.com/homenews/campaign/6218515-colom-denies-schumer-recruitment/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-13T07:43:45.409Z"
+      "updatedAt": "2026-11-13T16:02:24.119Z"
     },
     "Ars Technica": {
       "items": [
         {
-          "title": "In reversal, American Cancer Society urges routine prostate cancer screening",
-          "link": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/"
+          "title": "Microsoft’s global outage may be worse than Amazon's or CrowdStrike's, expert says",
+          "link": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/"
         },
         {
-          "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-          "link": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
+          "title": "It's the end of the world as we know it, per a physicist's 1960 prediction",
+          "link": "https://arstechnica.com/science/2026/11/its-the-end-of-the-world-as-we-know-it-per-a-physicists-1960-prediction/"
         },
         {
-          "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
-          "link": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/"
+          "title": "Screenless GPS: Slate Auto says, \"Remember the road atlas\"",
+          "link": "https://arstechnica.com/culture/2026/11/screenless-gps-slate-auto-says-remember-the-road-atlas/"
         },
         {
-          "title": "The Elder Scrolls' most obscure adventure gets a 4K PC makeover",
-          "link": "https://arstechnica.com/gaming/2026/11/the-elder-scrolls-most-obscure-adventure-gets-a-4k-pc-makeover/"
+          "title": "Scientists warn 1.5°C climate change threshold could arrive by 2029",
+          "link": "https://arstechnica.com/science/2026/11/scientists-warn-the-1-5c-climate-change-threshold-could-arrive-by-2029/"
         },
         {
-          "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
-          "link": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/"
+          "title": "Rocket Report: Starship set for historic test flight; a century of Electron",
+          "link": "https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-13T07:43:45.524Z"
+      "updatedAt": "2026-11-13T16:02:24.175Z"
     },
     "The Verge": {
       "items": [
         {
-          "title": "Donald Trump really wants Tim Cook to run Nvidia",
-          "link": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang"
+          "title": "The Verge’s 2026 gift guide for dads",
+          "link": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026"
         },
         {
-          "title": "Xbox announces Wolfenstein 3",
-          "link": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3"
+          "title": "My favorite recipe app just got a big upgrade — and a subscription fee",
+          "link": "https://www.theverge.com/tech/1032141/paprika-4-recipe-grocery-pantry-app-update-subscription-hands-on"
         },
         {
-          "title": "Whoop launched a social network where every user has a ‘verified heartbeat’",
-          "link": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network"
+          "title": "The best early Black Friday deals you can already shop",
+          "link": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026"
         },
         {
-          "title": "Humble Bundle redesign removes two-factor verification from settings",
-          "link": "https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings"
+          "title": "Microsoft&#8217;s massive Outlook outage continues",
+          "link": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage"
         },
         {
-          "title": "Microsoft Outlook is still down",
-          "link": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down"
+          "title": "Apple announces release dates for the first Apple Home Collection smart devices",
+          "link": "https://www.theverge.com/tech/1032920/apple-smart-home-collection-release-ship-dates-available-pricing"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-13T07:43:45.674Z"
+      "updatedAt": "2026-11-13T16:02:24.217Z"
     },
     "BBC World": {
       "items": [
+        {
+          "title": "Why is the Microsoft outage lasting so long?",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
+          "link": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
           "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss"
@@ -180,58 +188,50 @@
           "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
-          "link": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss"
+          "title": "UN watchdog 'increasingly concerned' over uninspected Iran nuclear site",
+          "link": "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
-          "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss"
+          "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
+          "link": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
-          "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Australian footballers will not be charged after hotel incident, police say",
-          "link": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
-          "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss"
+          "title": "Nigerian university in mourning after four students die at post-exam party",
+          "link": "https://www.bbc.co.uk/news/articles/cmvg2dvw0355o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-13T07:43:45.886Z"
+      "updatedAt": "2026-11-13T16:02:24.369Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "What we know about the global Microsoft outage",
+          "title": "Why is the Microsoft outage lasting so long?",
           "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Firms help migrants pose as artists and tech experts for 'Global Talent' visas, BBC finds",
-          "link": "https://www.bbc.co.uk/news/articles/cmkgdw24l1kdo?at_medium=RSS&at_campaign=rss"
+          "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
+          "link": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Asylum centre on military base near Piddington approved",
-          "link": "https://www.bbc.co.uk/news/articles/c58j4798874go?at_medium=RSS&at_campaign=rss"
+          "title": "Former Hamas bodyguard guilty of UK knife attack",
+          "link": "https://www.bbc.co.uk/news/articles/c51k9709krxvo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Junior doctor burnout putting maternity patients at risk, says regulator",
-          "link": "https://www.bbc.co.uk/news/articles/ckx28le8dv9wo?at_medium=RSS&at_campaign=rss"
+          "title": "Watch: BBC undercover reporter is offered fake art and awards for talent visa",
+          "link": "https://www.bbc.co.uk/news/videos/cqr7g5j41mezo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "The school where white working-class pupils defy the odds",
-          "link": "https://www.bbc.co.uk/news/articles/cm369259g0j2o?at_medium=RSS&at_campaign=rss"
+          "title": "More women make allegations against Russell Brand",
+          "link": "https://www.bbc.co.uk/news/articles/cme3dwydp857o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Timothée Chalamet and Zendaya prank Rylan Clark for Children in Need",
-          "link": "https://www.bbc.co.uk/news/articles/cqly4lnxn031o?at_medium=RSS&at_campaign=rss"
+          "title": "Reform and Tory spokesmen in angry clash over immigration at Piddington",
+          "link": "https://www.bbc.co.uk/news/articles/cr9d7y937n58o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-13T07:43:45.921Z"
+      "updatedAt": "2026-11-13T16:02:24.412Z"
     },
     "NY Times": {
       "items": [
@@ -244,56 +244,56 @@
           "link": "https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html"
         },
         {
-          "title": "How the Deadly Brooklyn Building Collapse Unfolded",
-          "link": "https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-flatbush.html"
-        },
-        {
-          "title": "What to Know About the Deadly Building Collapse in Brooklyn",
-          "link": "https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-deaths-flatbush-nyc.html"
+          "title": "Huang’s Downfall Could Shake the Economy, and Detainees Have Disappeared From an ICE Database",
+          "link": "https://www.nytimes.com/2026/11/13/podcasts/the-headlines/huang-stocks-economy-ice.html"
         },
         {
           "title": "Chris Van Hollen Set to Challenge Chuck Schumer for Senate Majority Leader",
           "link": "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html"
+        },
+        {
+          "title": "Democrats Eye Strict New Limits on White House Budget Powers",
+          "link": "https://www.nytimes.com/2026/11/13/business/democrats-eye-strict-new-limits-on-white-house-budget-powers.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-13T07:43:46.055Z"
+      "updatedAt": "2026-11-13T16:02:24.449Z"
     }
   },
   "indices": {
     "data": [
       {
         "name": "S&P 500",
-        "price": 7592.4,
-        "pct": 3.24556381591383
+        "price": 7519.36,
+        "pct": 1.9317162044555543
       },
       {
         "name": "Dow Jones",
-        "price": 52297.09,
-        "pct": 1.5022981942454483
+        "price": 52186.9,
+        "pct": 1.757155450453758
       },
       {
         "name": "Nasdaq",
-        "price": 25366.094,
-        "pct": 4.3228213037219865
+        "price": 24941.64,
+        "pct": 1.4736305927354667
       },
       {
         "name": "Gold",
-        "price": 3898.5,
-        "pct": -5.249726576740795
+        "price": 3883.7,
+        "pct": -5.6094300644063715
       },
       {
         "name": "Bitcoin",
-        "price": 68793.04,
-        "pct": -8.548046711683838
+        "price": 68679.38,
+        "pct": -8.699143814105085
       },
       {
         "name": "SpaceX",
-        "price": 139.94,
-        "pct": 13.201747290082505
+        "price": 137.05,
+        "pct": 2.070455053250913
       }
     ],
     "ok": true,
-    "updatedAt": "2026-11-13T07:43:46.261Z"
+    "updatedAt": "2026-11-13T16:02:24.582Z"
   }
 }
