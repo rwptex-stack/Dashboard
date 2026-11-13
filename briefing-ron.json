@@ -1,178 +1,182 @@
 {
-  "fetchedAt": "2026-11-13T16:02:24.582Z",
+  "fetchedAt": "2026-11-13T22:26:53.952Z",
   "feeds": {
     "MarketWatch": {
       "items": [
         {
-          "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-          "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories"
+          "title": "Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?",
+          "link": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories"
         },
         {
-          "title": "14 dividend stocks selected for long-term growth",
-          "link": "https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories"
+          "title": "FAA declares rare, nationwide ground stop on flights, citing ‘extraordinary circumstances’",
+          "link": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories"
         },
         {
-          "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
-          "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Microsoft Outlook outage stretches into a second day, causing widespread disruption",
-          "link": "https://www.marketwatch.com/story/microsoft-stock-slumps-on-outage-that-includes-the-copilot-tool-it-has-been-heavily-promoting-4007dc4f?mod=mw_rss_topstories"
-        },
-        {
-          "title": "I’m 17 and will be a first-generation college student. Is law school worth being $200,000 in debt?",
-          "link": "https://www.marketwatch.com/story/im-17-and-will-be-a-first-generation-college-student-is-law-school-worth-being-200-000-in-debt-df9b23c3?mod=mw_rss_topstories"
+          "title": "Global oil supplies are suddenly flowing. Why a crude glut won’t mean cheaper diesel.",
+          "link": "https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories"
         },
         {
           "title": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
           "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories"
+        },
+        {
+          "title": "‘She has a history of financial mismanagement’: My brother cut our sister out of his will. I’ll get everything. Do I tell her?",
+          "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Bitcoin is now below $69,000 and could fall even further if investors cash out to buy into the Anthropic IPO",
+          "link": "https://www.marketwatch.com/story/bitcoin-could-fall-even-further-if-investors-cash-out-to-buy-into-the-anthropic-ipo-5a14f46a?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-13T16:02:23.503Z"
+      "updatedAt": "2026-11-13T22:26:52.424Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "SEE IT: Door-kicking pranksters target California homes as police warn trend can end badly",
-          "link": "https://www.foxnews.com/us/door-kicking-pranksters-target-california-homes-police-warn-trend-end-badly"
+          "title": "Sophie Cunningham laughs at Stephen A Smith's belittling claim about White NBA players",
+          "link": "https://www.foxnews.com/outkick-sports/sophie-cunningham-laughs-stephen-smith-belittling-claim-white-nba-players"
         },
         {
-          "title": "Al Michaels chokes up during moving tribute to Dan Hicks on Thursday Night Football – his best moment in years",
-          "link": "https://www.foxnews.com/outkick-sports/al-michaels-chokes-up-moving-tribute-dan-hicks-thursday-night-football-best-moment-years"
+          "title": "Tennessee running back breaks leg in single-vehicle crash, school says, putting season in doubt",
+          "link": "https://www.foxnews.com/outkick-sports/tennessee-running-back-breaks-leg-single-vehicle-crash-school-says-putting-season-doubt"
         },
         {
-          "title": "WWE's Ethan Page feels 'legendary' after winning Intercontinental Championship, talks raising title's prestige",
-          "link": "https://www.foxnews.com/outkick-sports/wwe-ethan-page-legendary-winning-intercontinental-championship-talks-raising-title-prestige"
+          "title": "Connecticut teacher escorted out of school over classroom crucifix heads to federal appeals court",
+          "link": "https://www.foxnews.com/media/connecticut-teacher-escorted-out-school-over-classroom-crucifix-heads-federal-appeals-court"
         },
         {
-          "title": "The mistake newly-elected Dems admit they can't afford to make with Trump after sweeping 2026 wins",
-          "link": "https://www.foxnews.com/politics/mistake-newly-elected-dems-admit-cant-afford-make-trump-after-sweeping-2026-wins"
+          "title": "‘Saved by the Bell’ star Tiffani Thiessen says she needs hip replacement at 52 after painful diagnosis",
+          "link": "https://www.foxnews.com/entertainment/saved-by-the-bell-star-tiffani-thiessen-needs-hip-replacement-52-after-painful-diagnosis"
         },
         {
-          "title": "Fox News AI Newsletter: 'Godfather of AI' resigns, testing American juggernaut",
-          "link": "https://www.foxnews.com/tech/fox-news-ai-newsletter-godfather-ai-resigns-testing-american-juggernaut"
+          "title": "5 of the unluckiest plays in sports history to revisit in honor of Friday the 13th",
+          "link": "https://www.foxnews.com/outkick-sports/5-unluckiest-plays-sports-history-revisit-honor-friday-13th"
         },
         {
-          "title": "These cute weighted stuffed animals make great gifts — FOX readers save 15%",
-          "link": "https://www.foxnews.com/deals/hugz-weighted-animals-deal"
+          "title": "Severe allergic reaction after sipping energy drink traced to unexpected source",
+          "link": "https://www.foxnews.com/health/severe-allergic-reaction-sipping-energy-drink-traced-unexpected-source"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-13T16:02:23.616Z"
+      "updatedAt": "2026-11-13T22:26:52.684Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "Underestimate Rep. Jeffries at Your Peril",
-          "link": "https://www.realclearpolitics.com/2026/11/13/underestimate_rep_jeffries_at_your_peril_717541.html"
+          "title": "FAA Issues Nationwide Ground Stop for 'Reasons of Safety'",
+          "link": "https://www.realclearpolitics.com/2026/11/13/faa_issues_nationwide_ground_stop_for_reasons_of_safety_717662.html"
         },
         {
-          "title": "White House Needs To Wake Up About the Cost of Living",
-          "link": "https://www.realclearpolitics.com/articles/2026/11/13/white_house_needs_to_wake_up_about_the_cost_of_living.html"
+          "title": "Five Things Trump Administration Has Gotten Right",
+          "link": "https://www.realclearpolitics.com/2026/11/13/five_things_trump_administration_has_gotten_right_717530.html"
         },
         {
-          "title": "Huang's Downfall Costs the A.I. Boom a Top Backer",
-          "link": "https://www.realclearpolitics.com/2026/11/13/huangs_downfall_costs_the_ai_boom_a_top_backer_717522.html"
+          "title": "Democrats: Quit Squabbling and Lower Tariffs",
+          "link": "https://www.realclearpolitics.com/2026/11/13/democrats_quit_squabbling_and_lower_tariffs_717534.html"
         },
         {
-          "title": "The Case for a Trump-Xi-Putin Summit",
-          "link": "https://www.realclearpolitics.com/2026/11/13/the_case_for_a_trump-xi-putin_summit_717535.html"
+          "title": "The Thune Travesty--Get That Guy Out of There",
+          "link": "https://www.realclearpolitics.com/2026/11/13/the_thune_travesty--get_that_guy_out_of_there_717656.html"
         },
         {
-          "title": "Heritage Holds Election Postmortem, Roast of Sen. Thune",
-          "link": "https://www.realclearpolitics.com/2026/11/13/heritage_holds_election_postmortem_roast_of_sen_thune_717523.html"
+          "title": "A Southern Tectonic Shift",
+          "link": "https://www.realclearpolitics.com/2026/11/13/a_southern_tectonic_shift_717532.html"
         },
         {
-          "title": "The Democratic Treatment Plan for the Economy",
-          "link": "https://www.realclearpolitics.com/articles/2026/11/13/the_democratic_treatment_plan_for_the_economy_154682.html"
+          "title": "Is the Jensen Huang, Chinese Spy Narrative Collapsing Already?",
+          "link": "https://www.realclearpolitics.com/2026/11/13/is_the_jensen_huang_chinese_spy_narrative_collapsing_already_717629.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-13T16:02:23.717Z"
+      "updatedAt": "2026-11-13T22:26:52.772Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Peltola extends lead after new Alaska Senate ballots count",
-          "link": "https://thehill.com/the-120/6218667-mary-peltola-alaska-senate-lead/"
+          "title": "Live updates: FAA cites 'extraordinary circumstance' in halting US air traffic",
+          "link": "https://thehill.com/homenews/administration/6217922-live-updates-trump-senate-midterm-elections/"
         },
         {
-          "title": "Russia's economy is reeling — Trump should be raising the pressure if he wants peace",
-          "link": "https://thehill.com/opinion/national-security/6215155-russian-economy-worsens-inflation-rises/"
+          "title": "Fate of Trump's D.C. golf course makeover at East Potomac Park hangs before federal judge",
+          "link": "https://thehill.com/regulation/court-battles/6219769-federal-judge-east-potomac-park-golf-course-hearing/"
         },
         {
-          "title": "Bessent: Treasury pushed to blacklist Megaspeed, but 'Commerce has the pen'",
-          "link": "https://thehill.com/homenews/administration/6218454-bessent-lutnick-megaspeed-dispute/"
+          "title": "Hassett denies report he is leaving White House",
+          "link": "https://thehill.com/homenews/administration/6219713-kevin-hassett-denies-departure/"
         },
         {
-          "title": "Garcia: Blanche 'hasn't even read the Constitution'",
-          "link": "https://thehill.com/homenews/house/6218558-robert-garcia-todd-blanche-doj-democrats-midterms/"
+          "title": "FAA orders nationwide ground stop",
+          "link": "https://thehill.com/policy/transportation/6219722-faa-issues-us-flight-ground-stop/"
         },
         {
-          "title": "Colom: 'Not accurate' to say Schumer recruited him",
-          "link": "https://thehill.com/homenews/campaign/6218515-colom-denies-schumer-recruitment/"
+          "title": "Uber reports US driver's license information stolen during data breach",
+          "link": "https://thehill.com/policy/technology/6219607-uber-drivers-license-data-stolen/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-13T16:02:24.119Z"
+      "updatedAt": "2026-11-13T22:26:53.427Z"
     },
     "Ars Technica": {
       "items": [
         {
-          "title": "Microsoft’s global outage may be worse than Amazon's or CrowdStrike's, expert says",
-          "link": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/"
+          "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
+          "link": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/"
         },
         {
-          "title": "It's the end of the world as we know it, per a physicist's 1960 prediction",
-          "link": "https://arstechnica.com/science/2026/11/its-the-end-of-the-world-as-we-know-it-per-a-physicists-1960-prediction/"
+          "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+          "link": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
         },
         {
-          "title": "Screenless GPS: Slate Auto says, \"Remember the road atlas\"",
-          "link": "https://arstechnica.com/culture/2026/11/screenless-gps-slate-auto-says-remember-the-road-atlas/"
+          "title": "In elephants, the resilience of communities has its limits",
+          "link": "https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/"
         },
         {
-          "title": "Scientists warn 1.5°C climate change threshold could arrive by 2029",
-          "link": "https://arstechnica.com/science/2026/11/scientists-warn-the-1-5c-climate-change-threshold-could-arrive-by-2029/"
+          "title": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good",
+          "link": "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/"
         },
         {
-          "title": "Rocket Report: Starship set for historic test flight; a century of Electron",
-          "link": "https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/"
+          "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+          "link": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-13T16:02:24.175Z"
+      "updatedAt": "2026-11-13T22:26:53.564Z"
     },
     "The Verge": {
       "items": [
         {
-          "title": "The Verge’s 2026 gift guide for dads",
-          "link": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026"
+          "title": "FAA ground stop shuts down flights nationwide",
+          "link": "https://www.theverge.com/news/1033489/faa-ground-stop"
         },
         {
-          "title": "My favorite recipe app just got a big upgrade — and a subscription fee",
-          "link": "https://www.theverge.com/tech/1032141/paprika-4-recipe-grocery-pantry-app-update-subscription-hands-on"
+          "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
         },
         {
-          "title": "The best early Black Friday deals you can already shop",
-          "link": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026"
+          "title": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
+          "link": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale"
         },
         {
-          "title": "Microsoft&#8217;s massive Outlook outage continues",
-          "link": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage"
+          "title": "Here’s how you can save on your GTA VI preorder ahead of launch",
+          "link": "https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale"
         },
         {
-          "title": "Apple announces release dates for the first Apple Home Collection smart devices",
-          "link": "https://www.theverge.com/tech/1032920/apple-smart-home-collection-release-ship-dates-available-pricing"
+          "title": "You can adjust the position of the trackball on Keychron’s new wireless mouse",
+          "link": "https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-13T16:02:24.217Z"
+      "updatedAt": "2026-11-13T22:26:53.732Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Why is the Microsoft outage lasting so long?",
+          "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+          "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
           "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
         },
         {
@@ -180,120 +184,116 @@
           "link": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
-          "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss"
+          "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+          "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-          "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss"
+          "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+          "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "UN watchdog 'increasingly concerned' over uninspected Iran nuclear site",
-          "link": "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss"
+          "title": "The Peruvian city that has embraced Pope Leo as one of its own",
+          "link": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
-          "link": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Nigerian university in mourning after four students die at post-exam party",
-          "link": "https://www.bbc.co.uk/news/articles/cmvg2dvw0355o?at_medium=RSS&at_campaign=rss"
+          "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
+          "link": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-13T16:02:24.369Z"
+      "updatedAt": "2026-11-13T22:26:53.773Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Why is the Microsoft outage lasting so long?",
-          "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
+          "title": "Police investigating David Walliams over reports alleging serious sexual offences",
+          "link": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
-          "link": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss"
+          "title": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
+          "link": "https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+          "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+          "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Former Hamas bodyguard guilty of UK knife attack",
           "link": "https://www.bbc.co.uk/news/articles/c51k9709krxvo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Watch: BBC undercover reporter is offered fake art and awards for talent visa",
-          "link": "https://www.bbc.co.uk/news/videos/cqr7g5j41mezo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "More women make allegations against Russell Brand",
-          "link": "https://www.bbc.co.uk/news/articles/cme3dwydp857o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Reform and Tory spokesmen in angry clash over immigration at Piddington",
-          "link": "https://www.bbc.co.uk/news/articles/cr9d7y937n58o?at_medium=RSS&at_campaign=rss"
+          "title": "New campaign against EU membership launches ahead of UK-EU summit",
+          "link": "https://www.bbc.co.uk/news/articles/c6174l2q99ejo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-13T16:02:24.412Z"
+      "updatedAt": "2026-11-13T22:26:53.779Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew",
-          "link": "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html"
+          "title": "Russia Revives Demand That NATO Retrench to Secure Ukraine Deal",
+          "link": "https://www.nytimes.com/2026/11/13/us/politics/russia-demand-nato-ukraine.html"
         },
         {
-          "title": "Trump Had Urged Nvidia’s Jensen Huang to Fight for His Job",
-          "link": "https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html"
+          "title": "Europe Agrees on a Team to Represent It in Talks With Russia",
+          "link": "https://www.nytimes.com/2026/11/13/world/europe/europe-ukraine-talks-russia.html"
         },
         {
-          "title": "Huang’s Downfall Could Shake the Economy, and Detainees Have Disappeared From an ICE Database",
-          "link": "https://www.nytimes.com/2026/11/13/podcasts/the-headlines/huang-stocks-economy-ice.html"
+          "title": "Jensen Huang’s Resignation From Nvidia Worries the A.I. Start-Up World",
+          "link": "https://www.nytimes.com/2026/11/13/technology/jensen-huang-silicon-valley-start-ups.html"
         },
         {
-          "title": "Chris Van Hollen Set to Challenge Chuck Schumer for Senate Majority Leader",
-          "link": "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html"
+          "title": "Why Jensen Huang Was Essential to Nvidia’s Rise",
+          "link": "https://www.nytimes.com/video/business/100000011275611/why-jensen-huang-was-essential-to-nvidias-rise.html"
         },
         {
-          "title": "Democrats Eye Strict New Limits on White House Budget Powers",
-          "link": "https://www.nytimes.com/2026/11/13/business/democrats-eye-strict-new-limits-on-white-house-budget-powers.html"
+          "title": "Wall Street Loses a Powerful Dealmaker After Nvidia’s CEO Is Ousted",
+          "link": "https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-wall-street.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-13T16:02:24.449Z"
+      "updatedAt": "2026-11-13T22:26:53.821Z"
     }
   },
   "indices": {
     "data": [
       {
         "name": "S&P 500",
-        "price": 7519.36,
-        "pct": 1.9317162044555543
+        "price": 7561.67,
+        "pct": 2.505266468388995
       },
       {
         "name": "Dow Jones",
-        "price": 52186.9,
-        "pct": 1.757155450453758
+        "price": 52347.55,
+        "pct": 2.070400479821579
       },
       {
         "name": "Nasdaq",
-        "price": 24941.64,
-        "pct": 1.4736305927354667
+        "price": 25136.273,
+        "pct": 2.2654837805433274
       },
       {
         "name": "Gold",
-        "price": 3883.7,
-        "pct": -5.6094300644063715
+        "price": 3887.6,
+        "pct": -5.51464333454855
       },
       {
         "name": "Bitcoin",
-        "price": 68679.38,
-        "pct": -8.699143814105085
+        "price": 68195.03,
+        "pct": -9.343028043893398
       },
       {
         "name": "SpaceX",
-        "price": 137.05,
-        "pct": 2.070455053250913
+        "price": 139.11,
+        "pct": 3.6046771430699356
       }
     ],
     "ok": true,
-    "updatedAt": "2026-11-13T16:02:24.582Z"
+    "updatedAt": "2026-11-13T22:26:53.952Z"
   }
 }
