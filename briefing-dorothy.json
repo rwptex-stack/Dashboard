@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-11-12T21:13:25.529Z",
+  "fetchedAt": "2026-11-13T02:14:24.035Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "New York Giants favored at -2 over Commanders as NFC East division lead hangs in balance",
-          "link": "https://www.foxnews.com/outkick-betting/new-york-giants-favored-2-over-commanders-nfc-east-division-lead-hangs-balance"
+          "title": "Texas man executed for beheading 3 children: 'Going to be with my kids'",
+          "link": "https://www.foxnews.com/us/texas-man-executed-beheading-3-children-going-my-kids"
         },
         {
-          "title": "Democrats turn on Schumer after historic election wins as potential challenger emerges",
-          "link": "https://www.foxnews.com/politics/democrats-turn-schumer-historic-election-wins-potential-challenger-emerges"
+          "title": "Kirk Cousins expected a 'mature conversation' to get old Vikings No. 8 back but got a big surprise instead",
+          "link": "https://www.foxnews.com/outkick-sports/kirk-cousins-expected-mature-conversation-get-old-vikings-no-8-back-got-big-surprise-instead"
         },
         {
-          "title": "The loss of Dan Hicks hits hard, Lindsey Vonn has a couple screws loose & Mullen's radical playoff idea",
-          "link": "https://www.foxnews.com/outkick-sports/loss-dan-hicks-hits-hard-lindsey-vonn-couple-screws-loose-mullens-radical-playoff-idea"
+          "title": "Dejounte Murray accuses New Orleans Pelicans of inside 'sabotage' in deleted social media posts",
+          "link": "https://www.foxnews.com/outkick-sports/dejounte-murray-accuses-new-orleans-pelicans-inside-sabotage-deleted-social-media-posts"
         },
         {
-          "title": "Drake Maye tells reporters they don't know 'what they're talking about' during Germany press conference",
-          "link": "https://www.foxnews.com/outkick-sports/drake-maye-tells-reporters-dont-know-what-theyre-talking-about-germany-press-conference"
+          "title": "49ers executive John Lynch has alarming comment about rampant fighting with Raiders fans",
+          "link": "https://www.foxnews.com/outkick-sports/49ers-executive-john-lynch-alarming-comment-rampant-fighting-raiders-fans"
         },
         {
-          "title": "The top Trump officials Democrats admit are on their hit list for investigations in the new Congress",
-          "link": "https://www.foxnews.com/politics/top-trump-officials-democrats-admit-hit-list-investigations-new-congress"
+          "title": "Protecting failing schools and supporting teachers unions is not a winnable strategy, CEO warns",
+          "link": "https://www.foxnews.com/media/protecting-failing-schools-supporting-teachers-unions-not-winnable-strategy-ceo-warns"
         },
         {
-          "title": "Brittany Mahomes is pregnant again, so it's time to buy a Chiefs AFC futures bet",
-          "link": "https://www.foxnews.com/outkick-betting/brittany-mahomes-pregnant-chiefs-afc-futures-bet"
+          "title": "Houston Rockets guard Marcus Smart handed 3-game ban after swinging at Warriors center Charles Bassey",
+          "link": "https://www.foxnews.com/outkick-sports/houston-rockets-guard-marcus-smart-handed-3-game-ban-swinging-warriors-center-charles-bassey"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-12T21:13:22.515Z"
+      "updatedAt": "2026-11-13T02:14:21.333Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,36 +59,44 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-12T21:13:22.944Z"
+      "updatedAt": "2026-11-13T02:14:21.585Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Heritage Foundation head: GOP made midterm 'mistake' on data centers",
-          "link": "https://thehill.com/policy/technology/6217137-heritage-leader-gop-data-center-mistake/"
+          "title": "Boebert blames policy, corruption, 'markets' for possible loss",
+          "link": "https://thehill.com/homenews/house/6217833-boebert-blames-policy-market-losses/"
         },
         {
-          "title": "'Plenty of smoke' around Trump administration corruption allegations: Ben Shapiro",
-          "link": "https://thehill.com/homenews/administration/6217132-shapiro-trump-corruption-smoke/"
+          "title": "Trump on Colom's Mississippi Senate win: 'I give him a lot of credit'",
+          "link": "https://thehill.com/homenews/campaign/6217818-trump-praises-colom-mississippi-victory/"
         },
         {
-          "title": "Trump urges Senate leadership to move $350B reconciliation bill",
-          "link": "https://thehill.com/homenews/senate/6217053-donald-trump-senate-leadership-350b-reconciliation-bill/"
+          "title": "Photos showing White House ballroom's size spark backlash from Clyburn, McGarvey",
+          "link": "https://thehill.com/homenews/house/6217770-democrats-backlash-white-house-ballroom-size/"
         },
         {
-          "title": "Witkoff, Kushner to meet with Zelensky as Ukraine reports Starshield restrictions for second time",
-          "link": "https://thehill.com/policy/international/6217022-witkoff-kushner-zelensky-meeting-starshield-update/"
+          "title": "US Army officer involved in alleged Russian spying scheme identified: Reports",
+          "link": "https://thehill.com/policy/defense/6217738-brandon-tyner-army-russia-espionage-arrest/"
         },
         {
-          "title": "Nate Silver: GOP midterm sting ‘triggers the ending’ of Trump era",
-          "link": "https://thehill.com/homenews/campaign/6216694-nate-silver-trump-era-end/"
+          "title": "Top Dems: CMS must give states more time on Medicaid work rules",
+          "link": "https://thehill.com/newsletters/healthcare/6217769-top-dems-cms-must-give-states-more-time-on-medicaid-work-rules/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-12T21:13:23.671Z"
+      "updatedAt": "2026-11-13T02:14:22.228Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "In reversal, American Cancer Society urges prostate cancer tests for all men",
+          "link": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/"
+        },
+        {
+          "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+          "link": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
+        },
         {
           "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
           "link": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/"
@@ -100,50 +108,50 @@
         {
           "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
           "link": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/"
-        },
-        {
-          "title": "Ukraine says it can’t stop Russian strikes because Starshield is limited again",
-          "link": "https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/"
-        },
-        {
-          "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
-          "link": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-12T21:13:23.740Z"
+      "updatedAt": "2026-11-13T02:14:22.366Z"
     },
     "The Verge": {
       "items": [
         {
-          "title": "Here are the 25 original Xbox games you can now play on PC",
-          "link": "https://www.theverge.com/games/1032321/microsoft-xbox-original-games-pc-backwards-compatibility"
+          "title": "Xbox announces Wolfenstein 3",
+          "link": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3"
         },
         {
-          "title": "Microsoft Outlook is down",
+          "title": "Whoop launched a social network where every user has a ‘verified heartbeat’",
+          "link": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network"
+        },
+        {
+          "title": "Humble Bundle redesign removes two-factor verification from settings",
+          "link": "https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings"
+        },
+        {
+          "title": "Microsoft Outlook is still down",
           "link": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down"
         },
         {
-          "title": "Meet the people who want peptides to be made in America",
-          "link": "https://www.theverge.com/column/1032243/peptides-american-manufacturing-maha"
-        },
-        {
-          "title": "No, AI agents did not discover a previously unknown Maya site",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery"
-        },
-        {
-          "title": "Oh, Palantir is ‘progressive’ now, is it?",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video"
+          "title": "Xbox owners are getting more customizations for backgrounds and the Guide menu",
+          "link": "https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-12T21:13:23.808Z"
+      "updatedAt": "2026-11-13T02:14:22.476Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
-          "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss"
+          "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+          "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+          "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
+          "link": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
@@ -154,83 +162,83 @@
           "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
-          "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss"
+          "title": "Australian footballers will not be charged after hotel incident, police say",
+          "link": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
           "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
-          "link": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-          "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-12T21:13:23.959Z"
+      "updatedAt": "2026-11-13T02:14:22.583Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions",
-          "link": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss"
+          "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+          "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
           "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Microsoft users report outages amid tech giant 'connectivity issues'",
-          "link": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Can Burnham avoid another Labour welfare rebellion?",
-          "link": "https://www.bbc.co.uk/news/articles/c95y100nrm41o?at_medium=RSS&at_campaign=rss"
+          "title": "Junior doctor burnout putting maternity patients at risk, says regulator",
+          "link": "https://www.bbc.co.uk/news/articles/ckx28le8dv9wo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Military base asylum plans granted planning approval",
           "link": "https://www.bbc.co.uk/news/articles/c58j4798874go?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
-          "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss"
+          "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
+          "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "The school where white working-class pupils defy the odds",
+          "link": "https://www.bbc.co.uk/news/articles/cm369259g0j2o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-12T21:13:23.996Z"
+      "updatedAt": "2026-11-13T02:14:22.599Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "Jensen Huang, Nvidia’s Ousted CEO, Was the Face of the A.I. Boom Powering the U.S. Economy",
-          "link": "https://www.nytimes.com/2026/11/12/business/economy/jensen-huang-economy-nvidia-ai.html"
+          "title": "Trump Had Urged Nvidia’s Jensen Huang to Fight for His Job",
+          "link": "https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html"
         },
         {
-          "title": "Nvidia Stock Plunges After Jensen Huang Resigns as CEO",
-          "link": "https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html"
+          "title": "Huang and Lutnick Summoned to Testify Before Congress",
+          "link": "https://www.nytimes.com/2026/11/12/business/jensen-huang-howard-lutnick-testify-capitol-hill.html"
         },
         {
-          "title": "Singapore Says US Not Helpful on Investigation Into Alice Huang and Megaspeed",
-          "link": "https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html"
+          "title": "Rescue Ends in Brooklyn After 8 Die in Building Collapse",
+          "link": "https://www.nytimes.com/2026/11/12/us/brooklyn-building-collapse-deaths.html"
         },
         {
           "title": "What to Know About the Deadly Building Collapse in Brooklyn",
           "link": "https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-deaths-flatbush-nyc.html"
         },
         {
-          "title": "A Frantic Search for Survivors in the Brooklyn Building Collapse",
-          "link": "https://www.nytimes.com/2026/11/12/nyregion/brooklyn-building-collapse-aftermath.html"
+          "title": "Chris Van Hollen Set to Challenge Chuck Schumer for Senate Majority Leader",
+          "link": "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-12T21:13:24.102Z"
+      "updatedAt": "2026-11-13T02:14:22.689Z"
     },
     "ARTNews": {
       "items": [
+        {
+          "title": "Artnet’s Kalshi Partnership Faces Swift Backlash Online, But Advisers Are More Mixed",
+          "link": "https://www.artnews.com/art-news/market/artnet-kalshi-partnership-backlash-art-world-1234805778/"
+        },
+        {
+          "title": "MoMA Shells Out $200,000 for Inaugural Ambasz Prize for ‘Nature-Reconciled’ Architecture, Half of Which Will Go To Plant Trees",
+          "link": "https://www.artnews.com/art-news/news/moma-inaugural-ambasz-prize-nature-architecture-plant-trees-1234805788/"
+        },
         {
           "title": "Lorna Simpson Wins $105,000 Wolfgang Hahn Prize",
           "link": "https://www.artnews.com/art-news/news/lorna-simpson-2027-wolfgang-hahn-prize-1234805680/"
@@ -246,21 +254,25 @@
         {
           "title": "American Novelist and Four Others to Stand Trial Over Sale of Gold Looted from Shipwreck",
           "link": "https://www.artnews.com/art-news/news/american-novelist-stand-trial-over-sale-gold-ingots-looted-1234805740/"
-        },
-        {
-          "title": "Chicago’s Viral ‘Bean’ Stunt Inspires Londoners to Move the Marble Arch",
-          "link": "https://www.artnews.com/art-news/news/londoners-plan-move-marble-arch-inspired-chicago-bean-stunt-1234805742/"
-        },
-        {
-          "title": "Christie’s Posts Highest Watch Total Ever and Sells Bulgari Pink Diamond for $14 M.",
-          "link": "https://www.artnews.com/art-news/market/christies-posts-highest-watch-total-ever-bulgari-pink-1234805692/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-12T21:13:24.229Z"
+      "updatedAt": "2026-11-13T02:14:22.884Z"
     },
     "Hyperallergic": {
       "items": [
+        {
+          "title": "Protesters Urge Steven Spielberg to Boycott MoMA Over Leon Black’s Epstein Ties",
+          "link": "https://hyperallergic.com/protesters-urge-steven-spielberg-to-boycott-moma-over-leon-blacks-epstein-ties/"
+        },
+        {
+          "title": "Print Center and Women’s Studio Workshop Name New Leaders",
+          "link": "https://hyperallergic.com/print-center-and-womens-studio-workshop-name-new-leaders/"
+        },
+        {
+          "title": "How to Free the Art World From Its Neoliberal Capture",
+          "link": "https://hyperallergic.com/how-to-free-the-art-world-from-its-neoliberal-capture/"
+        },
         {
           "title": "After the Midterms, the Real Work for Arts and Culture Begins",
           "link": "https://hyperallergic.com/after-the-midterms-the-real-work-for-arts-and-culture-begins/"
@@ -272,22 +284,10 @@
         {
           "title": "$160,000 Hans Arp Sculpture Stolen From Art Cologne",
           "link": "https://hyperallergic.com/160-000-hans-arp-sculpture-stolen-from-art-cologne/"
-        },
-        {
-          "title": "Hiroshi Sato’s Art Against Enshittification",
-          "link": "https://hyperallergic.com/hiroshi-satos-art-against-enshittification/"
-        },
-        {
-          "title": "Celebrate Indigenous Cinema and Storytelling with Free Films",
-          "link": "https://hyperallergic.com/celebrate-indigenous-cinema-and-storytelling-with-free-short-films/"
-        },
-        {
-          "title": "Rembrandt’s “Night Watch” Is Alive!",
-          "link": "https://hyperallergic.com/rembrandts-night-watch-is-alive/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-12T21:13:24.604Z"
+      "updatedAt": "2026-11-13T02:14:23.255Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-12T21:13:25.351Z"
+      "updatedAt": "2026-11-13T02:14:23.867Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-12T21:13:25.529Z"
+      "updatedAt": "2026-11-13T02:14:24.035Z"
     }
   }
 }
