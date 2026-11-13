@@ -1,8 +1,12 @@
 {
-  "fetchedAt": "2026-11-13T00:02:19.407Z",
+  "fetchedAt": "2026-11-13T07:43:46.261Z",
   "feeds": {
     "MarketWatch": {
       "items": [
+        {
+          "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+          "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories"
+        },
         {
           "title": "Who can replace Jensen Huang as Nvidia CEO? These four names are buzzing in AI circles.",
           "link": "https://www.marketwatch.com/story/who-can-replace-jensen-huang-as-nvidia-ceo-these-four-names-are-buzzing-in-ai-circles-66c31ec2?mod=mw_rss_topstories"
@@ -22,105 +26,101 @@
         {
           "title": "Am I overpaying for health insurance? How to answer the key question this open-enrollment season.",
           "link": "https://www.marketwatch.com/story/am-i-overpaying-for-health-insurance-how-to-answer-the-key-question-this-open-enrollment-season-2d00ed55?mod=mw_rss_topstories"
-        },
-        {
-          "title": "The 10 best stocks for a year-end momentum trade",
-          "link": "https://www.marketwatch.com/story/the-10-best-stocks-for-a-year-end-momentum-trade-8d4cf8f7?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-13T00:02:18.374Z"
+      "updatedAt": "2026-11-13T07:43:44.467Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "TSA discovers suspected cocaine worth $27,750 hidden in coffee container at airport",
-          "link": "https://www.foxnews.com/travel/tsa-discovers-suspected-cocaine-worth-27750-hidden-coffee-container-airport"
+          "title": "Newsom reveals when he'll decide on 2028 White House bid amid growing speculation",
+          "link": "https://www.foxnews.com/politics/newsom-reveals-when-decide-2028-white-house-bid-growing-speculation"
         },
         {
-          "title": "USA soccer sends emotional letter to players about pulling out of U-17 World Cup in Qatar amid Iran war",
-          "link": "https://www.foxnews.com/outkick-sports/usa-soccer-sends-emotional-letter-players-pulling-u-17-world-cup-qatar-amid-iran-war"
+          "title": "Highly contagious bird flu detected in Wisconsin as officials euthanize infected flock",
+          "link": "https://www.foxnews.com/health/highly-contagious-bird-flu-detected-wisconsin-officials-euthanize-infected-flock"
         },
         {
-          "title": "Federal Title IX probe rocks Camas School District after trans runner controversy, superintendent pushes back",
-          "link": "https://www.foxnews.com/outkick-sports/federal-title-ix-probe-rocks-camas-school-district-trans-runner-controversy-superintendent-pushes-back"
+          "title": "Jayden Daniels throws three touchdowns as Commanders rally past Giants Thursday night",
+          "link": "https://www.foxnews.com/outkick-sports/jayden-daniels-throws-three-touchdowns-commanders-rally-past-giants-thursday-night"
         },
         {
-          "title": "Locked On Vikings podcaster gets destroyed on social media for anti-Kirk Cousins take",
-          "link": "https://www.foxnews.com/outkick-sports/locked-vikings-podcaster-destroyed-social-media-anti-kirk-cousins-take"
+          "title": "Stephen A Smith debriefs interview with President Trump, warns Democrats face steep challenge",
+          "link": "https://www.foxnews.com/media/stephen-a-smith-debriefs-interview-president-trump-warns-democrats-face-steep-challenge"
         },
         {
-          "title": "Former owner of Peanut the squirrel, viral pet euthanized by NY officials, detained by ICE",
-          "link": "https://www.foxnews.com/us/former-owner-peanut-squirrel-viral-pet-euthanized-ny-officials-detained-ice"
+          "title": "WWE star Brie Bella talks challenges of wine business, describes perfect Las Vegas day",
+          "link": "https://www.foxnews.com/outkick-sports/wwe-star-brie-bella-talks-challenges-wine-business-describes-perfect-las-vegas-day"
         },
         {
-          "title": "Democrat Cindy Holscher wins Kansas governor's race, extending party's hold on governor's mansion",
-          "link": "https://www.foxnews.com/politics/democrat-cindy-holscher-wins-kansas-governors-race-extending-partys-hold-governors-mansion"
+          "title": "Pete Crow-Armstrong unanimously ends Shohei Ohtani's run as NL MVP, Yordan Alvarez takes AL MVP for Astros",
+          "link": "https://www.foxnews.com/outkick-sports/pete-crow-armstrong-unanimously-ends-shohei-ohtani-run-nl-mvp-yordan-alvarez-takes-al-mvp-astros"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-13T00:02:18.507Z"
+      "updatedAt": "2026-11-13T07:43:44.711Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "Jensen Huang Has Been Ousted as Nvidia CEO",
-          "link": "https://www.realclearpolitics.com/2026/11/12/jensen_huang_has_been_ousted_as_nvidia_ceo_717497.html"
+          "title": "Huang's Downfall Costs the A.I. Boom a Top Backer",
+          "link": "https://www.realclearpolitics.com/2026/11/12/huangs_downfall_costs_the_ai_boom_a_top_backer_717522.html"
         },
         {
-          "title": "Lutnick Stalled Trump Crackdown on Nvidia Chips to China",
-          "link": "https://www.realclearpolitics.com/2026/11/12/lutnick_stalled_trump_crackdown_on_nvidia_chips_to_china_717515.html"
+          "title": "Heritage Holds Election Postmortem, Roast of Sen. Thune",
+          "link": "https://www.realclearpolitics.com/2026/11/12/heritage_holds_election_postmortem_roast_of_sen_thune_717523.html"
         },
         {
-          "title": "Vance Is Right About Political Impact of Iran War",
-          "link": "https://www.realclearpolitics.com/2026/11/12/vance_is_right_about_political_impact_of_iran_war_717513.html"
+          "title": "Rep. Jordan's MAGA Comeback",
+          "link": "https://www.realclearpolitics.com/2026/11/12/rep_jordans_maga_comeback_717424.html"
         },
         {
-          "title": "After Hegseth, Will Trump's Third Impeachment Be Next?",
-          "link": "https://www.realclearpolitics.com/2026/11/12/after_hegseth_will_trumps_third_impeachment_be_next_717419.html"
+          "title": "The Butterfield Fallacy and the Drop in Felony Crime",
+          "link": "https://www.realclearpolitics.com/2026/11/12/the_butterfield_fallacy_and_the_drop_in_felony_crime_717517.html"
         },
         {
-          "title": "Hegseth Doesn't Deserve To Be Impeached",
-          "link": "https://www.realclearpolitics.com/2026/11/12/hegseth_doesnt_deserve_to_be_impeached_717460.html"
+          "title": "How Dems Won Big--and Why 2028 Is Up for Grabs",
+          "link": "https://www.realclearpolitics.com/2026/11/12/how_dems_won_big--and_why_2028_is_up_for_grabs_717520.html"
         },
         {
-          "title": "Dems Made 3 Big Economic Promises. They'll Need To Break One",
-          "link": "https://www.realclearpolitics.com/2026/11/11/dems_made_3_big_economic_promises_theyll_need_to_break_one_717374.html"
+          "title": "Republicans Need DeSantis--Just Not in 2028",
+          "link": "https://www.realclearpolitics.com/2026/11/11/republicans_need_desantis--just_not_in_2028_717375.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-13T00:02:18.551Z"
+      "updatedAt": "2026-11-13T07:43:44.956Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "SpaceX to invest $74B into data center construction projects in Texas, Arizona",
-          "link": "https://thehill.com/policy/technology/6217630-spacex-plans-data-centers-texas-arizona/"
+          "title": "Trump told Huang to fight for his job after affair scandals: Report",
+          "link": "https://thehill.com/homenews/administration/6217994-trump-nvidia-ceo-huang-resignation/"
         },
         {
-          "title": "Congress isn't letting Nvidia's Huang off the hook",
-          "link": "https://thehill.com/newsletters/technology/6217664-congress-isnt-letting-nvidias-huang-off-the-hook/"
+          "title": "Alito warns Congress can ‘turn off the lights’ at Supreme Court",
+          "link": "https://thehill.com/regulation/court-battles/6217960-alito-warns-congress-defunding/"
         },
         {
-          "title": "Poland says Pentagon has 'greenlit' permanent US base",
-          "link": "https://thehill.com/newsletters/defense-national-security/6217655-pentagon-greenlights-poland-base/"
+          "title": "Jones ousts House Democrat in California",
+          "link": "https://thehill.com/homenews/campaign/6217945-jones-wins-california-house-race/"
         },
         {
-          "title": "Senate Democrats weigh December funding deadline to force an end to Iran war",
-          "link": "https://thehill.com/homenews/senate/6217635-senate-democrats-threaten-shutdown-iran/"
+          "title": "Van Hollen says he will challenge Schumer for majority leader",
+          "link": "https://thehill.com/homenews/senate/6217923-van-hollen-challenges-schumer/"
         },
         {
-          "title": "Five takeaways from Nvidia’s Jensen Huang scandal",
-          "link": "https://thehill.com/homenews/analysis/6217604-nvidias-jensen-huang-resigned/"
+          "title": "Boebert blames policy, corruption, 'markets' for possible loss",
+          "link": "https://thehill.com/homenews/house/6217833-boebert-blames-policy-market-losses/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-13T00:02:18.991Z"
+      "updatedAt": "2026-11-13T07:43:45.409Z"
     },
     "Ars Technica": {
       "items": [
         {
-          "title": "In reversal, American Cancer Society urges prostate cancer tests for all men",
+          "title": "In reversal, American Cancer Society urges routine prostate cancer screening",
           "link": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/"
         },
         {
@@ -141,10 +141,18 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-13T00:02:19.067Z"
+      "updatedAt": "2026-11-13T07:43:45.524Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "Donald Trump really wants Tim Cook to run Nvidia",
+          "link": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang"
+        },
+        {
+          "title": "Xbox announces Wolfenstein 3",
+          "link": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3"
+        },
         {
           "title": "Whoop launched a social network where every user has a ‘verified heartbeat’",
           "link": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network"
@@ -156,28 +164,24 @@
         {
           "title": "Microsoft Outlook is still down",
           "link": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down"
-        },
-        {
-          "title": "Xbox owners are getting more customizations for backgrounds and the Guide menu",
-          "link": "https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature"
-        },
-        {
-          "title": "Google’s new Gemini model is better at understanding complicated questions",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-13T00:02:19.131Z"
+      "updatedAt": "2026-11-13T07:43:45.674Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+          "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
           "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
-          "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss"
+          "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+          "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+          "link": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
@@ -188,76 +192,72 @@
           "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
-          "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss"
+          "title": "Australian footballers will not be charged after hotel incident, police say",
+          "link": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
           "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
-          "link": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-13T00:02:19.189Z"
+      "updatedAt": "2026-11-13T07:43:45.886Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-          "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss"
+          "title": "What we know about the global Microsoft outage",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "How AI visionary Jensen Huang was undone by his own bad decisions",
-          "link": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss"
+          "title": "Firms help migrants pose as artists and tech experts for 'Global Talent' visas, BBC finds",
+          "link": "https://www.bbc.co.uk/news/articles/cmkgdw24l1kdo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
-          "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss"
+          "title": "Asylum centre on military base near Piddington approved",
+          "link": "https://www.bbc.co.uk/news/articles/c58j4798874go?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
-          "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss"
+          "title": "Junior doctor burnout putting maternity patients at risk, says regulator",
+          "link": "https://www.bbc.co.uk/news/articles/ckx28le8dv9wo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Microsoft users report outages amid tech giant 'connectivity issues'",
-          "link": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss"
+          "title": "The school where white working-class pupils defy the odds",
+          "link": "https://www.bbc.co.uk/news/articles/cm369259g0j2o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Can Burnham avoid another Labour welfare rebellion?",
-          "link": "https://www.bbc.co.uk/news/articles/c95y100nrm41o?at_medium=RSS&at_campaign=rss"
+          "title": "Timothée Chalamet and Zendaya prank Rylan Clark for Children in Need",
+          "link": "https://www.bbc.co.uk/news/articles/cqly4lnxn031o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-13T00:02:19.209Z"
+      "updatedAt": "2026-11-13T07:43:45.921Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "Jensen Huang, Nvidia’s Ousted CEO, Was the Face of the A.I. Boom Powering the U.S. Economy",
-          "link": "https://www.nytimes.com/2026/11/12/business/economy/jensen-huang-economy-nvidia-ai.html"
+          "title": "Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew",
+          "link": "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html"
         },
         {
-          "title": "7 People Nvidia Could Consider for Its Next C.E.O.",
-          "link": "https://www.nytimes.com/2026/11/12/technology/jensen-huang-nvidia-successor.html"
+          "title": "Trump Had Urged Nvidia’s Jensen Huang to Fight for His Job",
+          "link": "https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html"
         },
         {
-          "title": "Nvidia Stock Tumbles After Jensen Huang Resigns as CEO",
-          "link": "https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html"
+          "title": "How the Deadly Brooklyn Building Collapse Unfolded",
+          "link": "https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-flatbush.html"
         },
         {
-          "title": "An A.I. Titan Resigns",
-          "link": "https://www.nytimes.com/2026/11/12/briefing/nvidia-ceo-resigns-brooklyn-collapse.html"
+          "title": "What to Know About the Deadly Building Collapse in Brooklyn",
+          "link": "https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-deaths-flatbush-nyc.html"
         },
         {
-          "title": "Rescue Ends in Brooklyn After 8 Die in Building Collapse",
-          "link": "https://www.nytimes.com/2026/11/12/us/brooklyn-building-collapse-deaths.html"
+          "title": "Chris Van Hollen Set to Challenge Chuck Schumer for Senate Majority Leader",
+          "link": "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-13T00:02:19.280Z"
+      "updatedAt": "2026-11-13T07:43:46.055Z"
     }
   },
   "indices": {
@@ -279,13 +279,13 @@
       },
       {
         "name": "Gold",
-        "price": 3884.6,
-        "pct": -5.58755620366995
+        "price": 3898.5,
+        "pct": -5.249726576740795
       },
       {
         "name": "Bitcoin",
-        "price": 71367.46,
-        "pct": -5.125669424904419
+        "price": 68793.04,
+        "pct": -8.548046711683838
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-11-13T00:02:19.407Z"
+    "updatedAt": "2026-11-13T07:43:46.261Z"
   }
 }
