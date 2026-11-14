@@ -1,71 +1,71 @@
 {
-  "fetchedAt": "2026-11-13T22:26:53.952Z",
+  "fetchedAt": "2026-11-14T02:58:58.702Z",
   "feeds": {
     "MarketWatch": {
       "items": [
+        {
+          "title": "FAA lifts rare nationwide ground stop on flights; air travel may take days to recover",
+          "link": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories"
+        },
+        {
+          "title": "14 dividend stocks selected for long-term growth",
+          "link": "https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories"
+        },
+        {
+          "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+          "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories"
+        },
+        {
+          "title": "4 expert tips for signing up for Medicare",
+          "link": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories"
+        },
         {
           "title": "Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?",
           "link": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories"
         },
         {
-          "title": "FAA declares rare, nationwide ground stop on flights, citing ‘extraordinary circumstances’",
-          "link": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories"
-        },
-        {
           "title": "Global oil supplies are suddenly flowing. Why a crude glut won’t mean cheaper diesel.",
           "link": "https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories"
-        },
-        {
-          "title": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
-          "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories"
-        },
-        {
-          "title": "‘She has a history of financial mismanagement’: My brother cut our sister out of his will. I’ll get everything. Do I tell her?",
-          "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Bitcoin is now below $69,000 and could fall even further if investors cash out to buy into the Anthropic IPO",
-          "link": "https://www.marketwatch.com/story/bitcoin-could-fall-even-further-if-investors-cash-out-to-buy-into-the-anthropic-ipo-5a14f46a?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-13T22:26:52.424Z"
+      "updatedAt": "2026-11-14T02:58:56.644Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Sophie Cunningham laughs at Stephen A Smith's belittling claim about White NBA players",
-          "link": "https://www.foxnews.com/outkick-sports/sophie-cunningham-laughs-stephen-smith-belittling-claim-white-nba-players"
+          "title": "NBA star Dejounte Murray requests trade after Pelicans clash, public frustration spills onto social media",
+          "link": "https://www.foxnews.com/outkick-sports/nba-star-dejounte-murray-requests-trade-pelicans-clash-public-frustration-spills-social-media"
         },
         {
-          "title": "Tennessee running back breaks leg in single-vehicle crash, school says, putting season in doubt",
-          "link": "https://www.foxnews.com/outkick-sports/tennessee-running-back-breaks-leg-single-vehicle-crash-school-says-putting-season-doubt"
+          "title": "ADF seeks to defend Washington girls' sports measure, argues state cannot fully represent female athletes",
+          "link": "https://www.foxnews.com/outkick-sports/adf-seeks-defend-washington-girls-sports-measure-argues-state-cannot-fully-represent-female-athletes"
         },
         {
-          "title": "Connecticut teacher escorted out of school over classroom crucifix heads to federal appeals court",
-          "link": "https://www.foxnews.com/media/connecticut-teacher-escorted-out-school-over-classroom-crucifix-heads-federal-appeals-court"
+          "title": "Joe Rogan says podcasters have no business at Trump press conferences alongside real journalists",
+          "link": "https://www.foxnews.com/media/joe-rogan-says-podcasters-no-business-trump-press-conferences-alongside-real-journalists"
         },
         {
-          "title": "‘Saved by the Bell’ star Tiffani Thiessen says she needs hip replacement at 52 after painful diagnosis",
-          "link": "https://www.foxnews.com/entertainment/saved-by-the-bell-star-tiffani-thiessen-needs-hip-replacement-52-after-painful-diagnosis"
+          "title": "NBA and NHL teams battle delays as nationwide FAA ground stop disrupts weekend sports travel",
+          "link": "https://www.foxnews.com/outkick-sports/nba-nhl-teams-scramble-nationwide-faa-ground-stop-disrupts-weekend-sports-travel"
         },
         {
-          "title": "5 of the unluckiest plays in sports history to revisit in honor of Friday the 13th",
-          "link": "https://www.foxnews.com/outkick-sports/5-unluckiest-plays-sports-history-revisit-honor-friday-13th"
+          "title": "Bruce Arians says Andrew Luck had a rare skill that even Peyton Manning and Tom Brady lacked",
+          "link": "https://www.foxnews.com/outkick-sports/bruce-arians-andrew-luck-rare-skill-peyton-manning-tom-brady-lacked"
         },
         {
-          "title": "Severe allergic reaction after sipping energy drink traced to unexpected source",
-          "link": "https://www.foxnews.com/health/severe-allergic-reaction-sipping-energy-drink-traced-unexpected-source"
+          "title": "Which current three-loss team would be the most dangerous in this year's College Football Playoff?",
+          "link": "https://www.foxnews.com/outkick-sports/current-three-loss-team-most-dangerous-college-football-playoff"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-13T22:26:52.684Z"
+      "updatedAt": "2026-11-14T02:58:57.056Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "FAA Issues Nationwide Ground Stop for 'Reasons of Safety'",
-          "link": "https://www.realclearpolitics.com/2026/11/13/faa_issues_nationwide_ground_stop_for_reasons_of_safety_717662.html"
+          "title": "FAA Lifts Nationwide Ground Stop",
+          "link": "https://www.realclearpolitics.com/2026/11/13/faa_lifts_nationwide_ground_stop_717662.html"
         },
         {
           "title": "Five Things Trump Administration Has Gotten Right",
@@ -89,36 +89,44 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-13T22:26:52.772Z"
+      "updatedAt": "2026-11-14T02:58:57.423Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Live updates: FAA cites 'extraordinary circumstance' in halting US air traffic",
-          "link": "https://thehill.com/homenews/administration/6217922-live-updates-trump-senate-midterm-elections/"
+          "title": "Airspace reopened after nationwide ground stop",
+          "link": "https://thehill.com/policy/transportation/6220313-faa-lifts-nationwide-ground-stop/"
         },
         {
-          "title": "Fate of Trump's D.C. golf course makeover at East Potomac Park hangs before federal judge",
-          "link": "https://thehill.com/regulation/court-battles/6219769-federal-judge-east-potomac-park-golf-course-hearing/"
+          "title": "Trump, Putin and Xi to meet in first trilateral meeting between leaders",
+          "link": "https://thehill.com/homenews/administration/6220278-trump-putin-xi-trilateral-meeting/"
         },
         {
-          "title": "Hassett denies report he is leaving White House",
-          "link": "https://thehill.com/homenews/administration/6219713-kevin-hassett-denies-departure/"
+          "title": "Rubio, off script, leans into inspiring vision for America as 2028 speculation grows",
+          "link": "https://thehill.com/homenews/administration/6220243-rubio-federalist-society-remarks-2028-preview/"
         },
         {
-          "title": "FAA orders nationwide ground stop",
-          "link": "https://thehill.com/policy/transportation/6219722-faa-issues-us-flight-ground-stop/"
+          "title": "Watch: Duffy, Mullin hold press briefing on FAA nationwide ground stop",
+          "link": "https://thehill.com/video-clips/6220247-watch-duffy-mullin-hold-press-briefing-on-faa-nationwide-ground-stop/"
         },
         {
-          "title": "Uber reports US driver's license information stolen during data breach",
-          "link": "https://thehill.com/policy/technology/6219607-uber-drivers-license-data-stolen/"
+          "title": "Hegseth directs Pentagon CFO to transform military pay systems",
+          "link": "https://thehill.com/newsletters/defense-national-security/6220214-hegseth-directs-pentagon-cfo-to-transform-military-pay-systems/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-13T22:26:53.427Z"
+      "updatedAt": "2026-11-14T02:58:57.970Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+          "link": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/"
+        },
+        {
+          "title": "FAA orders third nationwide ground stop in its history",
+          "link": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/"
+        },
         {
           "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
           "link": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/"
@@ -130,24 +138,20 @@
         {
           "title": "In elephants, the resilience of communities has its limits",
           "link": "https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/"
-        },
-        {
-          "title": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good",
-          "link": "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/"
-        },
-        {
-          "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
-          "link": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-13T22:26:53.564Z"
+      "updatedAt": "2026-11-14T02:58:58.051Z"
     },
     "The Verge": {
       "items": [
         {
-          "title": "FAA ground stop shuts down flights nationwide",
+          "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
           "link": "https://www.theverge.com/news/1033489/faa-ground-stop"
+        },
+        {
+          "title": "Amazon has a plan to index the world’s online shopping data",
+          "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search"
         },
         {
           "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
@@ -160,19 +164,19 @@
         {
           "title": "Here’s how you can save on your GTA VI preorder ahead of launch",
           "link": "https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale"
-        },
-        {
-          "title": "You can adjust the position of the trackball on Keychron’s new wireless mouse",
-          "link": "https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-13T22:26:53.732Z"
+      "updatedAt": "2026-11-14T02:58:58.114Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+          "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+          "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
           "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
         },
         {
@@ -184,68 +188,64 @@
           "link": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss"
         },
         {
+          "title": "Setback for SpaceX Starship rocket's double-catch test",
+          "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
           "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
           "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "The Peruvian city that has embraced Pope Leo as one of its own",
-          "link": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
-          "link": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-13T22:26:53.773Z"
+      "updatedAt": "2026-11-14T02:58:58.238Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Police investigating David Walliams over reports alleging serious sexual offences",
-          "link": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss"
+          "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+          "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
           "link": "https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
-          "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
+          "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+          "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-          "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss"
+          "title": "Police investigating David Walliams over reports alleging serious sexual offences",
+          "link": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Former Hamas bodyguard guilty of UK knife attack",
-          "link": "https://www.bbc.co.uk/news/articles/c51k9709krxvo?at_medium=RSS&at_campaign=rss"
+          "title": "Setback for SpaceX Starship rocket's double-catch test",
+          "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "New campaign against EU membership launches ahead of UK-EU summit",
-          "link": "https://www.bbc.co.uk/news/articles/c6174l2q99ejo?at_medium=RSS&at_campaign=rss"
+          "title": "Goalkeeper involved in fatal collision gets 12-game ban",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cm98xy2j8k1ko?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-13T22:26:53.779Z"
+      "updatedAt": "2026-11-14T02:58:58.262Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "Russia Revives Demand That NATO Retrench to Secure Ukraine Deal",
-          "link": "https://www.nytimes.com/2026/11/13/us/politics/russia-demand-nato-ukraine.html"
+          "title": "Airports Fill Up With Stuck Families and Stranded Travelers",
+          "link": "https://www.nytimes.com/2026/11/13/us/airports-stranded-travelers.html"
         },
         {
-          "title": "Europe Agrees on a Team to Represent It in Talks With Russia",
-          "link": "https://www.nytimes.com/2026/11/13/world/europe/europe-ukraine-talks-russia.html"
+          "title": "Flight Canceled During the FAA Ground Stop? Here’s What to Do.",
+          "link": "https://www.nytimes.com/2026/11/13/us/ground-stop-flight-delays-cancellations-tips.html"
         },
         {
-          "title": "Jensen Huang’s Resignation From Nvidia Worries the A.I. Start-Up World",
-          "link": "https://www.nytimes.com/2026/11/13/technology/jensen-huang-silicon-valley-start-ups.html"
+          "title": "Nvidia Scandal Prompts Questions of What It Means to Be a Spy",
+          "link": "https://www.nytimes.com/2026/11/13/us/politics/nvidia-alice-huang-spy-china.html"
         },
         {
           "title": "Why Jensen Huang Was Essential to Nvidia’s Rise",
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-13T22:26:53.821Z"
+      "updatedAt": "2026-11-14T02:58:58.472Z"
     }
   },
   "indices": {
@@ -284,8 +284,8 @@
       },
       {
         "name": "Bitcoin",
-        "price": 68195.03,
-        "pct": -9.343028043893398
+        "price": 67619.46,
+        "pct": -8.275434169125049
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-11-13T22:26:53.952Z"
+    "updatedAt": "2026-11-14T02:58:58.702Z"
   }
 }
