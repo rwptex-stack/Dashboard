@@ -1,124 +1,132 @@
 {
-  "fetchedAt": "2026-11-14T10:08:47.803Z",
+  "fetchedAt": "2026-11-14T16:55:46.583Z",
   "feeds": {
     "MarketWatch": {
       "items": [
         {
-          "title": "FAA lifts rare nationwide ground stop on flights; air travel may take days to recover",
-          "link": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories"
+          "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+          "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories"
         },
         {
-          "title": "14 dividend stocks selected for long-term growth",
-          "link": "https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories"
+          "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
+          "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories"
         },
         {
           "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
           "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories"
         },
         {
-          "title": "4 expert tips for signing up for Medicare",
-          "link": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories"
+          "title": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything. Do I tell her?",
+          "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories"
         },
         {
-          "title": "Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?",
-          "link": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories"
+          "title": "U.S. air travel could take days to recover after FAA’s lifting of rare nationwide ground stop",
+          "link": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories"
         },
         {
-          "title": "Global oil supplies are suddenly flowing. Why a crude glut won’t mean cheaper diesel.",
-          "link": "https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories"
+          "title": "What’s the most tax-efficient way to donate to charity?",
+          "link": "https://www.marketwatch.com/story/whats-the-most-tax-efficient-way-to-donate-to-charity-3f5864bb?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-14T10:08:46.431Z"
+      "updatedAt": "2026-11-14T16:55:45.451Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Massie's push to impeach Hegseth splits constituents in his own backyard: 'Pure spite'",
-          "link": "https://www.foxnews.com/politics/massie-push-impeach-hegseth-splits-constituents-backyard-pure-spite"
+          "title": "Updated start times for college football games affected by FAA ground stop, broken down by conference",
+          "link": "https://www.foxnews.com/outkick-sports/updated-start-times-college-football-games-affected-faa-ground-stop-broken-down-conference"
         },
         {
-          "title": "Blue wave meets ballot box surprises as voters split on abortion, voter ID and billionaire taxes",
-          "link": "https://www.foxnews.com/politics/blue-wave-meets-ballot-box-surprises-voters-split-abortion-voter-id-billionaire-taxes"
+          "title": "Dems seize on midterm rout to demand ICE reform but polls reveal a twist in who prioritized immigration",
+          "link": "https://www.foxnews.com/politics/dems-seize-midterm-rout-demand-ice-reform-polls-reveal-twist-prioritized-immigration"
         },
         {
-          "title": "Democrat flips Alaska governor's mansion after Trump-backed GOP infighting",
-          "link": "https://www.foxnews.com/politics/democrat-flips-alaska-governors-mansion-trump-backed-gop-infighting"
+          "title": "One of the biggest upsets of the high school football season took place last night in Florida",
+          "link": "https://www.foxnews.com/outkick-sports/biggest-upsets-high-school-football-season-florida"
         },
         {
-          "title": "Mike Evans ruled out, Trent Williams questionable as NFC-leading 49ers' injury concerns persist",
-          "link": "https://www.foxnews.com/outkick-sports/mike-evans-ruled-out-trent-williams-questionable-nfc-leading-49ers-injury-concerns-persist"
+          "title": "Test your pop culture: From Hollywood to the Heartland",
+          "link": "https://www.foxnews.com/entertainment/test-your-pop-culture-from-hollywood-heartland-32"
         },
         {
-          "title": "Kentucky needs buzzer-beating three to survive Northern Arizona's upset bid at Rupp Arena",
-          "link": "https://www.foxnews.com/outkick-sports/kentucky-needs-buzzer-beating-three-survive-northern-arizona-upset-bid-rupp-arena"
+          "title": "Lewis Hamilton's Gaza Instagram posts draw scrutiny after visit to Egypt's Rafah Crossing border",
+          "link": "https://www.foxnews.com/outkick-sports/lewis-hamilton-gaza-instagram-posts-draw-scrutiny-visit-egypt-rafah-crossing-border"
         },
         {
-          "title": "Cowboys owner Jerry Jones updates timeline for NFL's 18-game schedule, floats preseason reduction",
-          "link": "https://www.foxnews.com/outkick-sports/cowboys-owner-jerry-jones-updates-timeline-nfl-18-game-schedule-floats-preseason-reduction"
+          "title": "Democrats eye killing Senate filibuster as lawmaker warns move could be a 'double-edged sword'",
+          "link": "https://www.foxnews.com/politics/democrats-eye-killing-senate-filibuster-lawmaker-warns-move-could-double-edged-sword"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-14T10:08:46.645Z"
+      "updatedAt": "2026-11-14T16:55:45.534Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "FAA Lifts Nationwide Ground Stop",
-          "link": "https://www.realclearpolitics.com/2026/11/13/faa_lifts_nationwide_ground_stop_717662.html"
+          "title": "Justice Kagan Is No Court or Election Soothsayer",
+          "link": "https://www.realclearpolitics.com/2026/11/14/justice_kagan_is_no_court_or_election_soothsayer_717741.html"
         },
         {
-          "title": "Five Things Trump Administration Has Gotten Right",
-          "link": "https://www.realclearpolitics.com/2026/11/13/five_things_trump_administration_has_gotten_right_717530.html"
+          "title": "Justice Alito Warns of Threats to Judicial Independence",
+          "link": "https://www.realclearpolitics.com/2026/11/14/justice_alito_warns_of_threats_to_judicial_independence_717659.html"
         },
         {
-          "title": "Democrats: Quit Squabbling and Lower Tariffs",
-          "link": "https://www.realclearpolitics.com/2026/11/13/democrats_quit_squabbling_and_lower_tariffs_717534.html"
+          "title": "Van Hollen's Valuable Challenge to Schumer",
+          "link": "https://www.realclearpolitics.com/2026/11/14/van_hollens_valuable_challenge_to_schumer_717767.html"
         },
         {
-          "title": "The Thune Travesty--Get That Guy Out of There",
-          "link": "https://www.realclearpolitics.com/2026/11/13/the_thune_travesty--get_that_guy_out_of_there_717656.html"
+          "title": "Is There Any Escape From Political Blame Game?",
+          "link": "https://www.realclearpolitics.com/2026/11/14/is_there_any_escape_from_political_blame_game_717765.html"
         },
         {
-          "title": "A Southern Tectonic Shift",
-          "link": "https://www.realclearpolitics.com/2026/11/13/a_southern_tectonic_shift_717532.html"
+          "title": "Midterm Avalanche Reveals a New Political Geography",
+          "link": "https://www.realclearpolitics.com/2026/11/14/midterm_avalanche_reveals_a_new_political_geography_717764.html"
         },
         {
-          "title": "Is the Jensen Huang, Chinese Spy Narrative Collapsing Already?",
-          "link": "https://www.realclearpolitics.com/2026/11/13/is_the_jensen_huang_chinese_spy_narrative_collapsing_already_717629.html"
+          "title": "Rubio's Federalist Society Performance Fuels 2028 Fire",
+          "link": "https://www.realclearpolitics.com/2026/11/14/rubios_federalist_society_performance_fuels_2028_fire_717703.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-14T10:08:46.819Z"
+      "updatedAt": "2026-11-14T16:55:45.663Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Democrat flips Alaska governor's office",
-          "link": "https://thehill.com/homenews/campaign/6182120-democrat-kreiss-tomkins-wins-alaska/"
+          "title": "Musk: 'Critical deals will be lost' at Nvidia without Huang",
+          "link": "https://thehill.com/policy/technology/6220693-elon-musk-predicts-nvidia-losses/"
         },
         {
-          "title": "AI company behind FAA's SMART tool denies link to ground stop, Duffy confirms",
-          "link": "https://thehill.com/policy/transportation/6220416-faa-smart-ai-ground-stop-denial/"
+          "title": "A different kind of ticket-splitting",
+          "link": "https://thehill.com/opinion/campaign/6219403-midterm-election-ticket-splitting-results/"
         },
         {
-          "title": "Duffy, Mullin call for $50B air travel 'overhaul' in fiery ground stop briefing",
-          "link": "https://thehill.com/policy/transportation/6220399-duffy-billions-air-traffic-ground-stop/"
+          "title": "FAA ground stop leads to multiple delays, postponements in college football",
+          "link": "https://thehill.com/policy/sports-gaming/6220667-faa-ground-stop-college-football-delays/"
         },
         {
-          "title": "Airspace reopened after nationwide ground stop",
-          "link": "https://thehill.com/policy/transportation/6220313-faa-lifts-nationwide-ground-stop/"
+          "title": "Democrats win an election and immediately move to subvert democracy",
+          "link": "https://thehill.com/opinion/campaign/6218044-democrats-undermine-democratic-norms/"
         },
         {
-          "title": "Trump, Putin and Xi to meet in first trilateral meeting between leaders",
-          "link": "https://thehill.com/homenews/administration/6220278-trump-putin-xi-trilateral-meeting/"
+          "title": "3,000+ flights canceled after FAA's ground stop",
+          "link": "https://thehill.com/policy/transportation/6220654-us-air-traffic-cancellations-delays/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-14T10:08:47.412Z"
+      "updatedAt": "2026-11-14T16:55:46.153Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "James Webb telescope finds ice older than the star it orbits",
+          "link": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/"
+        },
+        {
+          "title": "Winemakers are learning that conservation can be good for business",
+          "link": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/"
+        },
         {
           "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
           "link": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/"
@@ -130,44 +138,36 @@
         {
           "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
           "link": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/"
-        },
-        {
-          "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-          "link": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
-        },
-        {
-          "title": "In elephants, the resilience of communities has its limits",
-          "link": "https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-14T10:08:47.507Z"
+      "updatedAt": "2026-11-14T16:55:46.238Z"
     },
     "The Verge": {
       "items": [
         {
-          "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
-          "link": "https://www.theverge.com/news/1033489/faa-ground-stop"
+          "title": "Here are our favorite deals from REI’s giant Holiday Sale",
+          "link": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026"
         },
         {
-          "title": "Amazon has a plan to index the world’s online shopping data",
-          "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search"
+          "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+          "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"
         },
         {
-          "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
+          "title": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
+          "link": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print"
         },
         {
-          "title": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
-          "link": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale"
+          "title": "This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers",
+          "link": "https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on"
         },
         {
-          "title": "Here’s how you can save on your GTA VI preorder ahead of launch",
-          "link": "https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale"
+          "title": "A gadget to make your dumb house smarter",
+          "link": "https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-14T10:08:47.609Z"
+      "updatedAt": "2026-11-14T16:55:46.282Z"
     },
     "BBC World": {
       "items": [
@@ -176,32 +176,32 @@
           "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-          "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss"
+          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Italy fines Meta €805m over accessing users' photos",
+          "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
+          "link": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
           "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Microsoft says services fully restored after day-long global outage",
-          "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Setback for SpaceX Starship rocket's double-catch test",
+          "title": "Second catch attempt for SpaceX Starship rocket",
           "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-          "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-          "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss"
+          "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
+          "link": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-14T10:08:47.658Z"
+      "updatedAt": "2026-11-14T16:55:46.451Z"
     },
     "BBC News": {
       "items": [
@@ -210,28 +210,28 @@
           "link": "https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "What we know about the US ground stop and what to do if your flight is affected",
-          "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss"
+          "title": "Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight",
+          "link": "https://www.bbc.co.uk/news/articles/cmg46qgkl7r4o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-          "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss"
+          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Microsoft says services fully restored after day-long global outage",
-          "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
+          "title": "Noel Fielding 'appalled' by jokes he made with Russell Brand",
+          "link": "https://www.bbc.co.uk/news/articles/cw808ll7x093o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Cruise ship left on its side after collision with tanker on Mississippi",
-          "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss"
+          "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
+          "link": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Widespread frost and freezing fog as cold health alerts continue",
-          "link": "https://www.bbc.co.uk/weather/articles/cqlyml59mdj0o?at_medium=RSS&at_campaign=rss"
+          "title": "Brand, Walliams and Married at First Sight: Is this a reckoning for the entertainment industry?",
+          "link": "https://www.bbc.co.uk/news/articles/cqn70lz71lg8o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-14T10:08:47.668Z"
+      "updatedAt": "2026-11-14T16:55:46.458Z"
     },
     "NY Times": {
       "items": [
@@ -240,24 +240,24 @@
           "link": "https://www.nytimes.com/2026/11/13/us/faa-ground-stop-flights-what-to-know.html"
         },
         {
-          "title": "Flight Canceled During the FAA Ground Stop? Here’s What to Do.",
-          "link": "https://www.nytimes.com/2026/11/13/us/ground-stop-flight-delays-cancellations-tips.html"
-        },
-        {
           "title": "Nvidia Scandal Prompts Questions of What It Means to Be a Spy",
           "link": "https://www.nytimes.com/2026/11/13/us/politics/nvidia-alice-huang-spy-china.html"
         },
         {
-          "title": "Why Jensen Huang Was Essential to Nvidia’s Rise",
-          "link": "https://www.nytimes.com/video/business/100000011275611/why-jensen-huang-was-essential-to-nvidias-rise.html"
+          "title": "What’s Behind the Trump-Huang Relationship?",
+          "link": "https://www.nytimes.com/video/us/politics/100000011272223/whats-behind-the-trump-huang-relationship.html"
         },
         {
-          "title": "Wall Street Loses a Powerful Dealmaker After Nvidia’s CEO Is Ousted",
-          "link": "https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-wall-street.html"
+          "title": "The Jensen Huang Scandal Has Shocked Even Scandal-Prone Silicon Valley",
+          "link": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-scandal-silicon-valley.html"
+        },
+        {
+          "title": "Alaska Senate Race Between Dan Sullivan and Mary Peltola Still Counting Votes",
+          "link": "https://www.nytimes.com/2026/11/14/us/alaska-senate-race-ranked-choice-tabulation.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-14T10:08:47.717Z"
+      "updatedAt": "2026-11-14T16:55:46.479Z"
     }
   },
   "indices": {
@@ -284,8 +284,8 @@
       },
       {
         "name": "Bitcoin",
-        "price": 67236.91,
-        "pct": -8.794356276142784
+        "price": 65367.48,
+        "pct": -11.330204020286446
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-11-14T10:08:47.803Z"
+    "updatedAt": "2026-11-14T16:55:46.583Z"
   }
 }
