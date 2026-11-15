@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-11-15T02:14:38.072Z",
+  "fetchedAt": "2026-11-15T10:05:29.661Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Top-ranked Georgia rolls past Missouri, moves closer to SEC championship game return",
-          "link": "https://www.foxnews.com/outkick-sports/top-ranked-georgia-rolls-past-missouri-moves-closer-sec-championship-game-return"
+          "title": "UPS cargo plane, Copa Airlines passenger jet collide at Miami airport, leaving 2 injured",
+          "link": "https://www.foxnews.com/us/ups-cargo-plane-copa-airlines-passenger-jet-collide-miami-airport-leaving-2-injured"
         },
         {
-          "title": "Kristin Cavallari makes steamy bedroom confession ahead of 40th birthday",
-          "link": "https://www.foxnews.com/entertainment/kristin-cavallari-steamy-bedroom-confession-ahead-40th-birthday"
+          "title": "Arch Manning turns Death Valley into LSU’s funeral as Texas buries Lane Kiffin’s CFP hopes",
+          "link": "https://www.foxnews.com/outkick-sports/arch-manning-overcomes-sloppy-performance-clutch-td-pass-lift-texas-lsu-crucial-matchup"
         },
         {
-          "title": "Indiana Hoosiers boost College Football Playoff hopes with 27-13 win over USC Trojans",
-          "link": "https://www.foxnews.com/outkick-sports/indiana-hoosiers-boost-college-football-playoff-hopes-27-13-win-usc-trojans"
+          "title": "Masked dirt bike riders swarm SUV in brazen NYC street attack, sparking police crackdown",
+          "link": "https://www.foxnews.com/us/masked-dirt-bike-riders-swarm-suv-brazen-nyc-street-attack-sparking-police-crackdown"
         },
         {
-          "title": "Robot dogs mounted with rifles deployed in anti-gang stadium operation in Haiti",
-          "link": "https://www.foxnews.com/world/robot-dogs-mounted-rifles-deployed-anti-gang-stadium-operation-haiti"
+          "title": "Benches clear in chaotic postgame brawl after Louisville Cardinals top North Carolina Tar Heels",
+          "link": "https://www.foxnews.com/outkick-sports/benches-clear-chaotic-postgame-brawl-louisville-cardinals-top-north-carolina-tar-heels"
         },
         {
-          "title": "Millions of Americans use marijuana to sleep, but new study raises troubling questions",
-          "link": "https://www.foxnews.com/health/millions-americans-use-marijuana-sleep-study-raises-troubling-questions"
+          "title": "Kenneth Walker III out against NFL rushing leader Bijan Robinson's Falcons, Patrick Mahomes off injury report",
+          "link": "https://www.foxnews.com/outkick-sports/kenneth-walker-iii-out-against-nfl-rushing-leader-bijan-robinson-falcons-patrick-mahomes-off-injury-report"
         },
         {
-          "title": "Private planes and roadtrips: AEW goes above and beyond to get to Phoenix for Full Gear despite travel chaos",
-          "link": "https://www.foxnews.com/outkick-sports/private-planes-roadtrips-aew-goes-above-beyond-phoenix-full-gear-despite-travel-chaos"
+          "title": "Georgia football three-star recruit Marcellus Young Casario dies after 'medical emergency,' high school says",
+          "link": "https://www.foxnews.com/outkick-sports/georgia-football-three-star-recruit-marcellus-young-casario-dies-after-medical-emergency-high-school-says"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-15T02:14:35.723Z"
+      "updatedAt": "2026-11-15T10:05:28.196Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,10 +59,18 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-15T02:14:35.950Z"
+      "updatedAt": "2026-11-15T10:05:28.398Z"
     },
     "The Hill": {
       "items": [
+        {
+          "title": "SpaceX catches Starship for first time, drawing praise in Washington",
+          "link": "https://thehill.com/policy/technology/6221123-spacex-starship-historic-landing-lawmakers-react/"
+        },
+        {
+          "title": "Federal judge temporarily blocks Trump administration from closing East Potomac Park",
+          "link": "https://thehill.com/regulation/court-battles/6221069-judge-blocks-east-potomac-park-closure/"
+        },
         {
           "title": "Bigger and more-frequent wildfires threaten water supplies across the US",
           "link": "https://thehill.com/policy/energy-environment/6220821-wildfire-contamination-drinking-water-rises/"
@@ -74,23 +82,15 @@
         {
           "title": "Sunday shows preview: Democrats gear Trump administration probes amid leadership disputes",
           "link": "https://thehill.com/homenews/sunday-talk-shows/6220953-sunday-shows-trump-cabinet-democrats-congress/"
-        },
-        {
-          "title": "Federalist Society's celebrations mix with shock over Democratic sweep",
-          "link": "https://thehill.com/policy/6220956-federalist-society-convention-midterm-shock/"
-        },
-        {
-          "title": "Burchett rips Johnson, Thune over FAA funding: 'Step up to the daggum plate'",
-          "link": "https://thehill.com/homenews/house/6220943-burchett-urges-gop-aviation-funding/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-15T02:14:36.581Z"
+      "updatedAt": "2026-11-15T10:05:28.661Z"
     },
     "Ars Technica": {
       "items": [
         {
-          "title": "With Starship catch, SpaceX still shows it can dazzle the world",
+          "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
           "link": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/"
         },
         {
@@ -111,7 +111,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-15T02:14:36.699Z"
+      "updatedAt": "2026-11-15T10:05:28.746Z"
     },
     "The Verge": {
       "items": [
@@ -137,71 +137,71 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-15T02:14:36.826Z"
+      "updatedAt": "2026-11-15T10:05:28.840Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
-          "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
           "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Italy fines Meta €805m over accessing users' photos",
-          "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss"
+          "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
+          "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
-          "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss"
+          "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+          "link": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+          "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+          "link": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+          "link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Philippines wins first Eurovision Song Contest Asia",
           "link": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
-          "link": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-          "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-15T02:14:36.934Z"
+      "updatedAt": "2026-11-15T10:05:28.908Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-          "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight",
-          "link": "https://www.bbc.co.uk/news/articles/cmg46qgkl7r4o?at_medium=RSS&at_campaign=rss"
+          "title": "Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns",
+          "link": "https://www.bbc.co.uk/news/articles/c6jd7k7g57x5o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Alleged Russell Brand rape victim wants age of consent law changed",
           "link": "https://www.bbc.co.uk/news/articles/cm3rgx9p583zo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+          "title": "Watch: SpaceX catches part of its Starship rocket on return to Earth",
           "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
-          "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss"
+          "title": "Man and woman die in police pursuit crash",
+          "link": "https://www.bbc.co.uk/news/articles/cm3eg8x9zkvno?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
-          "link": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss"
+          "title": "Hannah Fry feels 'unbelievably lucky' after cervical cancer treatment",
+          "link": "https://www.bbc.co.uk/news/articles/cw62p4n3n1xyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+          "link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-15T02:14:36.955Z"
+      "updatedAt": "2026-11-15T10:05:28.920Z"
     },
     "NY Times": {
       "items": [
@@ -214,20 +214,20 @@
           "link": "https://www.nytimes.com/2026/11/14/us/politics/trump-flights-air-traffic-social-media.html"
         },
         {
+          "title": "What to Know About Continued Flight Disruptions",
+          "link": "https://www.nytimes.com/2026/11/14/us/flight-delays-cancelations-what-to-know.html"
+        },
+        {
           "title": "After Relative Silence, Joe Rogan Said MAGA Has Lost the “Podcast Bros”",
           "link": "https://www.nytimes.com/2026/11/14/style/after-relative-silence-joe-rogan-said-trumps-policies-have-lost-the-podcast-bros.html"
         },
         {
           "title": "Perhaps the Rumors of Democracy’s Demise Were Premature",
           "link": "https://www.nytimes.com/2026/11/14/magazine/democracy-midterm-elections.html"
-        },
-        {
-          "title": "Top Democrat Eyes Filibuster-Proof Budget Bill to Unlock Affordability Agenda",
-          "link": "https://www.nytimes.com/2026/11/14/us/politics/house-democrats-affordability-costs-budget.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-15T02:14:37.091Z"
+      "updatedAt": "2026-11-15T10:05:29.032Z"
     },
     "ARTNews": {
       "items": [
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-15T02:14:37.249Z"
+      "updatedAt": "2026-11-15T10:05:29.134Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-15T02:14:37.487Z"
+      "updatedAt": "2026-11-15T10:05:29.237Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-15T02:14:37.921Z"
+      "updatedAt": "2026-11-15T10:05:29.596Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-15T02:14:38.072Z"
+      "updatedAt": "2026-11-15T10:05:29.661Z"
     }
   }
 }
