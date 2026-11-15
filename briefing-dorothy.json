@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-11-14T22:47:46.646Z",
+  "fetchedAt": "2026-11-15T02:14:38.072Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Fetterman warns there is no longer 'common ground' with far-left Democrats over Israel",
-          "link": "https://www.foxnews.com/media/fetterman-warns-no-longer-common-ground-far-left-democrats-israel"
+          "title": "Top-ranked Georgia rolls past Missouri, moves closer to SEC championship game return",
+          "link": "https://www.foxnews.com/outkick-sports/top-ranked-georgia-rolls-past-missouri-moves-closer-sec-championship-game-return"
         },
         {
-          "title": "Iowa State running back has massive 3 TD opening quarter, caps it off with Michael Jackson impression",
-          "link": "https://www.foxnews.com/outkick-sports/iowa-state-running-back-massive-3-td-opening-quarter-caps-michael-jackson-impression"
+          "title": "Kristin Cavallari makes steamy bedroom confession ahead of 40th birthday",
+          "link": "https://www.foxnews.com/entertainment/kristin-cavallari-steamy-bedroom-confession-ahead-40th-birthday"
         },
         {
-          "title": "Trump takes parting shot at DC golf course conditions one day before major overhaul begins",
-          "link": "https://www.foxnews.com/outkick-sports/trump-takes-parting-shot-dc-golf-course-conditions-one-day-before-major-overhaul-begins"
+          "title": "Indiana Hoosiers boost College Football Playoff hopes with 27-13 win over USC Trojans",
+          "link": "https://www.foxnews.com/outkick-sports/indiana-hoosiers-boost-college-football-playoff-hopes-27-13-win-usc-trojans"
         },
         {
-          "title": "Tom Arnold admits he hasn’t dated in nearly 10 years after calling people his age ‘disgusting’",
-          "link": "https://www.foxnews.com/entertainment/tom-arnold-ready-date-again-nine-years-single-despite-thinking-age-disgusting"
+          "title": "Robot dogs mounted with rifles deployed in anti-gang stadium operation in Haiti",
+          "link": "https://www.foxnews.com/world/robot-dogs-mounted-rifles-deployed-anti-gang-stadium-operation-haiti"
         },
         {
-          "title": "Ohio State's Jeremiah Smith becomes Big Ten's all-time leading receiver in just his third college season",
-          "link": "https://www.foxnews.com/outkick-sports/ohio-state-jeremiah-smith-becomes-big-ten-all-time-leading-receiver-third-college-season"
+          "title": "Millions of Americans use marijuana to sleep, but new study raises troubling questions",
+          "link": "https://www.foxnews.com/health/millions-americans-use-marijuana-sleep-study-raises-troubling-questions"
         },
         {
-          "title": "Maher challenges Sarah Huckabee Sanders on 'socialism' as Arkansas governor defends free school breakfasts",
-          "link": "https://www.foxnews.com/media/maher-challenges-sarah-huckabee-sanders-socialism-arkansas-governor-defends-free-school-breakfasts"
+          "title": "Private planes and roadtrips: AEW goes above and beyond to get to Phoenix for Full Gear despite travel chaos",
+          "link": "https://www.foxnews.com/outkick-sports/private-planes-roadtrips-aew-goes-above-beyond-phoenix-full-gear-despite-travel-chaos"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-14T22:47:44.184Z"
+      "updatedAt": "2026-11-15T02:14:35.723Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,36 +59,40 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-14T22:47:44.349Z"
+      "updatedAt": "2026-11-15T02:14:35.950Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Microsoft services fully restored after global disruptions",
-          "link": "https://thehill.com/policy/technology/6220925-microsoft-services-fully-restored-after-global-disruptions/"
+          "title": "Bigger and more-frequent wildfires threaten water supplies across the US",
+          "link": "https://thehill.com/policy/energy-environment/6220821-wildfire-contamination-drinking-water-rises/"
         },
         {
-          "title": "Italy fines Meta $887M for accessing users' photos without specific consent",
-          "link": "https://thehill.com/policy/technology/6220878-meta-italian-privacy-fine-consent/"
+          "title": "Carney says he's 'making progress' with Trump on possible US-Canada trade deal",
+          "link": "https://thehill.com/policy/international/6221010-carney-trump-canada-us-trade-progress/"
         },
         {
-          "title": "Blumenthal says Lutnick ‘must go’ following Nvidia scandal",
-          "link": "https://thehill.com/homenews/senate/6220891-blumenthal-calls-lutnick-resign-nvidia-scandal/"
+          "title": "Sunday shows preview: Democrats gear Trump administration probes amid leadership disputes",
+          "link": "https://thehill.com/homenews/sunday-talk-shows/6220953-sunday-shows-trump-cabinet-democrats-congress/"
         },
         {
-          "title": "Trump says he's working with bipartisan senators on film industry legislation",
-          "link": "https://thehill.com/business/6220886-trump-bipartisan-film-industry-bill/"
+          "title": "Federalist Society's celebrations mix with shock over Democratic sweep",
+          "link": "https://thehill.com/policy/6220956-federalist-society-convention-midterm-shock/"
         },
         {
-          "title": "The MAGA-lomaniacs who could drag America into the abyss",
-          "link": "https://thehill.com/opinion/white-house/6219083-midterm-rebuke-trump-gop/"
+          "title": "Burchett rips Johnson, Thune over FAA funding: 'Step up to the daggum plate'",
+          "link": "https://thehill.com/homenews/house/6220943-burchett-urges-gop-aviation-funding/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-14T22:47:44.812Z"
+      "updatedAt": "2026-11-15T02:14:36.581Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "With Starship catch, SpaceX still shows it can dazzle the world",
+          "link": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/"
+        },
         {
           "title": "James Webb telescope finds ice older than the star it orbits",
           "link": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/"
@@ -104,14 +108,10 @@
         {
           "title": "FAA has lifted its third-ever nationwide ground stop",
           "link": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/"
-        },
-        {
-          "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
-          "link": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-14T22:47:44.934Z"
+      "updatedAt": "2026-11-15T02:14:36.699Z"
     },
     "The Verge": {
       "items": [
@@ -137,7 +137,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-14T22:47:45.084Z"
+      "updatedAt": "2026-11-15T02:14:36.826Z"
     },
     "BBC World": {
       "items": [
@@ -171,17 +171,13 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-14T22:47:45.289Z"
+      "updatedAt": "2026-11-15T02:14:36.934Z"
     },
     "BBC News": {
       "items": [
         {
           "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
           "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Young people should have legal guarantee of job or training, Milburn tells BBC",
-          "link": "https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight",
@@ -198,20 +194,24 @@
         {
           "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
           "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+          "link": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-14T22:47:45.319Z"
+      "updatedAt": "2026-11-15T02:14:36.955Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "Here’s Why It Could Take Days for Flights to Return to Normal",
-          "link": "https://www.nytimes.com/2026/11/14/us/faa-groundstop-flights-restarting.html"
+          "title": "Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System",
+          "link": "https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html"
         },
         {
-          "title": "How Some Flights Were Exempt From the Ground Stop",
-          "link": "https://www.nytimes.com/2026/11/14/business/faa-ground-stop-exceptions-airlines.html"
+          "title": "Trump Kept Out of Sight as F.A.A. Issued Flight Ground Stop",
+          "link": "https://www.nytimes.com/2026/11/14/us/politics/trump-flights-air-traffic-social-media.html"
         },
         {
           "title": "After Relative Silence, Joe Rogan Said MAGA Has Lost the “Podcast Bros”",
@@ -227,37 +227,37 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-14T22:47:45.408Z"
+      "updatedAt": "2026-11-15T02:14:37.091Z"
     },
     "ARTNews": {
       "items": [
         {
-          "title": "Whitney Museum Is Selling a de Kooning Painting Just Three Years After Receiving It",
-          "link": "https://www.artnews.com/art-news/market/whitney-museum-de-kooning-yellow-river-christies-auction-1234805966/"
+          "title": "ARTnews Awards 2026 Emerging Artist of the Year: Coco Klockner",
+          "link": "https://www.artnews.com/art-news/artists/coco-klockner-artnews-awards-2026-emerging-artist-1234805787/"
         },
         {
-          "title": "Former Philadelphia Museum of Art Executive Charged $30K to Company Cards",
-          "link": "https://www.artnews.com/art-news/news/former-philadelphia-museum-executive-credit-card-charges-1234805960/"
+          "title": "ARTnews Awards 2026 Historical Artist of the Year: Theresa Hak Kyung Cha",
+          "link": "https://www.artnews.com/art-news/artists/theresa-hak-kyung-cha-artnews-awards-2026-historical-artist-1234805840/"
         },
         {
-          "title": "Europol Warns of More Aggressive Museum Heists as Thieves Change Tactics and Targets",
-          "link": "https://www.artnews.com/art-news/news/europol-warns-of-more-aggressive-museum-heists-thieves-change-tactics-targets-1234805942/"
+          "title": "ARTnews Awards 2026 Lifetime Achievement: Maren Hassinger",
+          "link": "https://www.artnews.com/art-news/artists/maren-hassinger-artnews-awards-2026-lifetime-achievement-1234805782/"
         },
         {
-          "title": "Sotheby’s Hedreen Auction Proceeds Will Repay Loan, Not Fund University Museum: Report",
-          "link": "https://www.artnews.com/art-news/news/sothebys-hedreen-auction-proceeds-will-repay-loan-not-fund-university-museum-report-1234805958/"
+          "title": "ARTnews Awards 2026 Best Gallery Group Show: “Horror”",
+          "link": "https://www.artnews.com/art-news/artists/horror-artnews-awards-2026-best-gallery-group-show-1234805784/"
         },
         {
-          "title": "Manhattan Landlord Sues Kehinde Wiley, Claiming He Owes $36,000 in Unpaid Rent",
-          "link": "https://www.artnews.com/art-news/news/kehinde-wiley-landlord-lawsuit-unpaid-rent-1234805862/"
+          "title": "ARTnews Awards 2026 Best Thematic Museum Exhibition: “MONUMENTS”",
+          "link": "https://www.artnews.com/art-news/artists/monuments-artnews-awards-2026-best-thematic-museum-show-1234805839/"
         },
         {
-          "title": "Long-Lost Charles Le Brun Painting Returns to the New Palace in Potsdam",
-          "link": "https://www.artnews.com/art-news/news/lost-charles-le-brun-painting-returned-new-palace-potsdam-1234805935/"
+          "title": "ARTnews Awards 2026 Established Artist of the Year: Vaginal Davis",
+          "link": "https://www.artnews.com/art-news/artists/vaginal-davis-artnews-awards-2026-established-artist-1234805842/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-14T22:47:45.881Z"
+      "updatedAt": "2026-11-15T02:14:37.249Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-14T22:47:46.048Z"
+      "updatedAt": "2026-11-15T02:14:37.487Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-14T22:47:46.515Z"
+      "updatedAt": "2026-11-15T02:14:37.921Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-14T22:47:46.646Z"
+      "updatedAt": "2026-11-15T02:14:38.072Z"
     }
   }
 }
