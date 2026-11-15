@@ -1,126 +1,130 @@
 {
-  "fetchedAt": "2026-11-15T09:04:45.651Z",
+  "fetchedAt": "2026-11-15T16:54:39.949Z",
   "feeds": {
     "MarketWatch": {
       "items": [
         {
-          "title": "SpaceX successfully catches Starship rocket in huge milestone for the space industry",
-          "link": "https://www.marketwatch.com/story/spacex-successfully-catches-starship-rocket-in-huge-milestone-for-the-space-industry-f42c136c?mod=mw_rss_topstories"
+          "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
+          "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories"
         },
         {
-          "title": "I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Is that a good investment?",
-          "link": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories"
-        },
-        {
-          "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
-          "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories"
-        },
-        {
-          "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
-          "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories"
+          "title": "China’s hottest stocks these days have one thing in common: names that sound like sheep",
+          "link": "https://www.marketwatch.com/story/chinas-hottest-stocks-these-days-have-one-thing-in-common-names-that-sound-like-sheep-6176e521?mod=mw_rss_topstories"
         },
         {
           "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
           "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories"
         },
         {
-          "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
-          "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories"
+          "title": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
+          "link": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories"
+        },
+        {
+          "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+          "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Will the Anthropic IPO create a disturbance in the broader U.S. equity market, like SpaceX did?",
+          "link": "https://www.marketwatch.com/story/will-the-anthropic-ipo-create-a-disturbance-in-the-broader-u-s-equity-market-like-spacex-did-05ba4351?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-15T09:04:43.498Z"
+      "updatedAt": "2026-11-15T16:54:38.773Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "UPS cargo plane, Copa Airlines passenger jet collide at Miami airport, leaving 2 injured",
-          "link": "https://www.foxnews.com/us/ups-cargo-plane-copa-airlines-passenger-jet-collide-miami-airport-leaving-2-injured"
+          "title": "AI mosquito trap targets deadly dengue outbreak",
+          "link": "https://www.foxnews.com/tech/ai-mosquito-trap-targets-deadly-dengue-outbreak"
         },
         {
-          "title": "Arch Manning turns Death Valley into LSU’s funeral as Texas buries Lane Kiffin’s CFP hopes",
-          "link": "https://www.foxnews.com/outkick-sports/arch-manning-overcomes-sloppy-performance-clutch-td-pass-lift-texas-lsu-crucial-matchup"
+          "title": "Buttigieg takes swipe at Trump administration amid FAA flight chaos",
+          "link": "https://www.foxnews.com/politics/buttigieg-takes-swipe-trump-administration-amid-faa-flight-chaos"
         },
         {
-          "title": "Masked dirt bike riders swarm SUV in brazen NYC street attack, sparking police crackdown",
-          "link": "https://www.foxnews.com/us/masked-dirt-bike-riders-swarm-suv-brazen-nyc-street-attack-sparking-police-crackdown"
+          "title": "Cruise passengers sharply divided over cutting buffet lines to sneak quick bites",
+          "link": "https://www.foxnews.com/travel/cruise-passengers-sharply-divided-cutting-buffet-lines-sneak-bites"
         },
         {
-          "title": "Benches clear in chaotic postgame brawl after Louisville Cardinals top North Carolina Tar Heels",
-          "link": "https://www.foxnews.com/outkick-sports/benches-clear-chaotic-postgame-brawl-louisville-cardinals-top-north-carolina-tar-heels"
+          "title": "'General Hospital' star Cameron Mathison says ‘red flags’ drove him to demand answers before cancer diagnosis",
+          "link": "https://www.foxnews.com/entertainment/general-hospital-star-cameron-mathison-red-flags-drove-him-demand-answers-cancer-diagnosis"
         },
         {
-          "title": "Kenneth Walker III out against NFL rushing leader Bijan Robinson's Falcons, Patrick Mahomes off injury report",
-          "link": "https://www.foxnews.com/outkick-sports/kenneth-walker-iii-out-against-nfl-rushing-leader-bijan-robinson-falcons-patrick-mahomes-off-injury-report"
+          "title": "America's first Muslim senator exposes a political blind spot",
+          "link": "https://www.foxnews.com/opinion/americas-first-muslim-senator-exposes-political-blind-spot"
         },
         {
-          "title": "Georgia football three-star recruit Marcellus Young Casario dies after 'medical emergency,' high school says",
-          "link": "https://www.foxnews.com/outkick-sports/georgia-football-three-star-recruit-marcellus-young-casario-dies-after-medical-emergency-high-school-says"
+          "title": "NYC DSA urges AOC to run for president while planning to take over City Council",
+          "link": "https://www.foxnews.com/politics/nyc-dsa-urges-aoc-run-president-planning-take-over-city-council"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-15T09:04:43.732Z"
+      "updatedAt": "2026-11-15T16:54:38.871Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "Justice Kagan Is No Court or Election Soothsayer",
-          "link": "https://www.realclearpolitics.com/2026/11/14/justice_kagan_is_no_court_or_election_soothsayer_717741.html"
+          "title": "The Downfall of AI's $5.7 Trillion Man",
+          "link": "https://www.realclearpolitics.com/2026/11/15/the_downfall_of_ais_57_trillion_man_717800.html"
         },
         {
-          "title": "Justice Alito Warns of Threats to Judicial Independence",
-          "link": "https://www.realclearpolitics.com/2026/11/14/justice_alito_warns_of_threats_to_judicial_independence_717659.html"
+          "title": "How Jensen Huang Built a Backdoor To Keep China in AI Race",
+          "link": "https://www.realclearpolitics.com/2026/11/15/how_jensen_huang_built_a_backdoor_to_keep_china_in_ai_race_717781.html"
         },
         {
-          "title": "Van Hollen's Valuable Challenge to Schumer",
-          "link": "https://www.realclearpolitics.com/2026/11/14/van_hollens_valuable_challenge_to_schumer_717767.html"
+          "title": "Trump Is Right, Huang Should've Fought for His Job",
+          "link": "https://www.realclearmarkets.com/articles/2026/11/14/donald_trump_was_right_jensen_huang_should_have_fought_for_his_job_1216720.html"
         },
         {
-          "title": "Is There Any Escape From Political Blame Game?",
-          "link": "https://www.realclearpolitics.com/2026/11/14/is_there_any_escape_from_political_blame_game_717765.html"
+          "title": "Fresh Off Win, Dems Gather With Warning: Don't Mess This Up",
+          "link": "https://www.realclearpolitics.com/2026/11/15/fresh_off_win_dems_gather_with_warning_dont_mess_this_up_717803.html"
         },
         {
-          "title": "Midterm Avalanche Reveals a New Political Geography",
-          "link": "https://www.realclearpolitics.com/2026/11/14/midterm_avalanche_reveals_a_new_political_geography_717764.html"
+          "title": "Why Can't Republicans Be More Like Democrats?",
+          "link": "https://www.realclearpolitics.com/2026/11/15/why_cant_republicans_be_more_like_democrats_717801.html"
         },
         {
-          "title": "Rubio's Federalist Society Performance Fuels 2028 Fire",
-          "link": "https://www.realclearpolitics.com/2026/11/14/rubios_federalist_society_performance_fuels_2028_fire_717703.html"
+          "title": "Republicans Reckon With Arizona Wipeout",
+          "link": "https://www.realclearpolitics.com/2026/11/15/republicans_reckon_with_arizona_wipeout_717789.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-15T09:04:43.924Z"
+      "updatedAt": "2026-11-15T16:54:39.059Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "SpaceX catches Starship for first time, drawing praise in Washington",
-          "link": "https://thehill.com/policy/technology/6221123-spacex-starship-historic-landing-lawmakers-react/"
+          "title": "Pence calls Vance ‘wrong’ on Iran war, GOP midterm losses",
+          "link": "https://thehill.com/homenews/administration/6221381-pence-vance-midterm-losses/"
         },
         {
-          "title": "Federal judge temporarily blocks Trump administration from closing East Potomac Park",
-          "link": "https://thehill.com/regulation/court-battles/6221069-judge-blocks-east-potomac-park-closure/"
+          "title": "Duffy pins ground stop on Congress's lack of funding",
+          "link": "https://thehill.com/homenews/administration/6221360-duffy-blames-congress-air-traffic/"
         },
         {
-          "title": "Bigger and more-frequent wildfires threaten water supplies across the US",
-          "link": "https://thehill.com/policy/energy-environment/6220821-wildfire-contamination-drinking-water-rises/"
+          "title": "AI can improve 911, but humans must remain in charge",
+          "link": "https://thehill.com/opinion/technology/6209185-modernizing-911-via-ai/"
         },
         {
-          "title": "Carney says he's 'making progress' with Trump on possible US-Canada trade deal",
-          "link": "https://thehill.com/policy/international/6221010-carney-trump-canada-us-trade-progress/"
+          "title": "Trump calls on Congress to fund new air traffic control system",
+          "link": "https://thehill.com/policy/transportation/6221316-trump-requests-air-traffic-funding/"
         },
         {
-          "title": "Sunday shows preview: Democrats gear Trump administration probes amid leadership disputes",
-          "link": "https://thehill.com/homenews/sunday-talk-shows/6220953-sunday-shows-trump-cabinet-democrats-congress/"
+          "title": "Van Hollen says 'bunch of nonsense' that he can't win Senate majority leader",
+          "link": "https://thehill.com/the-120/6221313-senate-majority-leader-race-van-hollen/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-15T09:04:44.791Z"
+      "updatedAt": "2026-11-15T16:54:39.410Z"
     },
     "Ars Technica": {
       "items": [
         {
-          "title": "With Starship catch, SpaceX still shows it can dazzle the world",
+          "title": "How the world’s fires changed while humanity hit pause",
+          "link": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/"
+        },
+        {
+          "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
           "link": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/"
         },
         {
@@ -134,130 +138,126 @@
         {
           "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
           "link": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/"
-        },
-        {
-          "title": "FAA has lifted its third-ever nationwide ground stop",
-          "link": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-15T09:04:44.890Z"
+      "updatedAt": "2026-11-15T16:54:39.519Z"
     },
     "The Verge": {
       "items": [
         {
+          "title": "Rachelle Hampton won’t admit how long she spent charting the use of ‘murmur’ in Twilight",
+          "link": "https://www.theverge.com/entertainment/1033895/rachelle-hampton-normal-gossip-interview"
+        },
+        {
+          "title": "LG’s budget-friendly B6E OLED TV is up to 50 percent off this weekend",
+          "link": "https://www.theverge.com/gadgets/1033432/lg-b6e-oled-tv-best-buy-doorbuster-black-friday-2026-deal-sale"
+        },
+        {
+          "title": "The Sony Aibo was a robot revolution dressed like a dog",
+          "link": "https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history"
+        },
+        {
+          "title": "An overview of Jensen Huang’s messy days",
+          "link": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation"
+        },
+        {
           "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
           "link": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch"
-        },
-        {
-          "title": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
-          "link": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series"
-        },
-        {
-          "title": "Work to replace old copper wire led to the FAA’s ground stop",
-          "link": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire"
-        },
-        {
-          "title": "Here are our favorite deals from REI’s giant Holiday Sale",
-          "link": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026"
-        },
-        {
-          "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-          "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-15T09:04:45.062Z"
+      "updatedAt": "2026-11-15T16:54:39.657Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-          "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
+          "title": "Iran targets US military base in Bahrain with drone attack",
+          "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
-          "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss"
+          "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
+          "link": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-          "link": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss"
+          "title": "South Korea's top scorer in tax accountancy exam admits cheating",
+          "link": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
-          "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss"
+          "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+          "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
           "link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Italy fines Meta €805m over accessing users' photos",
-          "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss"
+          "title": "Czechs rally against plan to switch funding of public media",
+          "link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Philippines wins first Eurovision Song Contest Asia",
-          "link": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss"
+          "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+          "link": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-15T09:04:45.285Z"
+      "updatedAt": "2026-11-15T16:54:39.787Z"
     },
     "BBC News": {
       "items": [
+        {
+          "title": "Staggered age of consent to be discussed after Brand case, minister says",
+          "link": "https://www.bbc.co.uk/news/articles/cwdr1dmn563do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Man and woman die and four arrested after police pursuit crash in Leeds",
+          "link": "https://www.bbc.co.uk/news/articles/cm3eg8x9zkvno?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns",
           "link": "https://www.bbc.co.uk/news/articles/c6jd7k7g57x5o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Alleged Russell Brand rape victim wants age of consent law changed",
-          "link": "https://www.bbc.co.uk/news/articles/cm3rgx9p583zo?at_medium=RSS&at_campaign=rss"
+          "title": "Minister backs legal right to job support for young people",
+          "link": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Watch: SpaceX catches part of its Starship rocket on return to Earth",
-          "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss"
+          "title": "Suspected China spy linked to Nvidia's ex-boss left Megaspeed in 2025, company says",
+          "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Hannah Fry feels 'unbelievably lucky' after cervical cancer treatment",
           "link": "https://www.bbc.co.uk/news/articles/cw62p4n3n1xyo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
-          "link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Judo champion shakes up French  presidential race with surprise candidacy",
-          "link": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-15T09:04:45.323Z"
+      "updatedAt": "2026-11-15T16:54:39.805Z"
     },
     "NY Times": {
       "items": [
         {
+          "title": "Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business",
+          "link": "https://www.nytimes.com/2026/11/15/us/politics/trump-lutnick-ai-chips-nvidia-cantor-fitzgerald.html"
+        },
+        {
+          "title": "How Jensen Huang’s Secret Led to His Downfall at Nvidia",
+          "link": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html"
+        },
+        {
+          "title": "Jensen Huang’s Downfall Brings Disbelief in Taiwan",
+          "link": "https://www.nytimes.com/2026/11/15/business/jensen-huang-taiwan.html"
+        },
+        {
+          "title": "5 Big Questions as C.E.O.s Meet in China",
+          "link": "https://www.nytimes.com/2026/11/14/business/dealbook/questions-china-us-apec-summit.html"
+        },
+        {
           "title": "Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System",
           "link": "https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html"
-        },
-        {
-          "title": "Trump Kept Out of Sight as F.A.A. Issued Flight Ground Stop",
-          "link": "https://www.nytimes.com/2026/11/14/us/politics/trump-flights-air-traffic-social-media.html"
-        },
-        {
-          "title": "What to Know About Continued Flight Disruptions",
-          "link": "https://www.nytimes.com/2026/11/14/us/flight-delays-cancelations-what-to-know.html"
-        },
-        {
-          "title": "After Relative Silence, Joe Rogan Said MAGA Has Lost the “Podcast Bros”",
-          "link": "https://www.nytimes.com/2026/11/14/style/after-relative-silence-joe-rogan-said-trumps-policies-have-lost-the-podcast-bros.html"
-        },
-        {
-          "title": "Perhaps the Rumors of Democracy’s Demise Were Premature",
-          "link": "https://www.nytimes.com/2026/11/14/magazine/democracy-midterm-elections.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-15T09:04:45.487Z"
+      "updatedAt": "2026-11-15T16:54:39.827Z"
     }
   },
   "indices": {
@@ -284,8 +284,8 @@
       },
       {
         "name": "Bitcoin",
-        "price": 65725.2,
-        "pct": -11.13949711260015
+        "price": 64528.36,
+        "pct": -12.75762538418784
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-11-15T09:04:45.651Z"
+    "updatedAt": "2026-11-15T16:54:39.949Z"
   }
 }
