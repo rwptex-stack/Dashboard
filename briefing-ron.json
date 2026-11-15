@@ -1,8 +1,16 @@
 {
-  "fetchedAt": "2026-11-14T21:17:28.783Z",
+  "fetchedAt": "2026-11-15T01:41:24.928Z",
   "feeds": {
     "MarketWatch": {
       "items": [
+        {
+          "title": "SpaceX successfully catches Starship rocket in huge milestone for the space industry",
+          "link": "https://www.marketwatch.com/story/spacex-successfully-catches-starship-rocket-in-huge-milestone-for-the-space-industry-f42c136c?mod=mw_rss_topstories"
+        },
+        {
+          "title": "I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Is that a good investment?",
+          "link": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories"
+        },
         {
           "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
           "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories"
@@ -18,48 +26,40 @@
         {
           "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
           "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories"
-        },
-        {
-          "title": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
-          "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
-          "link": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-14T21:17:27.322Z"
+      "updatedAt": "2026-11-15T01:41:22.966Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "5 restaurant chains serving some of the best BBQ brisket in America, from New York to Oklahoma",
-          "link": "https://www.foxnews.com/food-drink/5-restaurant-chains-serving-best-bbq-brisket-america-new-york-oklahoma"
+          "title": "Top-ranked Georgia rolls past Missouri, moves closer to SEC championship game return",
+          "link": "https://www.foxnews.com/outkick-sports/top-ranked-georgia-rolls-past-missouri-moves-closer-sec-championship-game-return"
         },
         {
-          "title": "'Dallas’ star Patrick Duffy says mother was killed rushing to husband after gunmen opened fire at bar",
-          "link": "https://www.foxnews.com/entertainment/dallas-star-patrick-duffy-says-mother-killed-rushing-husband-gunmen-opened-fire-bar"
+          "title": "Kristin Cavallari makes steamy bedroom confession ahead of 40th birthday",
+          "link": "https://www.foxnews.com/entertainment/kristin-cavallari-steamy-bedroom-confession-ahead-40th-birthday"
         },
         {
-          "title": "Minnesota Wild's Brock Faber to make season debut just seven weeks after suffering skull fracture",
-          "link": "https://www.foxnews.com/outkick-sports/minnesota-wild-brock-faber-season-debut-seven-weeks-skull-fracture"
+          "title": "Indiana Hoosiers boost College Football Playoff hopes with 27-13 win over USC Trojans",
+          "link": "https://www.foxnews.com/outkick-sports/indiana-hoosiers-boost-college-football-playoff-hopes-27-13-win-usc-trojans"
         },
         {
-          "title": "Democrats push back across the nation after voters approve girls' sports protections",
-          "link": "https://www.foxnews.com/outkick-sports/democrats-push-back-across-nation-after-voters-approve-girls-sports-protections"
+          "title": "Robot dogs mounted with rifles deployed in anti-gang stadium operation in Haiti",
+          "link": "https://www.foxnews.com/world/robot-dogs-mounted-rifles-deployed-anti-gang-stadium-operation-haiti"
         },
         {
-          "title": "Bruce Buffer recalls wildest UFC brawls in and out of octagon, has strong words for banned Dillon Danis",
-          "link": "https://www.foxnews.com/outkick-sports/bruce-buffer-recalls-wildest-ufc-brawls-octagon-strong-words-banned-dillon-danis"
+          "title": "Millions of Americans use marijuana to sleep, but new study raises troubling questions",
+          "link": "https://www.foxnews.com/health/millions-americans-use-marijuana-sleep-study-raises-troubling-questions"
         },
         {
-          "title": "Kim Kardashian poses in barely-there knit beach dress with fans calling her 'the most beautiful woman'",
-          "link": "https://www.foxnews.com/entertainment/kim-kardashian-poses-barely-there-knit-beach-dress-fans-calling-most-beautiful-woman"
+          "title": "Private planes and roadtrips: AEW goes above and beyond to get to Phoenix for Full Gear despite travel chaos",
+          "link": "https://www.foxnews.com/outkick-sports/private-planes-roadtrips-aew-goes-above-beyond-phoenix-full-gear-despite-travel-chaos"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-14T21:17:27.463Z"
+      "updatedAt": "2026-11-15T01:41:23.202Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -89,36 +89,40 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-14T21:17:27.667Z"
+      "updatedAt": "2026-11-15T01:41:23.379Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Italy fines Meta $887M for accessing users' photos without specific consent",
-          "link": "https://thehill.com/policy/technology/6220878-meta-italian-privacy-fine-consent/"
+          "title": "Bigger and more-frequent wildfires threaten water supplies across the US",
+          "link": "https://thehill.com/policy/energy-environment/6220821-wildfire-contamination-drinking-water-rises/"
         },
         {
-          "title": "Blumenthal says Lutnick ‘must go’ following Nvidia scandal",
-          "link": "https://thehill.com/homenews/senate/6220891-blumenthal-calls-lutnick-resign-nvidia-scandal/"
+          "title": "Carney says he's 'making progress' with Trump on possible US-Canada trade deal",
+          "link": "https://thehill.com/policy/international/6221010-carney-trump-canada-us-trade-progress/"
         },
         {
-          "title": "Trump says he's working with bipartisan senators on film industry legislation",
-          "link": "https://thehill.com/business/6220886-trump-bipartisan-film-industry-bill/"
+          "title": "Sunday shows preview: Democrats gear Trump administration probes amid leadership disputes",
+          "link": "https://thehill.com/homenews/sunday-talk-shows/6220953-sunday-shows-trump-cabinet-democrats-congress/"
         },
         {
-          "title": "The MAGA-lomaniacs who could drag America into the abyss",
-          "link": "https://thehill.com/opinion/white-house/6219083-midterm-rebuke-trump-gop/"
+          "title": "Federalist Society's celebrations mix with shock over Democratic sweep",
+          "link": "https://thehill.com/policy/6220956-federalist-society-convention-midterm-shock/"
         },
         {
-          "title": "Johnson says 'we don’t really need any investigation' on FAA ground stop",
-          "link": "https://thehill.com/policy/transportation/6220851-mike-johnson-faa-ground-stop/"
+          "title": "Burchett rips Johnson, Thune over FAA funding: 'Step up to the daggum plate'",
+          "link": "https://thehill.com/homenews/house/6220943-burchett-urges-gop-aviation-funding/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-14T21:17:28.222Z"
+      "updatedAt": "2026-11-15T01:41:24.127Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "With Starship catch, SpaceX still shows it can dazzle the world",
+          "link": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/"
+        },
         {
           "title": "James Webb telescope finds ice older than the star it orbits",
           "link": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/"
@@ -134,17 +138,17 @@
         {
           "title": "FAA has lifted its third-ever nationwide ground stop",
           "link": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/"
-        },
-        {
-          "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
-          "link": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-14T21:17:28.339Z"
+      "updatedAt": "2026-11-15T01:41:24.228Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+          "link": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch"
+        },
         {
           "title": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
           "link": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series"
@@ -160,14 +164,10 @@
         {
           "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
           "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"
-        },
-        {
-          "title": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
-          "link": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-14T21:17:28.432Z"
+      "updatedAt": "2026-11-15T01:41:24.358Z"
     },
     "BBC World": {
       "items": [
@@ -184,12 +184,12 @@
           "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Philippines wins first Eurovision Song Contest Asia",
-          "link": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss"
+          "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+          "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Second catch attempt as SpaceX Starship rocket heads back to Earth",
-          "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss"
+          "title": "Philippines wins first Eurovision Song Contest Asia",
+          "link": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
@@ -201,7 +201,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-14T21:17:28.561Z"
+      "updatedAt": "2026-11-15T01:41:24.539Z"
     },
     "BBC News": {
       "items": [
@@ -210,54 +210,54 @@
           "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Young people should have legal guarantee of job or training, Milburn tells BBC",
-          "link": "https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight",
           "link": "https://www.bbc.co.uk/news/articles/cmg46qgkl7r4o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Noel Fielding 'appalled' by jokes he made with Russell Brand",
-          "link": "https://www.bbc.co.uk/news/articles/cw808ll7x093o?at_medium=RSS&at_campaign=rss"
+          "title": "Alleged Russell Brand rape victim wants age of consent law changed",
+          "link": "https://www.bbc.co.uk/news/articles/cm3rgx9p583zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+          "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
           "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Philippines wins first Eurovision Song Contest Asia",
-          "link": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss"
+          "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+          "link": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-14T21:17:28.599Z"
+      "updatedAt": "2026-11-15T01:41:24.581Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "Here’s Why It Could Take Days for Flights to Return to Normal",
-          "link": "https://www.nytimes.com/2026/11/14/us/faa-groundstop-flights-restarting.html"
+          "title": "Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System",
+          "link": "https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html"
         },
         {
-          "title": "How Some Flights Were Exempt From the Ground Stop",
-          "link": "https://www.nytimes.com/2026/11/14/business/faa-ground-stop-exceptions-airlines.html"
+          "title": "Trump Kept Out of Sight as F.A.A. Issued Flight Ground Stop",
+          "link": "https://www.nytimes.com/2026/11/14/us/politics/trump-flights-air-traffic-social-media.html"
         },
         {
-          "title": "Nvidia Scandal Prompts Questions of What It Means to Be a Spy",
-          "link": "https://www.nytimes.com/2026/11/13/us/politics/nvidia-alice-huang-spy-china.html"
+          "title": "After Relative Silence, Joe Rogan Said MAGA Has Lost the “Podcast Bros”",
+          "link": "https://www.nytimes.com/2026/11/14/style/after-relative-silence-joe-rogan-said-trumps-policies-have-lost-the-podcast-bros.html"
         },
         {
-          "title": "What’s Behind the Trump-Huang Relationship?",
-          "link": "https://www.nytimes.com/video/us/politics/100000011272223/whats-behind-the-trump-huang-relationship.html"
+          "title": "Perhaps the Rumors of Democracy’s Demise Were Premature",
+          "link": "https://www.nytimes.com/2026/11/14/magazine/democracy-midterm-elections.html"
         },
         {
-          "title": "Tech Leaders Rally Behind Jensen Huang",
-          "link": "https://www.nytimes.com/2026/11/14/technology/silicon-valley-nvidia-jensen-huang.html"
+          "title": "Top Democrat Eyes Filibuster-Proof Budget Bill to Unlock Affordability Agenda",
+          "link": "https://www.nytimes.com/2026/11/14/us/politics/house-democrats-affordability-costs-budget.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-14T21:17:28.668Z"
+      "updatedAt": "2026-11-15T01:41:24.715Z"
     }
   },
   "indices": {
@@ -284,8 +284,8 @@
       },
       {
         "name": "Bitcoin",
-        "price": 64317.9,
-        "pct": -12.753940172642142
+        "price": 62195.95,
+        "pct": -15.911044857078005
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-11-14T21:17:28.783Z"
+    "updatedAt": "2026-11-15T01:41:24.928Z"
   }
 }
