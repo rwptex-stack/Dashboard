@@ -1,8 +1,20 @@
 {
-  "fetchedAt": "2026-11-15T21:36:44.451Z",
+  "fetchedAt": "2026-11-16T01:45:04.741Z",
   "feeds": {
     "MarketWatch": {
       "items": [
+        {
+          "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
+          "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
+          "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories"
+        },
+        {
+          "title": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything. Do I tell her?",
+          "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories"
+        },
         {
           "title": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
           "link": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories"
@@ -14,52 +26,40 @@
         {
           "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
           "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories"
-        },
-        {
-          "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
-          "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories"
-        },
-        {
-          "title": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
-          "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories"
-        },
-        {
-          "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
-          "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-15T21:36:41.838Z"
+      "updatedAt": "2026-11-16T01:45:02.686Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "DHS chief Mullin says Iran poses daily threat to Trump and his family amid drone concerns",
-          "link": "https://www.foxnews.com/media/dhs-chief-mullin-says-iran-poses-daily-threat-trump-his-family-amid-drone-concerns"
+          "title": "Lane Kiffin blames LSU's $40+ million roster after loss to Texas: 'we'll have better rosters’",
+          "link": "https://www.foxnews.com/outkick-sports/lane-kiffin-blames-lsu-40-million-roster-loss-texas-better-rosters"
         },
         {
-          "title": "Phoenix Suns' mascot gets involved in Anarchy in the Arena match at AEW Full Gear, meets Ace Austin",
-          "link": "https://www.foxnews.com/outkick-sports/phoenix-suns-mascot-involved-anarchy-arena-match-aew-full-gear-meets-ace-austin"
+          "title": "Massive fire erupts outside MetLife Stadium after Bills defeat Jets in Week 10",
+          "link": "https://www.foxnews.com/outkick-sports/massive-fire-erupts-outside-metlife-stadium-bills-defeat-jets-week-10"
         },
         {
-          "title": "Beauty queen stripped of Miss USA crown over hidden husband, kids gets unexpected spotlight decades later",
-          "link": "https://www.foxnews.com/entertainment/beauty-queen-stripped-miss-usa-crown-hidden-husband-kids-unexpected-spotlight-decades-later"
+          "title": "NFL legend's son makes incredible one-handed catch to help high school win championship in Pennsylvania",
+          "link": "https://www.foxnews.com/outkick-sports/nfl-legends-son-makes-incredible-one-handed-catch-help-high-school-win-championship-pennsylvania"
         },
         {
-          "title": "Iran vows ‘we will find you’ to 2 US Navy officers the day warship returns from Middle East",
-          "link": "https://www.foxnews.com/world/iran-vows-we-find-you-2-us-navy-officers-day-warship-returns-from-middle-east"
+          "title": "Russell Brand’s wife opens up after comedian’s rape conviction, shares message from imprisoned husband",
+          "link": "https://www.foxnews.com/entertainment/russell-brands-wife-opens-up-after-comedians-rape-conviction-shares-message-from-imprisoned-husband"
         },
         {
-          "title": "Retro burger chain once served up beloved TV character to American diners",
-          "link": "https://www.foxnews.com/food-drink/nostalgic-burger-chain-served-up-beloved-tv-character-american-diners"
+          "title": "Seahawks receiver Tory Horton made one of the smartest plays you'll ever see in Seattle's win over Las Vegas",
+          "link": "https://www.foxnews.com/outkick-sports/seahawks-receiver-tory-horton-made-one-smartest-plays-youll-ever-see-seattles-win-las-vegas"
         },
         {
-          "title": "Duck hunter working a camera gets smoked in the face by a downed bird: 'one in a million shot'",
-          "link": "https://www.foxnews.com/outkick-sports/duck-hunter-working-camera-gets-smoked-face-downed-bird-one-million-shot"
+          "title": "MiLaysia Fulwiley denies police account after Baton Rouge arrest, says 'the cop is literally lying'",
+          "link": "https://www.foxnews.com/outkick-sports/milaysia-fulwiley-denies-police-account-baton-rouge-arrest-cop-literally-lying"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-15T21:36:42.207Z"
+      "updatedAt": "2026-11-16T01:45:03.033Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -89,36 +89,40 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-15T21:36:42.562Z"
+      "updatedAt": "2026-11-16T01:45:03.392Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Texas prosecutor accuses Warren of targeting Trump associates with investigations",
-          "link": "https://thehill.com/homenews/senate/6221606-texas-prosecutor-warns-warren/"
+          "title": "Moore on the chances of a 2028 presidential bid: 'I'm still sorting it out'",
+          "link": "https://thehill.com/homenews/state-watch/6221790-wes-moore-on-the-chances-of-a-2028-presidential-bid-im-still-sorting-it-out/"
         },
         {
-          "title": "Trump says Interior will appeal ruling delaying golf course renovations",
-          "link": "https://thehill.com/homenews/administration/6221569-east-potomac-park-legal-battle/"
+          "title": "DeSantis knocks Republicans resisting Trump judicial appointment push",
+          "link": "https://thehill.com/homenews/state-watch/6221727-desantis-knocks-republicans-resisting-trump-judicial-appointment-push/"
         },
         {
-          "title": "Colom urges Democrats to invest more in Mississippi after surprise Senate win",
-          "link": "https://thehill.com/homenews/campaign/6221530-scott-colom-democrats-invest-mississippi/"
+          "title": "Cassidy says questions remain about Trump’s FDA pick ahead of committee vote",
+          "link": "https://thehill.com/homenews/senate/6221636-cassidy-questions-trumps-fda-pick/"
         },
         {
-          "title": "Stanton says Democrats should use power of purse to change US foreign policy",
-          "link": "https://thehill.com/homenews/house/6221508-stanton-congress-power-purse/"
+          "title": "5 takeaways as lame-duck defense fights heat up",
+          "link": "https://thehill.com/policy/defense/6220052-lame-duck-ndaa-defense-fighting/"
         },
         {
-          "title": "Crawford says it's 'premature' to place blame on Lutnick for Nvidia chip sales",
-          "link": "https://thehill.com/homenews/administration/6221486-crawford-defends-lutnick-nvidia-chips/"
+          "title": "Koh blames Trump for blocking Biden-era infrastructure, FAA funding",
+          "link": "https://thehill.com/homenews/house/6221559-koh-blames-trump-faa-funding/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-15T21:36:43.257Z"
+      "updatedAt": "2026-11-16T01:45:04.029Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+          "link": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/"
+        },
         {
           "title": "How the world’s fires changed while humanity hit pause",
           "link": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/"
@@ -134,17 +138,21 @@
         {
           "title": "Winemakers are learning that conservation can be good for business",
           "link": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/"
-        },
-        {
-          "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
-          "link": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-15T21:36:43.392Z"
+      "updatedAt": "2026-11-16T01:45:04.118Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+          "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools"
+        },
+        {
+          "title": "Listen to this: Armand Hammer’s Snakes &#038; Ladders",
+          "link": "https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review"
+        },
         {
           "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
           "link": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites"
@@ -156,24 +164,24 @@
         {
           "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china"
-        },
-        {
-          "title": "Fanttik’s S1 Pro electric screwdriver is $40 off in the run-up to Black Friday",
-          "link": "https://www.theverge.com/gadgets/1033620/fantikk-s1-pro-electric-screwdriver-black-friday-2026-deal-sale"
-        },
-        {
-          "title": "Apple’s first smart glasses are coming together",
-          "link": "https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-15T21:36:43.503Z"
+      "updatedAt": "2026-11-16T01:45:04.166Z"
     },
     "BBC World": {
       "items": [
         {
           "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
           "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+          "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+          "link": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "South Korea's top scorer in tax accountancy exam admits cheating",
@@ -184,64 +192,60 @@
           "link": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-          "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss"
+          "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
+          "link": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Czechs rally against plan to switch funding of public media",
           "link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Iran targets US military base in Bahrain with drone attack",
-          "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
-          "link": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-15T21:36:43.868Z"
+      "updatedAt": "2026-11-16T01:45:04.229Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Staggered age of consent to be discussed after Brand case, minister says",
-          "link": "https://www.bbc.co.uk/news/articles/cwdr1dmn563do?at_medium=RSS&at_campaign=rss"
+          "title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
+          "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Man and woman die and four arrested after police pursuit crash in Leeds",
-          "link": "https://www.bbc.co.uk/news/articles/cm3eg8x9zkvno?at_medium=RSS&at_campaign=rss"
+          "title": "Staggered age of consent to be discussed after Brand case, minister says",
+          "link": "https://www.bbc.co.uk/news/articles/cwdr1dmn563do?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
           "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns",
-          "link": "https://www.bbc.co.uk/news/articles/c6jd7k7g57x5o?at_medium=RSS&at_campaign=rss"
+          "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
+          "link": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Minister backs legal right to job support for young people",
-          "link": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss"
+          "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
+          "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Pope Leo rides in helicopter cockpit during Peru trip",
-          "link": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss"
+          "title": "Trident submarine returns home after record-breaking undersea patrol",
+          "link": "https://www.bbc.co.uk/news/articles/c32l5ny1r7x9o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-15T21:36:43.960Z"
+      "updatedAt": "2026-11-16T01:45:04.247Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business",
-          "link": "https://www.nytimes.com/2026/11/15/us/politics/trump-lutnick-ai-chips-nvidia-cantor-fitzgerald.html"
+          "title": "Nvidia Fallout Looms Over Trump-Xi Meeting",
+          "link": "https://www.nytimes.com/2026/11/15/us/politics/nvidia-trump-huang-china-xi.html"
         },
         {
           "title": "How Jensen Huang’s Secret Led to His Downfall at Nvidia",
           "link": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html"
+        },
+        {
+          "title": "Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business",
+          "link": "https://www.nytimes.com/2026/11/15/us/politics/trump-lutnick-ai-chips-nvidia-cantor-fitzgerald.html"
         },
         {
           "title": "Megaspeed Says Alice Huang Left Company in August 2025",
@@ -250,14 +254,10 @@
         {
           "title": "Sean Duffy Offers New Details on How One Fix Spiraled Into Nationwide Ground Stop",
           "link": "https://www.nytimes.com/2026/11/15/us/sean-duffy-ground-stop-trump-faa.html"
-        },
-        {
-          "title": "Flight Delays and Cancellations Persist as System Recovers From Ground Stop",
-          "link": "https://www.nytimes.com/2026/11/15/us/faa-groundstop-flights-status-delays-canceled.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-15T21:36:44.145Z"
+      "updatedAt": "2026-11-16T01:45:04.397Z"
     }
   },
   "indices": {
@@ -279,13 +279,13 @@
       },
       {
         "name": "Gold",
-        "price": 3886.3,
-        "pct": -3.5705424048434233
+        "price": 3873.8,
+        "pct": -3.880700709642192
       },
       {
         "name": "Bitcoin",
-        "price": 64916.08,
-        "pct": -12.233427752541186
+        "price": 64734.5,
+        "pct": -9.262958915223184
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-11-15T21:36:44.451Z"
+    "updatedAt": "2026-11-16T01:45:04.741Z"
   }
 }
