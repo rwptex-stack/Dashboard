@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-11-15T22:14:51.418Z",
+  "fetchedAt": "2026-11-16T02:27:57.616Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Will Ospreay gives it his all to retain AEW World Championship at Full Gear, gets attacked from behind by MJF",
-          "link": "https://www.foxnews.com/outkick-sports/will-ospreay-retain-aew-world-championship-full-gear-attacked-mjf"
+          "title": "Pete Buttigieg breaks with Democrats on student loan handouts, admits party ‘overtorqued’ on issue",
+          "link": "https://www.foxnews.com/media/pete-buttigieg-breaks-democrats-student-loan-handouts-admits-party-overtorqued-issue"
         },
         {
-          "title": "Charlamagne blasts AOC for ‘beating around the bush,’ presses progressives on backing Hakeem Jeffries",
-          "link": "https://www.foxnews.com/media/charlamagne-blasts-aoc-beating-around-bush-presses-progressives-backing-hakeem-jeffries"
+          "title": "Raiders fans stayed seated when Fernando Mendoza scored so his wheelchair bound mom could see him celebrate",
+          "link": "https://www.foxnews.com/outkick-sports/raiders-fans-stayed-seated-fernando-mendoza-scored-wheelchair-bound-mom-could-see-him-celebrate"
         },
         {
-          "title": "Blood, staples and Nintendo Power Glove: Texas Death match gets gnarly as Full Gear sees new champions crowned",
-          "link": "https://www.foxnews.com/outkick-sports/blood-staples-nintendo-power-glove-texas-death-match-gets-gnarly-full-gear-sees-new-champions-crowned"
+          "title": "Mexico's cartel 'godfather' convicted in American DEA agent's murder dies at age 80",
+          "link": "https://www.foxnews.com/world/mexicos-cartel-godfather-convicted-american-dea-agents-murder-dies-age-80"
         },
         {
-          "title": "OutKast rapper Big Boi reels in massive 200-pound marlin during fishing trip off Cabo San Lucas",
-          "link": "https://www.foxnews.com/outkick-sports/outkast-rapper-big-boi-reels-massive-200-pound-marlin-fishing-trip-cabo-san-lucas"
+          "title": "Lane Kiffin blames LSU's $40+ million roster after loss to Texas: 'we'll have better rosters’",
+          "link": "https://www.foxnews.com/outkick-sports/lane-kiffin-blames-lsu-40-million-roster-loss-texas-better-rosters"
         },
         {
-          "title": "DHS chief Mullin says Iran poses daily threat to Trump and his family amid drone concerns",
-          "link": "https://www.foxnews.com/media/dhs-chief-mullin-says-iran-poses-daily-threat-trump-his-family-amid-drone-concerns"
+          "title": "Massive fire erupts outside MetLife Stadium after Bills defeat Jets in Week 10",
+          "link": "https://www.foxnews.com/outkick-sports/massive-fire-erupts-outside-metlife-stadium-bills-defeat-jets-week-10"
         },
         {
-          "title": "Phoenix Suns' mascot gets involved in Anarchy in the Arena match at AEW Full Gear, meets Ace Austin",
-          "link": "https://www.foxnews.com/outkick-sports/phoenix-suns-mascot-involved-anarchy-arena-match-aew-full-gear-meets-ace-austin"
+          "title": "NFL legend's son makes incredible one-handed catch to help high school win championship in Pennsylvania",
+          "link": "https://www.foxnews.com/outkick-sports/nfl-legends-son-makes-incredible-one-handed-catch-help-high-school-win-championship-pennsylvania"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-15T22:14:48.035Z"
+      "updatedAt": "2026-11-16T02:27:55.312Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,10 +59,22 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-15T22:14:48.313Z"
+      "updatedAt": "2026-11-16T02:27:55.495Z"
     },
     "The Hill": {
       "items": [
+        {
+          "title": "Moore on the chances of a 2028 presidential bid: 'I'm still sorting it out'",
+          "link": "https://thehill.com/homenews/state-watch/6221790-wes-moore-on-the-chances-of-a-2028-presidential-bid-im-still-sorting-it-out/"
+        },
+        {
+          "title": "DeSantis knocks Republicans resisting Trump judicial appointment push",
+          "link": "https://thehill.com/homenews/state-watch/6221727-desantis-knocks-republicans-resisting-trump-judicial-appointment-push/"
+        },
+        {
+          "title": "Cassidy says questions remain about Trump’s FDA pick ahead of committee vote",
+          "link": "https://thehill.com/homenews/senate/6221636-cassidy-questions-trumps-fda-pick/"
+        },
         {
           "title": "5 takeaways as lame-duck defense fights heat up",
           "link": "https://thehill.com/policy/defense/6220052-lame-duck-ndaa-defense-fighting/"
@@ -70,25 +82,17 @@
         {
           "title": "Koh blames Trump for blocking Biden-era infrastructure, FAA funding",
           "link": "https://thehill.com/homenews/house/6221559-koh-blames-trump-faa-funding/"
-        },
-        {
-          "title": "Texas prosecutor accuses Warren of targeting Trump associates with investigations",
-          "link": "https://thehill.com/homenews/senate/6221606-texas-prosecutor-warns-warren/"
-        },
-        {
-          "title": "Trump says Interior will appeal ruling delaying golf course renovations",
-          "link": "https://thehill.com/homenews/administration/6221569-east-potomac-park-legal-battle/"
-        },
-        {
-          "title": "Colom urges Democrats to invest more in Mississippi after surprise Senate win",
-          "link": "https://thehill.com/homenews/campaign/6221530-scott-colom-democrats-invest-mississippi/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-15T22:14:48.846Z"
+      "updatedAt": "2026-11-16T02:27:56.101Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+          "link": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/"
+        },
         {
           "title": "How the world’s fires changed while humanity hit pause",
           "link": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/"
@@ -104,17 +108,17 @@
         {
           "title": "Winemakers are learning that conservation can be good for business",
           "link": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/"
-        },
-        {
-          "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
-          "link": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-15T22:14:48.986Z"
+      "updatedAt": "2026-11-16T02:27:56.167Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+          "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools"
+        },
         {
           "title": "Listen to this: Armand Hammer’s Snakes &#038; Ladders",
           "link": "https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review"
@@ -130,14 +134,10 @@
         {
           "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china"
-        },
-        {
-          "title": "Fanttik’s S1 Pro electric screwdriver is $40 off in the run-up to Black Friday",
-          "link": "https://www.theverge.com/gadgets/1033620/fantikk-s1-pro-electric-screwdriver-black-friday-2026-deal-sale"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-15T22:14:49.147Z"
+      "updatedAt": "2026-11-16T02:27:56.327Z"
     },
     "BBC World": {
       "items": [
@@ -146,42 +146,42 @@
           "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss"
         },
         {
+          "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+          "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Australian MP who lost both legs in alleged car attack discharged from hospital",
+          "link": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+          "link": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
+          "link": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "South Korea's top scorer in tax accountancy exam admits cheating",
           "link": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Pope Leo rides in helicopter cockpit during Peru trip",
           "link": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-          "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Czechs rally against plan to switch funding of public media",
-          "link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Iran targets US military base in Bahrain with drone attack",
-          "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
-          "link": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-15T22:14:49.630Z"
+      "updatedAt": "2026-11-16T02:27:56.548Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Staggered age of consent to be discussed after Brand case, minister says",
-          "link": "https://www.bbc.co.uk/news/articles/cwdr1dmn563do?at_medium=RSS&at_campaign=rss"
+          "title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
+          "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Man and woman die and four arrested after police pursuit crash in Leeds",
-          "link": "https://www.bbc.co.uk/news/articles/cm3eg8x9zkvno?at_medium=RSS&at_campaign=rss"
+          "title": "Staggered age of consent to be discussed after Brand case, minister says",
+          "link": "https://www.bbc.co.uk/news/articles/cwdr1dmn563do?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
@@ -201,7 +201,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-15T22:14:49.717Z"
+      "updatedAt": "2026-11-16T02:27:56.591Z"
     },
     "NY Times": {
       "items": [
@@ -227,10 +227,14 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-15T22:14:50.001Z"
+      "updatedAt": "2026-11-16T02:27:56.825Z"
     },
     "ARTNews": {
       "items": [
+        {
+          "title": "Sotheby’s $180 M. Van Gogh Sale Faces Eleventh-Hour Nazi-Era Restitution Claim",
+          "link": "https://www.artnews.com/art-news/news/sothebys-van-gogh-180-million-restitution-claim-1936-sale-1234806093/"
+        },
         {
           "title": "ARTnews Awards 2026 Emerging Artist of the Year: Coco Klockner",
           "link": "https://www.artnews.com/art-news/artists/coco-klockner-artnews-awards-2026-emerging-artist-1234805787/"
@@ -250,14 +254,10 @@
         {
           "title": "ARTnews Awards 2026 Best Thematic Museum Exhibition: “MONUMENTS”",
           "link": "https://www.artnews.com/art-news/artists/monuments-artnews-awards-2026-best-thematic-museum-show-1234805839/"
-        },
-        {
-          "title": "ARTnews Awards 2026 Established Artist of the Year: Vaginal Davis",
-          "link": "https://www.artnews.com/art-news/artists/vaginal-davis-artnews-awards-2026-established-artist-1234805842/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-15T22:14:50.188Z"
+      "updatedAt": "2026-11-16T02:27:56.960Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-15T22:14:50.416Z"
+      "updatedAt": "2026-11-16T02:27:57.133Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-15T22:14:51.240Z"
+      "updatedAt": "2026-11-16T02:27:57.541Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-15T22:14:51.418Z"
+      "updatedAt": "2026-11-16T02:27:57.616Z"
     }
   }
 }
