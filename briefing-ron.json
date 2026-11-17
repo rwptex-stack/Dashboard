@@ -1,124 +1,128 @@
 {
-  "fetchedAt": "2026-11-17T03:37:21.630Z",
+  "fetchedAt": "2026-11-17T12:59:28.185Z",
   "feeds": {
     "MarketWatch": {
       "items": [
         {
-          "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
-          "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories"
+          "title": "Now’s the perfect time for networking. Here’s how to send a cringe-free email.",
+          "link": "https://www.marketwatch.com/story/nows-the-perfect-time-for-networking-heres-how-to-send-a-cringe-free-email-73ad34ea?mod=mw_rss_topstories"
         },
         {
-          "title": "United Airlines resolves system outage that delayed flights Monday",
-          "link": "https://www.marketwatch.com/story/united-airlines-suffers-system-outage-amid-lingering-faa-ground-stop-delays-5e33f94c?mod=mw_rss_topstories"
+          "title": "Fund managers just slashed their tech bets at the fastest pace in two decades — and this is the tail risk keeping them up at night",
+          "link": "https://www.marketwatch.com/story/fund-managers-just-slashed-their-tech-bets-at-the-fastest-pace-in-two-decades-and-this-is-the-tail-risk-keeping-them-up-at-night-60fcc160?mod=mw_rss_topstories"
         },
         {
-          "title": "Stanley Druckenmiller dumped these chip stocks while buying into SpaceX and Palantir",
-          "link": "https://www.marketwatch.com/story/stanley-druckenmiller-dumped-these-chip-stocks-while-buying-into-spacex-and-palantir-9ae1f078?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Do Amazon’s Black Friday deals really save you money? A new report casts doubt.",
-          "link": "https://www.marketwatch.com/story/do-amazons-black-friday-deals-really-save-you-money-03859cf3?mod=mw_rss_topstories"
+          "title": "Can Nvidia sell investors on a future without Jensen Huang?",
+          "link": "https://www.marketwatch.com/story/can-nvidia-sell-investors-on-a-future-without-jensen-huang-3fe4bb49?mod=mw_rss_topstories"
         },
         {
           "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
           "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories"
         },
         {
-          "title": "U.S. dollar’s AI-driven breakout could become a stock-market wrecking ball",
-          "link": "https://www.marketwatch.com/story/u-s-dollars-ai-driven-breakout-could-become-a-stock-market-wrecking-ball-18199b95?mod=mw_rss_topstories"
+          "title": "‘It is heartbreaking, exhausting and downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?",
+          "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Pick the two sectors where earnings growth will accelerate — as long as the 10-year stays below this key level, say strategists",
+          "link": "https://www.marketwatch.com/story/pick-the-two-sectors-where-earnings-growth-will-accelerate-as-long-as-the-10-year-stays-below-this-key-level-say-strategists-e7c13914?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-17T03:37:19.970Z"
+      "updatedAt": "2026-11-17T12:59:27.147Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Jon Moxley, Adam Page headline AEW's Continental Classic as journey to World's End begins",
-          "link": "https://www.foxnews.com/outkick-sports/jon-moxley-adam-page-headline-aew-continental-classic-journey-worlds-end-begins"
+          "title": "Ravens star tees off on team's poor effort in loss to winless Chargers: 'That's the reality of it'",
+          "link": "https://www.foxnews.com/outkick-sports/ravens-star-tees-off-teams-poor-effort-loss-winless-chargers-reality"
         },
         {
-          "title": "American basketball player’s Nigeria trip ends in arrest after officials spot him abandoning suspicious bags",
-          "link": "https://www.foxnews.com/world/american-basketball-players-nigeria-trip-ends-arrest-officials-spot-abandoning-suspicious-bags"
+          "title": "Trump warns Iran about reported plot against admin officials: 'We take it very seriously'",
+          "link": "https://www.foxnews.com/politics/trump-warns-iran-reported-plot-against-admin-officials-take-very-seriously"
         },
         {
-          "title": "Ro Khanna pitches $1,700 checks for Americans to offset Iran war costs: 'A chance to deliver'",
-          "link": "https://www.foxnews.com/politics/ro-khanna-pitches-1700-checks-americans-offset-iran-war-costs-chance-deliver"
+          "title": "The VPN setting that keeps your printer and apps working",
+          "link": "https://www.foxnews.com/tech/vpn-setting-keeps-printer-apps-working"
         },
         {
-          "title": "Biden library nears site decision as fundraising trails ambitions: report",
-          "link": "https://www.foxnews.com/politics/biden-library-nears-site-decision-fundraising-trails-ambitions-report"
+          "title": "Bahrain intercepts Iranian drones targeting US radar after 2-month lull in Gulf strikes",
+          "link": "https://www.foxnews.com/world/bahrain-intercepts-iranian-drones-targeting-us-radar-after-2-month-lull-gulf-strikes"
         },
         {
-          "title": "Former USMNT coach says 'American sports reward losers' as he leaves for Manchester United",
-          "link": "https://www.foxnews.com/outkick-sports/former-usmnt-coach-says-american-sports-reward-losers-leaves-manchester-united"
+          "title": "Seattle Times still hasn't corrected claim that trans women have no athletic advantage despite studies",
+          "link": "https://www.foxnews.com/outkick-sports/seattle-times-hasnt-corrected-claim-trans-women-no-athletic-advantage-despite-studies"
         },
         {
-          "title": "Curt Cignetti fires back at Indiana 'easy' schedule critics: 'I really don't give a s---'",
-          "link": "https://www.foxnews.com/outkick-sports/curt-cignetti-fires-back-indiana-easy-schedule-critics-really-dont-give"
+          "title": "‘Frightened’ Texas neighbors left to wonder what political domino will fall next",
+          "link": "https://www.foxnews.com/media/frightened-texas-neighbors-left-wonder-what-political-domino-fall-next"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-17T03:37:20.246Z"
+      "updatedAt": "2026-11-17T12:59:27.270Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "Trump Admin Divide on China Policy Breaks Into Public View",
-          "link": "https://www.realclearpolitics.com/2026/11/16/trump_admin_divide_on_china_policy_breaks_into_public_view_717998.html"
+          "title": "What Trump, Putin and Xi Each Want From a Summit",
+          "link": "https://www.realclearpolitics.com/2026/11/17/what_trump_putin_and_xi_each_want_from_a_summit_718069.html"
         },
         {
-          "title": "Hatred of Data Centers Doesn't Compute",
-          "link": "https://www.realclearpolitics.com/2026/11/16/hatred_of_data_centers_doesnt_compute_717985.html"
+          "title": "Is China Misreading the Moment?",
+          "link": "https://www.realclearpolitics.com/2026/11/17/is_china_misreading_the_moment_718048.html"
+        },
+        {
+          "title": "Honey Traps Are One of China's Favorite Tools",
+          "link": "https://www.realclearpolitics.com/2026/11/16/honey_traps_are_one_of_chinas_favorite_tools_717997.html"
         },
         {
           "title": "Mamdani Influence Felt as Dems Win Affordability Election",
           "link": "https://www.realclearpolitics.com/2026/11/16/mamdani_influence_felt_as_dems_win_affordability_election_717988.html"
         },
         {
-          "title": "Congress Should Focus on Cost of Living. But Will It?",
-          "link": "https://www.realclearpolitics.com/2026/11/16/congress_should_focus_on_cost_of_living_but_will_it_717883.html"
+          "title": "Can Vance Reset Anti-Fraud Push?",
+          "link": "https://www.realclearinvestigations.com/articles/2026/11/17/department_of_government_inefficiency_can_vance_reset_anti-fraud_push_1217131.html"
         },
         {
-          "title": "Dems' Majority Is Bigger, More Fragile, Than It Looks",
-          "link": "https://www.realclearpolitics.com/2026/11/16/dems_majority_is_bigger_more_fragile_than_it_looks_717989.html"
-        },
-        {
-          "title": "Europe Is Leading Ukraine Towards a Dead End",
-          "link": "https://www.realclearpolitics.com/2026/11/16/europe_is_leading_ukraine_towards_a_dead_end_717679.html"
+          "title": "Even the Left Should Cheer Spectacular SpaceX Feats",
+          "link": "https://www.realclearpolitics.com/2026/11/17/even_the_left_should_cheer_spectacular_spacex_feats_718024.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-17T03:37:20.449Z"
+      "updatedAt": "2026-11-17T12:59:27.431Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Comer announces bid for Kentucky governor",
-          "link": "https://thehill.com/homenews/campaign/6224056-james-comer-kentucky-governor-run/"
+          "title": "Friday's ground stop should be a wakeup call for Congress",
+          "link": "https://thehill.com/opinion/congress-blog/6223592-faa-ground-stop-modernization/"
         },
         {
-          "title": "Senate GOP unveils nearly $1.1T defense appropriations bill",
-          "link": "https://thehill.com/homenews/senate/6224030-senate-gop-defense-appropriations-bill/"
+          "title": "What to watch on Trump's trip to Asia",
+          "link": "https://thehill.com/newsletters/morning-report/6224302-donald-trump-philippines-china-trip-what-to-know/"
         },
         {
-          "title": "Vance mocks Democrats for accusing Trump of being ‘soft on China’",
-          "link": "https://thehill.com/homenews/administration/6224034-vance-mocks-china-softness-accusations/"
+          "title": "Live updates: Trump kicks off Asia trip ahead of Xi-Putin talks; Nvidia scrutiny mounts",
+          "link": "https://thehill.com/homenews/administration/6224028-live-updates-donald-trump-asia-trip-xi-putin-talks-nvidia-senate-house/"
         },
         {
-          "title": "Senate clears hurdle for bipartisan permitting reform package",
-          "link": "https://thehill.com/newsletters/energy-environment/6223994-senate-clears-hurdle-for-bipartisan-permitting-reform-package/"
+          "title": "Trump on dirty bomb report: 'We take it very seriously'",
+          "link": "https://thehill.com/policy/defense/6224265-donald-trump-iran-dirty-bomb-threat/"
         },
         {
-          "title": "Air Force One rerouted over extreme weather",
-          "link": "https://thehill.com/homenews/administration/6223947-trump-reroutes-air-force-one/"
+          "title": "How red Idaho held the line in a blue wave",
+          "link": "https://thehill.com/opinion/campaign/6224078-idaho-republicans-withstand-blue-wave/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-17T03:37:21.039Z"
+      "updatedAt": "2026-11-17T12:59:27.720Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "Artist brings old Space Shuttle tank back to life",
+          "link": "https://arstechnica.com/space/2026/11/how-an-artist-gave-shape-to-a-space-shuttles-new-towering-exhibit/"
+        },
         {
           "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
           "link": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/"
@@ -134,14 +138,10 @@
         {
           "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
           "link": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/"
-        },
-        {
-          "title": "Comcast's \"fiber-powered Wi-Fi\" is just cable, AT&T says in false advertising case",
-          "link": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-17T03:37:21.183Z"
+      "updatedAt": "2026-11-17T12:59:27.792Z"
     },
     "The Verge": {
       "items": [
@@ -167,97 +167,97 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-17T03:37:21.366Z"
+      "updatedAt": "2026-11-17T12:59:27.841Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Five EU countries announce migrant deportation centre in Rwanda",
-          "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss"
+          "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+          "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Houthi rebel advance in Yemen may further destabilise global economy",
-          "link": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss"
+          "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+          "link": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
-          "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss"
+          "title": "Nvidia partner Megaspeed being investigated by US government over chip exports",
+          "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
-          "link": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss"
+          "title": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed",
+          "link": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "When will we see Robert Pattinson as Bond in cinemas?",
-          "link": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss"
+          "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
+          "link": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
-          "link": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss"
+          "title": "Gunmen kill Costa Rican journalist who reported on drugs trade",
+          "link": "https://www.bbc.co.uk/news/articles/c6ly7g5lx7gyo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
-          "link": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss"
+          "title": "Body of Melbourne Cup horse found dumped in Sydney skip",
+          "link": "https://www.bbc.co.uk/news/articles/ck1ewl2zjqgzo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-17T03:37:21.414Z"
+      "updatedAt": "2026-11-17T12:59:27.936Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "'Complete system reset' needed to get 440,000 young people into work, says major review",
-          "link": "https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss"
+          "title": "Watch: What's in the Milburn review?",
+          "link": "https://www.bbc.co.uk/news/videos/c3j4r9jgkynzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "At a glance: Key proposals from Milburn's Neets report",
+          "link": "https://www.bbc.co.uk/news/articles/cq074grvdpz2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Where are the most jobs for 18-24 year-olds?",
+          "link": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "The young people caught up in Britain's Neets crisis",
           "link": "https://www.bbc.co.uk/news/articles/cj75pkgrv151o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Robert Pattinson to replace Daniel Craig as James Bond",
-          "link": "https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo?at_medium=RSS&at_campaign=rss"
+          "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+          "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Cass report author says she does not support draft conversion practices bill",
-          "link": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
-          "link": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Failed asylum seekers face removal without five-day notice period",
-          "link": "https://www.bbc.co.uk/news/articles/cq20xnp2egm8o?at_medium=RSS&at_campaign=rss"
+          "title": "How Met failed to stop rape-unit detective who abused women",
+          "link": "https://www.bbc.co.uk/news/articles/c6kgq8d779lro?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-17T03:37:21.433Z"
+      "updatedAt": "2026-11-17T12:59:27.957Z"
     },
     "NY Times": {
       "items": [
+        {
+          "title": "As Trump and Xi Mingle, Their Governments Are Arming Up",
+          "link": "https://www.nytimes.com/2026/11/17/business/trump-xi-meeting-tensions.html"
+        },
         {
           "title": "Trump Administration Divide on China Policy Breaks Into Public View",
           "link": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-policy.html"
         },
         {
-          "title": "Madison Huang, Jensen Huang’s Daughter, Became a Powerful Force at Nvidia",
-          "link": "https://www.nytimes.com/2026/11/16/technology/nvidia-jensen-madison-huang.html"
+          "title": "Tracking China’s War of Words Against Japan",
+          "link": "https://www.nytimes.com/2026/11/17/world/asia/china-japan-propaganda-xi-takaichi.html"
         },
         {
-          "title": "Bessent Takes Hawkish Turn in White House Debate on China",
-          "link": "https://www.nytimes.com/2026/11/16/us/politics/bessent-lutnick-china.html"
+          "title": "The A.I. Fight Dividing the Trump Administration, and the Next James Bond",
+          "link": "https://www.nytimes.com/2026/11/17/podcasts/the-headlines/ai-fight-trump-administration-new-james-bond-megaspeed.html"
         },
         {
-          "title": "Trump Administration Aims to Clamp Down on A.I. Chip Loophole",
-          "link": "https://www.nytimes.com/2026/11/16/briefing/trump-china-ai-loophole.html"
-        },
-        {
-          "title": "United Airlines Flights Resume After ‘Widespread System Outage’",
-          "link": "https://www.nytimes.com/2026/11/16/business/united-airlines-outage-flights.html"
+          "title": "Debt Problems of the Richest Countries Are Trickling Down to the Poorest",
+          "link": "https://www.nytimes.com/2026/11/17/business/economy/global-debt-economy-world-bank.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-17T03:37:21.472Z"
+      "updatedAt": "2026-11-17T12:59:28.060Z"
     }
   },
   "indices": {
@@ -279,13 +279,13 @@
       },
       {
         "name": "Gold",
-        "price": 3877.5,
-        "pct": -3.07461567304087
+        "price": 3862.2,
+        "pct": -0.594548683499353
       },
       {
         "name": "Bitcoin",
-        "price": 65026.82,
-        "pct": -4.72158896351566
+        "price": 64993.65,
+        "pct": -4.770190215953962
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-11-17T03:37:21.630Z"
+    "updatedAt": "2026-11-17T12:59:28.185Z"
   }
 }
