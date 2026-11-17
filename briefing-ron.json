@@ -1,173 +1,173 @@
 {
-  "fetchedAt": "2026-11-16T20:12:37.291Z",
+  "fetchedAt": "2026-11-17T03:37:21.630Z",
   "feeds": {
     "MarketWatch": {
       "items": [
-        {
-          "title": "Rare-earth stocks sinks deeper into the red. Here’s the latest catalyst.",
-          "link": "https://www.marketwatch.com/story/rare-earth-stocks-sinks-deeper-into-the-red-heres-the-latest-catalyst-3033c8d0?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Bond-market volatility is exploding higher. It could be the new normal for investors.",
-          "link": "https://www.marketwatch.com/story/bond-market-volatility-is-exploding-higher-it-could-be-the-new-normal-for-investors-7c24a763?mod=mw_rss_topstories"
-        },
         {
           "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
           "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories"
         },
         {
-          "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
-          "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories"
+          "title": "United Airlines resolves system outage that delayed flights Monday",
+          "link": "https://www.marketwatch.com/story/united-airlines-suffers-system-outage-amid-lingering-faa-ground-stop-delays-5e33f94c?mod=mw_rss_topstories"
         },
         {
-          "title": "Micron, AMD and other AI stocks fall as the chip sector’s selloff intensifies",
-          "link": "https://www.marketwatch.com/story/micron-amd-and-other-ai-stocks-fall-as-the-chip-sectors-selloff-intensifies-48e38bdf?mod=mw_rss_topstories"
+          "title": "Stanley Druckenmiller dumped these chip stocks while buying into SpaceX and Palantir",
+          "link": "https://www.marketwatch.com/story/stanley-druckenmiller-dumped-these-chip-stocks-while-buying-into-spacex-and-palantir-9ae1f078?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Do Amazon’s Black Friday deals really save you money? A new report casts doubt.",
+          "link": "https://www.marketwatch.com/story/do-amazons-black-friday-deals-really-save-you-money-03859cf3?mod=mw_rss_topstories"
         },
         {
           "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
           "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories"
+        },
+        {
+          "title": "U.S. dollar’s AI-driven breakout could become a stock-market wrecking ball",
+          "link": "https://www.marketwatch.com/story/u-s-dollars-ai-driven-breakout-could-become-a-stock-market-wrecking-ball-18199b95?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-16T20:12:35.279Z"
+      "updatedAt": "2026-11-17T03:37:19.970Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "America hits a tech wall as outages cripple email, ground flights and disrupt major banks",
-          "link": "https://www.foxnews.com/us/america-hits-tech-wall-outages-cripple-email-ground-flights-disrupt-major-banks"
+          "title": "Jon Moxley, Adam Page headline AEW's Continental Classic as journey to World's End begins",
+          "link": "https://www.foxnews.com/outkick-sports/jon-moxley-adam-page-headline-aew-continental-classic-journey-worlds-end-begins"
         },
         {
-          "title": "NFL players need to tone down the excessive celebrations after Aiden Hutchinson injury",
-          "link": "https://www.foxnews.com/outkick-sports/nfl-players-tone-down-excessive-celebrations-aiden-hutchinson-injury"
+          "title": "American basketball player’s Nigeria trip ends in arrest after officials spot him abandoning suspicious bags",
+          "link": "https://www.foxnews.com/world/american-basketball-players-nigeria-trip-ends-arrest-officials-spot-abandoning-suspicious-bags"
         },
         {
-          "title": "Two public safety officers shot at NYC housing complex; suspect dead",
-          "link": "https://www.foxnews.com/us/two-public-safety-officers-shot-nyc-housing-complex-suspect-dead"
+          "title": "Ro Khanna pitches $1,700 checks for Americans to offset Iran war costs: 'A chance to deliver'",
+          "link": "https://www.foxnews.com/politics/ro-khanna-pitches-1700-checks-americans-offset-iran-war-costs-chance-deliver"
         },
         {
-          "title": "Police groups condemn Mamdani over axing elite NYPD unit",
-          "link": "https://www.foxnews.com/politics/police-groups-condemn-mamdani-axing-elite-nypd-unit"
+          "title": "Biden library nears site decision as fundraising trails ambitions: report",
+          "link": "https://www.foxnews.com/politics/biden-library-nears-site-decision-fundraising-trails-ambitions-report"
         },
         {
-          "title": "‘24’ star Kiefer Sutherland claims self-defense in Uber driver assault lawsuit, calls suit ‘frivolous’",
-          "link": "https://www.foxnews.com/entertainment/24-star-kiefer-sutherland-claims-self-defense-uber-driver-assault-lawsuit-calls-suit-frivolous"
+          "title": "Former USMNT coach says 'American sports reward losers' as he leaves for Manchester United",
+          "link": "https://www.foxnews.com/outkick-sports/former-usmnt-coach-says-american-sports-reward-losers-leaves-manchester-united"
         },
         {
-          "title": "Hillary Clinton 'looking forward' to Trump's State of the Union, Democratic women staring him down",
-          "link": "https://www.foxnews.com/media/hillary-clinton-looking-forward-trumps-state-union-democratic-women-staring-him-down"
+          "title": "Curt Cignetti fires back at Indiana 'easy' schedule critics: 'I really don't give a s---'",
+          "link": "https://www.foxnews.com/outkick-sports/curt-cignetti-fires-back-indiana-easy-schedule-critics-really-dont-give"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-16T20:12:35.542Z"
+      "updatedAt": "2026-11-17T03:37:20.246Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "Held Hostage in the Skies",
-          "link": "https://www.realclearpolitics.com/articles/2026/11/16/held_hostage_in_the_skies_154689.html"
+          "title": "Trump Admin Divide on China Policy Breaks Into Public View",
+          "link": "https://www.realclearpolitics.com/2026/11/16/trump_admin_divide_on_china_policy_breaks_into_public_view_717998.html"
+        },
+        {
+          "title": "Hatred of Data Centers Doesn't Compute",
+          "link": "https://www.realclearpolitics.com/2026/11/16/hatred_of_data_centers_doesnt_compute_717985.html"
         },
         {
           "title": "Mamdani Influence Felt as Dems Win Affordability Election",
           "link": "https://www.realclearpolitics.com/2026/11/16/mamdani_influence_felt_as_dems_win_affordability_election_717988.html"
         },
         {
-          "title": "Mamdani Is Making a Dangerous Mistake With the NYPD",
-          "link": "https://www.realclearpolitics.com/2026/11/16/mamdani_is_making_a_dangerous_mistake_with_the_nypd_717990.html"
+          "title": "Congress Should Focus on Cost of Living. But Will It?",
+          "link": "https://www.realclearpolitics.com/2026/11/16/congress_should_focus_on_cost_of_living_but_will_it_717883.html"
         },
         {
-          "title": "Jensen Huang's Downfall Could Reshape Tech Policy",
-          "link": "https://www.realclearpolitics.com/2026/11/16/jensen_huangs_downfall_could_reshape_tech_policy_717768.html"
+          "title": "Dems' Majority Is Bigger, More Fragile, Than It Looks",
+          "link": "https://www.realclearpolitics.com/2026/11/16/dems_majority_is_bigger_more_fragile_than_it_looks_717989.html"
         },
         {
-          "title": "Tech World's Calls for Huang To Return to Nvidia Growing",
-          "link": "https://www.realclearpolitics.com/2026/11/16/tech_worlds_calls_for_huang_to_return_to_nvidia_growing_717986.html"
-        },
-        {
-          "title": "Offending Muslims Shouldn't Be Illegal in Europe",
-          "link": "https://www.realclearpolitics.com/2026/11/16/offending_muslims_shouldnt_be_illegal_in_europe_717980.html"
+          "title": "Europe Is Leading Ukraine Towards a Dead End",
+          "link": "https://www.realclearpolitics.com/2026/11/16/europe_is_leading_ukraine_towards_a_dead_end_717679.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-16T20:12:35.753Z"
+      "updatedAt": "2026-11-17T03:37:20.449Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Airfare, gas prices expected to impact Thanksgiving travel: AAA",
-          "link": "https://thehill.com/policy/transportation/6223078-airfare-gas-prices-thanksgiving-holiday-travel-predictions/"
+          "title": "Comer announces bid for Kentucky governor",
+          "link": "https://thehill.com/homenews/campaign/6224056-james-comer-kentucky-governor-run/"
         },
         {
-          "title": "Canada could turn to Chinese automakers without US deal: Carney",
-          "link": "https://thehill.com/policy/international/6223278-carney-threatens-china-auto-deal/"
+          "title": "Senate GOP unveils nearly $1.1T defense appropriations bill",
+          "link": "https://thehill.com/homenews/senate/6224030-senate-gop-defense-appropriations-bill/"
         },
         {
-          "title": "Khanna proposes $1,700 Iran war refund checks for Americans",
-          "link": "https://thehill.com/the-120/6223191-khanna-proposes-iran-war-refunds/"
+          "title": "Vance mocks Democrats for accusing Trump of being ‘soft on China’",
+          "link": "https://thehill.com/homenews/administration/6224034-vance-mocks-china-softness-accusations/"
         },
         {
-          "title": "OpenAI unveils tool to better detect child sexual abuse material",
-          "link": "https://thehill.com/policy/technology/6223070-openai-new-tool-child-sexual-abuse-material-classifier/"
+          "title": "Senate clears hurdle for bipartisan permitting reform package",
+          "link": "https://thehill.com/newsletters/energy-environment/6223994-senate-clears-hurdle-for-bipartisan-permitting-reform-package/"
         },
         {
-          "title": "Indicted Virginia state senator pushes to sanction Blanche, Patel over public comments",
-          "link": "https://thehill.com/homenews/state-watch/6223132-trump-officials-accused-misconduct/"
+          "title": "Air Force One rerouted over extreme weather",
+          "link": "https://thehill.com/homenews/administration/6223947-trump-reroutes-air-force-one/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-16T20:12:36.468Z"
+      "updatedAt": "2026-11-17T03:37:21.039Z"
     },
     "Ars Technica": {
       "items": [
         {
-          "title": "Supreme Court keeps injunction against DEI grant defunding in place",
-          "link": "https://arstechnica.com/science/2026/11/supreme-court-keeps-injunction-against-dei-grant-defunding-in-place/"
+          "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+          "link": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/"
         },
         {
-          "title": "When will humans actually fly on Starship?",
-          "link": "https://arstechnica.com/space/2026/11/when-will-humans-actually-fly-on-starship/"
+          "title": "Three small failures combined to take down Microsoft 365",
+          "link": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/"
         },
         {
-          "title": "Meet the new James Bond: Robert Pattinson",
-          "link": "https://arstechnica.com/culture/2026/11/meet-the-new-james-bond-robert-pattinson/"
+          "title": "Hyperscale data centers use 2% of US electricity",
+          "link": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/"
         },
         {
-          "title": "US moves to cut China’s remote access to AI chips",
-          "link": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/"
+          "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
+          "link": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/"
         },
         {
-          "title": "US now \"comfortable\" with children dying of measles as death toll hits 10",
-          "link": "https://arstechnica.com/health/2026/11/us-now-comfortable-with-children-dying-of-measles-as-death-toll-hits-10/"
+          "title": "Comcast's \"fiber-powered Wi-Fi\" is just cable, AT&T says in false advertising case",
+          "link": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-16T20:12:36.634Z"
+      "updatedAt": "2026-11-17T03:37:21.183Z"
     },
     "The Verge": {
       "items": [
         {
-          "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
-          "link": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription"
+          "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
+          "link": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj"
         },
         {
-          "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
-          "link": "https://www.theverge.com/policy/1034527/openai-csam-classifier"
+          "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+          "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories"
         },
         {
-          "title": "Apple is adding face unlock to the iPhone Duo — without new hardware",
-          "link": "https://www.theverge.com/tech/1034590/apple-iphone-duo-face-unlock-ios-27-3-beta"
+          "title": "United Airlines system outage disrupts departures just days after the big ground stop",
+          "link": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures"
         },
         {
-          "title": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
-          "link": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back"
+          "title": "In Get Huge, the manosphere is here to make friends — with deadly consequences",
+          "link": "https://www.theverge.com/entertainment/1033466/hulu-disney-plus-get-huge-looksmaxxing-to-death"
         },
         {
-          "title": "15 hotel guests were injured by chlorine poisoning due to Microsoft’s global email outage",
-          "link": "https://www.theverge.com/tech/1034538/microsoft-365-outlook-outage-hotel-chlorine-poisoning"
+          "title": "California sues OpenAI over rogue AI hacking incidents",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-16T20:12:36.758Z"
+      "updatedAt": "2026-11-17T03:37:21.366Z"
     },
     "BBC World": {
       "items": [
@@ -176,11 +176,11 @@
           "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Yemeni forces retreat to defend port city from Houthis",
-          "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss"
+          "title": "Houthi rebel advance in Yemen may further destabilise global economy",
+          "link": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+          "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
           "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss"
         },
         {
@@ -192,7 +192,7 @@
           "link": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Forensic expert says his analysis raises doubts about how Epstein died",
+          "title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
           "link": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss"
         },
         {
@@ -201,99 +201,99 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-16T20:12:36.900Z"
+      "updatedAt": "2026-11-17T03:37:21.414Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Russell Brand prison message 'appalling' and being investigated, No 10 says",
-          "link": "https://www.bbc.co.uk/news/articles/cm9d7pe8y559o?at_medium=RSS&at_campaign=rss"
+          "title": "'Complete system reset' needed to get 440,000 young people into work, says major review",
+          "link": "https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "The young people caught up in Britain's Neets crisis",
+          "link": "https://www.bbc.co.uk/news/articles/cj75pkgrv151o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Robert Pattinson to replace Daniel Craig as James Bond",
           "link": "https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "When will we see Robert Pattinson as Bond in cinemas?",
-          "link": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss"
+          "title": "Cass report author says she does not support draft conversion practices bill",
+          "link": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
-          "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
-          "link": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Forensic expert says his analysis raises doubts about how Epstein died",
+          "title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
           "link": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Failed asylum seekers face removal without five-day notice period",
+          "link": "https://www.bbc.co.uk/news/articles/cq20xnp2egm8o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-16T20:12:36.951Z"
+      "updatedAt": "2026-11-17T03:37:21.433Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip",
-          "link": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-loophole.html"
+          "title": "Trump Administration Divide on China Policy Breaks Into Public View",
+          "link": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-policy.html"
         },
         {
-          "title": "Trump’s Asia Trip Will Bring Him to the Table With Xi and Putin: What to Know",
-          "link": "https://www.nytimes.com/2026/11/16/world/asia/trump-asia-china-xi-putin.html"
+          "title": "Madison Huang, Jensen Huang’s Daughter, Became a Powerful Force at Nvidia",
+          "link": "https://www.nytimes.com/2026/11/16/technology/nvidia-jensen-madison-huang.html"
         },
         {
-          "title": "Trump Says He’s Open to Reinstatement of Jensen Huang as Nvidia Chief",
-          "link": "https://www.nytimes.com/2026/11/16/us/politics/trump-jensen-huang-nvidia.html"
+          "title": "Bessent Takes Hawkish Turn in White House Debate on China",
+          "link": "https://www.nytimes.com/2026/11/16/us/politics/bessent-lutnick-china.html"
         },
         {
-          "title": "Is Jensen Huang Plotting a Comeback?",
-          "link": "https://www.nytimes.com/2026/11/16/business/dealbook/huang-comeback-nvidia.html"
+          "title": "Trump Administration Aims to Clamp Down on A.I. Chip Loophole",
+          "link": "https://www.nytimes.com/2026/11/16/briefing/trump-china-ai-loophole.html"
         },
         {
-          "title": "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
-          "link": "https://www.nytimes.com/2026/11/16/business/economy/warsh-ai-economy.html"
+          "title": "United Airlines Flights Resume After ‘Widespread System Outage’",
+          "link": "https://www.nytimes.com/2026/11/16/business/united-airlines-outage-flights.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-16T20:12:37.134Z"
+      "updatedAt": "2026-11-17T03:37:21.472Z"
     }
   },
   "indices": {
     "data": [
       {
         "name": "S&P 500",
-        "price": 7412.6,
-        "pct": -1.819087304005055
+        "price": 7416.59,
+        "pct": -1.7662392019009352
       },
       {
         "name": "Dow Jones",
-        "price": 51595.84,
-        "pct": -1.5153918466875744
+        "price": 51608.17,
+        "pct": -1.491856708611898
       },
       {
         "name": "Nasdaq",
-        "price": 24513.436,
-        "pct": -2.9291565326133617
+        "price": 24509.758,
+        "pct": -2.943721058054554
       },
       {
         "name": "Gold",
-        "price": 3866.8,
-        "pct": -3.3420822397200305
+        "price": 3877.5,
+        "pct": -3.07461567304087
       },
       {
         "name": "Bitcoin",
-        "price": 65026.95,
-        "pct": -8.853037657389375
+        "price": 65026.82,
+        "pct": -4.72158896351566
       },
       {
         "name": "SpaceX",
-        "price": 138.92,
-        "pct": -2.217216864925745
+        "price": 137.36,
+        "pct": -3.3152671218413317
       }
     ],
     "ok": true,
-    "updatedAt": "2026-11-16T20:12:37.291Z"
+    "updatedAt": "2026-11-17T03:37:21.630Z"
   }
 }
