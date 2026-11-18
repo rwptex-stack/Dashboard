@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-11-17T21:26:05.347Z",
+  "fetchedAt": "2026-11-18T03:12:31.239Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "California sheriff's deputy, special officer put on leave after 5-second conversation with ICE agents",
-          "link": "https://www.foxnews.com/us/california-sheriffs-deputy-special-officer-put-leave-after-5-second-conversation-ice-agents"
+          "title": "Ken Griffin, target of Zohran Mamdani, has officially sold his $58 million apartment to NY Jets owner",
+          "link": "https://www.foxnews.com/outkick-sports/ken-griffin-target-zohran-mamdani-officially-sold-58-million-apartment-ny-jets-owner"
         },
         {
-          "title": "Iran's latest dirty bomb news builds on decades of threats to attack America at home",
-          "link": "https://www.foxnews.com/politics/irans-latest-dirty-bomb-news-builds-decades-threats-attack-america-home"
+          "title": "Major drug kingpin ‘The Kraken’ captured in California after yearslong hunt",
+          "link": "https://www.foxnews.com/us/major-drug-kingpin-the-kraken-captured-california-after-yearslong-hunt"
         },
         {
-          "title": "Madison Beer hasn't given up on the Chargers yet and was locked in from the red carpet during first win",
-          "link": "https://www.foxnews.com/outkick-sports/madison-beer-hasnt-given-up-chargers-locked-red-carpet-first-win"
+          "title": "Former Yankees slugger Mark Teixeira celebrates as Congress’s version of Mr Irrelevant at office lottery",
+          "link": "https://www.foxnews.com/outkick-sports/former-yankees-slugger-mark-teixeira-celebrates-congress-version-mr-irrelevant-office-lottery"
         },
         {
-          "title": "‘Kindergarten Cop’ child star Christian Cousins found dead at 43 after welfare check",
-          "link": "https://www.foxnews.com/entertainment/kindergarten-cop-child-star-christian-cousins-found-dead-43-welfare-check"
+          "title": "‘Landman’ star Ali Larter sizzles in low-cut mini dress in behind-the-scenes Season 3 photos",
+          "link": "https://www.foxnews.com/entertainment/landman-star-ali-larter-sizzles-low-cut-mini-dress-behind-the-scenes-season-three-photos"
         },
         {
-          "title": "WWE's Charlotte Flair reassures fans about her father Ric Flair's heath after recent scares",
-          "link": "https://www.foxnews.com/outkick-sports/wwe-charlotte-flair-reassures-fans-father-ric-flair-health-recent-scares"
+          "title": "New lawsuit alleges AI app 'Bron' used LeBron James’ tattoos, voice and jersey to promote sports-betting tool",
+          "link": "https://www.foxnews.com/outkick-sports/lawsuit-alleges-ai-app-bron-used-lebron-james-tattoos-voice-jersey-promote-sports-betting-tool"
         },
         {
-          "title": "NBA stars are missing nearly 30 games per season, and the league has done nothing about it",
-          "link": "https://www.foxnews.com/outkick-sports/nba-stars-missing-nearly-30-games-per-season-league-done-nothing"
+          "title": "Ring of Honor's Deonna Purrazzo fires back on notion independent wrestling is dead: 'I think they're so wrong'",
+          "link": "https://www.foxnews.com/outkick-sports/ring-of-honor-deonna-purrazzo-fires-back-notion-independent-wrestling-dead-think-theyre-so-wrong"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-17T21:26:01.798Z"
+      "updatedAt": "2026-11-18T03:12:28.724Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,85 +59,85 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-17T21:26:02.249Z"
+      "updatedAt": "2026-11-18T03:12:28.966Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Why an Alaska win by Peltola is so important to Democrats",
-          "link": "https://thehill.com/homenews/campaign/6226081-alaska-senate-peltola-democrats-majority/"
+          "title": "Murkowski calls midterms ‘a direct pushback to President Trump’",
+          "link": "https://thehill.com/homenews/senate/6226959-murkowski-midterm-rebuke-trump/"
         },
         {
-          "title": "FBI says Chase outage tracks back to software release, not malicious activity",
-          "link": "https://thehill.com/business/6226179-chase-outage-software-bug/"
+          "title": "Kelly knocks Hun Cao's analogy about food shortages on Navy ships",
+          "link": "https://thehill.com/homenews/senate/6226889-kelly-criticizes-cao-navy-food/"
         },
         {
-          "title": "Judge agrees 'vast majority' of Omar investigation should remain sealed",
-          "link": "https://thehill.com/regulation/court-battles/6226144-judge-seals-omar-search-warrant-doj/"
+          "title": "Senate Intel Vice Chair Warner says AI contributing to network outages",
+          "link": "https://thehill.com/homenews/senate/6226826-mark-warner-ai-cybersecurity-system-outages/"
         },
         {
-          "title": "Skepticism grows within GOP over tech failures: 'Americans aren't stupid'",
-          "link": "https://thehill.com/policy/technology/6225734-lawmakers-skepticism-tech-outages/"
+          "title": "White House pulls nomination of Heidi Overton to lead FDA",
+          "link": "https://thehill.com/policy/healthcare/6226487-white-house-withdraws-fda-nomination/"
         },
         {
-          "title": "Schumer declares he has votes to beat Van Hollen and become majority leader",
-          "link": "https://thehill.com/homenews/senate/6226192-schumer-vs-van-hollen-leadership-race/"
+          "title": "Director of National Intelligence offers explanation for tech outages",
+          "link": "https://thehill.com/policy/national-security/6226816-dni-dismisses-outage-cyberattack-theory/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-17T21:26:02.648Z"
+      "updatedAt": "2026-11-18T03:12:30.114Z"
     },
     "Ars Technica": {
       "items": [
         {
+          "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+          "link": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/"
+        },
+        {
+          "title": "San Diego dumps both Flock cameras and smart streetlights",
+          "link": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/"
+        },
+        {
+          "title": "Yet another satellite company is jockeying for a rocket—but this one makes sense",
+          "link": "https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense/"
+        },
+        {
+          "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
+          "link": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/"
+        },
+        {
           "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
           "link": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/"
-        },
-        {
-          "title": "Civilization studio Firaxis Games lays off a third of staff",
-          "link": "https://arstechnica.com/gaming/2026/11/civilization-studio-firaxis-games-lays-off-a-third-of-staff/"
-        },
-        {
-          "title": "Humanity braces for an alien invasion in 3 Body Problem S2 teaser",
-          "link": "https://arstechnica.com/culture/2026/11/humanity-braces-for-an-alien-invasion-in-3-body-problem-s2-teaser/"
-        },
-        {
-          "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
-          "link": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/"
-        },
-        {
-          "title": "The data is very preliminary, but Vulcan failure may not be due to BE-4 engines",
-          "link": "https://arstechnica.com/features/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-17T21:26:02.815Z"
+      "updatedAt": "2026-11-18T03:12:30.204Z"
     },
     "The Verge": {
       "items": [
         {
-          "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
-          "link": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake"
+          "title": "Satya Nadella says he’s AGI-pilled now",
+          "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now"
         },
         {
-          "title": "Instagram is helping creators crack down on copycat videos",
-          "link": "https://www.theverge.com/tech/1035943/instagram-creators-crack-down-copycat-videos"
+          "title": "Jeff Bezos says he was ‘heavily involved’ in picking the new James Bond",
+          "link": "https://www.theverge.com/entertainment/1036110/jeff-bezos-james-bond-casting-amazon"
         },
         {
-          "title": "Democrats try to figure out how not to get swept away by the blue wave",
-          "link": "https://www.theverge.com/policy/1035869/whats-next-majority-democrats-conference-denver-jeffries"
+          "title": "Read everything that Nvidia’s board chair had to say about Jensen Huang",
+          "link": "https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang"
         },
         {
-          "title": "Framework’s better couch keyboard is now available for preorder",
-          "link": "https://www.theverge.com/tech/1035805/framework-wireless-touchpad-keyboard-preorder-open"
+          "title": "iFixit’s Apple HomeView teardown reveals a device that will be difficult to repair",
+          "link": "https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub"
         },
         {
-          "title": "California just banned Waymo from all state freeways",
-          "link": "https://www.theverge.com/transportation/1035789/california-dmv-bans-waymo-freeways-construction-zone-safety"
+          "title": "Nvidia says it does not intend to reinstate Jensen Huang as CEO",
+          "link": "https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-17T21:26:02.946Z"
+      "updatedAt": "2026-11-18T03:12:30.487Z"
     },
     "BBC World": {
       "items": [
@@ -150,20 +150,20 @@
           "link": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
-          "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss"
+          "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+          "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Thomas Markle charged over child sex abuse material in Philippines",
+          "link": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
           "link": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Russian military plane crashes killing all 19 on board",
+          "title": "Russian military plane crashes, killing all 19 on board",
           "link": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "US loses measles elimination status after 26 years amid record case numbers",
-          "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
@@ -171,96 +171,108 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-17T21:26:03.085Z"
+      "updatedAt": "2026-11-18T03:12:30.539Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Government backs welfare shake-up to prevent 'lost generation'",
-          "link": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "'Can I really do this?': Neets speak to BBC about struggling to get a job",
-          "link": "https://www.bbc.co.uk/news/videos/cm0l3z8gn67eo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
-          "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss"
+          "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+          "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
           "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-          "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
+          "title": "Burnham to set out options next month for long-term EU relationship",
+          "link": "https://www.bbc.co.uk/news/articles/cwm2j3nyd44ko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "BBC reports from Kyiv bridge hit by Russian attack",
-          "link": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&at_campaign=rss"
+          "title": "The EU that Burnham is eyeing up is very different to the one Britain left",
+          "link": "https://www.bbc.co.uk/news/articles/cq4gn3109pzgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Government backs welfare shake-up to prevent 'lost generation'",
+          "link": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "William and Kate on Earthshot Prize green carpet in Mumbai",
+          "link": "https://www.bbc.co.uk/news/videos/c6x2ev29v87no?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-17T21:26:03.303Z"
+      "updatedAt": "2026-11-18T03:12:30.553Z"
     },
     "NY Times": {
       "items": [
+        {
+          "title": "After Days of Digital Outages, Americans Wonder if the Country Is Breaking",
+          "link": "https://www.nytimes.com/2026/11/17/us/politics/outages-flights-banks-tech.html"
+        },
         {
           "title": "A.I. Helps Find Major Security Bug in Java, a Software Platform Vital to the Internet",
           "link": "https://www.nytimes.com/2026/11/17/us/politics/ai-security-bug-java.html"
         },
         {
-          "title": "Jensen Huang Says He Would Return as Nvidia CEO if Asked",
-          "link": "https://www.nytimes.com/2026/11/17/technology/jensen-huang-nvidia-statement.html"
+          "title": "Apple Addresses Outages Affecting Apple Pay, iCloud and Apps",
+          "link": "https://www.nytimes.com/2026/11/17/technology/apple-down-outage-issues.html"
         },
         {
-          "title": "U.S. Loses Its Measles Elimination Status, a Historic Setback for American Health",
-          "link": "https://www.nytimes.com/2026/11/17/well/us-measles-elimination-status.html"
+          "title": "Nvidia Has No Plans to Bring Back Jensen Huang",
+          "link": "https://www.nytimes.com/2026/11/17/business/nvidia-earnings-jensen-huang.html"
         },
         {
-          "title": "Measles Is Officially Back in the United States. What Now?",
-          "link": "https://www.nytimes.com/2026/11/17/us/measles-us-whats-next.html"
-        },
-        {
-          "title": "Do You Need a Measles Booster?",
-          "link": "https://www.nytimes.com/2025/02/27/well/live/measles-vaccine-booster-shot.html"
+          "title": "Measles Is Officially Back",
+          "link": "https://www.nytimes.com/2026/11/17/briefing/us-measles-surge-nvidia-profit.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-17T21:26:03.373Z"
+      "updatedAt": "2026-11-18T03:12:30.604Z"
     },
     "ARTNews": {
       "items": [
         {
+          "title": "The Most Expensive Works by Gustav Klimt Sold at Auction",
+          "link": "https://www.artnews.com/list/art-news/market/gustav-klimt-most-expensive-works-sold-at-auction-1234801492/"
+        },
+        {
+          "title": "A Wassily Kandinsky Sold by the Nahmads Fetches $85.8 M. at Christie’s, Notching a New Auction High",
+          "link": "https://www.artnews.com/art-news/market/wassily-kandinsky-nahmads-christies-new-auction-high-1234806466/"
+        },
+        {
+          "title": "The Most Expensive Works by Wassily Kandinsky Ever Sold",
+          "link": "https://www.artnews.com/list/art-news/market/the-most-expensive-works-by-wassily-kandinsky-ever-sold-1234805893/"
+        },
+        {
+          "title": "Taylor Swift’s Costumes and Instruments Are Coming to the MFA Boston",
+          "link": "https://www.artnews.com/art-news/news/taylor-swifts-costumes-collection-new-exhibition-1234806510/"
+        },
+        {
+          "title": "Rare Artist-Designed Louis Vuitton Handbags Included in Upcoming Christie’s Upcoming Online Sale",
+          "link": "https://www.artnews.com/art-news/market/louis-vuitton-artist-designed-handbags-christies-scarcity-infinity-sale-1234806445/"
+        },
+        {
           "title": "Louis Vuitton Launches Three Fragrances as Part of Expansive Keith Haring Collection",
           "link": "https://www.artnews.com/art-news/news/louis-vuitton-keith-haring-fragrances-1234806425/"
-        },
-        {
-          "title": "Amid Legal Controversy, Christie’s Withdraws Frida Kahlo Painting Hours Before Auction",
-          "link": "https://www.artnews.com/art-news/news/frida-kahlo-painting-withdrawn-christies-auction-1234806448/"
-        },
-        {
-          "title": "Cologne Auction House Moves Forward with Sale of Gothic Paintings as Jewish Dealer’s Heirs Claim They Were ‘Stolen’",
-          "link": "https://www.artnews.com/art-news/news/german-jewish-dealer-lempertz-restitution-johann-koerbecke-1234806324/"
-        },
-        {
-          "title": "Celebrating the Inaugural Art Week NYC, Organized by ARTnews, Art in America, and Artforum",
-          "link": "https://www.artnews.com/art-news/news/celebrating-inaugural-art-week-nyc-2026-1234806358/"
-        },
-        {
-          "title": "ARTnews Celebrates the Inaugural Art Week NYC, November 11-14, 2026",
-          "link": "https://www.artnews.com/gallery/art-news/photos/artnews-celebrates-the-inaugural-art-week-nyc-november-11-14-1234806388/"
-        },
-        {
-          "title": "New Museum Inks Multiyear Partnership with Video Art–Focused Vega Foundation",
-          "link": "https://www.artnews.com/art-news/news/new-museum-vega-foundation-partnership-1234806199/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-17T21:26:04.179Z"
+      "updatedAt": "2026-11-18T03:12:30.747Z"
     },
     "Hyperallergic": {
       "items": [
+        {
+          "title": "Rare Hilma af Klint Work Heads to Auction",
+          "link": "https://hyperallergic.com/rare-hilma-af-klint-work-heads-to-auction/"
+        },
+        {
+          "title": "How Should We Memorialize the Trump Era?",
+          "link": "https://hyperallergic.com/how-should-we-memorialize-the-trump-era/"
+        },
+        {
+          "title": "Shahzia Sikander Confronts British Colonial Legacy in High Line Video Work",
+          "link": "https://hyperallergic.com/shahzia-sikander-confronts-british-colonial-legacy-in-high-line-video-work/"
+        },
         {
           "title": "Olivia Reavey's Impromptu Sensuality",
           "link": "https://hyperallergic.com/olivia-reaveys-impromptu-sensuality/"
@@ -272,22 +284,10 @@
         {
           "title": "MFA, MA, and PhD Programs to Apply for by Early 2027",
           "link": "https://hyperallergic.com/mfa-ma-and-phd-programs-to-apply-for-by-early-2027/"
-        },
-        {
-          "title": "The Met and the Shanghai Museum Sign Collaborative Agreement",
-          "link": "https://hyperallergic.com/the-met-and-the-shanghai-museum-sign-collaborative-agreement/"
-        },
-        {
-          "title": "Beer With a Painter: Ouattara Watts",
-          "link": "https://hyperallergic.com/beer-with-a-painter-ouattara-watts/"
-        },
-        {
-          "title": "RIP to the National Historic Preservation Act",
-          "link": "https://hyperallergic.com/rip-to-the-national-historic-preservation-act/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-17T21:26:04.558Z"
+      "updatedAt": "2026-11-18T03:12:30.894Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-17T21:26:05.099Z"
+      "updatedAt": "2026-11-18T03:12:31.067Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-17T21:26:05.347Z"
+      "updatedAt": "2026-11-18T03:12:31.239Z"
     }
   }
 }
