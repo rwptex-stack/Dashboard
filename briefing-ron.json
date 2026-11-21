@@ -1,8 +1,12 @@
 {
-  "fetchedAt": "2026-11-21T01:17:15.732Z",
+  "fetchedAt": "2026-11-21T09:29:53.921Z",
   "feeds": {
     "MarketWatch": {
       "items": [
+        {
+          "title": "Tech outages are rattling Americans so much that they’re stockpiling cash and supplies",
+          "link": "https://www.marketwatch.com/story/why-are-these-tech-outages-rattling-americans-so-much-that-theyre-stockpiling-cash-and-supplies-07516bdd?mod=mw_rss_topstories"
+        },
         {
           "title": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
           "link": "https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories"
@@ -22,14 +26,10 @@
         {
           "title": "Everyone’s making money off ‘GTA 6’ this week — except investors in Take-Two’s stock",
           "link": "https://www.marketwatch.com/story/everyones-making-money-off-gta-6-this-week-except-investors-in-take-twos-stock-489ee01b?mod=mw_rss_topstories"
-        },
-        {
-          "title": "The hidden catch in Anthropic’s IPO: Billions of locked-up shares are waiting in the wings",
-          "link": "https://www.marketwatch.com/story/the-hidden-catch-in-anthropics-ipo-billions-of-locked-up-shares-are-waiting-in-the-wings-279d33ce?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-21T01:17:14.607Z"
+      "updatedAt": "2026-11-21T09:29:53.144Z"
     },
     "Fox News": {
       "items": [
@@ -38,84 +38,84 @@
           "link": "https://www.foxnews.com/opinion/americans-dont-choose-between-ai-future-ripping-off-copyright-owners"
         },
         {
-          "title": "'Enough': Protesters decry antisemitism after Hunter College student event including Jewish group is canceled",
-          "link": "https://www.foxnews.com/media/enough-protesters-decry-antisemitism-after-hunter-college-student-event-including-jewish-group-canceled"
+          "title": "Lawmakers warn Americans of vulnerable systems amid streak of outages: 'Something is going on'",
+          "link": "https://www.foxnews.com/politics/lawmakers-warn-americans-vulnerable-systems-amid-streak-outages-something-going-on"
         },
         {
-          "title": "Fox News True Crime Newsletter: Susan Smith parole, Alex Murdaugh ruling, Lindsay Clancy appeal",
-          "link": "https://www.foxnews.com/us/fox-news-true-crime-newsletter-susan-smith-parole-alex-murdaugh-ruling-lindsay-clancy-appeal"
+          "title": "Red Hot Chili Peppers drummer Chad Smith to join Wu-Tang Clan for Lions' Thanksgiving halftime show",
+          "link": "https://www.foxnews.com/outkick-sports/red-hot-chili-peppers-drummer-chad-smith-join-wu-tang-clan-lions-thanksgiving-halftime-show"
         },
         {
-          "title": "Charlie Sheen stunned to learn fellow actor Rob Lowe had been praying for him for years",
-          "link": "https://www.foxnews.com/media/charlie-sheen-stunned-learn-fellow-actor-rob-lowe-had-been-praying-him-years"
+          "title": "Nick Saban names three teams above Alabama as college football's true national championship contenders",
+          "link": "https://www.foxnews.com/outkick-sports/nick-saban-names-three-teams-above-alabama-college-footballs-true-national-championship-contenders"
         },
         {
-          "title": "USDA releases decades of Bigfoot files, including 1982 Forest Service investigation in Washington state",
-          "link": "https://www.foxnews.com/us/usda-releases-decades-bigfoot-files-1982-forest-service-investigation-washington-state"
+          "title": "LSU women's basketball star MiLaysia Fulwiley faces only misdemeanor charges after arrest",
+          "link": "https://www.foxnews.com/outkick-sports/lsu-womens-basketball-star-milaisia-fulwiley-faces-misdemeanor-charges-arrest"
         },
         {
-          "title": "Zoo shares autopsy findings following Fiona the hippo’s heartbreaking death",
-          "link": "https://www.foxnews.com/us/zoo-shares-autopsy-findings-fiona-hippos-heartbreaking-death"
+          "title": "Mets offer superstar Tarik Skubal the largest pitcher contract in baseball history: report",
+          "link": "https://www.foxnews.com/outkick-sports/mets-offer-superstar-tarik-skubal-largest-pitcher-contract-baseball-history-report"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-21T01:17:14.730Z"
+      "updatedAt": "2026-11-21T09:29:53.199Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "Is the Fed About To Make a Classic Blunder?",
-          "link": "https://www.realclearpolitics.com/markets/links/is-the-fed-about-to-make-a-classic-blunder-2026-11-20"
+          "title": "France Makes Houellebecq Satire Look Prophetic",
+          "link": "https://www.realclearpolitics.com/europe/links/france-makes-houellebecq-satire-look-prophetic-2026-11-20"
         },
         {
-          "title": "Gettysburg's Main Oration Proved an Easy Act To Follow",
-          "link": "https://www.realclearpolitics.com/history/links/gettysburgs-main-oration-proved-an-easy-act-to-follow-2026-11-20"
+          "title": "Is Rubio the Frontrunner Now?",
+          "link": "https://www.realclearpolitics.com/republican-party/links/is-rubio-the-frontrunner-now-2026-11-20"
         },
         {
-          "title": "The Right Way To Make Data Centers Pay Their Way",
-          "link": "https://www.realclearpolitics.com/technology/links/the-right-way-to-make-data-centers-pay-their-way-2026-11-20"
+          "title": "Tuned Out: Your Friends Are Going on 'News Diets'",
+          "link": "https://www.realclearpolitics.com/the-media-free-press/links/tuned-out-your-friends-are-going-on-news-diets-2026-11-20"
         },
         {
-          "title": "Can the Smithsonian Be Saved?",
-          "link": "https://www.realclearpolitics.com/history/links/can-the-smithsonian-be-saved-2026-11-20"
+          "title": "500 School Employees, No Background Check",
+          "link": "https://www.realclearpolitics.com/education/links/500-school-employees-no-background-check-2026-11-20"
         },
         {
-          "title": "GTA Used To Satirize American Life. We Caught Up",
-          "link": "https://www.realclearpolitics.com/cultural-issues/links/gta-used-to-satirize-american-life-we-caught-up-2026-11-20"
+          "title": "How College Students Helped Turn Texas Blue",
+          "link": "https://www.realclearpolitics.com/education/links/how-college-students-helped-turn-texas-blue-2026-11-20"
         },
         {
-          "title": "Is the Future Floridian?",
-          "link": "https://www.realclearpolitics.com/republican-party/links/is-the-future-floridian-2026-11-20"
+          "title": "Trump Is Delivering for Rural America",
+          "link": "https://www.realclearpolitics.com/health-care/links/trump-is-delivering-for-rural-america-2026-11-20"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-21T01:17:14.789Z"
+      "updatedAt": "2026-11-21T09:29:53.229Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Sotomayor suggests Supreme Court colleagues may applaud midterm results as safeguard",
-          "link": "https://thehill.com/regulation/court-battles/6234774-justice-sotomayor-midterm-safeguards/"
+          "title": "Virginia reports first measles-related death of 2026",
+          "link": "https://thehill.com/policy/healthcare/6234958-virginia-child-measles-death-elimination-status/"
         },
         {
-          "title": "Court formally approves $7.25B class settlement for cancer claims from Roundup weed killer",
-          "link": "https://thehill.com/policy/energy-environment/6234796-judge-approves-roundup-settlement/"
+          "title": "Democratic Sen.-elect Colom responds to Trump's praise",
+          "link": "https://thehill.com/homenews/campaign/6234930-scott-colom-trump-praise-response/"
         },
         {
-          "title": "Casten, Lieu propose whistleblower program for prediction market insider trading",
-          "link": "https://thehill.com/homenews/house/6234775-casten-lieu-prediction-market-bill/"
+          "title": "Former Jackson, Mississippi, mayor sentenced to federal prison for bribery",
+          "link": "https://thehill.com/homenews/state-watch/6234903-jackson-mayor-lumumba-sentenced/"
         },
         {
-          "title": "Exclusive: Shaheen, Coons call for ‘swift’ response to Russian incursions into allied airspace",
-          "link": "https://thehill.com/homenews/senate/6234605-shaheen-coons-condemn-russia-airspace-incursions/"
+          "title": "California man found guilty of sparking blaze that became deadly Palisades Fire",
+          "link": "https://thehill.com/homenews/state-watch/6234829-uber-driver-palisades-fire-conviction/"
         },
         {
-          "title": "Collins, Shaheen push for insulin price cap",
-          "link": "https://thehill.com/newsletters/healthcare/6234599-collins-shaheen-push-for-insulin-price-cap/"
+          "title": "Permitting reform bill clears major hurdle toward becoming law",
+          "link": "https://thehill.com/newsletters/energy-environment/6234873-senate-baaja-permitting-reform-energy-infrastructure/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-21T01:17:15.129Z"
+      "updatedAt": "2026-11-21T09:29:53.750Z"
     },
     "Ars Technica": {
       "items": [
@@ -141,7 +141,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-21T01:17:15.226Z"
+      "updatedAt": "2026-11-21T09:29:53.775Z"
     },
     "The Verge": {
       "items": [
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-21T01:17:15.321Z"
+      "updatedAt": "2026-11-21T09:29:53.795Z"
     },
     "BBC World": {
       "items": [
@@ -176,65 +176,69 @@
           "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-          "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss"
+          "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+          "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-          "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss"
+          "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+          "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "French police officers sentenced for beating of music producer Michel Zecler",
           "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss"
         },
         {
+          "title": "Man convicted of starting Palisades fire in Los Angeles",
+          "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+          "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
           "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Gérard Depardieu and French author investigated over sexual allegations",
-          "link": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
-          "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-21T01:17:15.354Z"
+      "updatedAt": "2026-11-21T09:29:53.811Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-          "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss"
+          "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+          "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
-          "link": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Russian missile hits Poland as Kyiv's allies hold military exercise, says Tusk",
-          "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "What we know about the latest Russian missile strikes on Ukraine",
-          "link": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Man guilty of murdering woman he groomed on fetish site",
-          "link": "https://www.bbc.co.uk/news/articles/cmy49lekdkkzo?at_medium=RSS&at_campaign=rss"
+          "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+          "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
           "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Man convicted of starting Palisades fire in Los Angeles",
+          "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+          "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Trump threatens ban on US firms building AI data centres overseas",
+          "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-21T01:17:15.530Z"
+      "updatedAt": "2026-11-21T09:29:53.818Z"
     },
     "NY Times": {
       "items": [
+        {
+          "title": "Officials Find Cascade of Problems With ICE Training in Trump’s Immigration Crackdown",
+          "link": "https://www.nytimes.com/2026/11/20/us/politics/training-ice-immigration-inspector-general.html"
+        },
         {
           "title": "Stocks Skid Into a Correction, as A.I. Worries Intensify",
           "link": "https://www.nytimes.com/2026/11/20/business/anthropic-ai-stocks-sp500.html"
@@ -244,20 +248,16 @@
           "link": "https://www.nytimes.com/article/stock-market-correction.html"
         },
         {
-          "title": "The Evening: Are Nvidia Chips Helping Power the Chinese Military?",
-          "link": "https://www.nytimes.com/2026/11/20/briefing/nvidia-anthropic-ice.html"
-        },
-        {
-          "title": "Alice Huang, Accused of Spying on Nvidia’s CEO, Is Linked to Firms With Ties to China’s Military",
-          "link": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html"
-        },
-        {
           "title": "How Jensen Huang Made Humiliation Routine at Nvidia",
           "link": "https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html"
+        },
+        {
+          "title": "Nvidia Said to Face S.E.C. Probe Into Its Accounting Practices",
+          "link": "https://www.nytimes.com/2026/11/20/business/nvidia-sec-accounting.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-21T01:17:15.583Z"
+      "updatedAt": "2026-11-21T09:29:53.834Z"
     }
   },
   "indices": {
@@ -279,13 +279,13 @@
       },
       {
         "name": "Gold",
-        "price": 3539,
-        "pct": -8.149493900856475
+        "price": 3515.4,
+        "pct": -8.76200363353231
       },
       {
         "name": "Bitcoin",
-        "price": 59086.26,
-        "pct": -8.949502145385054
+        "price": 57940.97,
+        "pct": -10.71436634034192
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-11-21T01:17:15.732Z"
+    "updatedAt": "2026-11-21T09:29:53.921Z"
   }
 }
