@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-11-20T19:53:52.562Z",
+  "fetchedAt": "2026-11-21T01:17:15.732Z",
   "feeds": {
     "MarketWatch": {
       "items": [
         {
-          "title": "Stocks could face a ‘doom loop’ if Wall Street underestimates the risk of an economic downturn, strategist warns",
-          "link": "https://www.marketwatch.com/story/bank-of-america-strategist-warns-doom-loop-could-hit-stocks-with-wall-street-underpricing-hard-landing-risks-c3181e57?mod=mw_rss_topstories"
+          "title": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
+          "link": "https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories"
         },
         {
-          "title": "Alphabet just overtook Nvidia in market value for the first time in over 2 years",
-          "link": "https://www.marketwatch.com/story/alphabet-just-overtook-nvidia-in-market-value-for-the-first-time-in-over-2-years-23e296ee?mod=mw_rss_topstories"
+          "title": "Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade",
+          "link": "https://www.marketwatch.com/story/chip-stocks-see-2-3-trillion-weekly-wipeout-as-panic-grips-the-ai-trade-371f2f03?mod=mw_rss_topstories"
         },
         {
-          "title": "The Fed is too busy fighting inflation to rescue the stock market",
-          "link": "https://www.marketwatch.com/story/the-fed-is-too-busy-fighting-inflation-to-rescue-the-stock-market-11dda598?mod=mw_rss_topstories"
+          "title": "These stocks were crushed the most this week as the tech wreck accelerated",
+          "link": "https://www.marketwatch.com/story/these-stocks-were-crushed-the-most-this-week-as-the-tech-wreck-accelerated-8d6f7323?mod=mw_rss_topstories"
         },
         {
-          "title": "SpaceX’s stock falls back below its IPO price — and Anthropic’s could be next",
-          "link": "https://www.marketwatch.com/story/spacexs-stock-falls-back-below-its-ipo-price-and-anthropics-could-be-next-079d2a4a?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Nvidia’s stock heads for a stretch of weekly losses not seen since 2008",
+          "title": "Nvidia’s stock clinches a stretch of weekly losses not seen since 2008",
           "link": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories"
         },
         {
-          "title": "Trump is trying to stop Big Tech’s push to build data centers outside the U.S.",
-          "link": "https://www.marketwatch.com/story/trump-is-trying-to-stop-big-techs-push-to-build-data-centers-outside-the-u-s-86f32f7f?mod=mw_rss_topstories"
+          "title": "Everyone’s making money off ‘GTA 6’ this week — except investors in Take-Two’s stock",
+          "link": "https://www.marketwatch.com/story/everyones-making-money-off-gta-6-this-week-except-investors-in-take-twos-stock-489ee01b?mod=mw_rss_topstories"
+        },
+        {
+          "title": "The hidden catch in Anthropic’s IPO: Billions of locked-up shares are waiting in the wings",
+          "link": "https://www.marketwatch.com/story/the-hidden-catch-in-anthropics-ipo-billions-of-locked-up-shares-are-waiting-in-the-wings-279d33ce?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-20T19:53:51.594Z"
+      "updatedAt": "2026-11-21T01:17:14.607Z"
     },
     "Fox News": {
       "items": [
@@ -38,31 +38,35 @@
           "link": "https://www.foxnews.com/opinion/americans-dont-choose-between-ai-future-ripping-off-copyright-owners"
         },
         {
-          "title": "Trevor Lawrence says Jaguars are 'really far from playing our best' despite 7-2 record",
-          "link": "https://www.foxnews.com/outkick-sports/trevor-lawrence-says-jaguars-really-far-playing-best-despite-7-2-record"
+          "title": "'Enough': Protesters decry antisemitism after Hunter College student event including Jewish group is canceled",
+          "link": "https://www.foxnews.com/media/enough-protesters-decry-antisemitism-after-hunter-college-student-event-including-jewish-group-canceled"
         },
         {
-          "title": "New York City mayor Zohran Mamdani shows up to City Hall event on crutches thanks to soccer injury",
-          "link": "https://www.foxnews.com/outkick-sports/new-york-city-mayor-zohran-mamdani-shows-city-hall-event-crutches-soccer-injury"
+          "title": "Fox News True Crime Newsletter: Susan Smith parole, Alex Murdaugh ruling, Lindsay Clancy appeal",
+          "link": "https://www.foxnews.com/us/fox-news-true-crime-newsletter-susan-smith-parole-alex-murdaugh-ruling-lindsay-clancy-appeal"
         },
         {
-          "title": "Uber Parking could save you from circling the block",
-          "link": "https://www.foxnews.com/tech/uber-parking-save-circling-block"
+          "title": "Charlie Sheen stunned to learn fellow actor Rob Lowe had been praying for him for years",
+          "link": "https://www.foxnews.com/media/charlie-sheen-stunned-learn-fellow-actor-rob-lowe-had-been-praying-him-years"
         },
         {
-          "title": "Tech outage cascade exposes US vulnerabilities to foreign cyber threats",
-          "link": "https://www.foxnews.com/politics/tech-outage-cascade-exposes-us-vulnerabilities-foreign-cyber-threats"
+          "title": "USDA releases decades of Bigfoot files, including 1982 Forest Service investigation in Washington state",
+          "link": "https://www.foxnews.com/us/usda-releases-decades-bigfoot-files-1982-forest-service-investigation-washington-state"
         },
         {
-          "title": "Indianapolis Colts cut NFL interception leader Daniel Jones and give starting QB job to Anthony Richardson",
-          "link": "https://www.foxnews.com/outkick-sports/indianapolis-colts-cut-nfl-interception-leader-daniel-jones-give-starting-qb-job-anthony-richardson"
+          "title": "Zoo shares autopsy findings following Fiona the hippo’s heartbreaking death",
+          "link": "https://www.foxnews.com/us/zoo-shares-autopsy-findings-fiona-hippos-heartbreaking-death"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-20T19:53:51.703Z"
+      "updatedAt": "2026-11-21T01:17:14.730Z"
     },
     "Real Clear Politics": {
       "items": [
+        {
+          "title": "Is the Fed About To Make a Classic Blunder?",
+          "link": "https://www.realclearpolitics.com/markets/links/is-the-fed-about-to-make-a-classic-blunder-2026-11-20"
+        },
         {
           "title": "Gettysburg's Main Oration Proved an Easy Act To Follow",
           "link": "https://www.realclearpolitics.com/history/links/gettysburgs-main-oration-proved-an-easy-act-to-follow-2026-11-20"
@@ -82,69 +86,69 @@
         {
           "title": "Is the Future Floridian?",
           "link": "https://www.realclearpolitics.com/republican-party/links/is-the-future-floridian-2026-11-20"
-        },
-        {
-          "title": "Welcome to the 2028 Democratic Primary",
-          "link": "https://www.realclearpolitics.com/presidential/links/welcome-to-the-2028-democratic-primary-2026-11-20"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-20T19:53:51.755Z"
+      "updatedAt": "2026-11-21T01:17:14.789Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Watch live: Trump, Dana White host helipad reception honoring Marine Band",
-          "link": "https://thehill.com/homenews/administration/6233969-live-dana-white-trump-helipad-reception/"
+          "title": "Sotomayor suggests Supreme Court colleagues may applaud midterm results as safeguard",
+          "link": "https://thehill.com/regulation/court-battles/6234774-justice-sotomayor-midterm-safeguards/"
         },
         {
-          "title": "Vance deflects on whether Iran war worth political price",
-          "link": "https://thehill.com/homenews/administration/6233999-vance-iran-war-midterm-elections/"
+          "title": "Court formally approves $7.25B class settlement for cancer claims from Roundup weed killer",
+          "link": "https://thehill.com/policy/energy-environment/6234796-judge-approves-roundup-settlement/"
         },
         {
-          "title": "New report highlights mental health struggles of NHL goalies",
-          "link": "https://thehill.com/policy/healthcare/6231966-mental-health-struggles-nhl-goalies-study/"
+          "title": "Casten, Lieu propose whistleblower program for prediction market insider trading",
+          "link": "https://thehill.com/homenews/house/6234775-casten-lieu-prediction-market-bill/"
         },
         {
-          "title": "Trump opens door to deals with Democrats on healthcare, Hollywood, college sports",
-          "link": "https://thehill.com/homenews/administration/6233986-trump-open-democrat-cooperation-healthcare/"
+          "title": "Exclusive: Shaheen, Coons call for ‘swift’ response to Russian incursions into allied airspace",
+          "link": "https://thehill.com/homenews/senate/6234605-shaheen-coons-condemn-russia-airspace-incursions/"
         },
         {
-          "title": "Consistent bedtimes could protect your heart health, new study",
-          "link": "https://thehill.com/policy/healthcare/6233877-consistent-bedtimes-protection-heart-health-study/"
+          "title": "Collins, Shaheen push for insulin price cap",
+          "link": "https://thehill.com/newsletters/healthcare/6234599-collins-shaheen-push-for-insulin-price-cap/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-20T19:53:52.142Z"
+      "updatedAt": "2026-11-21T01:17:15.129Z"
     },
     "Ars Technica": {
       "items": [
         {
-          "title": "Army delays detonating \"catastrophically hazardous\" lead azide amid fear, anger",
-          "link": "https://arstechnica.com/science/2026/11/outrage-questions-swirl-as-army-delays-blowing-up-stockpile-of-toxic-lead-azide/"
+          "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
+          "link": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/"
         },
         {
-          "title": "Valve says it might have to raise the price of supply-limited Steam Machines",
-          "link": "https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/"
+          "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
+          "link": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/"
         },
         {
-          "title": "US will soon announce root cause behind FAA nationwide ground stop",
-          "link": "https://arstechnica.com/gadgets/2026/11/how-faa-can-modernize-us-national-airspace-system-without-emergency-ground-stops/"
+          "title": "Google rolls out new search homepage with AI chat history and no search button",
+          "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/"
         },
         {
-          "title": "SpaceX lenders don’t want Elon Musk launching their collateral into space",
-          "link": "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/"
+          "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+          "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/"
         },
         {
-          "title": "Rocket Report: A weekend of ups and downs; Stoke celebrates engine milestone",
-          "link": "https://arstechnica.com/space/2026/11/rocket-report-a-weekend-of-ups-and-downs-stoke-celebrates-engine-milestone/"
+          "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+          "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-20T19:53:52.200Z"
+      "updatedAt": "2026-11-21T01:17:15.226Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
+          "link": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement"
+        },
         {
           "title": "Rockstar says GTA VI made $3.79 billion in its first day",
           "link": "https://www.theverge.com/games/1036279/gta-vi-sales"
@@ -160,17 +164,17 @@
         {
           "title": "Multiplying your Switch 2’s storage costs less than usual right now",
           "link": "https://www.theverge.com/gadgets/1037749/microsd-express-card-nintendo-switch-2-black-friday-2026-deal-sale"
-        },
-        {
-          "title": "Google says it’s going to shut off Google Assistant on smart speakers next year",
-          "link": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-20T19:53:52.238Z"
+      "updatedAt": "2026-11-21T01:17:15.321Z"
     },
     "BBC World": {
       "items": [
+        {
+          "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+          "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
           "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss"
@@ -180,28 +184,24 @@
           "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss"
         },
         {
+          "title": "French police officers sentenced for beating of music producer Michel Zecler",
+          "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+          "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Gérard Depardieu and French author investigated over sexual allegations",
+          "link": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
           "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-          "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Nearly 600 women killed in South Africa within three months",
-          "link": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Texas death-row inmate screams as execution takes more than one hour",
-          "link": "https://www.bbc.co.uk/news/articles/ck20vl1dd8qzo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
-          "link": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-20T19:53:52.371Z"
+      "updatedAt": "2026-11-21T01:17:15.354Z"
     },
     "BBC News": {
       "items": [
@@ -226,15 +226,27 @@
           "link": "https://www.bbc.co.uk/news/articles/cmy49lekdkkzo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+          "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
           "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-20T19:53:52.417Z"
+      "updatedAt": "2026-11-21T01:17:15.530Z"
     },
     "NY Times": {
       "items": [
+        {
+          "title": "Stocks Skid Into a Correction, as A.I. Worries Intensify",
+          "link": "https://www.nytimes.com/2026/11/20/business/anthropic-ai-stocks-sp500.html"
+        },
+        {
+          "title": "What Is a Stock Market Correction?",
+          "link": "https://www.nytimes.com/article/stock-market-correction.html"
+        },
+        {
+          "title": "The Evening: Are Nvidia Chips Helping Power the Chinese Military?",
+          "link": "https://www.nytimes.com/2026/11/20/briefing/nvidia-anthropic-ice.html"
+        },
         {
           "title": "Alice Huang, Accused of Spying on Nvidia’s CEO, Is Linked to Firms With Ties to China’s Military",
           "link": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html"
@@ -242,58 +254,46 @@
         {
           "title": "How Jensen Huang Made Humiliation Routine at Nvidia",
           "link": "https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html"
-        },
-        {
-          "title": "C.F.T.C. Officials Considered Investigating Trump’s Memecoin, Then Punted",
-          "link": "https://www.nytimes.com/2026/11/20/us/politics/cftc-cryptocurrency-trump-memecoin.html"
-        },
-        {
-          "title": "Anthropic Shares Slip as AI and Tech Stock Sell-Off Continues",
-          "link": "https://www.nytimes.com/2026/11/20/business/anthropic-ai-stocks-sp500.html"
-        },
-        {
-          "title": "Should You Invest in Anthropic? Here’s What to Consider.",
-          "link": "https://www.nytimes.com/2026/11/19/your-money/anthropic-ipo-investing.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-20T19:53:52.478Z"
+      "updatedAt": "2026-11-21T01:17:15.583Z"
     }
   },
   "indices": {
     "data": [
       {
         "name": "S&P 500",
-        "price": 6960.49,
-        "pct": -7.9503601717610035
+        "price": 6910.39,
+        "pct": -8.61291222706095
       },
       {
         "name": "Dow Jones",
-        "price": 48468.24,
-        "pct": -7.410681111150387
+        "price": 48147.33,
+        "pct": -8.02371839751813
       },
       {
         "name": "Nasdaq",
-        "price": 22798.555,
-        "pct": -9.300166651615376
+        "price": 22617.732,
+        "pct": -10.019537504967921
       },
       {
         "name": "Gold",
-        "price": 3531,
-        "pct": -8.35712431871269
+        "price": 3539,
+        "pct": -8.149493900856475
       },
       {
         "name": "Bitcoin",
-        "price": 58426.7,
-        "pct": -9.912975614040272
+        "price": 59086.26,
+        "pct": -8.949502145385054
       },
       {
         "name": "SpaceX",
-        "price": 129.43,
-        "pct": -6.95852203292359
+        "price": 127.79,
+        "pct": -8.137445187261884
       }
     ],
     "ok": true,
-    "updatedAt": "2026-11-20T19:53:52.562Z"
+    "updatedAt": "2026-11-21T01:17:15.732Z"
   }
 }
