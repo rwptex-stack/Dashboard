@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-21T21:16:20.837Z",
+  "fetchedAt": "2026-11-22T01:45:30.302Z",
   "feeds": {
     "Fox News": {
       "items": [
@@ -8,28 +8,28 @@
           "link": "https://www.foxnews.com/opinion/americans-dont-choose-between-ai-future-ripping-off-copyright-owners"
         },
         {
-          "title": "How to Bet on Week 12’s Biggest CFB Matchups Including Tennessee vs LSU, Georgia vs South Carolina",
-          "link": "https://www.foxnews.com/outkick-betting/how-bet-week-12s-biggest-cfb-matchups-including-tennessee-vs-lsu-georgia-vs-south-carolina"
+          "title": "17 major federal agencies flagged over cybersecurity gaps as watchdog warns of increased attack risk",
+          "link": "https://www.foxnews.com/politics/17-major-federal-agencies-flagged-cybersecurity-gaps-watchdog-warns-increased-attack-risk"
         },
         {
-          "title": "Fanatics Sportsbook Promo Code FOXNEWS: Get $1000 in FanCash for Tennessee-LSU, Georgia-South Carolina",
-          "link": "https://www.foxnews.com/outkick-betting/fanatics-sportsbook-promo-code-foxnews-get-1000-fancash-tennessee-lsu-georgia-south-carolina"
+          "title": "Raiders owner calls 'Madden' film an 'absolute crime' for its treatment of late father Al Davis",
+          "link": "https://www.foxnews.com/outkick-sports/raiders-owner-calls-madden-film-absolute-crime-treatment-late-father-al-davis"
         },
         {
-          "title": "Grand Theft Auto VI mania could endanger marriages as relationship coach exposes red flag",
-          "link": "https://www.foxnews.com/health/grand-theft-auto-vi-mania-endanger-marriages-relationship-coach-exposes-red-flag"
+          "title": "NYC suspect in Chinatown fatal beating had 5 open cases as Mamdani pushes plan to close Rikers",
+          "link": "https://www.foxnews.com/us/nyc-suspect-chinatown-fatal-beating-5-open-cases-mamdani-pushes-plan-close-rikers"
         },
         {
-          "title": "As a hot sleeper, I live in these Cozy Earth pajamas every winter — now 20% off for FOX readers",
-          "link": "https://www.foxnews.com/deals/cozy-earth-bamboo-pajamas"
+          "title": "Titans' Jaylen Harrell allegedly 'assaulted' rideshare driver before Tampa car accident, police say",
+          "link": "https://www.foxnews.com/outkick-sports/titans-jaylen-harrell-allegedly-assaulted-rideshare-driver-tampa-car-accident-police-say"
         },
         {
-          "title": "Army cadets sneak into Navy's stadium to leave a special message in the upper deck",
-          "link": "https://www.foxnews.com/outkick-sports/army-cadets-sneak-navy-stadium-leave-special-message-upper-deck"
+          "title": "Fifth-ranked Texas dominates Arkansas as Arch Manning is heating up ahead of the College Football Playoff",
+          "link": "https://www.foxnews.com/outkick-sports/no-5-texas-dominates-arkansas-arch-manning-heating-college-football-playoffs"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-21T21:16:18.665Z"
+      "updatedAt": "2026-11-22T01:45:28.045Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,36 +59,40 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-21T21:16:18.846Z"
+      "updatedAt": "2026-11-22T01:45:28.189Z"
     },
     "The Hill": {
       "items": [
         {
+          "title": "Rounds: Pentagon restricted socialization between US, Canada defense officials",
+          "link": "https://thehill.com/policy/defense/6235519-dod-limits-us-canada-socializing/"
+        },
+        {
+          "title": "Sunday shows preview: Trump's security agenda, House leadership elections take center stage",
+          "link": "https://thehill.com/homenews/sunday-talk-shows/6235459-house-leadership-trump-national-security/"
+        },
+        {
+          "title": "Hubbard leads Foxx by 330 votes after recount",
+          "link": "https://thehill.com/homenews/campaign/6235449-hubbard-leads-foxx-recount/"
+        },
+        {
+          "title": "Trump's grip on GOP tested as MAGA allies head for exit",
+          "link": "https://thehill.com/homenews/campaign/6234314-trump-maga-split-midterms/"
+        },
+        {
           "title": "Trump praises Zacharia amid California state bar investigation",
           "link": "https://thehill.com/homenews/administration/6235423-trump-defends-zacharia-departure/"
-        },
-        {
-          "title": "Trump wants to work with Democrats on placing 10 percent cap on credit card interest rates",
-          "link": "https://thehill.com/business/6235394-trump-calls-credit-card-cap/"
-        },
-        {
-          "title": "Trump praises Jeffries's Speakership nod despite Stephen Miller jabs",
-          "link": "https://thehill.com/homenews/administration/6235390-trump-praises-jeffries-speaker/"
-        },
-        {
-          "title": "Trump on reported FBI hack: 'I always like to put things in a positive spin'",
-          "link": "https://thehill.com/homenews/administration/6235305-trump-fbi-database-breach-comments/"
-        },
-        {
-          "title": "Cruz says he is already working with Talarico on bringing Space Academy to Texas",
-          "link": "https://thehill.com/homenews/senate/6235304-cruz-talarico-texas-space-academy/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-21T21:16:19.303Z"
+      "updatedAt": "2026-11-22T01:45:28.600Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
+          "link": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/"
+        },
         {
           "title": "“Race realism” isn’t realistic—and it isn’t good science",
           "link": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/"
@@ -104,17 +108,21 @@
         {
           "title": "Google rolls out new search homepage with AI chat history and no search button",
           "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/"
-        },
-        {
-          "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
-          "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-21T21:16:19.420Z"
+      "updatedAt": "2026-11-22T01:45:28.696Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "Amazon is complaining about NYC Council on shipping labels, too",
+          "link": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label"
+        },
+        {
+          "title": "The UN fails to agree on rules regulating ‘killer robots’",
+          "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots"
+        },
         {
           "title": "The FBI and USDA were reportedly hacked",
           "link": "https://www.theverge.com/tech/1039543/fbi-usda-hacked"
@@ -126,18 +134,10 @@
         {
           "title": "Amazon’s first digital photo frame is up to 50 percent off for Black Friday",
           "link": "https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale"
-        },
-        {
-          "title": "Can Anthropic afford to put safety first?",
-          "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure"
-        },
-        {
-          "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
-          "link": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-21T21:16:19.540Z"
+      "updatedAt": "2026-11-22T01:45:28.747Z"
     },
     "BBC World": {
       "items": [
@@ -150,28 +150,28 @@
           "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-          "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
           "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "FBI reportedly investigating apparent hack of its criminal database",
-          "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
           "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "French police officers sentenced for beating of music producer Michel Zecler",
-          "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss"
+          "title": "FBI reportedly investigating apparent hack of its criminal database",
+          "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+          "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Man convicted of starting Palisades fire in Los Angeles",
+          "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-21T21:16:19.697Z"
+      "updatedAt": "2026-11-22T01:45:28.899Z"
     },
     "BBC News": {
       "items": [
@@ -201,10 +201,18 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-21T21:16:19.724Z"
+      "updatedAt": "2026-11-22T01:45:28.922Z"
     },
     "NY Times": {
       "items": [
+        {
+          "title": "Drones, Texts and Diversions: How Mexico Captured a Most Wanted Man",
+          "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-captures-drug-kingpin.html"
+        },
+        {
+          "title": "Who Is the Mexican Drug Kingpin Known as El Chapo Isidro?",
+          "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html"
+        },
         {
           "title": "Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.",
           "link": "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html"
@@ -214,20 +222,12 @@
           "link": "https://www.nytimes.com/2026/11/21/business/anthropic-stock-wall-street-silicon-valley.html"
         },
         {
-          "title": "Powerful Health Panel Has Tumultuous First Meeting With RFK Jr’s Appointees",
-          "link": "https://www.nytimes.com/2026/11/20/well/rfk-jr-uspstf-panel-meeting.html"
-        },
-        {
-          "title": "A New Trump Tactic to Restrict Transit Funding: Rewrite the Rules",
-          "link": "https://www.nytimes.com/2026/11/21/upshot/trump-transit-grants.html"
-        },
-        {
           "title": "Trump Moves to Restrict Congressional Oversight of Contractors",
           "link": "https://www.nytimes.com/2026/11/21/us/politics/trump-congressional-oversight-contractors.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-21T21:16:19.896Z"
+      "updatedAt": "2026-11-22T01:45:29.132Z"
     },
     "ARTNews": {
       "items": [
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-21T21:16:20.070Z"
+      "updatedAt": "2026-11-22T01:45:29.369Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-21T21:16:20.240Z"
+      "updatedAt": "2026-11-22T01:45:29.461Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-21T21:16:20.745Z"
+      "updatedAt": "2026-11-22T01:45:30.186Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-21T21:16:20.837Z"
+      "updatedAt": "2026-11-22T01:45:30.302Z"
     }
   }
 }
