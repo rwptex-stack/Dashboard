@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-22T02:59:53.611Z",
+  "fetchedAt": "2026-11-22T11:07:43.524Z",
   "feeds": {
     "MarketWatch": {
       "items": [
@@ -29,7 +29,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-22T02:59:52.763Z"
+      "updatedAt": "2026-11-22T11:07:42.164Z"
     },
     "Fox News": {
       "items": [
@@ -38,28 +38,28 @@
           "link": "https://www.foxnews.com/opinion/americans-dont-choose-between-ai-future-ripping-off-copyright-owners"
         },
         {
-          "title": "Florida man sentenced to death for 'cold, calculated' murder of attorney whose body was never found",
-          "link": "https://www.foxnews.com/us/florida-man-sentenced-death-cold-calculated-murder-attorney-body-never-found"
+          "title": "American Culture Quiz: Test yourself on maritime mysteries and patriotic performers",
+          "link": "https://www.foxnews.com/lifestyle/american-culture-quiz-test-yourself-maritime-mysteries-patriotic-performers"
         },
         {
-          "title": "These cute weighted stuffed animals make great gifts — FOX readers save 15%",
-          "link": "https://www.foxnews.com/deals/hugz-weighted-animals"
+          "title": "Apex predator at center of farmers vs environmentalists fight as Trump weighs major move: 'Out of control'",
+          "link": "https://www.foxnews.com/politics/apex-predator-center-farmers-vs-environmentalists-fight-trump-weighs-major-move-out-control"
         },
         {
-          "title": "Indiana's national championship defense on the brink after overtime upset to Washington",
-          "link": "https://www.foxnews.com/outkick-sports/indianas-national-championship-defense-brink-overtime-upset-washington"
+          "title": "The Pennsylvania farm behind a White House Thanksgiving turkey tradition",
+          "link": "https://www.foxnews.com/culture/jaindl-farms-white-house-thanksgiving-turkeys"
         },
         {
-          "title": "Ronny Hallin, who played Maxine on 'Laverne & Shirley,' dies at 88 after decades in television: report",
-          "link": "https://www.foxnews.com/entertainment/ronny-hallin-played-maxine-laverne-shirley-dies-88-decades-television-report"
+          "title": "Georgia has top College Football Playoff seed in sight with dominating road win over No 21 South Carolina",
+          "link": "https://www.foxnews.com/outkick-sports/georgia-top-college-football-playoff-seed-sight-dominating-road-win-no-21-south-carolina"
         },
         {
-          "title": "UCLA QB concerns deepen as Ty Dieffenbach is carted off in triple-overtime upset loss to Michigan",
-          "link": "https://www.foxnews.com/outkick-sports/ucla-qb-concerns-deepen-ty-dieffenbach-carted-off-triple-overtime-upset-loss-michigan"
+          "title": "Three killed, one injured in shooting at Ohio baby shower, police say",
+          "link": "https://www.foxnews.com/us/three-killed-one-injured-shooting-ohio-baby-shower-police-say"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-22T02:59:52.812Z"
+      "updatedAt": "2026-11-22T11:07:42.338Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -89,33 +89,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-22T02:59:52.847Z"
+      "updatedAt": "2026-11-22T11:07:42.423Z"
     },
     "The Hill": {
       "items": [
         {
+          "title": "House Democrats split over risking lame-duck shutdown to defund Iran war",
+          "link": "https://thehill.com/homenews/house/6234623-house-lame-duck-shutdown-risk/"
+        },
+        {
+          "title": "Trump administration ready to deploy 'secret weapon' against higher education",
+          "link": "https://thehill.com/homenews/education/6231125-trump-college-accreditation-intellectual-diversity/"
+        },
+        {
+          "title": "Democrats swept Congress on high prices. Here’s how they plan to bring costs down",
+          "link": "https://thehill.com/the-120/6233863-democrats-plan-lower-costs/"
+        },
+        {
+          "title": "Van Hollen says it's still a \"wide-open race\" for majority leader",
+          "link": "https://thehill.com/homenews/senate/6235600-van-hollen-schumer-senate-race/"
+        },
+        {
           "title": "Washington governor decries ‘out-of-control’ ICE at Seattle airport",
           "link": "https://thehill.com/homenews/state-watch/6235558-ferguson-condemns-ice-airport-detention/"
-        },
-        {
-          "title": "Rounds: Pentagon restricted socialization between US, Canada defense officials",
-          "link": "https://thehill.com/policy/defense/6235519-dod-limits-us-canada-socializing/"
-        },
-        {
-          "title": "Sunday shows preview: Trump's security agenda, House leadership elections take center stage",
-          "link": "https://thehill.com/homenews/sunday-talk-shows/6235459-house-leadership-trump-national-security/"
-        },
-        {
-          "title": "Hubbard leads Foxx by 330 votes after recount",
-          "link": "https://thehill.com/homenews/campaign/6235449-hubbard-leads-foxx-recount/"
-        },
-        {
-          "title": "Trump's grip on GOP tested as MAGA allies head for exit",
-          "link": "https://thehill.com/homenews/campaign/6234314-trump-maga-split-midterms/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-22T02:59:53.309Z"
+      "updatedAt": "2026-11-22T11:07:43.037Z"
     },
     "Ars Technica": {
       "items": [
@@ -141,7 +141,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-22T02:59:53.337Z"
+      "updatedAt": "2026-11-22T11:07:43.140Z"
     },
     "The Verge": {
       "items": [
@@ -167,97 +167,97 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-22T02:59:53.441Z"
+      "updatedAt": "2026-11-22T11:07:43.224Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-          "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss"
+          "title": "South Korea education minister resigns over exam cheating scandal",
+          "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Russia-bound ship attacked in Gulf of Finland",
           "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-          "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
           "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss"
         },
         {
+          "title": "Three killed and dozens missing after fire at Indonesian factory",
+          "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+          "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+          "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "FBI reportedly investigating apparent hack of its criminal database",
           "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-          "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Man convicted of starting Palisades fire in Los Angeles",
-          "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-22T02:59:53.478Z"
+      "updatedAt": "2026-11-22T11:07:43.286Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets Wes Streeting",
-          "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss"
+          "title": "Theresa May 'aghast' at Burnham's EU plans and says 'Brexit is done'",
+          "link": "https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Streeting calls Putin a 'cold-blooded killer' as he meets Zelensky in Kyiv",
-          "link": "https://www.bbc.co.uk/news/videos/cqevrddp91z8o?at_medium=RSS&at_campaign=rss"
+          "title": "'Move on!' Former PMs pile in with advice for Andy Burnham, but will he listen?",
+          "link": "https://www.bbc.co.uk/news/articles/cjn5023e6ez4o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-          "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss"
+          "title": "How a teen gamer and his mother helped rescue a missing girl",
+          "link": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Spitting Image co-creator Peter Fluck dies aged 85",
-          "link": "https://www.bbc.co.uk/news/articles/cm3vg9dqr6zyo?at_medium=RSS&at_campaign=rss"
+          "title": "Verstappen wins extraordinary Las Vegas Grand Prix as Ferraris collide",
+          "link": "https://www.bbc.co.uk/sport/formula1/articles/cqx2ex25pvn9o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Australia hold on for narrow win against Wales",
-          "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm25ev1z8y8o?at_medium=RSS&at_campaign=rss"
+          "title": "BBC apologises for 'any offence caused' by Strictly noise disruption",
+          "link": "https://www.bbc.co.uk/news/articles/cm8e0p5dexy6o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Catherine talks openly about how cancer changed her in documentary on BBC",
-          "link": "https://www.bbc.co.uk/news/articles/c85y14zvexz9o?at_medium=RSS&at_campaign=rss"
+          "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+          "link": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-22T02:59:53.484Z"
+      "updatedAt": "2026-11-22T11:07:43.337Z"
     },
     "NY Times": {
       "items": [
+        {
+          "title": "China’s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal",
+          "link": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html"
+        },
         {
           "title": "Drones, Texts and Diversions: How Mexico Captured a Most Wanted Man",
           "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-captures-drug-kingpin.html"
         },
         {
-          "title": "Who Is the Mexican Drug Kingpin Known as El Chapo Isidro?",
-          "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html"
+          "title": "Looking for the Formula to Stop an Apocalypse",
+          "link": "https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html"
         },
         {
-          "title": "Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.",
-          "link": "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html"
+          "title": "Republicans Debate Why They Lost the Midterms, and if Trump Is to Blame",
+          "link": "https://www.nytimes.com/2026/11/22/us/politics/republican-midterm-loss-debate-trump.html"
         },
         {
-          "title": "Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon Valley",
-          "link": "https://www.nytimes.com/2026/11/21/business/anthropic-stock-wall-street-silicon-valley.html"
-        },
-        {
-          "title": "Trump Moves to Restrict Congressional Oversight of Contractors",
-          "link": "https://www.nytimes.com/2026/11/21/us/politics/trump-congressional-oversight-contractors.html"
+          "title": "Is Annie Andrews Too Real for the Senate? South Carolinians Are About to Find Out.",
+          "link": "https://www.nytimes.com/2026/11/22/us/politics/annie-andrews-south-carolina-senate.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-22T02:59:53.497Z"
+      "updatedAt": "2026-11-22T11:07:43.404Z"
     }
   },
   "indices": {
@@ -280,12 +280,12 @@
       {
         "name": "Gold",
         "price": 3515.4,
-        "pct": -8.76200363353231
+        "pct": -9.026447906423057
       },
       {
         "name": "Bitcoin",
-        "price": 59356.73,
-        "pct": -5.763920599443068
+        "price": 60873.22,
+        "pct": -3.3563069716345555
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-11-22T02:59:53.611Z"
+    "updatedAt": "2026-11-22T11:07:43.524Z"
   }
 }
