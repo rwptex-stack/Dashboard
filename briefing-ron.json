@@ -1,35 +1,35 @@
 {
-  "fetchedAt": "2026-11-22T11:07:43.524Z",
+  "fetchedAt": "2026-11-22T19:22:10.211Z",
   "feeds": {
     "MarketWatch": {
       "items": [
         {
-          "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
-          "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories"
+          "title": "These little-known investments could be among the best bargains in a crash",
+          "link": "https://www.marketwatch.com/story/these-little-known-investments-could-be-among-the-best-bargains-in-a-crash-78a379b4?mod=mw_rss_topstories"
         },
         {
-          "title": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?",
-          "link": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories"
+          "title": "Private equity has been buying up hospice centers — with striking consequences",
+          "link": "https://www.marketwatch.com/story/private-equity-has-been-buying-up-hospice-centers-with-striking-consequences-63642545?mod=mw_rss_topstories"
         },
         {
-          "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
-          "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories"
+          "title": "‘Nvidia’s turmoil has me spooked’: Is it time to sell my stocks and buy real estate?",
+          "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories"
         },
         {
-          "title": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?",
-          "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories"
+          "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+          "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories"
         },
         {
-          "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
-          "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories"
+          "title": "‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch",
+          "link": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories"
         },
         {
-          "title": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
-          "link": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories"
+          "title": "‘Never too late to start’: Practical investing advice from some of the top women in finance",
+          "link": "https://www.marketwatch.com/story/never-too-late-to-start-practical-investing-advice-from-some-of-the-top-women-in-finance-e01f0755?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-22T11:07:42.164Z"
+      "updatedAt": "2026-11-22T19:22:08.898Z"
     },
     "Fox News": {
       "items": [
@@ -38,87 +38,91 @@
           "link": "https://www.foxnews.com/opinion/americans-dont-choose-between-ai-future-ripping-off-copyright-owners"
         },
         {
-          "title": "American Culture Quiz: Test yourself on maritime mysteries and patriotic performers",
-          "link": "https://www.foxnews.com/lifestyle/american-culture-quiz-test-yourself-maritime-mysteries-patriotic-performers"
+          "title": "Sophie Cunningham throws her hat in the ring for next Bond girl as Robert Pattinson set to lead next film",
+          "link": "https://www.foxnews.com/outkick-sports/sophie-cunningham-throws-hat-ring-next-bond-girl-robert-pattinson-lead-next-film"
         },
         {
-          "title": "Apex predator at center of farmers vs environmentalists fight as Trump weighs major move: 'Out of control'",
-          "link": "https://www.foxnews.com/politics/apex-predator-center-farmers-vs-environmentalists-fight-trump-weighs-major-move-out-control"
+          "title": "Trump warns of new strikes against Iran after new year, calls negotiators ‘professional tap dancers’",
+          "link": "https://www.foxnews.com/politics/trump-warns-new-strikes-against-iran-after-new-year-calls-negotiators-professional-tap-dancers"
         },
         {
-          "title": "The Pennsylvania farm behind a White House Thanksgiving turkey tradition",
-          "link": "https://www.foxnews.com/culture/jaindl-farms-white-house-thanksgiving-turkeys"
+          "title": "Wild trail cam footage shows buck protecting a doe by tossing a bobcat giving chase with its antlers",
+          "link": "https://www.foxnews.com/outkick-sports/wild-trail-cam-footage-shows-buck-protecting-doe-tossing-bobcat-giving-chase-antlers"
         },
         {
-          "title": "Georgia has top College Football Playoff seed in sight with dominating road win over No 21 South Carolina",
-          "link": "https://www.foxnews.com/outkick-sports/georgia-top-college-football-playoff-seed-sight-dominating-road-win-no-21-south-carolina"
+          "title": "FDA clears tiny surgical robot to remove bladder tumors",
+          "link": "https://www.foxnews.com/tech/fda-clears-tiny-surgical-robot-remove-bladder-tumors"
         },
         {
-          "title": "Three killed, one injured in shooting at Ohio baby shower, police say",
-          "link": "https://www.foxnews.com/us/three-killed-one-injured-shooting-ohio-baby-shower-police-say"
+          "title": "Relive golden age of American road trips at these 10 classic Route 66 stops",
+          "link": "https://www.foxnews.com/travel/relive-golden-age-american-road-trips-10-classic-route-66-stops"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-22T11:07:42.338Z"
+      "updatedAt": "2026-11-22T19:22:08.968Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "Welcome to the Age of Endless Digital Breakdowns",
-          "link": "https://www.realclearpolitics.com/technology/links/welcome-to-the-age-of-endless-digital-breakdowns-2026-11-21"
+          "title": "I Woke Up at 3 To Watch New Melania Trump Series",
+          "link": "https://www.realclearpolitics.com/the-media-free-press/links/i-woke-up-at-3-to-watch-new-melania-trump-series-2026-11-22"
         },
         {
-          "title": "The Senate Filibuster Hangs by a Thread",
-          "link": "https://www.realclearpolitics.com/congress/links/the-senate-filibuster-hangs-by-a-thread-2026-11-21"
+          "title": "Bringing American Heroism Back to the Screen",
+          "link": "https://www.realclearpolitics.com/cultural-issues/links/bringing-american-heroism-back-to-the-screen-2026-11-22"
         },
         {
-          "title": "How a White House Briefing Turned Into a 2028 Tryout",
-          "link": "https://www.realclearpolitics.com/state-elections/links/how-a-white-house-briefing-turned-into-a-2028-tryout-2026-11-21"
+          "title": "Ties to Nvidia May Spell Lutnick's Downfall",
+          "link": "https://www.realclearpolitics.com/foreign-policy-national-security/links/ties-to-nvidia-may-spell-lutnicks-downfall-2026-11-22"
         },
         {
-          "title": "Silicon Valley’s Search for 'Soul’ of AI Deeply Troubling",
-          "link": "https://www.realclearpolitics.com/freedom-of-religion/links/silicon-valleys-search-for-soul-of-ai-deeply-troubling-2026-11-21"
+          "title": "Is Schumer the Problem? Or Is It the Job Itself?",
+          "link": "https://www.realclearpolitics.com/congress/links/is-schumer-the-problem-or-is-it-the-job-itself-2026-11-22"
         },
         {
-          "title": "Slotkin, Democrats Should Rethink Inquisitions",
-          "link": "https://www.realclearpolitics.com/congress/links/slotkin-democrats-should-rethink-inquisitions-2026-11-21"
+          "title": "SNL Sketch Sparks a Conversation About Family Caregiving",
+          "link": "https://www.realclearpolitics.com/health-care/links/snl-sketch-sparks-a-conversation-about-family-caregiving-2026-11-22"
         },
         {
-          "title": "Jeffries Thinks He’s the Man for This Moment",
-          "link": "https://www.realclearpolitics.com/democratic-party/links/jeffries-thinks-hes-the-man-for-this-moment-2026-11-21"
+          "title": "Truly a Golden Age--of BS",
+          "link": "https://www.realclearpolitics.com/executive/links/truly-a-golden-age--of-bs-2026-11-22"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-22T11:07:42.423Z"
+      "updatedAt": "2026-11-22T19:22:09.072Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "House Democrats split over risking lame-duck shutdown to defund Iran war",
-          "link": "https://thehill.com/homenews/house/6234623-house-lame-duck-shutdown-risk/"
+          "title": "Foxx concedes to Hubbard in North Carolina House race",
+          "link": "https://thehill.com/homenews/6236031-foxx-concedes-nc-5th/"
         },
         {
-          "title": "Trump administration ready to deploy 'secret weapon' against higher education",
-          "link": "https://thehill.com/homenews/education/6231125-trump-college-accreditation-intellectual-diversity/"
+          "title": "Live updates: Clayton calls Trump's trilateral talks 'remarkable'; Foxx concedes to Hubbard in North Carolina",
+          "link": "https://thehill.com/homenews/administration/6235588-live-updates-congress-leadership-fight-ramps-up/"
         },
         {
-          "title": "Democrats swept Congress on high prices. Here’s how they plan to bring costs down",
-          "link": "https://thehill.com/the-120/6233863-democrats-plan-lower-costs/"
+          "title": "Bessent compares tech outages to vaccines",
+          "link": "https://thehill.com/homenews/administration/6236005-bessent-bank-outage-vaccine-analogy/"
         },
         {
-          "title": "Van Hollen says it's still a \"wide-open race\" for majority leader",
-          "link": "https://thehill.com/homenews/senate/6235600-van-hollen-schumer-senate-race/"
+          "title": "Flanagan says she 'appreciates' Schumer, but Van Hollen leads 'like an organizer'",
+          "link": "https://thehill.com/homenews/senate/6235792-peggy-flanagan-van-hollen/"
         },
         {
-          "title": "Washington governor decries ‘out-of-control’ ICE at Seattle airport",
-          "link": "https://thehill.com/homenews/state-watch/6235558-ferguson-condemns-ice-airport-detention/"
+          "title": "US ports face onslaught of cyber attacks",
+          "link": "https://thehill.com/policy/technology/6235972-us-ports-ai-cyberattacks/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-22T11:07:43.037Z"
+      "updatedAt": "2026-11-22T19:22:09.606Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
+          "link": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/"
+        },
         {
           "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
           "link": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/"
@@ -134,118 +138,110 @@
         {
           "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
           "link": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/"
-        },
-        {
-          "title": "Google rolls out new search homepage with AI chat history and no search button",
-          "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-22T11:07:43.140Z"
+      "updatedAt": "2026-11-22T19:22:09.702Z"
     },
     "The Verge": {
       "items": [
         {
-          "title": "Amazon is complaining about NYC Council on shipping labels, too",
-          "link": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label"
+          "title": "Delta flights in and out of Atlanta delayed due to system outage",
+          "link": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage"
         },
         {
-          "title": "The UN fails to agree on rules regulating ‘killer robots’",
-          "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots"
+          "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+          "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music"
         },
         {
-          "title": "The FBI and USDA were reportedly hacked",
-          "link": "https://www.theverge.com/tech/1039543/fbi-usda-hacked"
+          "title": "Some of our favorite Switch 2 games are cheaper through Black Friday",
+          "link": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale"
         },
         {
-          "title": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
-          "link": "https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview"
+          "title": "Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk",
+          "link": "https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review"
         },
         {
-          "title": "Amazon’s first digital photo frame is up to 50 percent off for Black Friday",
-          "link": "https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale"
+          "title": "Protesters storm Meta offices in India",
+          "link": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-22T11:07:43.224Z"
+      "updatedAt": "2026-11-22T19:22:09.771Z"
     },
     "BBC World": {
       "items": [
+        {
+          "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+          "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "What's next after no deal at COP31 climate talks?",
+          "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+          "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+          "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+          "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "South Korea education minister resigns over exam cheating scandal",
           "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Russia-bound ship attacked in Gulf of Finland",
-          "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-          "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "Three killed and dozens missing after fire at Indonesian factory",
           "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-          "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-          "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "FBI reportedly investigating apparent hack of its criminal database",
-          "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-22T11:07:43.286Z"
+      "updatedAt": "2026-11-22T19:22:09.871Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Theresa May 'aghast' at Burnham's EU plans and says 'Brexit is done'",
-          "link": "https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o?at_medium=RSS&at_campaign=rss"
+          "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+          "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "'Move on!' Former PMs pile in with advice for Andy Burnham, but will he listen?",
-          "link": "https://www.bbc.co.uk/news/articles/cjn5023e6ez4o?at_medium=RSS&at_campaign=rss"
+          "title": "Boss of British Gas owner Centrica 'hugely concerned' over impact of soaring energy bills",
+          "link": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "How a teen gamer and his mother helped rescue a missing girl",
-          "link": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss"
+          "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+          "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Verstappen wins extraordinary Las Vegas Grand Prix as Ferraris collide",
-          "link": "https://www.bbc.co.uk/sport/formula1/articles/cqx2ex25pvn9o?at_medium=RSS&at_campaign=rss"
+          "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+          "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "BBC apologises for 'any offence caused' by Strictly noise disruption",
-          "link": "https://www.bbc.co.uk/news/articles/cm8e0p5dexy6o?at_medium=RSS&at_campaign=rss"
+          "title": "RAF's next fighter jet could be last crewed combat plane, air chief says",
+          "link": "https://www.bbc.co.uk/news/articles/c68x08nzpk9no?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Miley Cyrus marries Maxx Morando in California ceremony",
-          "link": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss"
+          "title": "Russell Brand's wife says she'll honour prison rules after message row",
+          "link": "https://www.bbc.co.uk/news/articles/cq8e0pzp43w4o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-22T11:07:43.337Z"
+      "updatedAt": "2026-11-22T19:22:10.057Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "China’s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal",
-          "link": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html"
+          "title": "Democrats Clinch 258 House Seats, an Election-Year Record This Century",
+          "link": "https://www.nytimes.com/2026/11/22/us/politics/democrats-midterm-house-majority-record.html"
         },
         {
-          "title": "Drones, Texts and Diversions: How Mexico Captured a Most Wanted Man",
-          "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-captures-drug-kingpin.html"
-        },
-        {
-          "title": "Looking for the Formula to Stop an Apocalypse",
-          "link": "https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html"
+          "title": "Democrat Chuck Hubbard Defeats 11-Term Republican Virginia Foxx in North Carolina",
+          "link": "https://www.nytimes.com/2026/11/22/us/virginia-foxx-chuck-hubbard-north-carolina-house.html"
         },
         {
           "title": "Republicans Debate Why They Lost the Midterms, and if Trump Is to Blame",
@@ -254,10 +250,14 @@
         {
           "title": "Is Annie Andrews Too Real for the Senate? South Carolinians Are About to Find Out.",
           "link": "https://www.nytimes.com/2026/11/22/us/politics/annie-andrews-south-carolina-senate.html"
+        },
+        {
+          "title": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels",
+          "link": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-22T11:07:43.404Z"
+      "updatedAt": "2026-11-22T19:22:10.097Z"
     }
   },
   "indices": {
@@ -284,8 +284,8 @@
       },
       {
         "name": "Bitcoin",
-        "price": 60873.22,
-        "pct": -3.3563069716345555
+        "price": 60587.32,
+        "pct": -3.810208241138778
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-11-22T11:07:43.524Z"
+    "updatedAt": "2026-11-22T19:22:10.211Z"
   }
 }
