@@ -1,8 +1,16 @@
 {
-  "fetchedAt": "2026-11-23T00:42:29.630Z",
+  "fetchedAt": "2026-11-23T08:49:05.374Z",
   "feeds": {
     "MarketWatch": {
       "items": [
+        {
+          "title": "Stock-market slides this steep and fast trigger a rebound 91% of the time over the last decade",
+          "link": "https://www.marketwatch.com/story/stock-market-slides-this-steep-and-fast-trigger-a-rebound-91-of-the-time-over-the-last-decade-798bd2c2?mod=mw_rss_topstories"
+        },
+        {
+          "title": "The number of 401(k) millionaires drops amid stock-market swings",
+          "link": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-drops-amid-stock-market-swings-23939b94?mod=mw_rss_topstories"
+        },
         {
           "title": "Corporate America hunts for ‘generational’ growth in AI, trading cards and the L.A. airport",
           "link": "https://www.marketwatch.com/story/corporate-america-hunts-for-generational-growth-in-ai-trading-cards-and-the-l-a-airport-3072eb1a?mod=mw_rss_topstories"
@@ -18,18 +26,10 @@
         {
           "title": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill",
           "link": "https://www.marketwatch.com/story/medicare-beneficiaries-could-skip-the-nursing-home-for-cheaper-care-at-home-under-new-bill-e289c8d0?mod=mw_rss_topstories"
-        },
-        {
-          "title": "These little-known investments could be among the best bargains in a crash",
-          "link": "https://www.marketwatch.com/story/these-little-known-investments-could-be-among-the-best-bargains-in-a-crash-78a379b4?mod=mw_rss_topstories"
-        },
-        {
-          "title": "Private equity has been buying up hospice centers — with striking consequences",
-          "link": "https://www.marketwatch.com/story/private-equity-has-been-buying-up-hospice-centers-with-striking-consequences-63642545?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-23T00:42:27.839Z"
+      "updatedAt": "2026-11-23T08:49:03.987Z"
     },
     "Fox News": {
       "items": [
@@ -38,61 +38,73 @@
           "link": "https://www.foxnews.com/opinion/americans-dont-choose-between-ai-future-ripping-off-copyright-owners"
         },
         {
-          "title": "Mark Ruffalo doubles down on call to oust Schumer over 'entrenched religious beliefs and loyalties'",
-          "link": "https://www.foxnews.com/media/mark-ruffalo-doubles-down-call-oust-schumer-over-entrenched-religious-beliefs-loyalties"
+          "title": "In a world of surging hacks and attacks, is anyone running the show?",
+          "link": "https://www.foxnews.com/opinion/world-surging-hacks-attacks-anyone-running-show"
         },
         {
-          "title": "Urgent warning issued to cruise passengers about strict new law in Mexico",
-          "link": "https://www.foxnews.com/travel/urgent-warning-issued-cruise-passengers-about-strict-new-law-mexico"
+          "title": "NFL replay booth wipes out Jaguars' Parker Washington touchdown in upset loss to Giants",
+          "link": "https://www.foxnews.com/outkick-sports/nfl-replay-booth-wipes-jaguars-parker-washington-touchdown-upset-loss-giants"
         },
         {
-          "title": "'Yes, Dear' star Anthony Clark's cause of death revealed: report",
-          "link": "https://www.foxnews.com/entertainment/yes-dear-star-anthony-clarks-cause-death-revealed-report"
+          "title": "Lions' Jameson Williams does front flip touchdown celebration one week after Aidan Hutchinson's injury",
+          "link": "https://www.foxnews.com/outkick-sports/lions-jameson-williams-front-flip-touchdown-celebration-week-after-aidan-hutchinson-injury"
         },
         {
-          "title": "Chiefs and Bills take care of business ahead of the NFL’s biggest regular-season game",
-          "link": "https://www.foxnews.com/outkick-sports/chiefs-bills-take-care-business-ahead-nfl-biggest-regular-season-game"
+          "title": "San Francisco 49ers lineman Colton McKivitz suffers injury so gruesome players from both teams turn away",
+          "link": "https://www.foxnews.com/outkick-sports/san-francisco-49ers-lineman-colton-mckivitz-suffers-injury-gruesome-players-both-teams-turn-away"
         },
         {
-          "title": "Trump says Iran unleashed missile, drone surge after midterms",
-          "link": "https://www.foxnews.com/world/trump-says-iran-unleashed-missile-drone-surge-after-midterms"
+          "title": "Trump's Thanksgiving turkeys arrive at luxury DC hotel as Americans vote on their names",
+          "link": "https://www.foxnews.com/politics/trumps-thanksgiving-turkeys-arrive-luxury-dc-hotel-americans-vote-names"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-23T00:42:28.075Z"
+      "updatedAt": "2026-11-23T08:49:04.154Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "Roberts Court Deserves Accolades, Not Condemnation",
-          "link": "https://www.realclearpolitics.com/supreme-court/links/roberts-court-deserves-accolades-not-condemnation-2026-11-22"
+          "title": "I Woke Up at 3 To Watch New Melania Trump Series",
+          "link": "https://www.realclearpolitics.com/the-media-free-press/links/i-woke-up-at-3-to-watch-new-melania-trump-series-2026-11-22"
         },
         {
-          "title": "The Sisterhood Rocks",
-          "link": "https://www.realclearpolitics.com/health-care/links/the-sisterhood-rocks-2026-11-22"
+          "title": "Bringing American Heroism Back to the Screen",
+          "link": "https://www.realclearpolitics.com/cultural-issues/links/bringing-american-heroism-back-to-the-screen-2026-11-22"
         },
         {
-          "title": "The Underdog Story Behind Rocky's Hollywood Miracle",
-          "link": "https://www.realclearpolitics.com/cultural-issues/links/the-underdog-story-behind-rockys-hollywood-miracle-2026-11-22"
+          "title": "Ties to Nvidia May Spell Lutnick's Downfall",
+          "link": "https://www.realclearpolitics.com/foreign-policy-national-security/links/ties-to-nvidia-may-spell-lutnicks-downfall-2026-11-22"
         },
         {
-          "title": "Are Executive, Legislative Branches Growing Irrelevant?",
-          "link": "https://www.realclearpolitics.com/supreme-court/links/are-executive-legislative-branches-growing-irrelevant-2026-11-22"
+          "title": "Is Schumer the Problem? Or Is It the Job Itself?",
+          "link": "https://www.realclearpolitics.com/congress/links/is-schumer-the-problem-or-is-it-the-job-itself-2026-11-22"
         },
         {
-          "title": "Blue Wave Started in the Strait of Hormuz",
-          "link": "https://www.realclearpolitics.com/foreign-policy-national-security/links/blue-wave-started-in-the-strait-of-hormuz-2026-11-22"
+          "title": "SNL Sketch Sparks a Conversation About Family Caregiving",
+          "link": "https://www.realclearpolitics.com/health-care/links/snl-sketch-sparks-a-conversation-about-family-caregiving-2026-11-22"
         },
         {
-          "title": "Race Is On: Dems' Wide-Open Presidential Primary",
-          "link": "https://www.realclearpolitics.com/presidential/links/race-is-on-dems-wide-open-presidential-primary-2026-11-22"
+          "title": "Truly a Golden Age--of BS",
+          "link": "https://www.realclearpolitics.com/executive/links/truly-a-golden-age--of-bs-2026-11-22"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-23T00:42:28.206Z"
+      "updatedAt": "2026-11-23T08:49:04.303Z"
     },
     "The Hill": {
       "items": [
+        {
+          "title": "John Kennedy on potential 2028 presidential run: 'If I get really fed up, I could run'",
+          "link": "https://thehill.com/homenews/campaign/6236538-john-kennedy-on-potential-2028-presidential-run-if-i-get-really-fed-up-i-could-run/"
+        },
+        {
+          "title": "Kennedy calls Trump, Putin and Xi meeting a 'good thing'",
+          "link": "https://thehill.com/policy/international/6236521-kennedy-calls-trump-putin-and-xi-meeting-a-good-thing/"
+        },
+        {
+          "title": "Van Hollen says Democrats have a 'generational opportunity' in the Senate, but the party is 'on probation'",
+          "link": "https://thehill.com/the-120/6236489-van-hollen-democrats-have-a-generational-opportunity-in-the-senate-but-the-party-is-on-probation/"
+        },
         {
           "title": "Mamdani releases 84,000 more 9/11 records",
           "link": "https://thehill.com/homenews/state-watch/6236426-zohran-mamdani-releases-new-911-records/"
@@ -100,22 +112,10 @@
         {
           "title": "Russian ship docked in Libya hit in suspected drone attack",
           "link": "https://thehill.com/policy/international/6236346-russian-ship-docked-in-libya-hit-in-suspected-drone-attack/"
-        },
-        {
-          "title": "This Week on The Hill: Lawmakers break for Thanksgiving as year-end agenda looms",
-          "link": "https://thehill.com/premium/6234918-congress-lame-duck-agenda-thanksgiving-deadlines/"
-        },
-        {
-          "title": "Jeffries faces growing pains with large majority and sprawling investigative agenda",
-          "link": "https://thehill.com/the-120/6234822-hakeem-jeffries-democratic-house-speaker-agenda/"
-        },
-        {
-          "title": "Democrats secure largest House majority in election in three decades",
-          "link": "https://thehill.com/homenews/house/6236301-democrats-secure-house-majority/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-23T00:42:28.924Z"
+      "updatedAt": "2026-11-23T08:49:04.834Z"
     },
     "Ars Technica": {
       "items": [
@@ -141,10 +141,14 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-23T00:42:29.069Z"
+      "updatedAt": "2026-11-23T08:49:04.973Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
+          "link": "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink"
+        },
         {
           "title": "We haven’t seen the last of the major tech outages",
           "link": "https://www.theverge.com/tech/1039851/major-tech-outages"
@@ -160,78 +164,74 @@
         {
           "title": "Some of our favorite Switch 2 games are cheaper through Black Friday",
           "link": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale"
-        },
-        {
-          "title": "Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk",
-          "link": "https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-23T00:42:29.192Z"
+      "updatedAt": "2026-11-23T08:49:05.043Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+          "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
           "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "What's next after no deal at COP31 climate talks?",
-          "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss"
+          "title": "Five takeaways from the failed climate talks COP31",
+          "link": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+          "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+          "link": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Russian ships hit by Ukrainian drones off Libya coast, Zelensky says",
           "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-          "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
-          "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "South Korea education minister resigns over exam cheating scandal",
-          "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Three killed and dozens missing after fire at Indonesian factory",
-          "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "ok": true,
-      "updatedAt": "2026-11-23T00:42:29.282Z"
-    },
-    "BBC News": {
-      "items": [
-        {
-          "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-          "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "What's next after no deal at COP31 climate talks?",
-          "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Boss of British Gas owner Centrica 'hugely concerned' over impact of soaring energy bills",
-          "link": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-          "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
+          "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+          "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
           "link": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
-          "link": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss"
+          "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+          "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-23T00:42:29.301Z"
+      "updatedAt": "2026-11-23T08:49:05.117Z"
+    },
+    "BBC News": {
+      "items": [
+        {
+          "title": "Manchester's Co-op Live evacuated after 'unknown substance' let off in crowd",
+          "link": "https://www.bbc.co.uk/news/articles/c9e851dn8516o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "NHS launches world's largest AI breast cancer screening trial",
+          "link": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
+          "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "What's next after no deal at COP31 climate talks?",
+          "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+          "link": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Pip assessments need 'fundamental overhaul', report to say",
+          "link": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "ok": true,
+      "updatedAt": "2026-11-23T08:49:05.152Z"
     },
     "NY Times": {
       "items": [
@@ -244,20 +244,20 @@
           "link": "https://www.nytimes.com/2026/11/22/us/politics/democrats-midterm-house-majority-record.html"
         },
         {
+          "title": "Why Democrat Abdul El-Sayed is Talking Up ‘TrumpCare’",
+          "link": "https://www.nytimes.com/2026/11/22/us/politics/el-sayed-trump-health-care.html"
+        },
+        {
           "title": "Democrat Chuck Hubbard Defeats 11-Term Republican Virginia Foxx in North Carolina",
           "link": "https://www.nytimes.com/2026/11/22/us/virginia-foxx-chuck-hubbard-north-carolina-house.html"
         },
         {
-          "title": "Republicans Debate Why They Lost the Midterms, and if Trump Is to Blame",
-          "link": "https://www.nytimes.com/2026/11/22/us/politics/republican-midterm-loss-debate-trump.html"
-        },
-        {
-          "title": "Is Annie Andrews Too Real for the Senate? South Carolinians Are About to Find Out.",
-          "link": "https://www.nytimes.com/2026/11/22/us/politics/annie-andrews-south-carolina-senate.html"
+          "title": "Is Mexico Stepping Up in the War on Drugs?",
+          "link": "https://www.nytimes.com/2026/11/22/world/americas/mexico-us-cartel-arrests.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-23T00:42:29.473Z"
+      "updatedAt": "2026-11-23T08:49:05.266Z"
     }
   },
   "indices": {
@@ -279,13 +279,13 @@
       },
       {
         "name": "Gold",
-        "price": 3573.7,
-        "pct": -7.517726825733657
+        "price": 3608.3,
+        "pct": -3.5703786846254553
       },
       {
         "name": "Bitcoin",
-        "price": 61075.28,
-        "pct": -1.3352434548774186
+        "price": 61403.15,
+        "pct": -0.8055821298953701
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-11-23T00:42:29.630Z"
+    "updatedAt": "2026-11-23T08:49:05.374Z"
   }
 }
