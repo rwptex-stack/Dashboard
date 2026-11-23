@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-22T22:12:43.999Z",
+  "fetchedAt": "2026-11-23T03:19:42.522Z",
   "feeds": {
     "Fox News": {
       "items": [
@@ -8,28 +8,28 @@
           "link": "https://www.foxnews.com/opinion/americans-dont-choose-between-ai-future-ripping-off-copyright-owners"
         },
         {
-          "title": "Jennifer Lopez claims not being a ‘typical’ White actress made it harder to land Hollywood movie roles",
-          "link": "https://www.foxnews.com/media/jennifer-lopez-claims-not-being-typical-white-actress-made-harder-land-hollywood-movie-roles"
+          "title": "Trump's Thanksgiving turkeys arrive at luxury DC hotel as Americans vote on their names",
+          "link": "https://www.foxnews.com/politics/trumps-thanksgiving-turkeys-arrive-luxury-dc-hotel-americans-vote-names"
         },
         {
-          "title": "Solo diners are asking restaurants for half-size portions, sparking debate over menu flexibility",
-          "link": "https://www.foxnews.com/food-drink/solo-diners-asking-restaurants-half-size-portions-sparking-debate-menu-flexibility"
+          "title": "John Malkovich recalls losing 'pretty much everything' to Bernie Madoff's Ponzi scheme",
+          "link": "https://www.foxnews.com/entertainment/john-malkovich-recalls-losing-pretty-much-everything-bernie-madoffs-ponzi-scheme"
         },
         {
-          "title": "Hakeem Jeffries calls Trump chief of staff Stephen Miller a ‘stone-cold racist,’ refuses to sit down with him",
-          "link": "https://www.foxnews.com/media/hakeem-jeffries-calls-trump-chief-staff-stephen-miller-stone-cold-racist-refuses-sit-down-him"
+          "title": "Man convicted for role in Tessa Majors' 2019 NYC killing released on parole",
+          "link": "https://www.foxnews.com/us/man-convicted-role-tessa-majors-2019-nyc-killing-released-parole"
         },
         {
-          "title": "Week 12 AP Top 25 Poll sees Big Ten powers rightfully punished while Longhorns jump the Crimson Tide",
-          "link": "https://www.foxnews.com/outkick-sports/week-12-ap-top-25-poll-big-ten-powers-rightfully-punished-longhorns-jump-crimson-tide"
+          "title": "New York Dem addresses bizarre 'lizard people' claims after viral clip behind Mamdani",
+          "link": "https://www.foxnews.com/politics/new-york-dem-addresses-bizarre-lizard-people-claims-after-viral-clip-behind-mamdani"
         },
         {
-          "title": "DK Metcalf disqualified from Steelers game for unsportsmanlike penalties including poking opponent's facemask",
-          "link": "https://www.foxnews.com/outkick-sports/dk-metcalf-disqualified-steelers-game-unsportsmanlike-penalties-poking-opponents-facemask"
+          "title": "Cam Skattebo ignores his own backflip celebration retirement promise at end of Giants victory over Jaguars",
+          "link": "https://www.foxnews.com/outkick-sports/cam-skattebo-ignores-backflip-celebration-retirement-promise-end-giants-victory-jaguars"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-22T22:12:41.090Z"
+      "updatedAt": "2026-11-23T03:19:40.216Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -59,33 +59,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-22T22:12:41.309Z"
+      "updatedAt": "2026-11-23T03:19:40.291Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Democrats secure largest House majority in election in three decades",
-          "link": "https://thehill.com/homenews/house/6236301-democrats-secure-house-majority/"
+          "title": "Kennedy calls Trump, Putin and Xi meeting a 'good thing'",
+          "link": "https://thehill.com/policy/international/6236521-kennedy-calls-trump-putin-and-xi-meeting-a-good-thing/"
         },
         {
-          "title": "El-Sayed would pass Medicare for All as 'TrumpCare': 'I don't really care what it's called",
-          "link": "https://thehill.com/homenews/senate/6235945-abdul-el-sayed-trumpcare-medicare-all/"
+          "title": "Van Hollen says Democrats have a 'generational opportunity' in the Senate, but the party is 'on probation'",
+          "link": "https://thehill.com/the-120/6236489-van-hollen-democrats-have-a-generational-opportunity-in-the-senate-but-the-party-is-on-probation/"
         },
         {
-          "title": "Democratic Rep says next Congress will focus on using AI to improve healthcare, jobs and agriculture",
-          "link": "https://thehill.com/the-120/6236244-democrats-ai-policy-focus/"
+          "title": "Mamdani releases 84,000 more 9/11 records",
+          "link": "https://thehill.com/homenews/state-watch/6236426-zohran-mamdani-releases-new-911-records/"
         },
         {
-          "title": "Flanagan says wins made by her, Mary Peltola 'makes our capitol look a little bit more like America'",
-          "link": "https://thehill.com/homenews/senate/6235791-peggy-flanagan-says-wins-made-by-her-mary-peltola-makes-our-capitol-look-a-little-bit-more-like-america/"
+          "title": "Russian ship docked in Libya hit in suspected drone attack",
+          "link": "https://thehill.com/policy/international/6236346-russian-ship-docked-in-libya-hit-in-suspected-drone-attack/"
         },
         {
-          "title": "Jeffries says he'll move to ban lawmakers from stock trading 'very early' in next Congress",
-          "link": "https://thehill.com/homenews/house/6236202-jeffries-plans-congressional-stock-ban/"
+          "title": "This Week on The Hill: Lawmakers break for Thanksgiving as year-end agenda looms",
+          "link": "https://thehill.com/premium/6234918-congress-lame-duck-agenda-thanksgiving-deadlines/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-22T22:12:41.739Z"
+      "updatedAt": "2026-11-23T03:19:41.087Z"
     },
     "Ars Technica": {
       "items": [
@@ -111,10 +111,18 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-22T22:12:41.884Z"
+      "updatedAt": "2026-11-23T03:19:41.174Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
+          "link": "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink"
+        },
+        {
+          "title": "We haven’t seen the last of the major tech outages",
+          "link": "https://www.theverge.com/tech/1039851/major-tech-outages"
+        },
         {
           "title": "Delta flights in and out of Atlanta delayed due to system outage",
           "link": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage"
@@ -126,18 +134,10 @@
         {
           "title": "Some of our favorite Switch 2 games are cheaper through Black Friday",
           "link": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale"
-        },
-        {
-          "title": "Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk",
-          "link": "https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review"
-        },
-        {
-          "title": "Protesters storm Meta offices in India",
-          "link": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-22T22:12:42.088Z"
+      "updatedAt": "2026-11-23T03:19:41.428Z"
     },
     "BBC World": {
       "items": [
@@ -150,20 +150,20 @@
           "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-          "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
+          "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+          "link": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-          "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss"
+          "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+          "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+          "link": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
           "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "South Korea education minister resigns over exam cheating scandal",
-          "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Three killed and dozens missing after fire at Indonesian factory",
@@ -171,7 +171,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-22T22:12:42.313Z"
+      "updatedAt": "2026-11-23T03:19:41.640Z"
     },
     "BBC News": {
       "items": [
@@ -184,50 +184,50 @@
           "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Boss of British Gas owner Centrica 'hugely concerned' over impact of soaring energy bills",
-          "link": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss"
+          "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+          "link": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Can AI spot breast cancer earlier? NHS launches world's largest trial to find out",
+          "link": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+          "link": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
           "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-          "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "RAF's next fighter jet could be last crewed combat plane, air chief says",
-          "link": "https://www.bbc.co.uk/news/articles/c68x08nzpk9no?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-22T22:12:42.350Z"
+      "updatedAt": "2026-11-23T03:19:41.655Z"
     },
     "NY Times": {
       "items": [
         {
+          "title": "U.S. Tracked Alice Huang’s Contacts With China Spy Agency During Nvidia Affair",
+          "link": "https://www.nytimes.com/2026/11/22/us/politics/alice-huang-china-spy-agency-nvidia.html"
+        },
+        {
           "title": "Democrats Clinch 258 House Seats, an Election-Year Record This Century",
           "link": "https://www.nytimes.com/2026/11/22/us/politics/democrats-midterm-house-majority-record.html"
+        },
+        {
+          "title": "Why Democrat Abdul El-Sayed is Talking Up ‘TrumpCare’",
+          "link": "https://www.nytimes.com/2026/11/22/us/politics/el-sayed-trump-health-care.html"
         },
         {
           "title": "Democrat Chuck Hubbard Defeats 11-Term Republican Virginia Foxx in North Carolina",
           "link": "https://www.nytimes.com/2026/11/22/us/virginia-foxx-chuck-hubbard-north-carolina-house.html"
         },
         {
-          "title": "Republicans Debate Why They Lost the Midterms, and if Trump Is to Blame",
-          "link": "https://www.nytimes.com/2026/11/22/us/politics/republican-midterm-loss-debate-trump.html"
-        },
-        {
-          "title": "Is Annie Andrews Too Real for the Senate? South Carolinians Are About to Find Out.",
-          "link": "https://www.nytimes.com/2026/11/22/us/politics/annie-andrews-south-carolina-senate.html"
-        },
-        {
-          "title": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels",
-          "link": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html"
+          "title": "Is Mexico Stepping Up in the War on Drugs?",
+          "link": "https://www.nytimes.com/2026/11/22/world/americas/mexico-us-cartel-arrests.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-22T22:12:42.505Z"
+      "updatedAt": "2026-11-23T03:19:41.781Z"
     },
     "ARTNews": {
       "items": [
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-22T22:12:42.609Z"
+      "updatedAt": "2026-11-23T03:19:41.989Z"
     },
     "Hyperallergic": {
       "items": [
@@ -287,7 +287,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-22T22:12:42.921Z"
+      "updatedAt": "2026-11-23T03:19:42.041Z"
     },
     "Contemporary Art Daily": {
       "items": [
@@ -317,7 +317,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-22T22:12:43.870Z"
+      "updatedAt": "2026-11-23T03:19:42.445Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-22T22:12:43.999Z"
+      "updatedAt": "2026-11-23T03:19:42.522Z"
     }
   }
 }
