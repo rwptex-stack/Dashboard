@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-23T03:19:42.522Z",
+  "fetchedAt": "2026-11-23T13:48:26.380Z",
   "feeds": {
     "Fox News": {
       "items": [
@@ -8,87 +8,95 @@
           "link": "https://www.foxnews.com/opinion/americans-dont-choose-between-ai-future-ripping-off-copyright-owners"
         },
         {
-          "title": "Trump's Thanksgiving turkeys arrive at luxury DC hotel as Americans vote on their names",
-          "link": "https://www.foxnews.com/politics/trumps-thanksgiving-turkeys-arrive-luxury-dc-hotel-americans-vote-names"
+          "title": "California surfer somehow escapes unscathed after massive great white shark shreds his board",
+          "link": "https://www.foxnews.com/outkick-sports/california-surfer-escapes-unscathed-massive-great-white-shark-shreds-board"
         },
         {
-          "title": "John Malkovich recalls losing 'pretty much everything' to Bernie Madoff's Ponzi scheme",
-          "link": "https://www.foxnews.com/entertainment/john-malkovich-recalls-losing-pretty-much-everything-bernie-madoffs-ponzi-scheme"
+          "title": "Giants safety had Vegas on the mind as Jaguars wide receiver's would-be touchdown catch was ruled incomplete",
+          "link": "https://www.foxnews.com/outkick-sports/giants-safety-vegas-mind-jaguars-wide-receiver-would-be-touchdown-catch-ruled-incomplete"
         },
         {
-          "title": "Man convicted for role in Tessa Majors' 2019 NYC killing released on parole",
-          "link": "https://www.foxnews.com/us/man-convicted-role-tessa-majors-2019-nyc-killing-released-parole"
+          "title": "Mystery of unknown skeleton buried at Westminster Abbey may finally be solved after 150 years",
+          "link": "https://www.foxnews.com/travel/mystery-unknown-skeleton-buried-westminster-abbey-may-finally-solved-150-years"
         },
         {
-          "title": "New York Dem addresses bizarre 'lizard people' claims after viral clip behind Mamdani",
-          "link": "https://www.foxnews.com/politics/new-york-dem-addresses-bizarre-lizard-people-claims-after-viral-clip-behind-mamdani"
+          "title": "EXCLUSIVE: NIH funded foreign labs with troubling safety lapses, including deadly bat virus experiment",
+          "link": "https://www.foxnews.com/world/exclusive-nih-funded-foreign-labs-troubling-safety-lapses-deadly-bat-virus-experiment"
         },
         {
-          "title": "Cam Skattebo ignores his own backflip celebration retirement promise at end of Giants victory over Jaguars",
-          "link": "https://www.foxnews.com/outkick-sports/cam-skattebo-ignores-backflip-celebration-retirement-promise-end-giants-victory-jaguars"
+          "title": "Google AI smartwatch could flag high blood pressure",
+          "link": "https://www.foxnews.com/tech/google-ai-smartwatch-could-flag-high-blood-pressure"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-23T03:19:40.216Z"
+      "updatedAt": "2026-11-23T13:48:24.420Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "Roberts Court Deserves Accolades, Not Condemnation",
-          "link": "https://www.realclearpolitics.com/supreme-court/links/roberts-court-deserves-accolades-not-condemnation-2026-11-22"
+          "title": "Can Democrats Take On Medical Cost Bloat?",
+          "link": "https://www.realclearpolitics.com/health-care/links/can-democrats-take-on-medical-cost-bloat-2026-11-23"
         },
         {
-          "title": "The Sisterhood Rocks",
-          "link": "https://www.realclearpolitics.com/health-care/links/the-sisterhood-rocks-2026-11-22"
+          "title": "How Democrats Can Actually Deliver Affordability",
+          "link": "https://www.realclearpolitics.com/congress/links/how-democrats-can-actually-deliver-affordability-2026-11-23"
         },
         {
-          "title": "The Underdog Story Behind Rocky's Hollywood Miracle",
-          "link": "https://www.realclearpolitics.com/cultural-issues/links/the-underdog-story-behind-rockys-hollywood-miracle-2026-11-22"
+          "title": "Justice Alito: An Actual Conservative",
+          "link": "https://www.realclearpolitics.com/supreme-court/links/justice-alito-an-actual-conservative-2026-11-23"
         },
         {
-          "title": "Are Executive, Legislative Branches Growing Irrelevant?",
-          "link": "https://www.realclearpolitics.com/supreme-court/links/are-executive-legislative-branches-growing-irrelevant-2026-11-22"
+          "title": "Is the Crackdown on International Students Working?",
+          "link": "https://www.realclearpolitics.com/education/links/is-the-crackdown-on-international-students-working-2026-11-23"
         },
         {
-          "title": "Blue Wave Started in the Strait of Hormuz",
-          "link": "https://www.realclearpolitics.com/foreign-policy-national-security/links/blue-wave-started-in-the-strait-of-hormuz-2026-11-22"
+          "title": "Why I'm Leaving Berkeley for University of Texas",
+          "link": "https://www.realclearpolitics.com/education/links/why-im-leaving-berkeley-for-university-of-texas-2026-11-23"
         },
         {
-          "title": "Race Is On: Dems' Wide-Open Presidential Primary",
-          "link": "https://www.realclearpolitics.com/presidential/links/race-is-on-dems-wide-open-presidential-primary-2026-11-22"
+          "title": "The End of Math?",
+          "link": "https://www.realclearpolitics.com/technology/links/the-end-of-math-2026-11-23"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-23T03:19:40.291Z"
+      "updatedAt": "2026-11-23T13:48:24.467Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Kennedy calls Trump, Putin and Xi meeting a 'good thing'",
-          "link": "https://thehill.com/policy/international/6236521-kennedy-calls-trump-putin-and-xi-meeting-a-good-thing/"
+          "title": "Trump says he's inclined to strike Iran after new year if no deal reached",
+          "link": "https://thehill.com/policy/international/6236693-donald-trump-iran-strikes-new-year/"
         },
         {
-          "title": "Van Hollen says Democrats have a 'generational opportunity' in the Senate, but the party is 'on probation'",
-          "link": "https://thehill.com/the-120/6236489-van-hollen-democrats-have-a-generational-opportunity-in-the-senate-but-the-party-is-on-probation/"
+          "title": "Live updates: Trump wades into Senate leadership fight; Democrats look to 2028",
+          "link": "https://thehill.com/homenews/administration/6236287-live-updates-donald-trump-goverment-spending-senate-leadership-fight-iran-war/"
         },
         {
-          "title": "Mamdani releases 84,000 more 9/11 records",
-          "link": "https://thehill.com/homenews/state-watch/6236426-zohran-mamdani-releases-new-911-records/"
+          "title": "Democrats won. Now what?",
+          "link": "https://thehill.com/opinion/campaign/6234440-jeffries-secures-house-leadership-victory/"
         },
         {
-          "title": "Russian ship docked in Libya hit in suspected drone attack",
-          "link": "https://thehill.com/policy/international/6236346-russian-ship-docked-in-libya-hit-in-suspected-drone-attack/"
+          "title": "Smarter permitting can solve America’s energy and affordability crises",
+          "link": "https://thehill.com/opinion/energy-environment/6234609-congress-permitting-reform/"
         },
         {
-          "title": "This Week on The Hill: Lawmakers break for Thanksgiving as year-end agenda looms",
-          "link": "https://thehill.com/premium/6234918-congress-lame-duck-agenda-thanksgiving-deadlines/"
+          "title": "Army detonation of lead azide moved to Wednesday in Iowa",
+          "link": "https://thehill.com/homenews/state-watch/6236662-iowa-army-detonation-lead-azide-resecheduled/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-23T03:19:41.087Z"
+      "updatedAt": "2026-11-23T13:48:24.934Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "Tri-screen portable monitors aren’t for the faint of heart",
+          "link": "https://arstechnica.com/gadgets/2026/11/a-triple-screen-portable-monitor-means-more-pixels-and-more-bulk/"
+        },
+        {
+          "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
+          "link": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/"
+        },
         {
           "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
           "link": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/"
@@ -100,21 +108,25 @@
         {
           "title": "“Race realism” isn’t realistic—and it isn’t good science",
           "link": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/"
-        },
-        {
-          "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
-          "link": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/"
-        },
-        {
-          "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
-          "link": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-23T03:19:41.174Z"
+      "updatedAt": "2026-11-23T13:48:24.991Z"
     },
     "The Verge": {
       "items": [
+        {
+          "title": "Amazon is taking orders for the Moto Tag 3 before it’s even been announced",
+          "link": "https://www.theverge.com/tech/1039903/motorola-moto-tag-3-tracker-amazon-leak"
+        },
+        {
+          "title": "Samsung’s absurd 1,100Hz gaming monitor hits shelves next month for $899.99",
+          "link": "https://www.theverge.com/games/1039838/samsungs-odyssey-g6-1100hz-gaming-monitor"
+        },
+        {
+          "title": "Meta Muse can do your Black Friday shopping at Walmart",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday"
+        },
         {
           "title": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
           "link": "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink"
@@ -122,86 +134,74 @@
         {
           "title": "We haven’t seen the last of the major tech outages",
           "link": "https://www.theverge.com/tech/1039851/major-tech-outages"
-        },
-        {
-          "title": "Delta flights in and out of Atlanta delayed due to system outage",
-          "link": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage"
-        },
-        {
-          "title": "Binding of Isaac developer removes AI music from Repentance Plus",
-          "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music"
-        },
-        {
-          "title": "Some of our favorite Switch 2 games are cheaper through Black Friday",
-          "link": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-23T03:19:41.428Z"
+      "updatedAt": "2026-11-23T13:48:25.025Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+          "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+          "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
           "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "What's next after no deal at COP31 climate talks?",
-          "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss"
+          "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+          "link": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
           "link": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
-          "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss"
+          "title": "Flights and train services cancelled in Belgium due to strike",
+          "link": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
-          "link": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss"
+          "title": "Mexican soldiers attacked in wake of drug lord's arrest",
+          "link": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
-          "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Three killed and dozens missing after fire at Indonesian factory",
-          "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss"
+          "title": "Presidential villa suffers water and power cuts, Nigerian leader says",
+          "link": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-23T03:19:41.640Z"
+      "updatedAt": "2026-11-23T13:48:25.101Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-          "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "What's next after no deal at COP31 climate talks?",
-          "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
-          "link": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Can AI spot breast cancer earlier? NHS launches world's largest trial to find out",
-          "link": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
-          "link": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+          "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
           "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Ukraine shares video of strikes on Russian ships off Libya",
+          "link": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Police investigate unknown substance that caused Manchester's Co-op Live evacuation",
+          "link": "https://www.bbc.co.uk/news/articles/c9e851dn8516o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Watch: What we know about Co-op Live 'major incident'",
+          "link": "https://www.bbc.co.uk/news/videos/cmn50yy0ypy3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+          "link": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Tyson Fury reveals schizophrenia diagnosis",
+          "link": "https://www.bbc.co.uk/sport/boxing/articles/c6y80n3dn15yo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-23T03:19:41.655Z"
+      "updatedAt": "2026-11-23T13:48:25.134Z"
     },
     "NY Times": {
       "items": [
@@ -210,27 +210,35 @@
           "link": "https://www.nytimes.com/2026/11/22/us/politics/alice-huang-china-spy-agency-nvidia.html"
         },
         {
-          "title": "Democrats Clinch 258 House Seats, an Election-Year Record This Century",
-          "link": "https://www.nytimes.com/2026/11/22/us/politics/democrats-midterm-house-majority-record.html"
+          "title": "Why U.N. Climate Talks Collapsed, and How China’s Spies Set Sights on A.I. Chips",
+          "link": "https://www.nytimes.com/2026/11/23/podcasts/the-headlines/un-climate-talks-china-spies-ai-chips.html"
         },
         {
-          "title": "Why Democrat Abdul El-Sayed is Talking Up ‘TrumpCare’",
-          "link": "https://www.nytimes.com/2026/11/22/us/politics/el-sayed-trump-health-care.html"
+          "title": "Wall Street Set to Bounce Back After Tech Sell-Off",
+          "link": "https://www.nytimes.com/2026/11/22/business/ai-stocks-sp500.html"
         },
         {
-          "title": "Democrat Chuck Hubbard Defeats 11-Term Republican Virginia Foxx in North Carolina",
-          "link": "https://www.nytimes.com/2026/11/22/us/virginia-foxx-chuck-hubbard-north-carolina-house.html"
+          "title": "Ukrainian Attack Off Coast of Libya Shows Reach of Kyiv’s Naval Drones",
+          "link": "https://www.nytimes.com/2026/11/23/world/europe/ukraine-libya-russian-ships.html"
         },
         {
-          "title": "Is Mexico Stepping Up in the War on Drugs?",
-          "link": "https://www.nytimes.com/2026/11/22/world/americas/mexico-us-cartel-arrests.html"
+          "title": "They Were Too Old to Enlist, but Not to Fight. Meet the Steppe Wolves of Ukraine.",
+          "link": "https://www.nytimes.com/2026/11/23/world/europe/ukraine-older-soldiers.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-23T03:19:41.781Z"
+      "updatedAt": "2026-11-23T13:48:25.180Z"
     },
     "ARTNews": {
       "items": [
+        {
+          "title": "Lucy Sante Talks About What Collage Enables That Writing Can’t",
+          "link": "https://www.artnews.com/art-in-america/columns/lucy-sante-interview-collage-1234806243/"
+        },
+        {
+          "title": "Art Basel Hong Kong Lines Up 232 Exhibitors and a New Floor Plan for Its 2027 Edition",
+          "link": "https://www.artnews.com/art-news/market/art-basel-hong-kong-2027-exhibitor-list-1234807256/"
+        },
         {
           "title": "Carolina Herrera’s Wes Gordon and Oribe’s Daniel Kaner on Collecting as a Personal Passion and a Creative Practice",
           "link": "https://www.artnews.com/art-news/news/wes-gordon-daniel-kaner-carolina-herrera-oribe-art-week-nyc-2026-1234806633/"
@@ -246,21 +254,21 @@
         {
           "title": "Maren Hassinger Won’t Be Weighed Down",
           "link": "https://www.artnews.com/art-in-america/aia-reviews/maren-hassinger-bampfa-retrospective-berkeley-1234806748/"
-        },
-        {
-          "title": "The 16 Most Expensive Artworks Ever Sold at Auction",
-          "link": "https://www.artnews.com/list/art-news/market/most-expensive-artworks-ever-sold-at-auction-1234736898/"
-        },
-        {
-          "title": "El Greco Masterpiece Gets Its Colors Back After More Than 400 Years",
-          "link": "https://www.artnews.com/art-news/news/el-greco-martyrdom-saint-maurice-restoration-1234807093/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-23T03:19:41.989Z"
+      "updatedAt": "2026-11-23T13:48:25.264Z"
     },
     "Hyperallergic": {
       "items": [
+        {
+          "title": "Miami Through the GTA VI Looking-Glass",
+          "link": "https://hyperallergic.com/miami-through-the-gta-vi-looking-glass/"
+        },
+        {
+          "title": "Inside Edward Said’s World",
+          "link": "https://hyperallergic.com/inside-edward-saids-world/"
+        },
         {
           "title": "Hail to the Squash King",
           "link": "https://hyperallergic.com/hail-to-the-squash-king/"
@@ -276,21 +284,17 @@
         {
           "title": "In a Midtown Office, Artists Sift Through the Junkspace of Capitalism",
           "link": "https://hyperallergic.com/in-a-midtown-office-artists-sift-through-the-junkspace-of-capitalism/"
-        },
-        {
-          "title": "The Venice Biennale's Sham Awards Cannot Artwash Genocide",
-          "link": "https://hyperallergic.com/the-venice-biennales-sham-awards-cannot-artwash-genocide/"
-        },
-        {
-          "title": "So You Want to Run an Artist’s Estate?",
-          "link": "https://hyperallergic.com/so-you-want-to-run-an-artists-estate/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-23T03:19:42.041Z"
+      "updatedAt": "2026-11-23T13:48:25.570Z"
     },
     "Contemporary Art Daily": {
       "items": [
+        {
+          "title": "Coumba Samba at Arcadia Missa",
+          "link": "https://www.contemporaryartdaily.com/project/coumba-samba-at-arcadia-missa-london-121039?source=rss"
+        },
         {
           "title": "Group Show at Trautwein Herleth",
           "link": "https://www.contemporaryartdaily.com/project/group-show-at-trautwein-herleth-berlin-119255?source=rss"
@@ -310,14 +314,10 @@
         {
           "title": "Tiphanie Kim Mall at Good Weather",
           "link": "https://www.contemporaryartdaily.com/project/tiphanie-kim-mall-at-good-weather-chicago-119321?source=rss"
-        },
-        {
-          "title": "Yuki Kimura at Josey",
-          "link": "https://www.contemporaryartdaily.com/project/yuki-kimura-at-josey-cologne-120213?source=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-23T03:19:42.445Z"
+      "updatedAt": "2026-11-23T13:48:26.280Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-23T03:19:42.522Z"
+      "updatedAt": "2026-11-23T13:48:26.380Z"
     }
   }
 }
