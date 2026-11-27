@@ -1,8 +1,24 @@
 {
-  "fetchedAt": "2026-11-26T23:39:24.380Z",
+  "fetchedAt": "2026-11-27T07:52:28.409Z",
   "feeds": {
     "MarketWatch": {
       "items": [
+        {
+          "title": "Is the stock market open on Black Friday?",
+          "link": "https://www.marketwatch.com/story/is-the-stock-market-open-on-black-friday-0a735c45?mod=mw_rss_topstories"
+        },
+        {
+          "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+          "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories"
+        },
+        {
+          "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+          "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories"
+        },
+        {
+          "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
+          "link": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories"
+        },
         {
           "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
           "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories"
@@ -10,56 +26,40 @@
         {
           "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
           "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories"
-        },
-        {
-          "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
-          "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories"
-        },
-        {
-          "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
-          "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories"
-        },
-        {
-          "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
-          "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories"
-        },
-        {
-          "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
-          "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-26T23:39:22.434Z"
+      "updatedAt": "2026-11-27T07:52:27.205Z"
     },
     "Fox News": {
       "items": [
         {
-          "title": "Iran accuses Zelenskyy of 'false flag' Kuwait drone strike op to get Trump's attention",
-          "link": "https://www.foxnews.com/world/iran-accuses-zelenskyy-false-flag-kuwait-drone-strike-op-get-trumps-attention"
+          "title": "Shopping with Friends: 8 Black Friday deals to shop now",
+          "link": "https://www.foxnews.com/deals/shopping-with-friends-black-friday-deals"
         },
         {
-          "title": "Trademark Dan Campbell fourth-down gamble backfires, opening door to stunning Bears comeback victory",
-          "link": "https://www.foxnews.com/outkick-sports/trademark-dan-campbell-fourth-down-gamble-backfires-opening-door-stunning-bears-comeback-victory"
+          "title": "Buffalo Bills outlast Kansas City Chiefs in defensive struggle to maintain top seed status in AFC",
+          "link": "https://www.foxnews.com/outkick-sports/buffalo-bills-outlast-kansas-city-chiefs-defensive-struggle-maintain-top-seed-status-afc"
         },
         {
-          "title": "Universities, schools nationwide use Thanksgiving as chance to promote 'Day of Mourning' and decolonization",
-          "link": "https://www.foxnews.com/politics/universities-schools-nationwide-use-thanksgiving-chance-promote-day-mourning-decolonization"
+          "title": "Mike Tomlin calls Steelers situation following Aaron Rodgers vs. Mike McCarthy feud 'a dumpster fire'",
+          "link": "https://www.foxnews.com/outkick-sports/mike-tomlin-calls-steelers-situation-following-aaron-rodgers-vs-mike-mccarthy-feud-dumpster-fire"
         },
         {
-          "title": "Chris Van Hollen gains celebrity donor backing as Fonda, De Niro and more support ditching Schumer in letter",
-          "link": "https://www.foxnews.com/media/chris-van-hollen-gains-celebrity-donor-backing-fonda-deniro-support-ditching-schumer-letter"
+          "title": "Strobe Talbott, former deputy secretary of state and Brookings Institution president, dies at 80",
+          "link": "https://www.foxnews.com/politics/strobe-talbott-former-deputy-secretary-state-brookings-institution-president-dies-80"
         },
         {
-          "title": "MAC admits that officials incorrectly cost Kent State touchdown with blown call against Eastern Michigan",
-          "link": "https://www.foxnews.com/outkick-sports/mac-admits-officials-incorrectly-cost-kent-state-touchdown-blown-call-against-eastern-michigan"
+          "title": "Putin's grip on Crimea tested amid major blackout as Zelenskyy warns of looming Russian strike",
+          "link": "https://www.foxnews.com/world/putins-grip-crimea-tested-amid-major-blackout-zelenskyy-warns-imminent-russia-strike"
         },
         {
-          "title": "‘Charlie Brown’ voice actor received zero residuals for nearly 50 years due to banned ’70s contract",
-          "link": "https://www.foxnews.com/entertainment/charlie-brown-voice-actor-received-zero-residuals-nearly-50-years-due-banned-70s-contract"
+          "title": "Eagles erase 21-point deficit to stun Cowboys with biggest Thanksgiving comeback in NFL history",
+          "link": "https://www.foxnews.com/outkick-sports/eagles-erase-21-point-deficit-stun-cowboys-biggest-thanksgiving-comeback-nfl-history"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-26T23:39:22.647Z"
+      "updatedAt": "2026-11-27T07:52:27.338Z"
     },
     "Real Clear Politics": {
       "items": [
@@ -89,33 +89,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-26T23:39:22.755Z"
+      "updatedAt": "2026-11-27T07:52:27.404Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Mexican leader rebukes US over DEA tip lines, claims 'interference'",
+          "title": "Zelensky on Trump calling Putin 'friend': 'Same as somebody saying about Hitler' in WWII",
+          "link": "https://thehill.com/policy/international/6245089-zelensky-calls-for-us-peace-progress/"
+        },
+        {
+          "title": "Trump: Iran war will be over 'sort of whenever I want it to be'",
+          "link": "https://thehill.com/homenews/administration/6245034-trump-says-iran-war-ends-whenever/"
+        },
+        {
+          "title": "Trump signals further openness to working with Democrats on healthcare",
+          "link": "https://thehill.com/homenews/administration/6245011-trump-democrats-healthcare-bipartisanship/"
+        },
+        {
+          "title": "El-Sayed shares how to navigate 'spicier' Thanksgiving conversations",
+          "link": "https://thehill.com/homenews/senate/6244988-el-sayed-thanksgiving-advice/"
+        },
+        {
+          "title": "Mexican leader rebukes US over DEA tip line, claims 'interference'",
           "link": "https://thehill.com/policy/international/6244966-sheinbaum-rebukes-dea-tip-line/"
-        },
-        {
-          "title": "Petition to oust US ambassador reaches Canadian Parliament",
-          "link": "https://thehill.com/homenews/administration/6244968-petition-expel-us-ambassador-hoekstra/"
-        },
-        {
-          "title": "Thanksgiving storms ground DC flights, knock out power for more than 850K",
-          "link": "https://thehill.com/policy/energy-environment/6244928-thanksgiving-storm-flight-delays-power-outages/"
-        },
-        {
-          "title": "Democrats’ plan to end funding for Iran war leaves open what comes next",
-          "link": "https://thehill.com/policy/international/6243997-democrats-seek-end-iran-war-questions/"
-        },
-        {
-          "title": "Emmer: GOP should have said it wasn't 'realistic' to fix economy in 2 years",
-          "link": "https://thehill.com/homenews/house/6244906-tom-emmer-republicans-economy-messaging/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-26T23:39:23.619Z"
+      "updatedAt": "2026-11-27T07:52:27.900Z"
     },
     "Ars Technica": {
       "items": [
@@ -141,7 +141,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-26T23:39:23.716Z"
+      "updatedAt": "2026-11-27T07:52:27.995Z"
     },
     "The Verge": {
       "items": [
@@ -167,17 +167,25 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-26T23:39:23.911Z"
+      "updatedAt": "2026-11-27T07:52:28.085Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+          "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
           "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+          "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
           "link": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+          "link": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
@@ -188,50 +196,42 @@
           "link": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
-          "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
           "link": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Pregnant US inmate escapes in prison vehicle after medical appointment",
-          "link": "https://www.bbc.co.uk/news/articles/c9m2jke85xzxo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-26T23:39:24.029Z"
+      "updatedAt": "2026-11-27T07:52:28.224Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Huntingdon train attacker found guilty of all 14 counts of attempted murder",
-          "link": "https://www.bbc.co.uk/news/articles/ck053j37yr9lo?at_medium=RSS&at_campaign=rss"
+          "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+          "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Knifeman told doctor his psychosis drugs weren't working days before Huntingdon attack",
-          "link": "https://www.bbc.co.uk/news/articles/ck62p4pzg4qyo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
+          "title": "Watch: Zelensky on Trump and Putin",
           "link": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "UK net migration at lowest level since 1997 as asylum claims also fall",
-          "link": "https://www.bbc.co.uk/news/articles/cq36gj12n0l3o?at_medium=RSS&at_campaign=rss"
+          "title": "'I wouldn't be here today without you': Student's praise for man who stopped train attacker",
+          "link": "https://www.bbc.co.uk/news/articles/ck792lq4xrero?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Drug rape husband says wife 'would have been terrified', court hears",
-          "link": "https://www.bbc.co.uk/news/articles/ck053epz2ppmo?at_medium=RSS&at_campaign=rss"
+          "title": "Met Police ruined my life, says Kenyan man wrongly convicted over attack on UK couple",
+          "link": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "UK to pay 'participation' fee to deliver EU deals",
           "link": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "NHS boss warns of 'horrible spike' in flu as hospital admissions surge",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-26T23:39:24.044Z"
+      "updatedAt": "2026-11-27T07:52:28.239Z"
     },
     "NY Times": {
       "items": [
@@ -240,24 +240,24 @@
           "link": "https://www.nytimes.com/2026/11/26/nyregion/macys-thanksgiving-day-parade-empty-streets.html"
         },
         {
-          "title": "Macy’s Thanksgiving Day Parade Upends Plans and Adds Costs for Marching Bands",
-          "link": "https://www.nytimes.com/2026/11/25/nyregion/macys-thanksgiving-day-parade-marching-bands.html"
-        },
-        {
           "title": "Thanksgiving Parade Balloons Are Deflated in New York",
           "link": "https://www.nytimes.com/2026/11/26/nyregion/macys-parade-balloons-thanksgiving.html"
         },
         {
-          "title": "The Army Knew Much Earlier of the Explosive Risk in Iowa, Evidence Suggests",
-          "link": "https://www.nytimes.com/2026/11/26/us/iowa-lead-ammunition-stockpile-history.html"
+          "title": "Tonight’s Forecast Is Rain, Wind — and Leftover Turkey",
+          "link": "https://www.nytimes.com/2026/11/27/nyregion/national-weather-service-thanksgiving-storm.html"
         },
         {
-          "title": "Democrats Confront a Familiar Question: How Are You Going to Pay for That?",
-          "link": "https://www.nytimes.com/2026/11/26/business/democrats-congress-agenda-taxes-spending.html"
+          "title": "After the Iowa Detonation, a Family Gathered for an Unusual Thanksgiving",
+          "link": "https://www.nytimes.com/2026/11/26/us/iowa-detonation-family-thanksgiving.html"
+        },
+        {
+          "title": "The Army Knew Much Earlier of the Explosive Risk in Iowa, Evidence Suggests",
+          "link": "https://www.nytimes.com/2026/11/26/us/iowa-lead-ammunition-stockpile-history.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-26T23:39:24.171Z"
+      "updatedAt": "2026-11-27T07:52:28.268Z"
     }
   },
   "indices": {
@@ -279,13 +279,13 @@
       },
       {
         "name": "Gold",
-        "price": 3593.2,
-        "pct": 2.2131194174204847
+        "price": 3684.2,
+        "pct": 4.801729532912321
       },
       {
         "name": "Bitcoin",
-        "price": 60322.13,
-        "pct": -1.373044105391748
+        "price": 61629.83,
+        "pct": 0.6842660787809015
       },
       {
         "name": "SpaceX",
@@ -294,6 +294,6 @@
       }
     ],
     "ok": true,
-    "updatedAt": "2026-11-26T23:39:24.379Z"
+    "updatedAt": "2026-11-27T07:52:28.409Z"
   }
 }
