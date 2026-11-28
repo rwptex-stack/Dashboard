@@ -1,94 +1,98 @@
 {
-  "fetchedAt": "2026-11-28T11:01:49.527Z",
+  "fetchedAt": "2026-11-28T19:14:58.458Z",
   "feeds": {
     "Fox News": {
       "items": [
         {
-          "title": "Texas attorney general-elect refuses to defend Ten Commandments classroom law",
-          "link": "https://www.foxnews.com/politics/texas-attorney-general-elect-refuses-defend-ten-commandments-classroom-law"
+          "title": "Magnitude 5.0 earthquake rocks Southern California Saturday morning ahead of USC-UCLA showdown",
+          "link": "https://www.foxnews.com/outkick-sports/magnitude-5-0-earthquake-rocks-southern-california-saturday-morning-ahead-usc-ucla-showdown"
         },
         {
-          "title": "Shop Small Business Saturday for fruit trees, Advent calendars and more",
-          "link": "https://www.foxnews.com/deals/shopping-with-friends-small-business-saturday"
+          "title": "Ukrainian strongwoman who ‘lost everything’ in war now fighting to stay in America",
+          "link": "https://www.foxnews.com/politics/ukrainian-strongwoman-lost-everything-war-fighting-stay-america"
         },
         {
-          "title": "Why Mamdani’s move to close infamous NYC jail could be 'massive hit' that reverberates for years: expert",
-          "link": "https://www.foxnews.com/politics/why-mamdanis-move-close-infamous-nyc-jail-could-be-massive-hit-reverberates-years-expert"
+          "title": "‘Chicago Fire’ star Anthony Ferraris was nearly killed battling a blaze in real life",
+          "link": "https://www.foxnews.com/entertainment/chicago-fire-star-anthony-ferraris-nearly-killed-battling-blaze-real-life"
         },
         {
-          "title": "Arch Manning, Longhorns avoid scare against Texas A&M to punch ticket to SEC Championship Game",
-          "link": "https://www.foxnews.com/outkick-sports/arch-manning-longhorns-avoid-scare-against-texas-am-punch-ticket-sec-championship-game"
+          "title": "Thanksgiving flight disruptions could persist through Tuesday with 50,000-plus daily flights ahead",
+          "link": "https://www.foxnews.com/us/thanksgiving-flight-disruptions-persist-tuesday-50000-plus-daily-flights-ahead"
         },
         {
-          "title": "Former SEC head coach who landed in the Group of 5 abruptly steps down after underwhelming five-year run",
-          "link": "https://www.foxnews.com/outkick-sports/former-sec-head-coach-landed-group-5-abruptly-steps-down-underwhelming-five-year-run"
+          "title": "This TV is $2,500 off for Cyber Week, and it may be the best deal of the season",
+          "link": "https://www.foxnews.com/deals/hisense-tv-black-friday-cyber-monay-deal"
         },
         {
-          "title": "Former Bears star Revie Sorey, who blocked for Walter Payton, dead at 73",
-          "link": "https://www.foxnews.com/outkick-sports/former-bears-star-revie-sorey-blocked-walter-payton-dead-73"
+          "title": "Former Bond girl Madeline Smith says she turned down advances from Sean Connery and a naked Warren Beatty",
+          "link": "https://www.foxnews.com/entertainment/former-bond-girl-madeline-smith-turned-down-advances-sean-connery-naked-warren-beatty"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-28T11:01:46.964Z"
+      "updatedAt": "2026-11-28T19:14:56.093Z"
     },
     "Real Clear Politics": {
       "items": [
         {
-          "title": "Don't Punish Me for Saying Trans Surgery Was Mistake",
-          "link": "https://www.realclearpolitics.com/health-care/links/dont-punish-me-for-saying-trans-surgery-was-mistake-2026-11-27"
+          "title": "A ‘Free-Speech Refugee’ From Britain",
+          "link": "https://www.realclearpolitics.com/free-speech/links/a-free-speech-refugee-from-britain-2026-11-28"
         },
         {
-          "title": "Trust Me, Big Tech Has Stopped Taking AI Safety Seriously",
-          "link": "https://www.realclearpolitics.com/technology/links/trust-me-big-tech-has-stopped-taking-ai-safety-seriously-2026-11-27"
+          "title": "For Critics, Trump Enters New Walls-Closing-In Stage",
+          "link": "https://www.realclearpolitics.com/executive/links/for-critics-trump-enters-new-walls-closing-in-stage-2026-11-28"
         },
         {
-          "title": "Migration at 7x Rate Will Lead to Authoritarian Government",
-          "link": "https://www.realclearpolitics.com/immigration/links/migration-at-7x-rate-will-lead-to-authoritarian-government-2026-11-27"
+          "title": "A RealClear Thanksgiving: Investing in a Better Future",
+          "link": "https://www.realclearpolitics.com/north-america/links/a-realclear-thanksgiving-investing-in-a-better-future-2026-11-28"
         },
         {
-          "title": "How Europe Comes Apart",
-          "link": "https://www.realclearpolitics.com/europe/links/how-europe-comes-apart-2026-11-27"
+          "title": "The Algorithmic Tilt",
+          "link": "https://www.realclearpolitics.com/technology/links/the-algorithmic-tilt-2026-11-28"
         },
         {
-          "title": "The Last Days of Labor in Britain",
-          "link": "https://www.realclearpolitics.com/europe/links/the-last-days-of-labor-in-britain-2026-11-27"
+          "title": "The Good News About Homelessness Comes With a Catch",
+          "link": "https://www.realclearpolitics.com/crime/links/the-good-news-about-homelessness-comes-with-a-catch-2026-11-28"
         },
         {
-          "title": "The 2028 Presidential Election Is All About Trump",
-          "link": "https://www.realclearpolitics.com/presidential/links/the-2028-presidential-election-is-all-about-trump-2026-11-27"
+          "title": "Democrats Keep Stoking Anti-ICE Violence",
+          "link": "https://www.realclearpolitics.com/immigration/links/democrats-keep-stoking-anti-ice-violence-2026-11-28"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-28T11:01:47.075Z"
+      "updatedAt": "2026-11-28T19:14:56.246Z"
     },
     "The Hill": {
       "items": [
         {
-          "title": "Texas AG-elect won't defend Ten Commandments classroom law",
-          "link": "https://thehill.com/homenews/state-watch/6245846-texas-ag-johnson-ten-commandments/"
+          "title": "Canada new border entry laws, modeled after CBP, to go into effect in December",
+          "link": "https://thehill.com/policy/international/6246114-new-canadian-border-rules-cbp/"
         },
         {
-          "title": "Dean says 'Pennsylvania deserves better' as she mulls challenging Fetterman",
-          "link": "https://thehill.com/homenews/house/6245814-madeleine-dean-senate-bid-fetterman/"
+          "title": "France is facing a fiscal reckoning. The US should pay attention.",
+          "link": "https://thehill.com/opinion/finance/6242022-france-riots-us-fiscal-crisis/"
         },
         {
-          "title": "Mamdani recovering after 'successful' Achilles surgery",
-          "link": "https://thehill.com/homenews/state-watch/6245795-nyc-mayor-achilles-surgery-success/"
+          "title": "Bipartisan lawmakers mourn 'trailblazer' New York state Sen. Stewart-Cousins",
+          "link": "https://thehill.com/homenews/state-watch/6246105-new-york-senate-leader-death-tributes/"
         },
         {
-          "title": "15 hospitalized in potential Thanksgiving food poisoning at Florida medical center",
-          "link": "https://thehill.com/homenews/state-watch/6245776-leon-medical-center-food-poisoning/"
+          "title": "Live updates: Postponed Macy's parade ends; Democrats prepare for Congress takeover",
+          "link": "https://thehill.com/homenews/state-watch/6245941-live-updates-macys-parade-democrats-congress/"
         },
         {
-          "title": "Meta whistleblower says gag order reminiscent of '1984'",
-          "link": "https://thehill.com/policy/technology/6245761-sarah-wynn-williams-meta-gag-order/"
+          "title": "Libraries are the last bastion of affordability",
+          "link": "https://thehill.com/opinion/congress-blog/economy-budget/6245553-public-library-funding-threatened/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-28T11:01:47.452Z"
+      "updatedAt": "2026-11-28T19:14:56.793Z"
     },
     "Ars Technica": {
       "items": [
+        {
+          "title": "2026 Kindle Paperwhite review: Page-turn buttons are back, for a price",
+          "link": "https://arstechnica.com/gadgets/2026/11/2026-kindle-paperwhite-review-page-turn-buttons-are-back-for-a-price/"
+        },
         {
           "title": "The best Black Friday deals Ars could find",
           "link": "https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/"
@@ -104,130 +108,126 @@
         {
           "title": "Volvo's big batteries: We drive its updated 2028 plug-in hybrids",
           "link": "https://arstechnica.com/cars/2026/11/volvos-big-batteries-we-drive-its-updated-2028-plug-in-hybrids/"
-        },
-        {
-          "title": "Ford unveils the GT41 as it hopes to win Le Mans again",
-          "link": "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-28T11:01:47.568Z"
+      "updatedAt": "2026-11-28T19:14:56.929Z"
     },
     "The Verge": {
       "items": [
         {
-          "title": "The M5 MacBook Air just got its biggest discount since Apple raised the price",
-          "link": "https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale"
+          "title": "Almost every great Black Friday deal is still happening this weekend",
+          "link": "https://www.theverge.com/gadgets/1045110/best-black-friday-still-happening-2026-deals-tech-gadgets-gift-ideas"
         },
         {
-          "title": "The absolute best Black Friday deals you can still get",
-          "link": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas"
+          "title": "Samsung is testing a feature that changes the angle of photos you’ve already taken",
+          "link": "https://www.theverge.com/tech/1045337/samsung-recompose-ai-camera"
         },
         {
-          "title": "We found 60-odd Black Friday deals we love for $100 or less",
-          "link": "https://www.theverge.com/gadgets/1043445/black-friday-best-cheap-tech-deals-under-100-2026"
+          "title": "You can save $20 on Nimble’s splittable 10,000mAh power bank right now",
+          "link": "https://www.theverge.com/gadgets/1044906/nimble-sharepower-portable-charger-black-friday-2026-deal-sale"
         },
         {
-          "title": "This purple electric Chinese minivan can go up to 559 miles on a charge",
-          "link": "https://www.theverge.com/transportation/1044706/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charge"
+          "title": "You can get a Pixel 11 Pro for what flagship phones used to cost",
+          "link": "https://www.theverge.com/gadgets/1042667/google-pixel-11-pro-xl-10a-black-friday-2026-deal-sale"
         },
         {
-          "title": "The best Black Friday deals you can still get on AirPods, Macs, and other Apple gear",
-          "link": "https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026"
+          "title": "Here’s what other Verge readers bought during Black Friday",
+          "link": "https://www.theverge.com/gadgets/1045251/what-verge-readers-bought-black-friday"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-28T11:01:47.728Z"
+      "updatedAt": "2026-11-28T19:14:57.061Z"
     },
     "BBC World": {
       "items": [
         {
-          "title": "Seven students killed and nearly 100 injured in explosion in Afghanistan, official says",
-          "link": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss"
+          "title": "Argentina's bid to stop Falklands oil drilling rejected",
+          "link": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Dozens killed in Myanmar military strikes on wedding venue and school",
+          "link": "https://www.bbc.co.uk/news/articles/cm752q30q5leo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
           "link": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Spanish PM and rivals rally supporters in final pitch for votes",
-          "link": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss"
+          "title": "OpenAI counter-sues Apple over alleged theft of trade secrets",
+          "link": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
-          "link": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Eight killed in Peruvian military helicopter crash",
-          "link": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
-          "link": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss"
+          "title": "Afghanistan explosion kills 10 students and injures more than 100, official says",
+          "link": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Australian wrestler Bronson Reed dies aged 38, WWE says",
           "link": "https://www.bbc.co.uk/news/articles/cvwy08g70ldko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+          "link": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-28T11:01:47.843Z"
+      "updatedAt": "2026-11-28T19:14:57.233Z"
     },
     "BBC News": {
       "items": [
         {
-          "title": "Pensions and benefits services still down after 'cyber incident'",
-          "link": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss"
+          "title": "Argentina's bid to stop Falklands oil drilling rejected",
+          "link": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Catherine's emotional cancer documentary strips away the stiff upper lip",
-          "link": "https://www.bbc.co.uk/news/articles/c6zxvy9j0wpjo?at_medium=RSS&at_campaign=rss"
+          "title": "Burnham's No 10 influencer row shows reach matters - but so does scrutiny",
+          "link": "https://www.bbc.co.uk/news/articles/c6074pyreg2eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Dozens killed in Myanmar military strikes on wedding venue and school",
+          "link": "https://www.bbc.co.uk/news/articles/cm752q30q5leo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Swinney insists Scotland's NHS is safe despite hospital scandal",
+          "link": "https://www.bbc.co.uk/news/articles/c6p3ev43lkk3o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
           "link": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Seven students killed and nearly 100 injured in explosion in Afghanistan, official says",
-          "link": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Pharmacies get new powers to swap prescriptions during shortages",
-          "link": "https://www.bbc.co.uk/news/articles/cw5y1pelzm8ro?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Set time aside for children to read for pleasure, schools to be told",
-          "link": "https://www.bbc.co.uk/news/articles/c65y1vp4ndqjo?at_medium=RSS&at_campaign=rss"
+          "title": "'I don't know what I'd do without it': Is this the end for Poundland?",
+          "link": "https://www.bbc.co.uk/news/articles/c65y1l9j7j9ko?at_medium=RSS&at_campaign=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-28T11:01:47.932Z"
+      "updatedAt": "2026-11-28T19:14:57.275Z"
     },
     "NY Times": {
       "items": [
         {
-          "title": "Millions of Children Are Losing Food Stamps",
-          "link": "https://www.nytimes.com/2026/11/28/us/politics/millions-of-children-are-losing-food-stamps.html"
+          "title": "Trump’s SNAP Cuts Are Costing Millions of Children Food Stamps",
+          "link": "https://www.nytimes.com/2026/11/28/us/politics/snap-cuts-children-trump.html"
         },
         {
           "title": "Ukraine’s Deep Strikes Grow in Scale and Scope Across Russia and Beyond",
           "link": "https://www.nytimes.com/2026/11/28/world/europe/ukraine-russia-long-range-strikes.html"
         },
         {
-          "title": "Freed From a Notorious Syrian Prison, but Still Trapped by Its Terror",
-          "link": "https://www.nytimes.com/2026/11/28/world/middleeast/freed-from-a-notorious-syrian-prison-but-still-trapped-by-its-terror.html"
-        },
-        {
           "title": "My Balloon Training for the Macy’s Thanksgiving Day Parade",
           "link": "https://www.nytimes.com/2026/11/25/podcasts/the-daily/dont-let-go-my-balloon-training-for-the-macys-thanksgiving-day-parade.html"
         },
         {
-          "title": "Some Americans canceled or postponed Thanksgiving dinners amid power outages and storms.",
-          "link": "https://www.nytimes.com/2026/11/27/us/thanksgiving-delayed-storm.html"
+          "title": "A Big Bookstore Arrives Near a Shop on the Corner. This Isn’t a Movie.",
+          "link": "https://www.nytimes.com/2026/11/28/nyregion/small-bookstore-barnes-and-noble.html"
+        },
+        {
+          "title": "France’s Bookstores, Beloved Curators of Literature, Are in a Deep Crisis",
+          "link": "https://www.nytimes.com/2026/11/27/world/europe/france-bookstore-crisis-closures.html"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-28T11:01:47.994Z"
+      "updatedAt": "2026-11-28T19:14:57.378Z"
     },
     "ARTNews": {
       "items": [
@@ -257,7 +257,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-28T11:01:48.281Z"
+      "updatedAt": "2026-11-28T19:14:57.640Z"
     },
     "Hyperallergic": {
       "items": [
@@ -292,6 +292,14 @@
     "Contemporary Art Daily": {
       "items": [
         {
+          "title": "Rafael Delacruz at Hoffman Donahue",
+          "link": "https://www.contemporaryartdaily.com/project/rafael-delacruz-at-hoffman-donahue-new-york-121731?source=rss"
+        },
+        {
+          "title": "<i>Zero Figures</i> at Bodenrader",
+          "link": "https://www.contemporaryartdaily.com/project/zero-figures-at-bodenrader-chicago-121601?source=rss"
+        },
+        {
           "title": "<i>The Monkey and the Clay</i> at Fondation d‘entreprise Martell",
           "link": "https://www.contemporaryartdaily.com/project/the-monkey-and-the-clay-at-fondation-d-entreprise-martell-cognac-76322?source=rss"
         },
@@ -306,18 +314,10 @@
         {
           "title": "Xanti Schawinsky at Galerie Gregor Staiger",
           "link": "https://www.contemporaryartdaily.com/project/xanti-schawinsky-at-galerie-gregor-staiger-zurich-122390?source=rss"
-        },
-        {
-          "title": "Nicolas Ceccaldi at Can",
-          "link": "https://www.contemporaryartdaily.com/project/nicolas-ceccaldi-at-can-vienna-121103?source=rss"
-        },
-        {
-          "title": "Atiéna R. Kilfa at Cabinet",
-          "link": "https://www.contemporaryartdaily.com/project/atiena-r-kilfa-at-cabinet-london-121169?source=rss"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-28T11:01:49.186Z"
+      "updatedAt": "2026-11-28T19:14:58.355Z"
     },
     "Booooooom": {
       "items": [
@@ -347,7 +347,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-28T11:01:49.527Z"
+      "updatedAt": "2026-11-28T19:14:58.458Z"
     }
   }
 }
